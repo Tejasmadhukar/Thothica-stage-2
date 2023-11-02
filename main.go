@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/advancedlogic/GoOse"
 	"log"
 	"net/http"
 	"os"
@@ -18,6 +19,7 @@ var (
 	bad_articles   = 0
 	data           []map[string]interface{}
 	client         = &http.Client{}
+	g              = goose.New()
 )
 
 func process_article(obj map[string]interface{}) {
@@ -25,26 +27,19 @@ func process_article(obj map[string]interface{}) {
 
 	fmt.Println(read_link)
 
-	req, err := http.NewRequest("GET", read_link, nil)
+	article, err := g.ExtractFromURL(read_link)
 	if err != nil {
-		log.Fatal(err)
-	}
-
-	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
-
-	res, err := client.Do(req)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	defer res.Body.Close()
-
-	if res.StatusCode != 200 {
 		bad_articles += 1
-		fmt.Println("Could not get article", obj["title"].(string))
+		fmt.Println("Could not get article titled", obj["title"].(string))
 		return
 	}
-	fmt.Println(res.StatusCode)
+
+	println("title", article.Title)
+	println("description", article.MetaDescription)
+	println("keywords", article.MetaKeywords)
+	println("content", article.CleanedText)
+	println("url", article.FinalURL)
+	println("top image", article.TopImage)
 }
 
 func main() {
@@ -64,6 +59,8 @@ func main() {
 		if err != nil {
 			log.Fatal(err)
 		}
+
+		defer f.Close()
 
 		err = json.NewDecoder(f).Decode(&data)
 		if err != nil {
@@ -88,8 +85,7 @@ func main() {
 			process_article(obj)
 
 		}
-
-		f.Close()
 	}
+
 	fmt.Println(total_articles, bad_articles)
 }

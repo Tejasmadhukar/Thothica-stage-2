@@ -20,6 +20,33 @@ var (
 	client         = &http.Client{}
 )
 
+func process_article(obj map[string]interface{}) {
+	read_link := obj["readLink"].(string)
+
+	fmt.Println(read_link)
+
+	req, err := http.NewRequest("GET", read_link, nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
+
+	res, err := client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer res.Body.Close()
+
+	if res.StatusCode != 200 {
+		bad_articles += 1
+		fmt.Println("Could not get article", obj["title"].(string))
+		return
+	}
+	fmt.Println(res.StatusCode)
+}
+
 func main() {
 	fmt.Println("Reading files from", input_dir)
 
@@ -58,30 +85,7 @@ func main() {
 				}
 			}
 
-			read_link := obj["readLink"].(string)
-
-			fmt.Println(read_link)
-
-			req, err := http.NewRequest("GET", read_link, nil)
-			if err != nil {
-				log.Fatal(err)
-			}
-
-			req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
-
-			res, err := client.Do(req)
-			if err != nil {
-				log.Fatal(err)
-			}
-
-			defer res.Body.Close()
-
-			if res.StatusCode != 200 {
-				bad_articles += 1
-				fmt.Println("Could not get article", f.Name())
-				continue Loop
-			}
-			fmt.Println(res.StatusCode)
+			process_article(obj)
 
 		}
 

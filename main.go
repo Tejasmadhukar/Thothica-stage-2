@@ -69,19 +69,19 @@ func main() {
 
 			req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
 
-      res, err := client.Do(req)
-      if err != nil {
-        log.Fatal(err)
-      }
+			res, err := client.Do(req)
+			if err != nil {
+				log.Fatal(err)
+			}
 
-      defer res.Body.Close()
+			defer res.Body.Close()
 
-      if res.StatusCode != 200 {
-        bad_articles += 1
-        fmt.Println("Could not get article", f.Name())
-        continue Loop
-      }
-      fmt.Println(res.StatusCode)
+			if res.StatusCode != 200 {
+				bad_articles += 1
+				fmt.Println("Could not get article", f.Name())
+				continue Loop
+			}
+			fmt.Println(res.StatusCode)
 
 		}
 

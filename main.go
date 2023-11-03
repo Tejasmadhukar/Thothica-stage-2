@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"sync"
 
 	goose "github.com/advancedlogic/GoOse"
 )
@@ -20,6 +21,7 @@ var (
 	bad_articles   = 0
 	data           []map[string]interface{}
 	g              = goose.New()
+	wg             sync.WaitGroup
 )
 
 type Article struct {
@@ -30,7 +32,9 @@ type Article struct {
 	Title_URL string
 }
 
-func process_article(obj map[string]interface{}) {
+func process_article(obj map[string]interface{}, wg *sync.WaitGroup) {
+	defer wg.Done()
+
 	read_link := obj["readLink"].(string)
 	title := obj["title"].(string)
 
@@ -122,10 +126,13 @@ func main() {
 				}
 			}
 
-			process_article(obj)
+			wg.Add(1)
+			go process_article(obj, &wg)
 
 		}
 	}
+
+	wg.Wait()
 
 	fmt.Println(total_articles, bad_articles)
 }

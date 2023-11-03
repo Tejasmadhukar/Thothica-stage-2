@@ -1,12 +1,13 @@
 package main
 
 import (
+	"bufio"
 	"encoding/json"
 	"fmt"
-	"github.com/advancedlogic/GoOse"
 	"log"
-	"net/http"
 	"os"
+
+	goose "github.com/advancedlogic/GoOse"
 )
 
 const (
@@ -18,28 +19,67 @@ var (
 	total_articles = 0
 	bad_articles   = 0
 	data           []map[string]interface{}
-	client         = &http.Client{}
 	g              = goose.New()
 )
 
+type Article struct {
+	Title     string
+	Content   string
+	Author    []interface{}
+	Publisher string
+	Title_URL string
+}
+
 func process_article(obj map[string]interface{}) {
 	read_link := obj["readLink"].(string)
-
-	fmt.Println(read_link)
+	title := obj["title"].(string)
 
 	article, err := g.ExtractFromURL(read_link)
 	if err != nil {
 		bad_articles += 1
-		fmt.Println("Could not get article titled", obj["title"].(string))
+		fmt.Println("Could not get article titled", title)
+		fmt.Println(err)
 		return
 	}
 
-	println("title", article.Title)
-	println("description", article.MetaDescription)
-	println("keywords", article.MetaKeywords)
-	println("content", article.CleanedText)
-	println("url", article.FinalURL)
-	println("top image", article.TopImage)
+	finalArticle := &Article{
+		Title:     title,
+		Content:   article.CleanedText,
+		Author:    obj["authors"].([]interface{}),
+		Publisher: obj["publisher"].(string),
+		Title_URL: article.FinalURL,
+	}
+
+	jsonArticle, err := json.Marshal(finalArticle)
+	if err != nil {
+		bad_articles += 1
+		fmt.Println("Could not Marshal article", title, "to json")
+		return
+	}
+
+	newFilePath := output_dir + "/" + title + ".json"
+
+	file, err := os.Create(newFilePath)
+	if err != nil {
+		bad_articles += 1
+		fmt.Println("Error creating file for", title)
+		fmt.Println(err)
+		return
+	}
+
+	defer file.Close()
+
+	writer := bufio.NewWriter(file)
+
+	_, err = writer.Write(jsonArticle)
+	if err != nil {
+		fmt.Println("Error writing json to file", title)
+		bad_articles += 1
+		fmt.Println(err)
+		return
+	}
+
+	writer.Flush()
 }
 
 func main() {

@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Acheulean Diversity in Britain (MIS 15-MIS11): From the Standardization to the Regionalization of Technology",
+    "authors": [
+      "Paula García-Medrano,",
+      "Paula García-Medrano,",
+      "Paula García-Medrano,",
+      "Paula García-Medrano,",
+      "Ceri Shipton,",
+      "Mark White,",
+      "Nick Ashton"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2022.917207",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "The appearance of the Acheulean and the production of new bifacial tools marked a revolution in human behavior. The use of longer and complex operative chains, with centripetal and recurrent knapping, adapted to different raw materials, created long useful edges, converging in a functional distal end. How and why these handaxes vary has been the subject of intense debates. Britain provides a clearly defined region at the edge of the hominin occupied world for discussing variation in Acheulean assemblages. The environmental changes from MIS 15 to MIS 11 are significant in understanding population change, with probable breaks in evidence during MIS 14 and MIS 12, followed by several sites during the long stable climate of MIS11c. In this latter period, different Acheulean technological expressions appear to coexist in Britain. This paper draws together different studies, combining technology and geometric morphometrics to analyze handaxes from six British sites: Brandon Fields, Boxgrove (Q1B), High Lodge, Hitchin, Swanscombe (UMG), and Elveden. Compared to the earlier Acheulean of MIS 15, the assemblages of MIS 13 show increased standardization and the use of soft hammer percussion for thinning mid-sections and butts of tools, or sharpening tips through tranchet removals. Although there is regional population discontinuity through MIS12 there is no evidence of a marked change in technology after this glacial period. Rather, there is a development towards more intense shaping with the same underlying techniques, but with flexibility in imposed handaxe form. From MIS11 there appear to be distinctive localized traditions of manufacture, which suggest that a recognition of place and territories had developed by this time. These are expressed over medium time-scales of several thousand years and have significance for how we view cultural expression and transmission.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2022.917207/full"
+  },
+  {
+    "title": "Case Study on Life Cycle Assessment Applied to Road Restoration Methods",
+    "authors": [
+      "Gislaine Luvizão,",
+      "Glicério Trichês"
+    ],
+    "doi": "https://doi.org/10.3390/su15086679",
+    "journalVolume": "Vol. 15,\n                                no. 6679\n                                \n                                  p.\n                                  6679",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Brazil’s dependence on road transportation, combined with the high extent of the network and the lack of investment management in maintenance and restoration, makes traffic conditions poor, resulting in unwanted costs and environmental impacts. Life cycle assessments are a promising tool that assists in decision making. This study aimed to evaluate the environmental performance of three roads, applying different restoration and maintenance techniques throughout the analysis cycle. To develop this study, the ecoinvent database and the OpenLCA software were used to model, based on studies developed in the HDM-4 (Highway Development and Management) software, and the interventions were applied for the initial year and for 30 years. Using the life cycle assessment methodology, the environmental impacts generated for the categories of acidification, climate change, eutrophication, ecotoxicity, human toxicity and photochemical oxidation were identified. The results show that, when analyzing the restorations in their implementation, deep recycling generates more environmental impacts; however, when planning the restorations throughout the cycle, deep recycling becomes, on average, 47% less impactful than the structural reinforcement technique, which is the same behavior that has been identified with the Whitetopping technique. It becomes evident that the use of rigid structures, such as Whitetopping or semi-rigid structures and deep recycling with Portland cement additions, generate fewer environmental impacts when compared to flexible structures that consume a large amount of asphalt binder, and that require interventions at shorter intervals.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/8/6679"
+  },
+  {
+    "title": "Characterizing Wetland Inundation and Vegetation Dynamics in the Arctic Coastal Plain Using Recent Satellite Data and Field Photos",
+    "authors": [
+      "Zhenhua Zou,",
+      "Ben DeVries,",
+      "Chengquan Huang,",
+      "Megan  W. Lang,",
+      "Sydney Thielke,",
+      "Greg  W. McCarty,",
+      "Andrew  G. Robertson,",
+      "Jeff Knopf,",
+      "Aaron  F. Wells,",
+      "Matthew  J. Macander,",
+      "Ling Du"
+    ],
+    "doi": "https://doi.org/10.3390/rs13081492",
+    "journalVolume": "Vol. 13,\n                                no. 1492\n                                \n                                  p.\n                                  1492",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Arctic wetlands play a critical role in the global carbon cycle and are experiencing disproportionate impacts from climate change. Even though Alaska hosts 65% of U.S. wetlands, less than half of the wetlands in Alaska have been mapped by the U.S. Fish and Wildlife Service National Wetlands Inventory (NWI) or other high-resolution wetlands protocols. The availability of time series satellite data and the development of machine learning algorithms have enabled the characterization of Arctic wetland inundation dynamics and vegetation types with limited ground data input. In this study, we built a semi-automatic process to generate sub-pixel water fraction (SWF) maps across the Coastal Plain of the Arctic National Wildlife Refuge (ANWR) in Alaska using random forest regression and 139 Sentinel-2 images taken in ice-free seasons from 2016 to 2019. With this, we characterized the seasonal dynamics of wetland inundation and explored their potential usage in determining NWI water regimes. The highest levels of surface water expression were detected in June, resulting from seasonal active layer thaw and snowmelt. Inundation was most variable in riverbeds, lake and pond margins, and depressional wetlands, where water levels fluctuate substantially between dry and wet seasons. NWI water regimes that indicate frequent inundation, such as permanently flooded wetlands, had high SWF values (SWF ≥ 90%), while those with infrequent inundation, such as temporarily flooded wetlands, had low SWF values (SWF 2 over the last three decades, which is the largest percentage change (182%) among all vegetation types. However, additional field data are needed to confirm this shift in vegetation type. This study demonstrates the potential of using time series satellite data and machine learning algorithms in characterizing inundation dynamics and vegetation types of Arctic wetlands. This approach could aid in the creation and maintenance of wetland inventories, including the NWI, in Arctic regions and enable an improved understanding of long-term wetland dynamics.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/8/1492"
+  },
+  {
+    "title": "Potential climatic impacts and reliability of very large-scale wind farms",
+    "authors": [
+      "C. Wang,",
+      "R. G. Prinn"
+    ],
+    "doi": "Vol. 10,\n                                no. 4\n                                \n                                  pp.\n                                  2053\n                                  – 2061",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Meeting future world energy needs while addressing climate change requires large-scale deployment of low or zero greenhouse gas (GHG) emission technologies such as wind energy. The widespread availability of wind power has fueled substantial interest in this renewable energy source as one of the needed technologies. For very large-scale utilization of this resource, there are however potential environmental impacts, and also problems arising from its inherent intermittency, in addition to the present need to lower unit costs. To explore some of these issues, we use a three-dimensional climate model to simulate the potential climate effects associated with installation of wind-powered generators over vast areas of land or coastal ocean. Using wind turbines to meet 10% or more of global energy demand in 2100, could cause surface warming exceeding 1 &deg;C over land installations. In contrast, surface cooling exceeding 1 &deg;C is computed over ocean installations, but the validity of simulating the impacts of wind turbines by simply increasing the ocean surface drag needs further study. Significant warming or cooling remote from both the land and ocean installations, and alterations of the global distributions of rainfall and clouds also occur. These results are influenced by the competing effects of increases in roughness and decreases in wind speed on near-surface turbulent heat fluxes, the differing nature of land and ocean surface friction, and the dimensions of the installations parallel and perpendicular to the prevailing winds. These results are also dependent on the accuracy of the model used, and the realism of the methods applied to simulate wind turbines. Additional theory and new field observations will be required for their ultimate validation. Intermittency of wind power on daily, monthly and longer time scales as computed in these simulations and inferred from meteorological observations, poses a demand for one or more options to ensure reliability, including backup generation capacity, very long distance power transmission lines, and onsite energy storage, each with specific economic and/or technological challenges.",
+    "readLink": "http://www.atmos-chem-phys.net/10/2053/2010/acp-10-2053-2010.pdf"
+  },
+  {
+    "title": "Forests and climate change - lessons from insects",
+    "authors": [
+      "Battisti A"
+    ],
+    "doi": "https://doi.org/10.3832/ifor0210-0010001",
+    "journalVolume": "Vol. 1,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 5",
+    "issn": "1971-7458 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://iforest.sisef.org",
+    "abstract": "The climate change may indirectly affects the forest ecosystems through the activity of phytophagous insects. The climate change has been claimed to be responsible of the range expansion northward and upward of several insect species of northern temperate forests, as well as of changes in the seasonal phenology. Several papers have dealt with the prediction of the most likely consequences of the climate change on the phytophagous insects, including some of the most important forest pests. Increased levels of CO2 in the atmosphere involve an increase of the C/N balance of the plant tissues, which in turn results in a lower food quality for many defoliating insects. Some insects respond by increasing the level of leaf consumption and consequently the damage to the tree, whereas others show higher mortality and lower performance. The level of plant chemical defences may also be affected by a change of CO2. The temperature is affecting either the survival of the insects which are active during the cold period, such as the pine processionary moth, or the synchronization mechanism between the host and the herbivores, as in the case of the larch bud moth. An increase of temperature may alter the mechanism by which the insects adjust their cycles to the local climate (diapause), resulting in faster development and higher feeding rate, as in the case of the spruce web-spinning sawfly outbreaks in the Southern Alps.",
+    "readLink": "https://iforest.sisef.org/contents/?id=ifor0210-0010001"
+  },
+  {
+    "title": "Temporal and elevation trends in rainfall erosivity on a 149 km2 watershed in a semi-arid region of the American Southwest",
+    "authors": [
+      "Mark A. Nearing,",
+      "Carl L. Unkrich,",
+      "Dave C. Goodrich,",
+      "Mary H. Nichols,",
+      "Tim O. Keefer"
+    ],
+    "doi": "Vol. 3,\n                                no. 2\n                                \n                                  pp.\n                                  77\n                                  – 85",
+    "issn": "2095-6339 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/international-soil-and-water-conservation-research/",
+    "abstract": "Temporal changes in rainfall erosivity can be expected to occur with changing climate, and because rainfall amounts are known to be in part of a function of elevation, erosivity can be expected to be influenced by elevation as well. This is particularly true in mountainous regions such as are found over much of the western United States. The objective of this study was to identify temporal and elevation trends in rainfall erosivity on a 149 km2 (58 miles2) watershed in a semi-arid region of southeastern Arizona. Data from 84 rain gages for the years 1960–2012 at elevations ranging from 1231 to 1644 m (4038–5394 ft) were used in the analyses. The average annual erosivity over the watershed as a whole was 1104 MJ mm ha−1 h−1 yr−1 (65 hundreds of foot ton inch acre−1 h−1 yr−1), and ranged from approximately 950 to 1225 MJ mm ha−1 h−1 yr−1 (56–72 hundreds of foot ton inch acre−1 h−1 yr−1), with a statistical trend showing greater erosivity at the higher elevations. No statistically significant temporal changes in annual or summer erosivities were found. This result stands in contrast to recent modeling studies of runoff and erosion in the area based on downscaled GCM information that project significant levels of erosivity changes over coming decades. These results are consistent with known orographic rainfall effects, but contrast with recent studies that presented projections of significant trends of increasing erosivity in the future based on downscaled GCM outputs for the area. The results illustrate the need for testing and developing improved techniques to evaluate future erosion scenarios for purposes of making targeted soil conservation decisions. Keywords: Climate change, R-factor, RUSLE, Semiarid, Soil erosion, Walnut Gulch",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2095633915300848"
+  },
+  {
+    "title": "Impedance spectroscopy characterization of an interdigital structure for continuous particle measurements in wood-driven heating systems",
+    "authors": [
+      "A. Weiss,",
+      "M. Bauer,",
+      "S. Eichenauer,",
+      "E. A. Stadlbauer,",
+      "C.-D. Kohl"
+    ],
+    "doi": "https://doi.org/10.5194/jsss-4-37-2015",
+    "journalVolume": "Vol. 4,\n                                no. 1\n                                \n                                  pp.\n                                  37\n                                  – 44",
+    "issn": "2194-8771 (Print)",
+    "publisher": "2194-878X (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology"
+    ],
+    "journalUrl": "http://www.journal-of-sensors-and-sensor-systems.net",
+    "abstract": "In the course of the climate change and increased focus on CO2-neutral energy sources, the use of wood-driven small heating systems (SHS) becomes more important. But, their contribution to air pollution, especially particulate matter, is about as high as the emissions from car engines. The specific formation of harmful substances in wood fires and possible countermeasures by continuously operating sensor and control systems are covered. Impedance spectra of interdigital electrode (IDE) structures are taken before and after mounting in wood-driven SHS to get information about the particles in the exhaust stream. It appears that the capacitive parts of the impedance spectra at a fixed frequency are appropriate for a fast signal evaluation. The good correlation with established offline measuring methods is discussed and the capability of thermal regeneration is demonstrated. The offline measurements of this work shall give the experimental basis for the development of online measurements in order to control the particle emissions of wood-driven SHS.",
+    "readLink": "http://www.j-sens-sens-syst.net/4/37/2015/jsss-4-37-2015.pdf"
+  },
+  {
+    "title": "Top 40 questions in coupled human and natural systems (CHANS) research",
+    "authors": [
+      "Daniel Boyd. Kramer,",
+      "Joel Hartter,",
+      "Angela E. Boag,",
+      "Meha Jain,",
+      "Kara Stevens,",
+      "Kimberly A. Nicholas,",
+      "William J. McConnell,",
+      "Jianguo Liu"
+    ],
+    "doi": "https://doi.org/10.5751/ES-09429-220244",
+    "journalVolume": "Vol. 22,\n                                no. 2\n                                \n                                  p.\n                                  44",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Understanding and managing coupled human and natural systems (CHANS) is a central challenge of the 21st century, but more focus is needed to pursue the most important questions within this vast field given limited research capacity and funding. We present 40 important questions for CHANS research, identified through a two-part crowdsourcing exercise within the CHANS community. We solicited members of the International Network of Research on Coupled Human and Natural Systems (CHANS-Net) to submit up to three questions that they considered transformative, receiving 540 questions from 207 respondents. After editing for clarity and consistency, we asked the network's members to each evaluate a random subset of 20 questions in importance on a scale from 1 (least important) to 7 (extremely important). Questions on land use and agriculture topped the list, with a median importance ranking of 5.7, followed by questions of scale, climate change and energy, sustainability and development, adaptation and resilience, in addition to seven other categories. We identified 40 questions with a median importance of 6.0 or above, which we highlight as the current view of researchers active in the field as research questions to pursue in order to maximize impact on understanding and managing coupled human and natural systems for achieving sustainable development goals and addressing emerging global challenges.",
+    "readLink": "http://www.ecologyandsociety.org/vol22/iss2/art44/"
+  },
+  {
+    "title": "Mapping the Life Cycle Co-Creation Process of Nature-Based Solutions for Urban Climate Change Adaptation",
+    "authors": [
+      "Marta Irene DeLosRíos-White,",
+      "Peter Roebeling,",
+      "Sandra Valente,",
+      "Ines Vaittinen"
+    ],
+    "doi": "https://doi.org/10.3390/resources9040039",
+    "journalVolume": "Vol. 9,\n                                no. 39\n                                \n                                  p.\n                                  39",
+    "issn": "2079-9276 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/resources",
+    "abstract": "Developing urban and peri-urban ecosystem services with nature-based solutions (NBS) and participatory approaches can help achieve more resilient and sustainable environments for cities and urban areas in the face of climate change. The co-creation process is increasingly recognised as the way forward to deal with environmental issues in cities, allowing the development of associated methods and tools that have been described and published for specific stages. It is argued that the co-creation process comprises various interlinked stages, corresponding stakeholders, and subsequent methods and tools that need to be mapped and integrated across all stages. In this study, a Life Cycle Co-Creation Process (LCCCP) for NBS is developed, building on continuous improvement cycles and Design Thinking methodologies, and for which the stages and substages, involved stakeholders and engagement methods and tools are mapped and defined. For stakeholders, the actors of an Urban Living Lab (ULL) are adapted to the LCCCP; for the engagement methods and tools, the goals of stakeholder engagement are used as a guide to select examples of co-creation methods and tools. The developed LCCCP comprises five stages, i.e., CoExplore, CoDesign, CoExperiment, CoImplement and CoManagement, creating a unique path that can be followed by practitioners for NBS co-creation.",
+    "readLink": "https://www.mdpi.com/2079-9276/9/4/39"
+  },
+  {
+    "title": "Terrestrial ecosystems of the Antarctic Peninsula and their responses to climate change and anthropogenic impacts",
+    "authors": [
+      "R.  Bargagli"
+    ],
+    "doi": "https://doi.org/10.33275/1727-7485.2.2020.656",
+    "journalVolume": "no. 2\n                                \n                                  pp.\n                                  84\n                                  – 97",
+    "issn": "1727-7485 (Print)",
+    "publisher": "2415-3087 (Online)",
+    "countryOfPublisher": "State Institution National Antarctic Scientific Center",
+    "lcc": [
+      "Ukraine",
+      "Science: Physics: Meteorology. Climatology",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://uaj.uac.gov.ua/",
+    "abstract": "Antarctica and the Southern Ocean are unique natural laboratories where organisms adapted to extreme environmental conditions have evolved in isolation for millions of years. These unique biotic communities on Earth are facing complex climatic and environmental changes. Terrestrial ecosystems in the Antarctic Peninsula Region (APR) have experienced the highest rate of climate warming and, being the most impacted by human activities, are facing the greatest risk of detrimental changes. This review provides an overview of the most recent findings on how biotic communities in terrestrial ecosystems of the Antarctic Peninsula Region (APR) are responding and will likely respond to further environmental changes and direct anthropogenic impacts. Knowledge gained from studies on relatively simple terrestrial ecosystems could be very useful in predicting what may happen in much more complex ecosystems in regions with less extreme temperature changes. The rapid warming of the APR has led to the retreat of glaciers, the loss of snow and permafrost and the increase of ice-free areas, with a consequent enhancement of soil-forming processes, biotic communities, and food web complexity. However, most human activity is concentrated in APR coastal ice-free areas and poses many threats to terrestrial ecosystems such as environmental pollution or disturbances to soil communities and wildlife. People who work or visit APR may inadvertently introduce alien organisms and/or spread native species to spatially isolated ice-free areas. The number of introduced non-indigenous species and xenobiotic compounds in the APR is likely to be greater than currently documented, and several biosecurity and monitoring activities are therefore suggested to Antarctic national scientific programs and tourism operators to minimize the risk of irreversible loss of integrity by the unique terrestrial ecosystems of APR.",
+    "readLink": "http://uaj.uac.gov.ua/index.php/uaj/article/view/656"
+  }
+]

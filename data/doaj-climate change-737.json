@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Untangling the Causal Links between Satellite Vegetation Products and Environmental Drivers on a Global Scale by the Granger Causality Method",
+    "authors": [
+      "Dávid D. Kovács,",
+      "Eatidal Amin,",
+      "Katja Berger,",
+      "Pablo Reyes-Muñoz,",
+      "Jochem Verrelst"
+    ],
+    "doi": "https://doi.org/10.3390/rs15204956",
+    "journalVolume": "Vol. 15,\n                                no. 4956\n                                \n                                  p.\n                                  4956",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The Granger Causality (GC) statistical test explores the causal relationships between different time series variables. By employing the GC method, the underlying causal links between environmental drivers and global vegetation properties can be untangled, which opens possibilities to forecast the increasing strain on ecosystems by droughts, global warming, and climate change. This study aimed to quantify the spatial distribution of four distinct satellite vegetation products’ (VPs) sensitivities to four environmental land variables (ELVs) at the global scale given the GC method. The GC analysis assessed the spatially explicit response of the VPs: (i) the fraction of absorbed photosynthetically active radiation (FAPAR), (ii) the leaf area index (LAI), (iii) solar-induced fluorescence (SIF), and, finally, (iv) the normalized difference vegetation index (NDVI) to the ELVs. These ELVs can be categorized as water availability assessing root zone soil moisture (SM) and accumulated precipitation (P), as well as, energy availability considering the effect of air temperature (T) and solar shortwave (R) radiation. The results indicate SM and P are key drivers, particularly causing changes in the LAI. SM alone accounts for 43%, while P accounts for 41%, of the explicitly caused areas over arid biomes. SM further significantly influences the LAI at northern latitudes, covering 44% of cold and 50% of polar biome areas. These areas exhibit a predominant response to R, which is a possible trigger for snowmelt, showing more than 40% caused by both cold and polar biomes for all VPs. Finally, T’s causality is evenly distributed amongst all biomes with fractional covers between ∼10 and 20%. By using the GC method, the analysis presents a novel way to monitor the planet’s ecosystem, based on solely two years as input data, with four VPs acquired by the synergy of Sentinel-3 (S3) and 5P (S5P) satellite data streams. The findings indicated unique, biome-specific responses of vegetation to distinct environmental drivers.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/20/4956"
+  },
+  {
+    "title": "Spatiotemporal Characteristics of Reference Evapotranspiration and Its Sensitivity Coefficients to Climate Factors in Huang-Huai-Hai Plain, China",
+    "authors": [
+      "Jian-ying YANG,",
+      "Qin LIU,",
+      "Xu-rong MEI,",
+      "Chang-rong YAN,",
+      "Hui JU,",
+      "Jian-wen XU"
+    ],
+    "doi": "Vol. 12,\n                                no. 12\n                                \n                                  pp.\n                                  2280\n                                  – 2291",
+    "issn": "2095-3119 (Print)",
+    "publisher": "2352-3425 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/journal-of-integrative-agriculture",
+    "abstract": "Climate change will have important implications in water shore regions, such as Huang-Huai-Hai (3H) plain, where expected warmer and drier conditions might augment crop water demand. Sensitivity analysis is important in understanding the relative importance of climatic variables to the variation in reference evapotranspiration (ET0). In this study, the 51-yr ET0 during winter wheat and summer maize growing season were calculated from a data set of daily climate variables in 40 meteorological stations. Sensitivity maps for key climate variables were estimated according to Kriging method and the spatial pattern of sensitivity coefficients for these key variables was plotted. In addition, the slopes of the linear regression lines for sensitivity coefficients were obtained. Results showed that ET0 during winter wheat growing season accounted for the largest proportion of annual ET0, due to its long phenological days, while ET0 was detected to decrease significantly with the magnitude of 0.5 mm yr−1 in summer maize growing season. Solar radiation is considered to be the most sensitive and primarily controlling variable for negative trend in ET0 for summer maize season, and higher sensitive coefficient value of ET0 to solar radiation and temperature were detected in east part and southwest part of 3H plain respectively. Relative humidity was demonstrated as the most sensitive factor for ET0 in winter wheat growing season and declining relativity humidity also primarily controlled a negative trend in ET0, furthermore the sensitivity coefficient to relative humidity increased from west to southeast. The eight sensitivity centrals were all found located in Shandong Province. These ET0 along with its sensitivity maps under winter wheat-summer maize rotation system can be applied to predict the agricultural water demand and will assist water resources planning and management for this region.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2095311913605614"
+  },
+  {
+    "title": "Climate Smart Agriculture? Governing the Sustainable Development Goals in Sub-Saharan Africa",
+    "authors": [
+      "Peter Newell,",
+      "Olivia Taylor,",
+      "Lars Otto Naess,",
+      "John Thompson,",
+      "Hussein Mahmoud,",
+      "Patrick Ndaki,",
+      "Raphael Rurangwa,",
+      "Amdissa Teshome"
+    ],
+    "doi": "https://doi.org/10.3389/fsufs.2019.00055",
+    "journalVolume": "Vol. 3",
+    "issn": "2571-581X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-food-systems#",
+    "abstract": "This paper examines the political economic and governance challenges faced by African governments in operationalizing Climate-Smart Agriculture (CSA) as part of their pursuit of the United Nations Sustainable Development Goals (SDGs). There is a need to enrich our understanding of the diverse contexts and ways in which governments will have to navigate and address the inevitable choices and conflicts, synergies and trade-offs that will characterize efforts to simultaneously implement these global goals. Here we seek to develop an account of why and how countries are managing the interrelationship between SDGs, particularly those associated with food security and climate action. We develop explanations for the diversity in approaches and provide an initial assessment of what the consequences are for policy and practice. The analysis is informed by the contrasting experiences of four Eastern African countries, Kenya, Tanzania, Ethiopia, and Rwanda, as they seek to build more “climate resilient” food and agricultural systems that are compatible with achieving the SDGs.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fsufs.2019.00055/full"
+  },
+  {
+    "title": "Testing the leadership and organizational change for implementation (LOCI) intervention in Norwegian mental health clinics: a stepped-wedge cluster randomized design study protocol",
+    "authors": [
+      "Karina M. Egeland,",
+      "Ane-Marthe Solheim Skar,",
+      "Mathilde Endsjø,",
+      "Erlend Høen Laukvik,",
+      "Harald Bækkelund,",
+      "Aida Babaii,",
+      "Lene Beate Granly,",
+      "Gry Kristina Husebø,",
+      "Randi Hovden Borge,",
+      "Mark G. Ehrhart,",
+      "Marisa Sklar,",
+      "C. Hendricks Brown,",
+      "Gregory A. Aarons"
+    ],
+    "doi": "https://doi.org/10.1186/s13012-019-0873-7",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "1748-5908 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Medicine (General)"
+    ],
+    "journalUrl": "https://implementationscience.biomedcentral.com",
+    "abstract": "Abstract Background Alignment across levels of leadership within an organization is needed for successful implementation of evidence-based practice. The leadership and organizational change for implementation (LOCI) intervention is a multi-faceted multilevel implementation strategy focusing on enhancing first-level general and implementation leadership while also engaging with organization upper management to develop an organizational climate for implementation. The aim of the project is to evaluate the effectiveness of LOCI in supporting the implementation of evidence-based treatment for PTSD in child- and adult-specialized mental health clinics in health trusts in Norway. Methods The study design is a stepped-wedge cluster randomized trial with enrollment of clinics in three cohorts. Executives, clinic leaders, and therapists will be asked to complete surveys assessing leadership and implementation climate. Surveys will be completed at baseline, 4, 8, 12, 16, and 20 months. Results from surveys will be shared with executives and clinic leaders to inform the subsequent creation of tailored leadership and climate development plans for enhanced implementation. Patients will complete surveys measuring traumatic events and post-traumatic stress symptoms during the therapy process. Therapy sessions will be audio or video recorded and scored for fidelity as part of training. Discussion This study aims to provide knowledge on how to improve leadership and organizational climate to enhance effective implementation of evidence-based treatments in mental health services. Trial registration The study has been registrated in ClinicalTrials with ID NCT03719651.",
+    "readLink": "http://link.springer.com/article/10.1186/s13012-019-0873-7"
+  },
+  {
+    "title": "Determinants of adoption of climate resilient practices and their impact on yield and household income",
+    "authors": [
+      "Pradyot Ranjan Jena,",
+      "Purna Chandra Tanti,",
+      "Keshav Lall Maharjan"
+    ],
+    "doi": "Vol. 14\n                                \n                                \n                                  p.\n                                  100659",
+    "issn": "2666-1543 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Agriculture: Agriculture (General)",
+      "Technology: Home economics: Nutrition. Foods and food supply"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/journal-of-agriculture-and-food-research",
+    "abstract": "Climate change poses a risk to the livelihoods of rural communities by negatively impacting agricultural output and raising production costs. Climate-smart agricultural (CSA) practices have been advanced as a possible solution to adapt to and mitigate climate change issues. This paper examined the main drivers of adoption of two CSA practices such as crop rotation and integrated soil management and their impact on paddy yield and net agricultural income. Household survey data was obtained from the coastal and inland districts of an eastern Indian state, namely, Odisha. Multivariate Probit model was used to identify the determinants of CSA adoption and Propensity Score Matching (PSM) method was used to assess the impacts of these adopted CSA practices. The findings from the PSM method show that both paddy crop yield and net agricultural income have been higher for the adopters of crop rotation and integrated soil management. While, adoption of crop rotation resulted in an increase of 42–45% in farm income, the same for integrated soil management was between 27 and 34%. Further, adoption of these practices led to a yield improvement of about 2.5 quintals per acre of paddy crop for the adopters. The major drivers that jointly influenced farmers to adopt these practices were found to be access to extension service, access to credit, subsidies for seed and electricity use in agriculture. In light of these findings, main policy suggestions are – (i) extension staff need to be trained on regular basis on the technical aspects of CSA practices and (ii) more finances for CSA need to be raised and allocated for strengthening extension support, providing timely subsidies to the right beneficiaries and building CSA enabling infrastructure such as watershed projects and micro-irrigation facilities.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666154323001667"
+  },
+  {
+    "title": "Development and application of flood impact maps under climate change scenarios: A case study of the Yilan area of Taiwan",
+    "authors": [
+      "Yi-Hua Hsiao,",
+      "Chun-Che Chen,",
+      "Yi-Chiung Chao,",
+      "Hsih-Chi Li,",
+      "Ching-Hsien Ho,",
+      "Chih-Tsung Hsu,",
+      "Keh-Chia Yeh"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2022.971609",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "Flooding is the main disaster type in Taiwan and is usually caused by typhoons and heavy rainfall. To understand the flood impacts in Taiwan caused by increasing rainfall due to global warming, this study adopts a high-resolution atmospheric model (HiRAM) under the representative concentration pathway (RCP) 8.5 scenario to project future changes in flood impact. For the flood simulation, the SOBEK flood model was used to determine the maximum accumulated flooding depth and flood probability in the two periods of the present and the middle of the 21st century. Yilan County, one of the most flood-prone areas in Taiwan, was chosen as a demonstration case for the development of flood impact maps. According to the results of flood map application, flooded areas were predicted to increase in the middle period of the 21st century due to increasing rainfall, especially in paddy fields, maricultural farms, and stock farms. From the base period to the middle of the 21st century, the area of flooding impacts was projected to increase from 24% to 40% in paddy fields, from 9% to 15% in maricultural farms, and from less than 1% to 9% in stock farms. These results show that the development of flood maps can help elucidate the actual impacts of climate change in Taiwan and serve as a scientific basis for adaptation actions.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2022.971609/full"
+  },
+  {
+    "title": "Exploration of Soil Microbial Diversity and Community Structure along Mid-Subtropical Elevation Gradients in Southeast China",
+    "authors": [
+      "Nan Yang,",
+      "Yuchao Wang,",
+      "Boran Liu,",
+      "Jiangbao Zhang,",
+      "Jiani Hua,",
+      "Dong Liu,",
+      "Parag Bhople,",
+      "Yirong Zhang,",
+      "Huiguang Zhang,",
+      "Chenhui Zhang,",
+      "Honghua Ruan,",
+      "Weifeng Wang"
+    ],
+    "doi": "https://doi.org/10.3390/f14040769",
+    "journalVolume": "Vol. 14,\n                                no. 769\n                                \n                                  p.\n                                  769",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Climate change is altering the abundance and distributions of natural communities in mountainous ecosystems, but the variations of soil microbial communities and their driving factors along elevation gradients at high altitudinal mid-subtropical zones have received limited attention. Such information is needed for a comprehensive understanding of the ecosystem’s response to intensifying climate changes. In this study, using Illumina sequencing, we investigated the shift in soil microbial diversity and community composition at eight evergreen broadleaf forest sites, which ranged from a low of 550 to a high of 1038 m above sea level (m a.s.l.) on Wuyi Mountain in Southeast China. Significant (p < 0.05) differences were observed only in the community structure of bacteria and fungi between the low and high elevation levels of forests, but not in their alpha-diversity indices. Soil bacterial diversity was significantly correlated with plant Shannon index. Likewise, plant richness and diversity modified soil bacterial community structures along the two elevations and were the best predictors. Soil pH was the main edaphic factor driving the fungal diversity across elevations, whereas inconsistency in the fungal trophic mode did not allow the identification of a determinant factor for soil fungal community structure. The variations of the predominant fungal trophic guilds, such as the symbiotrophs and pathotrophs, along elevation gradients were due to the plant richness and diversity prevailing at the low and high elevation levels of forest sites. The findings of this study reveal the soil microbial community dynamics and the local regulators across elevations on Wuyi mountain.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/4/769"
+  },
+  {
+    "title": "On the use of Earth Observation to support estimates of national greenhouse gas emissions and sinks for the Global stocktake process: lessons learned from ESA-CCI RECCAP2",
+    "authors": [
+      "Ana Bastos,",
+      "Philippe Ciais,",
+      "Stephen Sitch,",
+      "Luiz E. O. C. Aragão,",
+      "Frédéric Chevallier,",
+      "Dominic Fawcett,",
+      "Thais M. Rosan,",
+      "Marielle Saunois,",
+      "Dirk Günther,",
+      "Lucia Perugini,",
+      "Colas Robert,",
+      "Zhu Deng,",
+      "Julia Pongratz,",
+      "Raphael Ganzenmüller,",
+      "Richard Fuchs,",
+      "Karina Winkler,",
+      "Sönke Zaehle,",
+      "Clément Albergel"
+    ],
+    "doi": "https://doi.org/10.1186/s13021-022-00214-w",
+    "journalVolume": "Vol. 17,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "1750-0680 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://cbmjournal.biomedcentral.com/",
+    "abstract": "Abstract The Global Stocktake (GST), implemented by the Paris Agreement, requires rapid developments in the capabilities to quantify annual greenhouse gas (GHG) emissions and removals consistently from the global to the national scale and improvements to national GHG inventories. In particular, new capabilities are needed for accurate attribution of sources and sinks and their trends to natural and anthropogenic processes. On the one hand, this is still a major challenge as national GHG inventories follow globally harmonized methodologies based on the guidelines established by the Intergovernmental Panel on Climate Change, but these can be implemented differently for individual countries. Moreover, in many countries the capability to systematically produce detailed and annually updated GHG inventories is still lacking. On the other hand, spatially-explicit datasets quantifying sources and sinks of carbon dioxide, methane and nitrous oxide emissions from Earth Observations (EO) are still limited by many sources of uncertainty. While national GHG inventories follow diverse methodologies depending on the availability of activity data in the different countries, the proposed comparison with EO-based estimates can help improve our understanding of the comparability of the estimates published by the different countries. Indeed, EO networks and satellite platforms have seen a massive expansion in the past decade, now covering a wide range of essential climate variables and offering high potential to improve the quantification of global and regional GHG budgets and advance process understanding. Yet, there is no EO data that quantifies greenhouse gas fluxes directly, rather there are observations of variables or proxies that can be transformed into fluxes using models. Here, we report results and lessons from the ESA-CCI RECCAP2 project, whose goal was to engage with National Inventory Agencies to improve understanding about the methods used by each community to estimate sources and sinks of GHGs and to evaluate the potential for satellite and in-situ EO to improve national GHG estimates. Based on this dialogue and recent studies, we discuss the potential of EO approaches to provide estimates of GHG budgets that can be compared with those of national GHG inventories. We outline a roadmap for implementation of an EO carbon-monitoring program that can contribute to the Paris Agreement.",
+    "readLink": "https://doi.org/10.1186/s13021-022-00214-w"
+  },
+  {
+    "title": "High Growing Temperature Changes Nutritional Value of Broccoli (<i>Brassica oleracea</i> L. convar. <i>botrytis</i> (L.) Alef. var. <i>cymosa</i> Duch.) Seedlings",
+    "authors": [
+      "Daria Gmižić,",
+      "Marija Pinterić,",
+      "Maja Lazarus,",
+      "Ivana Šola"
+    ],
+    "doi": "https://doi.org/10.3390/foods12030582",
+    "journalVolume": "Vol. 12,\n                                no. 582\n                                \n                                  p.\n                                  582",
+    "issn": "2304-8158 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/foods",
+    "abstract": "High temperature (HT) causes physiological and biochemical changes in plants, which may influence their nutritional potential. This study aimed to evaluate the nutritional value of broccoli seedlings grown at HT on the level of phytochemicals, macro- and microelements, antioxidant capacity, and their extracts’ in vitro cytotoxicity. Total phenols, soluble sugars, carotenoids, quercetin, sinapic, ferulic, p-coumaric, and gallic acid were induced by HT. Contrarily, total flavonoids, flavonols, phenolic acids, hydroxycinnamic acids, proteins, glucosinolates, chlorophyll a and b, and porphyrins were reduced. Minerals As, Co, Cr, Hg, K, Na, Ni, Pb, Se, and Sn increased at HT, while Ca, Cd, Cu, Mg, Mn, and P decreased. ABTS, FRAP, and β-carotene bleaching assay showed higher antioxidant potential of seedlings grown at HT, while DPPH showed the opposite. Hepatocellular carcinoma cells were the most sensitive toward broccoli seedling extracts. The significant difference between control and HT-grown broccoli seedling extracts was recorded in mouse embryonal fibroblasts and colorectal carcinoma cells. These results show that the temperature of seedling growth is a critical factor for their nutritional value and the biological effects of their extracts and should definitely be taken into account when growing seedlings for food purposes.",
+    "readLink": "https://www.mdpi.com/2304-8158/12/3/582"
+  },
+  {
+    "title": "Solar Photovoltaic Assistance System Study for a Brazilian Light Rail Vehicle",
+    "authors": [
+      "Mariko de Almeida Carneiro,",
+      "Diogo da Fonseca Soares"
+    ],
+    "doi": "https://doi.org/10.24840/2183-6493_006.002_0004",
+    "journalVolume": "Vol. 6,\n                                no. 2\n                                \n                                  pp.\n                                  35\n                                  – 45",
+    "issn": "2183-6493 (Online)",
+    "publisher": "Universidade do Porto",
+    "countryOfPublisher": "Portugal",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Technology: Technology (General)"
+    ],
+    "journalUrl": "https://journalengineering.fe.up.pt",
+    "abstract": "Recently, much research is being developed to improve sustainability in the transportation sector due to its impact on carbon dioxide (CO2) production, climate change, and fossil fuel resources. Railways in the world have started to use solar power assistance to improve sustainability in the transportation sector. The Brazilian Company of Urban Trains operates a Brazilian Light Rail Vehicle (BLRV) for passenger transportation in Brazil. This article is a study on the potential of environmental and economic benefits of the installation of solar panels in the BLRV roof, operated in the urban metropolitan area of João Pessoa, to provide assistance on electric load. The results show that the installation of photovoltaic system in the roofs of the total fleet of BLRVs operated in João Pessoa railway can save about R$ 800,000.00 and reduce the emission of 540 tons of CO2 in 10 years.",
+    "readLink": "https://journalengineering.fe.up.pt/article/view/655"
+  }
+]

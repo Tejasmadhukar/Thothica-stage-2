@@ -1,0 +1,133 @@
+[
+  {
+    "title": "DARE: Distill and Reinforce Ensemble Neural Networks for Climate-Domain Processing",
+    "authors": [
+      "Kun Xiang,",
+      "Akihiro Fujii"
+    ],
+    "doi": "https://doi.org/10.3390/e25040643",
+    "journalVolume": "Vol. 25,\n                                no. 643\n                                \n                                  p.\n                                  643",
+    "issn": "1099-4300 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Astronomy: Astrophysics",
+      "Science: Physics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/entropy",
+    "abstract": "Natural-language processing is well positioned to help stakeholders study the dynamics of ambiguous Climate Change-related (CC) information. Recently, deep neural networks have achieved good results on a variety of NLP tasks depending on high-quality training data and complex and exquisite frameworks. This raises two dilemmas: (1) the networks are highly reliant on powerful hardware devices and processing is time-consuming, which is not only inconducive to execution on edge devices but also leads to resource consumption. (2) Obtaining large-scale effective annotated data is difficult and laborious, especially when it comes to a special domain such as CC. In this paper, we propose a CC-domain-adapted BERT distillation and reinforcement ensemble (DARE) model for tackling the problems above. Specifically, we propose a novel data-augmentation strategy which is a Generator-Reinforced Selector collaboration network for countering the dilemma of CC-related data scarcity. Extensive experimental results demonstrate that our proposed method outperforms baselines with a maximum of 26.83% on SoTA and 50.65× inference time speed-up. Furthermore, as a remedy for the lack of CC-related analysis in the NLP community, we also provide some interpretable conclusions for this global concern.",
+    "readLink": "https://www.mdpi.com/1099-4300/25/4/643"
+  },
+  {
+    "title": "Possible climate change impacts on large hydroelectricity schemes in Southern Africa",
+    "authors": [
+      "P. Mukheibir"
+    ],
+    "doi": "https://doi.org/10.17159/2413-3051/2007/v18i1a3340",
+    "journalVolume": "Vol. 18,\n                                no. 1\n                                \n                                  pp.\n                                  4\n                                  – 9",
+    "issn": "1021-447X (Print)",
+    "publisher": "2413-3051 (Online)",
+    "countryOfPublisher": "University of Cape Town",
+    "lcc": [
+      "South Africa",
+      "Technology: Mechanical engineering and machinery: Energy conservation",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://journals.assaf.org.za/jesa",
+    "abstract": "There is growing concern that developing countries, such as South Africa, should reduce their coal dependence for energy generation and look to other cleaner technologies. Hydroelectricity is one such option. A number of potential large hydro sites have been identified in Southern Africa, which form part of the Southern African Power Pool. However, limited information exists on the impact of climate change on these sites and its effect on the viability of the hydroelectric schemes. Using downscaled glob-al circulation model information, projected climate impacts and the potential impact these may have on future hydro schemes are discussed.",
+    "readLink": "https://journals.assaf.org.za/jesa/article/view/3340"
+  },
+  {
+    "title": "Impact of Hydrogen Liquefaction on Hydrogen Fuel Quality for Transport Applications (ISO-14687:2019)",
+    "authors": [
+      "Mathew J. F. Hookham,",
+      "Erwann Le Gendre,",
+      "Cyril Coulpier,",
+      "Martine Carré,",
+      "Abigail S. O. Morris,",
+      "Niamh Moore,",
+      "Yoana Hristova,",
+      "Thomas Bacquart"
+    ],
+    "doi": "https://doi.org/10.3390/pr10091697",
+    "journalVolume": "Vol. 10,\n                                no. 1697\n                                \n                                  p.\n                                  1697",
+    "issn": "2227-9717 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/processes",
+    "abstract": "Decarbonisation of the energy sector is becoming increasingly more important to the reduction in climate change. Renewable energy is an effective means of reducing CO2 emissions, but the fluctuation in demand and production of energy is a limiting factor. Liquid hydrogen allows for long-term storage of energy. Hydrogen quality is important for the safety and efficiency of the end user. Furthermore, the quality of the hydrogen gas after liquefaction has not yet been reported. The purity of hydrogen after liquefaction was assessed against the specification of Hydrogen grade D in the ISO-14687:2019 by analysing samples taken at different locations throughout production. Sampling was carried out directly in gas cylinders, and purity was assessed using multiple analytical methods. The results indicate that the hydrogen gas produced from liquefaction is of a higher purity than the starting gas, with all impurities below the threshold values set in ISO-14687:2019. The amount fraction of water measured in the hydrogen sample increased with repeated sampling from the liquid hydrogen tank, suggesting that the sampling system used was affected by low temperatures (−253 °C). These data demonstrate for the first time the impact of liquefaction on hydrogen purity assessed against ISO-14687:2019, showing that liquified hydrogen is a viable option for long-term energy storage whilst also improving quality.",
+    "readLink": "https://www.mdpi.com/2227-9717/10/9/1697"
+  },
+  {
+    "title": "Impacts of climate change on Blue Nile flows using bias-corrected GCM scenarios",
+    "authors": [
+      "M. E. Elshamy,",
+      "I. A. Seierstad,",
+      "A. Sorteberg"
+    ],
+    "doi": "Vol. 13,\n                                no. 5\n                                \n                                  pp.\n                                  551\n                                  – 565",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "This study analyses the output of 17 general circulation models (GCMs) included in the 4th IPCC assessment report. Downscaled precipitation and potential (reference crop) evapotranspiration (PET) scenarios for the 2081–2098 period were constructed for the upper Blue Nile basin. These were used to drive a fine-scale hydrological model of the Nile Basin to assess their impacts on the flows of the upper Blue Nile at Diem, which accounts for about 60% of the mean annual discharge of the Nile at Dongola. There is no consensus among the GCMs on the direction of precipitation change. Changes in total annual precipitation range between &minus;15% to +14% but more models report reductions (10) than those reporting increases (7). Several models (6) report small changes within 5%. The ensemble mean of all models shows almost no change in the annual total rainfall. All models predict the temperature to increase between 2&deg;C and 5&deg;C and consequently PET to increase by 2–14%. Changes to the water balance are assessed using the Budyko framework. The basin is shown to belong to a moisture constrained regime. However, during the wet season the basin is largely energy constrained. For no change in rainfall, increasing PET thus leads to a reduced wet season runoff coefficient. The ensemble mean runoff coefficient (about 20% for baseline simulations) is reduced by about 3.5%. Assuming no change or moderate changes in rainfall, the simulations presented here indicate that the water balance of the upper Blue Nile basin may become more moisture constrained in the future.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/13/551/2009/hess-13-551-2009.pdf"
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "title": "Spatial Analysis of a Chesapeake Bay Sub-Watershed: How Land Use and Precipitation Patterns Impact Water Quality in the James River",
+    "authors": [
+      "Kristina A. Delia,",
+      "Christa R. Haney,",
+      "Jamie L. Dyer,",
+      "Varun G. Paul"
+    ],
+    "doi": "https://doi.org/10.3390/w13111592",
+    "journalVolume": "Vol. 13,\n                                no. 1592\n                                \n                                  p.\n                                  1592",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Changes in land cover throughout the Chesapeake Bay watershed, accompanied by variability in climate patterns, can impact runoff and water quality. A study was conducted using the Soil and Water Assessment Tool (SWAT) for the James River watershed in Virginia, the southernmost tributary of the Chesapeake Bay, from 1986 to 2018, in order to evaluate factors that affect water quality in the river. This research focuses on statistical analysis of land use, precipitation, and water quality indicators. Land cover changes derived from satellite imagery and geographic information system (GIS) tools were compared with water quality parameters throughout that timeframe. Marked decreases in forest land cover were observed throughout the watershed, as well as increased residential development. Our findings suggest strong links between land cover modification, such as residential development, and degraded water quality indicators such as nitrogen, phosphorus, and sediment. In addition, we note direct improvements in water quality when forest land areas are preserved throughout the watershed.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/11/1592"
+  },
+  {
+    "title": "Towards a Volunteered Geographic Information-Facilitated Visual Analytics Pipeline to Improve Impact-Based Weather Warning Systems",
+    "authors": [
+      "Katerina Vrotsou,",
+      "Carlo Navarra,",
+      "Kostiantyn Kucher,",
+      "Igor Fedorov,",
+      "Fredrik Schück,",
+      "Jonas Unger,",
+      "Tina-Simone Neset"
+    ],
+    "doi": "https://doi.org/10.3390/atmos14071141",
+    "journalVolume": "Vol. 14,\n                                no. 1141\n                                \n                                  p.\n                                  1141",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Extreme weather events, such as flooding, are expected to increase in frequency and intensity. Therefore, the prediction of extreme weather events, assessment of their local impacts in urban environments, and implementation of adaptation measures are becoming high-priority challenges for local, regional, and national agencies and authorities. To manage these challenges, access to accurate weather warnings and information about the occurrence, extent, and impacts of extreme weather events are crucial. As a result, in addition to official sources of information for prediction and monitoring, citizen volunteered geographic information (VGI) has emerged as a complementary source of valuable information. In this work, we propose the formulation of an approach to complement the impact-based weather warning system that has been introduced in Sweden in 2021 by making use of such alternative sources of data. We present and discuss design considerations and opportunities towards the creation of a visual analytics (VA) pipeline for the identification and exploration of extreme weather events and their impacts from VGI texts and images retrieved from social media. The envisioned VA pipeline incorporates three main steps: (1) data collection, (2) image/text classification and analysis, and (3) visualization and exploration through an interactive visual interface. We envision that our work has the potential to support three processes that involve multiple stakeholders of the weather warning system: (1) the validation of previously issued warnings, (2) local and regional assessment-support documentation, and (3) the monitoring of ongoing events. The results of this work could thus generate information that is relevant to climate adaptation decision making and provide potential support for the future development of national weather warning systems.",
+    "readLink": "https://www.mdpi.com/2073-4433/14/7/1141"
+  }
+]

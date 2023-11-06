@@ -1,0 +1,215 @@
+[
+  {
+    "title": "The Nexus between Agriculture, Water, Energy and Environmental Degradation in Central Asia—Empirical Evidence Using Panel Data Models",
+    "authors": [
+      "Olimjon Saidmamatov,",
+      "Nicolas Tetreault,",
+      "Dilmurad Bekjanov,",
+      "Elbek Khodjaniyazov,",
+      "Ergash Ibadullaev,",
+      "Yuldoshboy Sobirov,",
+      "Lugas Raka Adrianto"
+    ],
+    "doi": "https://doi.org/10.3390/en16073206",
+    "journalVolume": "Vol. 16,\n                                no. 3206\n                                \n                                  p.\n                                  3206",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The primary aspiration of this paper is to learn about the effects of economic growth, energy consumption, agriculture and irrigation water consumption and agriculture productivity on environmental pollution in five countries of Central Asia. The data cover the period from 1992 to 2020 by applying panel data models, namely the Panel FMOLS, Panel DOLS and Panel ARDL-PMG approaches. The results indicate that there is a positive long-term impact of economic growth, water productivity, energy consumption and electricity production on CO2 emissions while agriculture value added and trade openness have a negative and statistically significant influence on CO2 emissions in Central Asia. Country specific short-run coefficients from Panel ARDL reveal that energy consumption is the main driver for rise in the level of CO2 emissions in the countries under the study. Indeed, country level analysis generates unique nexus correlation among agriculture, energy and environmental degradation in each country of Central Asia.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/7/3206"
+  },
+  {
+    "title": "Robust, Long-term Lake Level Change from Multiple Satellite Altimeters in Tibet: Observing the Rapid Rise of Ngangzi Co over a New Wetland",
+    "authors": [
+      "Haihong Wang,",
+      "Yonghai Chu,",
+      "Zhengkai Huang,",
+      "Cheinway Hwang,",
+      "Nengfang Chao"
+    ],
+    "doi": "https://doi.org/10.3390/rs11050558",
+    "journalVolume": "Vol. 11,\n                                no. 5\n                                \n                                  p.\n                                  558",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Satellite altimetry has been successfully applied to monitoring water level variation of global lakes. However, it is still difficult to retrieve accurate and continuous observations for most Tibetan lakes, due to their high altitude and rough terrain. Aiming to generate long-term and accurate lake level time series for the Tibetan lakes using multi-altimeters, we present a robust strategy including atmosphere delay corrections, waveform retracking, outlier removal and inter-satellite bias adjustment. Apparent biases in dry troposphere corrections from different altimeter products are found, and such correctios must be recalculated using the same surface pressure model. A parameter is defined to evaluate the performance of the retracking algorithm. The ICE retracker outperforms the 20% and 50% threshold retrackers in the case of Ngangzi Co, where a new wetland has been established. A two-step algorithm is proposed for outlier removal. Two methods are adopted to estimate inter-satellite bias for different cases of with and without overlap. Finally, a 25-year-long lake level time series of Ngangzi Co are constructed using the TOPEX/Poseidon-family altimeter data from October 1992 to December 2017, resulting in an accuracy of ~17 cm for TOPEX/Poseidon and ~10 cm for Jason-1/2/3. The accuracy of retrieved lake levels is on the order of decimeter. Because of no gauge data available, ICESat and SARAL data with the accuracy better than 7 cm are used for validation. A correlation more than 0.9 can be observed between the mean lake levels from TOPEX/Poseidon-family satellites, ICESat and SARAL. Compared to the previous studies and other available altimeter-derived lake level databases, our result is the most robust and has resulted in the maximum number of continuous samples. The time series indicates that the lake level of Ngangzi Co increased by ~8 m over 1998–2017 and changed with different rates in the past 25 years (-0.39 m/yr in 1992–1997, 1.03 m/yr in 1998–2002 and 0.32 m/yr in 2003–2014). These findings will enhance the understanding of water budget and the effect of climate change.",
+    "readLink": "http://www.mdpi.com/2072-4292/11/5/558"
+  },
+  {
+    "title": "Global food self-sufficiency in the 21st century under sustainable intensification of agriculture",
+    "authors": [
+      "Areidy Beltran-Peña,",
+      "Lorenzo Rosa,",
+      "Paolo D’Odorico"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ab9388",
+    "journalVolume": "Vol. 15,\n                                no. 9\n                                \n                                  p.\n                                  095004",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Meeting the increasing global demand for agricultural products without depleting the limited resources of the planet is a major challenge that humanity is facing. Most studies on global food security do not make projections past the year 2050, just as climate change and increasing demand for food are expected to intensify. Moreover, past studies do not account for the water sustainability limits of irrigation expansion to presently rainfed areas. Here we perform an integrated assessment that considers a range of factors affecting future food production and demand throughout the 21st century. We evaluate the self-sufficiency of 165 countries under sustainability, middle-of-the-road, and business-as-usual scenarios considering changes in diet, population, agricultural intensification, and climate. We find that under both the middle-of-the-road and business-as-usual trajectories global food self-sufficiency is likely to decline despite increased food production through sustainable agricultural intensification since projected food demand exceeds potential production. Contrarily, under a sustainability scenario, we estimate that there will be enough food production to feed the global population. However, most countries in Africa and the Middle East will continue to be heavily reliant on imports throughout the 21st century under all scenarios. These results highlight future hotspots of crop production deficits, reliance on food imports, and vulnerability to food supply shocks.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ab9388"
+  },
+  {
+    "title": "Hybrid Input-Output Analysis of Embodied Carbon and Construction Cost Differences between New-Build and Refurbished Projects",
+    "authors": [
+      "Craig Langston,",
+      "Edwin  H. W. Chan,",
+      "Esther  H. K. Yung"
+    ],
+    "doi": "https://doi.org/10.3390/su10093229",
+    "journalVolume": "Vol. 10,\n                                no. 9\n                                \n                                  p.\n                                  3229",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Refurbishing buildings helps reduce waste, and limiting the amount of embodied carbon in buildings helps minimize the damaging impacts of climate change through lower CO2 emissions. The analysis of embodied carbon is based on the concept of life cycle assessment (LCA). LCA is a systematic tool to evaluate the environmental impacts of a product, technology, or service through all stages of its life cycle. This study investigates the embodied carbon footprint of both new-build and refurbished buildings to determine the embodied carbon profile and its relationship to both embodied energy and construction cost. It recognizes that changes in the fuel mix for electricity generation play an important role in embodied carbon impacts in different countries. The empirical findings for Hong Kong suggest that mean embodied carbon for refurbished buildings is 33–39% lower than new-build projects, and the cost for refurbished buildings is 22–50% lower than new-build projects (per square meter of floor area). Embodied carbon ranges from 645–1059 kgCO2e/m2 for new-build and 294–655 kgCO2e/m2 for refurbished projects, which is in keeping with other studies outside Hong Kong. However, values of embodied carbon and cost for refurbished projects in this study have a higher coefficient of variation than their new-build counterparts. It is argued that it is preferable to estimate embodied energy and then convert to embodied carbon (rather than estimate embodied carbon directly), as carbon is both time and location specific. A very strong linear relationship is also observed between embodied energy and construction cost that can be used to predict the former, given the latter. This study provides a framework whereby comparisons can be made between new-build and refurbished projects on the basis of embodied carbon and related construction cost differentials into the future, helping to make informed decisions about which strategy to pursue.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/9/3229"
+  },
+  {
+    "title": "Climate Change Impact on the Duration of Great Vegetation Period and Vegetation Period of Beetroot and Watermelon in Slovakia",
+    "authors": [
+      "Ján Čimo,",
+      "Vladimír Kišš,",
+      "Elena Aydın,",
+      "Jakub Pagáč,",
+      "Monika Božiková,",
+      "Matúš Bilčík,",
+      "Martin Minárik"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13101641",
+    "journalVolume": "Vol. 13,\n                                no. 1641\n                                \n                                  p.\n                                  1641",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Climate change brings to the whole world numerous challenges such as an increase in the global temperature, weather fluctuations, periods of drought and heat alternating the local floods. While the majority of the effects are negative for agricultural production, some can be beneficial. Our work presents the evaluation of the changes in the duration of the great vegetation period (delineated with the beginning and end of days with an average temperature T ≥ 5.0 °C) and the vegetation periods of watermelon (Citrullus lanatus Thumb.) and beetroot (Beta vulgaris L.). Data sets on the average monthly air temperatures for the period 1961–2020 from one hundred agroclimatic stations in Slovakia were selected for the estimation of the future average air temperatures using statistical methods (linear trendline). Based on the temperature requirements of the selected crops, the potential maximum duration of the vegetation period was estimated for several decades from 2041 up to 2100. The results clearly showed prolongation of the vegetation periods and changes of their zonation in Slovakia. In 2011–2020, the duration of the beetroot vegetation period in the southernmost part of Slovakia (Danubian Lowland) was 15–20 days longer than in decade 1971–1980. It is expected, that this value will rise by another 10–15 days in decade 2091–2100. Since 1971–1980, watermelon vegetation period duration increased by 5–10 days when compared to decade 2011–2020. It is expected that by 2091–2100, its duration will prolong by another 30–35 days.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/10/1641"
+  },
+  {
+    "title": "Foresighting future climate change impacts on fisheries and aquaculture in vietnam",
+    "authors": [
+      "Nhuong Tran,",
+      "Chin Yee Chan,",
+      "Yee Mon Aung,",
+      "Conner Bailey,",
+      "Michael Akester,",
+      "Quyen Le Cao,",
+      "Tu Quang Trinh,",
+      "Cuong Van Hoang,",
+      "Timothy B. Sulser,",
+      "Keith Wiebe"
+    ],
+    "doi": "https://doi.org/10.3389/fsufs.2022.829157",
+    "journalVolume": "Vol. 6",
+    "issn": "2571-581X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-food-systems#",
+    "abstract": "The Vietnamese fisheries sector, including both marine fisheries and aquaculture, has made spectacular progress in recent years, becoming one of the top seafood producing and exporting countries in the world. Looking forward, development goals of this sector must address challenges associated with climate change, including changing distribution of commercially important marine species such as tuna and disruptions to land-based aquaculture production systems. This study investigates the prospective climate change impacts on Vietnam's fisheries sector, focusing on four key commodities including capture fisheries (tuna), freshwater aquaculture (pangasius catfish and tilapia), and brackish water aquaculture (shrimp). The extent of impact varies, but climate change represents a potentially significant threat to sustainable production in each production system. Producers, policy makers, and other stakeholders need to plan for and adapt to climate change to ensure the sustainable development of Vietnam's fisheries sector.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fsufs.2022.829157/full"
+  },
+  {
+    "title": "Introduction to the Fall 2023 Issue",
+    "authors": [
+      "Peter H. Siegel"
+    ],
+    "doi": "https://doi.org/10.1109/JMW.2023.3313560",
+    "journalVolume": "Vol. 3,\n                                no. 4\n                                \n                                  pp.\n                                  1071\n                                  – 1080",
+    "issn": "2692-8388 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Telecommunication",
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Electric apparatus and materials. Electric circuits. Electric networks"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9171629",
+    "abstract": "Our fall issue of IEEE Journal of Microwaves opens with great news: we are now being indexed on Clarivate's Web of Science! We will also have our papers appearing on Elsevier's Scopus database as early as November. In July, we were joined by a new assistant editor, Jackie Steele who, in addition to the normal editorial functions, is helping to promote our authors and our journal. Jackie has already set up a JMW forum on LinkedIn™ and started a monthly newsletter. In this issue you will find 16 new research papers covering topics as diverse as optimal power beaming transmitter arrays to a new ultra-wideband cryogenic isolator, plus the more usual components, filters, radar, and communications articles. We also share the third iteration of our continuing series of articles from Topic Editor Allison Marsh, on Women in Microwaves. Our subject is University of Minnesota Professor Rhonda Franklin. Our usage numbers now top 420,000 and our latest IEEEXplore citation count sits at 8.79 per article published. Also in this issue – our full list of 2023 reviewers. Based on feedback from our July special series article Making Waves: Microwaves in Climate Change, we have started planning for a full special issue on this topic to be released in late 2024. A Call for Papers can be found at the end of this issue's table of contents.",
+    "readLink": "https://ieeexplore.ieee.org/document/10271515/"
+  },
+  {
+    "title": "Impacts of Zagreb’s Urban Development on Dynamic Changes in Stream Landscapes from Mid-Twentieth Century",
+    "authors": [
+      "Sanja Gašparović,",
+      "Ana Sopina,",
+      "Anton Zeneral"
+    ],
+    "doi": "https://doi.org/10.3390/land11050692",
+    "journalVolume": "Vol. 11,\n                                no. 692\n                                \n                                  p.\n                                  692",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Urban streams constitute a valuable form of multi-functional blue and green infrastructure (BGI) and can support urban development to generate ecosystem, social, and economic benefits. In global cities, planning for BGI enhancement contributes to climate change adaptation, ecosystem restoration, community health and wellbeing, improved quality of life, etc. This research aims to assess the dynamics of stream landscape change in Zagreb as well as the influence of urban development on the blue and green landscape and related urban values. The analysis of landscape features and their planning is conducted at the level of the stream system of the whole city of Zagreb and at the level of two stream sequences by superimposing spatial data from cartographic sources. By developing an urban planning-social-ecological approach to evaluation, monitoring, and management, a quantitative and qualitative trend in stream landscape changes is identified and indicators for detecting areas of critical urbanization pressure are established. This research confirms the trend of negative changes in the urban BGI, evident in the present state (interruption of open streams, and the reduction, fragmentation, and disconnection of blue and green landscape), as well as in the planned neglect (plans for further stream closures and reduction in public green areas). Stream landscape potential is emphasized as one of the greatest urban assets for improving the system of BGI, and areas needed for their prioritization in urban planning measures, directed towards an increase in multiple landscape values, are determined.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/5/692"
+  },
+  {
+    "title": "Terpenoid Metabolic Engineering in Photosynthetic Microorganisms",
+    "authors": [
+      "Konstantinos Vavitsas,",
+      "Michele Fabris,",
+      "Claudia E. Vickers"
+    ],
+    "doi": "https://doi.org/10.3390/genes9110520",
+    "journalVolume": "Vol. 9,\n                                no. 11\n                                \n                                  p.\n                                  520",
+    "issn": "2073-4425 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Genetics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/genes/",
+    "abstract": "Terpenoids are a group of natural products that have a variety of roles, both essential and non-essential, in metabolism and in biotic and abiotic interactions, as well as commercial applications such as pharmaceuticals, food additives, and chemical feedstocks. Economic viability for commercial applications is commonly not achievable by using natural source organisms or chemical synthesis. Engineered bio-production in suitable heterologous hosts is often required to achieve commercial viability. However, our poor understanding of regulatory mechanisms and other biochemical processes makes obtaining efficient conversion yields from feedstocks challenging. Moreover, production from carbon dioxide via photosynthesis would significantly increase the environmental and potentially the economic credentials of these processes by disintermediating biomass feedstocks. In this paper, we briefly review terpenoid metabolism, outline some recent advances in terpenoid metabolic engineering, and discuss why photosynthetic unicellular organisms—such as algae and cyanobacteria—might be preferred production platforms for the expression of some of the more challenging terpenoid pathways",
+    "readLink": "https://www.mdpi.com/2073-4425/9/11/520"
+  },
+  {
+    "title": "Ecosystem responses to exotic earthworm invasion in northern North American forests",
+    "authors": [
+      "Nico Eisenhauer,",
+      "Olga Ferlian,",
+      "Dylan Craven,",
+      "Jes Hines,",
+      "Malte Jochum"
+    ],
+    "doi": "https://doi.org/10.3897/rio.5.e34564",
+    "journalVolume": "Vol. 5\n                                \n                                \n                                  pp.\n                                  1\n                                  – 24",
+    "issn": "2367-7163 (Online)",
+    "publisher": "Pensoft Publishers",
+    "countryOfPublisher": "Bulgaria",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://rio.pensoft.net",
+    "abstract": "Earth is experiencing a substantial loss of biodiversity at the global scale, while both species gains and losses are occurring at local and regional scales. The influence of these nonrandom changes in species distributions could profoundly affect the functioning of ecosystems and the essential services that they provide. However, few experimental tests have been conducted examining the influence of species invasions on ecosystem functioning. Even fewer have been conducted using invasive ecosystem engineers, which can have disproportionately strong influence on native ecosystems relative to their own biomass. The invasion of exotic earthworms is a prime example of an ecosystem engineer that is influencing many ecosystems around the world. In particular, European earthworm invasions of northern North American forests cause simultaneous species gains and losses with significant consequences for essential ecosystem processes like nutrient cycling and crucial services to humanity like soil erosion control and carbon sequestration. Exotic earthworms are expected to select for specific traits in communities of soil microorganisms (fast-growing bacteria species), soil fauna (promoting the bacterial energy channel), and plants (graminoids) through direct and indirect effects. This will accelerate some ecosystem processes and decelerate others, fundamentally altering how invaded forests function. This project aims to investigate ecosystem responses of northern North American forests to earthworm invasion. Using a novel, synthetic combination of field observations, field experiments, lab experiments, and meta-analyses, the proposed work will be the first systematic examination of earthworm effects on (1) plant communities and (2) soil food webs and processes. Further, (3) effects of a changing climate (warming and reduced summer precipitation) on earthworm performance will be investigated in a unique field experiment designed to predict the future spread and consequences of earthworm invasion in North America. By assessing the soil chemical and physical properties as well as the taxonomic (e.g., by the latest next-generation sequencing techniques) and functional composition of plant, soil microbial and animal communities and the processes they drive in four forests, work packages I-III take complementary approaches to derive a comprehensive and generalizable picture of how ecosystems change in response to earthworm invasion. Finally, in work package IV, meta-analyses will be used to integrate the information from work packages I-III and existing literature to investigate if earthworms cause invasion waves, invasion meltdowns, habitat homogenization, and ecosystem state shifts. Global data will be synthesized to test if the relative magnitude of effects differs from place to place depending on the functional dissimilarity between native soil fauna and exotic earthworms. Moving from local to global scale, the present proposal examines the influence of earthworm invasions on biodiversity–ecosystem functioning relationships from an aboveground–belowground perspective in natural settings. This approach is highly innovative as it utilizes the invasion by exotic earthworms as an exciting model system that links invasion biology with trait-based community ecology, global change research, and ecosystem ecology, pioneering a new generation of biodiversity–ecosystem functioning research.",
+    "readLink": "https://riojournal.com/article/34564/download/pdf/"
+  }
+]

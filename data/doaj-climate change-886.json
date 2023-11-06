@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Soil–water characteristic curve of unsaturated collapsible soils",
+    "authors": [
+      "Al-Obaidi Qasim A.,",
+      "Schanz Tom"
+    ],
+    "doi": "https://doi.org/10.1515/jmbm-2022-0210",
+    "journalVolume": "Vol. 32,\n                                no. 1\n                                \n                                  pp.\n                                  p. 117\n                                  – 22",
+    "issn": "0334-8938 (Print)",
+    "publisher": "2191-0243 (Online)",
+    "countryOfPublisher": "De Gruyter",
+    "lcc": [
+      "Poland",
+      "Technology: Mechanical engineering and machinery"
+    ],
+    "journalUrl": "https://www.degruyter.com/view/j/jmbm",
+    "abstract": "Collapsible soils are almost found in unsaturated states and involved significant engineering problems. Geotechnical challenges of such soils are represented by the hydro-mechanical behaviour during wetting–drying cycles due to the humidity and climate conditions. The main objective of this paper is to investigate the soil–water characteristic curve (SWCC) of unsaturated collapsible soils. In this study, three types of collapsible soils were investigated such as natural soils of sandy gypseous, silty loess, and artificial soil of gypsum–sand mixture. Determination of soil–water characteristic curve represented by wetting and drying paths has been done using a combination of the axis-translation technique (i.e. pressure plate device) and vapour equilibrium technique (i.e. salts solution desiccators) to cover a wide range of applied suction. The test results show that the air-entry value for all soils occurs at a very low suction range. At the boundary effect zone, the coarse grain size of the soil mass cannot hold the water molecules in the pore space, even with a low value of imposed suction. Moreover, the amount of hysteresis varied based on the geological formation and homogeneity of the soil fabric. Furthermore, SWCC has been interpreted by insignificant volume change and a slight reduction in void ratio, especially at high applied suction.",
+    "readLink": "https://doi.org/10.1515/jmbm-2022-0210"
+  },
+  {
+    "title": "Comparing a thermo-mechanical Weichselian Ice Sheet reconstruction to reconstructions based on the sea level equation: aspects of ice configurations and glacial isostatic adjustment",
+    "authors": [
+      "P. Schmidt,",
+      "B. Lund,",
+      "J-O. Näslund,",
+      "J. Fastook"
+    ],
+    "doi": "https://doi.org/10.5194/se-5-371-2014",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  371\n                                  – 388",
+    "issn": "1869-9510 (Print)",
+    "publisher": "1869-9529 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Stratigraphy"
+    ],
+    "journalUrl": "http://www.solid-earth.net",
+    "abstract": "In this study we compare a recent reconstruction of the Weichselian Ice Sheet as simulated by the University of Maine ice sheet model (UMISM) to two reconstructions commonly used in glacial isostatic adjustment (GIA) modelling: ICE-5G and ANU (Australian National University, also known as RSES). The UMISM reconstruction is carried out on a regional scale based on thermo-mechanical modelling, whereas ANU and ICE-5G are global models based on the sea level equation. The three models of the Weichselian Ice Sheet are compared directly in terms of ice volume, extent and thickness, as well as in terms of predicted glacial isostatic adjustment in Fennoscandia. The three reconstructions display significant differences. Whereas UMISM and ANU includes phases of pronounced advance and retreat prior to the last glacial maximum (LGM), the thickness and areal extent of the ICE-5G ice sheet is more or less constant up until the LGM. During the post-LGM deglaciation phase ANU and ICE-5G melt relatively uniformly over the entire ice sheet in contrast to UMISM, which melts preferentially from the edges, thus reflecting the fundamental difference in the reconstruction scheme. We find that all three reconstructions fit the present-day uplift rates over Fennoscandia equally well, albeit with different optimal earth model parameters. Given identical earth models, ICE-5G predicts the fastest present-day uplift rates, and ANU the slowest. Moreover, only for ANU can a unique best-fit model be determined. For UMISM and ICE-5G there is a range of earth models that can reproduce the present-day uplift rates equally well. This is understood from the higher present-day uplift rates predicted by ICE-5G and UMISM, which result in bifurcations in the best-fit upper- and lower-mantle viscosities. We study the areal distributions of present-day residual surface velocities in Fennoscandia and show that all three reconstructions generally over-predict velocities in southwestern Fennoscandia and that there are large differences in the fit to the observational data in Finland and northernmost Sweden and Norway. These difference may provide input to further enhancements of the ice sheet reconstructions.",
+    "readLink": "http://www.solid-earth.net/5/371/2014/se-5-371-2014.pdf"
+  },
+  {
+    "title": "A Battery of Soil and Plant Indicators of NBS Environmental Performance in the Context of Global Change",
+    "authors": [
+      "Pilar Andrés,",
+      "Enrique Doblas-Miranda,",
+      "Stefania Mattana,",
+      "Roberto Molowny-Horas,",
+      "Jordi Vayreda,",
+      "Moisès Guardiola,",
+      "Joan Pino,",
+      "Javier Gordillo"
+    ],
+    "doi": "https://doi.org/10.3390/su13041913",
+    "journalVolume": "Vol. 13,\n                                no. 1913\n                                \n                                  p.\n                                  1913",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Nature-based solutions (NBSs) for risk reduction produce environmental effects that must be assessed to evaluate their performance. In a context of climate change and growing concern about the loss of biodiversity, indicators informing about ecosystem complexity, resilience and stability are required. NBS projects hardly ever include environmental monitoring programs and, at best, NBS performance is evaluated based on elementary indicators that provide poor information about ecosystem functions and services. Within the framework of the PHUSICOS (EU, H2020) project, a NBS approach is being applied to reduce the hydrometeorological risks (rock falls and snow avalanches) that threaten a transnational road and a very populated town in the Pyrenees range. In both cases, the planned actions are modifying soil and vegetation structure and functioning as well as the environmental services they provide. Here we present a set of soil and plant indicators designed to be included in the postoperation monitoring plan of both NBS projects. We provide a description and information about the range of values of every indicator measured in the study sites together with indications about analytical methods and sampling calendar. We discuss the trade-offs between monetary cost, expertise requirements and meaningfulness of the indicators.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/4/1913"
+  },
+  {
+    "title": "Long-term surface pCO2 trends from observations and models",
+    "authors": [
+      "Jerry F. Tjiputra,",
+      "Are Olsen,",
+      "Laurent Bopp,",
+      "Andrew Lenton,",
+      "Benjamin Pfeil,",
+      "Tilla Roy,",
+      "Joachim Segschneider,",
+      "Ian Totterdell,",
+      "Christoph Heinze"
+    ],
+    "doi": "https://doi.org/10.3402/tellusb.v66.23083",
+    "journalVolume": "Vol. 66,\n                                no. 0\n                                \n                                  pp.\n                                  1\n                                  – 24",
+    "issn": "1600-0889 (Online)",
+    "publisher": "Stockholm University Press",
+    "countryOfPublisher": "Sweden",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://b.tellusjournals.se",
+    "abstract": "We estimate regional long-term surface ocean pCO2 growth rates using all available underway and bottled biogeochemistry data collected over the past four decades. These observed regional trends are compared with those simulated by five state-of-the-art Earth system models over the historical period. Oceanic pCO2 growth rates faster than the atmospheric growth rates indicate decreasing atmospheric CO2 uptake, while ocean pCO2 growth rates slower than the atmospheric growth rates indicate increasing atmospheric CO2 uptake. Aside from the western subpolar North Pacific and the subtropical North Atlantic, our analysis indicates that the current observation-based basin-scale trends may be underestimated, indicating that more observations are needed to determine the trends in these regions. Encouragingly, good agreement between the simulated and observed pCO2 trends is found when the simulated fields are subsampled with the observational coverage. In agreement with observations, we see that the simulated pCO2 trends are primarily associated with the increase in surface dissolved inorganic carbon (DIC) associated with atmospheric carbon uptake, and in part by warming of the sea surface. Under the RCP8.5 future scenario, DIC continues to be the dominant driver of pCO2 trends, with little change in the relative contribution of SST. However, the changes in the hydrological cycle play an increasingly important role. For the contemporary (1970–2011) period, the simulated regional pCO2 trends are lower than the atmospheric growth rate over 90% of the ocean. However, by year 2100 more than 40% of the surface ocean area has a higher oceanic pCO2 trend than the atmosphere, implying a reduction in the atmospheric CO2 uptake rate. The fastest pCO2 growth rates are projected for the subpolar North Atlantic, while the high-latitude Southern Ocean and eastern equatorial Pacific have the weakest growth rates, remaining below the atmospheric pCO2 growth rate. Our work also highlights the importance and need for a sustained long-term observing strategy to continue monitoring the change in the ocean anthropogenic CO2 sink and to better understand the potential carbon cycle feedbacks to climate that could arise from it.",
+    "readLink": "http://www.tellusb.net/index.php/tellusb/article/download/23083/pdf_1"
+  },
+  {
+    "title": "Monitoring tropical debris-covered glacier dynamics from high-resolution unmanned aerial vehicle photogrammetry, Cordillera Blanca, Peru",
+    "authors": [
+      "O. Wigmore,",
+      "O. Wigmore,",
+      "O. Wigmore,",
+      "O. Wigmore,",
+      "B. Mark,",
+      "B. Mark"
+    ],
+    "doi": "https://doi.org/10.5194/tc-11-2463-2017",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  2463\n                                  – 2480",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "The glaciers of the Cordillera Blanca, Peru, are rapidly retreating and thinning as a result of climate change, altering the timing, quantity and quality of water available to downstream users. Furthermore, increases in the number and size of proglacial lakes associated with these melting glaciers is increasing potential exposure to glacier lake outburst floods (GLOFs). Understanding how these glaciers are changing and their connection to proglacial lake systems is thus of critical importance. Most satellite data are too coarse for studying small mountain glaciers and are often affected by cloud cover, while traditional airborne photogrammetry and lidar are costly. Recent developments have made unmanned aerial vehicles (UAVs) a viable and potentially transformative method for studying glacier change at high spatial resolution, on demand and at relatively low cost.Using a custom designed hexacopter built for high-altitude (4000–6000 m a. s. l. ) operation, we completed repeat aerial surveys (2014 and 2015) of the debris-covered Llaca Glacier tongue and proglacial lake system. High-resolution orthomosaics (5 cm) and digital elevation models (DEMs) (10 cm) were produced and their accuracy assessed. Analysis of these datasets reveals highly heterogeneous patterns of glacier change. The most rapid areas of ice loss were associated with exposed ice cliffs and meltwater ponds on the glacier surface. Considerable subsidence and low surface velocities were also measured on the sediments within the pro-glacial lake, indicating the presence of extensive regions of buried ice and continued connection to the glacier tongue. Only limited horizontal retreat of the glacier tongue was observed, indicating that measurements of changes in aerial extent alone are inadequate for monitoring changes in glacier ice quantity.",
+    "readLink": "https://www.the-cryosphere.net/11/2463/2017/tc-11-2463-2017.pdf"
+  },
+  {
+    "title": "Long-term response of trophic structure and function to dam removal in a subtropical mountain stream",
+    "authors": [
+      "An-Cheng Lin,",
+      "Hsing-Juh Lin"
+    ],
+    "doi": "Vol. 156\n                                \n                                \n                                  p.\n                                  111136",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Although dam removal has been considered a viable strategy to mitigate habitat fragmentation within a stream, long-term ecosystem effects after dam removal have rarely been discussed. In an effort to enhance the resilience of the critically endangered Formosan salmon (Oncorhynchus masou formosanus) in response to climate change, a 15-m-high check dam in a subtropical high-mountain stream was half-removed. The aim of this study was to analyze the long-term response of trophic structure and function to dam removal by constructing Ecopath models upstream and downstream of the removed dam at different times. Field surveys for model parameters were conducted for a complete seasonal cycle 1 year before dam removal, 1 and 2 years (short-term) after dam removal and 7 and 8 years (long-term) after dam removal. Both upstream and downstream systems moved toward maturity after dam removal. In the short term after dam removal, more energy can be transferred further up in the food webs. The vitality and diversity of both systems also increased. In the long term after dam removal, although the transfer efficiencies of both systems generally showed a decreasing pattern, the resilience increased. Compared to the upstream system, the effects of dam removal on the downstream system were more evident. In the downstream system, dam removal enhanced the vitality of the Formosan salmon and thus the top-down control. The dominance of detritivory flow in the food web also shifted toward the dominance of herbivory flow. Consequently, the downstream system reached more maturity, and the food web was more closely linked. The ecosystem attributes of the upstream and downstream systems converged, suggesting that the decoupling between upstream and downstream systems resulting from damming disappeared 8 years after dam removal.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X23012785"
+  },
+  {
+    "title": "Comparison of the Performance of CMIP5 and CMIP6 in the Prediction of Rainfall Trends, Case Study Quebec City",
+    "authors": [
+      "Amirhossein Salimi,",
+      "Tadros Ghobrial,",
+      "Hossein Bonakdari"
+    ],
+    "doi": "https://doi.org/10.3390/ECWS-7-14243",
+    "journalVolume": "Vol. 25,\n                                no. 42\n                                \n                                  p.\n                                  42",
+    "issn": "2673-4931 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/environsciproc",
+    "abstract": "Climate change affects many meteorological parameters that could result in spatiotemporal variations of the hydrological cycle. These variations can affect local rainfall intensities or design storms; therefore, it is necessary to assess the local effects of climate change in different areas. Therefore, the current research aims at evaluating the accuracy of the precipitation data of the most recent Coupled Model Intercomparison Project phases 5 and 6 (CanESM2 from CMIP5 and CanESM5 from CMIP6 models), over a historical period from 1953 to 2010, as well as the predicted data for the future between 2010 and 2050 for the Quebec City rain gauge Station (Jean Lesage Intl). In this regard, precipitation data were analyzed using a statistical index to find the most accurate model for the study area. The results of this evaluation showed that CanESM5 is more accurate than CanESM2 for most of the evaluation indices. However, both of these models did not perform well since the precipitation prediction for CanESM5 (as the accurate model) R index was 0.48 for the monthly and was 0.75 in the seasonal scale. In addition, the Bias index revealed that both models underestimated rainfall prediction with negative index values for both scales and models. The trend of future precipitation under socio–economic scenarios (4.5 (pessimistic) and 8.5 (optimistic)) shows that the changes in future precipitation are not significant. In addition, for scenario 4.5, the trend of precipitation decreases for almost half of the year, while for scenario 8.5, the magnitude of the decrease and the number of months with a decreasing trend of precipitation are significantly reduced when compared to scenario 4.5.",
+    "readLink": "https://www.mdpi.com/2673-4931/25/1/42"
+  },
+  {
+    "title": "Silviculture and forest protection: results and prospects from third Italian National Congress of Silviculture",
+    "authors": [],
+    "doi": "https://doi.org/10.3832/efor0570-006",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  66\n                                  – 74",
+    "issn": "1824-0119 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://foresta.sisef.org/",
+    "abstract": "This paper summarizes the topics discussed during the session “Silviculture, Forest Protection” of the Third Italian National Congress of Silviculture. The health of Italian forests is often depending on irrational forest exploitation schemes and is threatened by the arrival of invasive species, the strengthening of native pests and diseases, and the increase of stress related to changing environment (both climate and pollution). The climate change is considered as a major complication in forest protection, as it is related to increasing outbreaks both directly and indirectly, through changes in tree physiology. Drawbacks are observed on biodiversity, forest growth and productivity, and protective function of forests. Ecosystems with high biodiversity may show a high degree of resilience to the changes. It is important to address these issues in the framework of the systemic silviculture approach to the management of Italian forests. Important requisites are availability of trained staff, funding for research and monitoring projects, access to the most uptodated scientific knowledge and methodologies. An integration of different types of available expertise (entomologists, plant pathologists, pollution scientists) is also envisaged.",
+    "readLink": "http://www.sisef.it/forest@/show.php?id=570&amp;lang=en"
+  },
+  {
+    "title": "Achieving the Sustainable Development Goals through good enough governance: lessons from Argentine and Brazilian Municipalities",
+    "authors": [
+      "Gabriela Litre,",
+      "Marcel Bursztyn,",
+      "Jane Simoni,",
+      "Rafael Morais Reis"
+    ],
+    "doi": "https://doi.org/10.31285/AGRO.24.139",
+    "journalVolume": "Vol. 24,\n                                no. 2\n                                \n                                  pp.\n                                  1\n                                  – 17",
+    "issn": "1510-0839 (Print)",
+    "publisher": "2301-1548 (Online)",
+    "countryOfPublisher": "Universidad de la República",
+    "lcc": [
+      "Uruguay",
+      "Agriculture",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://agrocienciauruguay.uy/",
+    "abstract": "This article analyses how two environmental “good enough-governance” approaches in climate change vulnerable areas in Argentine (Pampa biome) and Brazilian (Amazon biome) municipalities have the potential of contributing to the achievement of the Sustainable Development Goals 12 (responsible consumption and production), 13 (climate action), 15 (life on land), 16 (Peace, Justice and Strong Institutions), and 17 (partnerships for the goals). Local public officials from Brazil often by-pass frustrating bureaucracy by transferring their own public responsibilities to NGOs (subsidiarity principle). Argentine public servants, on the other hand, are frequently filling the gaps left by the fragile vertical integration of environmental actions through bottom-up, horizontal initiatives among municipalities. Both approaches show strengths but also fragilities, such as the lack of policy continuity. In spite of the socio-environmental differences, many Brazilian and Argentine local agents are developing a common array of individual and social “soft skills” which are usually attributed to NGOs: goal-oriented, innovative thinking, teamwork, integration and flexibility, all necessary to the localization of the Agenda 2030. Environmental institutions and norms at the local level could be rearranged to worship these soft skills in the public sector by putting people at the centre of adaptive decision-making through capacity development, career incentives and accountability.",
+    "readLink": "http://agrocienciauruguay.uy/ojs/index.php/agrociencia/article/view/139/335"
+  },
+  {
+    "title": "Used Cooking Oils in the Biogas Chain: A Technical and Economic Assessment",
+    "authors": [
+      "Erika Carnevale,",
+      "Giovanni Molari,",
+      "Matteo Vittuari"
+    ],
+    "doi": "https://doi.org/10.3390/en10020192",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  p.\n                                  192",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The current concerns on global energy security, climate change, and environmental pollution represent some of the major elements of the growing interest on renewable energy. In this framework agro-food energy systems are at the center of a twofold debate: on the one hand they represent a key option for energy production while on the other their sustainability is threatened by the expansion of the bioenergy market that could lead to negative social and environmental consequences. The aim of this work is to evaluate—through a case study—the technical and economic feasibility of the replacement of energy crops (ECs) with used cooking oil (UCO) in an anaerobic digestion (AD) full-scale plant. At this purpose, a full-scale plant performing AD was monitored for two years. Three scenarios were developed and compared to evaluate the impacts and the potential benefits in terms of land saving in case of a substitution of ECs with UCO. Results highlighted a reduction of land use of over 50% if UCO is introduced in co-digestion with ECs. The lack of an appropriate legislative framework limits the utilization of used cooking oils (UCOs) in AD with a consequently missed opportunity for biogas owners that could find an important alternative in UCO.",
+    "readLink": "http://www.mdpi.com/1996-1073/10/2/192"
+  }
+]

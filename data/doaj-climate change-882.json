@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Fieldwork and Geological Acculturation: Between Necessity and False Evidences",
+    "authors": [
+      "Denise Orange Ravachol"
+    ],
+    "doi": "Vol. 6,\n                                no. 2\n                                \n                                  pp.\n                                  25\n                                  – 39",
+    "issn": "2577-4441 (Print)",
+    "publisher": "2577-445X (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/international-journal-of-geoheritage-and-parks/",
+    "abstract": "Abstract:: In this article, we address the conditions of a growing demand of geological acculturation1, in the “field” and in a relatively short time, as Geoparks can offer. We borrow from the practice of didactics in science education regarding the difficulties inherent to the appropriation and dissemination of scientific knowledge, and on what hinders learning in the earth sciences. Examples of geological problems, chosen at different scales (the formation of a mountain range, the reconstruction of climate change, the explanation of granitic sands, and of microgranite veins) are used to clarify the spontaneous relationship of the profane to the geological field, and to identify points of reference so that they can detach themselves from common thought. We show that it is possible to achieve this in the field by combining the strengthening of their empirical “experience” with a consolidation of their theoretical “experience” and by giving them the means to control the little geological stories they easily construct. With their remarkable and varied geological resources, Geoparks can contribute greatly to this acculturation. Keywords:: geological acculturation, field experience, theoretical models, common sense, actualism, time",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2577444119300140"
+  },
+  null,
+  {
+    "title": "Modelling the carbon budget of intensive forest monitoring sites in Germany using the simulation model BIOME-BGC",
+    "authors": [
+      "Jochheim H,",
+      "Puhlmann M,",
+      "Beese F,",
+      "Berthold D,",
+      "Einert P,",
+      "Kallweit R,",
+      "Konopatzky A,",
+      "Meesenburg H,",
+      "Meiwes K-J,",
+      "Raspe S,",
+      "Schulte-Bisping H,",
+      "Schulz C"
+    ],
+    "doi": "https://doi.org/10.3832/ifor0475-002",
+    "journalVolume": "Vol. 2,\n                                no. 1\n                                \n                                  pp.\n                                  7\n                                  – 10",
+    "issn": "1971-7458 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://iforest.sisef.org",
+    "abstract": "It is shown that by calibrating the simulation model BIOME-BGC with mandatory and optional Level II data, within the ICP Forest programme, a well-founded calculation of the carbon budget of forest stands is achievable and, based on succeeded calibration, the modified BIOME-BGC model is a useful tool to assess the effect of climate change on forest ecosystems.",
+    "readLink": "https://iforest.sisef.org/contents/?id=ifor0475-002"
+  },
+  {
+    "title": "Integrating Landscape Pattern Metrics to Map Spatial Distribution of Farmland Soil Organic Carbon on Lower Liaohe Plain of Northeast China",
+    "authors": [
+      "Xiaochen Liu,",
+      "Zhenxing Bian,",
+      "Zhentao Sun,",
+      "Chuqiao Wang,",
+      "Zhiquan Sun,",
+      "Shuang Wang,",
+      "Guoli Wang"
+    ],
+    "doi": "https://doi.org/10.3390/land12071344",
+    "journalVolume": "Vol. 12,\n                                no. 1344\n                                \n                                  p.\n                                  1344",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Accurate digital mapping of farmland soil organic carbon (SOC) contributes to sustainable agricultural development and climate change mitigation. Farmland landscape pattern has changed greatly under anthropogenic influence, which should be considered an environmental variable to characterize the impact of human activities on SOC. In this study, we verified the feasibility of integrating landscape patterns in SOC prediction on Lower Liaohe Plain. Specifically, ten variables (climate, topographic, and landscape pattern variables) were selected for prediction with Random Forest (RF) and Support Vector Machines (SVMs). The effectiveness of landscape metrics was verified by establishing different variable combinations: (1) natural variables, and (2) natural and landscape pattern variables. The results confirmed that landscape variables improved mapping accuracy compared with natural variables. R2 of RF and SVM increased by 20.63% and 20.75%, respectively. RF performed better than SVM with smaller prediction error. Ranking of importance of variables showed that temperature and precipitation were the most important variables. The Aggregation Index (AI) contributed more than elevation, becoming the most important landscape variable. The Mean Contiguity Index (CONTIG-MN) and Landscape Contagion Index (CONTAG) also contributed more than other topographic variables. We conclude that landscape patterns can improve mapping accuracy and support SOC sequestration by optimizing farmland landscape management policies.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/7/1344"
+  },
+  {
+    "title": "Climate Change and Water-Related Infectious Diseases",
+    "authors": [
+      "Gordon Nichols,",
+      "Iain Lake,",
+      "Clare Heaviside"
+    ],
+    "doi": "https://doi.org/10.3390/atmos9100385",
+    "journalVolume": "Vol. 9,\n                                no. 10\n                                \n                                  p.\n                                  385",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Background: Water-related, including waterborne, diseases remain important sources of morbidity and mortality worldwide, but particularly in developing countries. The potential for changes in disease associated with predicted anthropogenic climate changes make water-related diseases a target for prevention. Methods: We provide an overview of evidence on potential future changes in water-related disease associated with climate change. Results: A number of pathogens are likely to present risks to public health, including cholera, typhoid, dysentery, leptospirosis, diarrhoeal diseases and harmful algal blooms (HABS). The risks are greatest where the climate effects drive population movements, conflict and disruption, and where drinking water supply infrastructure is poor. The quality of evidence for water-related disease has been documented. Conclusions: We highlight the need to maintain and develop timely surveillance and rapid epidemiological responses to outbreaks and emergence of new waterborne pathogens in all countries. While the main burden of waterborne diseases is in developing countries, there needs to be both technical and financial mechanisms to ensure adequate quantities of good quality water, sewage disposal and hygiene for all. This will be essential in preventing excess morbidity and mortality in areas that will suffer from substantial changes in climate in the future.",
+    "readLink": "http://www.mdpi.com/2073-4433/9/10/385"
+  },
+  {
+    "title": "Grassland ecology in China: perspectives and challenges",
+    "authors": [
+      "Deli WANG, Ling WANG, Jushan LIU, Hui ZHU, Zhiwei ZHONG"
+    ],
+    "doi": "https://doi.org/10.15302/J-FASE-2018205",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  24\n                                  – 43",
+    "issn": "2095-7505 (Print)",
+    "publisher": "2095-977X (Online)",
+    "countryOfPublisher": "Higher Education Press",
+    "lcc": [
+      "China",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://journal.hep.com.cn/fase",
+    "abstract": "During the last few decades, there have been an increasing number of studies on grassland ecology in China, involving the classic ecology concepts or theories and the applicable ecological principles of grassland conservation or management. This paper reviews the main progress in the following aspects. (1) Research on grassland species adaptation and resistance, population dynamics and foraging behavior, and biodiversity and community stability. (2) Research on managed grassland ecosystems (grassland grazing ecology) including grazing effects on grassland ecosystem function and foraging behavior by large herbivores. (3) Global climate change and grassland processes and functioning. (4) Applied research on grassland restoration and ecosystem health assessments such as vegetation restoration, restoration of ecosystem functioning, and assessment methods. There have been significant advances in grassland ecology, including the functions of ecosystem biodiversity, the ecological stoichiometry mechanisms affecting grassland community stability, grazing regulation of plant diversity and nutrient cycling. Grassland ecologists have succeeded in making these advances through observational, experimental and theoretical studies. Nevertheless, there are still significant challenges for the grassland ecology research, including understanding of grassland spatial processes, grassland grazing and multi-functionality, integrated effects of global climate change across grassland areas, as well as the ecological methodology and experimental techniques in grassland ecology.",
+    "readLink": "http://academic.hep.com.cn/fase/fileup/2095-7505/PDF/1518407810411-1194704050.pdf"
+  },
+  {
+    "title": "Warming offsets the benefits of elevated CO2 in water relations while amplifies elevated CO2-induced reduction in forage nutritional value in the C4 grass Megathyrsus maximus",
+    "authors": [
+      "Eduardo Habermann,",
+      "Eduardo Augusto Dias de Oliveira,",
+      "Daniele Ribeiro Contin,",
+      "João Vitor Campos Pinho Costa,",
+      "Katia Aparecida de Pinho Costa,",
+      "Carlos Alberto Martinez"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2022.1033953",
+    "journalVolume": "Vol. 13",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Tropical grasslands are very important to global carbon and water cycles. C4 plants have increased heat tolerance and a CO2 concentrating mechanism that often reduces responses to elevated concentrations of CO2 ([CO2]). Despite the importance of tropical grasslands, there is a scarcity of studies that elucidate how managed tropical grasslands will be affected by elevated [CO2] and warming. In our study, we used a combination of a temperature-free air-controlled enhancement (T-FACE) and a free-air carbon dioxide enrichment (FACE) systems to increase canopy temperature and [CO2] under field conditions, respectively. We warmed a field-grown pasture dominated by the C4 tropical forage grass Megathyrsus maximus by 2°C above ambient under two levels of [CO2] (ambient (aC) and elevated (eC - 600 ppm) to investigate how these two factors isolated or combined regulate water relations through stomatal regulation, and how this combination affects PSII functioning, biochemistry, forage nutritive value, and digestibility. We demonstrated that the effects of warming negated the effects of eC in plant transpiration, water potential, proline content, and soil moisture conservation, resulting in warming canceling the eCO2-induced improvement in these parameters. Furthermore, there were additive effects between eC and warming for chlorophyll fluorescence parameters and aboveground nutritive value. Warming sharply intensified the eCO2-induced decrease in crude protein content and increases in forage fibrous fraction and lignin, resulting in a smaller forage digestibility under a warmer CO2-enriched atmosphere. Our results highlight the importance of multifactorial studies when investigating global change impacts on managed ecosystems and the potential consequences for the global carbon cycle like amplification in methane emissions by ruminants and feeding a positive climate feedback system.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2022.1033953/full"
+  },
+  {
+    "title": "ARCHAEOLOGICAL AND ENVIRONMENTAL CHANGES BETWEEN 9500 BP AND 4500 BP: A CONTRIBUTION FROM THE SAHARA TO UNDERSTAND EXPANDING DROUGHTS IN THE “GREAT MEDITERRANEAN”",
+    "authors": [
+      "E. A.A. Garcea,",
+      "A. M. Mercuri,",
+      "C. Giraudi"
+    ],
+    "doi": "https://doi.org/10.4462/annbotrm-10270",
+    "journalVolume": "Vol. 3,\n                                no. 0\n                                \n                                  pp.\n                                  115\n                                  – 120",
+    "issn": "0365-0812 (Print)",
+    "publisher": "2239-3129 (Online)",
+    "countryOfPublisher": "University La Sapienza of Rome",
+    "lcc": [
+      "Italy",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://annalidibotanica.uniroma1.it",
+    "abstract": "The Sahara is more connected to the Mediterranean than often assumed and palynology, in particular, has provided evidence of past interrelations between the Mediterranean and the Sahara with pollen spectra from prehistoric Saharan deposits including Mediterranean taxa. In order to show human-environment relationships and populations’ strategies in response to changing environments, this paper presents a case study from the southern Sahara. This region offered a natural laboratory for the study of human/climate interaction as the range of environmental change extended from flood to drought, forcing people to cope with periodic environmental instability. When the tropical rainfall belt migrated northward, watertable outcropped in interdunal depressions and formed permanent lakes, which alternated with severe arid spells. As a case study, this paper presents the results of interdisciplinary investigations on climate changes, human adaptations and subsistence strategies at Gobero, in the southern Sahara of Niger. Gobero is a restricted archaeological area comprising 8 sites that surround the shores of a palaeolake. It was intermittently occupied between about 9500 cal years BP and 4500 BP. Due to alternating environmental conditions it could only be occupied at the beginning and at the end of the most humid periods.",
+    "readLink": "http://ojs.uniroma1.it/index.php/Annalidibotanica/article/view/10270"
+  },
+  {
+    "title": "Relative Contributions of Climate Change and Human Activities on Vegetation Productivity Variation in National Nature Reserves on the Qinghai–Tibetan Plateau",
+    "authors": [
+      "Jia Zhou,",
+      "Tao Lu"
+    ],
+    "doi": "https://doi.org/10.3390/rs14184626",
+    "journalVolume": "Vol. 14,\n                                no. 4626\n                                \n                                  p.\n                                  4626",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "National nature reserves (NNRs) are at the forefront of conservation efforts on the Qinghai–Tibetan Plateau (QTP). However, few studies have examined the vegetation dynamics and their driving forces at the whole QTP scale. In this study, we used potential Net Primary Productivity (PNPP), actual NPP (ANPP), and human-activity-induced NPP (HNPP) to analyze the vegetation dynamics of 42 NNRs on the QTP. Further, we determined the driving factors of vegetation dynamics from 2000 to 2020. The results indicate that, during the 21 years studied, ANPP increased at 83.4% of the NNRs area on the QTP. Additionally, the contributions of climate change and anthropogenic factors to ANPP variation were 59.53% and 40.47%, respectively. The contribution of temperature to ANPP variation was considered high and stable, whereas the contribution of precipitation was relatively lower and variable. Residual analysis showed that human activities had both positive (51.30%) and negative effects (48.70%) on ANPP. Using Hurst exponent analysis, we found that 31.60% of the vegetation for the NNRs on the QTP will likely remain a persistent trend, and 65.4% will be stochastic in the future. By contrast, 3.00% of the vegetation mainly located in southern QTP would show a reverse trend, with most of them distributing in southern QTP, which deserves more attention. This study may help policymakers understand the relative impacts of climate change and human activities on vegetation in the different nature reserves on the QTP.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/18/4626"
+  },
+  {
+    "title": "Effects of aerosol emission changes on sea ice concentration and thickness in the Russian Arctic during the 2020 lockdown",
+    "authors": [
+      "Dency V. Panicker,",
+      "Bhasha H. Vachharajani,",
+      "Rohit Srivastava"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2023.253",
+    "journalVolume": "Vol. 14,\n                                no. 9\n                                \n                                  pp.\n                                  3203\n                                  – 3220",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "During the COVID-19 lockdown, large industries in the Russian Arctic region were closed for two months, leading to a significant reduction in anthropogenic aerosol emissions. This decline in aerosols resulted in a decrease in the human-made aerosol cooling effect. The strict lockdown measures implemented after 18 March 2020 caused a drastic downward fall in considered aerosols. Consequently, there was an impact on air temperature, with temperature differences exceeding 3 K in November and February, while clear-sky top net solar flux values were greater than 13 W m−2. Throughout the lockdown period, the Russian Arctic's annual area average sea ice concentration was 7.72% in 2019 and 7.64% in 2020. The decrease in radiation-scattering pollutants contributed to an increase in global warming. Some pollutants, like sulfur, carbon dioxide, and methane, produced a cooling effect by mitigating greenhouse gases, which could affect the speed of sea ice melt. However, due to the short duration of the pandemic, it remains challenging to determine whether the aerosol changes accelerated or decelerated the sea ice melting process. HIGHLIGHTS COVID lockdown resulted in a drastic drop in the amount of anthropogenic aerosol emitted over the Russian Arctic.; Arctic haze was experienced during April 2020.; The decline in aerosol emissions, black carbon, and sulfur dioxide led to reductions in total aerosol cooling.; Net solar radiation flux showed values greater than 13 W m−2 during lockdown.; No significant effect of anthropogenic activities on the sea ice condition was observed.;",
+    "readLink": "http://jwcc.iwaponline.com/content/14/9/3203"
+  }
+]

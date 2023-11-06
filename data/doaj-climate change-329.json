@@ -1,0 +1,203 @@
+[
+  {
+    "title": "Hybrid Numerical Scheme of Preissmann Slot Model for Transient Mixed Flows",
+    "authors": [
+      "Hyunuk An,",
+      "Seungsoo Lee,",
+      "Seong  Jin Noh,",
+      "Yeonsu Kim,",
+      "Jaekyoung Noh"
+    ],
+    "doi": "https://doi.org/10.3390/w10070899",
+    "journalVolume": "Vol. 10,\n                                no. 7\n                                \n                                  p.\n                                  899",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Preissmann slot model is one of the most widely used models to conceptualize both free-surface and pressurized flows in urban drainage systems. Despite its simplicity and wide range of applications, numerical solutions of the Preissmann slot model suffer from the spurious oscillations, especially when flow conditions switch from free-surface flow to pressurized flow. To overcome this problem, a new hybrid numerical flux solver of the Preissmann slot model is proposed herein, in which the upwind flux solver is combined with the centered flux solver. Numerical experiments are conducted for multiple flow conditions such as typical filling, pipe-filling, and transition-flow conditions. The numerical results indicate that the proposed scheme generally outperforms the conventional flux schemes for various hydraulic conditions and wave velocities. The proposed scheme should be useful to further enhance integrated urban water modeling in which transient mixed flow conditions significantly impact the simulation accuracy during extreme floods.",
+    "readLink": "http://www.mdpi.com/2073-4441/10/7/899"
+  },
+  {
+    "title": "Publishing and spatial planning - the driving role of the institute through the prism of the journal Savremene urbanističke teme (1961-1981)",
+    "authors": [
+      "Milinković Milena,",
+      "Petrić Jasna,",
+      "Niković Ana"
+    ],
+    "doi": "https://doi.org/10.2298/SPAT1942023M",
+    "journalVolume": "Vol. 2019,\n                                no. 42\n                                \n                                  pp.\n                                  23\n                                  – 34",
+    "issn": "1450-569X (Print)",
+    "publisher": "2217-8066 (Online)",
+    "countryOfPublisher": "Institute of Architecture, Urban & Spatial Planning of Serbia",
+    "lcc": [
+      "Serbia",
+      "Fine Arts: Architecture"
+    ],
+    "journalUrl": "http://www.doiserbia.nb.rs/journal.aspx?issn=1450-569X",
+    "abstract": "This paper emphasises the role of people who have been employed at the Institute of Architecture and Urban & Spatial Planning of Serbia as well as a number of its external associates in the development of spatial planning in Serbia. It highlights the significance of the publishing role of the Institute, which goes hand in hand with its work on scientific research and professional projects, with a special focus on the journal Savremene urbanističke teme (Engl. Contemporary Urban Themes), one of its five serial publications. This journal is significant because it published analytical and study articles, translations, critical reviews, and reviews of important achievements in urban and spatial planning at a time when spatial planning in Serbia was still in its pioneering phase, which resulted in the launch of ambitious projects with a wider social impact. The important contribution of this paper is the bibliography of the journal Savremene urbanističke teme, as well as four accompanying registers that present all of the authors of its texts and all of the published titles. [Project of the Serbian Ministry of Education, Science and Technological Development, Grant no. III 47014: The role and implementation of the national spatial plan and regional development documents in the renewal of strategic research, opinion and management in Serbia and Grant no. TR 36035: Spatial, environmental, energy, and social aspects of the development of settlements and climate change - mutual impacts]",
+    "readLink": "http://www.doiserbia.nb.rs/img/doi/1450-569X/2019/1450-569X1942023M.pdf"
+  },
+  {
+    "title": "THE ESTIMATION OF DROUGHTS IN MOLDOVA THROUGH THE STANDARDIZED INDEXES SPI AND SPEI",
+    "authors": [
+      "Maria NEDEALCOV,",
+      "Valentin RĂILEANU"
+    ],
+    "doi": "Vol. Nr. 3,\n                                no. 38\n                                \n                                  pp.\n                                  46\n                                  – 50",
+    "issn": "1857-0461 (Print)",
+    "publisher": "Academy of Sciences of Moldova",
+    "countryOfPublisher": "Moldova, Republic of",
+    "lcc": [
+      "Fine Arts: Arts in general",
+      "Science"
+    ],
+    "journalUrl": "http://akademos.asm.md",
+    "abstract": "The droughts events frequent manifestation over the Republic of Moldova territory, in the context of climate change requires a scientific monitoring adjusted to international researchers. In recent years, internationally, the estimation of this phenomenon occurs through standardized indexes. The most used of these being the Standardized Precipitation Index (SPI) and the Standardized Precipitation Evapotranspiration Index (SPEI). Since there is no a unified definition of drought, the World Meteorological Organization proposes to calculate the indexes, through developed calculation softwares. Thus, based on multi-annual data (1980 − 2014) a regional spatio-temporal estimation concerning drought in the Republic of Moldova was performed, thereby realizing the regional investigations framing in the international ones.",
+    "readLink": "http://akademos.asm.md/files/Estimarea%20secetelor%20in%20Moldova%20prin%20intermediul%20indicilor%20standardiza%C5%A3i%20SPI%20si%20SPEI.pdf"
+  },
+  {
+    "title": "A Place to Call Home: A Synthesis of Delta Smelt Habitat in the Upper San Francisco Estuary",
+    "authors": [
+      "Ted Sommer,",
+      "Francine Mejia"
+    ],
+    "doi": "Vol. 11,\n                                no. 2",
+    "issn": "1546-2366 (Online)",
+    "publisher": "eScholarship Publishing, University of California",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://escholarship.org/uc/jmie_sfews",
+    "abstract": "We used a combination of published literature and field survey data to synthesize the available information about habitat use by delta smelt Hypomesus transpacificus, a declining native species in the San Francisco Estuary. Delta smelt habitat ranges from San Pablo and Suisun bays to their freshwater tributaries, including the Sacramento and San Joaquin rivers. In recent years, substantial numbers of delta smelt have colonized habitat in Liberty Island, a north Delta area that flooded in 1997. The species has a more upstream distribution during spawning as opposed to juvenile rearing periods. Post-larvae and juveniles tend to have a more downstream distribution during wetter years. Delta smelt are most common in low-salinity habitat (<6 psu) with high turbidities (>12 NTU) and moderate temperatures (7 °C to 25 °C). They do not appear to have strong substrate preferences, but sandy shoals are important for spawning in other osmerids. The evidence to date suggests that they generally require at least some tidal flow in their habitats. Delta smelt also occur in a wide range of channel sizes, although they seem to be rarer in small channels (<15 m wide). Nonetheless, there is some evidence that open water adjacent to habitats with long water-residence times (e.g. tidal marsh, shoal, low-order channels) may be favorable. Other desirable features of delta smelt habitat include high calanoid copepod densities and low levels of submerged aquatic vegetation (SAV) and the toxic algae Microcystis. Although enough is known to plan for large-scale pilot habitat projects, these efforts are vulnerable to several factors, most notably climate change, which will change salinity regimes and increase the occurrence of lethal temperatures. We recommend restoration of multiple geographical regions and habitats coupled with extensive monitoring and adaptive management. An overall emphasis on ecosystem processes rather than specific habitat features is also likely to be most effective for recovery of the species.",
+    "readLink": "http://escholarship.org/uc/item/32c8t244"
+  },
+  {
+    "title": "Semiarid watershed response in central New Mexico and its sensitivity to climate variability and change",
+    "authors": [
+      "E. R. Vivoni,",
+      "C. A. Aragón,",
+      "L. Malczynski,",
+      "V. C. Tidwell"
+    ],
+    "doi": "Vol. 13,\n                                no. 6\n                                \n                                  pp.\n                                  715\n                                  – 733",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Hydrologic processes in the semiarid regions of the Southwest United States are considered to be highly susceptible to variations in temperature and precipitation characteristics due to the effects of climate change. Relatively little is known about the potential impacts of climate change on the basin hydrologic response, namely streamflow, evapotranspiration and recharge, in the region. In this study, we present the development and application of a continuous, semi-distributed watershed model for climate change studies in semiarid basins of the Southwest US. Our objective is to capture hydrologic processes in large watersheds, while accounting for the spatial and temporal variations of climate forcing and basin properties in a simple fashion. We apply the model to the Río Salado basin in central New Mexico since it exhibits both a winter and summer precipitation regime and has a historical streamflow record for model testing purposes. Subsequently, we use a sequence of climate change scenarios that capture observed trends for winter and summer precipitation, as well as their interaction with higher temperatures, to perform long-term ensemble simulations of the basin response. Results of the modeling exercise indicate that precipitation uncertainty is amplified in the hydrologic response, in particular for processes that depend on a soil saturation threshold. We obtained substantially different hydrologic sensitivities for winter and summer precipitation ensembles, indicating a greater sensitivity to more intense summer storms as compared to more frequent winter events. In addition, the impact of changes in precipitation characteristics overwhelmed the effects of increased temperature in the study basin. Nevertheless, combined trends in precipitation and temperature yield a more sensitive hydrologic response throughout the year.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/13/715/2009/hess-13-715-2009.pdf"
+  },
+  {
+    "title": "Caught Between a Rock and a Hard Place: Formal and Informal Urban Risk Knowledge in the Uttarakhand Himalayas",
+    "authors": [
+      "Neelakshi Joshi"
+    ],
+    "doi": "https://doi.org/10.1659/MRD-JOURNAL-D-20-00019.1",
+    "journalVolume": "Vol. 41,\n                                no. 1\n                                \n                                  pp.\n                                  R13\n                                  – R21",
+    "issn": "0276-4741 (Print)",
+    "publisher": "1994-7151 (Online)",
+    "countryOfPublisher": "International Mountain Society",
+    "lcc": [
+      "Switzerland",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mrd-journal.org",
+    "abstract": "The mountainous state of Uttarakhand in the Indian Himalayas is experiencing population growth and undergoing a process of rapid urbanization. This is causing concern, because the Uttarakhand Himalayas are exposed to multiple natural hazards and are vulnerable to climate change extremes. Mountain municipalities in Uttarakhand are typically small and lack the human and financial resources to address risk in the rapidly emerging built form. This article takes stock of the current risk knowledge among formal and informal actors involved in the urban development process. It does this through document analysis, 150 household surveys, and 24 key informant interviews in the small but rapidly urbanizing town of Almora. Results indicate that formal knowledge, encoded in building bylaws and land use plans, do not sufficiently address risk and are not adopted by households. In practice, households rely largely on informal building professionals in determining their developmental decisions. However, informal building professionals lack the training and skills to address risk in the built form. This article makes a case for acknowledging informal building professionals and practices and provides recommendations for consolidating them in the developmental process through training and education.",
+    "readLink": "https://bioone.org/doi/10.1659/MRD-JOURNAL-D-20-00019.1"
+  },
+  {
+    "title": "An Alternative Co-Benefit Framework Prioritizing Health Impacts: Potential Air Pollution and Climate Change Mitigation Pathways through Energy Sector Fuel Substitution in South Korea",
+    "authors": [
+      "Dafydd Phillips,",
+      "Tae Yong Jung"
+    ],
+    "doi": "https://doi.org/10.3390/cli9060101",
+    "journalVolume": "Vol. 9,\n                                no. 101\n                                \n                                  p.\n                                  101",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "South Korea had the highest annual average PM2.5 exposure levels in the Organization for Economic Co-operation and Development (OECD) in 2019, and air pollution is consistently ranked as citizens’ top environmental concern. South Korea is also one of the world’s top ten emitter countries of CO2. Co-benefit mitigation policies can address both air pollution and climate change. Utilizing an alternative co-benefit approach, which views air pollution reduction as the primary goal and climate change mitigation as secondary, this research conducts a scenario analysis to forecast the health and climate benefits of fuel substitution in South Korea’s electricity generation sector. Health benefits are calculated by avoided premature mortality and years of life lost (YLL) due to ischemic heart disease, stroke, chronic obstructive pulmonary disease (COPD), lung cancer, and acute lower respiratory infections (ALRI). The study finds that use of liquefied natural gas (LNG) instead of coal over the 2022–2050 period would result in an average of 116 fewer premature deaths (1152 YLL) and 80.8 MTCO2e fewer emissions per year. Over the same period, maintaining and maximizing the use of its nuclear energy capacity, combined with replacing coal use with LNG, would result in an average of 161 fewer premature deaths (1608 YLL) and 123.7 MTCO2e fewer emissions per year.",
+    "readLink": "https://www.mdpi.com/2225-1154/9/6/101"
+  },
+  {
+    "title": "Thermal Analysis and Experimental Validation of Environmental Condition Inside Greenhouse in Tropical Wet and Dry Climate",
+    "authors": [
+      "Gauravkumar Gadhesaria,",
+      "Chinmay Desai,",
+      "Ravi Bhatt,",
+      "Bashir Salah"
+    ],
+    "doi": "https://doi.org/10.3390/su12198171",
+    "journalVolume": "Vol. 12,\n                                no. 8171\n                                \n                                  p.\n                                  8171",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "A facility for controlled environment agriculture from an energy consumption point of view was investigated at the C. G. Bhakta Institute of Biotechnology, Uka Tarsadia University (21.1667° N, 72.8333° E), Bardoli, Surat, Gujarat, India. It is a tropical wet and dry region of the state of Gujarat. The study was carried out for an even span type 2.45 m × 3.65 m greenhouse with an elevation of 34 m above the sea level under the environmental conditions. A thermal model is proposed to identify the suitable climate condition for the cultivation of different varieties of Banana (Musa) and Sugarcane (Saccharum officinarum). Banana and Sugarcanes are the main crops in the Surat district, wherein around 12,400 hector and 94,500 hector cultivation are done, respectively. The experimental study was carried out during the period of December 2017 (winter) to February 2018 (winter and summer). The proposed thermal model is helpful to indicate the hourly energy balance and average temperature distribution inside the greenhouse. The greenhouse was studied for east–west orientation. The steady state analysis was utilized to find extra thermal energy other than solar radiation needed to keep the plant temperature desirable. Experimental validation of the model was carried out in even span greenhouse. At last, some important conclusions are drawn and suggestions made for further studies based on the main characteristics and results of the study. A higher air change rate seems desirable to bring down the temperature further. It was observed that the extra heating is required during the period of December to February, whereas from March onwards a storage unit is required to absorb the energy available and utilize it whenever necessary in the given climatic condition and crop.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/19/8171"
+  },
+  {
+    "title": "Climate change mitigation in Canada’s forest sector: a spatially explicit case study for two regions",
+    "authors": [
+      "C. E. Smyth,",
+      "B. P. Smiley,",
+      "M. Magnan,",
+      "R. Birdsey,",
+      "A. J. Dugan,",
+      "M. Olguin,",
+      "V. S. Mascorro,",
+      "W. A. Kurz"
+    ],
+    "doi": "https://doi.org/10.1186/s13021-018-0099-z",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "1750-0680 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://cbmjournal.biomedcentral.com/",
+    "abstract": "Abstract Background We determine the potential of forests and the forest sector to mitigate greenhouse gas (GHG) emissions by changes in management practices and wood use for two regions within Canada’s managed forest from 2018 to 2050. Our modeling frameworks include the Carbon Budget Model of the Canadian Forest Sector, a framework for harvested wood products that estimates emissions based on product half-life decay times, and an account of marginal emission substitution benefits from the changes in use of wood products and bioenergy. Using a spatially explicit forest inventory with 16 ha pixels, we examine mitigation scenarios relating to forest management and wood use: increased harvesting efficiency; residue management for bioenergy; reduced harvest; reduced slashburning, and more longer-lived wood products. The primary reason for the spatially explicit approach at this coarse resolution was to estimate transportation distances associated with delivering harvest residues for heat and/or electricity production for local communities. Results Results demonstrated large differences among alternative scenarios, and from alternative assumptions about substitution benefits for fossil fuel-based energy and products which changed scenario rankings. Combining forest management activities with a wood-use scenario that generated more longer-lived products had the highest mitigation potential. Conclusions The use of harvest residues to meet local energy demands in place of burning fossil fuels was found to be an effective scenario to reduce GHG emissions, along with scenarios that increased the utilization level for harvest, and increased the longevity of wood products. Substitution benefits from avoiding fossil fuels or emissions-intensive products were dependent on local circumstances for energy demand and fuel mix, and the assumed wood use for products. As projected future demand for biomass use in national GHG mitigation strategies could exceed sustainable biomass supply, analyses such as this can help identify biomass sources that achieve the greatest mitigation benefits.",
+    "readLink": "http://link.springer.com/article/10.1186/s13021-018-0099-z"
+  },
+  {
+    "title": "A High Spatiotemporal Enhancement Method of Forest Vegetation Leaf Area Index Based on Landsat8 OLI and GF-1 WFV Data",
+    "authors": [
+      "Xin Luo,",
+      "Lili Jin,",
+      "Xin Tian,",
+      "Shuxin Chen,",
+      "Haiyi Wang"
+    ],
+    "doi": "https://doi.org/10.3390/rs15112812",
+    "journalVolume": "Vol. 15,\n                                no. 2812\n                                \n                                  p.\n                                  2812",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The leaf area index (LAI) is a crucial parameter for analyzing terrestrial ecosystem carbon cycles and global climate change. Obtaining high spatiotemporal resolution forest stand vegetation LAI products over large areas is essential for an accurate understanding of forest ecosystems. This study takes the northwestern part of the Inner Mongolia Autonomous Region (the northern section of the Greater Khingan Mountains) in northern China as the research area. It also generates the LAI time series product of the 8-day and 30 m forest stand vegetation growth period from 2013 to 2017 (from the 121st to the 305th day of each year). The Simulated Annealing-Back Propagation Neural Network (SA-BPNN) model was used to estimate LAI from Landsat8 OLI, and the multi-period GaoFen-1 WideField-View satellite images (GF-1 WFV) and the spatiotemporal adaptive reflectance fusion mode (STARFM) was used to predict high spatiotemporal resolution LAI by combining inversion LAI and Global LAnd Surface Satellite-derived vegetation LAI (GLASS LAI) products. The results showed the following: (1) The SA-BPNN estimation model has relatively high accuracy, with R2 = 0.75 and RMSE = 0.38 for the 2013 LAI estimation model, and R2 = 0.74 and RMSE = 0.17 for the 2016 LAI estimation model. (2) The fused 30 m LAI product has a good correlation with the LAI verification of the measured sample site (R2 = 0.8775) and a high similarity with the GLASS LAI product. (3) The fused 30 m LAI product has a high similarity with the GLASS LAI product, and compared with the GLASS LAI interannual trend line, it accords with the growth trend of plants in the seasons. This study provides a theoretical and technical reference for forest stand vegetation growth period LAI spatiotemporal fusion research based on high-score data, and has an important role in exploring vegetation primary productivity and carbon cycle changes in the future.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/11/2812"
+  }
+]

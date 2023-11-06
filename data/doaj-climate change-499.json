@@ -1,0 +1,258 @@
+[
+  {
+    "title": "Evaluation of genetic differentiation among healthy and infected Buxus hyrcana with boxwood blight using RAPD and ISSR markers",
+    "authors": [
+      "Parvin Salehi Shanjani,",
+      "Hamideh Javadi,",
+      "Leila Rasoulzadeh,",
+      "Mahmoud Amirkhani"
+    ],
+    "doi": "https://doi.org/10.1186/s40490-018-0120-z",
+    "journalVolume": "Vol. 48,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "0048-0134 (Print)",
+    "publisher": "1179-5395 (Online)",
+    "countryOfPublisher": "Scion",
+    "lcc": [
+      "New Zealand",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://nzjforestryscience.nz/index.php/nzjfs",
+    "abstract": "Abstract Background Buxus hyrcana (boxwood) is an endangered species in the Hyrcanian forests in the north of Iran. This tree is threatened by habitat loss but faces additional threats from the introduced disease the boxwood blight (caused by the fungus Calonectria pseudonaviculata syn. Cylindrocladium pseudonaviculatum, Cy. buxicola) and the potential effects of climate change. As wide range of genetic polymorphism is necessary to ensure successful adaptation to rapid climatic changes. Methods Genetic diversity and differentiation between 15 healthy and 15 infected trees of each of two populations were studied using RAPD and ISSR molecular markers. Results High-band polymorphism was found in pooled samples of B. hyrcana using both ISSR (58%) and RAPD (73%) markers. The ISSR data and the combined data set classified the trees into two groups. However, data from RAPD clustered the trees into three groups. These results indicate different degrees of genetic variation in the sequences of the tested B. hyrcana genomes targeted by the two marker types used. Genetic variation was found to be relatively high, with most of the diversity occurring within populations. Analyses of healthy versus infected pooled samples based on both marker types indicated that genetic diversity parameters were mostly higher in healthy trees. Conclusions Boxwood blight has had a major effect on B. hyrcana, killing individual stems quickly especially in dense populations and reducing population size (as observed in all populations). Considerable within-population diversity, and higher genetic variability in healthy trees than infected ones, suggested conservation efforts should focus on survivor trees in each population and consider the establishment of tree reservations. Propagation of plants from seeds is preferred, since it would include the widest range of genetic variation.",
+    "readLink": "http://link.springer.com/article/10.1186/s40490-018-0120-z"
+  },
+  {
+    "title": "No-reference image quality assessment based on quality patches in real time",
+    "authors": [
+      "Chuang Zhang,",
+      "Xianzhao Yang,",
+      "Xiaoyu Huang,",
+      "Guiyue Yu,",
+      "Suting Chen"
+    ],
+    "doi": "https://doi.org/10.1186/s13640-018-0361-z",
+    "journalVolume": "Vol. 2018,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "1687-5176 (Print)",
+    "publisher": "1687-5281 (Online)",
+    "countryOfPublisher": "SpringerOpen",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Electronics"
+    ],
+    "journalUrl": "https://jivp-eurasipjournals.springeropen.com",
+    "abstract": "Abstract Image quality assessment methods quantify the quality of an image that is highly correlated with human-perceived image quality. In this paper, the image quality is represented by the image patches that are selected by applying the spatial correlation of pixel-pairs. The quality image patches are selected from the database LIVE2, and quality feature detectors are learned by running the FastICA algorithm on the patches. Then being quality features, the independent component coefficients are found out from each quality image patch. A Hash lookup table is built by the binarization of the independent component coefficients of quality image patches, and the Hash table can be indexed by the binary code of the independent component coefficients of a tested image. The results of proposed approach were compared with results from other methods of image quality assessment and with the subjective image quality evaluated scores. And the experimental results expressed that the proposed metric method of no-reference image quality assessment could accurately measure the distorted degree of images. The Pearson linear correlation coefficient (PCC) achieves a high value 0.949 for the accuracy of evaluating results. The Spearman order correlation (SRC) achieves a high value 0.996 for the monotonicity of evaluating results. And the root mean square error (RMSE) is 5.917 for the subjective consistency of evaluating results. Extra evaluating aerial images, the proposed method obtained the result that the foggy weather led to the worst quality.",
+    "readLink": "http://link.springer.com/article/10.1186/s13640-018-0361-z"
+  },
+  {
+    "title": "Dryland maize yield potentials and constraints: A case study in western Kansas",
+    "authors": [
+      "Shuang Sun,",
+      "Xiaomao Lin,",
+      "Gretchen F. Sassenrath,",
+      "Ignacio Ciampitti,",
+      "Prasanna Gowda,",
+      "Qing Ye,",
+      "Xiaoguang Yang"
+    ],
+    "doi": "https://doi.org/10.1002/fes3.328",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2048-3694 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20483694",
+    "abstract": "Abstract Water‐limited environments account for half of the earth's land surface, and dryland agriculture acreage is projected to expand due to climate changes. Examining typical dryland yield potentials and yield improvement measures is crucial for developing future dryland crop production systems. This case study used crop modeling to analyze dryland maize yield potential (YPd), farmers’ yield potential (YPf), and actual farm yields (Ya) from 1990 to 2015 in three counties in western Kansas (i.e., Thomas, Greeley, and Finney in the U.S. Great Plains region). The calibrated APSIM‐Maize model along with actual yields was used to estimate yield gaps attributed to: (a) agronomic factors (YG1 = YPd − YPf) and (b) socioeconomic constraints (YG2 = YPf − Ya). Observed climate conditions during maize‐growing seasons showed warming, brightening, and drying trends for all three counties in western Kansas from 1990 to 2015. Our results showed that the current actual farm yields (Ya) in western Kansas represented only 34%, 32%, and 28% of YPd in Thomas, Greeley, and Finney counties, respectively, indicating significant exploitable yield gaps. Agronomic factors (YG1) contributed the greatest to the yield gap in Greeley and Finney counties, whereas socioeconomic constraints (YG2) offered the greatest opportunity for improvement in Thomas county. Our analysis suggested that improving agronomic management could be a greater priority for further yield improvement in Greeley county, but selecting an appropriate hybrid was a greater priority in Finney county.",
+    "readLink": "https://doi.org/10.1002/fes3.328"
+  },
+  {
+    "title": "Assessing contribution to the Sendai Framework: Case study of climate adaptation and disaster risk reduction projects across sectors in Asia-Pacific (2015–2020)",
+    "authors": [
+      "Christmas Uchiyama,",
+      "Nafesa Ismail,",
+      "Linda Anne Stevenson"
+    ],
+    "doi": "Vol. 12\n                                \n                                \n                                  p.\n                                  100195",
+    "issn": "2590-0617 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/progress-in-disaster-science/",
+    "abstract": "Asia-Pacific is one of the most highly vulnerable regions facing harsher impacts of climate change and related disasters due to its rapidly growing population, extensive use of resources for economic growth, diverse geological and topographical features, and other factors that include social and institutional drivers, political and governance-related drivers, and poverty, among others. Disaster risk reduction (DRR) should be integrated as priority in the agendas of local authorities and it is important that scientists help bring to the attention of decision-makers the science-based solutions that can be employed before a disaster happens. Supporting generation of evidence-based data and facilitating research activities that contribute to existing knowledge on climate, risks and disasters is embedded in the vision and mission of the Asia-Pacific Network for Global Change Research (APN) and the network has been supporting research and capacity development activities through its Climate Adaptation Framework (CAF) and under the thematic area of Risk Reduction and Resilience (RRR) that encompasses climate change adaptation (CCA) and DRR. This study revisited and assessed a variety of disaster risks addressed in regional projects and characterized the type of DRR and CCA measures proposed and/or utilized. Informed by project implementation experiences of 24 expert practitioners, the study examined the conceptual understanding of DRR and CCA and explored the potential contribution of the project outcomes to the Sendai Framework on Disaster Risk Reduction (SFDRR) and its linkage with the Sustainable Development Goals (SDGs). The results present regional characteristics of risks, DRR-CCA measures and approaches, and lessons learned on integrating and mainstreaming DRR and CCA within and across sectors relevant to the SFDRR Target E on increasing national and local disaster risk reduction strategies by 2020.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2590061721000557"
+  },
+  {
+    "title": "Recent climate change has driven divergent hydrological shifts in high-latitude peatlands",
+    "authors": [
+      "Hui Zhang,",
+      "Minna Väliranta,",
+      "Graeme T. Swindles,",
+      "Marco A. Aquino-López,",
+      "Donal Mullan,",
+      "Ning Tan,",
+      "Matthew Amesbury,",
+      "Kirill V. Babeshko,",
+      "Kunshan Bao,",
+      "Anatoly Bobrov,",
+      "Viktor Chernyshov,",
+      "Marissa A. Davies,",
+      "Andrei-Cosmin Diaconu,",
+      "Angelica Feurdean,",
+      "Sarah A. Finkelstein,",
+      "Michelle Garneau,",
+      "Zhengtang Guo,",
+      "Miriam C. Jones,",
+      "Martin Kay,",
+      "Eric S. Klein,",
+      "Mariusz Lamentowicz,",
+      "Gabriel Magnan,",
+      "Katarzyna Marcisz,",
+      "Natalia Mazei,",
+      "Yuri Mazei,",
+      "Richard Payne,",
+      "Nicolas Pelletier,",
+      "Sanna R. Piilo,",
+      "Steve Pratte,",
+      "Thomas Roland,",
+      "Damir Saldaev,",
+      "William Shotyk,",
+      "Thomas G. Sim,",
+      "Thomas J. Sloan,",
+      "Michał Słowiński,",
+      "Julie Talbot,",
+      "Liam Taylor,",
+      "Andrey N. Tsyganov,",
+      "Sebastian Wetterich,",
+      "Wei Xing,",
+      "Yan Zhao"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-022-32711-4",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 7",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "A recent synthesis study found 54% of the high-latitude peatlands have been drying and 32% have been wetting over the past centuries, illustrating their complex ecohydrological dynamics and highly uncertain responses to a warming climate.",
+    "readLink": "https://doi.org/10.1038/s41467-022-32711-4"
+  },
+  {
+    "title": "Beaver-Driven Peatland Ecotone Dynamics: Impoundment Detection Using Lidar and Geomorphon Analysis",
+    "authors": [
+      "Troy P. Swift,",
+      "Lisa M. Kennedy"
+    ],
+    "doi": "https://doi.org/10.3390/land10121333",
+    "journalVolume": "Vol. 10,\n                                no. 1333\n                                \n                                  p.\n                                  1333",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "This investigation focused on remotely detecting beaver impoundments and dams along the boreal-like peatland ecotones enmeshing Cranberry Glades Botanical Area, a National Natural Landmark in mountainous West Virginia, USA. Beaver (Castor spp.) are renowned for their role as ecosystem engineers. They can alter local hydrology, change the ratios of meadow to woodland, act as buffers against drought and wildfire, and influence important climate parameters such as carbon retention and methanogenesis. The Cranberry Glades (~1000 m a.s.l.) occupy ~300 ha, including ~40 ha of regionally rare, open peatlands. Given the likely historical role of beaver activity in the formation and maintenance of peatland conditions at Cranberry Glades, monitoring of recent activity may be useful in predicting future changes. We analyzed remotely sensed data to identify and reconstruct shifting patterns of surface hydrology associated with beaver ponds and dams and developed a novel application of geomorphons to detect them, aided by exploitation of absences and errors in Lidar data. We also quantified decadal-timescale dynamics of beaver activity by tallying detectable active impoundments between 1990–2020, revealing active/fallow cycles and changing numbers of impoundments per unit area of suitable riparian habitat. This research presents both a practical approach to monitoring beaver activity through analysis of publicly available data and a spatiotemporal reconstruction of three decades of beaver activity at this rare and imperiled “Arctic Island” of the southern High Alleghenies.",
+    "readLink": "https://www.mdpi.com/2073-445X/10/12/1333"
+  },
+  {
+    "title": "The Origin of the Subtropical Coral Alveopora japonica (Scleractinia: Acroporidae) in High-Latitude Environments",
+    "authors": [
+      "Ji Hyoun Kang,",
+      "Ji Eun Jang,",
+      "Jae Hwan Kim,",
+      "Jae Hwan Kim,",
+      "Sangil Kim,",
+      "Shashank Keshavmurthy,",
+      "Shashank Keshavmurthy,",
+      "Sylvain Agostini,",
+      "James D. Reimer,",
+      "James D. Reimer,",
+      "Chaolun Allen Chen,",
+      "Kwang-Sik Choi,",
+      "Sang Rul Park,",
+      "Hyuk Je Lee"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2020.00012",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Marine ecosystems in temperate regions have been significantly affected by rising seawater temperatures due to climate change. Alveopora japonica, a small zooxanthellate scleractinian coral, occurs in the northwestern Pacific including Taiwan, Japan, and Jeju Island in Korea. The northern populations around Jeju Island have recently undergone rapid growth in numbers, with negative impacts on local biodiversity. However, it is unclear whether these Korean populations occurred historically and where they originate from. In this study, we investigated the phylogenetic relationships of A. japonica along with its endosymbiont Symbiodiniaceae across five geographic regions, including Jeju Island in Korea, Taiwan, and Japan. Nuclear internal transcribed spacer (ITS) sequences revealed unexpected species-level divergence among three distinct phylogenetic clusters (Korea, Taiwan, and Japan) with no sharing of haplotypes among lineages, suggesting these may each represent cryptic species in Alveopora. 23S ribosomal DNA of Symbiodiniaceae showed two well-separated phylogenetic clusters, in which Korean and Japanese symbionts shared the same clade and Taiwanese ones formed a distinct clade. Given the deep phylogenetic divergences among the lineages for both corals and Symbiodiniaceae, the Korean populations appear to have existed for a long evolutionary time period rather than representing a poleward migration from subtropical environments following recent climate change. Our study highlights cryptic species diversity in Alveopora at high-latitude environments.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fevo.2020.00012/full"
+  },
+  {
+    "title": "A typology of responsibility for coastal flood risk adaptation",
+    "authors": [
+      "Sien van der Plank,",
+      "Sally Brown,",
+      "Emma L. Tompkins,",
+      "Robert J. Nicholls"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.954950",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The management of coastal flood risk is adapting to meet the challenges and increased risks posed by population change as well as by climate change, especially sea level rise. Protection is being targeted to areas where the benefits are highest, while elsewhere there is a shift towards more localized “living with floods” and “resilience” approaches. Such decentralized approaches to flood risk management (FRM) require a diverse range of stakeholder groups to be engaged as “flood risk citizens”. Engagement of households in FRM is central to this process. Despite significant research on stakeholder engagement in coastal and flood risk management, there is less focus on the nature of responsibility in coastal adaptation. There is no framework by which to assess the different types of responsibility in hazard management and adaptation, and little research on the implications of expecting these responsibilities of stakeholder groups. In this paper, we identify five types of responsibility that are embedded throughout the disaster risk reduction cycle of managing coastal flooding. We build this “typology of responsibility” on existing work on the evolution of stakeholder engagement and stakeholder responsibility relationships in risk management processes, and a dataset of institutional stakeholder interviews and households surveys conducted across three case studies in England, the United Kingdom, in 2018 and 2019. We analyze the interviews using thematic analysis to explore institutional stakeholder perceptions of responsibility in coastal FRM, and analyze the household survey through descriptive and inferential statistics. By developing the first disaster risk reduction focused typology of responsibility for coastal flooding, we provide researchers and decision-makers with a tool to guide their planning and allocation of responsibilities in risk management for floods and other climate-driven hazards.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.954950/full"
+  },
+  {
+    "title": "Assessment of basin-wise future agricultural drought status across India under changing climate",
+    "authors": [
+      "Mayank Suman,",
+      "Rajib Maity"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2021.369",
+    "journalVolume": "Vol. 12,\n                                no. 6\n                                \n                                  pp.\n                                  2400\n                                  – 2421",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "Most of the existing studies on meteorological drought suggest more intense and frequent drought events due to changing climate. However, basin-scale assessment of future agricultural drought is lacking due to many reasons. In this study, the intensity and frequency of future agricultural drought (characterized by the Standardized Soil Moisture Index, SSMI) for 226 sub-basins across India are analyzed, and vulnerable basins are identified. The prediction of the future agricultural drought status is achieved using the wavelet-based drought temporal consequence modeling of meteorological drought with the best performing bias-corrected Coordinated Regional Downscaling Experiment (CORDEX) simulations, selected by Multi-Criteria Decision-Making frameworks. This study reveals a geographically contrasting change in future agricultural drought that indicates more intense agricultural drought in north, north-east, and central India as compared with south India. The area under drought is also expected to increase, and about 20 and 50% of the Indian mainland is expected to suffer from extreme (SSMI ≤ −2) and moderate (SSMI ≤ −1) agricultural drought conditions by the end of this century. Sub-basins lying in north and central India are expected to have a longer time under drought conditions. Thus, the findings of this study will be useful for future planning and preparedness against agricultural productivity. HIGHLIGHTS Future agricultural drought status reveals new insights into its spatial variation.; The concept of drought translation is a useful one for making use of the best potential of climate model simulations.; More intense droughts in north, north-east and central India are expected as compared with south India.; In future, about 20 and 50% of the area in India is expected to face extreme and moderate agricultural droughts, respectively.;",
+    "readLink": "http://jwcc.iwaponline.com/content/12/6/2400"
+  },
+  {
+    "title": "Climate change challenges efficiency of inter-basin water transfers in alleviating water stress",
+    "authors": [
+      "Kai Duan,",
+      "Peter V Caldwell,",
+      "Ge Sun,",
+      "Steven G McNulty,",
+      "Yue Qin,",
+      "Xiaohong Chen,",
+      "Ning Liu"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac5e68",
+    "journalVolume": "Vol. 17,\n                                no. 4\n                                \n                                  p.\n                                  044050",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Inter-basin water transfer (IBT) is widely used to mitigate water shortage at the cost of compromising water availability in water-exporting regions. Yet, we do not know how efficient are the IBTs in alleviating inter-regional water stress in a changing climate and water supply-demand context. From a socio-hydrological perspective, we here quantify the efficiency of more than 200 IBTs across the United States by a Stress Relief Index that measures the impact of water redistribution on the overall water stress level. Based on the assumption that an IBT-induced increase and reduction in water availability would respectively constitute a positive and negative impact on regional water security, we show that 29% of the IBTs could be considered socially inefficient by 2010 as they shift water stress from water-receiving to water-exporting and downstream regions. Future stress escalations induced by growing population, declining runoff, and increasing demands for energy production and irrigation will alter IBT efficiency disproportionately. The inefficient IBTs would amount to 32% and 35% by the end of the 21st century under the scenarios of representative concentration pathway (RCP) 4.5 and RCP8.5, with 7 ∼ 16 IBTs reaching a tipping point that their role in the water system could switch from alleviating to aggravating the overall water stress. Our results indicate that the evolving climatic and socioeconomic status can largely affect transfer efficiency, highlighting the need of basin-level adaptation strategies for sustainable use of the IBTs.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac5e68"
+  }
+]

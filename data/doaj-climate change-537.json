@@ -1,0 +1,233 @@
+[
+  {
+    "title": "The consolidated European synthesis of CH<sub>4</sub> and N<sub>2</sub>O emissions for the European Union and United Kingdom: 1990–2017",
+    "authors": [
+      "A. M. R. Petrescu,",
+      "C. Qiu,",
+      "P. Ciais,",
+      "R. L. Thompson,",
+      "P. Peylin,",
+      "M. J. McGrath,",
+      "E. Solazzo,",
+      "G. Janssens-Maenhout,",
+      "F. N. Tubiello,",
+      "P. Bergamaschi,",
+      "D. Brunner,",
+      "G. P. Peters,",
+      "L. Höglund-Isaksson,",
+      "P. Regnier,",
+      "R. Lauerwald,",
+      "R. Lauerwald,",
+      "D. Bastviken,",
+      "A. Tsuruta,",
+      "W. Winiwarter,",
+      "W. Winiwarter,",
+      "P. K. Patra,",
+      "M. Kuhnert,",
+      "G. D. Oreggioni,",
+      "M. Crippa,",
+      "M. Saunois,",
+      "L. Perugini,",
+      "T. Markkanen,",
+      "T. Aalto,",
+      "C. D. Groot Zwaaftink,",
+      "Y. Yao,",
+      "C. Wilson,",
+      "C. Wilson,",
+      "G. Conchedda,",
+      "D. Günther,",
+      "A. Leip,",
+      "P. Smith,",
+      "J.-M. Haussaire,",
+      "A. Leppänen,",
+      "A. J. Manning,",
+      "J. McNorton,",
+      "P. Brockmann,",
+      "A. J. Dolman"
+    ],
+    "doi": "https://doi.org/10.5194/essd-13-2307-2021",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  2307\n                                  – 2362",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "Reliable quantification of the sources and sinks of greenhouse gases, together with trends and uncertainties, is essential to monitoring the progress in mitigating anthropogenic emissions under the Paris Agreement. This study provides a consolidated synthesis of CH4 and N2O emissions with consistently derived state-of-the-art bottom-up (BU) and top-down (TD) data sources for the European Union and UK (EU27 + UK). We integrate recent emission inventory data, ecosystem process-based model results and inverse modeling estimates over the period 1990–2017. BU and TD products are compared with European national greenhouse gas inventories (NGHGIs) reported to the UN climate convention UNFCCC secretariat in 2019. For uncertainties, we used for NGHGIs the standard deviation obtained by varying parameters of inventory calculations, reported by the member states (MSs) following the recommendations of the IPCC Guidelines. For atmospheric inversion models (TD) or other inventory datasets (BU), we defined uncertainties from the spread between different model estimates or model-specific uncertainties when reported. In comparing NGHGIs with other approaches, a key source of bias is the activities included, e.g., anthropogenic versus anthropogenic plus natural fluxes. In inversions, the separation between anthropogenic and natural emissions is sensitive to the geospatial prior distribution of emissions. Over the 2011–2015 period, which is the common denominator of data availability between all sources, the anthropogenic BU approaches are directly comparable, reporting mean emissions of 20.8 Tg CH4 yr−1 (EDGAR v5.0) and 19.0 Tg CH4 yr−1 (GAINS), consistent with the NGHGI estimates of 18.9 ± 1.7 Tg CH4 yr−1. The estimates of TD total inversions give higher emission estimates, as they also include natural emissions. Over the same period regional TD inversions with higher-resolution atmospheric transport models give a mean emission of 28.8 Tg CH4 yr−1. Coarser-resolution global TD inversions are consistent with regional TD inversions, for global inversions with GOSAT satellite data (23.3 Tg CH4 yr−1) and surface network (24.4 Tg CH4 yr−1). The magnitude of natural peatland emissions from the JSBACH–HIMMELI model, natural rivers and lakes emissions, and geological sources together account for the gap between NGHGIs and inversions and account for 5.2 Tg CH4 yr−1. For N2O emissions, over the 2011–2015 period, both BU approaches (EDGAR v5.0 and GAINS) give a mean value of anthropogenic emissions of 0.8 and 0.9 Tg N2O yr−1, respectively, agreeing with the NGHGI data (0.9 ± 0.6 Tg N2O yr−1). Over the same period, the average of the three total TD global and regional inversions was 1.3 ± 0.4 and 1.3 ± 0.1 Tg N2O yr−1, respectively. The TD and BU comparison method defined in this study can be operationalized for future yearly updates for the calculation of CH4 and N2O budgets both at the EU+UK scale and at the national scale. The referenced datasets related to figures are visualized at https://doi.org/10.5281/zenodo.4590875 (Petrescu et al., 2020b).",
+    "readLink": "https://essd.copernicus.org/articles/13/2307/2021/essd-13-2307-2021.pdf"
+  },
+  {
+    "title": "Earth Map: A Novel Tool for Fast Performance of Advanced Land Monitoring and Climate Assessment",
+    "authors": [
+      "Carmen Morales,",
+      "Alfonso Sanchez-Paus Díaz,",
+      "Daniel Dionisio,",
+      "Laura Guarnieri,",
+      "Giulio Marchi,",
+      "Danae Maniatis,",
+      "Danilo Mollicone"
+    ],
+    "doi": "https://doi.org/10.34133/remotesensing.0003",
+    "journalVolume": "Vol. 3",
+    "issn": "2694-1589 (Online)",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Geography. Anthropology. Recreation: Physical geography"
+    ],
+    "journalUrl": "https://spj.sciencemag.org/journals/remotesensing/",
+    "abstract": "Earth Map (https://earthmap.org/) is an innovative and free application developed by the Food and Agriculture Organization of the United Nations that was designed in the framework of the Food and Agriculture Organization of the United Nations–Google partnership and facilitates the visualization, processing, and analysis of land and climate data. Earth Map makes petabytes of multitemporal, multiscale, multiparametric, and quasi-real-time satellite imagery and geospatial datasets available to any user thanks to the power of Google Earth Engine (https://earthengine.google.com/) and a point-and-click graphical user interface. These are further complemented with more planetary-scale analytical capabilities so that global and local changes and trends on Earth’s surface can be easily detected, quantified, and visualized. It does not require users to master coding techniques, thereby avoiding bottlenecks in terms of technical capacities of nonexpert users. It ultimately paves the way for countries, research institutes, farmers, and members of the general public to access critical knowledge to develop science-based policy interventions, leverage investments, and sustain livelihoods. We provide a full overview of Earth Map’s software architecture, design, features, and datasets. To illustrate the possible applications of the tool, different examples are presented including a few case studies that show how quick historical analysis of environmental and climate parameters can be performed and research questions answered. The examples demonstrate that Earth Map is a comprehensive and user-friendly tool for land monitoring and climate assessment and that it has the potential to be used to assess land use, land use change, climate change impacts, and natural disasters.",
+    "readLink": "https://spj.science.org/doi/10.34133/remotesensing.0003"
+  },
+  {
+    "title": "Impact assessment of the seasonal hydrological loading on geodetic movement and seismicity in Nepal Himalaya using GRACE and GNSS measurements",
+    "authors": [
+      "Devendra Shashikant Nagale,",
+      "Suresh Kannaujiya,",
+      "Param K. Gautam,",
+      "Ajay K. Taloor,",
+      "Tandrila Sarkar"
+    ],
+    "doi": "Vol. 13,\n                                no. 5\n                                \n                                  pp.\n                                  445\n                                  – 455",
+    "issn": "1674-9847 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Astronomy: Geodesy",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/geodesy-and-geodynamics/",
+    "abstract": "The Himalayan terrain is an epitome of ongoing convergence and geodetic deformation where both tectonic and non-tectonic forces prevail. In this study, the Gravity Recovery and Climate Experiment (GRACE) and Global Positioning System (GPS) datasets are used to assess the impact of seasonal loading on deformation with seismicity in Nepal. The recorded GPS data from 21 Global Navigation Satellite System (GNSS) stations during 2017–2020 are processed with respect to ITRF14 and the Indian reference frame, and the Center for Space Research (CSR) mascon RL06 during 2002–2020 is adopted to estimate the terrestrial water storage (TWS) change over the Ganga-Brahmaputra River basin. The results indicate that the hydrological loading effect or TWS change shows high negative, high positive, and moderately positive values in pre-monsoon, co-monsoon, and post-monsoon months, respectively. The detrended GPS data of both horizontal and vertical components correlate with the seasonal TWS change using the Pearson correlation coefficient at each GNSS site. In addition, the correlation coefficient has been interpolated using inverse distance weighting to investigate the regional TWS influence on geodetic displacement. In the north component, the correlation coefficient ranges from −0.6 to 0.6. At the same time, the TWS is positively correlated with geodetic displacement (0.82) in the east component, and the correlation coefficient is negative (−0.69) in the vertical component. The negative correlation signifies an inverse relationship between seasonal TWS variation and geodetic displacements. The strain rate is estimated, which shows higher negative values in pre-monsoon than in post-monsoon. Similarly, the effect of seismicity is 47.90% for pre-monsoon, 15.97% for co-monsoon, and 17.56% for post-monsoon. Thus we can infer that the seismicity decreases with the increase of seasonal hydrological loading. Furthermore, the effect of strain is much higher in pre-monsoon than in post-monsoon since the impact of co-monsoon continues to persist on a small scale in the post-monsoon season.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674984722000404"
+  },
+  {
+    "title": "Resilient Governance Regimes That Support Urban Agriculture in Sub-Saharan Cities: Learning From Local Challenges",
+    "authors": [
+      "Mariana Vidal Merino,",
+      "Sumetee Pahwa Gajjar,",
+      "Aasha Subedi,",
+      "Ana Polgar,",
+      "Catherine Van Den Hoof"
+    ],
+    "doi": "https://doi.org/10.3389/fsufs.2021.692167",
+    "journalVolume": "Vol. 5",
+    "issn": "2571-581X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-food-systems#",
+    "abstract": "Local governments in Sub-Saharan Africa face the daunting task of high urban growth and potentially devastating impacts of climate change across local communities and the economy. Urban and peri-urban food production can be among nature-based strategies planned for improving urban food security, reducing emissions, and climate adaptation. Co-operative governance, strategic planning, and accountable institutions are needed to support urban agriculture (UA), in the face of climate risks, unplanned urban development, the gendered nature of food provision, and the inability of urban farmers to self-organize toward optimal market and land access outcomes. Using a case study approach guided by qualitative content analysis with information derived from web analysis, we apply the Institutional Analysis and Development Framework to analyze underlying governance factors for UA in three selected Sub-Saharan African cities. Our three case cities of Kampala, Tamale and Cape Town reveal that UA is beginning to receive policy attention toward food security, and recognition for generating environmental, ecological, health, and human well-being benefits. Literature from specific cities however does not yet signal a local awareness and policy thrust regarding the associated and pertinent climate adaptation benefits of urban agriculture. We therefore recommend trans-disciplinary, locally-led, planning-based, and multi-sectoral approaches, involving a range of stakeholders toward recognizing and achieving the climate adaptation, environmental (ecologically restorative) and food security benefits of pursuing urban agriculture. This signals a larger role for the practice in sustainability discourse and SDGs 2 and 11, scaling out and up across large, medium and small towns, and cities of Sub-Saharan Africa.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fsufs.2021.692167/full"
+  },
+  null,
+  {
+    "title": "Stemflow and throughfall in agricultural crops: a synthesis",
+    "authors": [
+      "Valdemir Antoneli,",
+      "Fabio Caian de Jesus,",
+      "João Anésio Bednarz,",
+      "Edivaldo Lopes Thomaz"
+    ],
+    "doi": "https://doi.org/10.4136/ambi-agua.2528",
+    "journalVolume": "Vol. 16,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "1980-993X (Online)",
+    "publisher": "Instituto de Pesquisas Ambientais em Bacias Hidrográficas (IPABHi)",
+    "countryOfPublisher": "Brazil",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.scielo.br/ambiagua",
+    "abstract": "The interception of rainwater in annual and perennial agriculture has been the object of several studies in the last decades. However, scant attention has been paid to where this research has taken place and which principal crops have been studied. The objective of this research is to perform a bibliometric analysis of one hundred articles from the last forty years found in the Scopus database to analyze their spatial distribution according to continent and country and quantify the research carried out on annual and perennial crops. Also, the main methods used to investigate the stemflow and throughfall of water in commercial crops are described. Our analysis indicates that the northern hemisphere has the most research on the subject and 35% of the research took place in Asia. Most of the research into annual crops (56%) was carried out in maize (Zea mays L.). There has been a significant increase in commercial (annual) agricultural research in the last decade. The stemflow had the most amplitude between the values in the annual crops. This may be related to morphological and ecophysiological changes throughout the plant cycle. For perennial crops, stemflow values were like forests. It has become more important than ever to consider a scenario of global climate change stemflow and throughfall research in agricultural areas, or at least the data need to be revised in the face of new climatic conditions.",
+    "readLink": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1980-993X2021000100303&lng=en&nrm=iso&tlng=en"
+  },
+  {
+    "title": "Data on 33 Years of Erroneous Usage of Rainfall Erosivity Equations",
+    "authors": [
+      "Nejc Bezak,",
+      "Klaudija Lebar,",
+      "Yu-Chieh Huang,",
+      "Walter Chen"
+    ],
+    "doi": "https://doi.org/10.3390/data8050075",
+    "journalVolume": "Vol. 8,\n                                no. 75\n                                \n                                  p.\n                                  75",
+    "issn": "2306-5729 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Bibliography. Library science. Information resources"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/data",
+    "abstract": "This paper describes the data gathered for a paper published in Earth-Science Reviews (DOI: 10.1016/j.earscirev.2023.104339) to address the problem of studies using incorrect equations to calculate rainfall erosivity (R factor), which can lead to issues related to land degradation, soil productivity loss, and biodiversity loss. The aim was to locate articles containing the incorrect equations and create a relational database that could be used to perform an in-depth analysis of the errors. Because the search target is an equation, it is impossible to directly query any literature database for the articles that contain the incorrect R equations. Therefore, a manual search of multiple databases was conducted. Subsequently, the literature search was broadened to identify the origin of the misuse of the R equations, and SQL (Structured Query Language) queries were formulated to understand why the errors continued to persist for a minimum of 33 years. The resulting entity-relationship-based Microsoft Access database was determined to be a valuable tool for performing in-depth analysis. It can be used to add incorrect studies and perform further analysis. It is suggested that further research should be conducted to determine the extent of the impact of these errors on soil erosion, ecosystems, and the environment.",
+    "readLink": "https://www.mdpi.com/2306-5729/8/5/75"
+  },
+  {
+    "title": "Comparative Analysis of Heat Resistance of Ornamental Urban Plants in Kyiv",
+    "authors": [
+      "Oleksandra Strashok"
+    ],
+    "doi": "https://doi.org/10.12911/22998993/145471",
+    "journalVolume": "Vol. 23,\n                                no. 3\n                                \n                                  pp.\n                                  145\n                                  – 153",
+    "issn": "2299-8993 (Online)",
+    "publisher": "Polish Society of Ecological Engineering (PTIE)",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.jeeng.net",
+    "abstract": "Urban plants play a significant role in shaping the microclimate of the modern city, in addition to the recreational and aesthetic functions. Climate change and sharp changes in temperature affect the plant growth and development, so the question of studying the adaptive potential of the plant range in cities to temperature variability is relevant and important. Researchers and scientists around the world are studying the impact of biotic and abiotic factors on plants, but the variability of the plant organisms in the urban ecosystem is still unexplored. The data from the analysis of the frequency of occurrence plants in Kyiv green spaces show that Tilia cordata Mill., Aesculus hippocastanum L., Spiraea×vanhouttei (Briot) Zabel. and Carpinus betulus L. are most represented among the researched species. The article presents the results of the assessment of heat resistance by using the method of Matskov (1976) of 13 ornamental woody and shrubby species. Besides, the plants were separated into groups of tolerance to high temperatures. It was established that the T. cordata plants are characterized by the highest indicators of heat tolerance and they can be recommended for the creation of open landscapes. The A. hippocastanum, Catalpa bignonioides Walt., S. vanhouttei and Forsythia europaea Degen & Bald. plants are characterized by ‘moderate tolerance’ indicators to high temperature stress, therefore they can be recommended for the creation of semi-open/open landscape types. Consequently, for the formation of semi-open landscapes, using the species Platanus occidentalis L., Quercus robur L., Q. rubra, Syringa vulgaris L., Berberis thunbergii DC. and Ligustrum vulgare L. which were assessed as ‘moderately sensitive’, is recommended. The leaves of the Carpinus betulus L. and Ribes aureum Pursh. plants were most vulnerable to high temperature stress; therefore, the species are recommended for the formation of closed landscape types. Despite the comparative classification of ornamental plants in terms of heat-resistance, many issues remain unstudied and need to be clarified in terms of ecology, physiology, biochemistry and phytopathology for the plants of urban green spaces.",
+    "readLink": "http://www.jeeng.net/Comparative-Analysis-of-Heat-Resistance-of-Ornamental-Urban-Plants-in-Kyiv,145471,0,2.html"
+  },
+  {
+    "title": "Droughts in central Chile using different indices during the 1981-2010 period",
+    "authors": [
+      "Pablo Andrés Sarricolea Espinoza,",
+      "Oliver Meseguer-Ruiz"
+    ],
+    "doi": "https://doi.org/10.5354/0719-5370.2015.41178",
+    "journalVolume": "no. 50\n                                \n                                  pp.\n                                  19\n                                  – 32",
+    "issn": "0718-9575 (Print)",
+    "publisher": "0719-5370 (Online)",
+    "countryOfPublisher": "Universidad de Chile, Departamento de Geografía",
+    "lcc": [
+      "Chile",
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.investigacionesgeograficas.uchile.cl/",
+    "abstract": "The different dimensions of meteorological drought in central Chile in order to characterize their occurrence at multiple time scales and find evidence of variability and change in frequency are analyzed. For that, there are 27 meteorological stations at daily resolution arranged, which allow the identification of dry periods under the threshold of 0.1 mm. Besides establishing dry spells and its persistence (using the Besson index), the standard precipitation index (SPI) was applied to determine the internanual varibilidad of drought, precisely in a region with semiarid and Mediterranean climate. The results show greater persistence of dry days in the region of Valparaíso, which is consistent with the length of dry spells in many cases exceeding 22 days a year. The event La Niña in the winter of 1998 caused the longest streak of dry days of the rainy trimester (67 days), totaling 86 days without rain. However, it has not been able to prove their variability and changes in frequency.",
+    "readLink": "https://investigacionesgeograficas.uchile.cl/index.php/IG/article/view/41178"
+  },
+  {
+    "title": "Contribution of the decomposition of a macroalgal bloom to methane production in sea cucumber culture",
+    "authors": [
+      "Yaqi Geng,",
+      "Min Wang,",
+      "Huili Li,",
+      "Lu Zhang,",
+      "Kexin Xu,",
+      "Hongxia Zhang,",
+      "Li Teng,",
+      "Zhen Yu,",
+      "Lihong Chen,",
+      "Ronglian Xing"
+    ],
+    "doi": "Vol. 30\n                                \n                                \n                                  p.\n                                  101558",
+    "issn": "2352-5134 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Agriculture: Aquaculture. Fisheries. Angling"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/aquaculture-reports/",
+    "abstract": "CH4 is one of the most important greenhouse gases responsible for climate change. The effect of algal decomposition on CH4 emission fluxes in aquaculture environments is unknown. This study determined the relative abundance of methanogens in aquaculture in northern China. We determined various parameters in the water and sediment after the decomposition of Chaetomorpha valida. The results showed that the relative abundance of methanogens increased significantly during the decomposition of C. valida. The average CH4 emission flux was 50.64 mg m-2 h-1 when the density of C. valida was 25 mg cm-3, which was 11 times higher than that at a density of 0 mg cm-3. The concentrations of dissolved oxygen (DO), nitrite, nitrate and sulfate in the aquaculture pond significantly decreased during the decomposition of C. valida. The formation of a strong anaerobic reduction environment promoted the formation and release of CH4. Our results confirmed that the decomposition of C. valida enhanced the CH4 emission flux. The average CH4 emission fluxes ranged from 4.62 to 50.64 mg m-2 h-1. It is particularly important to remove decomposed algae in a timely manner and control greenhouse gas emissions from aquaculture ponds to mitigate climate change.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352513423000972"
+  }
+]

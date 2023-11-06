@@ -1,0 +1,221 @@
+[
+  {
+    "title": "Quantifying the effect of persistent dryer climates on forest productivity and implications for forest planning: a case study in northern Germany",
+    "authors": [
+      "Matthias Albert,",
+      "Ralf-Volker Nagel,",
+      "Johannes Sutmöller,",
+      "Matthias Schmidt"
+    ],
+    "doi": "https://doi.org/10.1186/s40663-018-0152-0",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 21",
+    "issn": "2095-6355 (Print)",
+    "publisher": "2197-5620 (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.keaipublishing.com/en/journals/forest-ecosystems/",
+    "abstract": "Abstract Background Forest management decisions are based on expectations of future developments. For sound decisions it is essential to accurately predict the expected values in future developments and to account for their inherent uncertainty, for example the impact of climate change on forests. Changing climatic conditions affect forest productivity and alter the risk profile of forests and forest enterprises. Intensifying drought stress is seen as one major risk factor threatening forest management in the north German lowlands. Drought stress reduces tree growth and vitality and might even trigger mortality. But so far, it is not possible to quantify effects of a persistent dryer climate on forest productivity at a level suitable for forest management. Methods We apply a well-established single-tree forest growth simulator to quantify the effect of persistent dryer climates on future forest productivity. We analyse the growth of Scots pine (Pinus sylvestris L.), European beech (Fagus sylvatica L.) and oak (Quercus robur L. and Quercus petraea (Matt.) Liebl.) in two forest regions in the north German lowlands for a time interval of 60 years until 2070. The growth response under three different climate projections is compared to a baseline scenario. Results The results show clear differences in volume increment to persistent dryer climates between tree species. The findings exhibit regional differences and temporal trends. While mean annual increment at biological rotation age of Scots pine and oak predominantly benefits from the projected climate conditions until 2070, beech might suffer losses of up to 3 m3·ha–1·yr–1 depending on climate scenario and region. However, in the projection period 2051 to 2070 the uncertainty ranges comprise positive as well as negative climatic effects for all species. Conclusions The projected changes in forest growth serve as quantitative contributions to provide decision support in the evaluation of, for example, species future site suitability and timber supply assessments. The analysis of productivity changes under persistent dryer climate complements the drought vulnerability assessment which is applied in practical forestry in northwestern Germany today. The projected species’ productivity has strong implications for forest management and the inherent uncertainty needs to be accounted for.",
+    "readLink": "http://link.springer.com/article/10.1186/s40663-018-0152-0"
+  },
+  {
+    "title": "Gap Filling of the ESA CCI Soil Moisture Data Using a Spatiotemporal Attention-Based Residual Deep Network",
+    "authors": [
+      "Yulin Shangguan,",
+      "Xiaoxiao Min,",
+      "Zhou Shi"
+    ],
+    "doi": "https://doi.org/10.1109/JSTARS.2023.3284841",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  5344\n                                  – 5354",
+    "issn": "1939-1404 (Print)",
+    "publisher": "2151-1535 (Online)",
+    "countryOfPublisher": "IEEE",
+    "lcc": [
+      "United States",
+      "Technology: Ocean engineering",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443",
+    "abstract": "As an essential climate variable, soil moisture (SM) exerts an indispensable influence on numerous disciplines. However, various degrees of data gaps exist in current microwave SM products. Therefore, this article proposed a spatiotemporal attention-based residual deep network (STARN) to reconstruct gaps of the daily SM data from the Climate Change Initiative program of the European Space Agency (ESA CCI) over the Qinghai–Tibet Plateau (QTP) during unfrozen seasons (May to September) from 2001 to 2021. The developed model is an end-to-end residual network embedded with three attention modules to comprehensively consider the potential relationship between SM and surface variables. Evaluation results revealed that the proposed model could well reconstruct SM gaps with an overall median R and unbiased RMSE (ubRMSE) values of 0.52 and 0.054 m3/m3, while the overall median R and ubRMSE values for the ESA CCI SM were 0.41 and 0.058 m3/m3. Besides, comparison with five baseline methods (e.g., the artificial neural network, convolutional neural network, extreme gradient boosting, long-short term memory, and DCT-PLS model) indicated that the STARN model had certain advantages over the five baseline models with higher correlation and more reasonable distribution patterns. The R/ubRMSE values for the five models were 0.38/0.057, 0.34/0.058, 0.40/0.058, 0.41/0.056, and 0.41/0.058, respectively. The pretraining using the ERA5-Land SM data could further improve the accuracy of generated seamless SM data since the ERA5-Land and ESA CCI SM complemented each other to a certain extent on the QTP. In summary, by leveraging the spatiotemporal information and attention modules, the STARN model showed great potentials in SM gap filling.",
+    "readLink": "https://ieeexplore.ieee.org/document/10151924/"
+  },
+  {
+    "title": "Carbon Mineralization with North American PGM Mine Tailings—Characterization and Reactivity Analysis",
+    "authors": [
+      "Caleb M. Woodall,",
+      "Xueya Lu,",
+      "Gregory Dipple,",
+      "Jennifer Wilcox"
+    ],
+    "doi": "https://doi.org/10.3390/min11080844",
+    "journalVolume": "Vol. 11,\n                                no. 844\n                                \n                                  p.\n                                  844",
+    "issn": "2075-163X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Geology: Mineralogy"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/minerals",
+    "abstract": "Global efforts to combat climate change call for methods to capture and store CO2. Meanwhile, the global transition away from fossil energy will result in increased production of tailings (i.e., wastes) from the mining of nickel and platinum group metals (PGMs). Through carbon mineralization, CO2 can be permanently stored in calcium- and magnesium-bearing mine tailings. The Stillwater mine in Nye, Montana produces copper, nickel, and PGMs, along with 1 Mt of tailings each year. Stillwater tailings samples have been characterized, revealing that they contain a variety of mineral phases, most notably Ca-bearing plagioclase feldspar. Increases in inorganic carbon in the tailings and ion concentration in the tailings storage facilities suggest carbonation has taken place at ambient conditions over time within the tailings storage facilities. Two experiments were performed to simulate carbon mineralization at ambient temperature and pressure with elevated CO2 concentration (10% with N2), revealing that less than 1% of the silicate-bound calcium within the tailings is labile, or easily released from silicate structures at low-cost ambient conditions. The Stillwater tailings could be useful for developing strategies of waste management as production of nickel and PGM minerals increases during the global transition away from fossil energy, but further work is needed to develop a process that can realize their full carbon storage potential.",
+    "readLink": "https://www.mdpi.com/2075-163X/11/8/844"
+  },
+  {
+    "title": "Carbon dioxide and methane exchange at a cool-temperate freshwater marsh",
+    "authors": [
+      "Ian B Strachan,",
+      "Kelly A Nugent,",
+      "Stephanie Crombie,",
+      "Marie-Claude Bonneville"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/10/6/065006",
+    "journalVolume": "Vol. 10,\n                                no. 6\n                                \n                                  p.\n                                  065006",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Freshwater marshes have been shown to be strong sinks for carbon dioxide (CO _2 ) on an annual basis relative to other wetland types; however it is likely that these ecosystems are also strong emitters of methane (CH _4 ), reducing their carbon (C) sequestration potential. Multiyear C balances in these ecosystems are necessary therefore to determine their contribution to the global C cycle. Despite this, the number of multiyear studies in marshes is few, with, to the best of our knowledge, only one other Northern marsh C balance reported. This study presents five years of eddy covariance flux measurements of CO _2 , and four years of warm-season chamber measurements of CH _4 at a cool-temperate Typha angustifolia marsh. Annual average cumulative net ecosystem exchange of CO _2 (NEE) at the marsh was −224 ± 54 g C m ^−2 yr ^−1 (±SD) over the five-year period, ranging from −126 to −284 g C m ^−2 yr ^−1 . Enhancement of the ecosystem respiration during warmer spring, autumn and winter periods appeared the strongest determinant of annual NEE totals. Warm season fluxes of CH _4 from the Typha vegetation (avg. 1.0 ± 1.2 g C m ^−2 d ^−1 ) were significantly higher than fluxes from the water surface (0.5 ± 0.4 g C m ^−2 d ^−1 ) and unvegetated mats (0.2 ± 0.2 g C m ^−2 d ^−1 ). Air temperature was a primary driver of all CH _4 fluxes, while water table was not a significant correlate as water levels were always at or above the vegetative mat surfaces. Weighting by the surface cover proportion of water and vegetation yielded a net ecosystem CH _4 emission of 127 ± 19 g C m ^−2 yr ^−1 . Combining CO _2 and CH _4 , the annual C sink at the Mer Bleue marsh was reduced to −97 ± 57 g C m ^−2 yr ^−1 , illustrating the importance of accounting for CH _4 when generating marsh C budgets.",
+    "readLink": "https://doi.org/10.1088/1748-9326/10/6/065006"
+  },
+  {
+    "title": "Self-Reported Purchasing Behaviour, Sociodemographic Predictors of Plant-Based Protein Purchasing and Knowledge about Protein in Scotland and England",
+    "authors": [
+      "Magdalena M. E. Brandner,",
+      "Claire L. Fyfe,",
+      "Graham W. Horgan,",
+      "Alexandra M. Johnstone"
+    ],
+    "doi": "https://doi.org/10.3390/nu14214706",
+    "journalVolume": "Vol. 14,\n                                no. 4706\n                                \n                                  p.\n                                  4706",
+    "issn": "2072-6643 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/nutrients",
+    "abstract": "Plant-based diets are seen as a food-based strategy to address both the impact of dietary patterns on the environment, to reduce climate change impact, and also to reduce rates of diet-related disease. This study investigated self-reported consumer purchasing behaviour of plant-based alternative foods (PBAF) and wholefood plant protein foods (legumes) with a cross-sectional online survey. We identified the sociodemographic factors associated with purchasing behaviour and examined knowledge about protein and plant-based diets. We recruited and obtained consent from n = 1177 adults aged >18 from England and Scotland (mean age (± standard deviation (SD)) 44 (16.4) years), across different areas of social deprivation, based on postcode. Descriptive statistics were conducted, and sociodemographic factors were examined by computing covariate-adjusted models with binary logistic regression analysis. A total of 47.4% (n = 561) consumers purchased PBAF and 88.2% (n = 1038) wholefood plant-proteins. The most frequently purchased PBAF were plant-based burgers, sausages, and mince/meatballs. Individuals from low deprivation areas were significantly more likely than individuals from high deprivation areas to purchase wholefood plant-proteins (odds ratio (OR) 3.46, p = 0.001). People from low deprivation areas were also more likely to recognise lentils as good source of protein (OR 1.94, p = 0.003) and more likely to recognise plant-based diets as healthy (OR 1.79, p = 0.004) than those from high deprived areas. These results support current trends of increasing popularity of PBAF, which is positive for the environment, but also highlights these products as being ultra-processed, which may negatively impact on health. The study also re-enforces the link between deprivation, reduced purchasing of wholefood plant-proteins and knowledge of plant-based protein and diets. Further research is needed to examine healthfulness of PBAF and how sociodemographic factors, especially deprivation, affect both food choice and consumption of wholefood plant-proteins.",
+    "readLink": "https://www.mdpi.com/2072-6643/14/21/4706"
+  },
+  {
+    "title": "Energy Transition Planning with High Penetration of Variable Renewable Energy in Developing Countries: The Case of the Bolivian Interconnected Power System",
+    "authors": [
+      "Marco Navia,",
+      "Renan Orellana,",
+      "Sulmayra Zaráte,",
+      "Mauricio Villazón,",
+      "Sergio Balderrama,",
+      "Sylvain Quoilin"
+    ],
+    "doi": "https://doi.org/10.3390/en15030968",
+    "journalVolume": "Vol. 15,\n                                no. 968\n                                \n                                  p.\n                                  968",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The transition to a more environmentally friendly energy matrix by reducing fossil fuel usage has become one of the most important goals to control climate change. Variable renewable energy sources (VRES) are a central low-carbon alternative. Nevertheless, their variability and low predictability can negatively affect the operation of power systems. On this issue, energy-system-modeling tools have played a fundamental role. When exploring the behavior of the power system against different levels of VRES penetration through them, it is possible to determine certain operational and planning strategies to balance the variations, reduce the operational uncertainty, and increase the supply reliability. In many developing countries, the lack of such proper tools accounting for these effects hinders the deployment potential of VRES. This paper presents a particular energy system model focused on the case of Bolivia. The model manages a database gathered with the relevant parameters of the Bolivian power system currently in operation and those in a portfolio scheduled until 2025. From this database, what-if scenarios are constructed allowing us to expose the Bolivian power system to a set of alternatives regarding VRES penetration and Hydro storage for that same year. The scope is to quantify the VRES integration potential and therefore the capacity of the country to leapfrog to a cleaner and more cost-effective energy system. To that aim, the unit-commitment and dispatch optimization problem are tackled through a Mixed Integer Linear Program (MILP) that solves the cost objective function within its constraints through the branch-and-cut method for each scenario. The results are evaluated and compared in terms of energy balancing, transmission grid capability, curtailment, thermal generation displacement, hydro storage contribution, and energy generation cost. In the results, it was found that the proposed system can reduce the average electricity cost down to 0.22 EUR/MWh and also reduce up to 2.22 × 106 t (96%) of the CO2 emissions by 2025 with very high penetration of VRES but at the expense of significant amount of curtailment. This is achieved by increasing the VRES installed capacity to 10,142 MW. As a consequence, up to 7.07 TWh (97%) of thermal generation is displaced with up to 8.84 TWh (75%) of load covered by VRES.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/3/968"
+  },
+  {
+    "title": "Reducing Vulnerability and Increasing Resiliency to Climate Change: Learning From Rural Communities",
+    "authors": [
+      "M W Musa,",
+      "D. F. Omokore"
+    ],
+    "doi": "Vol. 15,\n                                no. 1",
+    "issn": "1119-944X (Print)",
+    "publisher": "2408-6851 (Online)",
+    "countryOfPublisher": "Agricultural Extension Society of Nigeria",
+    "lcc": [
+      "Nigeria",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://journal.aesonnigeria.org/index.php/jae",
+    "abstract": "Governments and the international development community generally have responded to various aspects of the global climate change crisis, but questions remain about whether the right actions are being pursued, how best to respond, and what the future holds. Though climate change is a global phenomenon, without doubt, it is not a new phenomenon to people living in rural communities in the tropics and sub-tropics. In Nigeria as well as other parts of Africa, rural people and their communities have over long periods of time built knowledge and developed elaborate strategies and coping mechanism in response to threats imposed by various environmental changes including climate change. Despite their vulnerability and facing greater risks, they have survived and continued to remain resilient. However, the wealth of knowledge in mitigation and adaptive strategies, which ensure the quality and sustainability of their livelihood under changing conditions is yet to be recognized in Nigeriaâ€™s climate change policy formulation and implementation. While the crisis of climate change calls for an urgent response from national governments and the international community, debates revolve around the question and possibility of creating conditions and an economy that permits equitable and environmentally sustainable development. This paper highlights the importance of rural peopleâ€™s contributions as well as insights into the valuable lessons they have to offer in addressing the issue of climate change.",
+    "readLink": "https://www.aesonnigeria.org/ajm/index.php/jae/article/view/113"
+  },
+  {
+    "title": "Analysis of Decadal Land Use Changes and Its Impacts on Urban Heat Island (UHI) Using Remote Sensing-Based Approach: A Smart City Perspective",
+    "authors": [
+      "Sashikanta Sahoo,",
+      "Atin Majumder,",
+      "Sabyasachi Swain,",
+      "Gareema,",
+      "Brijendra Pateriya,",
+      "Nadhir Al-Ansari"
+    ],
+    "doi": "https://doi.org/10.3390/su141911892",
+    "journalVolume": "Vol. 14,\n                                no. 11892\n                                \n                                  p.\n                                  11892",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The land surface temperature (LST) pattern is regarded as one of the most important indicators of the environmental consequences of land use/land cover change. The possible contribution of land surface to the warming phenomenon is being investigated by scientists across the world. This research focuses on variations in surface temperature and urban heat islands (UHIs) over the course of two seasons, i.e., winter and summer. Using remotely sensed datasets and geospatial techniques, an attempt was made to analyze the spatiotemporal variation in urban heat islands (UHIs) and its association with LULC over Chandigarh from 2000 to 2020. The Enhanced Built-up and Bareness Index (EBBI), Dry Built-up Index (DBI), and Dry Bare-Soil Index (DBSI) were used to identify built-up areas in the city. The results revealed an increase of 10.08% in BA, whereas the vegetation decreased by 4.5% over the study period, which is in close agreement with the EBBI, DBI, and DBSI assessments. From 2000 to 2020, the UHI intensities increased steadily in both the summer and winter seasons. Dense built-up areas such as the industrial unit of the city possessed the highest UHIindex (>0.7) values.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/19/11892"
+  },
+  {
+    "title": "Brazilian sandy beaches: characteristics, ecosystem services, impacts, knowledge and priorities",
+    "authors": [
+      "Antonia Cecília Zacagnini Amaral,",
+      "Guilherme Nascimento Corte,",
+      "José Souto Rosa Filho,",
+      "Marcia Regina Denadai,",
+      "Leonir André Colling,",
+      "Carlos Borzone,",
+      "Valéria Veloso,",
+      "Elianne Pessoa Omena,",
+      "Ilana Rosental Zalmon,",
+      "Cristina de Almeida Rocha-Barreira,",
+      "Jose Roberto Botelho de Souza,",
+      "Leonardo Cruz da Rosa,",
+      "Tito Cesar Marques de Almeida"
+    ],
+    "doi": "https://doi.org/10.1590/S1679-875920160933064sp2",
+    "journalVolume": "Vol. 64,\n                                no. spe2\n                                \n                                  pp.\n                                  5\n                                  – 16",
+    "issn": "1679-8759 (Print)",
+    "publisher": "1982-436X (Online)",
+    "countryOfPublisher": "Universidade de São Paulo",
+    "lcc": [
+      "Brazil",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.scielo.br/scielo.php?script=sci_serial&pid=1679-8759&lng=pt&nrm=iso",
+    "abstract": "ABSTRACT Sandy beaches constitute a key ecosystem and provide socioeconomic goods and services, thereby playing an important role in the maintenance of human populations and in biodiversity conservation. Despite the ecological and social importance of these ecosytems, Brazilian sandy beaches are significantly impacted by human interference, chemical and organic pollution and tourism, as well as global climate change. These factors drive the need to better understand the environmental change and its consequences for biota. To promote the implementation of integrated studies to detect the effects of regional and global environmental change on beaches and on other benthic habitats of the Brazilian coast, Brazilian marine researchers have established The Coastal Benthic Habitats Monitoring Network (ReBentos). In order to provide input for sample planning by ReBentos, we have conducted an intensive review of the studies conducted on Brazilian beaches and summarized the current knowledge about this environment. In this paper, we present the results of this review and describe the physical, biological and socioeconomics features of Brazilian beaches. We have used these results, our personal experience and worldwide literature to identify research projects that should be prioritized in the assessment of regional and global change on Brazilian sandy beaches. We trust that this paper will provide insights for future studies and represent a significant step towards the conservation of Brazilian beaches and their biodiversity.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1679-87592016000600005&lng=en&tlng=en"
+  },
+  {
+    "title": "Permafrost thaw induced drying of wetlands at Scotty Creek, NWT, Canada",
+    "authors": [
+      "K M Haynes,",
+      "R F Connon,",
+      "W L Quinton"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aae46c",
+    "journalVolume": "Vol. 13,\n                                no. 11\n                                \n                                  p.\n                                  114001",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Northwestern Canada is one of the most rapidly warming regions on Earth. The scale and rapidity of recently observed warming-induced changes throughout this region indicate that it is particularly sensitive to climate warming and capable of rapid responses to perturbations. Unprecedented rates of permafrost thaw in the zone of discontinuous permafrost are transforming forests to wetlands, and changing the distribution and routing of water over the landscape as evidenced by recent increases in basin discharge. However, the impact of increasing basin discharge on basin water storage is not well understood. Water levels on a permafrost plateau, channel fen, and isolated and connected bogs were monitored from 2003–2017 in the Scotty Creek watershed, Northwest Territories. The water level in the channel fen did not significantly change over the period of study, sustained by inputs from the increasingly-connected network of bogs as permafrost barriers thawed. Bogs with varying levels of connection to the drainage network released from storage between 40 and 53 mm of water over the study period. The water level in the monitored isolated bog did not significantly change over this period. Estimates of moisture contributions derived directly from vertical permafrost thaw and from the lateral expansion of contributing areas account for 90% of the observed cumulative increase of 1043 mm in basin runoff between 1998–2012, leaving 109 mm of this increase unaccounted for. Increasing connectivity to the drainage network and transient wetland drainage at the landscape scale resulted from permafrost thaw-induced talik development. The similarity between the magnitude of wetland drainage and that of enhanced runoff suggests that increased connectivity of wetlands to the drainage network may contribute to increasing runoff from the Scotty Creek watershed. Permafrost thaw-induced land cover transition was found to have both short and long-term effects on runoff generation.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aae46c"
+  }
+]

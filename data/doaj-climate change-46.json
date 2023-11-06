@@ -1,0 +1,229 @@
+[
+  {
+    "title": "Self-organization and crop insurance to enhance livelihood resilience: A case of rice farmers in Cirebon Regency, Indonesia",
+    "authors": [
+      "Nila Pratiwi,",
+      "Mahawan Karuniasa,",
+      "Djoko Suroso"
+    ],
+    "doi": "https://doi.org/10.7454/ajce.v2i1.116",
+    "journalVolume": "Vol. 2,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2580-9563 (Print)",
+    "publisher": "2581-0030 (Online)",
+    "countryOfPublisher": "Universitas Indonesia",
+    "lcc": [
+      "Indonesia",
+      "Social Sciences: Communities. Classes. Races",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://scholarhub.ui.ac.id/ajce/",
+    "abstract": "Climate variability and change that affect extreme weather events has resulted long dry season and drought in Indonesia. Farmers become a vulnerable group since drought has damaged rice fields and as consequence losing their income. Therefore, rice farmers’ livelihood resilience needs to be enhanced in order to cope with those impacts. Crop insurance as financial capital could contribute to famers’ income stability from drought. Moreover, self-organization helps the farmers to understand agricultural risks and increase their adaptive capacity in times of extreme weather events. Accordingly, this paper investigate the impact of drought on rice production and farmers’ income, analyze the benefits of crop insurance and the support of self-organization to enhance livelihood resilience with a case of Kapetakan Sub-district in Cirebon Regency, Indonesia. The study employed mixed-methods by combining qualitative and quantitative data based on official data from government, in-depth interview, and literature review. The study reveals drought, for instance El Nino’s drought in 2015, has resulted in lower rice production and farmers’ income compared to 2014. Crop insurance could increase farmers’ income as compensation due to drought, nonetheless, there have been many farmers who do not have crop insurance yet. Moreover, self-organization related to the network capacity of farmers tends to be limited within farmer groups at village level. The government or other stakeholders should assist to expand the network of farmers in order to interact and learn with other organizations outside the region. Thus, knowledge and skills of farmers which inlude related to benefits of crop insurance and how to manage it will increase in order to choose adaptation option. This condition will contribute to enhance livelihood resilience of farmers to recover from extreme weather events.",
+    "readLink": "http://ajce.ui.ac.id/article/view/116"
+  },
+  {
+    "title": "Perceived impacts of COVID-19 and bushfires on the implementation of an obesity prevention trial in Northeast Victoria, Australia.",
+    "authors": [
+      "Jillian Whelan,",
+      "Monique Hillenaar,",
+      "Penny Fraser,",
+      "Steven Allender,",
+      "Michelle Jackson,",
+      "Claudia Strugnell,",
+      "Colin Bell"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0287468",
+    "journalVolume": "Vol. 18,\n                                no. 6\n                                \n                                  p.\n                                  e0287468",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "BackgroundCalls for the adoption of a systems approach to chronic disease prevention date back at least ten years because of the potential to empower communities to identify and address the complex causes of overnutrition, undernutrition and climate change. Australia, like many countries, has high levels of obesity and extreme climate events. The Reflexive Evidence and Systems interventions to Prevent Obesity and Non-communicable Disease (RESPOND) trial aims to prevent unhealthy weight gain in children in 10 intervention and two pilot communities in north-east Victoria, Australia using community-based participatory approaches informed by systems science. Intervention activities co-designed in 2019 were disrupted by COVID-19 and bushfires. This paper explores the impacts of these 'shocks' on the local prevention workforce to implement actions within communities.MethodsA case study design involving one-hour online focus groups and an on-line survey (November 2021-February 2022). Purposive sampling was used to achieve diverse representation from RESPOND stakeholders including local council, health services, primary care partnerships and department of health. The focus group interview schedule and survey questions were based on Durlak and DuPre's implementation factors.ResultsTwenty-nine participants from seven different communities participated in at least one of nine focus groups to discuss the impacts of COVID-19 and bushfires on localised implementation. Twenty-eight participants (97% of focus group sample) also completed the on-line survey. Implementation of RESPOND stalled or stopped in most communities due to bushfires and/or COVID-19. These shocks resulted in organisational priorities changing, loss of momentum for implementation, redeployment of human resources, culminating in fatigue and exhaustion. Participants reported adaptation of RESPOND, but implementation was slowed due to limited resources.ConclusionFurther research is needed to advance risk management strategies and protect resources within health promotion. System shocks such as bushfires and COVID-19 are inevitable, and despite multiple adaptation opportunities, this intervention approach was not 'shock proof'.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0287468"
+  },
+  {
+    "title": "Evaluation of global forcing datasets for hydropower inflow simulation in Nepal",
+    "authors": [
+      "Bikas Chandra Bhattarai,",
+      "John Faulkner Burkhart,",
+      "Lena M. Tallaksen,",
+      "Chong-Yu Xu,",
+      "Felix Nikolaus Matt"
+    ],
+    "doi": "https://doi.org/10.2166/nh.2020.079",
+    "journalVolume": "Vol. 51,\n                                no. 2\n                                \n                                  pp.\n                                  202\n                                  – 225",
+    "issn": "1998-9563 (Print)",
+    "publisher": "2224-7955 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)",
+      "Geography. Anthropology. Recreation: Physical geography"
+    ],
+    "journalUrl": "https://iwaponline.com/hr",
+    "abstract": "Discharge over the Narayani river catchment of Nepal was simulated using Statkraft's Hydrologic Forecasting Toolbox (Shyft) forced with observations and three global forcing datasets: (i) ERA-Interim (ERA-I), (ii) Water and Global Change (WATCH) Forcing Data ERA-I (WFDEI), and (iii) Coordinated Regional Climate Downscaling Experiment with the contributing institute Rossy Centre, Swedish Meteorological and Hydrological Institute (CORDEX-SMHI). Not only does this provide an opportunity to evaluate discharge variability and uncertainty resulting from different forcing data but also it demonstrates the capability and potential of using these global datasets in data-sparse regions. The fidelity of discharge simulation is the greatest when using observations combined with the WFDEI forcing dataset (hybrid datasets). These results demonstrate the successful application of global forcing datasets for regional catchment-scale modeling in remote regions. The results were also promising to provide insight of the interannual variability in discharge. This study showed that while large biases in precipitation can be reduced by applying a precipitation correction factor (p_corr_factor), the best result is obtained using bias-corrected forcing data as input, i.e. the WFDEI outperformed other forcing datasets. Accordingly, the WFDEI forcing dataset holds great potential for improving our understanding of the hydrology of data-sparse Himalayan regions and providing the potential for prediction. The use of CORDEX-SMHI- and ERA-I-derived data requires further validation and bias correction, particularly over the high mountain regions.",
+    "readLink": "http://hr.iwaponline.com/content/51/2/202"
+  },
+  {
+    "title": "Analysis of Dynamic Spatiotemporal Changes in Actual Evapotranspiration and Its Associated Factors in the Pearl River Basin Based on MOD16",
+    "authors": [
+      "Tao Zhang,",
+      "Yangbo Chen"
+    ],
+    "doi": "https://doi.org/10.3390/w9110832",
+    "journalVolume": "Vol. 9,\n                                no. 11\n                                \n                                  p.\n                                  832",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Evapotranspiration is an important part of the hydrological cycle, surface energy balance and global climate system. Due to spatial heterogeneity, the trends in actual evapotranspiration (ET) and its associated factors vary in different regions. Because direct measurements of ET are limited over large areas, remote sensing provides an efficient method of ET spatial analysis, and standard data products are available at the global scale. This study uses the monthly MOD16 ET dataset and daily meteorological data to analyze the dynamic spatiotemporal changes in ET and its associated factors in the Pearl River Basin (PRB) from 2000 to 2014. The results of the study are as follows. (1) Over time and space, annual ET exhibited a slight increasing trend from 2000 to 2014, with an average value of approximately 946.56 mm/a. ET considerably varied at the monthly and seasonal scales, and in July displayed the highest monthly ET of approximately 119.57 mm, accounting for 36.37% of the annual ET. (2) ET displayed obvious spatial heterogeneity. Specifically, the west was a low-ET region, and moderate and high ET values were interspersed in the central and eastern PRB. Moreover, the rate of change of ET ranged from −13.99 mm/a to 12.81 mm/a in space, and 46.25% of the basin exhibited an increasing trend. (3) Dynamic changes in ET were mainly associated with temperature and relative humidity (RH). Additionally, energy-related elements and wind speed were positively correlated with ET, and temperature was the most influential factor of ET in some months (February–March and September–November). RH was the most important factor in other months but negatively correlated with ET in June and July. Affected by the actual environmental condition, qualitative changes were observed in the correlation between RH and ET in different months. The positive and negative spatial correlations between ET and its associated factors changed in different regions and in different months, and the changes mainly occurred from northwest to southwest.",
+    "readLink": "https://www.mdpi.com/2073-4441/9/11/832"
+  },
+  {
+    "title": "Sheep Excrement Increases Mass of Greenhouse Gases Emissions from Soil Growing Two Forage Crop and Multi-Cutting Reduces Intensity",
+    "authors": [
+      "Xinzhou Zhao,",
+      "Lina Shi,",
+      "Shanning Lou,",
+      "Jiao Ning,",
+      "Yarong Guo,",
+      "Qianmin Jia,",
+      "Fujiang Hou"
+    ],
+    "doi": "https://doi.org/10.3390/agriculture11030238",
+    "journalVolume": "Vol. 11,\n                                no. 238\n                                \n                                  p.\n                                  238",
+    "issn": "2077-0472 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agriculture",
+    "abstract": "To explore the effects of multi-cutting and sheep excrement on greenhouse gas (GHG) emissions from grassland ecosystems which simulate grazing livestock to a certain extent, spring wheat (Triticum aestivum L., var. Yongliang 15) and common vetch (Vicia sativa L., var. Lanjian 3) were planted in pot experiments in an inland arid region in 2019. Four treatments were conducted with eight replicates: plants without sheep excrement and cutting (CK), plants with multi-cutting (MC), plants with sheep excrement (SE), and plants with multi-cutting and sheep excrement (CE). The results showed that the carbon dioxide (CO2) emission of common vetch with CE significantly was higher than that with MC at the earlier and later branching stages (p 0.05). That of spring wheat with CE was significantly higher than that with MC at the later tillering stage (p 2O) emissions of the two forage crops with SE rose significantly more than those with MC at both stages (p 4) of both forage crops with SE changed from absorption to emission (p 3−-N content of both forages significantly increased with SE compared with MC (p 4+-N content did not change significantly. Sheep excrement changed the CH4 sink into a CH4 source of the soil growing the two forage crops and increased the emissions of CO2 and N2O, whereas multi-cutting significantly reduced the GHG intensity of forage crops mostly by promoting the growth of the two forage crops. Future studies are suggested to identify the spatiotemporal effects of cutting and sheep excrement on GHG emissions to improve the prediction of future climate impacts from grazing activities.",
+    "readLink": "https://www.mdpi.com/2077-0472/11/3/238"
+  },
+  {
+    "title": "Development of a Genome-Scale Metabolic Model of Clostridium thermocellum and Its Applications for Integration of Multi-Omics Datasets and Computational Strain Design",
+    "authors": [
+      "Sergio Garcia,",
+      "Sergio Garcia,",
+      "R. Adam Thompson,",
+      "R. Adam Thompson,",
+      "R. Adam Thompson,",
+      "Richard J. Giannone,",
+      "Richard J. Giannone,",
+      "Satyakam Dash,",
+      "Satyakam Dash,",
+      "Costas D. Maranas,",
+      "Costas D. Maranas,",
+      "Cong T. Trinh,",
+      "Cong T. Trinh,",
+      "Cong T. Trinh,",
+      "Cong T. Trinh"
+    ],
+    "doi": "https://doi.org/10.3389/fbioe.2020.00772",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-4185 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology: Biotechnology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/bioengineering_and_biotechnology",
+    "abstract": "Solving environmental and social challenges such as climate change requires a shift from our current non-renewable manufacturing model to a sustainable bioeconomy. To lower carbon emissions in the production of fuels and chemicals, plant biomass feedstocks can replace petroleum using microorganisms as biocatalysts. The anaerobic thermophile Clostridium thermocellum is a promising bacterium for bioconversion due to its capability to efficiently degrade lignocellulosic biomass. However, the complex metabolism of C. thermocellum is not fully understood, hindering metabolic engineering to achieve high titers, rates, and yields of targeted molecules. In this study, we developed an updated genome-scale metabolic model of C. thermocellum that accounts for recent metabolic findings, has improved prediction accuracy, and is standard-conformant to ensure easy reproducibility. We illustrated two applications of the developed model. We first formulated a multi-omics integration protocol and used it to understand redox metabolism and potential bottlenecks in biofuel (e.g., ethanol) production in C. thermocellum. Second, we used the metabolic model to design modular cells for efficient production of alcohols and esters with broad applications as flavors, fragrances, solvents, and fuels. The proposed designs not only feature intuitive push-and-pull metabolic engineering strategies, but also present novel manipulations around important central metabolic branch-points. We anticipate the developed genome-scale metabolic model will provide a useful tool for system analysis of C. thermocellum metabolism to fundamentally understand its physiology and guide metabolic engineering strategies to rapidly generate modular production strains for effective biosynthesis of biofuels and biochemicals from lignocellulosic biomass.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fbioe.2020.00772/full"
+  },
+  {
+    "title": "A Review of Practice and Implementation of the Internet of Things (IoT) for Smallholder Agriculture",
+    "authors": [
+      "Anish  Paul Antony,",
+      "Kendra Leith,",
+      "Craig Jolley,",
+      "Jennifer Lu,",
+      "Daniel  J. Sweeney"
+    ],
+    "doi": "https://doi.org/10.3390/su12093750",
+    "journalVolume": "Vol. 12,\n                                no. 3750\n                                \n                                  p.\n                                  3750",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "In order to feed a growing global population projected to increase to 9 billion by 2050, food production will need to increase from its current level. The bulk of this growth will need to come from smallholder farmers who rely on generational knowledge in their farming practices and who live in locations where weather patterns and seasons are becoming less predictable due to climate change. The expansion of internet-connected devices is increasing opportunities to apply digital tools and services on smallholder farms, including monitoring soil and plants in horticulture, water quality in aquaculture, and ambient environments in greenhouses. In combination with other food security efforts, internet of things (IoT)-enabled precision smallholder farming has the potential to improve livelihoods and accelerate low- and middle-income countries’ journey to self-reliance. Using a combination of interviews, surveys and site visits to gather information, this research presents a review of the current state of the IoT for on-farm measurement, cases of successful IoT implementation in low- and middle-income countries, challenges associated with implementing the IoT on smallholder farms, and recommendations for practitioners.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/9/3750"
+  },
+  {
+    "title": "Applicability of 12 PET estimation methods in different climate regions in China",
+    "authors": [
+      "Lingling Zhao,",
+      "Fei Xu,",
+      "Jun Xia,",
+      "Hai Wu"
+    ],
+    "doi": "https://doi.org/10.2166/nh.2021.128",
+    "journalVolume": "Vol. 52,\n                                no. 3\n                                \n                                  pp.\n                                  636\n                                  – 657",
+    "issn": "1998-9563 (Print)",
+    "publisher": "2224-7955 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)",
+      "Geography. Anthropology. Recreation: Physical geography"
+    ],
+    "journalUrl": "https://iwaponline.com/hr",
+    "abstract": "Potential evapotranspiration (PET) is a comprehensive factor that characterises climate change, and considering the numerous methods to calculate PET, it is difficult to objectively select a method according to the requirements. In this study, the applicability of 12 commonly used PET estimation methods in China was studied. Based on temperature and humidity, China is divided into 11 temperature zones (TZ) and 5 arid and humid regions (AHRs). The study used the FAO Penman–Monteith (P-M) method as the standard, and the applicability of the 12 methods was analysed using four factors: correlation, annual mean values, seasonal distribution, and parameter characteristics. The results show that the radiation-based methods have the best monthly correlation with the P-M method, the temperature-based methods are second best, and mass-transfer-based methods perform the worst. Among these, the P-T method is the best, and the Hamon method is the worst. The Kharrufa and Abtew methods have the better applicability in higher TZs, whereas the Harg method has the least applicability. The seasonal distribution of radiation-based methods (excluding the Jensen method) in the different AHRs and different TZs is better than that of temperature-based and mass-transfer-based methods. According to the evaluation results of all factors, the Rohwer, P-T, and Mark methods are recommended when the data conditions are not conducive for the P-M method. HIGHLIGHTS There are many methods to calculate PET, while it is difficult to choose objectively according to the needs.; The applicability of 12 commonly used PET estimation methods in China was studied from four aspects.; Variation range of the national annual value estimated is 288.72–1355.1 mm.; The P-M method and energy-based methods have the highest monthly correlation.; The Rohwer, P-T, and Mark methods are recommended.;",
+    "readLink": "http://hr.iwaponline.com/content/52/3/636"
+  },
+  {
+    "title": "Radial Growth Adaptability to Drought in Different Age Groups of <i>Picea schrenkiana</i> Fisch. & C.A. Mey in the Tianshan Mountains of Northwestern China",
+    "authors": [
+      "Liang Jiao,",
+      "Xiaoping Liu,",
+      "Shengjie Wang,",
+      "Ke Chen"
+    ],
+    "doi": "https://doi.org/10.3390/f11040455",
+    "journalVolume": "Vol. 11,\n                                no. 455\n                                \n                                  p.\n                                  455",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Forest ecosystems are strongly impacted by extreme climate, and the age effects of radial growth under drought can provide profound understanding of the adaptation strategy of a tree species to climate change. Schrenk spruce (Picea schrenkiana Fisch. & C.A. Mey) trees of three age groups (young, middle-aged, and old) were collected to establish the tree-ring width chronologies in the eastern Tianshan Mountains of northwestern China. Meanwhile, we analyzed and compared the response and resistance disparities of radial growth to drought in trees of different age groups. The results showed that (1) drought stress caused by increasing temperatures was the main factor limiting the radial growth of Schrenk spruce, (2) the old and young trees were more susceptible to drought stress than the middle-aged trees, as suggested by the responses of Schrenk spruce trees and based on the SPEI (standardized precipitation evapotranspiration index), and (3) the difference of the resistance indexes (resistance, recovery, resilience, and relative resilience) of three age groups to drought supported that the resistance values were in the order middle age > young age > old age, but the recovery, resilience, and relative resilience values were in the order old age > young age > middle age. These results will provide a basis for the ecological restoration and scientific management of dominant coniferous tree species of different age groups in the sub-alpine forest ecosystems of the arid regions under climate change scenarios.",
+    "readLink": "https://www.mdpi.com/1999-4907/11/4/455"
+  },
+  {
+    "title": "Monitoring of honey bee floral resources with pollen DNA metabarcoding as a complementary tool to vegetation surveys",
+    "authors": [
+      "Liz Milla,",
+      "Alexander Schmidt‐Lebuhn,",
+      "Jessica Bovill,",
+      "Francisco Encinas‐Viso"
+    ],
+    "doi": "https://doi.org/10.1002/2688-8319.12120",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2688-8319 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://besjournals.onlinelibrary.wiley.com/journal/26888319",
+    "abstract": "Abstract Monitoring biodiversity is a growing and pressing challenge, particularly as climate change threatens species with extinction and leads to widespread shifts in plant distribution and phenology. Tracking changes via ground vegetation surveys is costly and time‐consuming, hence monitoring of complex and heterogenous communities remains an ongoing challenge. Molecular DNA methods are rapidly being developed to provide fast and reproducible results for environmental monitoring, including diet and ecosystem assessments. Here, we used DNA metabarcoding of pollen foraged by European honey bees (Apis mellifera) to investigate their floral resource use in an urban reserve. We collected three different pollen samples from hives: individual bees, raw honey and pollen traps, and identified plants using two metabarcoding markers (ITS2 and trnL). We then compared the results to a ground vegetation survey of surrounding flowering taxa. Pollen DNA metabarcoding detected 74 taxa (48.6% identified to species) across all pollen sources, compared to 44 taxa recorded by the survey (93% identified to species). Within the metabarcoding results, we identified 25% of the genera and 9% of the species found during the survey, with three of the top 10 flowering genera represented. While honey was the most taxon‐rich pollen source (mean = 8.5, SD = 3.5), followed by honey bees (mean = 5.8, SD = 6.1) and pollen traps (mean = 4.2, SD = 1.7), combining the results of six individual bees could detect similar taxa numbers to honey, while 20 bees were required to detect as many taxa as the survey. We demonstrate how DNA metabarcoding of the pollen foraged by honey bees can detect more flowering taxa than traditional survey methods, and how different pollen sources and genetic markers affect the level of detection of plant taxa. The foraging choices of honey bees matched few species detected by the vegetation survey, therefore pollen metabarcoding is recommended as a complementary approach to ground surveys. Rigorous validation and stringent filtering of metabarcoding results were also required to exclude potential false positives. Altogether, this molecular approach can be used to augment vegetation surveys, while tracking the floral resources used by bees.",
+    "readLink": "https://doi.org/10.1002/2688-8319.12120"
+  }
+]

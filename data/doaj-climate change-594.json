@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Quantifying the uncertainties of climate change effects on the storage-yield and performance characteristics of the Pong multi-purpose reservoir, India",
+    "authors": [
+      "B. Soundharajan,",
+      "A. J. Adeloye,",
+      "R. Remesan"
+    ],
+    "doi": "https://doi.org/10.5194/piahs-371-49-2015",
+    "journalVolume": "Vol. 371\n                                \n                                \n                                  pp.\n                                  49\n                                  – 57",
+    "issn": "2199-8981 (Print)",
+    "publisher": "2199-899X (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.proceedings-international-association-of-hydrological-sciences.net/",
+    "abstract": "Climate change is predicted to affect water resources infrastructure due to its effect on rainfall, temperature and evapotranspiration. However, there are huge uncertainties on both the magnitude and direction of these effects. The Pong reservoir on the Beas River in northern India serves irrigation and hydropower needs. The hydrology of the catchment is highly influenced by Himalayan seasonal snow and glaciers, and Monsoon rainfall; the changing pattern of the latter and the predicted disappearance of the former will have profound effects on the performance of the reservoir. This study employed a Monte-Carlo simulation approach to characterise the uncertainties in the future storage requirements and performance of the reservoir. Using a calibrated rainfall-runoff (R-R) model, the baseline runoff scenario was first simulated. The R-R inputs (rainfall and temperature) were then perturbed using plausible delta-changes to produce simulated climate change runoff scenarios. Stochastic models of the runoff were developed and used to generate ensembles of both the current and climate-change perturbed future scenarios. The resulting runoff ensembles were used to simulate the behaviour of the reservoir and determine \"populations\" of reservoir storage capacity and performance characteristics. Comparing these parameters between the current and the perturbed provided the population of climate change effects which was then analysed to determine the uncertainties. The results show that contrary to the usual practice of using single records, there is wide variability in the assessed impacts. This variability or uncertainty will, no doubt, complicate the development of climate change adaptation measures; however, knowledge of its sheer magnitude as demonstrated in this study will help in the formulation of appropriate policy and technical interventions for sustaining and possibly enhancing water security for irrigation and other uses served by Pong reservoir.",
+    "readLink": "https://www.proc-iahs.net/371/49/2015/piahs-371-49-2015.pdf"
+  },
+  {
+    "title": "Country-scale greenhouse gas budgets using shipborne measurements: a case study for the UK and Ireland",
+    "authors": [
+      "C. Helfter,",
+      "N. Mullinger,",
+      "M. Vieno,",
+      "S. O'Doherty,",
+      "M. Ramonet,",
+      "P. I. Palmer,",
+      "E. Nemitz"
+    ],
+    "doi": "https://doi.org/10.5194/acp-19-3043-2019",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  3043\n                                  – 3063",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "We present a mass balance approach to estimate the seasonal and annual budgets of carbon dioxide (CO2) and methane (CH4) of the United Kingdom (excluding Scotland) and the Republic of Ireland from concentration measurements taken on a ferry along the east coast of the United Kingdom over a 3-year period (2015–2017). We estimate the annual emissions of CH4 to be 2.55±0.48 Tg, which is consistent with the combined 2.29 Tg reported to the United Nations Framework Convention on Climate Change by the individual countries. The net CO2 budget (i.e. including all anthropogenic and biogenic sources and sinks of CO2) is estimated at 881.0±125.8 Tg, with a net biogenic contribution of 458.7 Tg (taken as the difference between the estimated net emissions and the inventory value, which accounts for anthropogenic emissions only). The largest emissions for both gases were observed in a broad latitudinal band (52.5–54∘ N), which coincides with densely populated areas. The emissions of both gases were seasonal (maxima in winter and minima in summer), strongly correlated with natural gas usage and, to a lesser extent, also anti-correlated with mean air temperature. Methane emissions exhibited a statistically significant anti-correlation with air temperature at the seasonal timescale in the central region spanning 52.8–54.2∘ N, which hosts a relatively high density of waste treatment facilities. Methane emissions from landfills have been shown to sometimes increase with decreasing air temperature due to changes in the CH4-oxidising potential of the topsoil, and we speculate that the waste sector contributes significantly to the CH4 budget of this central region. This study brings independent verification of the emission budgets estimated using alternative products (e.g. mass balance budgets by aircraft measurements, inverse modelling, inventorying) and offers an opportunity to investigate the seasonality of these emissions, which is usually not possible.",
+    "readLink": "https://www.atmos-chem-phys.net/19/3043/2019/acp-19-3043-2019.pdf"
+  },
+  {
+    "title": "Climate change trend and its effects on reference evapotranspiration at Linhe Station, Hetao Irrigation District",
+    "authors": [
+      "Xu-ming Wang,",
+      "Hai-jun Liu,",
+      "Li-wei Zhang,",
+      "Rui-hao Zhang"
+    ],
+    "doi": "https://doi.org/10.3882/j.issn.1674-2370.2014.03.002",
+    "journalVolume": "Vol. 7,\n                                no. 3\n                                \n                                  pp.\n                                  250\n                                  – 266",
+    "issn": "1674-2370 (Print)",
+    "publisher": "2405-8106 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/water-science-and-engineering/",
+    "abstract": "Linhe National Meteorological Station, a representative weather station in the Hetao Irrigation District of China, was selected as the research site for the present study. Changes in climatic variables and reference evapotranspiration (ET0) (estimated by the Penman-Monteith method) were detected using Mann-Kendall tests and Sen's slope estimator, respectively. The authors analyzed the relationship between the ET0 change and each climatic variable's change. From 1954 to 2012, the air temperature showed a significant increasing trend, whereas relative humidity and wind speed decreased dramatically. These changes resulted in a slight increase in ET0. The radiative component of total ET0 increased from 50% to 57%, indicating that this component made a greater contribution to the increase in total ET0 than the aerodynamic component, especially during the crop growing season (from April to October). The sensitivity analysis showed that ET0 in Hetao is most sensitive to mean daily air temperature (11.8%), followed by wind speed (−7.3%) and relative humidity (4.8%). Changes in sunshine duration had only a minor effect on ET0 over the past 59 years.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674237015302854"
+  },
+  {
+    "title": "Pelagic-Benthic Coupling, Food Banks, and Climate Change on the West Antarctic Peninsula Shelf",
+    "authors": [
+      "Craig R. Smith,",
+      "David J. DeMaster,",
+      "Carrie J. Thomas,",
+      "Pavica Sršen,",
+      "Laura Grange,",
+      "Victor Evrard,",
+      "Fabio DeLeo"
+    ],
+    "doi": "Vol. 25,\n                                no. 3\n                                \n                                  pp.\n                                  188\n                                  – 201",
+    "issn": "1042-8275 (Print)",
+    "publisher": "2377-617X (Online)",
+    "countryOfPublisher": "The Oceanography Society",
+    "lcc": [
+      "United States",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "https://tos.org/oceanography/",
+    "abstract": "The West Antarctic Peninsula (WAP) shelf is deep and detritus-based (i.e., it is fueled by organic material sinking from intense seasonal cycles of primary production in the water column), leading to pelagic-benthic coupling. The WAP is warming rapidly, yielding increases in seawater temperatures and reductions in sea ice that may fundamentally alter pelagic-benthic coupling and shelf benthic ecosystems. RVIB Nathaniel B. Palmer and ARSV Laurence M. Gould have provided year-round access to the WAP sea ice zone, facilitating studies of pelagic-benthic coupling and climate change. In the Food for Benthos along the Antarctic Continental Shelf (FOODBANCS) Project, we conducted a 15-month field program to evaluate benthic ecosystem function across the mid-WAP shelf, testing the hypothesis that \"phytodetrital material deposited from the summer bloom provides a sustained source of food for benthic detritivores during winter months, when organic-matter flux from the water column is extremely low.\" We found that the intense seasonality in primary production and food availability in the WAP water column is heavily dampened at the shelf floor by the presence of a \"food bank\" that sustains benthic ecosystem functions (including sediment-community respiration, deposit feeding, vitellogenesis, spawning, and recruitment of benthos) over the winter; this food bank also influences community structure and life-history strategies of the WAP benthos. The persistence of the food bank may be mediated by low bottom-water temperatures, with the consequence that climate warming might reduce food availability in shelf communities. During the FOODBANCS2 Project, we studied the benthic ecosystem response to the strong latitudinal sea ice gradient along the WAP to explore the ecosystem consequences of sea ice loss from climate change. We found that some aspects of benthic ecosystem structure (e.g., macrofaunal dominance by the polychaete Aurospio foodbancsia) covaried with sea ice duration and are likely to be sensitive to sea ice loss. Other benthic parameters (e.g., the standing crop of macro- and megabenthos) exhibited nonlinear responses, with evidence of resilience along much of the sea ice gradient and abrupt change near one end. Still other benthic parameters (e.g., sediment community respiration) changed very little with sea ice duration. We also found that climate warming is facilitating invasion of the WAP shelf by predacious king crabs, with dramatic reduction in benthic biodiversity and altered ecosystem function. In summary, some important benthic ecosystem parameters along the WAP may be resilient to climate-induced changes in pelagic-benthic coupling, while many others may be highly sensitive, responding nonlinearly to sea ice loss. Incorporation of climate change effects into WAP benthic ecosystem models, including the effects of invasive species, will be challenging until mechanisms, nonlinearities, synergies, and tipping points of climate change effects are better understood.",
+    "readLink": "http://tos.org/oceanography/archive/25-3_smith_c.pdf"
+  },
+  {
+    "title": "Measuring Pro-Environmental Behavior: Convergent Validity, Internal Consistency, and Respondent Experience of Existing Instruments",
+    "authors": [
+      "Berre Deltomme,",
+      "Karen Gorissen,",
+      "Bert Weijters"
+    ],
+    "doi": "https://doi.org/10.3390/su151914484",
+    "journalVolume": "Vol. 15,\n                                no. 14484\n                                \n                                  p.\n                                  14484",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The influence of human behavior on climate change and environmental decline is receiving increased attention; and therefore, it has led to an increase in studies that measure pro-environmental behavior (PEB) as a predictor, a covariate, or an outcome variable. To this end, (validated) self-report scales have traditionally been the main measurement tool, but lately, several experimental instruments have also been developed to measure PEB. Measurement instruments that are considered to measure the same construct should provide consistent results, i.e., they should show high convergent validity. However, it is not clear whether substitute measures for PEB show this necessary convergent validity and how they compare to each other in terms of internal consistency and respondent experience. To address this, we investigated thirteen validated self-report scales and three experimental tasks on their psychometric qualities (i.e., validity and internal consistency) and respondent experience. Therefore, we assigned 340 participants and randomly administered half of the instruments to each of them. The results show that, in general, convergent validity is lacking, which shows that the measurement instruments cannot be considered equivalent. As for respondent experience, the experimental tasks are most time-consuming, are perceived as most fatiguing, and are most sensitive to multitasking. The self-report scales are most sensitive to socially desirable responding and acquiescence bias. Our insights cater to researchers in environmental psychology and sustainability seeking to employ validated self-report scales or behavioral tasks in measuring PEB.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/19/14484"
+  },
+  {
+    "title": "Impact of a future H<sub>2</sub>-based road transportation sector on the composition and chemistry of the atmosphere &ndash; Part 2: Stratospheric ozone",
+    "authors": [
+      "D. Wang,",
+      "W. Jia,",
+      "S. C. Olsen,",
+      "D. J. Wuebbles,",
+      "M. K. Dubey,",
+      "A. A. Rockett"
+    ],
+    "doi": "https://doi.org/10.5194/acp-13-6139-2013",
+    "journalVolume": "Vol. 13,\n                                no. 13\n                                \n                                  pp.\n                                  6139\n                                  – 6150",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "The prospective future adoption of molecular hydrogen (H2) to power the road transportation sector could greatly improve tropospheric air quality but also raises the question of whether the adoption would have adverse effects on the stratospheric ozone. The possibility of undesirable impacts must be fully evaluated to guide future policy decisions. Here we evaluate the possible impact of a future (2050) H2-based road transportation sector on stratospheric composition and chemistry, especially on the stratospheric ozone, with the MOZART (Model for OZone And Related chemical Tracers) model. Since future growth is highly uncertain, we evaluate the impact of two world evolution scenarios, one based on an IPCC (Intergovernmental Panel on Climate Change) high-emitting scenario (A1FI) and the other on an IPCC low-emitting scenario (B1), as well as two technological options: H2 fuel cells and H2 internal combustion engines. We assume a H2 leakage rate of 2.5% and a complete market penetration of H2 vehicles in 2050. The model simulations show that a H2-based road transportation sector would reduce stratospheric ozone concentrations as a result of perturbed catalytic ozone destruction cycles. The magnitude of the impact depends on which growth scenario evolves and which H2 technology option is applied. For the evolution growth scenario, stratospheric ozone decreases more in the H2 fuel cell scenarios than in the H2 internal combustion engine scenarios because of the NOx emissions in the latter case. If the same technological option is applied, the impact is larger in the A1FI emission scenario. The largest impact, a 0.54% decrease in annual average global mean stratospheric column ozone, is found with a H2 fuel cell type road transportation sector in the A1FI scenario; whereas the smallest impact, a 0.04% increase in stratospheric ozone, is found with applications of H2 internal combustion engine vehicles in the B1 scenario. The impacts of the other two scenarios fall between the above two boundary scenarios. However, the magnitude of these changes is much smaller than the increases in 2050 stratospheric ozone projected, as stratospheric ozone is expected to recover due to the limits in ozone depleting substance emissions imposed in the Montreal Protocol.",
+    "readLink": "http://www.atmos-chem-phys.net/13/6139/2013/acp-13-6139-2013.pdf"
+  },
+  {
+    "title": "A standardized index for assessing sub-monthly compound dry and hot conditions with application in China",
+    "authors": [
+      "J. Li,",
+      "Z. Wang,",
+      "Z. Wang,",
+      "X. Wu,",
+      "X. Wu,",
+      "J. Zscheischler,",
+      "J. Zscheischler,",
+      "J. Zscheischler,",
+      "S. Guo,",
+      "X. Chen"
+    ],
+    "doi": "https://doi.org/10.5194/hess-25-1587-2021",
+    "journalVolume": "Vol. 25\n                                \n                                \n                                  pp.\n                                  1587\n                                  – 1601",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Compound dry and hot conditions frequently cause large impacts on ecosystems and societies worldwide. A suite of indices is available for the assessment of droughts and heatwaves, yet there is no index available for incorporating the joint variability of dry and hot conditions at the sub-monthly scale. Here we introduce a daily-scale index, called the standardized compound drought and heat index (SCDHI), to assess compound dry-hot conditions. The SCDHI is based on a daily drought index (the standardized antecedent precipitation evapotranspiration index – SAPEI), the daily-scale standardized temperature index (STI), and a joint probability distribution method. The new index is verified against real-world compound dry and hot events and associated observed vegetation impacts in China. The SCDHI can not only capture compound dry and hot events at both monthly and sub-monthly scales, but is also a good indicator for associated vegetation impacts. Using the SCDHI, we quantify the frequency, severity, duration, and intensity of compound dry-hot events during the historical period and assess the ability of climate models to reproduce these characteristics in China. We find that compound events whose severity is at least light and which last longer than 2 weeks generally persisted for 20–35 d in China. Southern China suffered from compound events most frequently, and the most severe compound events were mainly detected in this region. Climate models generally overestimate the frequency, duration, severity, and intensity of compound events in China, especially for western regions, which can be attributed to a too strong dependence between the SAPEI and STI in those models. The SCDHI provides a new tool to quantify sub-monthly characteristics of compound dry and hot events and to monitor their initiation, development, and decay. This is important information for decision-makers and stakeholders to release early and timely warnings.",
+    "readLink": "https://hess.copernicus.org/articles/25/1587/2021/hess-25-1587-2021.pdf"
+  },
+  {
+    "title": "Energy Consumption Models at Urban Scale to Measure Energy Resilience",
+    "authors": [
+      "Guglielmina Mutani,",
+      "Valeria Todeschi,",
+      "Simone Beltramino"
+    ],
+    "doi": "https://doi.org/10.3390/su12145678",
+    "journalVolume": "Vol. 12,\n                                no. 5678\n                                \n                                  p.\n                                  5678",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Energy resilience can be reached with a secure, sustainable, competitive, and affordable system. In order to achieve energy resilience in the urban environment, urban-scale energy models play a key role in supporting the promotion and identification of effective energy-efficient and low-carbon policies pertaining to buildings. In this work, a dynamic urban-scale energy model, based on an energy balance, has been designed to take into account the local climate conditions and morphological urban-scale parameters. The aim is to present an engineering methodology, applied to clusters of buildings, using the available urban databases. This methodology has been calibrated and optimized through an iterative procedure on 102 residential buildings in a district of the city of Turin (Italy). The results of this work show how a place-based dynamic energy balance methodology can also be sufficiently accurate at an urban scale with an average seasonal relative error of 14%. In particular, to achieve this accuracy, the model has been optimized by correcting the typological and geometrical characteristics of the buildings and the typologies of ventilation and heating system; in addition, the indoor temperatures of the buildings—that were initially estimated as constant—have been correlated to the climatic variables. The proposed model can be applied to other cities utilizing the existing databases or, being an engineering model, can be used to assess the impact of climate change or other scenarios.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/14/5678"
+  },
+  {
+    "title": "Occurrence of root-knot nematode Meloidogyne arenaria in the potato field in Serbia",
+    "authors": [
+      "Bačić Jasmina,",
+      "Bosnić Dragana,",
+      "Samardžić Jelena,",
+      "Avdalović Radmila,",
+      "Mickovski-Stefanović Violeta,",
+      "Kušić-Tišma Jelena"
+    ],
+    "doi": "https://doi.org/10.5937/ratpov59-38187",
+    "journalVolume": "Vol. 59,\n                                no. 2\n                                \n                                  pp.\n                                  51\n                                  – 55",
+    "issn": "1821-3944 (Print)",
+    "publisher": "2217-8392 (Online)",
+    "countryOfPublisher": "Institute of field and vegetable crops, Novi Sad",
+    "lcc": [
+      "Serbia",
+      "Agriculture: Plant culture",
+      "Technology: Chemical technology: Biotechnology"
+    ],
+    "journalUrl": "http://www.ifvcns.rs/ratarpovrt",
+    "abstract": "Root-knot nematodes can cause significant losses in potato yield in warm and cool regions. Six Meloidogyne species can attack potato. Species Meloidogyne chitwoodi, M. fallax, M. hapla, are present in cool regions, while M. arenaria, M. incognita and M. javanica are common in warm regions and considered to belong to the Meloidogyne tropical group. Meloidogyne arenaria is present in regions with continental climate in glasshouses attacking a large number of host-plants. In October 2018, potato crop var. Balathon Rose with galls on 70% of all tubers was noticed during quarantine nematode species Meloidogyne chitwoodi and M. fallax survey in the locality Horgoš, municipality of Kanjiža, Vojvodina Province. Symptoms of stunted and wilted plants were detected as well. Females were used for morphological and molecular identification. Morphological identification of species based on females' perineal patterns indicated the sample as M. arenaria. Species identification was confirmed by molecular analyses using group-specific primers in the rDNA region and species-specific SCAR primers for M. arenaria species identification. To our knowledge, this is the first record of highly damaged potato crop caused by M. arenaria in the field in Serbia. The severity of the damage M. arenaria can cause to potato in the open field has not been observed in the part of Balkan peninsula with continental climate before. This tropical Meloidogyne species may become an emerging phytosanitary problem within Europe in the future due global warming and climate change.",
+    "readLink": "https://scindeks-clanci.ceon.rs/data/pdf/1821-3944/2022/1821-39442202051B.pdf"
+  },
+  {
+    "title": "A decadal trend of juvenile European sea bass (Dicentrarchus labrax, L.) responses to climate patterns in the Mondego estuary, Portugal",
+    "authors": [
+      "Eduardo Granja Bento"
+    ],
+    "doi": "https://doi.org/10.3389/conf.FMARS.2015.03.00144",
+    "journalVolume": "Vol. 2",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Estuarine systems support the life cycle stages of commercially important marine fish and are influenced by large and local-scale climatic patterns. Also, extreme events triggered by climate changes may influence the functioning of nursery grounds and recruitment for several fish species. In this study, performed in the Mondego estuary, Portugal, we used an 11-year database (2003-2013) for analyzing the variability in the population of a marine juvenile migrant fish, the European sea bass Dicentrarchus labrax, regarding changes in abundance, population structure, growth rates and secondary production and annual day of peak abundance. Higher densities and production occurred at the beginning of the study, but no differences in 0-group growth could be observed. In order to detect change points in both biological and climatic data, the cumulative sum (CUSUM) of the deviations from the mean for the 2003-2013 period were determined for each parameter. The relationship between large- and local-scale drivers and 0-group abundance, secondary production and day of peak abundance were evaluated using a Pearson correlation analysis of CUSUM of biological and environmental data, considering the correspondent yearly values and with a time-lag of 1 year. The North Atlantic Oscillation (NAO) index, sea surface temperature (SST) and their respective winter values were tested as large-scale factors, while river runoff, salinity and water temperature were considered as local climate patterns. River runoff was the significant factor explaining D. labrax 0-group abundances and the NAO and water temperature were also significant predictors considering the 1-year lag. Regarding D. labrax 0-group secondary production, salinity and water temperature were the significant predictors. The NAO with 1-year lag was also negatively correlated with the day of peak abundance. The observed variability regarding yearly trends in abundance of juvenile fish was mostly linked to local-scale climate patterns, which can influence habitat use patterns, whereas large-scale factors (NAO, SST) seem to operate at a wider time frame, as observed by the lag of 1-year on their influence on juvenile sea bass abundance.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/conf.FMARS.2015.03.00144/full"
+  }
+]

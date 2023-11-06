@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Increased Health Impact of Aflatoxins Due to Climate Change: Prospective Risk Management Strategies",
+    "authors": [
+      "E. Dimitrieska-Stojkovikj"
+    ],
+    "doi": "Vol. 5,\n                                no. 2\n                                \n                                  pp.\n                                  38\n                                  – 39",
+    "issn": "2345-685X (Print)",
+    "publisher": "2345-6825 (Online)",
+    "countryOfPublisher": "Shahid Sadoughi University of Medical Sciences",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "http://jfqhc.ssu.ac.ir/",
+    "abstract": "This article has no abstract DOI: 10.29252/jfqhc.5.2.1",
+    "readLink": "http://jfqhc.ssu.ac.ir/browse.php?a_code=A-10-644-2&slc_lang=en&sid=1"
+  },
+  {
+    "title": "National Scale Land Cover Classification Using the Semiautomatic High-Quality Reference Sample Generation (HRSG) Method and an Adaptive Supervised Classification Scheme",
+    "authors": [
+      "Amin Naboureh,",
+      "Ainong Li,",
+      "Jinhu Bian,",
+      "Guangbin Lei"
+    ],
+    "doi": "https://doi.org/10.1109/JSTARS.2023.3241620",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  1858\n                                  – 1870",
+    "issn": "1939-1404 (Print)",
+    "publisher": "2151-1535 (Online)",
+    "countryOfPublisher": "IEEE",
+    "lcc": [
+      "United States",
+      "Technology: Ocean engineering",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443",
+    "abstract": "The advent of new high-performance cloud computing platforms [e.g., Google Earth Engine (GEE)] and freely available satellite data provides a great opportunity for land cover (LC) mapping over large-scale areas. However, the shortage of reliable and sufficient reference samples still hinders large-scale LC classification. Here, selecting Turkey as the case study, we presented a semiautomatic high-quality reference sample generation (HRSG) method using the publicly available scientific LC products and the linear spectral unmixing analysis to generate high-quality ground samples for the years 1995 and 2020 within the GEE platform. Furthermore, we developed an adaptive random forest classification scheme based on Köppen–Geiger climate zone classification system. Our rationale was related to the fact that large-scale study areas often contain multiple climate zones where the spectral signature of the same LC class may vary within different climate zones that can lead to a poor LC classification accuracy. To have a robust assessment, the generated LC maps were evaluated against independent test datasets. In regard to the proposed sample generation method, it was observed that HRSG can generate high-quality samples independent of the characteristics of scientific LC products. The high overall accuracy of 92% for 2020 and 90% for 1995 and satisfactory results for producer's accuracy (ranging between 83.4% and 99.3%) and user's accuracy (ranging between 86.1% and 99.7%) of nine LC classes demonstrated the effectiveness of the proposed framework. The presented methodologies can be incorporated into future studies related to large-scale LC mapping and LC change monitoring studies.",
+    "readLink": "https://ieeexplore.ieee.org/document/10035401/"
+  },
+  {
+    "title": "Carbon stocks of particle board and fiberboard in Japan",
+    "authors": [
+      "Chihiro Kayo,",
+      "Kotoko Sanjo,",
+      "Issei Sato,",
+      "Mengyuan Liu,",
+      "Gianova Vierry Prasetyadi,",
+      "Suguru Hirahara"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-023-37132-x",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract The carbon stock function of harvested wood products (HWPs) is attracting attention among climate change countermeasures. Among HWPs, particle board (PB) and fiberboard (FB) mainly use recycled materials. This study estimated carbon stocks of PB and FB and their annual changes over the past 70 years in Japan using three methods of the Intergovernmental Panel on Climate Change guidelines: Tiers 1–3. Tier 1 uses first order decay (FOD), a 25-year half-life, and the Food and Agriculture Organization of the United Nations database. Tier 2 uses FOD, a 25-year half-life, and Japan-specific statistics. Tier 3 uses a log-normal distribution for the decay function and a 38–63-year half-life of building PB/FB. Japan’s PB and FB carbon stocks have increased for the past 70 years. The latest carbon stock in early 2022 and the annual change in carbon stock in 2021 was 21.83 million t-C and 0.42 million t-C/year, respectively for Tier 3. Tier 3 has the highest estimation accuracy by using decay functions and half-lives that match the actual conditions of building PB and FB, whereas Tiers 1 and 2 were underestimates. Approximately 40% of the carbon stock is derived from waste wood, which extends its utilization.",
+    "readLink": "https://doi.org/10.1038/s41598-023-37132-x"
+  },
+  {
+    "title": "Relação entre clima organizacional, percepção de mudança organizacional e satisfação do cliente Relationship between organizational climate, perception of organizational change and customer satisfaction",
+    "authors": [
+      "Juliana Neves Santos,",
+      "Elaine Rabelo Neiva,",
+      "Eleuni Antônio Andrade-Melo"
+    ],
+    "doi": "Vol. 29,\n                                no. 1\n                                \n                                  pp.\n                                  31\n                                  – 39",
+    "issn": "0102-3772 (Print)",
+    "publisher": "1806-3446 (Online)",
+    "countryOfPublisher": "Universidade de Brasília",
+    "lcc": [
+      "Brazil",
+      "Philosophy. Psychology. Religion: Psychology"
+    ],
+    "journalUrl": "https://www.scielo.br/j/ptp/",
+    "abstract": "Este trabalho tem como objeto de estudo as relações entre clima organizacional, percepção de mudança e satisfação do cliente em 170 unidades de uma organização pública prestadora de serviços com atuação em todo o Brasil. Foram analisados dados primários e secundários, agregados em nível de unidade, utilizando-se da técnica de modelagem de equações estruturais. Foram testados modelos com relações direta e mediacionais entre as variáveis. Os resultados indicam que a percepção de mudança medeia a relação entre o clima organizacional e a satisfação do cliente, que o clima organizacional possui uma relação direta com a satisfação do cliente e os empregados percebem mudanças relacionadas à gestão do clima organizacional.This study examines the relationships between organizational climate, perceptions of change and customer satisfaction in 170 units of a public service organization with operations throughout Brazil. Primary and secondary data were aggregated at the unit level using the technique of structural equation modeling. Models were tested with mediational and direct relationship between the variables. The results indicate that the perception of change mediates the relationship between organizational climate and customer satisfaction, the organizational climate has a direct relationship to customer satisfaction and employees perceive changes related to the organizational climate management.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-37722013000100005"
+  },
+  {
+    "title": "Implication of Land-Use and Land-Cover Change into Carbon Dioxide Emissions  in Karang Gading and Langkat Timur Wildlife Reserve, North Sumatra, Indonesia",
+    "authors": [
+      "Mohammad Basyuni,",
+      "Lollie Agustina Pancawaraswati Putri,",
+      "Muammar Bakar Murni"
+    ],
+    "doi": "https://doi.org/10.7226/jmht.21.1.",
+    "journalVolume": "Vol. 21,\n                                no. 1",
+    "issn": "2087-0469 (Print)",
+    "publisher": "2089-2063 (Online)",
+    "countryOfPublisher": "Bogor Agricultural University",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://journal.ipb.ac.id/index.php/jmht",
+    "abstract": "Mangrove forest in the context of climate change is important sector to be included in the inventory of greenhouse gas (GHG) emissions. The present study describes land-use and land-cover change during 2006–2012 of a mangrove forest conservation area, Karang Gading and Langkat Timur Laut Wildlife Reserve (KGLTLWR) in North Sumatra, Indonesia and their implications to carbon dioxide emissions. A land-use change matrix showed that the decrease of mangrove forest due to increases of other land-use such as aquaculture (50.00%) and oil palm plantation (28.83%). Furthermore, the net cumulative of carbon emissions in KGLTLWR for 2006 was 3804.70 t CO2-eq year-1, whereas predicting future emissions in 2030 was 11,318.74 t CO2-eq year-1 or an increase of 33.61% for 12 years. Source of historical emissions mainly from changes of secondary mangrove forests into aquaculture and oil palm plantation were 3223.9 t CO2-eq year-1 (84.73%) and 959.00 t CO2-eq year-1 (25.21%), respectively, indicating that the KGLTLWR is still a GHG emitter. Mitigation scenario with no conversion in secondary mangrove forest reduced 16.21% and 25.8% carbon emissions in 2024 and 2030, respectively. This study suggested that aquaculture and oil palm plantation are drivers of deforestation as well as the largest of GHG emission source in this area. Keywords: carbon emission, climate change, deforestation, forest degradation, mangrove conservation",
+    "readLink": "http://journal.ipb.ac.id/index.php/jmht/article/view/9494"
+  },
+  {
+    "title": "Quantitative Modelling and Perspective-Taking: Two Competencies of Decision Making for Sustainable Development",
+    "authors": [
+      "Marko Böhm,",
+      "Jan Barkmann,",
+      "Sabina Eggert,",
+      "Claus H. Carstensen,",
+      "Susanne Bögeholz"
+    ],
+    "doi": "https://doi.org/10.3390/su12176980",
+    "journalVolume": "Vol. 12,\n                                no. 6980\n                                \n                                  p.\n                                  6980",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Land use change, natural resource use and climate change are challenging Sustainable Development issues (SDGs 13–15). Fostering the competencies to deal with such issues is one core task for current educational endeavors. Among these competencies, decision-making competencies are central. In detail, we investigate how learners evaluate alternative decision-making options to improve existing competence models. We exemplify our competence modelling approach using the designation of a Marine Protected Area. The cross-sectional sample consists of secondary school students and student teachers (N = 760). Partial Credit modelling shows that quantitative modelling of decision-making options is a different competence dimension than perspective taking if contextualized for Sustainable Development. In quantitative modelling, mathematical modelling is used to evaluate and reflect on decision-making options. Perspective taking covers the ability to consider different normative perspectives on Sustainable Development issues. Both dimensions show plausible (latent) correlations with related constructs within the nomological net, i.e., with qualitative arguing, economic literacy, mathematical competencies, reading competencies and analytical problem solving. Furthermore, person-abilities increase with level of education for both dimensions. The identified competence dimensions quantitative modelling and perspective taking were successfully modelled and shown to be distinct; the resulting measuring instrument is reliable and valid.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/17/6980"
+  },
+  {
+    "title": "Forest management plan based on carbon sequestration model",
+    "authors": [
+      "Cao Yunlu,",
+      "Guo Mingzhu,",
+      "Ma Xinhui"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202235202021",
+    "journalVolume": "Vol. 352\n                                \n                                \n                                  p.\n                                  02021",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "With the increase of carbon dioxide emissions in various countries, greenhouse gases surge, posing a threat to life systems. In this context, how to balance the multifaceted value of forests and improve the relationship between climate change through carbon sequestration of forests and forest products, so as to achieve the sustainable development of forests, is an urgent problem to be solved. The forest management decision-making model established in this paper includes comprehensive considerations such as carbon sequestration, biodiversity, socio-economic and cultural entertainment. The forest carbon sequestration model consists of direct absorption by vegetation and indirect sequestration of carbon dioxide by forest products. We use Cara model to comprehensively estimate forest net primary productivity and establish a model of carbon dioxide storage of forest products based on analytic hierarchy process. In order to realize the sustainable development of forest, we also applied fuzzy comprehensive evaluation and entropy weight method to establish a forest management plan model integrating biodiversity, social economy, culture and entertainment. Finally, we applied the model to Saihanba National Forest Park in China and got positive feedback. The forest management model established in this paper provides theoretical basis and technical support for forest sustainable development.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/19/e3sconf_esat2022_02021.pdf"
+  },
+  {
+    "title": "Indigenous knowledge systems based climate governance in water and land resource management in rural Zimbabwe",
+    "authors": [
+      "S. S. Mugambiwa,",
+      "J. C. Makhubele"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2021.183",
+    "journalVolume": "Vol. 12,\n                                no. 5\n                                \n                                  pp.\n                                  2045\n                                  – 2054",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "This paper interrogates indigenous knowledge systems (IKS) based climate governance in water and land resource management in under-resourced areas of Zimbabwe. Water and land resources are fundamental for smallholder farmers and their productivity. The concept of IKS plays a significant role in climate change adaptation in Zimbabwe's rural communities. Climate change has a considerable influence on the success of agricultural production in the rural communities of Zimbabwe. Hence, it becomes fundamental to assess the community-based methods of climate governance. Qualitative multiple case study exploratory designs were employed with data collected through individual interviews with smallholder farmers, and thematic content analysis was used to analyse data. This study found that enhancing and embracing IKS is of paramount importance for inclusion in local-level strategies in the development process with special reference to climate governance in water and land resource management, particularly in under-resourced communities. It also established that the use of IKS enhances communities' adaptive capacity and it should not be conducted at the expense of scientific methods but rather should be employed in order to complement the existing scientific global knowledge systems. HIGHLIGHTS This paper interrogates the role of IKS in land and water resources sectors.; This study makes a striking contribution by revealing the strengths and weaknesses of IKS in climate change adaptation.; This paper recommends the incorporation of IKS into national climate change policy.;",
+    "readLink": "http://jwcc.iwaponline.com/content/12/5/2045"
+  },
+  {
+    "title": "Pre‐Industrial, Present and Future Atmospheric Soluble Iron Deposition and the Role of Aerosol Acidity and Oxalate Under CMIP6 Emissions",
+    "authors": [
+      "Elisa Bergas‐Massó,",
+      "María Gonçalves Ageitos,",
+      "Stelios Myriokefalitakis,",
+      "Ron L. Miller,",
+      "Twan vanNoije,",
+      "Philippe Le Sager,",
+      "Gilbert Montané Pinto,",
+      "Carlos Pérez García‐Pando"
+    ],
+    "doi": "https://doi.org/10.1029/2022EF003353",
+    "journalVolume": "Vol. 11,\n                                no. 6\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Atmospheric iron (Fe) deposition to the open ocean affects net primary productivity, nitrogen fixation, and carbon uptake. We investigate changes in soluble Fe (SFe) deposition from the pre‐industrial period to the late 21st century using the EC‐Earth3‐Iron Earth System model. EC‐Earth3‐Iron considers various sources of Fe, including dust, fossil fuel combustion, and biomass burning, and features comprehensive atmospheric chemistry, representing atmospheric oxalate, sulfate, and Fe cycles. We show that anthropogenic activity has changed the magnitude and spatial distribution of SFe deposition by increasing combustion Fe emissions and atmospheric acidity and oxalate levels. We report that SFe deposition has doubled since the early industrial era, using the Coupled Model Intercomparison Project Phase 6 emission inventory. We highlight acidity as the main solubilization pathway for dust‐Fe and oxalate‐promoted processing for the solubilization of combustion‐Fe. We project a global SFe deposition increase of 40% by the late 21st century relative to present day under Shared Socioeconomic Pathway (SSP) 3–7.0, which assumes weak climate change mitigation policies. Conversely, SSPs with stronger mitigation pathways (1–2.6 and 2–4.5) result in 35% and 10% global decreases, respectively. Despite these differences, SFe deposition increases over the equatorial Pacific and decreases in the Southern Ocean (SO) for all SSPs. We further observe that deposition over the equatorial Pacific and SO are highly sensitive to future changes in dust emissions from Australia and South America, as well as from North Africa. Future studies should focus on the potential impact of climate‐ and human‐induced changes in dust and wildfires combined.",
+    "readLink": "https://doi.org/10.1029/2022EF003353"
+  },
+  {
+    "title": "Reductions in California's Urban Fossil Fuel CO2 Emissions During the COVID‐19 Pandemic",
+    "authors": [
+      "C. C. Yañez,",
+      "F. M. Hopkins,",
+      "X. Xu,",
+      "J. F. Tavares,",
+      "A. Welch,",
+      "C. I. Czimczik"
+    ],
+    "doi": "https://doi.org/10.1029/2022AV000732",
+    "journalVolume": "Vol. 3,\n                                no. 6\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2576-604X (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Geology",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/2576604x",
+    "abstract": "Abstract Fossil fuel carbon dioxide (CO2) emissions (ffCO2) constitute the majority of greenhouse gas emissions and are the main determinant of global climate change. The COVID‐19 pandemic caused wide‐scale disruption to human activity and provided an opportunity to evaluate our capability to detect ffCO2 emission reductions. Quantifying changes in ffCO2 levels is especially challenging in cities, where climate mitigation policies are being implemented but local emissions lead to spatially and temporally complex atmospheric mixing ratios. Here, we assess ffCO2 emission patterns associated with pandemic‐induced changes to human activity using direct observations of on‐road CO2 mole fractions in the Los Angeles (LA) urban area and analyses of the radiocarbon (14C) content of annual grasses collected by community scientists throughout California, USA. With COVID‐19 mobility restrictions in place in 2020, we observed a significant reduction in ffCO2 levels across California, especially in urban centers. In LA, on‐road CO2 enhancements were 60 ± 16% lower than the corresponding period of 2019 and rebounded to pre‐pandemic levels by 2021. Plant 14C analysis indicated ffCO2 reductions of 5 ± 10 ppm in 2020 relative to pre‐pandemic observations in LA. However, ffCO2 emission trajectories varied substantially by region and sector as COVID‐related restrictions were relaxed. Further development of these techniques could aid efforts to monitor decarbonization in cities, especially in developing countries without established CO2 monitoring infrastructure.",
+    "readLink": "https://doi.org/10.1029/2022AV000732"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Towards Quantifying the Coastal Vulnerability due to Natural Hazards using the InVEST Coastal Vulnerability Model",
+    "authors": [
+      "Amna Al Ruheili,",
+      "Alaba Boluwade"
+    ],
+    "doi": "https://doi.org/10.3390/w15030380",
+    "journalVolume": "Vol. 15,\n                                no. 380\n                                \n                                  p.\n                                  380",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Coastal areas and coastal communities are facing threats due to the impacts of climate change. Therefore, assessing their vulnerabilities and the potential for natural habitats to contribute to protecting coastal areas and communities is essential for effective long-term planning, sustainability, and resilient coastal management. This study modeled and mapped coastal vulnerability using the InVEST 3.9.1 model developed by the Natural Capital Project Coastal Vulnerability model to explore the role of natural habitats in mitigating coastal hazards in Southern Al Sharqiya and Al Wusta Governorates of the Sultanate of Oman. The results showed that the highest hazard classification > 2.67 represented 18% of the coastal distribution, the intermediate hazard classification ranging between 2.31 and 2.66 represented 38% of the coastal distribution, and the lowest hazard classification ranging between 1.22 and 2.30) represented 44% of the coastal distribution. These results, however, did not account for the role of natural habitats in coastal protection. In terms of the role of natural habitats in mitigating coastal hazards, the presence of natural habitats reduced the extent of the highest exposed shoreline by 14% and 8% for the highest and intermediate areas, respectively. Under the natural habitat’s scenario, the habitats could provide 59% protection for the coastal communities under the highest exposure category and 41% under the intermediate category. Under a no-habitat scenario, about 75% of the coastal communities are exposed and vulnerable to coastal hazards under the highest hazard exposure category and 25% under the intermediate category. These results demonstrate that it is critical, especially for policymakers, to enhance the protection of coastal ecosystems to achieve coastal resilience. This study buttresses the importance of coastal ecosystem assessments in ensuring coastal resilience and climate change adaptation processes for any coastal countries.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/3/380"
+  },
+  {
+    "title": "Responses of wheat kernel weight to diverse allelic combinations under projected climate change conditions",
+    "authors": [
+      "Keyi Wang,",
+      "Liping Shi,",
+      "Bangyou Zheng,",
+      "Yong He"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2023.1138966",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "IntroductionIn wheat, kernel weight (KW) is a key determinant of grain yield (GY). However, it is often overlooked when improving wheat productivity under climate warming. Moreover, little is known about the complex effects of genetic and climatic factors on KW. Here, we explored the responses of wheat KW to diverse allelic combinations under projected climate warming conditions.MethodsTo focus on KW, we selected a subset of 81 out of 209 wheat varieties with similar GY, biomass, and kernel number (KN) and focused on their thousand-kernel weight (TKW). We genotyped them at eight kompetitive allele-specific polymerase chain reaction markers closely associated with TKW. Subsequently, we calibrated and evaluated the process-based model known as Agricultural Production Systems Simulator (APSIM-Wheat) based on a unique dataset including phenotyping, genotyping, climate, soil physicochemistry, and on-farm management information. We then used the calibrated APSIM-Wheat model to estimate TKW under eight allelic combinations (81 wheat varieties), seven sowing dates, and the shared socioeconomic pathways (SSPs) designated SSP2-4.5 and SSP5-8.5, driven by climate projections from five General Circulation Models (GCMs) BCC-CSM2-MR, CanESM5, EC-Earth3-Veg, MIROC-ES2L, and UKESM1-0-LL.ResultsThe APSIM-Wheat model reliably simulated wheat TKW with a root mean square error (RMSE) of < 3.076 g TK-1 and R2 of > 0.575 (P < 0.001). The analysis of variance based on the simulation output showed that allelic combination, climate scenario, and sowing date extremely significantly affected TKW (P < 0.001). The impact of the interaction allelic combination × climate scenario on TKW was also significant (P < 0.05). Meanwhile, the variety parameters and their relative importance in the APSIM-Wheat model accorded with the expression of the allelic combinations. Under the projected climate scenarios, the favorable allelic combinations (TaCKX-D1b + Hap-7A-1 + Hap-T + Hap-6A-G + Hap-6B-1 + H1g + A1b for SSP2-4.5 and SSP5-8.5) mitigated the negative effects of climate change on TKW.DiscussionThe present study demonstrated that optimizing favorable allelic combinations can help achieve high wheat TKW. The findings of this study clarify the responses of wheat KW to diverse allelic combinations under projected climate change conditions. Additionally, the present study provides theoretical and practical reference for marker-assisted selection of high TKW in wheat breeding.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1138966/full"
+  },
+  {
+    "title": "Predicting habitat suitability and range shifts under projected climate change for two octocorals in the north-east Atlantic",
+    "authors": [
+      "Tom L. Jenkins,",
+      "Jamie R. Stevens"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.13509",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  p.\n                                  e13509",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Species distribution models have become a valuable tool to predict the distribution of species across geographic space and time. In this study, maximum entropy models were constructed for two temperate shallow-water octocoral species, the pink sea fan (Eunicella verrucosa) and dead man’s fingers (Alcyonium digitatum), to investigate and compare habitat suitability. The study area covered the north-east Atlantic from the Bay of Biscay to the British Isles and southern Norway; this area includes both the northern range of E. verrucosa and the middle-northern range of A. digitatum. The optimal models for each species showed that, overall, slope, temperature at the seafloor and wave orbital velocity were important predictors of distribution in both species. Predictions of habitat suitability showed areas of present-day (1951–2000) suitable habitat where colonies have not yet been observed, particularly for E. verrucosa, where areas beyond its known northern range limit were identified. Moreover, analysis with future layers (2081–2100) of temperature and oxygen concentration predicted a sizable increase in habitat suitability for E. verrucosa beyond these current range limits under the Representative Concentration Pathway 8.5 scenario. This suggests that projected climate change may induce a potential range expansion northward for E. verrucosa, although successful colonisation would also be conditional on other factors such as dispersal and interspecific competition. For A. digitatum, this scenario of projected climate change may result in more suitable habitat in higher latitudes, but, as with E. verrucosa, there is a degree of uncertainty in the model predictions. Importantly, the results from this study highlight present-day areas of high habitat suitability which, if combined with knowledge on population density, could be used to identify priority areas to enhance protection and ensure the long-term survival of these octocoral species in the region.",
+    "readLink": "https://peerj.com/articles/13509.pdf"
+  },
+  {
+    "title": "Influencing Curriculum Development and Knowledge of Climate Change Issues in Universities: The Case of University Of Nigeria Nsukka",
+    "authors": [
+      "N Ozor,",
+      "M C Madukwe"
+    ],
+    "doi": "Vol. 16,\n                                no. 1",
+    "issn": "1119-944X (Print)",
+    "publisher": "2408-6851 (Online)",
+    "countryOfPublisher": "Agricultural Extension Society of Nigeria",
+    "lcc": [
+      "Nigeria",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://journal.aesonnigeria.org/index.php/jae",
+    "abstract": "The current institutional structures and academic programmes in most universities preclude effective education and capacity building on issues of climate change. Besides, the pedagogies and curricula are centrally defined by university governance structures which are very hierarchical and rigid, and in most cases, discourage the culture of shared thinking and collaboration required for addressing complex system-related challenges such as climate change. The study aimed at influencing curriculum development and knowledge of climate change issues at the University of Nigeria, Nsukka (UNN) and its environs. To realize this, a multi stakeholder dialogue was conducted to sensitize the stakeholders on the need to include issues of climate change in their respective Faculty curricula. Over 320 participants drawn from the academia, policymakers, private sectors and the civil society organizations participated in the process that culminated in a one-day workshop at UNN in 2009. An outcome mapping approach was used to identify the most important reasons for climate-proofing the courses in the relevant Faculties of the University through curriculum review. Results show that there is need to provide a clearer understanding of climate change issues; build capacity at individual and institutional levels for climate change adaptation; provide opportunity to attract donor funds for teaching, learning, research and community service; provide conducive environment for transdisciplinarity and shared thinking on climate change issues; and transform the future leaders of tomorrow (youths) by promoting the culture of innovation for climate change adaptation. Recommendations ranged from revising existing course contents to emphasize issues of climate change (short-term approach), introduction of entirely new course modules on climate change (medium-term approach) to introduction of new degree programmes (long term approach) in the relevant Faculties of the University. Finally, a communiquÃ© calling for urgent inclusion of climate change issues in the curriculum of the UNN was adopted by the University Administration.",
+    "readLink": "https://www.aesonnigeria.org/ajm/index.php/jae/article/view/158"
+  },
+  {
+    "title": "What Do Observational Datasets Say about Modeled Tropospheric Temperature Trends since 1979?",
+    "authors": [
+      "David Douglass,",
+      "Thomas Chase,",
+      "Roy W. Spencer,",
+      "Justin J. Hnilo,",
+      "John R. Christy,",
+      "Richard T. McNider,",
+      "Philip Klotzbach,",
+      "Roger Pielke,",
+      "Benjamin Herman"
+    ],
+    "doi": "https://doi.org/10.3390/rs2092148",
+    "journalVolume": "Vol. 2,\n                                no. 9\n                                \n                                  pp.\n                                  2148\n                                  – 2169",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Updated tropical lower tropospheric temperature datasets covering the period 1979–2009 are presented and assessed for accuracy based upon recent publications and several analyses conducted here. We conclude that the lower tropospheric temperature (TLT) trend over these 31 years is +0.09 ± 0.03 °C decade−1. Given that the surface temperature (Tsfc) trends from three different groups agree extremely closely among themselves (~ +0.12 °C decade−1) this indicates that the “scaling ratio” (SR, or ratio of atmospheric trend to surface trend: TLT/Tsfc) of the observations is ~0.8 ± 0.3. This is significantly different from the average SR calculated from the IPCC AR4 model simulations which is ~1.4. This result indicates the majority of AR4 simulations tend to portray significantly greater warming in the troposphere relative to the surface than is found in observations. The SR, as an internal, normalized metric of model behavior, largely avoids the confounding influence of short-term fluctuations such as El Niños which make direct comparison of trend magnitudes less confident, even over multi-decadal periods.",
+    "readLink": "http://www.mdpi.com/2072-4292/2/9/2148/"
+  },
+  {
+    "title": "Analysis of climate change and its potential influence on energy performance of building and indoor temperatures, part 1: Climate change scenarios",
+    "authors": [
+      "Szymon Firląg,",
+      "Artur Miszczuk,",
+      "Bartosz Witkowski"
+    ],
+    "doi": "https://doi.org/10.24425/ace.2021.138041",
+    "journalVolume": "Vol. vol. 67,\n                                no. No 3\n                                \n                                  pp.\n                                  29\n                                  – 42",
+    "issn": "1230-2945 (Print)",
+    "publisher": "2300-3103 (Online)",
+    "countryOfPublisher": "Polish Academy of  Sciences",
+    "lcc": [
+      "Poland",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "https://ace.il.pw.edu.pl/about-us/",
+    "abstract": "The subject of this paper is to analyse the climate change and its influence on the energy performance of building and indoor temperatures. The research was made on the example of the city of Kielce, Poland. It was was carried out basing on the Municipal Adaptive Plan for the city of Kielce and climate data from the Ministry of Investment and Development.The predicted, future parameters of the climate were estimated using the tool Weather Shift for Representative Concentration Pathways (RCP). The analysis took into consideration the RCP4.5 and RCP8.5 scenarios for years 2035 and 2065, representing different greenhouse gas concentration trajectories. Scenario RCP4.5represents possible, additional radiative forcing of 4.5 W/m2 in 2100, and RCP8.5 an additional 8.5 W/m2. The calculated parameters included average month values of temperature and relative humidity of outdoor air, wind velocity and solar radiation. The results confirmed the increase of outdoor temperature in the following year. The values of relative humidity do not change significantly for the winter months, while in the summer months decrease is visible. No major changes were spotted in the level of solar radiation or wind speed. Based on the calculated parameters dynamic building modelling was carried out using the TRNSYS software. The methodology and results of the calculations will be presented in the second part of the paper.",
+    "readLink": "https://journals.pan.pl/Content/120628/02_ACE-00081_A4.pdf"
+  },
+  {
+    "title": "Regeneration dynamics, population structure, and forest composition in some ridge forests of the Western Himalaya, India",
+    "authors": [
+      "Om Prakash Tiwari,",
+      "Yashwant Singh Rana,",
+      "Ram Krishan,",
+      "Chandra Mohan Sharma,",
+      "Bhupendra Singh Bhandari"
+    ],
+    "doi": "https://doi.org/10.1080/21580103.2018.1447517",
+    "journalVolume": "Vol. 14,\n                                no. 2\n                                \n                                  pp.\n                                  66\n                                  – 75",
+    "issn": "2158-0103 (Print)",
+    "publisher": "2158-0715 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tfst",
+    "abstract": "The present study aimed to analyze the regeneration dynamics, population structure, and forest composition in some ridge forests of the Western Himalaya to elucidate the impact of climate change. The highest species richness (trees, 17; saplings, 16; seedlings, 16) was recorded in mixed Rhododendron arboreum forest. The maximum tree density (737 ± 25.93 trees ha−1; mixed Quercus floribunda); sapling density (5342 ± 587.54 saplings ha−1; mixed Quercus semecarpifolia), and seedling density (71,429 ± 26,632.29 seedlings ha−1; mixed Cedrus deodara) were recorded in forests of higher altitudes. The mean basal cover values in these forests oscillated between 39.21 ± 1.53 m2 ha−1 (mixed Quercus leucotrichophora) to 87.65 ± 15.45 m2 ha−1 (mixed Abies pindrow). The highest Shannon index value (0.51 ± 0.05) and species evenness (0.36 ± 0.02) for trees were recorded in mixed Rhododendron arboreum forest. Some species like Betula utilis, Myrica esculenta, Ficus rumphii, Ilex dipyrena, Quercus floribunda, Litsea elongata, Symplocos paniculata, and Abies spectabilis were noticed as new recruiters (recent invaders) in new habitats, which may change the future forest composition. This study revealed that ridge forests of the Bhagirathi catchment area were in transition phase at middle altitudes. Mixed Quercus floribunda forest was observed to be the youngest regenerating forest; however, mixed Abies pindrow forest was the most mature old-growth forest.",
+    "readLink": "http://dx.doi.org/10.1080/21580103.2018.1447517"
+  },
+  {
+    "title": "Effects of drought stress on water content and biomass distribution in summer maize(Zea mays L.)",
+    "authors": [
+      "Siying Yan,",
+      "Baisha Weng,",
+      "Baisha Weng,",
+      "Lanshu Jing,",
+      "Lanshu Jing,",
+      "Wuxia Bi,",
+      "Wuxia Bi"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2023.1118131",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "The resource allocation of different component organs of crops under drought stress is a strategy for the coordinated growth of crops, which also reflects the adaptability of crops to drought condition. In this study, maize variety namely ‘Denghai 618’, under the ventilation shed, two treatment groups of light drought (LD) and moderate drought (MD), and the same rehydration after drought are set, as well as the normal water supply for control in shed (CS). The drought experiment was conducted in the jointing–tasseling stage in 2021. The effects of different drought stress on the water content and biomass allocation of each component organ were analyzed. The results showed that (1) during the drought period, the water content of each component organ of summer maize decreased in general, but the Water content distribution ratio (WCDR) of the root increased by 1.83%– 2.35%. The WCDR of stem increased by 0.52%– 1.40%. (2) Under different drought treatments, the root biomass (RB) increased 33.94% ~ 46.09%, and fruit biomass (FB) increased 1.46% ~ 2.49%, the leaf biomass (LB) decreased by 8.2% and 1.46% respectively under LD and MD. (3) The allometric growth model constructed under sufficient water is not suitable for drought stress; the allometric exponent α under drought stress is lower than that of the CS: CS (α=1.175) > MD (α = 1.136) > LD (α = 1.048), which also indicates that the impact of existing climate change on grain yield may be underestimated. This study is helpful to understand the adaptive strategies of the coordinated growth of maize component organs under drought stress and provide a reference for the prediction of grain yield under climate change.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1118131/full"
+  },
+  {
+    "title": "Projection of Future Meteorological Droughts in Lake Urmia Basin, Iran",
+    "authors": [
+      "Babak Ghazi,",
+      "Sanjana Dutt,",
+      "Ali Torabi Haghighi"
+    ],
+    "doi": "https://doi.org/10.3390/w15081558",
+    "journalVolume": "Vol. 15,\n                                no. 1558\n                                \n                                  p.\n                                  1558",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Future changes (2015–2100) in precipitation and meteorological droughts in Lake Urmia Basin were investigated using an average mean ensemble of eight general circulation models (GCMs) with high-resolution datasets in socioeconomic pathway scenarios (SSPs) from the Coupled Model Intercomparison Project (CMIP6). In order to project the drought, the standardized precipitation index (SPI) was calculated. Overall, the results revealed that precipitation in Lake Urmia Basin will decrease by 3.21% and 7.18% in the SSP1-2.6 and SSP5-8.5 scenarios, respectively. The results based on 6-month-timescale SPI indices projected more “Extremely dry” events in SSP5-8.5 scenarios. The frequency of “Extremely dry” months in SSP5-8.5 compared to SSP1-2.6 is expected to increase by 14, 7, 14, 10, 5, 14, and 7 months for the Mahabad, Maragheh, Saqez, Sarab, Tabriz, Takab, and Urmia stations, respectively. In contrast, the frequency of “Extremely wet” months will decline for all stations in Lake Urmia Basin. The results of this study provide useful insight for considering drought prevention measures to be implemented in advance for Lake Urmia Basin, which is currently experiencing various environmental issues.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/8/1558"
+  },
+  {
+    "title": "Assessment of Recent Changes in Dust over South Asia Using RegCM4 Regional Climate Model",
+    "authors": [
+      "Acharya Asutosh,",
+      "S.K Pandey,",
+      "V Vinoj,",
+      "Ramakrishna Ramisetty,",
+      "Nishant Mittal"
+    ],
+    "doi": "https://doi.org/10.3390/rs13214309",
+    "journalVolume": "Vol. 13,\n                                no. 4309\n                                \n                                  p.\n                                  4309",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Pre-monsoon dust aerosols over Indian regions are closely linked to the monsoon dynamics and Indian summer monsoon rainfall. Past observational studies have shown a decline in dust loading over the Indian landmass potentially caused by changing rainfall patterns over the desert regions. Such changes are expected to have a far-reaching impact on regional energy balance and monsoon rainfall. Using a regional climate-chemistry model, RegCM4.5, with an updated land module, we have simulated the long-term (2001–2015) changes in dust over the arid and semi-arid dust source regions of the North-Western part of the subcontinent. It is found that the area-averaged dust aerosol optical depth (AOD) over the arid and semi-arid desert regions has declined by 17% since the start of this millennium. The rainfall over these regions exhibits a positive trend of 0.1 mm day−1year−1 and a net increase of >50%. The wet deposition is found to be dominant and ~five-fold larger in magnitude over dry deposition and exhibits total changes of ~79 and 48% in the trends in atmospheric dust. As a response, a significant difference in the surface (11%), top of the atmosphere radiative forcing (7%), and widespread atmospheric cooling are observed in the short wave domain of radiation spectrum over the Northern part of the Indian landmass. Such quantification and long-term change studies are necessary for understanding regional climate change and the water cycle.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/21/4309"
+  }
+]

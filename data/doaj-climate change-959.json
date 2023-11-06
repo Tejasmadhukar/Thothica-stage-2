@@ -1,0 +1,215 @@
+[
+  {
+    "title": "Urban Flood-Risk Assessment: Integration of Decision-Making and Machine Learning",
+    "authors": [
+      "Fereshteh Taromideh,",
+      "Ramin Fazloula,",
+      "Bahram Choubin,",
+      "Alireza Emadi,",
+      "Ronny Berndtsson"
+    ],
+    "doi": "https://doi.org/10.3390/su14084483",
+    "journalVolume": "Vol. 14,\n                                no. 4483\n                                \n                                  p.\n                                  4483",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Urban flood-risk mapping is an important tool for the mitigation of flooding in view of continuing urbanization and climate change. However, many developing countries lack sufficiently detailed data to produce reliable risk maps with existing methods. Thus, improved methods are needed that can help managers and decision makers to combine existing data with more soft semi-subjective data, such as citizen observations of flood-prone and vulnerable areas in view of existing settlements. Thus, we present an innovative approach using the semi-subjective Analytic Hierarchy Process (AHP), which integrates both subjective and objective assessments, to help organize the problem framework. This approach involves measuring the consistency of decision makers’ judgments, generating pairwise comparisons for choosing a solution, and considering criteria and sub-criteria to evaluate possible options. An urban flood-risk map was created according to the vulnerabilities and hazards of different urban areas using classification and regression-tree models, and the map can serve both as a first stage in advancing flood-risk mitigation approaches and in allocating warning and forecasting systems. The findings show that machine-learning methods are efficient in urban flood zoning. Using the city Rasht in Iran, it is shown that distance to rivers, urban drainage density, and distance to vulnerable areas are the most significant parameters that influence flood hazards. Similarly, for urban flood vulnerability, population density, land use, dwelling quality, household income, distance to cultural heritage, and distance to medical centers and hospitals are the most important factors. The integrated technique for both objective and semi-subjective data as outlined in the present study shows credible results that can be obtained without complicated modeling and costly field surveys. The proposed method is especially helpful in areas with little data to describe and display flood hazards to managers and decision makers.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/8/4483"
+  },
+  {
+    "title": "Potential Techno-Economic Feasibility of Hybrid Energy Systems for Electrifying Various Consumers in Yemen",
+    "authors": [
+      "Saif Mubaarak,",
+      "Delong Zhang,",
+      "Jinxin Liu,",
+      "Yongcong Chen,",
+      "Longze Wang,",
+      "Sayed A. Zaki,",
+      "Rongfang Yuan,",
+      "Jing Wu,",
+      "Yan Zhang,",
+      "Meicheng Li"
+    ],
+    "doi": "https://doi.org/10.3390/su13010228",
+    "journalVolume": "Vol. 13,\n                                no. 228\n                                \n                                  p.\n                                  228",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Global warming and climate change are becoming a global concern. In this regard, international agreements and initiatives have been launched to accelerate the use of renewable energy and to mitigate greenhouse gas (GHG) emissions. Yemen is one of the countries signed on these agreements. However, Yemen is facing the problem that the structure of the power grid is fragile and the power shortage is serious. Accordingly, this paper aims to study the potential for renewable energy in Yemen and assess the technical and economic feasibility of hybrid energy systems. Firstly, this paper introduces the status and challenges of Yemen’s electricity sector, the status of renewable energy, and the status of GHG emission. Secondly, this study proposes the method of optimizing different configurations of off-grid hybrid (solar/wind/diesel engine) energy systems for electrifying various consumers in Taiz province, Yemen under three scenarios of energy strategies. The objective function is to seek the most optimal hybrid energy system that achieves the least cost and most advantageous technical performance, while instigating the best economic scenario of energy strategies. Finally, Homer pro software is used for simulation, optimization, and sensitivity analysis of the designed energy systems. The results found the best economically feasible scenario, the hybrid PV/wind/diesel energy system, among the other scenarios. A photovoltaic (PV)/wind energy system achieved the best technical performances of 100% CO2 reduction, with a 54.82% reduction in the net present cost (NPC) and cost of energy (COE); while the hybrid energy system (PV/wind/diesel engine) achieved the best economic cost of 61.95% reduction in NPC and COE, with a 97.44% reduction of CO2 emission.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/1/228"
+  },
+  {
+    "title": "A global perspective on the sub-seasonal clustering of precipitation extremes",
+    "authors": [
+      "Alexandre Tuel,",
+      "Olivia Martius"
+    ],
+    "doi": "Vol. 33\n                                \n                                \n                                  p.\n                                  100348",
+    "issn": "2212-0947 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/weather-and-climate-extremes/",
+    "abstract": "The occurrence of several precipitation extremes over sub-seasonal time windows can have major impacts on human societies, leading for instance to floods. Here, we apply a simple statistical framework based on Ripley’s K function, at a global scale and for each season separately, to identify regions where precipitation extremes tend to cluster in time over timescales of a few days to a few weeks. We analyze several observational and reanalysis datasets, as well as output from CMIP6 Global Climate Models (GCMs). Good agreement is found on the spatio-temporal clustering patterns across datasets. Sub-seasonal temporal clustering is largely concentrated over the tropical oceans, where it can be detected year-round. It is also significant over certain tropical lands, like Eastern Africa, and seasonally outside the tropics in several regions, most notably around the eastern subtropical oceans (Iberian Peninsula and Western North America during the DJF and MAM seasons) Southwest Asia (especially during JJA and SON) and Australia (in SON). We also find that CMIP6 models generally correctly reproduce clustering patterns, paving the way for an assessment of trends in sub-seasonal clustering under climate change. Clustering of present-day extremes increases in many areas under climate change. Changes diagnosed by comparing present day and future extreme percentiles are positive and negative and strongest in the tropical areas.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212094721000426"
+  },
+  {
+    "title": "China’s Environmental Policy in the Arctic Region",
+    "authors": [
+      "Veselova,",
+      "D.N."
+    ],
+    "doi": "https://doi.org/10.17506/18179568_2022_19_2_104",
+    "journalVolume": "no. Т. 19 2",
+    "issn": "1817-9568 (Print)",
+    "publisher": "Publishing House Discourse-P",
+    "countryOfPublisher": "Russian Federation",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Philosophy (General)"
+    ],
+    "journalUrl": "http://madipi.ru/",
+    "abstract": "The aim of this article is to analyze China's environmental policy in the Arctic region. The interests of the PRC are studied, they are divided into three groups: economic, geopolitical, and environmental. It is emphasized that economic interests disguised as environmental ones prevail among them. The primary source is the White Paper \"China's Arctic Policy\" - the first Chinese document on Arctic policy issued by the State Council Information Office in January 2018. The document provides a brief description of the region, establishes the goals and principles of China's Arctic policy, and lists the main areas of activity. The article pays special attention to the provisions of the White Paper which are devoted to environmental policy and environmental protection. In addition, the activity of the authorities empowered to conduct environmental policy in the Arctic is characterized. The environmental activities in the Arctic territories are analyzed. It is noted that they mainly include expeditions to study changing climatic conditions and environmental monitoring, as well as the establishment of scientific centers specializing in Arctic research. The author comes to the conclusion that China's environmental policy in theArctic is currently reduced to a research component. The White Paper, which defines the goals, objectives, principles and directions of the PRC's activities, is mainly declarative, but its adoption indicates activation of the Arctic vector in Chinese foreign policy and long-term plans for this region.",
+    "readLink": "\n\t\t\thttp://madipi.ru/images/uploads/104-117_Веселова.pdf\t\t"
+  },
+  {
+    "title": "INTEGRATION OF SATELLITE, GLOBAL REANALYSIS DATA AND MACROSCALE HYDROLOGICAL MODEL FOR DROUGHT ASSESSMENT IN SUB-TROPICAL REGION OF INDIA",
+    "authors": [
+      "V. Pandey,",
+      "P. K. Srivastava"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLII-3-1347-2018",
+    "journalVolume": "Vol. XLII-3\n                                \n                                \n                                  pp.\n                                  1347\n                                  – 1351",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Change in soil moisture regime is highly relevant for agricultural drought, which can be best analyzed in terms of Soil Moisture Deficit Index (SMDI). A macroscale hydrological model Variable Infiltration Capacity (VIC) was used to simulate the hydro-climatological fluxes including evapotranspiration, runoff, and soil moisture storage to reconstruct the severity and duration of agricultural drought over semi-arid region of India. The simulations in VIC were performed at 0.25° spatial resolution by using a set of meteorological forcing data, soil parameters and Land Use Land Cover (LULC) and vegetation parameters. For calibration and validation, soil parameters obtained from National Bureau of Soil Survey and Land Use Planning (NBSSLUP) and ESA's Climate Change Initiative soil moisture (CCI-SM) data respectively. The analysis of results demonstrates that most of the study regions (> 80 %) especially for central northern part are affected by drought condition. The year 2001, 2002, 2007, 2008 and 2009 was highly affected by agricultural drought. Due to high average and maximum temperature, we observed higher soil evaporation that reduces the surface soil moisture significantly as well as the high topographic variations; coarse soil texture and moderate to high wind speed enhanced the drying upper soil moisture layer that incorporate higher negative SMDI over the study area. These findings can also facilitate the archetype in terms of daily time step data, lengths of the simulation period, various hydro-climatological outputs and use of reasonable hydrological model.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3/1347/2018/isprs-archives-XLII-3-1347-2018.pdf"
+  },
+  {
+    "title": "Temperature inversions in China derived from sounding data from 1976 to 2015",
+    "authors": [
+      "Tingting Xu,",
+      "Bing Liu,",
+      "Minsi Zhang,",
+      "Yu Song,",
+      "Ling Kang,",
+      "Tiantian Wang,",
+      "Mingxu Liu,",
+      "Xuhui Cai,",
+      "Hongsheng Zhang,",
+      "Tong Zhu"
+    ],
+    "doi": "https://doi.org/10.1080/16000889.2021.1898906",
+    "journalVolume": "Vol. 73,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 18",
+    "issn": "1600-0889 (Online)",
+    "publisher": "Stockholm University Press",
+    "countryOfPublisher": "Sweden",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://b.tellusjournals.se",
+    "abstract": "Temperature inversions inhibit the transfer of momentum, heat and moisture in the atmosphere and have led to severe air pollution in China. This study investigated the spatiotemporal variation in temperature inversions in China using sounding data for the past four decades. Surface-based inversion, elevated inversion, and both in one sounding dataset were analysed. Statistical analyses of inversion parameters included frequency, strength and depth. The annual frequency of total inversions showed no significant increasing or decreasing trend with mean values of 0.78, 0.33, 0.24, 0.28, 0.5 and 0.36 at six stations representing different climate zones—Beijing, Harbin, Haikou, Shaowu, Ruoqiang, and Xining, respectively. The annual inversion strength and depth showed downward trends. Monthly variation in inversion frequency and strength differed among stations. The weakest surface-based inversion was found in summer at Beijing and Harbin with mean values of 1 and 1.3 °C, respectively; the strongest surface-based inversion was found in winter with respective mean values of 3.5 and 3.6 °C. Higher surface temperature in summer and subsidence aloft in winter may explain the monthly variation in inversion depth with a minimum in summer, with mean values of 165, 334, 135, 267, 363 and 420 m, and a maximum in winter, with mean values of 250, 646, 140, 591, 806 and 664 m, at the six respective stations. Total inversion was least frequent in southwestern China (mean 0.15), surface-based inversion was most frequent in the north (mean 0.78), and elevated inversion was most frequent in the southeast (mean 0.42). The strongest, deepest surface-based inversion dominated in the north (mean 3.4 °C and 398 m). Elevated inversion strength did not significantly differ among regions (mean 2.5 °C). The deepest elevated inversion dominated in the southeast (mean 654 m). Future efforts should focus on the interactions between aerosols and temperature inversions and accurate model simulations of temperature inversions.",
+    "readLink": "http://dx.doi.org/10.1080/16000889.2021.1898906"
+  },
+  {
+    "title": "Corporate Sustainability Strategies: A Case Study in Brazil Focused on High Consumers of Electricity",
+    "authors": [
+      "Fabricio Casarejos,",
+      "Mauricio Nogueira Frota,",
+      "José Eduardo Rocha,",
+      "Walquíria Rosa da Silva,",
+      "José Tenório Barreto"
+    ],
+    "doi": "https://doi.org/10.3390/su8080791",
+    "journalVolume": "Vol. 8,\n                                no. 8\n                                \n                                  p.\n                                  791",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The decline of socio-ecological resilience has emerged as an unprecedented truth with high risks to local and global economies, thereby increasing the vulnerability of businesses and markets while potentially threatening the wellbeing of civil society as a whole. From a business perspective, corporate strategies towards sustainability are crucial to strengthen the social and economic foundations that foster sustainable development. In order to assist enterprises pursuing leading market positions, this work proposes a set of strategic actions towards sustainability and an evaluation scheme to assess the effectiveness of their implementation process. This proposed global strategy encompasses five key sustainability indices—commitment, investment, difficulty, proactivity and vulnerability—focusing the investigation on a sample of enterprises representing the highest consumers of electricity in the state of Rio de Janeiro, Brazil. Addressing the energy consumption, this study also discusses the concerning level of GHG emissions that are associated with the generation of electricity. Although 85% of the enterprises participating in this survey recognized the relevance of the actions proposed, the current degree of proactivity and vulnerability associated with these enterprises indicate that very few of them have effectively implemented and invested in corporate sustainability programs, certainly a symptom of their institutional vulnerability.",
+    "readLink": "http://www.mdpi.com/2071-1050/8/8/791"
+  },
+  {
+    "title": "Evaluation of Bioclimatic Discomfort Trend in a Central Area of the Mediterranean Sea",
+    "authors": [
+      "Pietro Monforte,",
+      "Maria Alessandra Ragusa"
+    ],
+    "doi": "https://doi.org/10.3390/cli10100146",
+    "journalVolume": "Vol. 10,\n                                no. 146\n                                \n                                  p.\n                                  146",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Effects of climate change are perceived in ever larger areas of the planet. Heat waves occur with increasing frequency, constituting a risk to the population, especially for the most sensitive subjects. Preventive information to the population on the characteristics of the phenomenon and on the behavior to be supported is the means to reduce the health risks. To monitor the intensity of heat and the physiological discomfort perceived by humans, there are indices based on the perception of meteorological parameters such as temperature and relative humidity. In this work, by applying the Thom Discomfort Index (TDI), the first bioclimatic characterization of the provinces that make up Sicily, a Mediterranean region defined as a hotspot for climate change, was performed by the authors. The nonparametric Mann–Kendall test was applied to the daily values of the TDI in all provinces in order to verify the presence of significant trends. The test results highlighted the existence of increasing trends, especially in the months of August and September, when the TDI value undergoes a significant increase due not only to high temperatures, as one might expect, but above all to a high humidity rate. When these two meteorological parameters reach certain values, the physiological discomfort from humid heat represents a risk to the population.",
+    "readLink": "https://www.mdpi.com/2225-1154/10/10/146"
+  },
+  {
+    "title": "Overcoming Food Security Challenges within an Energy/Water/Food Nexus (EWFN) Approach",
+    "authors": [
+      "Valeria De Laurentiis,",
+      "Dexter V.L. Hunt,",
+      "Christopher D.F. Rogers"
+    ],
+    "doi": "https://doi.org/10.3390/su8010095",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  p.\n                                  95",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The challenge of feeding nine billion people by 2050, in a context of constrained resources and growing environmental pressures posed by current food production methods on one side, and changing lifestyles and consequent shifts in dietary patterns on the other, exacerbated by the effects of climate change, has been defined as one of the biggest challenges of the 21st century. The first step to achieve food security is to find a balance between the growing demand for food, and the limited production capacity. In order to do this three main pathways have been identified: employing sustainable production methods in agriculture, changing diets, and reducing waste in all stages of the food chain. The application of an energy, water and food nexus (EWFN) approach, which takes into account the interactions and connections between these three resources, and the synergies and trade-offs that arise from the way they are managed, is a prerequisite for the correct application of these pathways. This work discusses how Life Cycle Assessment (LCA) might be applicable for creating the evidence-base to foster such desired shifts in food production and consumption patterns.",
+    "readLink": "http://www.mdpi.com/2071-1050/8/1/95"
+  },
+  {
+    "title": "Decadal variability and trends of the Benguela upwelling system as simulated in a high-resolution ocean simulation",
+    "authors": [
+      "N. Tim,",
+      "E. Zorita,",
+      "B. Hünicke"
+    ],
+    "doi": "https://doi.org/10.5194/os-11-483-2015",
+    "journalVolume": "Vol. 11,\n                                no. 3\n                                \n                                  pp.\n                                  483\n                                  – 502",
+    "issn": "1812-0784 (Print)",
+    "publisher": "1812-0792 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.ocean-science.net/index.html",
+    "abstract": "Detecting the atmospheric drivers of the Benguela upwelling systems is essential to understand its present variability and its past and future changes. We present a statistical analysis of a high-resolution (0.1°) ocean-only simulation driven by observed atmospheric fields over the last 60 years with the aim of identifying the large-scale atmospheric drivers of upwelling variability and trends. The simulation is found to reproduce well the seasonal cycle of upwelling intensity, with a maximum in the June–August season in North Benguela and in the December–February season in South Benguela. The statistical analysis of the interannual variability of upwelling focuses on its relationship to atmospheric variables (sea level pressure, 10 m wind, wind stress). The relationship between upwelling and the atmospheric variables differ somewhat in the two regions, but generally the correlation patterns reflect the common atmospheric pattern favouring upwelling: southerly wind/wind stress, strong subtropical anticyclone, and an ocean–land sea level pressure gradient. In addition, the statistical link between upwelling and large-scale climate variability modes was analysed. The El Niño–Southern Oscillation and the Antarctic Oscillation exert some influence on austral summer upwelling velocities in South Benguela. The decadal evolution and the long-term trends of simulated upwelling and of ocean-minus-land air pressure gradient do not agree with Bakun's hypothesis that anthropogenic climate change should generally intensify coastal upwelling.",
+    "readLink": "http://www.ocean-sci.net/11/483/2015/os-11-483-2015.pdf"
+  }
+]

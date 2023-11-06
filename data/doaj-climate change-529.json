@@ -1,0 +1,207 @@
+[
+  {
+    "title": "Environmental and Socioeconomic Impacts of Shrimp Farming in the Philippines: A Critical Analysis Using PRISMA",
+    "authors": [
+      "Edison D. Macusi,",
+      "Darshel Ester P. Estor,",
+      "Elaine Q. Borazon,",
+      "Misael B. Clapano,",
+      "Mudjekeewis D. Santos"
+    ],
+    "doi": "https://doi.org/10.3390/su14052977",
+    "journalVolume": "Vol. 14,\n                                no. 2977\n                                \n                                  p.\n                                  2977",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Shrimp aquaculture is under pressure to increase its production to meet the growing demand for food from a growing population. In the Philippines, aquaculture has experienced the shift from milkfish to prawn, with its attractive marketable price. This intensification has led to negative and positive impacts, which have raised a range of environmental and socioeconomic problems. This paper reviews the environmental and socioeconomic challenges that the shrimp aquaculture industry faces using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) method. We examine the gaps and the changes that are required to revitalize the industry. We examine and assess the impacts of shrimp culture on the environment, e.g., shrimp farm management, marine pollution, disease outbreaks, and the social, economic, and climate change impacts. The presence of viral diseases, such as White Spot Syndrome Virus (WSSV), Monodon Baculovirus (MBV), Infectious Hypodermal and Hematopoietic Necrosis Virus (IHHNV), Hepatopancreatic Parvovirus (HPV), and Yellow Head Virus (YHV), have caused approximate losses in the industry of 40,080 mt in 1997, and 51,000 mt in 2014. Recommended strategies and policy changes are considered for the improvement of shrimp aquaculture, including disease management, the adoption of good aquaculture practices, proper environmental monitoring, sustainable practices at the farm level, and priorities for cooperation among the concerned government agencies and local governments, as well as the involvement of state universities and colleges, for better management practices.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/5/2977"
+  },
+  {
+    "title": "Predicting landslide susceptibility based on decision tree machine learning models under climate and land use changes",
+    "authors": [
+      "Quoc Bao Pham,",
+      "Subodh Chandra Pal,",
+      "Rabin Chakrabortty,",
+      "Asish Saha,",
+      "Saeid Janizadeh,",
+      "Kourosh Ahmadi,",
+      "Khaled Mohamed Khedher,",
+      "Duong Tran Anh,",
+      "John P. Tiefenbacher,",
+      "Abderrazak Bannari"
+    ],
+    "doi": "https://doi.org/10.1080/10106049.2021.1986579",
+    "journalVolume": "Vol. 37,\n                                no. 25\n                                \n                                  pp.\n                                  7881\n                                  – 7907",
+    "issn": "1010-6049 (Print)",
+    "publisher": "1752-0762 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Physical geography"
+    ],
+    "journalUrl": "https://www.tandfonline.com/tgei",
+    "abstract": "Landslides are most catastrophic and frequently occurred across the world. In mountainous areas of the globe, recurrent occurrences of landslide have caused huge amount of economic losses and a large number of casualties. In this research, we attempted to estimate the potential impact of climate and LULC on future landslide susceptibility in of Markazi Province of Iran. We considered the boosted tree (BT), random forest (RF) and extremely randomized tree (ERT) models for landslide susceptibility assessment in Markazi Province. The results of evaluation criteria showed that ERT model is most optimal than other models used in this study with AUC values of 0.99 and 0.93 for the training and validation datasets, respectively. According to the ERT model, the spatial coverage of the very high and high land slide susceptible zones for the current period, 2050s considering RCP 2.6 and 2050s considering RCP 8.5 are 428.5 km2, 439.6 km2 and 465.2 km2, respectively. From this analysis it is clear that the impact of climate and LULC changes on future landslide susceptibility is prominent. The results of the present study help managers to reduce landslide damages, not only for current but also for future conditions, based on climate and LULC changes.",
+    "readLink": "http://dx.doi.org/10.1080/10106049.2021.1986579"
+  },
+  {
+    "title": "Contributions of different anthropogenic volatile organic compound sources to ozone formation at a receptor site in the Pearl River Delta region and its policy implications",
+    "authors": [
+      "Z. He,",
+      "Z. He,",
+      "X. Wang,",
+      "Z. Ling,",
+      "Z. Ling,",
+      "J. Zhao,",
+      "J. Zhao,",
+      "H. Guo,",
+      "M. Shao,",
+      "Z. Wang"
+    ],
+    "doi": "https://doi.org/10.5194/acp-19-8801-2019",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  8801\n                                  – 8816",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Volatile organic compounds (VOCs) are key precursors of photochemical smog. Quantitatively evaluating the contributions of VOC sources to ozone (O3) formation could provide valuable information for emissions control and photochemical pollution abatement. This study analyzed continuous measurements of VOCs during the photochemical season in 2014 at a receptor site (Heshan site, HS) in the Pearl River Delta (PRD) region, where photochemical pollution has been a long-standing issue. The averaged mixing ratio of measured VOCs was 34±3 ppbv, with the largest contribution from alkanes (17±2 ppbv, 49 %), followed by aromatics, alkenes and acetylene. The positive matrix factorization (PMF) model was applied to resolve the anthropogenic sources of VOCs, coupled with a photochemical-age-based parameterization that better considers the photochemical processing effects. Four anthropogenic emission sources were identified and quantified, with gasoline vehicular emission as the most significant contributor to the observed VOCs, followed by diesel vehicular emissions, biomass burning and solvent usage. The O3 photochemical formation regime at the HS was identified as VOC-limited by a photochemical box model with the master chemical mechanism (PBM-MCM). The PBM-MCM model results also suggested that vehicular emission was the most important source to the O3 formation, followed by biomass burning and solvent usage. Sensitivity analysis indicated that combined VOC and NOx emission controls would effectively reduce incremental O3 formation when the ratios of VOC-to-NOx emission reductions were > 3.8 for diesel vehicular emission, > 4.6 for solvent usage, > 4.6 for biomass burning and 3.3 for gasoline vehicular emission. Based on the above results, a brief review of the policies regarding the control of vehicular emissions and biomass burning in the PRD region from a regional perspective were also provided in this study. It reveals that different policies have been, and continue to be, implemented and formulated and could help to alleviate the photochemical pollution in the PRD region. Nevertheless, evaluation of the cost-benefit of each policy is still needed to improve air quality.",
+    "readLink": "https://www.atmos-chem-phys.net/19/8801/2019/acp-19-8801-2019.pdf"
+  },
+  {
+    "title": "The Canadian Northern Corridor Roundtable Program: Results and Lessons Learned",
+    "authors": [
+      "Katharina Koch,",
+      "Emily Galley,",
+      "Evgeniia (Jen) Sidorova,",
+      "G. Kent Fellows,",
+      "Robert  Mansell"
+    ],
+    "doi": "https://doi.org/10.11575/sppp.v16i1.77066",
+    "journalVolume": "Vol. 16,\n                                no. 1",
+    "issn": "2560-8312 (Print)",
+    "publisher": "2560-8320 (Online)",
+    "countryOfPublisher": "University of Calgary",
+    "lcc": [
+      "Canada",
+      "Political science: Political institutions and public administration (General)"
+    ],
+    "journalUrl": "https://journalhosting.ucalgary.ca/index.php/sppp/index",
+    "abstract": "Key Messsages: • Canada needs a long-term strategic and integrated infrastructure vision for mid- and northern Canada that focuses on long-term policy priorities of communities. • Infrastructure policy development for mid- and northern Canada must focus on collaborative approaches that foster cooperation and coordination rather than competition between community rights- and stakeholders. • Streamlining of regulatory frameworks is required to improve efficiency, integration and coordination in the planning and approval of hard and soft infrastructure development. • Decision-makers are encouraged to adopt a holistic infrastructure approach which includes not only physical infrastructure assets but also digital and soft infrastructure supporting social goals and outcomes, such as education and healthcare. • A focus on local community capacity-building should be incorporated into any type of northern infrastructure development strategy to help support communities to address their own challenges and to foster cooperation between both public and private rights- and stakeholders. • While federal support is important, any national infrastructure vision for mid- and northern Canada must incorporate the priorities of local Indigenous and municipal rights- and stakeholders. This approach avoids a top-down infrastructure approach and recognizes the role these communities have in in addressing the challenges related to climate change and supply chain constraints that we are facing today. • A majority of communities in mid- and northern Canada consist of Indigenous populations, including First Nations, Métis and Inuit. A connective infrastructure approach can be a tool of reconciliation but only if it supports Indigenous self-governance, participation, inclusion and facilitates Indigenous-owned initiatives. • While infrastructure needs vary across mid- and northern Canada, the digital divide across Canada is a common challenge. To sustain prosperity and mitigating challenges, communities need reliable and affordable high-speed internet access. • Recent disruptions in global and Canadian supply chains underlines the need for strategic and targeted infrastructure optionality, ensuring reliable transportation and access to goods and services. • Infrastructure development, focused on transportation and access to services such as healthcare, is essential to safeguard the high living standards we are enjoying today for future generations. For all Canadians to benefit, infrastructure development must adhere to the principles of equity, diversity, inclusion and accessibility.",
+    "readLink": "https://journalhosting.ucalgary.ca/index.php/sppp/article/view/77066"
+  },
+  {
+    "title": "Assessment of the Impacts of Spatial Water Resource Variability on Energy Planning in the Ganges River Basin under Climate Change Scenarios",
+    "authors": [
+      "Bijon Kumer Mitra,",
+      "Devesh Sharma,",
+      "Xin Zhou,",
+      "Rajarshi Dasgupta"
+    ],
+    "doi": "https://doi.org/10.3390/su13137273",
+    "journalVolume": "Vol. 13,\n                                no. 7273\n                                \n                                  p.\n                                  7273",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Availability of water in the Ganges River basin has been recognized as a critical regional issue with a significant impact on drinking water supply, irrigation, as well as on industrial development, and ecosystem services in vast areas of South Asia. In addition, water availability is also strongly linked to energy security in the region. Hence, quantification of spatial availability of water resources is necessary to bolster reliable evaluation of the sustainability of future thermal power plants in the Ganges River basin. This study focuses on the risks facing existing and planned power plants regarding water availability, applying climate change scenarios at the sub-basin and district level up to 2050. For this purpose, this study develops an integrated assessment approach to quantify the water-energy nexus in four selected sub-basins of the Ganges, namely, Chambal, Damodar, Gandak, and Yamuna. The results of simulations using Soil and Water Assessment Tools (SWAT) showed that future water availability will increase significantly in the Chambal, Damodar, and Gandak sub-basins during the wet season, and will negligibly increase in the dry season, except for the Yamuna sub-basin, which is likely to experience a decrease in available water in both wet and dry seasons under the Representative Concentration Pathway (RCP) 8.5 scenario. Changes in the water supply-demand ratio, due to climate change, indicated that water-related risks for future power plants would reduce in the Chambal and Damodar sub-basins, as there would be sufficient water in the future. For 19 out of 23 districts in the Chambal sub-basin, climate change will have a moderate-positive to high-positive impact on reducing the water risk for power plants by 2050. In contrast, existing and future power plants in the Yamuna and Gandak sub-basins will face increasing water risks. The proposed new thermal power installations, particularly in the Gandak sub-basin, are likely to face serious water shortages, which will adversely affect the stability of their operations. These results will stimulate and guide future research work to optimize the water-energy nexus, and will inform development and planning organizations, energy planning organizations, as well as investors, concerning the spatial distribution of water risks for future power plants so that more accurate decisions can be made on the location of future power plants.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/13/7273"
+  },
+  {
+    "title": "Development of high-resolution future ocean regional projection datasets for coastal applications in Japan",
+    "authors": [
+      "Shiro Nishikawa,",
+      "Tsuyoshi Wakamatsu,",
+      "Hiroshi Ishizaki,",
+      "Kei Sakamoto,",
+      "Yusuke Tanaka,",
+      "Hiroyuki Tsujino,",
+      "Goro Yamanaka,",
+      "Masafumi Kamachi,",
+      "Yoichi Ishikawa"
+    ],
+    "doi": "https://doi.org/10.1186/s40645-020-00399-z",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 22",
+    "issn": "2197-4284 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.progearthplanetsci.com/",
+    "abstract": "Abstract In this study, we developed two high-resolution future ocean regional projection datasets for coastal applications in Japan, in which we made use of dynamical downscaling via regional ocean models with atmospheric forcing from two climate models (i.e., MIROC5 and MRI-CGCM3) participating in Coupled Model Intercomparison Project Phase 5 (CMIP5) under historical, representative concentration pathway (RCP) 2.6, and RCP8.5 scenarios. The first dataset was an eddy-resolving 10-km resolution product covering the North Pacific Ocean area and ranging continuously from 1981 to 2100, in which the Kuroshio current and mesoscale structures were reasonably resolved. The second dataset was a 2-km resolution product covering the regional domain surrounding Japan and comprising 10–15-year time slices, in which the coastal geometry and current structure were resolved even more realistically. An important feature of these datasets was the availability of reference datasets based on atmospheric and oceanic reanalysis data for cross-validation during the historical run period. Using these reference datasets, biases of regional surface thermal properties and the Kuroshio states during the historical run period were evaluated, which constitute important information for users of the datasets. In these downscaled datasets, the future surface thermal responses were generally consistent with those of their original data. Utilizing the high-resolution property of the downscaled data, possible future impact analyses regarding coastal phenomena such as strait throughflows, coastal sea level variability, and the Kuroshio intrusion phenomenon into bays (“Kyucho” phenomenon) were demonstrated and the important role of the Kuroshio state representation was indicated, which had proved difficult to analyze using the low-resolution projection data. Given these properties, the present datasets would be useful in climate change adaptation studies regarding the Japanese coastal region.",
+    "readLink": "https://doi.org/10.1186/s40645-020-00399-z"
+  },
+  {
+    "title": "Instability of Embankment Slopes Due to Overflow and Drawdown",
+    "authors": [
+      "Jaehong Kim,",
+      "Yongmin Kim,",
+      "Alfrendo Satyanaga"
+    ],
+    "doi": "https://doi.org/10.3390/w15193402",
+    "journalVolume": "Vol. 15,\n                                no. 3402\n                                \n                                  p.\n                                  3402",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Establishing a geotechnical rationale for an embankment overflow is challenging. The occurrence of embankment overflow is deemed unlikely since the initial highest water level of the embankment is assumed to be fixed as a designed flood water level or a seasonal flood-limited water level when calculating the rainfall amount in the hydrological stability analysis. However, the possibility of overtopping can be assessed by employing copula functions. This approach takes into account the return frequency of overflow and the fluctuation of probable water levels due to climate change rather than relying on the fixed highest water levels of an embankment. This study examined the effect of tensile cracks leading to the shallow failure of embankment slopes during drawdown and placed an emphasis on the vulnerability of embankment slopes due to extreme rainfall events. Throughout the comprehensive numerical simulations, it was found that the critical period for embankment slope collapse was immediately after drawdown for the upstream slope and during the initial stages of overflow for the downstream slope.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/19/3402"
+  },
+  null,
+  {
+    "title": "Evidence of differential phenotypic plasticity in a desert mustard",
+    "authors": [
+      "Brian Alfaro,",
+      "Diane L. Marshall"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.10479",
+    "journalVolume": "Vol. 13,\n                                no. 9\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Understanding the effect of the environment on trait variation is critical for ecologically and economically important plants. Here, we asked whether differences in soil moisture are a source of variation in Sahara mustard (Brassica tournefortii). We subjected common garden populations of plants derived from native, invasive, and landrace sources (ranges) to varying water addition treatments. Using principal component analysis, we generated composite variables of life history traits for ANCOVA tests and plotted norms of reaction. Planting time was included as a covariate because we observed differences in seedling emergence despite efforts to standardize germination. We also examined the population coefficient of variation of individual traits (plasticity) and the association of trait CVs with fitness. The amount of plasticity varied but was inconsistent among range sources for all composite traits. Planting time did not affect treatments, but plants from different ranges responded differently to variable planting times. With a surplus of water, plants derived from native and invasive populations plateaued in vegetative trait values but showed a continuous linear increase in reproductive trait values. Possibly as a result of domestication, moderate and high water treatments in landrace plants caused plateaus in composite trait values for flowering phenology, seed count, plant size, and branching. The ecological breadth shown by our plants is likely due to drought tolerance that evolved in Brassica tournefortii source populations.",
+    "readLink": "https://doi.org/10.1002/ece3.10479"
+  },
+  {
+    "title": "Evolution of the concept of climate change and its impact in the public health of Peru",
+    "authors": [
+      "Carlos A. Sánchez Zavaleta"
+    ],
+    "doi": "https://doi.org/10.17843/rpmesp.2016.331.2014",
+    "journalVolume": "Vol. 33,\n                                no. 1\n                                \n                                  pp.\n                                  128\n                                  – 138",
+    "issn": "1726-4634 (Print)",
+    "publisher": "1726-4642 (Online)",
+    "countryOfPublisher": "Instituto Nacional de Salud",
+    "lcc": [
+      "Peru",
+      "Medicine: Medicine (General)"
+    ],
+    "journalUrl": "https://rpmesp.ins.gob.pe/index.php/rpmesp",
+    "abstract": "The term “climate change” is not a new concept but its impact on public health is under constant review. We know climate has already changed and will continue to change for centuries with the rise in average global temperature, and the associated rise in sea level. This fact makes mitigation efforts relevant only in the very long term and for generations of humans whose parents have not yet been born. When we talk about public health in the context of climate change, we are talking about adaptation. In the present, the countries that are most affected by climate change are precisely countries like Peru, without a significant carbon footprint at the global level but that are highly sensitive to the effects of climate. Without reliable climate projections, the health impact of climate change can be uncertain and complicated. Yet, at the local level, every district can identify its vulnerabilities and define priorities to protect the health of its population. There are, and can also be developed, environmental health indicators that can monitor how well we are adapting and how prepared we are for changes in the climate. Adaptation to climate change implies improving living conditions, enhancing epidemiological surveillance systems and extending access to healthcare. The fight against the effects of climate change in public health is the fight against poverty and inequality, and there is nothing new about that in Peru.",
+    "readLink": "https://rpmesp.ins.gob.pe/index.php/rpmesp/article/view/2014"
+  }
+]

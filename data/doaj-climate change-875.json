@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Predictive Study on Extreme Precipitation Trends in Henan and Their Impact on Population Exposure",
+    "authors": [
+      "Zongming Wang,",
+      "Yuyan Wu,",
+      "Shiping Xi,",
+      "Xuerong Sun"
+    ],
+    "doi": "https://doi.org/10.3390/atmos14101484",
+    "journalVolume": "Vol. 14,\n                                no. 1484\n                                \n                                  p.\n                                  1484",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "This study employs precipitation data sets from historical trials on 20 CMIP6 global climate models and four shared socioeconomic pathway scenario trials (SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5) to predict trends in extreme precipitation changes in Henan Province quantitatively, while ascertaining the risk of population exposure to extreme precipitation in this area. The capacity of the CMIP6 models to simulate extreme precipitation indices from 1985 to 2014 is assessed using CN05.1 daily precipitation observational data. The correlation coefficients of the multi-model ensemble median’s simulation of the extreme precipitation indices are approximately 0.8, with a standard deviation ratio closer to 1 compared with the single models, demonstrating superior modeling ability. Analyses using the multi-model ensemble median demonstrate an overall increase in the total amount, frequency, and intensity of extreme precipitation in Henan throughout this century, particularly in its southern regions; in the mid-century high-emission scenario (SSP5-8.5), the maximum increase in annual total precipitation exceeds 150 mm, and it can be over 250 mm in the late-century period. For the entire province, the maximum five-day precipitation increase relative to the historical period is nearly 25 mm in the late-century SSP5-8.5 scenario. The spatiotemporal concentration of precipitation will significantly increase, heightening the risk of flood disasters. Comparative analysis reveals that, under the same population prediction, the total population exposure will be higher in high radiative forcing scenarios than in low radiative forcing scenarios, especially in Kaifeng City, where the total population exposure in SSP1 and SSP5-8.5 exceeds that in SSP1-2.6 by 2 million person-days. However, in the same radiative forcing scenario, the total population exposure in the development pathway dominated by traditional fossil fuels (SSP5) will not be significantly higher than that in the sustainable development pathway (SSP1), indicating that population activity in this century will not be the main contributor to changes in total exposure. Overall, for Henan, in the same population forecast scenario, population exposure to extreme precipitation will gradually rise with global warming.",
+    "readLink": "https://www.mdpi.com/2073-4433/14/10/1484"
+  },
+  {
+    "title": "Evaluation of CYGNSS Observations for Snow Properties, a Case Study in Tibetan Plateau, China",
+    "authors": [
+      "Wenxiao Ma,",
+      "Lingyong Huang,",
+      "Xuerui Wu,",
+      "Shuanggen Jin,",
+      "Weihua Bai,",
+      "Xuanran Li"
+    ],
+    "doi": "https://doi.org/10.3390/rs14153772",
+    "journalVolume": "Vol. 14,\n                                no. 3772\n                                \n                                  p.\n                                  3772",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Snow plays an important role in the water cycle and global climate change, and the accurate monitoring of changes in snow depth is an important task. However, monitoring snow properties is still challenging and unclear, particularly in the Tibetan Plateau, which has rough land and uneven terrain. The traditional monitoring methods have some limitations in monitoring snow depth changes, and the Global Navigation Satellite System-Reflectometry (GNSS-R) provides a new opportunity for snow monitoring. This paper employed data from the Cyclone Global Navigation Satellite System (CYGNSS) to discover the effect of snow properties. Firstly, the observations of CYGNSS were used to find the sensitive to snow properties, and the relationships between signal to noise ratio (SNR), leading edge slope (LES), surface reflectivity (SR), and snow depth were studied and analyzed, respectively. It is found that the correlation between the first two parameters and snow depth is poor, while SR can indicate the changes in snow depth, and is proposed as an indicator of SR change, namely, surface reflectivity–difference ratio factor (SR–DR factor). Furthermore, the long-time series data in the Tibetan Plateau (2018–2019) are used to analyze its effects on the time series of the SR–DR factor, while the influences of the soil freeze/thaw (F/T) process and soil moisture are excluded during the analysis. The results indicate that the SR–DR factor can be a good indicator and discriminator for snow depth. Our work shows that space-borne GNSS-R has the potential for the monitoring of snow properties.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/15/3772"
+  },
+  {
+    "title": "Identification of Paddy Varieties from Landsat 8 Satellite Image Data Using Spectral Unmixing Method in Indramayu Regency, Indonesia",
+    "authors": [
+      "Iqbal Maulana Cipta,",
+      "Lalu Muhamad Jaelani,",
+      "Hartanto Sanjaya"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi11100510",
+    "journalVolume": "Vol. 11,\n                                no. 510\n                                \n                                  p.\n                                  510",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "Indramayu Regency is the highest rice producer in West Java province, Indonesia. According to the Central Statistics Agency (BPS), in 2021, rice production in 2020 reached 1,365,435.39 tons of GKG (milled dry grain). Technological developments in the food sector produce various kinds of premium quality rice and rice varieties resistant to climate change, such as Ciherang, Inpari 32 HDB and IR 64. The regular monitoring of specific rice varieties over large areas effectively maintains the quality and quantity of rice production. This study used remote sensing data to monitor rice conditions and distribution based on the spectral unmixing method. The spectral unmixing method was used to identify the percentage of the presence of a pure object in a pixel. The results obtained in this study were images of the endmember fractions of rice varieties and areas of dominant rice varieties used in the Indramayu district. The dominant variety detected with the processing results was the Inpari 32 HDB variety, with an area of 30,738.64 hectares. In comparison, varieties other than Inpari 32 HDB were also detected in several areas in the Indramayu district, with an area of 12,192.68 hectares.",
+    "readLink": "https://www.mdpi.com/2220-9964/11/10/510"
+  },
+  {
+    "title": "Water Shortage Affects Vegetative and Reproductive Stages of Common Bean (<i>Phaseolus vulgaris</i>) Chilean Landraces, Differentially Impacting Grain Yield Components",
+    "authors": [
+      "Gerardo Tapia,",
+      "José Méndez,",
+      "Luis Inostroza,",
+      "Camila Lozano"
+    ],
+    "doi": "https://doi.org/10.3390/plants11060749",
+    "journalVolume": "Vol. 11,\n                                no. 749\n                                \n                                  p.\n                                  749",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "Water availability for agricultural use is currently a global problem that worsens with climate change in several regions of the world. Among grain legumes, common bean (Phaseolus vulgaris) is the most cultivated in the worldwide. The Chilean germplasm of common bean is characterized by tolerance to water stress. Here, we analyzed a selection of nine ancient Chilean landraces in regard to their drought tolerance, simulating optimal (OW) and restricted watering (RW) in a Mediterranean environment. Phenological, growth, and yield traits were recorded, and correlation analysis was performed. Accordingly, leaf temperature and osmotic potential were higher under RW, while the leaf chlorophyll content decreased in all landraces. Physiological maturity days and seed-filling days were lower in RW than in OW. This similarly occurred with the grain yield. The % yield reduction was negatively correlated with the % pod reduction and the relative rate of leaf expansion (RLAE) reduction. However, the 100-seed weight value was not significantly modified by water treatment (p > 0.05). For instance, landraces that preferred to fill the grain with a lower rate of leaf expansion showed a lower loss in grain yield under drought conditions. These results suggest that the resource partitioning between growing leaves, flowers, and developing pods in Chilean landraces is variable, affecting the common bean drought tolerance.",
+    "readLink": "https://www.mdpi.com/2223-7747/11/6/749"
+  },
+  {
+    "title": "Soil Organic Carbon Stocks and Nitrogen Content Comparison in Different Slope Positions in Native Grasslands and Adjacent Cultivated Soils (Case Study: Kermanshah Mountain Rangelands, Iran)",
+    "authors": [
+      "H. Mirzaei"
+    ],
+    "doi": "Vol. 9,\n                                no. 3\n                                \n                                  pp.\n                                  49\n                                  – 61",
+    "issn": "2476-3128 (Print)",
+    "publisher": "2476-3217 (Online)",
+    "countryOfPublisher": "Isfahan University of Technology",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://ijae.iut.ac.ir/",
+    "abstract": "Global warming has been largely driven by increasing atmospheric GHG (Green House Gasses), particularly carbon dioxide caused by fossil fuels burning. The current trend can not be stopped except by reducing fossil fuel consumption or storing organic carbon in soil or earthchr('39')s biological systems such as forests, rangelands and agricultural systems. This study was conducted to determine the effect of slope position as well as land use effect on organic carbon storage and nitrogen content in a mountainous area in the middle of Zagros chain mountain ranges in Kermanshah. The results showed that slope position has significant effect on aboveground biomass, SOC (Soil Organic Carbon) and Soil Nitrogen Content (SNC). Comparison of different rangeland slopes showed that the lowest slope position (20-30%) had the highest amount of SOC, SNC and aboveground biomass. The presence of scattered trees in the shoulder position added significant amount of soil organic carbon and total nitrogen content to the soil beneath the trees, resulting from the input of tree litter and positive effect of trees canopy on herbaceous layer. Comparison of natural rangeland in all slope positions and adjacent cropland showed higher amount of SOC and SNC in grasslands. Comparison of croplands and adjacent rangelands with the same slope shows a significant increase in organic carbon content (P>0.05) and soil nitrogen percentage in the rangelands. This situation is also seen in other rangeland slope classes.",
+    "readLink": "http://ijae.iut.ac.ir/article-1-983-en.html"
+  },
+  {
+    "title": "The potential sensitivity to climate change of selected endangered  and important Natura 2000 Habitats and plants from  Bucegi Natural Park, Romania",
+    "authors": [
+      "Anca SÂRBU,",
+      "Georg A. JANAUER,",
+      "Norbert EXLER,",
+      "Ion SÂRBU,",
+      "Paulina ANASTASIU"
+    ],
+    "doi": "https://doi.org/10.15835/nbha48111756",
+    "journalVolume": "Vol. 48,\n                                no. 1",
+    "issn": "0255-965X (Print)",
+    "publisher": "1842-4309 (Online)",
+    "countryOfPublisher": "AcademicPres",
+    "lcc": [
+      "Romania",
+      "Agriculture: Forestry",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://www.notulaebotanicae.ro/index.php/nbha",
+    "abstract": "This study was carried out in the Bucegi Natural Park, a protected area of the Romanian Carpathians. It aims at documenting the potential sensitivity of six widespread Natura 2000 habitat types and of all plants with conservative value (200 taxa) in the mountain area, to the changes in temperature and humidity, predicted for this century. Regional expert knowledge and environmental indicator values were considered in assessing the potential habitat’s sensitivity. The results support the evidence that sensitivity to temperature may be potentially higher for habitats at alpine and subalpine levels (bushes and grasslands) and medium for forest habitats. Sensitivity to moisture was detected as potentially high for forest habitats and as medium for bushes and grasslands at high mountain elevation. Microthermophilic plants have shown a greater share (76-79%) in alpine and subalpine communities, and the hydrophilic plants (86-96%) in forest communities. About 80% of plants of conservation value (microthermophilic or hydrophilic plants) may be potentially sensitive to predicted warming and drought and 44% of them (microthermophilic and hydrophilic plants) to the changes of both parameters. Climate scenarios (2011-2100) and sensitivity maps (Sat – image interpretation with GIS for the whole mountain area) are included.",
+    "readLink": "https://www.notulaebotanicae.ro/index.php/nbha/article/view/11756"
+  },
+  {
+    "title": "Poleward expansion of common snook Centropomus undecimalis in the northeastern Gulf of Mexico and future research needs.",
+    "authors": [
+      "Caleb H Purtlebaugh,",
+      "Charles W Martin,",
+      "Micheal S Allen"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0234083",
+    "journalVolume": "Vol. 15,\n                                no. 6\n                                \n                                  p.\n                                  e0234083",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Globally, rising temperatures have resulted in numerous examples of poleward shifts in species distribution patterns with accompanying changes in community structure and ecosystem processes. In the Gulf of Mexico, higher mean temperatures and less frequent winter freezes have led to the expansion of tropics-associated marine organisms. Our objectives were to quantify changing environmental conditions and the poleward expansion of the common snook Centropomus undecimalis into the Cedar Keys area of Florida, USA (29 deg N). The snook is an economically and recreationally important sport fish found from southern Brazil to south Florida. Cedar Key and the Lower Suwannee River are north of the snook's historically documented range, likely due to lethal water temperatures during winter. Using data from a long-term monitoring program, we report an increase in catches of snook in this area since 2007. The spatial and temporal expansion of the species began with adult fish in 2007. By 2018, snook of all sizes were found in the region, and we found strong evidence of local reproduction during 2016-2018. The locations of nursery habitat and winter thermal refuges (e.g., freshwater springs) need to be identified and have implications for land-use policy and minimum-flow regulations for rivers. The arrival of the snook in the northern Gulf of Mexico could affect food web ecology and habitat interactions among estuarine predators, and future studies should evaluate snook's food habits and competitive interactions with resident fishes in this expanded range. Our study provides an example of how species range expansions due to changing temperatures should result in new research priorities to evaluate impacts of climate change on coastal systems.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0234083"
+  },
+  {
+    "title": "The Arctic-Subarctic sea ice system is entering a seasonal regime: Implications for future Arctic amplification",
+    "authors": [
+      "Thomas W. N. Haine,",
+      "Torge Martin"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-017-04573-0",
+    "journalVolume": "Vol. 7,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract The loss of Arctic sea ice is a conspicuous example of climate change. Climate models project ice-free conditions during summer this century under realistic emission scenarios, reflecting the increase in seasonality in ice cover. To quantify the increased seasonality in the Arctic-Subarctic sea ice system, we define a non-dimensional seasonality number for sea ice extent, area, and volume from satellite data and realistic coupled climate models. We show that the Arctic-Subarctic, i.e. the northern hemisphere, sea ice now exhibits similar levels of seasonality to the Antarctic, which is in a seasonal regime without significant change since satellite observations began in 1979. Realistic climate models suggest that this transition to the seasonal regime is being accompanied by a maximum in Arctic amplification, which is the faster warming of Arctic latitudes compared to the global mean, in the 2010s. The strong link points to a peak in sea-ice-related feedbacks that occurs long before the Arctic becomes ice-free in summer.",
+    "readLink": "https://doi.org/10.1038/s41598-017-04573-0"
+  },
+  {
+    "title": "Gene Profiling of the Ascorbate Oxidase Family Genes under Osmotic and Cold Stress Reveals the Role of AnAO5 in Cold Adaptation in <i>Ammopiptanthus nanus</i>",
+    "authors": [
+      "Ming Zhu,",
+      "Qi Liu,",
+      "Fuyu Liu,",
+      "Lamei Zheng,",
+      "Jie Bing,",
+      "Yijun Zhou,",
+      "Fei Gao"
+    ],
+    "doi": "https://doi.org/10.3390/plants12030677",
+    "journalVolume": "Vol. 12,\n                                no. 677\n                                \n                                  p.\n                                  677",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "The uplift of the Qinghai Tibet Plateau has led to a drastic change in the climate in Central Asia, from warm and rainy, to dry and less rainfall. Ammopiptanthus nanus, a rare evergreen broad-leaved shrub distributed in the temperate desert region of Central Asia, has survived the drastic climate change in Central Asia caused by the uplift of the Qinghai-Tibet Plateau. Ascorbate oxidase (AO) regulates the redox status of the apoplast by catalyzing the oxidation of ascorbate acid to dehydroascorbic acid, and plays a key role in the adaptation of plants to environmental changes. Analyzing the evolution, environmental response, and biological functions of the AO family of A. nanus is helpful for understanding how plant genome evolution responds to climate change in Central Asia. A total of 16 AOs were identified in A. nanus, all of which contained the ascorbate oxidase domain, most of which contained transmembrane domain, and many were predicted to be localized in the apoplast. Segmental duplication and tandem duplication are the main factors driving the gene amplification of the AO gene family in A. nanus. Gene expression analysis based on transcriptome data and fluorescence quantitative PCR, as well as enzyme activity measurements, showed that the expression levels of AO genes and total enzyme activity decreased under short-term osmotic stress and low-temperature stress, but the expression of some AO genes (AnAO5, AnAO13, and AnAO16) and total enzyme activity increased under 7 days of cold stress. AnAO5 and AnAO11 are targeted by miR4415. Further functional studies on AnAO5 showed that AnAO5 protein was localized in the apoplast. The expression of AnAO5 in yeast cells and the transient expression in tobacco enhanced the tolerance of yeast and tobacco to low-temperature stress, and the overexpression of AnAO5 enhanced the tolerance of Arabidopsis seedlings to cold stress. Our research provides important data for understanding the role of AOs in plant adaptation to environmental change.",
+    "readLink": "https://www.mdpi.com/2223-7747/12/3/677"
+  },
+  {
+    "title": "Wildfires and the COVID-19 pandemic: a systematized literature review of converging health crises",
+    "authors": [
+      "Kathleen A Clark,",
+      "Mary Sheehan"
+    ],
+    "doi": "https://doi.org/10.1088/2752-5309/acc680",
+    "journalVolume": "Vol. 1,\n                                no. 2\n                                \n                                  p.\n                                  022002",
+    "issn": "2752-5309 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/2752-5309",
+    "abstract": "The emergence and global spread of the COVID-19 pandemic in 2020 converged with wildfire seasons of unprecedented extent. These co-occurring crises brought the potential for amplified health impacts. A systematized literature review was conducted to identify the health impacts from co-exposure to wildfires and the COVID-19 pandemic. A search of PubMed and Scopus identified 373 distinct references which were screened according to predetermined criteria. A total of 22 peer-reviewed publications were included in the final analysis. Studies were located in Australia and the western United States, with a single study in the Amazonian region of Brazil. The studies identified focused primarily on the impact of wildfire smoke exposure on COVID-19 infection and mortality, and the impact of exposure to both crises on mental health. The collective evidence shows that wildfire exposure within the context of the pandemic exacerbated COVID-19 infection and mortality as well as various adverse mental health effects. Additional research is needed in more diverse contexts and with individual-level data. Findings highlight the need for public health preparedness to anticipate overlapping, related crises and to advance climate change mitigation to protect public health.",
+    "readLink": "https://doi.org/10.1088/2752-5309/acc680"
+  }
+]

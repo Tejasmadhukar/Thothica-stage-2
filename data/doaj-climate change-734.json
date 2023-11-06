@@ -1,0 +1,240 @@
+[
+  {
+    "title": "Environmental Impacts and Their Association With Performance and Excretion Traits in Growing Pigs",
+    "authors": [
+      "Alessandra N. T. R. Monteiro,",
+      "Ludovic Brossard,",
+      "Hélène Gilbert,",
+      "Jean-Yves Dourmad"
+    ],
+    "doi": "https://doi.org/10.3389/fvets.2021.677857",
+    "journalVolume": "Vol. 8",
+    "issn": "2297-1769 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Animal culture: Veterinary medicine"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Veterinary_Science",
+    "abstract": "The selection of pigs for improved production traits has been, for a long time, the major driver of pig breeding. More recently, because of the increasing concern with the environment, new selection criteria have been explored, such as nitrogen (N) excretion. However, many studies indicate that life cycle assessment (LCA) provides much better indicators of environmental impacts than excretion. Therefore, the objective of this study was to investigate, using a modeling approach, the relationships between production traits and LCA impacts of individual growing pigs calculated at the farm gate for 1 kg of body weight gain. Performances of pigs were simulated for 2-phase (2P) and precision feeding (PR), using the InraPorc population model (on 1,000 pigs). Nitrogen excretion was positively correlated with feed conversion ratio (FCR; r = +0.96), climate change (CC; r = +0.96), acidification potential (AC; r = +0.97), eutrophication potential (EU; r = +0.97), and land occupation (LO; r = +0.96), whatever the feeding program. However, FCR appeared to be a better indicator of LCA impacts, with very high and positive correlations (r > +0.99) with CC, AC, EU, and LO for both feeding programs. The CC, AC, and EU impacts of pig production for PR feeding were 1.3, 10, and 7.5% lower than for 2P, respectively, but the correlations within each outcome were very similar among feeding programs. It was concluded that the use of FCR as a selection criterion in pig breeding seems to be a promising approach to associate improved performance and low environmental impact of pig fattening.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fvets.2021.677857/full"
+  },
+  {
+    "title": "Climate Change in Fisheries and Aquaculture: Analysis of the Impact Caused by Idai and Kenneth Cyclones in Mozambique",
+    "authors": [
+      "Valdemiro Muhala,",
+      "Valdemiro Muhala,",
+      "Tomé Francisco Chicombo,",
+      "Isadola Eusebio Macate,",
+      "Auryceia Guimarães-Costa,",
+      "Horácio Gundana,",
+      "Celina Malichocho,",
+      "Oliver Jolezya Hasimuna,",
+      "Oliver Jolezya Hasimuna,",
+      "António Remédio,",
+      "Sahya Maulu,",
+      "Lucinda Cuamba,",
+      "Adam Rick Bessa-Silva,",
+      "Adam Rick Bessa-Silva,",
+      "Iracilda Sampaio"
+    ],
+    "doi": "https://doi.org/10.3389/fsufs.2021.714187",
+    "journalVolume": "Vol. 5",
+    "issn": "2571-581X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-food-systems#",
+    "abstract": "Fisheries and Aquaculture are among the most popular activities in coastal regions of the world. In addition, both correspond to high-risk activities within a climate change context as they are vulnerable to environmental changes that threaten the socio-economic sustainability of the fishing communities that depend on fish for food security and income generation. In 2019, the central part of Mozambique was hit by two unprecedented cyclones: Idai and Kenneth that killed over 600 people and left nearly 2.2 million people in need of urgent assistance. The aim of the present study was to investigate the impacts these cyclones had on fisheries and aquaculture in the provinces of Sofala and Zambézia in Mozambique. The study further seeks to propose strategies that could be adopted by the communities to minimize the risks in the future. For the construction of the database, both secondary and primary data collection approaches were used to characterize the cyclone events. Secondary data was collected through sector reports and previously published articles, while primary data was collected through interviews with fishers, sector employees, and aquaculture producers in the affected provinces. The results revealed that these natural events had both a direct and indirect impact on fishing, as they affected more than 1,440 fishermen that lost 590 vessels, 1,800 fishing gear, and 67 boat engines in Sofala province. In Zambézia province, aquaculture producers lost 169 fish ponds, two cages, and 606,000 lost fry, while in Sofala province, 58 fish tanks, 204 cages, and 257,500 fish fry were lost. Overall, our study reveals the vulnerability of fisheries and aquaculture to extreme events particularly the cyclones in Mozambique. Lack of knowledge regarding climate change, advanced preventive measures, and poor adaptive capacity makes the sectors more vulnerable to disasters. Therefore, it is recommended to improve awareness programs, introduce measures and policies that promote resilience and optimum adaptive efficiency.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fsufs.2021.714187/full"
+  },
+  {
+    "title": "Preseason sunshine duration determines the start of growing season of natural rubber forests",
+    "authors": [
+      "Ning Li,",
+      "Jingfeng Xiao,",
+      "Rui Bai,",
+      "Jing Wang,",
+      "Lu Wu,",
+      "Wenlong Gao,",
+      "Wei Li,",
+      "Miao Chen,",
+      "Qinfen Li"
+    ],
+    "doi": "Vol. 124\n                                \n                                \n                                  p.\n                                  103513",
+    "issn": "1569-8432 (Print)",
+    "publisher": "1872-826X (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation",
+    "abstract": "Plant phenology is essential for projecting changes in the ecosystem including growing seasons, plant communities and carbon storage. However, it is still unclear how the start of growing season (SOS) of tropical plants responds to climate change. This study examined SOS of natural rubber (NR) which grows in tropical areas using long-term satellite solar-induced chlorophyll fluorescence (SIF) data and nineteen monthly climate factors. “Phenofit” (a R package), Pearson correlation coefficient, random forest and structural equation modeling were used to extract SOS and find the relationship between SOS and climate factors at landscape scale. SOS mainly occurred during 53.3–69.9 day of the year, with a slight yet non-significant delaying trend (about 0.2 d/y) across more than 76% of the study area over 2001–2021. The sunshine duration (Sund), ground temperature at 20 cm depth and evaporation in June last year (pre-June) were the three climate drivers with substantial effects on SOS. Sund in pre-June played the most crucial role (r > 0.65, p < 0.01, variable importance exceeding 0.34 and the standardized path coefficient larger than 0.63), with lower sensitivity to SOS (approximately 0.32 ± 0.06 d/h) among the three climate drivers. SOS had a significant delay with the increase of latitude, and the rate of delay was significantly reduced. Whereas, with the increase of longitude, SOS had a significant advance but the advance rate had no significant change. This study provided a new insight distinct from non-tropical regions, elucidating that SOS in tropical areas is predominantly driven by preseason sunshine duration, characterized by a slight delaying trend. These findings advanced the understanding of tropical plant phenology within changing environments.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1569843223003370"
+  },
+  {
+    "title": "Unifying soil organic matter formation and persistence frameworks: the MEMS model",
+    "authors": [
+      "A. D. Robertson,",
+      "A. D. Robertson,",
+      "K. Paustian,",
+      "K. Paustian,",
+      "S. Ogle,",
+      "S. Ogle,",
+      "M. D. Wallenstein,",
+      "M. D. Wallenstein,",
+      "E. Lugato,",
+      "M. F. Cotrufo,",
+      "M. F. Cotrufo"
+    ],
+    "doi": "https://doi.org/10.5194/bg-16-1225-2019",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  1225\n                                  – 1248",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "Soil organic matter (SOM) dynamics in ecosystem-scale biogeochemical models have traditionally been simulated as immeasurable fluxes between conceptually defined pools. This greatly limits how empirical data can be used to improve model performance and reduce the uncertainty associated with their predictions of carbon (C) cycling. Recent advances in our understanding of the biogeochemical processes that govern SOM formation and persistence demand a new mathematical model with a structure built around key mechanisms and biogeochemically relevant pools. Here, we present one approach that aims to address this need. Our new model (MEMS v1.0) is developed from the Microbial Efficiency-Matrix Stabilization framework, which emphasizes the importance of linking the chemistry of organic matter inputs with efficiency of microbial processing and ultimately with the soil mineral matrix, when studying SOM formation and stabilization. Building on this framework, MEMS v1.0 is also capable of simulating the concept of C saturation and represents decomposition processes and mechanisms of physico-chemical stabilization to define SOM formation into four primary fractions. After describing the model in detail, we optimize four key parameters identified through a variance-based sensitivity analysis. Optimization employed soil fractionation data from 154 sites with diverse environmental conditions, directly equating mineral-associated organic matter and particulate organic matter fractions with corresponding model pools. Finally, model performance was evaluated using total topsoil (0–20 cm) C data from 8192 forest and grassland sites across Europe. Despite the relative simplicity of the model, it was able to accurately capture general trends in soil C stocks across extensive gradients of temperature, precipitation, annual C inputs and soil texture. The novel approach that MEMS v1.0 takes to simulate SOM dynamics has the potential to improve our forecasts of how soils respond to management and environmental perturbation. Ensuring these forecasts are accurate is key to effectively informing policy that can address the sustainability of ecosystem services and help mitigate climate change.",
+    "readLink": "https://www.biogeosciences.net/16/1225/2019/bg-16-1225-2019.pdf"
+  },
+  {
+    "title": "Cultivar‐dependent increases in mycorrhizal nutrient acquisition by barley in response to elevated CO2",
+    "authors": [
+      "Tom J. Thirkell,",
+      "Matthew Campbell,",
+      "Josephine Driver,",
+      "Daria Pastok,",
+      "Beverley Merry,",
+      "Katie J. Field"
+    ],
+    "doi": "https://doi.org/10.1002/ppp3.10174",
+    "journalVolume": "Vol. 3,\n                                no. 5\n                                \n                                  pp.\n                                  553\n                                  – 566",
+    "issn": "2572-2611 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Botany"
+    ],
+    "journalUrl": "https://nph.onlinelibrary.wiley.com/journal/25722611",
+    "abstract": "Societal Impact Statement Modern agriculture is under pressure to meet yield targets while reducing reliance on finite resources to improve sustainability. Climate change represents an additional challenge—elevated atmospheric CO2 concentrations may increase plant growth and boost yield, but the nutritional value of crops grown at elevated CO2 is often reduced. Arbuscular mycorrhizal fungi (AMF) can improve plant nutrition, although how this symbiosis will be affected by climate change is unclear. Here, we demonstrate mycorrhizal contribution to nitrogen and phosphorus nutrition in barley under current and future CO2 concentrations. In one cultivar, AMF substantially increased phosphorus uptake at elevated CO2 and prevented phosphorus dilution, suggesting the symbiosis may become more important for crop nutrient uptake in the future. Summary Globally important cereals such as barley (Hordeum vulgare L.) often engage in symbiosis with arbuscular mycorrhizal fungi (AMF). The impact of elevated atmospheric CO2 on nutrient exchange between these symbionts remains unknown. In controlled environment experiments, we used isotope tracers (15N, 33P, 14C) to quantify nutrient fluxes between two barley cultivars (Moonshine and Riviera) and their associated AMF at ambient (440 ppm) and elevated (800 ppm) CO2. Elevated CO2 reduced shoot N concentration in Moonshine, and shoot N and P concentration in Riviera. Elevated CO2 substantially increased mycorrhizal 33P acquisition in Moonshine. Mycorrhizal contribution to P uptake in Moonshine may have prevented dilution of tissue P concentration at elevated CO2. In Riviera, AMF did not improve 33P acquisition. Both cultivars received 15N from their AMF symbionts, and this acquisition was not influenced by CO2 concentration, although Moonshine received more 15N than Riviera. Our results suggest that AMF may provide substantial contributions to barley nutrition at current and projected future CO2 concentrations. This is especially noteworthy for barley, which is generally considered to have low mycorrhizal receptivity. AMF may help alleviate or avoid nutrient dilution normally observed at elevated CO2. Variation between cultivars indicates that mycorrhizal contribution to cereal nutrition could be improved through selective breeding practices.",
+    "readLink": "https://doi.org/10.1002/ppp3.10174"
+  },
+  {
+    "title": "Monitoring the Spatiotemporal Dynamics of Habitat Quality and Its Driving Factors Based on the Coupled NDVI-InVEST Model: A Case Study from the Tianshan Mountains in Xinjiang, China",
+    "authors": [
+      "Yayan Lu,",
+      "Junhong Zhao,",
+      "Jianwei Qi,",
+      "Tianyu Rong,",
+      "Zhi Wang,",
+      "Zhaoping Yang,",
+      "Fang Han"
+    ],
+    "doi": "https://doi.org/10.3390/land11101805",
+    "journalVolume": "Vol. 11,\n                                no. 1805\n                                \n                                  p.\n                                  1805",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Globally, mountains have suffered enormous biodiversity loss and habitat degradation due to climate change and human activities. As an agent of biodiversity, evaluating habitat quality (HQ) change is an indispensable key step for regional ecological security and human well-being enhancement, especially for fragile mountain ecosystems in arid areas. In this study, we aimed to propose an integrated framework coupled with the Normalized Difference Vegetation Index (NDVI) and Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST)-HQ module to improve the effectiveness and accuracy of HQ estimation. We highlighted the Tianshan Mountains in Xinjiang as an example to validate the model, as it is a typical representative of mountain ecosystems in the temperate arid zone. Specifically, we aimed to assess the spatiotemporal dynamics of HQ over the past two decades and investigate its influencing factors using a geographical detector model. The results show that, first, grassland and unused land were the main land-use types in the study area. The land-use transitions were mainly concentrated in grassland, woodland, water body, and unused land. Second, the total area of very important habitats and general habitats accounted for over 70% of the Tianshan Mountains. The average HQ decreased from 0.5044 to 0.4802 during 1995–2015. Third, the HQ exhibited significant spatial differentiation, and the Ili River Valley and Kaidu River Basin were the hot spots, while the south and east of the Tianshan Mountains were the cold spots. Habitat quality was strongly related to the terrain gradient, with an inverted “U” type. Protected areas of different categories played a vital role in biodiversity conservation. Finally, soil type, land-use change, precipitation, temperature, and grazing intensity were the dominant factors in response to HQ change for both the total Tianshan Mountains and sub-regions, followed by elevation, the relief degree of the land surface, gross domestic product, population density, and distance to tourism attractions. The interaction effects of the influencing factors were improved compared to the effects of the individual factors in each zone. Furthermore, these results provide decision-making criteria for formulating a scientific and systematic protection of ecology and restoration planning systems to enhance the capacity to address climate change.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/10/1805"
+  },
+  {
+    "title": "Barriers and opportunities in achieving climate and sustainable development goals in India: a multilevel analysis",
+    "authors": [
+      "Dhanapal G,",
+      "Divya Gupta,",
+      "Anjal Prakash"
+    ],
+    "doi": "https://doi.org/10.1080/1943815X.2022.2163665",
+    "journalVolume": "Vol. 20,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "1943-815X (Print)",
+    "publisher": "1943-8168 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/nens",
+    "abstract": "ABSTRACTClimate action plans are essential for climate mitigation and adaptation as well as to achieve climate and development goals like the Paris Agreement and the Sustainable Development Goals (SDGs). However, the development and implementation of climate action plans at multiple levels involve decision-making processes. In this article, we examine the barriers and opportunities to decision-making in climate action plans for adaptation at three different governance levels in India: national, sub-national and local. Through a literature review and analysis of case studies, we find that lack of usable climate information, institutional weaknesses and capacity of actors are critical barriers to decision-making at all three levels in India. We recommend that providing usable and accessible climate information, creating evidence and knowledge on adaptation, strengthening the science-policy interface and institutional mechanisms, as well as building the capacities of actors can contribute to better decision-making and achieving targeted climate action plans and SDGs.",
+    "readLink": "https://www.tandfonline.com/doi/10.1080/1943815X.2022.2163665"
+  },
+  {
+    "title": "P-graph optimization of energy crisis response in Leontief systems with partial substitution",
+    "authors": [
+      "Kathleen B. Aviso,",
+      "Krista Danielle Yu,",
+      "Jui-Yuan Lee,",
+      "Raymond R. Tan"
+    ],
+    "doi": "Vol. 9\n                                \n                                \n                                  p.\n                                  100510",
+    "issn": "2666-7908 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/cleaner-engineering-and-technology/",
+    "abstract": "Input-output analysis is used for modelling economic networks with linear equations representing intersectoral links. These models are used extensively to determine the effects of policies and decisions, taking into account sectoral interdependencies. They have also been used to identify optimal responses to various natural or man-made disruptions. An alternative graph theoretic approach to optimizing input-output systems using P-graph has also been developed. However, that approach is limited by the restrictive assumption of the Leontief production function, where each economic sector requires an invariant set of inputs to produce each unit of output; it is assumed in the basic model that these inputs have no substitutability, since their relative proportions are determined by a fixed state of technology. Relaxing this unrealistic assumption is a critical research gap. An improved P-graph model for optimizing input-output systems with partial substitution is developed in this paper. This modelling approach is demonstrated with two case studies involving energy shortages triggered by extreme weather and by military action. Both examples show that the capacity for partial substitution makes economic systems more robust to disruptions.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S266679082200115X"
+  },
+  {
+    "title": "Investigation into climate change effects on carbon and water fluxes, and water use efficiency of the temperate grassland ecosystems in Inner Mongolia of China",
+    "authors": [
+      "Zhijun Wu,",
+      "Qiongfang Li,",
+      "Shuhong Xu,",
+      "Qihui Chen,",
+      "Yunyao Chen"
+    ],
+    "doi": "https://doi.org/10.2166/ws.2023.115",
+    "journalVolume": "Vol. 23,\n                                no. 5\n                                \n                                  pp.\n                                  2147\n                                  – 2161",
+    "issn": "1606-9749 (Print)",
+    "publisher": "1607-0798 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes",
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)"
+    ],
+    "journalUrl": "https://iwaponline.com/ws",
+    "abstract": "The daily gross primary productivity (GPP) and evapotranspiration (ET) in the Xilingol grassland ecosystem of Inner Mongolia were simulated using the BioGeochemical Cycles (Biome-BGC) model for 2003–2019 and under future climate-change scenarios. The system was optimized using the System Response Parameter Calibration Method (SRPCM). The temporal variations of GPP, ET and water use efficiency (WUE) were investigated, and the impacts of precipitation and temperature were explored. Results showed that (i) the BIOME-BGC model performed better when optimized using the SRPCM than by applying the Model-Independent Parameter Estimation approach (PEST); (ii) GPP and ET at annual and seasonal scales showed an insignificant increasing trend; (iii) WUE at the annual scale and in growing seasons showed an insignificant increasing trend and a slight decreasing trend in non-growing seasons; (iv) annual GPP and ET were more sensitive to changes in precipitation than changes in temperature with WUE keeping relatively stable with years; (v) precipitation is a critically controlling factor for GPP and ET in growing seasons and for ET and WUE in non-growing seasons; and (vi) combined temperature and precipitation changes had greater impacts on GPP/ET/WUE than individual changes. HIGHLIGHTS The SRPCM was proposed for parameter optimization of the BIOME-BGC model.; The variations of GPP, ET and WUE in 2003–2019 were explored on multiple time-scales.; GPP, ET and WUE in growing seasons played a decisive role in annual GPP and ET.; Daily WUE within 0–2 g/kg dominated in both non-/growing seasons during 2003–2019.; The combined rise of temperature and precipitation has greater impacts on GPP/ET/WUE than only temperature or precipitation rise.;",
+    "readLink": "http://ws.iwaponline.com/content/23/5/2147"
+  },
+  {
+    "title": "Improving Classification of Airborne Laser Scanning Echoes in the Forest-Tundra Ecotone Using Geostatistical and Statistical Measures",
+    "authors": [
+      "Nadja Stumberg,",
+      "Marius Hauglin,",
+      "Ole Martin Bollandsås,",
+      "Terje Gobakken,",
+      "Erik Næsset"
+    ],
+    "doi": "https://doi.org/10.3390/rs6054582",
+    "journalVolume": "Vol. 6,\n                                no. 5\n                                \n                                  pp.\n                                  4582\n                                  – 4599",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The vegetation in the forest-tundra ecotone zone is expected to be highly affected by climate change and requires effective monitoring techniques. Airborne laser scanning (ALS) has been proposed as a tool for the detection of small pioneer trees for such vast areas using laser height and intensity data. The main objective of the present study was to assess a possible improvement in the performance of classifying tree and nontree laser echoes from high-density ALS data. The data were collected along a 1000 km long transect stretching from southern to northern Norway. Different geostatistical and statistical measures derived from laser height and intensity values were used to extent and potentially improve more simple models ignoring the spatial context. Generalised linear models (GLM) and support vector machines (SVM) were employed as classification methods. Total accuracies and Cohen’s kappa coefficients were calculated and compared to those of simpler models from a previous study. For both classification methods, all models revealed total accuracies similar to the results of the simpler models. Concerning classification performance, however, the comparison of the kappa coefficients indicated a significant improvement for some models both using GLM and SVM, with classification accuracies >94%.",
+    "readLink": "http://www.mdpi.com/2072-4292/6/5/4582"
+  }
+]

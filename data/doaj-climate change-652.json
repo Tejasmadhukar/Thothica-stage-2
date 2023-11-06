@@ -1,0 +1,246 @@
+[
+  {
+    "title": "Determinants of Above-Ground Biomass and Its Spatial Variability in a Temperate Forest Managed for Timber Production",
+    "authors": [
+      "María  de los Ángeles Soriano-Luna,",
+      "Gregorio Ángeles-Pérez,",
+      "Mario Guevara,",
+      "Richard Birdsey,",
+      "Yude Pan,",
+      "Humberto Vaquera-Huerta,",
+      "José  René Valdez-Lazalde,",
+      "Kristofer  D. Johnson,",
+      "Rodrigo Vargas"
+    ],
+    "doi": "https://doi.org/10.3390/f9080490",
+    "journalVolume": "Vol. 9,\n                                no. 8\n                                \n                                  p.\n                                  490",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The proper estimation of above-ground biomass (AGB) stocks of managed forests is a prerequisite to quantifying their role in climate change mitigation. The aim of this study was to analyze the spatial variability of AGB and its uncertainty between actively managed pine and unmanaged pine-oak reference forests in central Mexico. To investigate the determinants of AGB, we analyzed variables related to forest management, stand structure, topography, and climate. We developed linear (LM), generalized additive (GAM), and Random Forest (RF) empirical models to derive spatially explicit estimates and their uncertainty, and compared them. AGB was strongly influenced by forest management, as LiDAR-derived stand structure and stand age explained 80.9% to 89.8% of its spatial variability. The spatial heterogeneity of AGB varied positively with stand structural complexity and age in the managed forests. The type of predictive model had an impact on estimates of total AGB in our study site, which varied by as much as 19%. AGB densities varied from 0 to 492 ± 17 Mg ha−1 and the highest values were predicted by GAM. Uncertainty was not spatially homogeneously distributed and was higher with higher AGB values. Spatially explicit AGB estimates and their association with management and other variables in the study site can assist forest managers in planning thinning and harvesting schedules that would maximize carbon stocks on the landscape while continuing to provide timber and other ecosystem services. Our study represents an advancement toward the development of efficient strategies to spatially estimate AGB stocks and their uncertainty, as the GAM approach was used for the first time with improved results for such a purpose.",
+    "readLink": "http://www.mdpi.com/1999-4907/9/8/490"
+  },
+  {
+    "title": "Lines in the Sand(bar): Collective Perspectives and Shifting Temporalities in Char... The No Man's Island",
+    "authors": [
+      "Amrita Chakraborty"
+    ],
+    "doi": "https://doi.org/10.26824/lalr.256",
+    "journalVolume": "Vol. 48,\n                                no. 96",
+    "issn": "2330-135X (Online)",
+    "publisher": "Latin American Research Commons",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "History America: Latin America. Spanish America",
+      "Language and Literature"
+    ],
+    "journalUrl": "https://lalrp.net/",
+    "abstract": "The tasks of documenting and narrating stories of climate change and border environments have become increasingly urgent in recent years, and discussions around effective approaches to environmental storytelling have intensified accordingly. The film Char… The No Man’s Island (2012), directed by Sourav Sarangi, is a noteworthy example of a work that seeks to represent one such unstable environment that exists on the border between India and Bangladesh and to explore the daily lives of the beings who inhabit it. Although the documentary has a specific regional focus, its scope is far from limited, as the film examines various dimensions of life in this border environment as well as the historical and political factors that have led to the current realities of the space and the communities established there. In this paper, I examine how Sarangi’s inclusion of a multitude of distinct human and non-human perspectives throughout the film signals a move towards a form of environmental storytelling grounded in the notion of a collective, wherein narrative agency is distributed amongst multiple entities rather than invested in a single individual. Moreover, the paper argues that the usage of these various perspectives also enables Char to depict alternate temporalities and experiences of time which contrast heavily with ideas of linear time and progress and invites audiences to consider the multifaceted temporal and spatial realities of life in a precarious border environment.",
+    "readLink": "https://account.lalrp.net/index.php/lasa-j-lalr/article/view/256"
+  },
+  {
+    "title": "Climate change impacts on the distribution of the allergenic plant, common ragweed (Ambrosia artemisiifolia) in the eastern United States.",
+    "authors": [
+      "Michael J Case,",
+      "Kristina A Stinson"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0205677",
+    "journalVolume": "Vol. 13,\n                                no. 10\n                                \n                                  p.\n                                  e0205677",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Climate change is affecting the growth, phenology, and distribution of species across northeastern United States. In response to these changes, some species have been adversely impacted while others have benefited. One species that has benefited from climate change, historically and in response to experimental treatments, is common ragweed (Ambrosia artemisiifolia), a widely distributed annual weed and a leading cause of hay fever in North America. To better understand how climate change may affect the distribution of common ragweed, we built a maximum entropy (Maxent) predictive model using climate and bioclimatic data and over 700 observations across the eastern U.S. Our model performed well with an AUC score of 0.765 using four uncorrelated variables, including precipitation seasonality, mean diurnal temperature range, August precipitation, and January maximum temperature. After building and testing our model, we then projected potential future common ragweed distribution using a suite of 13 global climate models (GCMs) under two future greenhouse gas scenarios for mid and late-century. In addition to providing georeferenced hot spots of potential future expansion, we also provide a metric of confidence by evaluating the number of GCMs that agree. We show a substantial contraction of common ragweed in central Florida, southern Appalachian Mountains, and northeastern Virginia and areas of potential expansion at the northern margins of its current distribution, notably in northeastern U.S. However, the vast majority of this increase is projected to occur by mid-century and may be moderated somewhat by the 2070s, implying that common ragweed may be sensitive to climatic variability. Although other factors and modeling approaches should be explored, we offer preliminary insight into where common ragweed might be a new concern in the future. Due to the health impacts of ragweed, local weed control boards may be well advised to monitor areas of expansion and potentially increase eradication efforts.",
+    "readLink": "http://europepmc.org/articles/PMC6209413?pdf=render"
+  },
+  {
+    "title": "What Does It Take to Go Net-Zero-CO2? A Life Cycle Assessment on Long-Term Storage of Intermittent Renewables With Chemical Energy Carriers",
+    "authors": [
+      "Jan Bernard Wevers,",
+      "Li Shen,",
+      "Mijndert van der Spek"
+    ],
+    "doi": "https://doi.org/10.3389/fenrg.2020.00104",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-598X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "General Works"
+    ],
+    "journalUrl": "http://www.frontiersin.org/energy_research",
+    "abstract": "The concept of net-zero-CO2 power systems has gained increased attention by the EU goal to be a climate neutral continent by 2050. As potential pathways toward a net-zero-power system, this work analyzes future power systems based on intermittent renewable electricity with long-term storage through chemical energy carriers, so called Power-to-Fuel-to-Power systems, and a system based on the combustion of natural gas with 100% carbon capture and storage. The chemical energy carriers selected for electricity storage are hydrogen, methane and ammonia. Using life cycle assessment, we determine and compare the environmental impacts of 1 kWh of dispatchable electricity produced by the two pathways on seven impact categories. There was not one single pathway that had the most environmental benefits on all seven impact categories. Of the Power-to-Fuel-to-Power systems assessed the use of hydrogen for storage has the lowest environmental impact in all categories. Additionally, all the Power-to-Fuel-to-Power systems have a lower environmental impact on climate change, photochemical ozone formation and fossil resource depletion compared with the natural gas with carbon capture and storage system. The natural gas with carbon capture and storage system has a lower environmental impact on particulate matter formation, marine eutrophication and mineral resource scarcity. Our work is complemented by an analysis of pathways from a net-zero-direct-CO2 to a life-cycle net-zero-CO2-equivalent power system which is actually climate neutral, achieved by direct air capture of the residual CO2 from the atmosphere. However, this leads to an increase in all other impact categories of 11% for the Power-to-Fuel-to-Power systems and 21% in the natural gas combustion with carbon capture and storage system. A system sizing study also highlights the very low capacity factors of the capital employed for electricity storage, raising the point of economic feasibility.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fenrg.2020.00104/full"
+  },
+  {
+    "title": "Ecosystem Service Value of the Mixed Land Use Pattern in Asia:  Thailand’s Experience",
+    "authors": [
+      "Nararuk Boonyanam,",
+      "Somskaow  Bejranonda"
+    ],
+    "doi": "Vol. 43,\n                                no. 1",
+    "issn": "2287-0741 (Print)",
+    "publisher": "2287-075X (Online)",
+    "countryOfPublisher": "Environmental Research Institute, Chulalongkorn University",
+    "lcc": [
+      "Thailand",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://ph01.tci-thaijo.org/index.php/aer/index",
+    "abstract": "The rapid increase in economic development and urbanisation along the Eastern Economic Corridor (EEC) of Thailand has accelerated the change in its ecosystem service value (ESV), leading to the demand for related analysis to ensure sustainable growth in the area. The aim of this study is to: (1) evaluate the land use change in Chonburi Province; the most urbanised city in the EEC of Thailand between 2006 and 2016, and (2) assess the land use change impact on ESV. Secondary data from land use maps for 2006 and 2016 was used to evaluate land use change and its impact on ESV using the land use transition matrix, land use dynamic degree, and the benefit transfer method. Urban and built-up land use were found to dominate other use types. The top three highest annual rates of land use change were found in water bodies, rangeland, and urban and built-up land. The ESV in 2016 was found to be 1.31% higher than for 2006. The ecosystem service functions (ESFs) contributing to the increase in ESV were waste treatment, hydrological regulation, climate regulation and recreation and service culture. Future land use planning should focus on increasing wetlands and protecting agricultural land in the study area since these contribute to the highest ESV. In addition, it is essential to balance economic development with ecological enhancement.",
+    "readLink": "https://ph01.tci-thaijo.org/index.php/aer/article/view/240858"
+  },
+  {
+    "title": "Influence of environmental factors on the presence of Vibrio cholerae in the marine environment: a climate link",
+    "authors": [
+      "Violeta Trinidad Pardío Sedas"
+    ],
+    "doi": "Vol. 1,\n                                no. 3\n                                \n                                  pp.\n                                  224\n                                  – 241",
+    "issn": "2036-6590 (Print)",
+    "publisher": "1972-2680 (Online)",
+    "countryOfPublisher": "The Journal of Infection in Developing Countries",
+    "lcc": [
+      "Italy",
+      "Medicine: Internal medicine",
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.jidc.org",
+    "abstract": "Evidence indicates that the atmospheric and oceanic processes that occur in response to increased greenhouse gases in the broad-scale climate system may already be changing the ecology of infectious diseases. Recent studies have shown that climate also influences the abundance and ecology of pathogens, and the links between pathogens and changing ocean conditions, including human diseases such as cholera. Vibrio cholerae is well recognized as being responsible for significant mortality and economic loss in developing countries, most often centered in tropical areas of the world. Within the marine environment, V. cholerae is found attached to surfaces provided by plants, filamentous green algae, copepods, crustaceans, and insects. The specific environmental changes that amplified plankton and associated bacterial proliferation and govern the location and timing of plankton blooms have been elucidated. Several studies have demonstrated that environmental non-O1 and non-O139 V. cholerae strains and V. cholerae O1 El Tor and O139 are able to form a three-dimensional biofilm on surfaces which provides a microenvironment, facilitating environmental persistence within natural aquatic habitats during interepidemic periods. Revealing the influence of climatic/environmental factors in seasonal patterns is critical to understanding temporal variability of cholera at longer time scales to improve disease forecasting. From an applied perspective, clarifying the mechanisms that link seasonal environmental changes to diseases’ dynamics will aid in developing strategies for controlling diseases across a range of human and natural systems.",
+    "readLink": "http://www.oloep.org/jidc/content.asp?id=1103"
+  },
+  {
+    "title": "Research Priorities for Achieving Healthy Marine Ecosystems and Human Communities in a Changing Climate",
+    "authors": [
+      "Whitney R. Friedman,",
+      "Whitney R. Friedman,",
+      "Benjamin S. Halpern,",
+      "Benjamin S. Halpern,",
+      "Elizabeth McLeod,",
+      "Michael W. Beck,",
+      "Michael W. Beck,",
+      "Carlos M. Duarte,",
+      "Carrie V. Kappel,",
+      "Arielle Levine,",
+      "Robert D. Sluka,",
+      "Steven Adler,",
+      "Casey C. O’Hara,",
+      "Eleanor J. Sterling,",
+      "Sebastian Tapia-Lewin,",
+      "Iñigo J. Losada,",
+      "Tim R. McClanahan,",
+      "Linwood Pendleton,",
+      "Linwood Pendleton,",
+      "Linwood Pendleton,",
+      "Linwood Pendleton,",
+      "Margaret Spring,",
+      "James P. Toomey,",
+      "Kenneth R. Weiss,",
+      "Hugh P. Possingham,",
+      "Hugh P. Possingham,",
+      "Jensen R. Montambault,",
+      "Jensen R. Montambault"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2020.00005",
+    "journalVolume": "Vol. 7",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The health of coastal human communities and marine ecosystems are at risk from a host of anthropogenic stressors, in particular, climate change. Because ecological health and human well-being are inextricably connected, effective and positive responses to current risks require multidisciplinary solutions. Yet, the complexity of coupled social–ecological systems has left many potential solutions unidentified or insufficiently explored. The urgent need to achieve positive social and ecological outcomes across local and global scales necessitates rapid and targeted multidisciplinary research to identify solutions that have the greatest chance of promoting benefits for both people and nature. To address these challenges, we conducted a forecasting exercise with a diverse, multidisciplinary team to identify priority research questions needed to promote sustainable and just marine social–ecological systems now and into the future, within the context of climate change and population growth. In contrast to the traditional reactive cycle of science and management, we aimed to generate questions that focus on what we need to know, before we need to know it. Participants were presented with the question, “If we were managing oceans in 2050 and looking back, what research, primary or synthetic, would wish we had invested in today?” We first identified major social and ecological events over the past 60 years that shaped current human relationships with coasts and oceans. We then used a modified Delphi approach to identify nine priority research areas and 46 questions focused on increasing sustainability and well-being in marine social–ecological systems. The research areas we identified include relationships between ecological and human health, access to resources, equity, governance, economics, resilience, and technology. Most questions require increased collaboration across traditionally distinct disciplines and sectors for successful study and implementation. By identifying these questions, we hope to facilitate the discourse, research, and policies needed to rapidly promote healthy marine ecosystems and the human communities that depend upon them.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmars.2020.00005/full"
+  },
+  {
+    "title": "GPS Radio Occultation: Results from CHAMP, GRACE and FORMOSAT-3/COSMIC",
+    "authors": [
+      "Jens Wickert,",
+      "Grzegorz Michalak,",
+      "Torsten Schmidt,",
+      "Georg Beyerle,",
+      "Chio-Zong Cheng,",
+      "Sean B. Healy,",
+      "Stefan Heise,",
+      "Cheng-Yung Huang,",
+      "Norbert Jakowski,",
+      "Wolfgang Kohler,",
+      "Christoph Mayer,",
+      "Dave Offiler,",
+      "Eiji Ozawa,",
+      "Alexander G. Pavelyev,",
+      "Markus Rothacher,",
+      "Byron Tapley,",
+      "Christina Arras"
+    ],
+    "doi": "https://doi.org/10.3319/TAO.2007.12.26.01(F3C)",
+    "journalVolume": "Vol. 20,\n                                no. 1\n                                \n                                  p.\n                                  035",
+    "issn": "1017-0839 (Print)",
+    "publisher": "2311-7680 (Online)",
+    "countryOfPublisher": "Springer",
+    "lcc": [
+      "Singapore",
+      "Science: Geology",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://www.springer.com/journal/44195",
+    "abstract": "The Taiwan/US FORMOSAT-3/COSMIC (FORMOsa SATellite mission - 3/Constellation Observing System for Meteorology, Ionosphere and Climate) satellite nstellation was successfully launched on 14 April 2006. It is expected to leverage the use of the GPS (Global Positioning System) radio occultation data for atmospheric and ionospheric research to improve global weather forecasts and aid climate change related studies. FORMOSAT-3/COSMIC, together with the European MetOp, German CHAMP and US/German GRACE-A satellites, form a 9 satellite constellation for precise atmospheric sounding on a global scale. This satellite constellation is expected to provide about 3500 occultation measurements daily.",
+    "readLink": "\nhttp://tao.cgu.org.tw/images/attachments/v201p035.pdf\n"
+  },
+  {
+    "title": "Distribution Map of Frost Resistance for Cement-Based Materials Based on Pore Structure Change",
+    "authors": [
+      "Nguyen Xuan Quy,",
+      "Takumi Noguchi,",
+      "Seunghyun Na,",
+      "Jihoon Kim,",
+      "Yukio Hama"
+    ],
+    "doi": "https://doi.org/10.3390/ma13112509",
+    "journalVolume": "Vol. 13,\n                                no. 2509\n                                \n                                  p.\n                                  2509",
+    "issn": "1996-1944 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering",
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Natural history (General): Microscopy",
+      "Science: Physics: Descriptive and experimental mechanics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/materials/",
+    "abstract": "This paper presents a prediction method and mathematical model based on experimental results for the change in pore structure of cement-based materials due to environmental conditions. It focuses on frost damage risk to cement-based materials such as mortar. Mortar specimens are prepared using water, ordinary Portland cement, and sand and the pore structure is evaluated using mercury intrusion porosimetry. New formulas are proposed to describe the relationship between the pore structure change and the modified maturity and to predict the durability factor. A quantitative prediction model is established from a modified maturity function considering the influences of environmental factors like temperature and relative humidity. With this model, the frost resistance of cement-based materials can be predicted based on weather data. Using the prediction model and climate data, a new distribution map of frost damage risk is created. It is found that summer weather significantly affects frost resistance, owing to the change in pore structure of cement-based mortar. The model provides a valuable tool for predicting frost damage risk based on weather data and is significant for further research.",
+    "readLink": "https://www.mdpi.com/1996-1944/13/11/2509"
+  },
+  {
+    "title": "IEEE Access Special Section Editorial: Advanced Energy Storage Technologies and Their Applications",
+    "authors": [
+      "Rui Xiong,",
+      "Suleiman M. Sharkh,",
+      "Hailong Li,",
+      "Hua Bai,",
+      "Weixiang Shen,",
+      "Peng Bai,",
+      "Xuan Zhou"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2020.3036556",
+    "journalVolume": "Vol. 8\n                                \n                                \n                                  pp.\n                                  218685\n                                  – 218693",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "The depletion of fossil fuels, the increase of energy demands, and the concerns over climate change are the major driving forces for the development of renewable energy such as solar and wind. However, the intermittency of renewable energy has hindered the deployment of large-scale intermittent renewable energy, which therefore has necessitated the development of advanced large-scale energy storage technologies [item 1) in the Appendix]. The use of large-scale energy storage can effectively improve the efficiency of energy resource utilization and increase the use of variable renewable resources, energy access, and end-use sector electrification [items 2) and 3) in the Appendix]. Over the years, considerable research has been conducted on many types of energy, such as thermal energy, mechanical energy, electrical energy, and chemical energy, using different types of systems such as phase change materials, batteries, supercapacitors, fuel cells, and compressed air, which are applicable to various types of applications, such as heat and power generation and electrical/hybrid transportation [items 4) and 5) in the Appendix].",
+    "readLink": "https://ieeexplore.ieee.org/document/9292512/"
+  }
+]

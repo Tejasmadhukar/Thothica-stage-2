@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Cropland-grassland use conversions in the agro-pastoral areas of the Tibetan Plateau: Spatiotemporal pattern and driving mechanisms",
+    "authors": [
+      "Yingying Tian,",
+      "Guanghui Jiang,",
+      "Siduo Wu,",
+      "Dingyang Zhou,",
+      "Tao Zhou,",
+      "Yaya Tian,",
+      "Tianqian Chen"
+    ],
+    "doi": "Vol. 146\n                                \n                                \n                                  p.\n                                  109819",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Cropland-grassland use conversion analysis constitutes crucial research on regional land and global change science, having important implications for regional ecology, food security and the well-being of farmers and herders. However, relevant research is rare, and limited attention has been given to the Tibetan Plateau. Therefore, based on land use raster data, this study utilized the land use conversion matrix method to investigate the spatial and temporal patterns of cropland-grassland conversions during 1990–2020 in the agro-pastoral areas of the Tibetan Plateau.Then this research further identified the key natural geographical and socioeconomic driving forces of cropland-grassland conversions, and examined the mechanisms and spatial heterogeneity of their driving effects by using the geographically weighted regression model. The results showed that cropland-grassland conversions temporally presented the “slow-slow-rapid” changes in 1990–2020 and were spatially clustered in the eastern semipastoral areas. Through mechanisms of ecological equilibrium, resource carrying, population mobility, interest-driven and macroregulation, natural geographical and socioeconomic factors within the cropland-grassland conversion system interacted differently in direction and extent with obvious spatial heterogeneity. Regional increasing rainfall, temperature and topographic relief expanded the extent of cropland use, coupled with the effects of distance to transportation and water sources and increased rural employment, causing widespread and profound land reclamation of grassland-to-cropland, further encouraged by cropland balance policy, while climate change and distance from inhabited settlement and transportation promoted cropland-to-grassland conversion, exacerbated by policies on nature reserve designation and cropland balance, and the fact that rapidly increasing urbanisation in the east accelerated cropland abandonment by diversifying nonfarm employment livelihood strategies. Value added in agriculture and livestock and agricultural machinery inputs tended to restrict cropland-grassland conversions by promoting their internal tapping into intensive and potential use. “Key place-based” and differentiated management policies were proposed to promote sustainable cropland-grassland use conversions and regional development.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X22012924"
+  },
+  {
+    "title": "Analyzing the Performance of Double Spiral Tube Ground Heat Exchangers in a Zero-Energy Building Using Measurement Data",
+    "authors": [
+      "Kunning Yang,",
+      "Takao Katsura,",
+      "Shigeyuki Nagasaka,",
+      "Katsunori Nagano"
+    ],
+    "doi": "https://doi.org/10.3390/en16196964",
+    "journalVolume": "Vol. 16,\n                                no. 6964\n                                \n                                  p.\n                                  6964",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "A ground-source heat pump (GSHP) system is a renewable energy technology that effectively reduces greenhouse gas emissions and consequently mitigates the progression of global warming. The thermal efficiency of ground heat exchangers (GHEs) is a critical component in the GSHP system that must be accurately estimated for its long-term operationality. Therefore, in this study, the thermal performance of double-spiral GHEs incorporated within the thermal piles of a zero-energy building in Sapporo, Japan, was investigated using the actual measured data obtained from the site and a novel metric, namely, the coefficient of heat extraction/injection, for a more precise evaluation. Moreover, this study assessed the coefficient of performance (COP) of the GSHP units during various periods of cooling or heating. The temperature of the circulating fluid remained within an ideal operational range over an operational period of 2 years, and the COP calculations indicated a high operational efficiency. The results derived in this study substantially exceeded those of traditional U-tube GHEs, indicating the enhanced efficiency and superior performance of large-diameter thermal piles with augmented thermal capacity. Our findings suggest that GSHP systems with double-spiral-tube GHEs have superior efficiency than conventional GHEs.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/19/6964"
+  },
+  {
+    "title": "Impact of a Composite Trombe Wall Incorporating Phase Change Materials on the Thermal Behavior of an Individual House with Low Energy Consumption",
+    "authors": [
+      "Enghok Leang,",
+      "Pierre Tittelein,",
+      "Laurent Zalewski,",
+      "Stéphane Lassue"
+    ],
+    "doi": "https://doi.org/10.3390/en13184872",
+    "journalVolume": "Vol. 13,\n                                no. 4872\n                                \n                                  p.\n                                  4872",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "As the heating demands of buildings drop considerably, the use of solar walls makes increasing sense. One of the obstacles to the development of such walls is their need for on-site implementation by specialized companies. On the other hand, a storage wall is generally composed of heavy materials with high inertia, which prevents prefabrication of the solar component. To avoid this problem and allow for solar walls to be prefabricated in the factory, a novel approach to replacing this heavy wall with a lighter storage wall incorporating phase change materials (PCM) has been proposed. This paper aims to demonstrate the impact of PCM on the thermal energy performance once they have been integrated into the storage wall of the composite Trombe wall. Addressed herein will be the heat transfer exchange inside a house located in the northern part of France, where a composite Trombe wall has been fitted without PCM. Three configurations will be investigated—(1) the model house without the solar Trombe wall, defined as the reference configuration; (2) the model house integrating the concrete solar Trombe wall; and (3) the model house integrating the PCM solar Trombe wall. Two setpoint temperatures will be introduced—(a) a constant setpoint of 20 ∘C, and (b) a variable setpoint of 19 ∘C (14 h from 7:00 a.m. to 9:00 p.m.) and 16 ∘C (10 h from 9:00 p.m. to 7:00 a.m.). Furthermore, three different climate conditions will be adopted to run simulations—Paris-Orly, Lyon, and Nice. Dymola/Modelica, a dynamic thermal simulation tool, will be utilized to simulate the thermal performance of these defined configurations. The results obtained, regarding a solar Trombe wall installation that applies two distinct storage walls exposed to the weather of Paris, showed similar minimizations of the one-year energy heating demand inside the bedroom, equal to roughly 20% (i.e., 20.45% of concrete storage wall and 19.90% of PCM storage wall) compared to the reference configuration (i.e., the house with no solar Trombe wall). Based on the imposed setpoint temperature by means of night and day reductions, the resulting heating energy demand in the bedroom, through application of the two storage walls (concrete and PCM) and three different climatic regions could be minimized by 20.34% in Paris, 20.20% in Lyon, and 68.10% in Nice (for the concrete storage wall) vs. the reference configuration; and by 18.79% in Paris, 19.56% in Lyon, and 55.15% in Nice (for the PCM storage wall) vs. the reference configuration.",
+    "readLink": "https://www.mdpi.com/1996-1073/13/18/4872"
+  },
+  {
+    "title": "Cascading impacts of a climate-driven ecosystem transition intensifies population vulnerabilities and fishery collapse",
+    "authors": [
+      "Laura Rogers-Bennett,",
+      "Laura Rogers-Bennett,",
+      "Laura Rogers-Bennett,",
+      "Cynthia A. Catton,",
+      "Cynthia A. Catton"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2022.908708",
+    "journalVolume": "Vol. 4",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "The recent large-scale intensification of marine heatwaves, and other climate-related stressors, has dramatically impacted biogenic habitats around the globe, including marine ecosystems such as coral reefs, seagrasses, and kelp forests. While the impacts to foundation species may be of particular concern, these ecological catastrophes underscore the need to examine how whole systems respond to a suite of stressors. The recent climate-driven collapse of the bull kelp forest and recreational red abalone fishery in northern California provides an example of unanticipated ripple and lagged effects in the system, intensifying vulnerabilities and accelerating population and fishery collapse. For this case study, we examined 15 years (2003–2018) of biological survey data on the bull kelp forest ecosystem—before, during, and after an extreme climate event. We document the interactions and complexity of impacts over time, as well as the resulting increased vulnerability of red abalone to additional anthropogenic, biological, and environmental stressors. We observed progressively stronger population-level responses of the red abalone to the marine heatwave and the regional loss of kelp, driving the movement of adults and juveniles in search of food. As food remained scarce, we documented the loss of productivity with diminished gonad and body condition, the absence of larval or newly-settled abalone, mass mortalities, and shoreward shifts in depth distributions. With 40% of the population dead or dying, juvenile and trophy-sized abalone abandoning cryptic habitats, the shift in the distribution to shallower depths increased the vulnerability of red abalone to the fishery. Other anthropogenic, biological, and climate-related stressors that disproportionately impact shallow habitats are now a growing concern for the survivors. For red abalone, previously unanticipated cascading risks include increased wave energy, warming air temperatures, freshwater flooding, landslides, as well as possible oil spills and harmful algal blooms. Climate-driven changes in vulnerability to fishing and environmental stressors present significant challenges for sustainable natural resource management in dynamic stressed systems, and underscore the need for continued system-focused monitoring. We present a conceptual framework supporting similar ecosystem investigations of recent and future climate impacts to inform adaptive ecosystem-based management strategies.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2022.908708/full"
+  },
+  {
+    "title": "<i>HESS Opinions</i> \"More efforts and scientific rigour are needed to attribute trends in flood time series\"",
+    "authors": [
+      "Y. Hundecha,",
+      "J. Delgado,",
+      "S. Uhlemann,",
+      "S. Vorogushyn,",
+      "B. Merz"
+    ],
+    "doi": "https://doi.org/10.5194/hess-16-1379-2012",
+    "journalVolume": "Vol. 16,\n                                no. 5\n                                \n                                  pp.\n                                  1379\n                                  – 1387",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "The question whether the magnitude and frequency of floods have changed due to climate change or other drivers of change is of high interest. The number of flood trend studies is rapidly rising. When changes are detected, many studies link the identified change to the underlying causes, i.e. they attribute the changes in flood behaviour to certain drivers of change. We propose a hypothesis testing framework for trend attribution which consists of essential ingredients for a sound attribution: evidence of consistency, evidence of inconsistency, and provision of confidence statement. Further, we evaluate the current state-of-the-art of flood trend attribution. We assess how selected recent studies approach the attribution problem, and to which extent their attribution statements seem defendable. In our opinion, the current state of flood trend attribution is poor. Attribution statements are mostly based on qualitative reasoning or even speculation. Typically, the focus of flood trend studies is the detection of change, i.e. the statistical analysis of time series, and attribution is regarded as an appendix: (1) flood time series are analysed by means of trend tests, (2) if a significant change is detected, a hypothesis on the cause of change is given, and (3) explanations or published studies are sought which support the hypothesis. We believe that we need a change in perspective and more scientific rigour: detection should be seen as an integral part of the more challenging attribution problem, and detection and attribution should be placed in a sound hypothesis testing framework.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/16/1379/2012/hess-16-1379-2012.pdf"
+  },
+  {
+    "title": "Impact of Global Climate Change on the Distribution Range and Niche Dynamics of <i>Eleutherodactylus planirostrish</i> in China",
+    "authors": [
+      "Chaosheng Mu,",
+      "Xuecheng Guo,",
+      "Youhua Chen"
+    ],
+    "doi": "https://doi.org/10.3390/biology11040588",
+    "journalVolume": "Vol. 11,\n                                no. 588\n                                \n                                  p.\n                                  588",
+    "issn": "2079-7737 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biology",
+    "abstract": "Species distribution models (SDMs) have become indispensable tools in risk assessment and conservation decision-making for invasive species. Eleutherodactylus planirostris has a strong dispersal ability, and the main route of introduction to new regions is likely transport via seedlings. This species is understood as one of the foremost successful invasive amphibian species with direct or indirect negative impacts in multiple regions. In this study, we used MaxEnt to assess suitable areas for this species under current and future climates globally and in China. We considered seven climatic variables, three timepoints (current, 2050, and 2070), and three CO2 emission scenarios. Annual mean temperature, precipitation of the driest month, and annual precipitation were the most important variables predicting E. planirostris occurrence. This species has a much larger suitable habitat area in China than reflected by the current distribution, so the species is likely to spread from the Pearl River Delta to surrounding areas. Under future warming, its invasive range will expand northward in China. In conclusion, this study assessed the risk of invasion of this species and made recommendations for management and prevention.",
+    "readLink": "https://www.mdpi.com/2079-7737/11/4/588"
+  },
+  {
+    "title": "Genetically Modified Rice Is Associated with Hunger, Health, and Climate Resilience",
+    "authors": [
+      "Kaori Kobayashi,",
+      "Xiaohui Wang,",
+      "Weiqun Wang"
+    ],
+    "doi": "https://doi.org/10.3390/foods12142776",
+    "journalVolume": "Vol. 12,\n                                no. 2776\n                                \n                                  p.\n                                  2776",
+    "issn": "2304-8158 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/foods",
+    "abstract": "While nearly one in nine people in the world deals with hunger, one in eight has obesity, and all face the threat of climate change. The production of rice, an important cereal crop and staple food for most of the world’s population, faces challenges due to climate change, the increasing global population, and the simultaneous prevalence of hunger and obesity worldwide. These issues could be addressed at least in part by genetically modified rice. Genetic engineering has greatly developed over the century. Genetically modified rice has been approved by the ISAAA’s GM approval database as safe for human consumption. The aim behind the development of this rice is to improve the crop yield, nutritional value, and food safety of rice grains. This review article provides a summary of the research data on genetically modified rice and its potential role in improving the double burden of malnutrition, primarily through increasing nutritional quality as well as grain size and yield. It also reviews the potential health benefits of certain bioactive components generated in genetically modified rice. Furthermore, this article discusses potential solutions to these challenges, including the use of genetically modified crops and the identification of quantitative trait loci involved in grain weight and nutritional quality. Specifically, a quantitative trait locus called grain weight on chromosome 6 has been identified, which was amplified by the Kasa allele, resulting in a substantial increase in grain weight and brown grain. An overexpressing a specific gene in rice, Oryza sativa plasma membrane H+-ATPase1, was observed to improve the absorption and assimilation of ammonium in the roots, as well as enhance stomatal opening and photosynthesis rate in the leaves under light exposure. Cloning research has also enabled the identification of several underlying quantitative trait loci involved in grain weight and nutritional quality. Finally, this article discusses the increasing threats of climate change such as methane–nitrous oxide emissions and global warming, and how they may be significantly improved by genetically modified rice through modifying a water-management technique. Taken together, this comprehensive review will be of particular importance to the field of bioactive components of cereal grains and food industries trying to produce high-quality functional cereal foods through genetic engineering.",
+    "readLink": "https://www.mdpi.com/2304-8158/12/14/2776"
+  },
+  {
+    "title": "Climate justice: air quality and transitions from solid fuel heating",
+    "authors": [
+      "Magdalena Baborska-Narozny,",
+      "Malgorzata Szulgowska-Zgrzywa,",
+      "Martyna Mokrzecka,",
+      "Agnieszka Chmielewska,",
+      "Natalia Fidorow-Kaprawy,",
+      "Ewelina Stefanowicz,",
+      "Krzysztof Piechurski,",
+      "Marta Laska"
+    ],
+    "doi": "https://doi.org/10.5334/bc.23",
+    "journalVolume": "Vol. 1,\n                                no. 1",
+    "issn": "2632-6655 (Online)",
+    "publisher": "Ubiquity Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Building construction: Architectural engineering. Structural engineering of buildings"
+    ],
+    "journalUrl": "https://journal-buildingscities.org/",
+    "abstract": "Of all the European Union’s member states, Poland has the most acute ambient air pollution problem. An urgent transition from solid-fuel heating ('e.g.' coal and wood) in the housing sector is required to improve air quality in the country. National regulations still allow the sale of solid fuels for heating, but some municipalities impose local resolutions with binding deadlines for solid-fuel bans. A real-world study covering 422 apartments in heritage tenements in Wrocław is presented. A link between domestic solid-fuel usage and tenure type is identified: solid fuels prevail in social housing. The transition to other forms of heating will adversely affect the inhabitants already vulnerable to fuel poverty. Solid fuel proves to be the least preferred heating option and is linked to substandard living conditions. Fuel poverty vulnerability for low-income households is established based on cost analysis for different heating options, thermal retrofit strategies, internal temperatures and apartment sizes. The results indicate that climate injustice is likely to occur for the poorest inhabitants due to their inability to afford increased costs. Policy implications to address this injustice are needed to ensure the transition from solid-fuel heating will avoid new vulnerabilities. 'Policy relevance' Domestic solid-fuel combustion for heating purposes is linked to poor air quality in urban areas in Poland. Heritage tenements are the most technically deprived building stock and their inhabitants are already vulnerable to fuel poverty. To improve air quality and respond to climate change, solid fuels need to be substituted with less polluting but more expensive heating options. Potential climate injustice (harm) is likely to occur if the poorest inhabitants cannot afford to heat their homes due to a ban on solid fuels. The change of heating needs to be combined with additional support (thermal retrofit and appropriate pricing of alternative fuels). Air quality-driven polices focused on solid-fuel eradication should not ignore fuel poverty already experienced mainly by social housing residents using expensive electric heating on a standard tariff. Fuel poverty has a gender aspect related to the gender pay gap that needs addressing.",
+    "readLink": "https://journal-buildingscities.org/articles/23"
+  },
+  {
+    "title": "Climate Compatible Development: Generating Co-Benefits from Climate Change Planning",
+    "authors": [
+      "Natalie Suckall,",
+      "Emma  L. Tompkins"
+    ],
+    "doi": "https://doi.org/10.3390/su12020496",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  p.\n                                  496",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Greenhouse gas emissions continue to rise, our climate continues to change, and people continue to adapt to new environments [...]",
+    "readLink": "https://www.mdpi.com/2071-1050/12/2/496"
+  },
+  {
+    "title": "An approach to cluster the research field of the food-energy-water nexus to determine modeling capabilities at different levels using text mining and cluster analysis",
+    "authors": [
+      "Reiner Braun,",
+      "Dieter Hertweck,",
+      "Ursula Eicker"
+    ],
+    "doi": "Vol. 7\n                                \n                                \n                                  p.\n                                  100101",
+    "issn": "2772-4271 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/energy-nexus",
+    "abstract": "The global demand for resources such as energy, land, or water is constantly increasing. It is therefore not surprising that research on the Food-Energy-Water (FEW) nexus has become a scientific as well as a general focus in recent years. A significant increase in publications since 2015 can be observed, and it can be expected that this trend will continue. A multilevel (macro, meso, and micro) perspective is essential, as the FEW nexus has cross-sectoral interdependencies. Several review studies on the FEW nexus can be found in the literature, in general, it can be concluded that the FEW nexus is a multi-disciplinary and complex topic. The studies examined identify essential fields of action for research, policy, and society. However, questions such as what are the main research fields at each level? Is it possible to divide the research into specific clusters? and do the clusters correlate with the levels, and what are the methods of modeling used in the clusters and levels? are still not fully discussed in the literature. An extensive literature review was conducted to get insight into the existing research areas. Especially in such fields as the FEW nexus, the amount of literature can get huge, and a human could get lost analyzing the literature manually. For that, we created word clouds and performed a cluster- and network-analysis to support the selection of most relevant papers for a detailed reading. In 2021, the most publications were published, with 173 publications, which corresponds to a share of 26.6 %. There has been a significant increase since 2015, and it can be expected that this trend will continue in the coming years. Most of the first authors come from the USA (25.4 %), followed by China with 22.4 %. From the word cloud and the top 20 words, which appear in the title and abstract, it can be deduced that the topic water is the most represented. However, the terms system, resource, model, study, change, development, and management also appear to be very important, which indicates the importance of a holistic approach to the topic. In total 9 clusters could be identified at the different levels. It can be seen that three clusters form well. For the others, a rather diffuse picture can be observed. In order to find out which topics are hidden behind the individual clusters, 6 publications from each cluster were subjected to a more detailed examination. With these steps, a number of 54 publications were identified for detailed consideration. The modeling approaches that are currently being applied in research can be classified into domain-specific tools (e. g. global water models, crop models or global climate models) and into more general tools to perform for example a life cycle analysis, spatial analysis using geographic information system, or system dynamics for a general understanding of the links between the domains. With the domain-specific tools, detailed research questions can be addressed to answer questions for a specific domain. However, these tools have the disadvantage that especially the links between the sectors food, energy, and water are not fully considered. Many implementations that are made today are at lowest level (micro) relate to bounded spatial areas and are derived from macro and meso level goals.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2772427122000638"
+  }
+]

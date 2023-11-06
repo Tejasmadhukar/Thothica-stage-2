@@ -1,0 +1,212 @@
+[
+  {
+    "title": "A pathogen's spatial range is not constrained by geographical features in the flax rust pathosystem",
+    "authors": [
+      "Keenan Duggal,",
+      "Ian Miller,",
+      "Juliana Jiranek,",
+      "Jessica Metcalf"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.10577",
+    "journalVolume": "Vol. 13,\n                                no. 10\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Climate change and shifting environmental conditions can allow pathogens to spread into previously unburdened areas. For plant pathogens, this dynamic has the potential to disrupt natural ecosystem equilibria and human agriculture, making predicting plant pathogen range shifts increasingly important. Although such predictions will hinge on an accurate understanding of the determinants of pathogen range—namely the environmental, geographical, and host range characteristics that modulate local pathogen habitation—few studies to date have probed these in natural plant populations. Here, we characterize range determinants for the model system of Lewis flax (Linum lewisii) and its pathogen, flax rust (Melampsora lini), in the Rocky Mountains. Transect surveys were performed to assess three relationships: (i) the effect of geographical features—elevation, slope aspect, slope grade, and land cover—on flax presence and density, (ii) the effect of geographical features on flax rust presence and prevalence, and (iii) the effects of flax's local population density and metapopulation structure on flax rust presence and prevalence. We found that flax population density, but not host metapopulation structure, influences the distribution of flax rust. Additionally, we showed that, while the distribution of flax was broadly constrained to a relatively narrow range of geographical and resulting environmental features, flax rust was evenly distributed across the full range of settings measured. These results indicate that a warming environment, which is expected to modulate such features, may restrict the optimal range of the plant more than that of its pathogen. Importantly, our results also suggest that even if flax shifts its spatial range to escape increasing climatic pressures, flax rust will not face any significant barriers to track this movement.",
+    "readLink": "https://doi.org/10.1002/ece3.10577"
+  },
+  {
+    "title": "Electricity Generation in Saudi Arabia: Tracing Opportunities and Challenges to Reducing Greenhouse Gas Emissions",
+    "authors": [
+      "Syed Masiur Rahman,",
+      "Fahad Saleh Mohammed Al-Ismail,",
+      "Md. Ershadul Haque,",
+      "Md. Shafiullah,",
+      "Md. Rashidul Islam,",
+      "Md. Tareq Chowdhury,",
+      "Md. Shafiul Alam,",
+      "Shaikh Abdur Razzak,",
+      "Amjad Ali,",
+      "Zaid Ahsan Khan"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2021.3105378",
+    "journalVolume": "Vol. 9\n                                \n                                \n                                  pp.\n                                  116163\n                                  – 116182",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "The electrical energy demand of the Kingdom of Saudi Arabia (KSA) has been observing a surging growth due to high population growth and urbanization rate. The generation mostly comes from the burning of petroleum products. The electricity sector emits more than one-third of the national greenhouse gas (GHG) of the country. Thus, it is essential to reduce the GHG from the electricity generation sector to maintain sustainability. This article mainly concentrates on the existing electricity generation and focuses on the Kingdom’s GHG emissions mitigation initiatives. Although the use of natural gas and the number of cogeneration plants have been increased in electricity generation, the country has also been focusing on other initiatives, including the adaptation of combined cycle power plants, carbon capture, utilization, and sequestration (CCUS), renewable and alternative energy sources, and various utility-scale energy efficiency measures. The ambitious and inspirational renewable energy (RE) targets of the Saudi Vision 2030 will significantly facilitate GHG emission avoidance, which will support the Kingdom to meet its Nationally Determined Contributions. This article recommends various mitigation measures, including the usage of the efficient internal combustion engine, poly-generation, combined heat and power (CHP) systems, deployment of renewable resources in the distribution and microgrid systems, bio-mass engine, and ocean thermal energy conversion plants. The decision-makers and the researchers will find the discussions and recommendations helpful in determining suitable and appropriate mitigation initiatives and technologies.",
+    "readLink": "https://ieeexplore.ieee.org/document/9514922/"
+  },
+  {
+    "title": "Multi-Temporal Remote Sensing Inversion of Evapotranspiration in the Lower Yangtze River Based on Landsat 8 Remote Sensing Data and Analysis of Driving Factors",
+    "authors": [
+      "Enze Song,",
+      "Xueying Zhu,",
+      "Guangcheng Shao,",
+      "Longjia Tian,",
+      "Yuhao Zhou,",
+      "Ao Jiang,",
+      "Jia Lu"
+    ],
+    "doi": "https://doi.org/10.3390/rs15112887",
+    "journalVolume": "Vol. 15,\n                                no. 2887\n                                \n                                  p.\n                                  2887",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Analysis of the spatial and temporal variation patterns of surface evapotranspiration is important for understanding global climate change, promoting scientific deployment of regional water resources, and improving crop yield and water productivity. Based on Landsat 8 OIL_TIRS data and remote sensing image data of the lower Yangtze River urban cluster for the same period of 2016–2021, combined with soil and meteorological data of the study area, this paper constructed a multiple linear regression (MLR) model and an extreme learning machine (ELM) inversion model with evapotranspiration as the target and, based on the model inversion, quantitatively and qualitatively analyzed the spatial and temporal variability in surface evapotranspiration in the study area in the past six years. The results show that both models based on feature factors and spectral indices obtained a good inversion accuracy, with the fusion of feature factors effectively improving the inversion ability of the model for ET. The best model for ET in 2016, 2017, and 2021 was MLR, with an R2 greater than 0.8; the best model for ET in 2018–2019 was ELM, with an R2 of 0.83 and 0.62, respectively. The inter-annual ET in the study area showed a “double-peak” dynamic variation, with peaks in 2018 and 2020; the intra-annual ET showed a single-peak cycle, with peaks in July–August. Seasonal differences were obvious, and spatially high-ET areas were mainly found in rural areas north of the Yangtze River and central and western China where agricultural land is concentrated. The net solar radiation, soil heat flux, soil temperature and humidity, and fractional vegetation cover all had significant positive effects on ET, with correlation coefficients ranging from 0.39 to 0.94. This study can provide methodological and scientific support for the quantitative and qualitative estimation of regional ET.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/11/2887"
+  },
+  {
+    "title": "Evaluation of genetic polymorphism and drought and salinity tolerance of Amaranthus cruentus L. mutants",
+    "authors": [
+      "Ragida M. Taipova,",
+      "Khalit G. Musin,",
+      "Karina P. Gainullina,",
+      "Bulat R. Kuluev"
+    ],
+    "doi": "https://doi.org/10.21685/2307-9150-2023-2-6",
+    "journalVolume": "no. 2",
+    "issn": "2307-9150 (Print)",
+    "publisher": "Penza State University Publishing House",
+    "countryOfPublisher": "Russian Federation",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://izvuz_est_eng.pnzgu.ru/",
+    "abstract": "Background. Drought and salinization are serious environmental problems in agriculture. Therefore, it is important to grow cultivated plants resistant to abiotic environmental factors in the fields. Due to its high nutritional value and adaptation to diverse environmental conditions, amaranth is considered a promising crop for cultivation, including in arid zones. In connection with modern climate change, the urgency of breeding more stressresistant amaranth varieties is increasing.The purpose of the study is to assess the genetic diversity and stress resistance of mutant forms of red amaranth Amaranthus cruentus L. obtained using sodium azide. Materials and methods. Using microsatellite markers at three SSR loci, the molecular genetic polymorphism of seven mutant forms of amaranth generation M3 was evaluated. According to SSR markers GB-AM-132 and GB-AM-137, mutant plants did not differ from each other and from the wild type. Using the SSR marker GBAM-099, three alleles with three combinations of them were identified among the analyzed mutant plants. Results. According to the results of morphophysiological analysis under conditions of abiotic stress, one of the mutant lines during drought had the best indicator of the relative water content, was characterized by the highest results in terms of stem height and biomass, and in these mutants an increase in the activity of ascorbate peroxidases and glutathione-S-transferases was recorded, compared with wild type. The results obtained indicate a high drought resistance of this mutant line. Another mutant line showed high salt tolerance. Thus, under saline conditions, these mutants were characterized by an increased stem height, an increase in the total antioxidant capacity, as well as an increase in the activities of ascorbate peroxidases and glutathione-S-transferases compared to the wild type. Conclusions. Thus, as a result of our study, mutant forms of amaranth were identified that are resistant to lack of water and excessive salt content in the soil. These forms of amaranth can be used as a material for breeding of stress-resistant varieties.",
+    "readLink": "https://doi.org/10.21685/2307-9150-2023-2-6"
+  },
+  {
+    "title": "Daily, seasonal, and annual variability of temperature in streams inhabited by the endemic San Pedro Martir trout (Oncorhynchus mykiss nelsoni), in Baja California, Mexico, and the predicted temperature for the years 2025 and 2050",
+    "authors": [
+      "Iván Alejandro Meza-Matty,",
+      "Gorgonio Ruiz-Campos,",
+      "Luis Walter Daesslé,",
+      "Arturo Ruiz-Luna,",
+      "Álvaro Alberto López-Lambraño,",
+      "Faustino Camarena-Rosales,",
+      "Kathleen R. Matthews"
+    ],
+    "doi": "https://doi.org/10.4081/jlimnol.2021.2001",
+    "journalVolume": "Vol. 80,\n                                no. 2",
+    "issn": "1129-5767 (Print)",
+    "publisher": "1723-8633 (Online)",
+    "countryOfPublisher": "PAGEPress Publications",
+    "lcc": [
+      "Italy",
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.jlimnol.it",
+    "abstract": "The present study measured the daily, seasonal, and annual variability of the water temperature of streams in which the endemic rainbow trout, Oncorhynchus mykiss nelsoni, is distributed on the western slope of the Sierra San Pedro Mártir, Baja California, Mexico, between 1996 and 2019. The seasonal thermal interval and daily duration of summer temperatures above the thermal threshold for this trout subspecies (≥ 28°C) were determined in streams at different elevations (553, 1,220, and 2,080 masl, or meters above sea level). Temperatures ≥ 28°C were recorded at the study site on the stream with the lowest elevation (San Antonio de Murillos Creek) over an accumulated 365 h between June and September 2014, with the maximum temperature recorded there, 30.66 °C, making it the site most vulnerable to climate change. At the San Antonio de Murillos Creek, the average water temperature predicted by three models (GFDL R30, HadCM3, and Mote) for the year 2025 would be a non-lethal temperature, < 28 °C, for trout at a minimum elevation of 491-511 masl, while this was predicted to be 545-701 masl for the year 2050. Predicted hourly water temperatures of 28°C (non-lethal) may occur at minimum elevations of 868-898 masl in 2025 and at 908-1028 masl in 2050, reducing a 21-23% and 23-31% its current altitudinal distribution range, respectively, thus avoiding its presence at the type locality (San Antonio de Murillos).",
+    "readLink": "https://www.jlimnol.it/index.php/jlimnol/article/view/2001"
+  },
+  {
+    "title": "The increasing pediatric stone disease problem",
+    "authors": [
+      "Douglass B. Clayton,",
+      "John C. Pope"
+    ],
+    "doi": "https://doi.org/10.1177/1756287211400491",
+    "journalVolume": "Vol. 3",
+    "issn": "1756-2872 (Print)",
+    "publisher": "1756-2880 (Online)",
+    "countryOfPublisher": "SAGE Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Medicine: Internal medicine: Specialties of internal medicine: Diseases of the genitourinary system. Urology"
+    ],
+    "journalUrl": "https://journals.sagepub.com/home/tau",
+    "abstract": "While once thought to be relatively rare in developed nations, the prevalence of pediatric urolithiasis appears to be increasing, and a number of factors may be contributing to this increase. Many theories are plausible and such theories include the increasing childhood obesity epidemic, a changing sex predilection, climate change, alterations in dietary habits and improving diagnostic modalities. Yet, unlike adult patients, rigorous epidemiologic studies do not exist in pediatric populations. Thus, in the setting of an increasing prevalence of childhood stone disease, improved research is critical to the development of uniform strategies for pediatric urolithiasis management.",
+    "readLink": "https://doi.org/10.1177/1756287211400491"
+  },
+  {
+    "title": "A review of transactional sex for natural resources: Under-researched, overstated, or unique to fishing economies?",
+    "authors": [
+      "Kathryn J. Fiorella,",
+      "Pooja Desai,",
+      "Joshua D. Miller,",
+      "Nicky O. Okeyo,",
+      "Sera L. Young"
+    ],
+    "doi": "https://doi.org/10.1080/17441692.2019.1625941",
+    "journalVolume": "Vol. 14,\n                                no. 12\n                                \n                                  pp.\n                                  1803\n                                  – 1814",
+    "issn": "1744-1692 (Print)",
+    "publisher": "1744-1706 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.tandfonline.com/RGPH",
+    "abstract": "Environmental change is projected to decrease the availability of key natural resources. Decreasing availability of resources that support food security and livelihoods for vulnerable populations is hypothesised to increase engagement in transactional sex. Therefore, we systematically examined the peer-reviewed literature to characterise what is known about transactional sex for natural resources, document the natural resources that are exchanged for sex, and identify qualitative trends. Of the 1063 articles, 33 were retained for full abstraction. A majority of articles were published after 2005 (93%) and focused on Africa (90%). Two-thirds of articles focused on sex-for-fish exchanges. Reports of transactional sex were also found for other resources, including agricultural land (12%) as well as food, water, and fuel in emergency contexts (12%). Migration and altered resource availability were described as underlying causes of transactional sex. Some studies described an increased risk of sexually transmitted infection, including HIV, as a health consequence of transactional sex. We offer three possible explanations for why the preponderance of previous studies have focused on sex-for-fish rather than other natural resources, and suggest directions for future research.",
+    "readLink": "http://dx.doi.org/10.1080/17441692.2019.1625941"
+  },
+  {
+    "title": "Flood Risk and Spatial Quality",
+    "authors": [
+      "Anne Loes Nillesen"
+    ],
+    "doi": "https://doi.org/10.7480/abe.2019.1.3738",
+    "journalVolume": "Vol. 9,\n                                no. 1",
+    "issn": "2212-3202 (Print)",
+    "publisher": "2214-7233 (Online)",
+    "countryOfPublisher": "Delft University of Technology",
+    "lcc": [
+      "Netherlands",
+      "Fine Arts: Architecture"
+    ],
+    "journalUrl": "http://abe.tudelft.nl/",
+    "abstract": "This book chapter describes the current practice with regard to combined approaches for flood risk management and spatial quality enhancement in the Netherlands. Currently, there is a requirement to extend the current flood risk system because of increased flood risk (caused by climate change and increased investments in the protected area) and new insights with regard to acceptable risks. Flood risk measures nowadays need to be implemented in a context in which local stakeholders emphasise aspects such as spatial quality and ecology. In this contemporary context, we see interesting developments with regard to combined approaches for flood risk protection, such as, for instance, the experimental flood proof building programme, the ‘building with nature’ concept (in which natural principles are employed for flood risk protection), the atelier for coastal quality (that as part of the Delta Programme developed integrated designs for coastal protection and quality) and the ‘Room for the River’ project (in which, as an alternative to dike reinforcement, the water load is reduced by creating extra space for the river to expand). For this research, the ‘Room for the River’ project is an important reference. Within the project, which aims to address more extreme river discharges, spatial quality is an important secondary objective. Next to the availability of extra budgets, a ‘Quality Team’ was established to supervise the inclusion of spatial quality objectives. The project addressed the growing resistance against the elevation of traditionallybuilt levees, by offering an alternative option of lowering the water levels by improving the flow capacity of the river (for example, by creating a bypass to widen the river). Within the development of the combined method for flood risk and spatial quality, different aspects have been inspired or based on the ‘Room for the River’ approach. Among such aspects are the dual flood risk and spatial quality objective, the principle of providing alternative options for flood risk management interventions, and the inclusion of a spatial quality assessment.",
+    "readLink": "https://journals.open.tudelft.nl/abe/article/view/3738"
+  },
+  {
+    "title": "Linking air pollution and administrative health databases to examine health effects of wildfire smoke exposure in Calgary, Canada in 2015",
+    "authors": [
+      "Md Mahsin,",
+      "Jason Cabaj,",
+      "Vineet Saini"
+    ],
+    "doi": "https://doi.org/10.23889/ijpds.v3i4.674",
+    "journalVolume": "Vol. 3,\n                                no. 4",
+    "issn": "2399-4908 (Online)",
+    "publisher": "Swansea University",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Social Sciences: Economic theory. Demography: Demography. Population. Vital events"
+    ],
+    "journalUrl": "https://ijpds.org",
+    "abstract": "Introduction Wildfires are increasing in frequency and severity due to climate change. Fine particulate matter (PM2.5) in wildfire smoke is an important indicator of health effects of most combustion sources. The evidence based on adverse health impacts of PM2.5 from wildfire smoke are increasingly being studied but some gaps still remain. Objectives and Approach We examined the association of PM2.5 from Pacific Northwest wildfires with multiple respiratory and cardiovascular morbidity events related physician and emergency department visits, hospital admissions, health-link calls and medications dispensed among Calgary city population from August 1 – September 30, 2015. Physician billing claims, discharge abstract, Pharmaceutical Information Network, Health-link calls databases were linked with the air quality monitoring information database. Quasi-Poisson regression model for time lags of zero to five days and a three-day moving average, and conditional logistic regression model was used with adjustment for air pollutants and meteorological variables. Age and disease-specific stratified analyses were performed. Results Compared to the pre-wildfire period (Aug 1 – Aug 23), a 10 µg/m3 increase in PM2.5 increased the risk for respiratory physician visits by 54.8% (95% CI: 41.6% - 69.3%) and 32.6% (95% CI: 10.4% - 58.9%) in the respective post (Sep 1- Sep 30) and during (Aug 24 – Aug 31) wildfire periods. The strongest association of PM2.5 with respiratory physician visits was observed for children aged 0-9 years in the post-wildfire period (Relative Risk [RR] = 2.11, 95% CI: 1.86 - 2.39) compared to during wildfire period (RR = 1.56, 95% CI: 1.21 - 2.02) and was consistent for asthma, acute bronchitis and acute respiratory infection. Statistically significant effects of PM2.5 on cardiovascular hospitalizations, ED and physician visits were not observed during the wildfire period. Conclusion/Implications Wildfire-related PM2.5 led to increased physician visits due to respiratory morbidity during and after the wildfires, particularly for asthma, acute bronchitis and acute respiratory infections in children. The absence of cardiovascular health impact in general population during wildfires provides useful information for targeted public health messaging during adverse air quality events.",
+    "readLink": "https://ijpds.org/article/view/674"
+  },
+  {
+    "title": "Brazil, Foreign Policy and Climate Change (1992-2005)",
+    "authors": [
+      "Christopher Kurt Kiessling"
+    ],
+    "doi": "https://doi.org/10.1590/s0102-8529.2018400200004",
+    "journalVolume": "Vol. 40,\n                                no. 2\n                                \n                                  pp.\n                                  387\n                                  – 408",
+    "issn": "0102-8529 (Print)",
+    "publisher": "1982-0240 (Online)",
+    "countryOfPublisher": "Pontifícia Universidade Católica do Rio de Janeiro",
+    "lcc": [
+      "Brazil",
+      "Political science: International relations"
+    ],
+    "journalUrl": "https://www.scielo.br/j/cint/",
+    "abstract": "Abstract Since the emergence of the environmental agenda in the global arena, Brazil has maintained an active position in the debates around this topic. Although Brazil has always been a protagonist, its foreign policy has shown some changes in relation to addressing climate change in recent years. Likewise, the modalities under which this issue has been framed as a problem since 1992 are fundamentally important to interpreting the Brazilian position in international negotiations and the changes in them over the years. The objective of the following article is to understand the discursive framework on which the foreign policy of climate change in Brazil was structured from a constructivist standpoint on International Relations. Using this approach, this article studies both the international influences and the internal conditions of Brazilian climate policy in the negotiations of the United Nations Framework Convention on Climate Change (UNFCCC). The main sources of this research are semi-structured interviews with state and non-state actors in Brazil, complemented with a review of secondary sources such as official documents and academic papers.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-85292018000200387&lng=en&tlng=en"
+  }
+]

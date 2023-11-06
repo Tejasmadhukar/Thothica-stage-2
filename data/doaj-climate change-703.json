@@ -1,0 +1,220 @@
+[
+  {
+    "title": "An Improved YOLOv5s-Seg Detection and Segmentation Model for the Accurate Identification of Forest Fires Based on UAV Infrared Image",
+    "authors": [
+      "Kunlong Niu,",
+      "Chongyang Wang,",
+      "Jianhui Xu,",
+      "Chuanxun Yang,",
+      "Xia Zhou,",
+      "Xiankun Yang"
+    ],
+    "doi": "https://doi.org/10.3390/rs15194694",
+    "journalVolume": "Vol. 15,\n                                no. 4694\n                                \n                                  p.\n                                  4694",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "With the influence of climate change and human activities, the frequency and scale of forest fires have been increasing continuously, posing a significant threat to the environment and human safety. Therefore, rapid and accurate forest fire detection has become essential for effective control of forest fires. This study proposes a Forest Fire Detection and Segmentation Model (FFDSM) based on unmanned aerial vehicle (UAV) infrared images to address the problems of forest fire occlusion and the poor adaptability of traditional forest fire detection methods. The FFDSM integrates the YOLO (You Only Look Once) v5s-seg, Efficient Channel Attention (ECA), and Spatial Pyramid Pooling Fast Cross-Stage Partial Channel (SPPFCSPC) to improve the detection accuracy of forest fires of different sizes. The FFDSM enhances the detection and extraction capabilities of forest fire features, enabling the accurate segmentation of forest fires of different sizes and shapes. Furthermore, we conducted ablation and controlled experiments on different attention mechanisms, spatial pyramid pooling (SPP) modules, and fire sizes to verify the effectiveness of the added modules and the adaptability of the FFDSM model. The results of the ablation experiment show that, compared to the original YOLOv5s-seg model, the models fused with the ECA and SPPFCSPC achieve an improved accuracy, with FFDSM showing the greatest improvement. FFDSM achieves a 2.1% increase in precision, a 2.7% increase in recall, a 2.3% increase in mAP@0.5, and a 4.2% increase in mAP@0.5:0.95. The results of the controlled experiments on different attention mechanisms and SPP modules demonstrate that the ECA+SPPFCSPC model (FFDSM) performs the best, with a precision, recall, mAP@0.5, and mAP@0.5:0.95 reaching 0.959, 0.870, 0.907, and 0.711, respectively. The results of the controlled experiment on different fire sizes show that FFDSM outperforms YOLOv5s-seg for all three fire sizes, and it performs the best for small fires, with a precision, recall, mAP@0.5, and mAP@0.5:0.95 reaching 0.989, 0.938, 0.964, and 0.769, respectively, indicating its good adaptability for early forest fire detection. The results indicate that the forest fire detection model based on UAV infrared images (FFDSM) proposed in this study exhibits a high detection accuracy. It is proficient in identifying obscured fires in optical images and demonstrates good adaptability in various fire scenarios. The model effectively enables real-time detection and provides early warning of forest fires, providing valuable support for forest fire prevention and scientific decision making.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/19/4694"
+  },
+  {
+    "title": "Adaptation Strategy of Seaweed Cultivation  to Face the Climate Change (Case Study in Segoro Anakan Bay Ngadirojo, Pacitan)",
+    "authors": [
+      "Syahrial Nur Amri,",
+      "Taslim Arifin"
+    ],
+    "doi": "Vol. 30,\n                                no. 1\n                                \n                                  pp.\n                                  34\n                                  – 44",
+    "issn": "0852-0682 (Print)",
+    "publisher": "2460-3945 (Online)",
+    "countryOfPublisher": "Universitas Muhammadiyah Surakarta",
+    "lcc": [
+      "Indonesia",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://journals.ums.ac.id/index.php/fg/index",
+    "abstract": "The damage of coastal ecosystems are no longer dominated by human activity, but the condition of global climate change were also influenced. Climate change impact on the environment influencing the coastal management paradigm. This study emphasizes on how to develop a adaptation strategy of coastal zone management due to the impact of climate change through remote sensing approach, Geographic Information Systems (GIS), and adaptation strategies analysis. Location of research conducted in the Region of Segoro Anakan Bay, District Ngadirojo Pacitan. The results showed the impact of climate change is affecting the area and production of seaweed culture in the form of tectonic conditions aggravated by silting waters. To combat the effects of climate change, the adaptation scenario is implemented to intensification and extensification of land use, alternative livelihoods, minawisata as a combination of all three.",
+    "readLink": "http://journals.ums.ac.id/index.php/fg/article/view/1114"
+  },
+  {
+    "title": "The Meaning of Links: On the interpretation of hyperlinks in the study of polarization in blogging about climate change",
+    "authors": [
+      "Elgesem Dag"
+    ],
+    "doi": "https://doi.org/10.2478/nor-2019-0014",
+    "journalVolume": "Vol. 40,\n                                no. s1\n                                \n                                  pp.\n                                  65\n                                  – 78",
+    "issn": "2001-5119 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Language and Literature: Philology. Linguistics: Communication. Mass media"
+    ],
+    "journalUrl": "https://sciendo.com/journal/NOR?tab=aims-scope",
+    "abstract": "This article explores the potential and challenges of using hyperlinks as data through a study of polarization in English language blogs about climate change. The purpose of this research is to provide an interpretation of the meaning of the hyperlinks in climate change blogs by coding the functions that the links perform in the given blog posts. Beginning with a set of more than 500,000 blog posts about climate change, we focus on bloggers who actively link to highly visible sources that advocate, respectively, the denial or acceptance of the consensus view on anthropogenic climate change. We find that the bloggers in our sample predominantly link to sources that they agree with and that, if they link to a source with different opinions, the link is part of negative criticism of the targeted source. We argue that, by considering the functions of the links in the blog posts, we obtain a more nuanced understanding of the extent to which the discussion in the blogs is polarized.",
+    "readLink": "https://doi.org/10.2478/nor-2019-0014"
+  },
+  {
+    "title": "Characterizing the Efficacy of a Film-Forming Antitranspirant on Raspberry Foliar and Fruit Transpiration",
+    "authors": [
+      "Francesca  J. Moroni,",
+      "Pedro  J. Gascon-Aldana,",
+      "Suzy  Y. Rogiers"
+    ],
+    "doi": "https://doi.org/10.3390/biology9090255",
+    "journalVolume": "Vol. 9,\n                                no. 255\n                                \n                                  p.\n                                  255",
+    "issn": "2079-7737 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biology",
+    "abstract": "The film-forming antitranspirant, di-1-p-menthene, is able to reduce transpiration in a number of crops, potentially resulting in water savings and improved productivity. The success of the response is, however, dependent on genotype and environmental factors. We aimed to assess the efficacy of this natural terpene polymer on red raspberry (Rubus idaeus, L.) cv. Tulameen leaf water-use efficiency across a 25–40 °C temperature range under controlled conditions. The film reduced transpiration (E) and was most effective when applied to the lower leaf surface. Leaf net assimilation (A) and stomatal conductance (g) were also curtailed after the application of di-1-p-menthene, and as a consequence intrinsic transpiration efficiency (A/g) and instantaneous transpiration efficiency (ratio of net carbon fixation to water loss, A/E) did not improve. At 40 °C, gas exchange of both treated and untreated leaves was minimal due to stomatal closure. The antitranspirant was effective at reducing water loss from berries, but only at the immature stages when transpiration rates were naturally high. Further studies are required to determine if the antitranspirant, di-1-p-menthene, will offer protection against dehydration across a range of temperatures and if productivity and berry composition will benefit.",
+    "readLink": "https://www.mdpi.com/2079-7737/9/9/255"
+  },
+  {
+    "title": "Urbanization effect on precipitation over the Pearl River Delta based on CMORPH data",
+    "authors": [
+      "Sheng Chen,",
+      "Wei-Biao Li,",
+      "Yao-Dong Du,",
+      "Cheng-Yan Mao,",
+      "Lan Zhang"
+    ],
+    "doi": "https://doi.org/10.1016/j.accre.2015.08.002",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  16\n                                  – 22",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "Based on the satellite data from the Climate Prediction Center morphing (CMORPH) at very high spatial and temporal resolution, the effects of urbanization on precipitation were assessed over the Pearl River Delta (PRD) metropolitan regions of China. CMORPH data well estimates the precipitation features over the PRD. Compared to the surrounding rural areas, the PRD urban areas experience fewer and shorter precipitation events with a lower precipitation frequency (ratio of rainy hours, about 3 days per year less); however, short-duration heavy rain events play a more significant role over the PRD urban areas. Afternoon precipitation is much more pronounced over the PRD urban areas than the surrounding rural areas, which is probably because of the increase in short-duration heavy rain over urban areas.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927815000416"
+  },
+  {
+    "title": "Modeling agriculture in the Community Land Model",
+    "authors": [
+      "B. Drewniak,",
+      "J. Song,",
+      "J. Prell,",
+      "V. R. Kotamarthi,",
+      "R. Jacob"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-6-495-2013",
+    "journalVolume": "Vol. 6,\n                                no. 2\n                                \n                                  pp.\n                                  495\n                                  – 515",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "The potential impact of climate change on agriculture is uncertain. In addition, agriculture could influence above- and below-ground carbon storage. Development of models that represent agriculture is necessary to address these impacts. We have developed an approach to integrate agriculture representations for three crop types – maize, soybean, and spring wheat – into the coupled carbon–nitrogen version of the Community Land Model (CLM), to help address these questions. Here we present the new model, CLM-Crop, validated against observations from two AmeriFlux sites in the United States, planted with maize and soybean. Seasonal carbon fluxes compared well with field measurements for soybean, but not as well for maize. CLM-Crop yields were comparable with observations in countries such as the United States, Argentina, and China, although the generality of the crop model and its lack of technology and irrigation made direct comparison difficult. CLM-Crop was compared against the standard CLM3.5, which simulates crops as grass. The comparison showed improvement in gross primary productivity in regions where crops are the dominant vegetation cover. Crop yields and productivity were negatively correlated with temperature and positively correlated with precipitation, in agreement with other modeling studies. In case studies with the new crop model looking at impacts of residue management and planting date on crop yield, we found that increased residue returned to the litter pool increased crop yield, while reduced residue returns resulted in yield decreases. Using climate controls to signal planting date caused different responses in different crops. Maize and soybean had opposite reactions: when low temperature threshold resulted in early planting, maize responded with a loss of yield, but soybean yields increased. Our improvements in CLM demonstrate a new capability in the model – simulating agriculture in a realistic way, complete with fertilizer and residue management practices. Results are encouraging, with improved representation of human influences on the land surface and the potentially resulting climate impacts.",
+    "readLink": "http://www.geosci-model-dev.net/6/495/2013/gmd-6-495-2013.pdf"
+  },
+  {
+    "title": "High-resolution glacial and deglacial record of atmospheric methane by continuous-flow and laser spectrometer analysis along the NEEM ice core",
+    "authors": [
+      "J. Chappellaz,",
+      "C. Stowasser,",
+      "T. Blunier,",
+      "D. Baslev-Clausen,",
+      "E. J. Brook,",
+      "R. Dallmayr,",
+      "X. Faïn,",
+      "J. E. Lee,",
+      "L. E. Mitchell,",
+      "O. Pascual,",
+      "D. Romanini,",
+      "J. Rosen,",
+      "S. Schüpbach"
+    ],
+    "doi": "https://doi.org/10.5194/cp-9-2579-2013",
+    "journalVolume": "Vol. 9,\n                                no. 6\n                                \n                                  pp.\n                                  2579\n                                  – 2593",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "The Greenland NEEM (North Greenland Eemian Ice Drilling) operation in 2010 provided the first opportunity to combine trace-gas measurements by laser spectroscopic instruments and continuous-flow analysis along a freshly drilled ice core in a field-based setting. We present the resulting atmospheric methane (CH4) record covering the time period from 107.7 to 9.5 ka b2k (thousand years before 2000 AD). Companion discrete CH4 measurements are required to transfer the laser spectroscopic data from a relative to an absolute scale. However, even on a relative scale, the high-resolution CH4 data set significantly improves our knowledge of past atmospheric methane concentration changes. New significant sub-millennial-scale features appear during interstadials and stadials, generally associated with similar changes in water isotopic ratios of the ice, a proxy for local temperature. In addition to the midpoint of Dansgaard–Oeschger (D/O) CH4 transitions usually used for cross-dating, sharp definition of the start and end of these events brings precise depth markers (with ±20 cm uncertainty) for further cross-dating with other palaeo- or ice core records, e.g. speleothems. The method also provides an estimate of CH4 rates of change. The onsets of D/O events in the methane signal show a more rapid rate of change than their endings. The rate of CH4 increase associated with the onsets of D/O events progressively declines from 1.7 to 0.6 ppbv yr−1 in the course of marine isotope stage 3. The largest observed rate of increase takes place at the onset of D/O event #21 and reaches 2.5 ppbv yr−1.",
+    "readLink": "http://www.clim-past.net/9/2579/2013/cp-9-2579-2013.pdf"
+  },
+  {
+    "title": "Sensitivity analysis and calibration of a soil carbon model (SoilGen2) in two contrasting loess forest soils",
+    "authors": [
+      "Y. Y. Yu,",
+      "P. A. Finke,",
+      "H. B. Wu,",
+      "Z. T. Guo"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-6-29-2013",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  29\n                                  – 44",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "To accurately estimate past terrestrial carbon pools is the key to understanding the global carbon cycle and its relationship with the climate system. SoilGen2 is a useful tool to obtain aspects of soil properties (including carbon content) by simulating soil formation processes; thus it offers an opportunity for both past soil carbon pool reconstruction and future carbon pool prediction. In order to apply it to various environmental conditions, parameters related to carbon cycle process in SoilGen2 are calibrated based on six soil pedons from two typical loess deposition regions (Belgium and China). Sensitivity analysis using the Morris method shows that decomposition rate of humus (<i>k</i><sub>HUM</sub>), fraction of incoming plant material as leaf litter (fr<sub>ecto</sub>) and decomposition rate of resistant plant material (<i>k</i><sub>RPM</sub>) are the three most sensitive parameters that would cause the greatest uncertainty in simulated change of soil organic carbon in both regions. According to the principle of minimizing the difference between simulated and measured organic carbon by comparing quality indices, the suited values of <i>k</i><sub>HUM</sub>, (fr<sub>ecto</sub> and <i>k</i><sub>RPM</sub> in the model are deduced step by step and validated for independent soil pedons. The difference of calibrated parameters between Belgium and China may be attributed to their different vegetation types and climate conditions. This calibrated model allows more accurate simulation of carbon change in the whole pedon and has potential for future modeling of carbon cycle over long timescales.",
+    "readLink": "http://www.geosci-model-dev.net/6/29/2013/gmd-6-29-2013.pdf"
+  },
+  {
+    "title": "Potentials of Gas Emission Reduction (GHG) by the Glass Sheet Industry through Energy Conservation",
+    "authors": [
+      "Purba Washington,",
+      "Yandri Erkata,",
+      "Hendroko Setyobudi Roy,",
+      "Susanto Hery,",
+      "Krido Wahono Satriyo,",
+      "Siregar Kiman,",
+      "Adhi Nugroho Yogo,",
+      "Yaro Abubakar,",
+      "Abdullah Kamaruddin,",
+      "Jani Yahya,",
+      "Faturahman Danny"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202122600047",
+    "journalVolume": "Vol. 226\n                                \n                                \n                                  p.\n                                  00047",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Sheet Glass Industry is one industry that uses 75 % natural gas energy and 25 % electricity. Using the Intergovernmental Panel on Climate Change, IPCC-2006 emission calculation method, the average greenhouses gas (GHG) emissions obtained from the calcination process obtained 112 211 t CO2 yr–1 per plant and an average emission factor (EFkl) of 0.18 CO2 t–1 yr–1 of pull. With the technology of converting heat into electrical energy, residual combustion as flue gases has the potential to be used to produce electrical energy. Referring to the analysis and calculation; one of factories has potential to generate 0.8 MW to 3 MW electric energy. It’s efficiency of 10 % to 40 % so that it can be calculated as a component of GHG emission reductions whose value is 4.6 t CO2 yr–1 to 18.7 t CO2 yr–1 per plant. With this reduction, each of the GHG emission and emission factors per plant dropped to 93 442 t CO2 yr–1 and 0.16 CO2 t-pull–1.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/02/e3sconf_icon-beat2019_00047.pdf"
+  },
+  {
+    "title": "New paradigm in the economic literature on global warming",
+    "authors": [
+      "Miguel Cuerdo-Mir,",
+      "Raquel Ibar-Alonso"
+    ],
+    "doi": "Vol. 9,\n                                no. 7\n                                \n                                  p.\n                                  e17715",
+    "issn": "2405-8440 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.cell.com/heliyon/home",
+    "abstract": "This study examines how international agreements (especially the 1992 Rio Summit, the 1997 Kyoto Protocol, and the 2015 Paris Agreement) on climate change have fueled rampant economic literature worldwide. However, it has not been systematically classified or distinguished from the more traditional studies in this field. Hence, we use a scientometric analysis using four different approaches: natural language processing (NLP), citation analysis, co-citation network analysis, and content analysis. We conduct an ambitious Boolean search of 30 terms in Scopus and use NLP, along with unsupervised statistical learning techniques and content analysis to classify and analyze 2400 of the most relevant studies in this field. As such, independent results are complementary. We provide novel literature by mapping four major clusters: climate change corporate, climate finance, climate capitalism, and climate gateway belief.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S240584402304923X"
+  }
+]

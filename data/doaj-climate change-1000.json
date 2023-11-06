@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Temperature during larval development and adult maintenance influences the survival of Anopheles gambiae s.s.",
+    "authors": [
+      "Céline Christiansen-Jucht,",
+      "Paul E Parham,",
+      "Adam Saddler,",
+      "Jacob C Koella,",
+      "María-Gloria Basáñez"
+    ],
+    "doi": "https://doi.org/10.1186/s13071-014-0489-3",
+    "journalVolume": "Vol. 7,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "1756-3305 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "https://parasitesandvectors.biomedcentral.com/",
+    "abstract": "Abstract Background Malaria transmission depends on vector life-history parameters and population dynamics, and particularly on the survival of adult Anopheles mosquitoes. These dynamics are sensitive to climatic and environmental factors, and temperature is a particularly important driver. Data currently exist on the influence of constant and fluctuating adult environmental temperature on adult Anopheles gambiae s.s. survival and on the effect of larval environmental temperature on larval survival, but none on how larval temperature affects adult life-history parameters. Methods Mosquito larvae and pupae were reared individually at different temperatures (23 ± 1°C, 27 ± 1°C, 31 ± 1°C, and 35 ± 1°C), 75 ± 5% relative humidity. Upon emergence into imagoes, individual adult females were either left at their larval temperature or placed at a different temperature within the range above. Survival was monitored every 24 hours and data were analysed using non-parametric and parametric methods. The Gompertz distribution fitted the survivorship data better than the gamma, Weibull, and exponential distributions overall and was adopted to describe mosquito mortality rates. Results Increasing environmental temperature during the larval stages decreased larval survival (p 0.05), but an 8°C increase did (p < 0.05). The effect of a 4°C increase in larval temperature from 27°C to 31°C depended on the adult environmental temperature. The data also suggest that differences between the temperatures of the larval and adult environments affects adult mosquito survival. Conclusions Environmental temperature affects Anopheles survival directly during the juvenile and adult stages, and indirectly, since temperature during larval development significantly influences adult survival. These results will help to parameterise more reliable mathematical models investigating the potential impact of temperature and global warming on malaria transmission.",
+    "readLink": "https://doi.org/10.1186/s13071-014-0489-3"
+  },
+  {
+    "title": "Systematic investigation of gridding-related scaling effects on annual statistics of daily temperature and precipitation maxima: A case study for south-east Australia",
+    "authors": [
+      "Francia B. Avila,",
+      "Siyan Dong,",
+      "Kaah P. Menang,",
+      "Jan Rajczak,",
+      "Madeleine Renom,",
+      "Markus G. Donat,",
+      "Lisa V. Alexander"
+    ],
+    "doi": "https://doi.org/10.1016/j.wace.2015.06.003",
+    "journalVolume": "Vol. 9,\n                                no. C\n                                \n                                  pp.\n                                  6\n                                  – 16",
+    "issn": "2212-0947 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/weather-and-climate-extremes/",
+    "abstract": "Using daily station observations over the period 1951–2013 in a region of south-east Australia, we systematically compare how the horizontal resolution, interpolation method and order of operation in generating gridded data sets affect estimates of annual extreme indices of temperature and precipitation maxima (hottest and wettest days). Three interpolation methods (natural neighbors, cubic spline and angular distance weighting) are used to calculate grids at five different horizontal gridded resolutions ranging from 0.25° to 2.5°. In each case the order of operation in which the grid values of the hottest and wettest day are calculated is varied: either they are estimated from daily grids or from station points and then gridded. We find that the grid resolution-despite showing more regional detail at high resolution – has relatively limited effect when considering regional averages. However, the interpolation method and the order of operation can substantially influence the actual gridded values. And while the difference due to the order of operation is not substantial when using natural neighbor and cubic spline interpolation, it is particularly apparent for indices calculated from daily gridded estimates using the angular distance weighting method. As expected given the high spatial variability of precipitation fields, precipitation extremes are most sensitive to method, but temperature extremes also exhibit substantial differences. For the annual maximum values averaged over the study area, the differences may be up to 2.8 °C for temperature and 60 mm (about a factor 2) for precipitation. Differences are seen most prominently in return period estimates where a 1 in 100 year return value calculated using the angular distance weighting daily gridded method is equivalent to about a 1 in 5 year return value in most of the other methods. Despite substantial differences in the actual values of gridded extremes, analyses suggest that the impact on long-term trends and inter-annual variability is small.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212094715300049"
+  },
+  {
+    "title": "Living on the margins: Climate change impacts and adaptation by remote communities living in the Pacific Islands, the Himalaya and desert Australia",
+    "authors": [
+      "Digby Race,",
+      "Popular Gentle,",
+      "Supriya Mathew"
+    ],
+    "doi": "Vol. 40\n                                \n                                \n                                  p.\n                                  100503",
+    "issn": "2212-0963 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/climate-risk-management/",
+    "abstract": "The latest IPCC assessment reports (2021, 2022 and 2023) confirm the devastating impacts of climate change are being felt with increasing frequency and intensity, with these impacts causing profound changes in the livelihoods of remote communities. People who are heavily dependent on agriculture, fisheries and forestry are particularly impacted, with risks and vulnerabilities increasing. These communities are already adapting their livelihoods, yet they often face constrained access to critical information, social safety nets, knowledge and skills, and technology, for effective adaptation to climate change. More importantly, they are typically outside the mainstream decision making and socio-economic structures that provide vital support during times of crisis. This article synthesizes analysis of the climate change impacts on, and adaptation by, remote communities living in very different environments – the tropical islands of the South Pacific, the mountains of the Himalaya in Nepal, and the deserts of central Australia. The authors’ analysis informs discussion about the limitations and strengths of local adaptation by remote communities and what strategies can support them build resilience.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212096323000293"
+  },
+  {
+    "title": "Worldwide trend of atmospheric mercury since 1995",
+    "authors": [
+      "F. Slemr,",
+      "E.-G. Brunke,",
+      "R. Ebinghaus,",
+      "J. Kuss"
+    ],
+    "doi": "https://doi.org/10.5194/acp-11-4779-2011",
+    "journalVolume": "Vol. 11,\n                                no. 10\n                                \n                                  pp.\n                                  4779\n                                  – 4787",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Concern about the adverse effects of mercury on human health and ecosystems has led to tightening emission controls since the mid 1980s. But the resulting mercury emissions reductions in many parts of the world are believed to be offset or even surpassed by the increasing emissions in rapidly industrializing countries. Consequently, concentrations of atmospheric mercury are expected to remain roughly constant. Here we show that the worldwide atmospheric mercury concentrations have decreased by about 20 to 38 % since 1996 as indicated by long-term monitoring at stations in the Southern and Northern Hemispheres combined with intermittent measurements of latitudinal distribution over the Atlantic Ocean. The total reduction of the atmospheric mercury burden of this magnitude within 14 years is unusually large among most atmospheric trace gases and is at odds with the current mercury emission inventories with nearly constant anthropogenic emissions over this period. This suggests a major shift in the biogeochemical cycle of mercury including oceans and soil reservoirs. Decreasing reemissions from the legacy of historical mercury emissions are the most likely explanation for this decline since the hypothesis of an accelerated oxidation rate of elemental mercury in the atmosphere is not supported by the observed trends of other trace gases. Acidification of oceans, climate change, excess nutrient input and pollution may also contribute by their impact on the biogeochemistry of ocean and soils. Consequently, models of the atmospheric mercury cycle have to include soil and ocean mercury pools and their dynamics to be able to make projections of future trends.",
+    "readLink": "http://www.atmos-chem-phys.net/11/4779/2011/acp-11-4779-2011.pdf"
+  },
+  {
+    "title": "Drought characteristics in Mediterranean under future climate change",
+    "authors": [
+      "Yassmin H. Essa,",
+      "Martin Hirschi,",
+      "Wim Thiery,",
+      "Ahmed M. El-Kenawy,",
+      "Chunxue Yang"
+    ],
+    "doi": "https://doi.org/10.1038/s41612-023-00458-4",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2397-3722 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.nature.com/npjclimatsci/",
+    "abstract": "Abstract The present work aims to address the physical properties of different drought types under near-future climates in the Mediterranean. To do so, we use a multi-model mean of the bias-adjusted and downscaled product of five Earth System Models participating in the Coupled Model Intercomparison Project—phase6 (CMIP6), provided by Inter-Sectoral Impact Model Intercomparison Project (ISIMIP), under four shared socioeconomic pathways (SSP1–2.6, SSP2–4.5, SSP3–7.0, and SSP5–8.5) for the period 2021–2060, to estimate the Standardized Precipitation Evapotranspiration Index (SPEI) at 1-, 6-, and 12-month time scales, and address the meteorological, agricultural, and hydrological drought, respectively. Additionally, SPEI is calculated from the bias-adjusted CMIP6 historical simulations and the reanalysis ‘WFDE5’ for 1980–2014 as a historical and reference period. The comparison of the CMIP6 with WFDE5 reveals a consistently increasing tendency for drought occurrences in the Mediterranean, particularly for agricultural and hydrological drought time scales. Nonetheless, an overestimation in historical trend magnitude is shown by the CMIP6 with respect to WFDE5. The projection results depict drought frequencies ranging between 12 and 25% of the studied period 2021–2060, varying with regions and climate scenarios. The tendency to increase the drought frequency is more pronounced in the southern than northern Mediterranean countries. Drought severity is remarkable in the aggregated time scales; consequently, more pressure is foreseen in the food and water sectors. Drought seasonality reveals a higher tendency for drought occurrences in summer (autumn) months for the meteorological (agricultural) droughts. The driving factor(s) for drought occurrence strongly depends on regional climate characteristics.",
+    "readLink": "https://doi.org/10.1038/s41612-023-00458-4"
+  },
+  {
+    "title": "Regional mass variations and its sensitivity to climate drivers over glaciers of Karakoram and Himalayas",
+    "authors": [
+      "Akansha Patel,",
+      "Ajanta Goswami,",
+      "Jaydeo K. Dharpure,",
+      "Meloth Thamban,",
+      "Anil V. Kulkarni,",
+      "Parmanand Sharma"
+    ],
+    "doi": "https://doi.org/10.1080/15481603.2021.1930730",
+    "journalVolume": "Vol. 58,\n                                no. 5\n                                \n                                  pp.\n                                  670\n                                  – 692",
+    "issn": "1548-1603 (Print)",
+    "publisher": "1943-7226 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgrs",
+    "abstract": "The regional scale mass change provides a substantial understanding to the influence of climate change on the glacier surface. However, the scarce ground observations and large spatial extent limit the use of field-based mass balance estimation. In this study, the Gravity Recovery and Climate Experiment (GRACE) satellite data were used to estimate the regional glacier mass variation over the Karakoram and Himalayas (KH) region during 2002–2019 hydrological years. Our study showed that the total mass change rate over the KH region was – 55.0 ± 8.7 Gt yr–1 for the study period. We have identified four positive/negative clusters of mass change over the KH region, with the eastern part of the Karakoram (KK) and part of the Central Himalaya (CH) regions have experienced a positive mass change. In contrast, the junctio n area between the Western Himalaya (WH) and CH region observed an extreme negative mass change. The results demonstrated that the annual mass change for WH become negative or nearly zero from 2007/08 onwards, while for CH and Eastern Himalaya (EH) regions, it became negative since 2005/06. The GRACE-derived mass change was validated with the published in-situ mass balance data, which reveals a high correlation (r = 0.77) over the region. The performance of obtained results were also compared with Ice, Cloud, and Land Elevation Satellite-1 (ICESat-1) data for the period 2003–2009, indicating a correlation of 0.87 and 0.91 for monthly and annual scale, respectively. Moreover, the interannual mass change in the glaciated region was analyzed using hydro-climatic data and energy fluxes, suggesting a higher correlation of mass change with total precipitation and snowfall over the spatiotemporal scale. However, this correlation fails at locations where evaporation, runoff, and radiation have prominently influenced the mass loss. The uncertainty and sensitivity test for mass change demonstrated that snowfall and temperature have a strong influence on the response of mass change. Overall, this study provided regional mass change and their relationship with hydro-climatic variables, which will provide a better understanding related to the water availability in the downstream areas.",
+    "readLink": "http://dx.doi.org/10.1080/15481603.2021.1930730"
+  },
+  {
+    "title": "The Impact of Climate Change on Hydroecological Response in Chalk Streams",
+    "authors": [
+      "Annie Visser,",
+      "Lindsay Beevers,",
+      "Sandhya Patidar"
+    ],
+    "doi": "https://doi.org/10.3390/w11030596",
+    "journalVolume": "Vol. 11,\n                                no. 3\n                                \n                                  p.\n                                  596",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Climate change represents a major threat to lotic freshwater ecosystems and their ability to support the provision of ecosystem services. England’s chalk streams are in a poor state of health, with significant concerns regarding their resilience, the ability to adapt, under a changing climate. This paper aims to quantify the effect of climate change on hydroecological response for the River Nar, south-east England. To this end, we apply a coupled hydrological and hydroecological modelling framework, with the UK probabilistic climate projections 2009 (UKCP09) weather generator serving as input (CMIP3 A1B high emissions scenario, 2021 to the end-of-century). The results indicate a minimal change in the long-term mean hydroecological response over this period. In terms of interannual variability, the median hydroecological response is subject to increased uncertainty, whilst lower probability extremes are virtually certain to become more homogeneous (assuming a high emissions scenario). A functional matrix, relating species-level macroinvertebrate functional flow preferences to functional food groups reveals that, on the baseline, under extreme conditions, key groups are underrepresented. To date, despite this limited range, the River Nar has been able to adapt to extreme events due to interannual variation. In the future, this variation is greatly reduced, raising real concerns over the resilience of the river ecosystem, and chalk ecosystems more generally, under climate change.",
+    "readLink": "https://www.mdpi.com/2073-4441/11/3/596"
+  },
+  {
+    "title": "Modeling soil organic carbon dynamics and their driving factors in the main global cereal cropping systems",
+    "authors": [
+      "G. Wang,",
+      "W. Zhang,",
+      "W. Sun,",
+      "T. Li,",
+      "P. Han"
+    ],
+    "doi": "https://doi.org/10.5194/acp-17-11849-2017",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  11849\n                                  – 11859",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Changes in the soil organic carbon (SOC) stock are determined by the balance between the carbon input from organic materials and the output from the decomposition of soil C. The fate of SOC in cropland soils plays a significant role in both sustainable agricultural production and climate change mitigation. The spatiotemporal changes of soil organic carbon in croplands in response to different carbon (C) input management and environmental conditions across the main global cereal systems were studied using a modeling approach. We also identified the key variables that drive SOC changes at a high spatial resolution (0.1° × 0.1°) and over a long timescale (54 years from 1961 to 2014). A widely used soil C turnover model (RothC) and state-of-the-art databases of soil and climate variables were used in the present study. The model simulations suggested that, on a global average, the cropland SOC density increased at annual rates of 0.22, 0.45 and 0.69 Mg C ha−1 yr−1 under crop residue retention rates of 30, 60 and 90 %, respectively. Increasing the quantity of C input could enhance soil C sequestration or reduce the rate of soil C loss, depending largely on the local soil and climate conditions. Spatially, under a specific crop residue retention rate, relatively higher soil C sinks were found across the central parts of the USA, western Europe, and the northern regions of China. Relatively smaller soil C sinks occurred in the high-latitude regions of both the Northern and Southern hemispheres, and SOC decreased across the equatorial zones of Asia, Africa and America. We found that SOC change was significantly influenced by the crop residue retention rate (linearly positive) and the edaphic variable of initial SOC content (linearly negative). Temperature had weak negative effects, and precipitation had significantly negative impacts on SOC changes. The results can help guide carbon input management practices to effectively mitigate climate change through soil C sequestration in croplands on a global scale.",
+    "readLink": "https://www.atmos-chem-phys.net/17/11849/2017/acp-17-11849-2017.pdf"
+  },
+  {
+    "title": "Improving carbon balance with climate-resilient management practices in tropical agro-ecosystems of Western India",
+    "authors": [
+      "Ch. Srinivasa Rao,",
+      "V. Girija Veni,",
+      "J.V.N.S. Prasad,",
+      "K.L. Sharma,",
+      "Ch. Chandrasekhar,",
+      "P.P. Rohilla,",
+      "Y.V. Singh"
+    ],
+    "doi": "https://doi.org/10.1080/17583004.2017.1309202",
+    "journalVolume": "Vol. 8,\n                                no. 2\n                                \n                                  pp.\n                                  175\n                                  – 190",
+    "issn": "1758-3004 (Print)",
+    "publisher": "1758-3012 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tcmt",
+    "abstract": "The present study was conducted in climatically vulnerable villages in Western India to evaluate the impact of climate resilient management practices such as improved agronomic practices, nutrient management, water management and residue management on carbon balance using the Ex-ante Appraisal of Carbon balance Tool (EX-ACT) developed by FAO. This model predicts the changes in the carbon emissions (source capacity) and sinks (sink capacity) using default emission coefficients for a time period of 20 years. The results revealed increase in sink capacity across the villages ranging from 16.4 (Chomakot) to 96.9% (Khuntil) in annual crops, and 4.8 (Bhalot) to 63.8% (Khuntil) in perennials. The fertilizer management increased the sink capacity varying from 3.1 (Chomakot) to 39% (Magharvada). However, the emissions ranged from 17 (Magharvada) to 93.2% (Bharu) in livestock and 6.8 (Bharu) to 83% (Magharvada) due to non-forest land-use change in majority of the villages. In irrigated rice, an increase in sink of 4.6% (Khuntil) and emission of 12.8% (Chomakot) was observed. However, interestingly, based on balance sheet of all the sources and sinks, a sink varying from 1621 to 10410 Mg CO2-eq was observed across the villages, indicating the significant impact of management practices on reducing the GHG emissions.",
+    "readLink": "http://dx.doi.org/10.1080/17583004.2017.1309202"
+  },
+  {
+    "title": "EU-Funded Projects with Actual Implementation of Renewable Energies in Cities. Analysis of their Concern for Aesthetic Impact",
+    "authors": [
+      "Núria Sánchez-Pantoja,",
+      "Rosario Vidal,",
+      "M.  Carmen Pastor"
+    ],
+    "doi": "https://doi.org/10.3390/en14061627",
+    "journalVolume": "Vol. 14,\n                                no. 1627\n                                \n                                  p.\n                                  1627",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Social acceptance and aesthetic impact of renewable energy (RE) in cities are topics scarcely considered in the literature even though they have attracted growing interest. Innovative European-funded projects, therefore, should start to consider these concepts. This paper provides an innovative review of European projects with the aim of identifying those with actual implementation of RE and energy storage systems in urban environments and their concern for aesthetic impact. The search considered the five most relevant programs related to RE and climate change mitigation, including almost 14,000 projects. Furthermore, a survey and some interviews allowed to collect data about the selected projects. 0.1% of reviewed projects aimed at the actual installation of RE on an urban scale. However, there is a recent growing trend. The most used RE was solar, especially photovoltaic, while the most common system for energy storage was lithium batteries. We can affirm that these European projects do not currently show any particular concern for the aesthetic impact they cause in cities, nor for the social perception assessment. It would be advisable to consider technologies as products and basic components of work and daily life, and not only as a means of intervention to promote RE.",
+    "readLink": "https://www.mdpi.com/1996-1073/14/6/1627"
+  }
+]

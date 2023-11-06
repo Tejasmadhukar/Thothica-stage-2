@@ -1,0 +1,208 @@
+[
+  {
+    "title": "The effect of climate–carbon cycle feedbacks on emission metrics",
+    "authors": [
+      "Erik O Sterner,",
+      "Daniel J A Johansson"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aa61dc",
+    "journalVolume": "Vol. 12,\n                                no. 3\n                                \n                                  p.\n                                  034019",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The Climate–Carbon cycle Feedback (CCF) affects emission metric values. In the Fifth Assessment Report (AR5) of the Intergovernmental Panel on Climate Change metric values for Global Warming Potentials (GWP) and Global Temperature Potentials (GTP) are reported both with and without CCF for non-CO _2 climate forcers, while CCF is always included for CO _2 . The estimation of CCF for non-CO _2 climate forcers in AR5 is based on a linear feedback analysis. This study compares that approach with an explicit approach that uses a temperature dependent carbon cycle model. The key difference in the CCF results for non-CO _2 climate forcers is that, with the approach used in AR5, a fraction of the CO _2 signal induced by non-CO _2 forcers will persist in the atmosphere basically forever, while, with the approach based on an explicit carbon cycle model, the atmospheric CO _2 signal induced by non-CO _2 forcers eventually vanishes. The differences in metric values between the two model approaches are within ±10% for all well-mixed greenhouse gases when the time horizon is limited to 100 yr or less, for both GWP and GTP. However, for long time horizons, such as 500 yr, metric values are substantially lower with the explicit CCF model than with the linear feedback approach, up to 30% lower for GWP and up to 90% lower for GTP.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aa61dc"
+  },
+  {
+    "title": "<span style=\"\" class=\"text typewriter\">airGRteaching</span>: an open-source tool for  teaching hydrological modeling with R",
+    "authors": [
+      "O. Delaigue,",
+      "P. Brigode,",
+      "P. Brigode,",
+      "G. Thirel,",
+      "L. Coron"
+    ],
+    "doi": "https://doi.org/10.5194/hess-27-3293-2023",
+    "journalVolume": "Vol. 27\n                                \n                                \n                                  pp.\n                                  3293\n                                  – 3327",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Hydrological modeling is at the core of most studies related to water, especially for anticipating disasters, managing water resources, and planning adaptation strategies. Consequently, teaching hydrological modeling is an important, but difficult, matter. Teaching hydrological modeling requires appropriate software and teaching material (exercises, projects); however, although many hydrological modeling tools exist today, only a few are adapted to teaching purposes. In this article, we present the airGRteaching package, which is an open-source R package. The hydrological models that can be used in airGRteaching are the GR rainfall-runoff models, i.e., lumped processed-based models, allowing streamflows to be simulated, including the GR4J model. In this package, thanks to a graphical user interface and a limited number of functions, numerous hydrological modeling exercises representing a wide range of hydrological applications are proposed. To ease its use by students and teachers, the package contains several vignettes describing complete projects that can be proposed to investigate various topics such as streamflow reconstruction, hydrological forecasting, and assessment of climate change impact.",
+    "readLink": "https://hess.copernicus.org/articles/27/3293/2023/hess-27-3293-2023.pdf"
+  },
+  {
+    "title": "Air change rate in ventilated attics – reality and input for simulations",
+    "authors": [
+      "Møller Eva B.,",
+      "Morelli Martin,",
+      "Hansen Thor"
+    ],
+    "doi": "https://doi.org/10.1051/matecconf/201928202073",
+    "journalVolume": "Vol. 282\n                                \n                                \n                                  p.\n                                  02073",
+    "issn": "2261-236X (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.matec-conferences.org",
+    "abstract": "To remove moisture by ventilating constructions is a well-known strategy, used successfully in numerous facades and roofs. However, simulating ventilation is often difficult as convection in this case is in another dimension than what is usually in focus in 1D hygrothermal simulations. There are strategies for simulating ventilation in 1D programs assuming a fixed air change rate (ACH). Unfortunately, ACH in roofs highly depend on wind direction and speed, hence a constant rate is a gross simplification. The article describes a comparative study between simulations with a 1D hygrothermal simulation program (WUFI) and simulations with BSim, a program in which the indoor climate can be simulated in different zones, in this case the ventilated attic. Focus is the effect of ACH in the attic on temperature and relative humidity. Finally, measurements of ACH in attics of ten single-family houses are presented. These measurements show that average ACH measured over more than two weeks differ very much from house to house although the ventilation openings in all houses seemed to be in accordance with current guidelines. Even measurements of the same attic differ considerably from time to time. The paper discusses what implications this should have on simulations.",
+    "readLink": "https://www.matec-conferences.org/articles/matecconf/pdf/2019/31/matecconf_cesbp2019_02073.pdf"
+  },
+  {
+    "title": "Quantifying sources, transport, deposition, and radiative forcing of black carbon over the Himalayas and Tibetan Plateau",
+    "authors": [
+      "R. Zhang,",
+      "H. Wang,",
+      "Y. Qian,",
+      "P. J. Rasch,",
+      "R. C. Easter,",
+      "P.-L. Ma,",
+      "B. Singh,",
+      "J. Huang,",
+      "Q. Fu"
+    ],
+    "doi": "https://doi.org/10.5194/acp-15-6205-2015",
+    "journalVolume": "Vol. 15,\n                                no. 11\n                                \n                                  pp.\n                                  6205\n                                  – 6223",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Black carbon (BC) particles over the Himalayas and Tibetan Plateau (HTP), both airborne and those deposited on snow, have been shown to affect snowmelt and glacier retreat. Since BC over the HTP may originate from a variety of geographical regions and emission sectors, it is essential to quantify the source–receptor relationships of BC in order to understand the contributions of natural and anthropogenic emissions and provide guidance for potential mitigation actions. In this study, we use the Community Atmosphere Model version 5 (CAM5) with a newly developed source-tagging technique, nudged towards the MERRA meteorological reanalysis, to characterize the fate of BC particles emitted from various geographical regions and sectors. Evaluated against observations over the HTP and surrounding regions, the model simulation shows a good agreement in the seasonal variation in the near-surface airborne BC concentrations, providing confidence to use this modeling framework for characterizing BC source–receptor relationships. Our analysis shows that the relative contributions from different geographical regions and source sectors depend on season and location in the HTP. The largest contribution to annual mean BC burden and surface deposition in the entire HTP region is from biofuel and biomass (BB) emissions in South Asia, followed by fossil fuel (FF) emissions from South Asia, then FF from East Asia. The same roles hold for all the seasonal means except for the summer, when East Asia FF becomes more important. For finer receptor regions of interest, South Asia BB and FF have the largest impact on BC in the Himalayas and central Tibetan Plateau, while East Asia FF and BB contribute the most to the northeast plateau in all seasons and southeast plateau in the summer. Central Asia and Middle East FF emissions have relatively more important contributions to BC reaching the northwest plateau, especially in the summer. Although local emissions only contribute about 10% of BC in the HTP, this contribution is extremely sensitive to local emission changes. Lastly, we show that the annual mean radiative forcing (0.42 W m−2) due to BC in snow outweighs the BC dimming effect (−0.3 W m−2) at the surface over the HTP. We also find strong seasonal and spatial variation with a peak value of 5 W m−2 in the spring over the northwest plateau. Such a large forcing of BC in snow is sufficient to cause earlier snow melting and potentially contribute to the acceleration of glacier retreat.",
+    "readLink": "http://www.atmos-chem-phys.net/15/6205/2015/acp-15-6205-2015.pdf"
+  },
+  {
+    "title": "Seascape topography slows predicted range shifts in fish under climate change",
+    "authors": [
+      "Curtis Champion,",
+      "Melinda A. Coleman"
+    ],
+    "doi": "https://doi.org/10.1002/lol2.10185",
+    "journalVolume": "Vol. 6,\n                                no. 3\n                                \n                                  pp.\n                                  143\n                                  – 153",
+    "issn": "2378-2242 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2378-2242/",
+    "abstract": "Abstract Shifts in marine species distributions are occurring rapidly in response to climate change, yet predicted rates of change are partly dependent on the data used to estimate species distributions. While pelagic fishes are known to respond to dynamic oceanographic variables, static topographic features can also regulate their distributions, yet the effect of topography on rates of range shifts remains poorly understood. For a suite of five pelagic fishes from an ocean warming hotspot, we developed generalized additive mixed models that did and did not incorporate preferences for seascape topographic heterogeneity when estimating species distributions. Monthly spatial predictions over two decades revealed that poleward extensions in species' core environmental habitats were significantly reduced by 5.3–60.4% (7.1–131.4 km per decade) when preferences for seascape topography were incorporated. These findings suggest that ignoring species associations with static environmental features can substantially affect predicted rates of climate‐driven redistributions in fishes.",
+    "readLink": "https://doi.org/10.1002/lol2.10185"
+  },
+  {
+    "title": "Geopolitics views the relationship of oil to climate change",
+    "authors": [
+      "Nikolco SPASOV,",
+      "Toni MILESKI,",
+      "Aleksandar PAVLESKI"
+    ],
+    "doi": "https://doi.org/10.47054/SD171-20361s",
+    "journalVolume": "Vol. 8,\n                                no. 1-2\n                                \n                                  pp.\n                                  361\n                                  – 372",
+    "issn": "1857-7172 (Print)",
+    "publisher": "1857-8055 (Online)",
+    "countryOfPublisher": "Faculty of Philosophy, Ss. Cyril and Methodius University in Skopje",
+    "lcc": [
+      "North Macedonia",
+      "Social Sciences"
+    ],
+    "journalUrl": "http://periodica.fzf.ukim.edu.mk/sd/about.html",
+    "abstract": "Today, in the modern and dynamic development of humanity almost all activities are related to dependence on energy, especially oil dependence, starting from the economy as well as activities in society and international politics. Since the development of air and road traffic, especially after World War II, the transfer of wealth from some countries (producing countries) to other countries (consumer countries) is already an everyday major activity. Climate change is expected to pose a safety hazard if the planet warms by 1.3 degrees by 2040, is expected to occur \"enlarged internal and cross-border tensions caused by a large number of migrations, conflicts due to lack of resources, increased spread of diseases coming to possible new geopolitical change\". The geopolitical approach of oil is in fact a key resource that is used in transport and is located in few countries (which then in 2000 moved to the resource nationalism that could use oil as a weapon and where people may face civil strife) that must be transported over long (and increasingly) risky maritime routes (including passage through straits), can lead to wars on access to oil resources or control over oil transport routes.",
+    "readLink": "http://periodica.fzf.ukim.edu.mk/sd/SD%2008.sp%20(2017)/SD%2008.sp.23%20Spasov,%20N.%20&%20Mileski,%20T.%20&%20Pavleski,%20A.%20-%20Geopolitics%20views%20the.pdf"
+  },
+  {
+    "title": "Reconstruction of the 1974 flash flood in Sóller (Mallorca) using a hydraulic 1D/2D model",
+    "authors": [
+      "Thomas Carys,",
+      "Stamataki Ioanna,",
+      "Rosselló-Geli Joan"
+    ],
+    "doi": "https://doi.org/10.2478/johh-2022-0027",
+    "journalVolume": "Vol. 71,\n                                no. 1\n                                \n                                  pp.\n                                  49\n                                  – 63",
+    "issn": "0042-790X (Print)",
+    "publisher": "1338-4333 (Online)",
+    "countryOfPublisher": "Sciendo",
+    "lcc": [
+      "Poland",
+      "Technology: Hydraulic engineering"
+    ],
+    "journalUrl": "https://sciendo.com/journal/JOHH",
+    "abstract": "Flash flood events are common in the Mediterranean basin, because of a combination of rugged coastal topography and climatological characteristics. The Balearic Islands are a flood-prone region with the research area, Sóller (Mallorca) being no exception. Between 1900 and 2000, Sóller experienced 48 flash floods with 17 categorised as catastrophic. In Sóller, the local surface water network comprises ephemeral streams. These are natural water networks that only carry water during periods of intense rainfall. Using the available evidence from the 1974 flash flood, this research used Flood Modeller to simulate the event. The research developed a one-dimensional (1D) and a one-dimensional two-dimensional (1D-2D) model that assisted in the understanding of the behaviour of the ephemeral stream during the flood. Analysis of hydraulic parameters such as water flow, depth and velocity provided an appreciation of the interaction between the channel and floodplain. Model development aims to forecast the impending impacts of climate change and urbanisation.",
+    "readLink": "https://doi.org/10.2478/johh-2022-0027"
+  },
+  {
+    "title": "The Impact of Precipitation Deficit and Urbanization on Variations in Water Storage in the Beijing-Tianjin-Hebei Urban Agglomeration",
+    "authors": [
+      "Zheng Chen,",
+      "Weiguo Jiang,",
+      "Wenjie Wang,",
+      "Yue Deng,",
+      "Bin He,",
+      "Kai Jia"
+    ],
+    "doi": "https://doi.org/10.3390/rs10010004",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  p.\n                                  4",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Depletion of water resources has threatened water security in the Beijing-Tianjin-Hebei urban agglomeration, China. However, the relative importance of precipitation and urbanization to water storage change has not been sufficiently studied. In this study, both terrestrial water storage (TWS) and groundwater storage (GWS) change in Jing-Jin-Ji from 1979 to the 2010s were investigated, based on the global land data assimilation system (GLDAS) and the EartH2Observe (E2O) outputs, and we used a night light index as an index of urbanization. The results showed that TWS anomaly varied in three stages: significant increase from 1981 to 1996, rapid decrease from 1996 to 2002 and increase from 2002 to the 2010s. Simultaneously, GWS has decreased with about 41.5 cm (500% of GWS in 1979). Both urbanization and precipitation change influenced urban water resource variability. Urbanization was a relatively important factor to the depletion of TWS (explains 83%) and GWS (explains 94%) since the 1980s and the precipitation deficit explains 72% and 64% of TWS and GWS variabilities. It indicates that urbanization coupled with precipitation deficit has been a more important factor that impacted depletion of both TWS and GWS than climate change only, in the Jing-Jin-Ji region. Moreover, we suggested that the cumulative effect should be considered when discussing the relationship between influence factors and water storage change.",
+    "readLink": "https://www.mdpi.com/2072-4292/10/1/4"
+  },
+  {
+    "title": "Creating the environment for innovation and entrepreneurship",
+    "authors": [
+      "Paul M. Lane"
+    ],
+    "doi": "Vol. 2,\n                                no. 2",
+    "issn": "2658-1841 (Online)",
+    "publisher": "Krakow University of Economics",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Social Sciences: Commerce: Business"
+    ],
+    "journalUrl": "https://ier.uek.krakow.pl/index.php/pm",
+    "abstract": "Innovation generation and diffusion have been widely acknowledged as hinging upon the complex set of institutional, social and psychological processes. The objective of the paper is to examine the need and possibilities of creating the environment for innovation and entrepreneurship in the university setting. In particular, this paper focuses on interrelationships and roles of specific groups of university members: the administration, faculty and students. The study is exploratory in character, based on observations and literature review. It starts with defining modern-day university as home of innovation emphasizing the need for interdisciplinary and interinstitutional approaches. The paper discusses the need of faculty to learn to reach across the institution and beyond to work with others, working across silos of academia and meeting with others from very different disciplines. Second it examines ways the university administration support can encourage innovation among its faculty, staff and students. Third, it draws on existing research to identify key dimensions of change. The study proposes pathways that may activate the mechanisms of climate and infrastructure for innovation. The proposed dimensions and analyzed areas of change can potentially form the foundations of a framework for universities seeking to diagnose their existing condition and use such findings to enhance the generation and diffusion of innovation. The university quest to break down the barriers and reach across the disciplines to generate innovation takes commitment which needs to be coupled with administrative change such as the reward structures lined up with the vision and changes regarding the teaching and learning practices as well as the physical environment for the classes, the class rooms and meeting spaces of students and faculty.",
+    "readLink": "https://ier.uek.krakow.pl/index.php/pm/article/view/1114"
+  },
+  {
+    "title": "DAMPAK KEBIJAKAN PENGURANGAN SUBSIDI HARGA BAHAN BAKAR MINYAK TERHADAP KINERJA INDUSTRI HASIL HUTAN KAYU",
+    "authors": [
+      "Satria Astana,",
+      "Bonar M Sinaga,",
+      "Erwidodo Erwidodo,",
+      "Hariadi Kartodihardjo"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2005.2.4.367-398",
+    "journalVolume": "Vol. 2,\n                                no. 4\n                                \n                                  pp.\n                                  367\n                                  – 398",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "Sebagai suatu upaya meningkatkan efisiensi ekonomi, pemerintah secara bertahap telah mengurangi subsidi harga bahan bakar minyak (SH-BBM). Tetapi pelaksanaannya telah menimbulkan kontroversi. Dengan menggunakan model ekonometrika, tujuan penelitian adalah mengkaji dampak kebijakan pengurangan SH-BBM terhadap kinerja industri hasil hutan kayu, termasuk dampak kesejahteraan sosialnya. Industri kayu olahan hulu yang dikaji adalah kayu bulat, kayu gergajian dan kayu lapis. Model diduga dengan metode three-stage least squares, menggunakan data sekunder rangkaian waktu tahun 1980-1996. Data dikumpulkan dari publikasi statistik Departemen Kehutanan, Food and Agriculture Organization, International Monetary Fund, dan Badan Pusat Statistik. Hasil penelitian menyimpulkan bahwa pengurangan SH-BBM menurunkan kinerja industri hasil hutan kayu, yang menyebabkan penurunan dalam kesejahteraan sosialnya.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/2713"
+  }
+]

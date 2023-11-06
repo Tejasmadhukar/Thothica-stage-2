@@ -1,0 +1,250 @@
+[
+  {
+    "title": "Limitations of WRF land surface models for simulating land use and land cover change in Sub-Saharan Africa and development of an improved model (CLM-AF v. 1.0)",
+    "authors": [
+      "T. Glotfelty,",
+      "D. Ramírez-Mejía,",
+      "J. Bowden,",
+      "A. Ghilardi,",
+      "J. J. West"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-14-3215-2021",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  3215\n                                  – 3249",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Land use and land cover change (LULCC) impacts local and regional climates through various biogeophysical processes. Accurate representation of land surface parameters in land surface models (LSMs) is essential to accurately predict these LULCC-induced climate signals. In this work, we test the applicability of the default Noah, Noah-MP, and Community Land Model (CLM) LSMs in the Weather Research and Forecasting (WRF) model over Sub-Saharan Africa. We find that the default WRF LSMs do not accurately represent surface albedo, leaf area index, and surface roughness in this region due to various flawed assumptions, including the treatment of the MODIS woody savanna land use and land cover (LULC) category as closed shrubland. Consequently, we developed a WRF CLM version with more accurate African land surface parameters (CLM-AF), designed such that it can be used to evaluate the influence of LULCC. We evaluate meteorological performance for the default LSMs and CLM-AF against observational datasets, gridded products, and satellite estimates. Further, we conduct LULCC experiments with each LSM to determine if differences in land surface parameters impact the LULCC-induced climate responses. Despite clear deficiencies in surface parameters, all LSMs reasonably capture the spatial pattern and magnitude of near-surface temperature and precipitation. However, in the LULCC experiments, inaccuracies in the default LSMs result in illogical localized temperature and precipitation changes. Differences in thermal changes between Noah-MP and CLM-AF indicate that the temperature impacts from LULCC are dependent on the sensitivity of evapotranspiration to LULCC in Sub-Saharan Africa. Errors in land surface parameters indicate that the default WRF LSMs considered are not suitable for LULCC experiments in tropical or Southern Hemisphere regions and that proficient meteorological model performance can mask these issues. We find CLM-AF to be suitable for use in Sub-Saharan Africa LULCC studies, but more work is needed by the WRF community to improve its applicability to other tropical and Southern Hemisphere climates.",
+    "readLink": "https://gmd.copernicus.org/articles/14/3215/2021/gmd-14-3215-2021.pdf"
+  },
+  {
+    "title": "Variability in snow depth time series in the Adige catchment",
+    "authors": [
+      "Giorgia Marcolini,",
+      "Alberto Bellin,",
+      "Markus Disse,",
+      "Gabriele Chiogna"
+    ],
+    "doi": "https://doi.org/10.1016/j.ejrh.2017.08.007",
+    "journalVolume": "Vol. 13,\n                                no. C\n                                \n                                  pp.\n                                  240\n                                  – 254",
+    "issn": "2214-5818 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-hydrology-regional-studies/",
+    "abstract": "Study region: The Upper and Middle Adige catchment, Trentino-South Tyrol, Italy. Study focus: We provide evidence of changes in mean seasonal snow depth and snow cover duration in the region occurred in the period from 1980 to 2009. New hydrological insights for the region: Stations located above and below 1650 m a.s.l. show different dynamics, with the latter experiencing in the last decades a larger reduction of average snow depth and snow cover duration, than the former. Wavelet analyses show that snow dynamics change with elevation and correlate differently with climatic indices at multiple temporal scales. We also observe that starting from the late 1980s snow cover duration and mean seasonal snow depth are below the average in the study area. We also identify an elevation dependent correlation with the temperature. Moreover, correlation with the Mediterranean Oscillation Index and with the North Atlantic Oscillation Index is identified.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214581817302239"
+  },
+  {
+    "title": "Could phenological records from Chinese poems of the Tang and Song dynasties (618–1279&thinsp;CE) be reliable evidence of past climate changes?",
+    "authors": [
+      "Y. Liu,",
+      "X. Fang,",
+      "J. Dai,",
+      "H. Wang,",
+      "Z. Tao"
+    ],
+    "doi": "https://doi.org/10.5194/cp-17-929-2021",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  929\n                                  – 950",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "Phenological records in historical documents have been proven to be of unique value for reconstructing past climate changes. As a literary genre, poetry reached its peak in the Tang and Song dynasties (618–1279 CE) in China. Sources from this period could provide abundant phenological records in the absence of phenological observations. However, the reliability of phenological records from poems, as well as their processing methods, remains to be comprehensively summarized and discussed. In this paper, after introducing the certainties and uncertainties of phenological information in poems, the key processing steps and methods for deriving phenological records from poems and using them in past climate change studies are discussed: (1) two principles, namely the principle of conservatism and the principle of personal experience, should be followed to reduce uncertainties; (2) the phenological records in poems need to be filtered according to the types of poems, background information, rhetorical devices, spatial representations, and human influence; (3) animals and plants are identified at the species level according to their modern distributions and the sequences of different phenophases; (4) phenophases in poems are identified on the basis of modern observation criteria; (5) the dates and sites for the phenophases in poems are confirmed from background information and related studies. As a case study, 86 phenological records from poems of the Tang Dynasty in the Guanzhong region in China were extracted to reconstruct annual temperature anomalies in specific years in the period between 600 and 900 CE. Following this, the reconstruction from poems was compared with relevant reconstructions in published studies to demonstrate the validity and reliability of phenological records from poems in studies of past climate changes. This paper reveals that the phenological records from poems could be useful evidence of past climate changes after being scientifically processed. This could provide an important reference for future studies in this domain, in both principle and methodology, pursuant of extracting and applying phenological records from poems for larger areas and different periods in Chinese history.",
+    "readLink": "https://cp.copernicus.org/articles/17/929/2021/cp-17-929-2021.pdf"
+  },
+  {
+    "title": "Hurricane adaptation behaviors in Texas and Florida: exploring the roles of negative personal experience and subjective attribution to climate change",
+    "authors": [
+      "Gabrielle Wong-Parodi,",
+      "Dana Rose Garfin"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac4858",
+    "journalVolume": "Vol. 17,\n                                no. 3\n                                \n                                  p.\n                                  034033",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Understanding the motivation to adopt personal household adaptation behaviors in the face of climate change-related hazards is essential for developing and implementing behaviorally realistic interventions that promote well-being and health. Escalating extreme weather events increase the number of those directly exposed and adversely impacted by climate change. But do people attribute these negative events to climate change? Such subjective attribution may be a cognitive process whereby the experience of negative climate-change-related events may increase risk perceptions and motivate people to act. Here we surveyed a representative sample of 1846 residents of Florida and Texas, many of whom had been repeatedly exposed to hurricanes on the Gulf Coast, facing the 2020 Atlantic hurricane season. We assessed prior hurricane negative personal experiences, climate-change-related subjective attribution (for hurricanes), risk appraisal (perceived probability and severity of a hurricane threat), hurricane adaptation appraisal (perceived efficacy of adaptation measures and self-efficacy to address the threat of hurricanes), and self-reported hurricane personal household adaptation. Our findings suggest that prior hurricane negative personal experiences and subjective attribution are associated with greater hurricane risk appraisal. Hurricane subjective attribution moderated the relationship between hurricane negative personal experiences and risk appraisal; in turn, negative hurricane personal experiences, hurricane risk appraisal, and adaptation appraisal were positively associated with self-reported hurricane personal adaptation behaviors. Subjective attribution may be associated with elevated perceived risk for specific climate hazards. Communications that help people understand the link between their negative personal experiences (e.g. hurricanes) and climate change may help guide risk perceptions and motivate protective actions, particularly in areas with repeated exposure to threats.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac4858"
+  },
+  {
+    "title": "Arctic sea ice coverage from 43 years of satellite passive-microwave observations",
+    "authors": [
+      "Claire L. Parkinson"
+    ],
+    "doi": "https://doi.org/10.3389/frsen.2022.1021781",
+    "journalVolume": "Vol. 3",
+    "issn": "2673-6187 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Geophysics. Cosmic physics",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/remote-sensing",
+    "abstract": "Satellite passive-microwave instrumentation has allowed the monitoring of Arctic sea ice over the past 43 years, and this monitoring has revealed and quantified major changes occurring in Arctic sea ice coverage. The 43-year 1979–2021 record shows considerable interannual variability but also a long-term downward trend in Arctic sea ice that is clear from many vantage points: A linear-least-square trend of −54,300 ± 2,700 km2/year for yearly average sea ice extents; statistically significant negative trends for each of the 12 calendar months; negative trends for each of nine regions into which the Arctic sea ice cover is divided; the fact that for all 12 calendar months the highest monthly average sea ice extent came in the first 8 years of the record and the lowest monthly average sea ice extent came in the last 10 years of the record; and a prominent shortening of the sea ice season throughout much of the marginal ice zone, with the length of the sea ice season in some locations decreasing by over 100 days and some locations previously experiencing months-long sea ice seasons now typically no longer having a sea ice season at all. The overall, Arctic-wide trend value of the yearly average sea ice extents since 1979 has consistently had a negative magnitude exceeding two standard deviations of the trend line slope since 1990 and has remained in the narrow range of −53,000 km2/yr to −55,500 km2/yr since 2011.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frsen.2022.1021781/full"
+  },
+  {
+    "title": "An econometric analysis for food security in Tunisia",
+    "authors": [
+      "Houcine JEDER,",
+      "Sabrine Hattab,",
+      "Iheb Frija"
+    ],
+    "doi": "https://doi.org/10.30682/nm2004a",
+    "journalVolume": "Vol. 19,\n                                no. 4",
+    "issn": "1594-5685 (Print)",
+    "publisher": "2611-1128 (Online)",
+    "countryOfPublisher": "Bononia University Press",
+    "lcc": [
+      "Italy",
+      "Agriculture: Agriculture (General)",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Commerce: Commercial geography. Economic geography"
+    ],
+    "journalUrl": "https://newmedit.iamb.it",
+    "abstract": "Food security issue is getting more attention in middle-income countries such as Tunisia after the revolution 2011, where many factors affecting its food security are multiplied. An econometric analysis of food security was done through the Vector Error Correction Model approach (VECM). The result of this approach shows that there is a significant long-term causality between the dependent variables and the explanatory variables. Some signs of variables like land under cereals assert the hypothesis of Ricardo’s land rent theory and also attract attention for the preservation of land fertility in climate change context. However, there is a short-term causal relationship between food security and independents variables like: land under cereals, inflation and food imports. These results confirm that the issue of food security in Tunisia is a question of threat in the short and long-term instability. So, it is important today to readjust some factors to ensure food security in Tunisia like controlling inflation and lowering the food importation as short-term measures and preserving and improving the fertility of land under cereals and adopting climate change as long-term measures.",
+    "readLink": "https://newmedit.iamb.it/2020/12/11/an-econometric-analysis-for-food-security-in-tunisia/"
+  },
+  {
+    "title": "Comparison of two Satellite Imaging Platforms for Evaluating Sand Dune Migration in the Ubari Sand Sea (Libyan Fazzan)",
+    "authors": [
+      "A. Els,",
+      "S. Merlo,",
+      "J. Knight"
+    ],
+    "doi": "https://doi.org/10.5194/isprsarchives-XL-7-W3-1375-2015",
+    "journalVolume": "Vol. XL-7/W3\n                                \n                                \n                                  pp.\n                                  1375\n                                  – 1380",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Sand dunes can change location, form or dimensions depending on wind direction and strength. Sand dune movements can be effectively monitored through the comparison of multi-temporal satellite images. However, not all remote sensing platforms are suitable to study sand dunes. This study compares coarse (Landsat) and fine (Worldview) resolution platforms, specifically focussing on sand dunes within the Ubari Sand Sea (Libya). Sand dune features (crest line, dune ridge basal outlines) were extracted from Landsat and Worldview 2 imagery in order to construct geomorphic maps. These geomorphic maps were then compared using image overlay and differencing, and the Root Mean Squared Error (RMSE) was used to determine if the mapped dune patterns were significantly different. It was found that Landsat is a sufficient data source when studying dune patterns within a regional sand sea, but smaller dunes identified from Worldview data were not capable of being extracted in the data sourced from Landsat. This means that for studies concerned with the dune patterns and movements within sand seas, Landsat is sufficient. But in studies where the specific dynamics of specific dunes are required, a finer resolution is required; platforms such as Worldview are needed in order to gain more detailed insight and to link the past and present day climate and environmental change.",
+    "readLink": "http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-7-W3/1375/2015/isprsarchives-XL-7-W3-1375-2015.pdf"
+  },
+  {
+    "title": "Hydro-climatic variability in the southwestern Indian Ocean between 6000 and 3000 years ago",
+    "authors": [
+      "H. Li,",
+      "H. Cheng,",
+      "H. Cheng,",
+      "A. Sinha,",
+      "G. Kathayat,",
+      "C. Spötl,",
+      "A. A. André,",
+      "A. Meunier,",
+      "J. Biswas,",
+      "P. Duan,",
+      "Y. Ning,",
+      "R. L. Edwards"
+    ],
+    "doi": "https://doi.org/10.5194/cp-14-1881-2018",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  1881\n                                  – 1891",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "The “4.2 ka event” is frequently described as a major global climate anomaly between 4.2 and 3.9 ka, which defines the beginning of the current Meghalayan age in the Holocene epoch. The “event” has been disproportionately reported from proxy records from the Northern Hemisphere, but its climatic manifestation remains much less clear in the Southern Hemisphere. Here, we present highly resolved and chronologically well-constrained speleothem oxygen and carbon isotopes records between ∼6 and 3 ka from Rodrigues Island in the southwestern subtropical Indian Ocean, located ∼600 km east of Mauritius. Our records show that the 4.2 ka event did not manifest itself as a period of major climate change at Rodrigues Island in the context of our record's length. Instead, we find evidence for a multi-centennial drought that occurred near-continuously between 3.9 and 3.5 ka and temporally coincided with climate change throughout the Southern Hemisphere.",
+    "readLink": "https://www.clim-past.net/14/1881/2018/cp-14-1881-2018.pdf"
+  },
+  {
+    "title": "Quantifying the influence of the terrestrial biosphere on glacial–interglacial climate dynamics",
+    "authors": [
+      "T. Davies-Barnard,",
+      "T. Davies-Barnard,",
+      "A. Ridgwell,",
+      "A. Ridgwell,",
+      "J. Singarayer,",
+      "P. Valdes"
+    ],
+    "doi": "https://doi.org/10.5194/cp-13-1381-2017",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  1381\n                                  – 1401",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "The terrestrial biosphere is thought to be a key component in the climatic variability seen in the palaeo-record. It has a direct impact on surface temperature through changes in surface albedo and evapotranspiration (so-called biogeophysical effects) and, in addition, has an important indirect effect through changes in vegetation and soil carbon storage (biogeochemical effects) and hence modulates the concentrations of greenhouse gases in the atmosphere. The biogeochemical and biogeophysical effects generally have opposite signs, meaning that the terrestrial biosphere could potentially have played only a very minor role in the dynamics of the glacial–interglacial cycles of the late Quaternary. Here we use a fully coupled dynamic atmosphere–ocean–vegetation general circulation model (GCM) to generate a set of 62 equilibrium simulations spanning the last 120 kyr. The analysis of these simulations elucidates the relative importance of the biogeophysical versus biogeochemical terrestrial biosphere interactions with climate. We find that the biogeophysical effects of vegetation account for up to an additional −0.91 °C global mean cooling, with regional cooling as large as −5 °C, but with considerable variability across the glacial–interglacial cycle. By comparison, while opposite in sign, our model estimates of the biogeochemical impacts are substantially smaller in magnitude. Offline simulations show a maximum of +0.33 °C warming due to an increase of 25 ppm above our (pre-industrial) baseline atmospheric CO2 mixing ratio. In contrast to shorter (century) timescale projections of future terrestrial biosphere response where direct and indirect responses may at times cancel out, we find that the biogeophysical effects consistently and strongly dominate the biogeochemical effect over the inter-glacial cycle. On average across the period, the terrestrial biosphere has a −0.26 °C effect on temperature, with −0.58 °C at the Last Glacial Maximum. Depending on assumptions made about the destination of terrestrial carbon under ice sheets and where sea level has changed, the average terrestrial biosphere contribution over the last 120 kyr could be as much as −50 °C and −0.83 °C at the Last Glacial Maximum.",
+    "readLink": "https://www.clim-past.net/13/1381/2017/cp-13-1381-2017.pdf"
+  },
+  {
+    "title": "Tropical peat fire emissions: 2019 field measurements in Sumatra and Borneo and synthesis with previous studies",
+    "authors": [
+      "R. J. Yokelson,",
+      "B. H. Saharjo,",
+      "C. E. Stockwell,",
+      "C. E. Stockwell,",
+      "C. E. Stockwell,",
+      "E. I. Putra,",
+      "T. Jayarathne,",
+      "T. Jayarathne,",
+      "A. Akbar,",
+      "I. Albar,",
+      "D. R. Blake,",
+      "L. L. B. Graham,",
+      "A. Kurniawan,",
+      "A. Kurniawan,",
+      "S. Meinardi,",
+      "D. Ningrum,",
+      "A. D. Nurhayati,",
+      "A. Saad,",
+      "N. Sakuntaladewi,",
+      "N. Sakuntaladewi,",
+      "E. Setianto,",
+      "I. J. Simpson,",
+      "E. A. Stone,",
+      "S. Sutikno,",
+      "A. Thomas,",
+      "K. C. Ryan,",
+      "M. A. Cochrane"
+    ],
+    "doi": "https://doi.org/10.5194/acp-22-10173-2022",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  10173\n                                  – 10194",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Peat fires in Southeast Asia are a major source of trace gases and particles to the regional-global atmosphere that influence atmospheric chemistry, climate, and air quality. During the November 2015 record-high Ocean Niño Index (ONI, 2.6) our mobile smoke sampling team made the first, or rare, field measurements of numerous trace gases, aerosol optical properties, and aerosol chemistry and mass emissions for fires burning only peat in the Indonesian province of Central Kalimantan (on the island of Borneo). The measurements used Fourier transform infrared spectroscopy (FTIR), whole air sampling (WAS), photoacoustic extinctiometers (PAX, 401 and 870 nm), and detailed off-line analyses of particulate matter (PM) collected on filters. In September–November 2019 we measured peat fire trace gas emissions again, using WAS only, under El Niño–Southern Oscillation (ENSO)-neutral conditions (ONI, 0.3) in more remote areas of Central Kalimantan and also the Indonesian provinces of Riau, Jambi, and South Sumatra, all on the island of Sumatra. The 2019 measurements significantly expanded the geographic range and climate conditions sampled. This paper presents the 2019 results and synthesizes them with the previous fieldwork to converge on more robust regional average emission factors (EFs; grams of compound per kilogram of biomass burned) for authentic peat fires. In addition, samples of peat imported from Indonesia were burned in US laboratories, and the EFs and optical properties were characterized in more detail than in the field by a larger suite of instrumentation. We use the improved knowledge of regional emissions based on the expanded field measurements to select the most representative lab data and compute a synthesized, more “chemically complete” set of EFs and aerosol optical properties for tropical peat fires. The modified combustion efficiency (MCE) values for the peat smoke sampled in 2019 were within the range of MCEs sampled in 2015, but with a lower average in 2019 (0.718±0.021, range 0.687–0.736) than 2015 (0.772±0.035, range 0.693–0.835). Averaging the new and older data together suggests an updated MCE for tropical peat fires of ∼0.76. Despite the difference in MCE, the study-average methane emission factors (EF CH4) were remarkably similar across the 2 years probing different regions: 9.42±2.51 g kg−1 in 2019 and 9.51±4.74 g kg−1 in 2015. When parsing the 2019 samples by province, the EFs for non-methane organic gases (NMOGs) were about 3 times higher in South Sumatra and Central Kalimantan than in Jambi and Riau, but the overall 2019 study average was only ∼15 % higher than the 2015 study average. South Sumatra peat fires emitted higher amounts of carbonyl and dimethyl sulfide, suggesting a volcanic or marine influence or effects of agricultural chemicals. The lab and fieldwork taken together provide EFs for 230 trace gases including CO2 (1544 g kg−1), CO (315 g kg−1), and CH4 (9.8 g kg−1). These are significant adjustments to IPCC-recommended EFs, −9 %, +50 %, and −53 %, respectively. We also report EFs for numerous NMOGs, 46 N-containing compounds, and 14 sulfur- or halogen-containing species. The use of high-resolution mass spectrometry in the lab allowed measurement of 82 % more NMOG mass than in the field. Gravimetrically measured EF PM2.5 in the field in 2015 (17.3±5.8 g kg−1) was ∼20 % lower than the average from lab studies (22.4±10.4 g kg−1), perhaps due to higher field temperatures. Taken together the lab and field data show that the single-scattering albedo (SSA) was largely independent of wavelength and MCE in the visible (∼0.998), but lower at low MCE at 401 and 405 nm with a value of 0.958 at the study-average MCE. The absorption Ångström exponent (AAE) at the average MCE was 5.7. By far the largest PM component was weakly absorbing insoluble organic carbon.",
+    "readLink": "https://acp.copernicus.org/articles/22/10173/2022/acp-22-10173-2022.pdf"
+  }
+]

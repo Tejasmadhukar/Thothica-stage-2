@@ -1,0 +1,183 @@
+[
+  null,
+  {
+    "title": "Variational mode decomposition based random forest model for solar radiation forecasting: New emerging machine learning technology",
+    "authors": [
+      "Mumtaz Ali,",
+      "Ramendra Prasad,",
+      "Yong Xiang,",
+      "Mohsin Khan,",
+      "Aitazaz Ahsan Farooque,",
+      "Tianrui Zong,",
+      "Zaher Mundher Yaseen"
+    ],
+    "doi": "Vol. 7\n                                \n                                \n                                  pp.\n                                  6700\n                                  – 6717",
+    "issn": "2352-4847 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/energy-reports/",
+    "abstract": "Forecasting of solar radiation (Radn) can provide an insight vision for the amount of green and friendly energy sources. Owing to the non-linearity and non-stationarity challenges caused by meteorological variables in forecasting Radn, a variational mode decomposition method is integrated with simulated annealing and random forest (VMD-SA-RF) for resolving this problem. Firstly, the input parameters are separated into training and testing phases​ after generating a one-day ahead significant lags at (t – 1). Secondly, the variational mode decomposition is set to factorize multivariate meteorological data of train and test sets, independently, into their band-limited signals. Thirdly, the simulate annealing based feature selection system is engaged to select the best band-limited signals. Finally, using the pertinent band-limited signals, the daily Radn is forecasted via random forest (RF) model. The outcomes are benchmarked with other comparative models. The hybrid fusion VMD-SA-RF model is tested geographically in Australia, generates reliable performance to forecast Radn. The hybrid VMD-SA-RF system combining the pertinent meteorological features, as the model predictors have substantial implications for renewable and sustainable energy resource management.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352484721009203"
+  },
+  {
+    "title": "Thermo-economic and environmental performance analyses of a biomass-based carbon negative system integrating externally fired gas turbine and molten carbonate fuel cell",
+    "authors": [
+      "Sk Arafat Zaman,",
+      "Sudip Ghosh"
+    ],
+    "doi": "Vol. 14\n                                \n                                \n                                  p.\n                                  100187",
+    "issn": "2590-1745 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/energy-conversion-and-management-x",
+    "abstract": "Biomass fueled power generation systems integrated with carbon capture has very good potential of mitigating climate change, but they usually experience low efficiency. A novel biomass gasification-based carbon negative system consisting of an externally fired gas turbine, post combustion CO2 capture employing molten carbonate fuel cell (MCFC) and waste heat recovery through steam cycle and organic Rankine cycle (ORC) is proposed and investigated in this article. Energy, exergy, economy and environmental analyses of the proposed system have been performed. Parametric investigation has been carried out and the effects of key operating parameters i.e., compressor pressure ratio, turbine inlet temperature, current density and fuel utilization factor of the fuel cell, steam pressure of the steam cycle on the overall performance of the proposed plant have been observed. The proposed plant can generate 16.21 MW of maximum power, with 50.8% of maximum energy efficiency, costing minimum levelized electricity price (LEP) of 0.097 $/kWh with 90% carbon capture. Moreover, the plant captures yearly maximum 112,400 tons of carbon dioxide which results in 16.8 million $/year environmental benefit to the society. The results also show that the present system is superior in terms of both energy and economy aspects compared to the other biomass-based carbon negative systems with post combustion carbon capture mentioned in recent literature.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2590174522000101"
+  },
+  {
+    "title": "A Maeotis ingoványai Történeti-földrajzi vizsgálat antik és középkori szerzők, valamint korai térképek alapján - The Maeotian Marshes. Historical and Geographical Study Based on Antique and Medieval Books and Early Maps",
+    "authors": [
+      "KOVÁCS , Kitti"
+    ],
+    "doi": "",
+    "journalVolume": "Vol. 26,\n                                no. 3\n                                \n                                  pp.\n                                  7\n                                  – 21",
+    "issn": "1419-0222 (Print)",
+    "publisher": "2064-5929 (Online)",
+    "countryOfPublisher": "Belvedere Meridionale LTD.",
+    "lcc": [
+      "Hungary",
+      "Social Sciences"
+    ],
+    "journalUrl": "http://www.belvedere-meridionale.hu",
+    "abstract": "Maeotis is frequently mentioned in antique and medieval sources and it is mainly considered to be identical to the Sea of Azov by historians. However, the terms which refer to it in ancient texts, such as swamp, quagmire, lake and sea, seemingly contradict this theory. The aim of this article is to present the increase of knowledge about Maeotis from Herodotus to Simon Kézai with special regard to the personal experience of the authors and the transmission of the information. We collected geographical data about Maeotis from the works of ancient and medieval authors, such as Strabo, Jordanes, Al-Mas’udi and William of Rubruk, and compared the descriptions. As the improvement of geographical knowledge is particularly noticeable on the 16th-18th century maps, these were also included in our research. The cartographic name of Maeotis was Palus Maeoti(de)s until the middle of the 18th century and it was depicted as a sea on maps. The environmental-historical analysis of the sources and early maps suggested that the climate change might have influenced the results, but we could not draw general conclusions, since this question still lacks detailed examination. As all the designations used in the sources (lake, sea, marsh, quagmire) refer to the Sea of Azov, we concluded that the identification of Maeotis with the Sea of Azov is correct. The firth of the Don River and the western part of the Sea of Azov, namely the Sivash Lagoon were described with terms like marshy and swampy.",
+    "readLink": "http://www.belvedere-meridionale.hu/lapszamok/2014-3/01_kovacs_2014_03.pdf"
+  },
+  {
+    "title": "Global CO<sub>2</sub> Emission-Related Geotechnical Engineering Hazards and the Mission for Sustainable Geotechnical Engineering",
+    "authors": [
+      "Ilhan Chang,",
+      "Minhyeong Lee,",
+      "Gye-Chun Cho"
+    ],
+    "doi": "https://doi.org/10.3390/en12132567",
+    "journalVolume": "Vol. 12,\n                                no. 13\n                                \n                                  p.\n                                  2567",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Global warming and climate change caused by greenhouse gas (GHG) emissions have rapidly increased the occurrence of abnormal climate events, and both the scale and frequency of geotechnical engineering hazards (GEHs) accordingly. In response, geotechnical engineers have a responsibility to provide countermeasures to mitigate GEHs through various ground improvement techniques. Thus, this study provides a comprehensive review of the possible correlation between GHG emissions and GEHs using statistical data, a review of ground improvement methods that have been studied to reduce the carbon footprint of geotechnical engineering, and a discussion of the direction in which geotechnical engineering should proceed in the future.",
+    "readLink": "https://www.mdpi.com/1996-1073/12/13/2567"
+  },
+  {
+    "title": "A case study of a ducted gravity wave event over northern Germany using simultaneous airglow imaging and wind-field observations",
+    "authors": [
+      "S. Sarkhel,",
+      "G. Stober,",
+      "G. Stober,",
+      "G. Stober,",
+      "J. L. Chau,",
+      "S. M. Smith,",
+      "C. Jacobi,",
+      "S. Mondal,",
+      "M. G. Mlynczak,",
+      "J. M. Russell III"
+    ],
+    "doi": "https://doi.org/10.5194/angeo-40-179-2022",
+    "journalVolume": "Vol. 40\n                                \n                                \n                                  pp.\n                                  179\n                                  – 190",
+    "issn": "0992-7689 (Print)",
+    "publisher": "1432-0576 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.annales-geophysicae.net",
+    "abstract": "An intriguing and rare gravity wave event was recorded on the night of 25 April 2017 using a multiwavelength all-sky airglow imager over northern Germany. The airglow imaging observations at multiple altitudes in the mesosphere and lower thermosphere region reveal that a prominent upward-propagating wave structure appeared in O(1S) and O2 airglow images. However, the same wave structure was observed to be very faint in OH airglow images, despite OH being usually one of the brightest airglow emissions. In order to investigate this rare phenomenon, the altitude profile of the vertical wavenumber was derived based on colocated meteor radar wind-field and SABER temperature profiles close to the event location. The results indicate the presence of a thermal duct layer in the altitude range of 85–91 km in the southwest region of Kühlungsborn, Germany. Utilizing these instrumental data sets, we present evidence to show how a leaky duct layer partially inhibited the wave progression in the OH airglow emission layer. The coincidental appearance of this duct layer is responsible for the observed faint wave front in the OH airglow images compared O(1S) and O2 airglow images during the course of the night over northern Germany.",
+    "readLink": "https://angeo.copernicus.org/articles/40/179/2022/angeo-40-179-2022.pdf"
+  },
+  {
+    "title": "The effects of climate change on infectious diseases with cutaneous manifestations",
+    "authors": [
+      "Sarah J. Coates, MD,",
+      "Scott A. Norton, MD, MPH, MSc"
+    ],
+    "doi": "Vol. 7,\n                                no. 1\n                                \n                                  pp.\n                                  8\n                                  – 16",
+    "issn": "2352-6475 (Online)",
+    "publisher": "Wolters Kluwer",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Dermatology"
+    ],
+    "journalUrl": "https://journals.lww.com/ijwd/pages/default.aspx",
+    "abstract": "Background: Anthropogenic climate change affects the burden of infectious diseases via several interconnected mechanisms. In recent years, there has been greater awareness of the ways in which climate-sensitive infectious diseases pose a growing threat to global public health. Objective: This study aimed to categorize and describe the effects of climate change on infectious diseases with skin manifestations. Methods: A scoping review of the MEDLINE and PubMed online databases for climate-sensitive infections was performed in February and March 2020. A representative selection of conditions with skin manifestations was included in this review. Results: Several representative climate-sensitive infectious diseases were identified in each of the following categories: vector-borne infectious diseases, infectious diseases associated with extreme weather events, and infectious diseases linked to human migration. Conclusion: Climate variables directly influence the survival and reproduction of infectious microorganisms, their vectors, and their animal reservoirs. Due to sustained warmer temperatures at higher latitudes, climate change has expanded the geographic range of certain pathogenic microbes. More frequent climate change-related extreme weather events create circumstances where existing infectious microorganisms flourish and novel infections emerge. Climate instability is linked to increased human migration, which disrupts health care infrastructure as well as the habitats of microbes, vectors, and animal reservoirs and leads to widespread poverty and overcrowding. Dermatologists should understand that climate change will affect the burden and geographic distribution of infectious diseases, many of which have cutaneous signs and might be encountered in their regular practice.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352647520301179"
+  },
+  {
+    "title": "How Hives Collapse: Allee Effects, Ecological Resilience, and the Honey Bee.",
+    "authors": [
+      "Brian Dennis,",
+      "William P Kemp"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0150055",
+    "journalVolume": "Vol. 11,\n                                no. 2\n                                \n                                  p.\n                                  e0150055",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "We construct a mathematical model to quantify the loss of resilience in collapsing honey bee colonies due to the presence of a strong Allee effect. In the model, recruitment and mortality of adult bees have substantial social components, with recruitment enhanced and mortality reduced by additional adult bee numbers. The result is an Allee effect, a net per-individual rate of hive increase that increases as a function of adult bee numbers. The Allee effect creates a critical minimum size in adult bee numbers, below which mortality is greater than recruitment, with ensuing loss of viability of the hive. Under ordinary and favorable environmental circumstances, the critical size is low, and hives remain large, sending off viably-sized swarms (naturally or through beekeeping management) when hive numbers approach an upper stable equilibrium size (carrying capacity). However, both the lower critical size and the upper stable size depend on many parameters related to demographic rates and their enhancement by bee sociality. Any environmental factors that increase mortality, decrease recruitment, or interfere with the social moderation of these rates has the effect of exacerbating the Allee effect by increasing the lower critical size and substantially decreasing the upper stable size. As well, the basin of attraction to the upper stable size, defined by the model potential function, becomes narrower and shallower, indicating the loss of resilience as the hive becomes subjected to increased risk of falling below the critical size. Environmental effects of greater severity can cause the two equilibria to merge and the basin of attraction to the upper stable size to disappear, resulting in collapse of the hive from any initial size. The model suggests that multiple proximate causes, among them pesticides, mites, pathogens, and climate change, working singly or in combinations, could trigger hive collapse.",
+    "readLink": "http://europepmc.org/articles/PMC4765896?pdf=render"
+  },
+  {
+    "title": "In Vino Veritas",
+    "authors": [
+      "Lena Walschap"
+    ],
+    "doi": "https://doi.org/10.18352/tseg.1118",
+    "journalVolume": "Vol. 17,\n                                no. 3",
+    "issn": "1572-1701 (Print)",
+    "publisher": "2468-9068 (Online)",
+    "countryOfPublisher": "openjournals.nl",
+    "lcc": [
+      "Netherlands",
+      "Social Sciences: Social history and conditions. Social problems. Social reform",
+      "Social Sciences: Economic history and conditions"
+    ],
+    "journalUrl": "https://www.tseg.nl/",
+    "abstract": "In Vino Veritas. Climatic and socioeconomic explanations for the decline of the wine production in Leuven. In the past, wine cultivation in Europe was much more widespread than it is today. However, around the sixteenth century, vineyards disappeared in many regions and wine cultivation was in decline. To explain this, convincing arguments have been made on the importance of both climatic and economic circumstances. By considering explanations from different viewpoints for the case of Leuven, this article explains why no consistent conclusion has been reached in the past. Climatic and economic factors were mutually reinforcing and cannot be considered separately. A combination of unpredictable harvests because of Little Ice Age weather types and small profits due to the unfavourable economic circumstances proved to be the perfect storm that caused the cultivation of grapevines in Leuven to no longer be worth pursuing.",
+    "readLink": "https://openjournals.nl/index.php/tseg/article/view/9368"
+  },
+  {
+    "title": "Fish morphometric body condition indices reflect energy reserves but other physiological processes matter",
+    "authors": [
+      "Pablo Brosset,",
+      "Alan Averty,",
+      "Margaux Mathieu-Resuge,",
+      "Quentin Schull,",
+      "Philippe Soudant,",
+      "Christophe Lebigre"
+    ],
+    "doi": "Vol. 154\n                                \n                                \n                                  p.\n                                  110860",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Morphometric indices of body condition are assumed to reflect an animal’s health and ultimately its fitness, but their physiological significance remains a matter of debate. These indices are indeed usually considered as proxies of energy reserves, ignoring other physiological processes involved in animal health such as nutritional, immune and hormonal states. Given the wide variety of ecological processes investigated through morphometric body condition indices in marine sciences, there is a clear need to determine whether morphometric indices reflect primarily individuals’ energy reserves or their broader integrated physiological status. To address this issue, we used morphometric and physiological data (cortisol level, oxidative stress, digestive enzymes activity, and both fatty acids percentage and total amount) collected in three stocks of the European sardine (Sardina pilchardus) presenting contrasted patterns of growth and body condition. We found that morphometric body condition indices are indeed mainly and consistently linked to a proxy of the amount of lipid reserves (i.e., fatty acids amount), but also significantly to quality of lipid reserves (i.e., fatty acids percentage) and fish chronic stress (scale cortisol levels). We found no significant relationship between morphometric indices of body condition and both oxidative stress proxies and variables measuring digestive enzymes activity. Our study confirmed that morphometric body condition indices primarily reflect the variance in individuals’ lipid reserves and to a lesser extent the actual composition of these reserves (linked to differences in fish diet) and scale cortisol levels (indicating fish metabolism and/or their chronic stress levels). Therefore, some non-energetic aspects should be considered when studying individuals’ responses to environmental changes and other key physiological processes (oxidative stress proxies, activity of digestive enzymes) should be investigated directly to support scientific-based decision-making in the context of climate change.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X23010026"
+  }
+]

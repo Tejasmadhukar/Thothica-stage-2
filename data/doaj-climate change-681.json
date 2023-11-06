@@ -1,0 +1,214 @@
+[
+  {
+    "title": "A hypothesis and a case-study projection of an influence of MJO modulation on boreal-summer tropical cyclogenesis in a warmer climate with a global non-hydrostatic model: a transition toward the central Pacific?",
+    "authors": [
+      "KAZUYOSHI eOOUCHI,",
+      "Masaki eSatoh,",
+      "Masaki eSatoh,",
+      "Yohei eYamada,",
+      "Hirofumi eTomita,",
+      "Hirofumi eTomita,",
+      "Masato eSugi"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2014.00001",
+    "journalVolume": "Vol. 2",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "The eastward shift of the enhanced activity of tropical cyclone to the central Pacific is a robust projection result for a future warmer climate, and is shared by most of the state-of-the-art climate models. The shift has been argued to originate from the underlying El-Ñino like sea-surface temperature (SST) forcing. This study explores the possibility that the change of the activity of the Madden-Julian Oscillation (MJO) can be an additional, if not alternative, contributor to the shift, using the dataset of Yamada et al. (2010) from a global non-hydrostatic 14-km grid mesh time-slice experiment for a boreal-summer case. Within the case-study framework, we develop the hypothesis that an eastward shift of the high-activity area of the MJO, as manifested itself as the significant intra-seasonal modulation of the enhanced precipitation, is associated with the increased tropical cyclogenesis potential over the North central Pacific by regulating cyclonic relative vorticity and vertical shear. In contrast, the North Indian Ocean and maritime continent undergo relatively diminished genesis potential. An implication is that uncertainty in the future tropical cyclogenesis in some part of the Pacific and other ocean basins could be reduced if projection of the MJO and its connection with the underlying SST environment can be better understood and constrained by the improvement of climate models.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/feart.2014.00001/full"
+  },
+  {
+    "title": "A Methodology to Infer Crop Yield Response to Climate Variability and Change Using Long-Term Observations",
+    "authors": [
+      "Manfred A. Lange,",
+      "Mustapha El-Maayar"
+    ],
+    "doi": "https://doi.org/10.3390/atmos4040365",
+    "journalVolume": "Vol. 4,\n                                no. 4\n                                \n                                  pp.\n                                  365\n                                  – 382",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "A new methodology to extract crop yield response to climate variability and change from long-term crop yield observations is presented in this study. In contrast to the existing first-difference approach (FDA), the proposed methodology considers that the difference in value between crop yields of two consecutive years reflects necessarily the contributions of climate and management conditions, especially at large spatial scales where both conditions may vary significantly from one year to the next. Our approach was applied to remove the effect of non-climatic factors on crop yield and, hence, to isolate the effect of the observed climate change between 1961 and 2006 on three widely crops grown in three Mediterranean countries—namely wheat, corn and potato—using national-level crop yield observations’ time-series. Obtained results show that the proposed methodology provides us with a ground basis to improve substantially our understanding of crop yield response to climate change at a scale that is relevant to large-scale estimations of agricultural production and to food security analyses; and therefore to reduce uncertainties in estimations of potential climate change effects on agricultural production. Furthermore, a comparison of outputs of our methodology and FDA outputs yielded a difference in terms of maize production in Egypt, for example, that exceeds the production of some neighbouring countries.",
+    "readLink": "http://www.mdpi.com/2073-4433/4/4/365"
+  },
+  {
+    "title": "Biases in the albedo sensitivity to deforestation  in CMIP5 models and their impacts on the  associated historical radiative forcing",
+    "authors": [
+      "Q. Lejeune,",
+      "Q. Lejeune,",
+      "E. L. Davin,",
+      "G. Duveiller,",
+      "B. Crezee,",
+      "R. Meier,",
+      "A. Cescatti,",
+      "S. I. Seneviratne"
+    ],
+    "doi": "https://doi.org/10.5194/esd-11-1209-2020",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  1209\n                                  – 1232",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "Climate model biases in the representation of albedo variations between land cover classes contribute to uncertainties on the climate impact of land cover changes since pre-industrial times, especially on the associated radiative forcing. Recent publications of new observation-based datasets offer opportunities to investigate these biases and their impact on historical surface albedo changes in simulations from the fifth phase of the Coupled Model Intercomparison Project (CMIP5). Conducting such an assessment is, however, complicated by the non-availability of albedo values for specific land cover classes in CMIP and the limited number of simulations isolating the land use forcing. In this study, we demonstrate the suitability of a new methodology to extract the albedo of trees and crops–grasses in standard climate model simulations. We then apply it to historical runs from 17 CMIP5 models and compare the obtained results to satellite-derived reference data. This allows us to identify substantial biases in the representation of the albedo of trees and crops–grasses as well as the surface albedo change due to the transition between these two land cover classes in the analysed models. Additionally, we reconstruct the local surface albedo changes induced by historical conversions between trees and crops–grasses for 15 CMIP5 models. This allows us to derive estimates of the albedo-induced radiative forcing from land cover changes since pre-industrial times. We find a multi-model range from 0 to −0.17 W m−2, with a mean value of −0.07 W m−2. Constraining the surface albedo response to transitions between trees and crops–grasses from the models with satellite-derived data leads to a revised multi-model mean estimate of −0.09 W m−2 but an increase in the multi-model range. However, after excluding one model with unrealistic conversion rates from trees to crops–grasses the remaining individual model results vary between −0.03 and −0.11 W m−2. These numbers are at the lower end of the range provided by the IPCC AR5 (-0.15±0.10 W m−2). The approach described in this study can be applied to other model simulations, such as those from CMIP6, especially as the evaluation diagnostic described here has been included in the ESMValTool v2.0.",
+    "readLink": "https://esd.copernicus.org/articles/11/1209/2020/esd-11-1209-2020.pdf"
+  },
+  {
+    "title": "Effect of Land Use on Water Erosion Override Impacts Associated with Climate",
+    "authors": [
+      "YaMin Chen,",
+      "XiaoDong Song,",
+      "Feng Liu,",
+      "Yue Dong,",
+      "Chu Zhang,",
+      "MingLiang Ye,",
+      "GanLin Zhang"
+    ],
+    "doi": "https://doi.org/10.34133/ehs.0070",
+    "journalVolume": "Vol. 9",
+    "issn": "2096-4129 (Print)",
+    "publisher": "2332-8878 (Online)",
+    "countryOfPublisher": "American Association for the Advancement of Science (AAAS)",
+    "lcc": [
+      "United States",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://spj.science.org/journal/ehs",
+    "abstract": "Anthropogenic activities have dramatically changed land uses over the last century, which has considerably increased soil disturbance. Despite considerable attention paid to the effects of land use on soil erosion, it remains controversial as to how much land use and climate contribute to erosion. In this study, we conducted a comprehensive meta-analysis of 1,380 measurements from published studies using the 137Cs method to examine the responses of erosion to land uses and climatic variables across terrestrial ecosystems in China. Our results showed that land use had significant impacts on the rate of erosion, with the lowest rates on natural and bamboo forests and the highest rates on farmland. Land use change of forest and grassland to farmland significantly increased erosion. Erosion rates respond significantly but differently to climatic variables in varying land use types. Correlations of erosion rates with mean annual temperature and precipitation were negative in forest ecosystems, positive in farmland, and nonsignificant in grassland. Variance partition analysis showed that land use types explained more of the variation in erosion rates than did environmental variables at a broad geographic scale, such as climate. This study highlights the importance of land use in affecting erosion rate. Incorporating these evidences into global erosion models may improve the simulation of long-term soil dynamics.",
+    "readLink": "https://spj.science.org/doi/10.34133/ehs.0070"
+  },
+  {
+    "title": "Production of carbon nanomaterials and syngas from biogas reforming and decomposition on one-pot mesoporous nickel alumina catalysts",
+    "authors": [
+      "Nissrine El Hassan,",
+      "Karam Jabbour,",
+      "Anis H. Fakeeha,",
+      "Yara Nasr,",
+      "Muhammad A. Naeem,",
+      "Salwa Bader Alreshaidan,",
+      "Ahmed S. Al-Fatesh"
+    ],
+    "doi": "Vol. 63\n                                \n                                \n                                  pp.\n                                  143\n                                  – 155",
+    "issn": "1110-0168 (Print)",
+    "publisher": "2090-2670 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Egypt",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/alexandria-engineering-journal/",
+    "abstract": "Biogas, a renewable energy source, is primarily composed of CH4 and CO2. It is a promising alternative to fossil fuels and can be used directly for electricity production as well as heat generation via combustion. Concerns about climate change and a greater emphasis on renewable energy sources have recently increased interest in biogas utilization. In this context, biogas reforming and decomposition (BRD) into synthesis gas and carbon nanofibers (CNFs) is viewed as a new and attractive way of efficiently valorising biogas. In this study, Ni-loaded (i.e., 20, 50 wt%) mesoporous alumina materials were prepared using one-pot evaporation-induced self-assembly method for BRD. Synthesized materials were characterized by various techniques: N2-physisorption, X-ray diffraction, temperature-programmed reduction, scanning electron microscopy, and thermal gravimetric analysis. Results showed that textural and structural properties of synthesised materials differed with Ni loading. High Ni-loaded catalyst displayed higher surface area, pore volume, pore size distribution, and average particle size which is the result of deposition of Ni species outside alumina grains creating thus, surface defects. BRD results were greatly influenced by Ni content with Ni50%Al2O3 reflecting catalytic behaviour similar to those expected for pure methane decomposition. Most importantly, this catalyst was also capable of generating, selectively, interesting carbon nanofibers.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1110016822005129"
+  },
+  {
+    "title": "Spatio-temporal analysis of temperature projections based on representative concentration pathways for Satluj River Basin, India",
+    "authors": [
+      "Mukesh Kumar Gupta,",
+      "Mohammed Sharif"
+    ],
+    "doi": "https://doi.org/10.1080/23311916.2021.1933683",
+    "journalVolume": "Vol. 8,\n                                no. 1",
+    "issn": "2331-1916 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/oaen",
+    "abstract": "A spatio-temporal analysis of representative concentration pathways (RCPs)-based projections of surface air temperatures under different combinations of global circulation models (GCMs) and RCPs for Satluj River Basin has been presented. The projections of temperature anomalies have been obtained for several meteorological stations in the basin using 16 different combinations of emission scenarios and global climate models (GCMs). For each combination, the projections of temperature anomalies have been analysed for two future time periods centred at 2030 and 2050. The results of the analysis conducted herein clearly indicate that the temperature will rise for all the future time scales with the maximum increase being projected under RCP8.5 compared to the baseline 1986–2005. However, there is large inter-model variability in the projections of temperature anomalies under different RCPs. Under RCP 8.5, the average temperature in Satluj basin is projected to rise by around 4°C by mid of the twenty-first century. The projections of temperature anomalies analysed herein could be potentially used for the evaluation of hydrological impacts of climate change in Satluj River Basin—a key basin in the Himalayan region from the view point of global warming.",
+    "readLink": "http://dx.doi.org/10.1080/23311916.2021.1933683"
+  },
+  {
+    "title": "Thermal vulnerability of the Levantine endemic and endangered habitat-forming macroalga, Gongolaria rayssiae: implications for reef carbon",
+    "authors": [
+      "Martina Mulas,",
+      "Martina Mulas,",
+      "Jacob Silverman,",
+      "Tamar Guy-Haim,",
+      "Simona Noè,",
+      "Gil Rilov,",
+      "Gil Rilov"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.862332",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Ocean warming is a major threat to marine ecosystems, especially to species with a narrow thermal niche width and narrow biogeographic distribution, like some habitat-forming seaweeds. Declines of marine forests have been reported for several canopy-forming species in temperate regions, including the Mediterranean Sea, where they are dominated by species from the order Fucales, but most of the information on their ecology and status comes from the western basin. Here, we studied the thermal vulnerability and metabolic functioning of the endemic Gongolaria rayssiae located in fast-warming waters of the Israeli Mediterranean coast. We followed seasonal changes in phenology and ecology of G. rayssiae and its associated community during 2018-2020. Its highest biomass, density and thallus length were documented in spring-early summer (March-mid June). When seawater temperature exceeded 25°C, it shed its branches until February, when re-growth normally occurred. The thermal performance curve of G. rayssiae was determined by exposing it to 11 temperature levels in the range 15-35°C. The thermal optimum temperature for gross oxygen production, determined from the fitted curve, was 24.5°C. This relatively low thermal optimum suggests marked sensitivity to warming and supports the notion that G. rayssiae is a temperate relict species in the area. Additionally, we conducted seasonal ex-situ incubations during daytime and nighttime and recorded the highest primary productivity in spring, when it is at its peak of growth. In this season, its net inorganic carbon uptake was 42 ± 11 µmol C g dw-1 h-1 ( ± SD), while in its branchless form during late summer, it decreased six-fold. Due to the fast ocean warming conditions of the area, we hypothesize that the growth season of the species will shrink, and the species may eventually disappear. Finally, when exposed to high temperatures in natural and manipulative conditions, G. rayssiae exhibited a dramatic decline in its carbon sequestration rates with important implication for the carbon budget of the reef. This study highlights the importance of establishing a species phenology and environmental sensitivity (and especially that of endemic ones) in rapidly warming ecosystems, to estimate its potential fate due to climate change.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.862332/full"
+  },
+  {
+    "title": "Local Perspectives on Climate Change, Its Impact and Adaptation: A Case Study from the Westfjords Region of Iceland",
+    "authors": [
+      "Deirdre Bannan,",
+      "Rannveig Ólafsdóttir,",
+      "Benjamin David Hennig"
+    ],
+    "doi": "https://doi.org/10.3390/cli10110169",
+    "journalVolume": "Vol. 10,\n                                no. 169\n                                \n                                  p.\n                                  169",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Climate change is one of the most pressing issues of our time. Rising temperatures, changing precipitation and more weather extremes pose risks to local societies worldwide. Yet, climate change is most often presented and reported on a global or national scale. This paper aims to analyze the key aspects of climate change on the local scale by assessing temporal and spatial changes in temperature and precipitation in the Westfjords in north-western Iceland and evaluate their impacts on the region’s livability. Existing temperature and precipitation data were used to model trends in climate change at an unprecedented resolution. The results show that the period of 2001–2020 was warmer than the 1961–1990 reference period in almost every month of every year, and that warming was more pronounced in the winter months. Furthermore, precipitation increased during 1991–2020 period compared to 1961–1990. These detected local patterns confirm some of the major predictions about climate change on the global scale. Considering the impact of climate change at the local level is critical, as it allows the community to envisage their future and provides better possibilities to mitigate, prepare for or adapt to the predicted changes.",
+    "readLink": "https://www.mdpi.com/2225-1154/10/11/169"
+  },
+  {
+    "title": "Natural and traditional defense mechanisms to reduce climate risks in coastal zones of Bangladesh",
+    "authors": [
+      "Mohammed Ataur Rahman,",
+      "Sowmen Rahman"
+    ],
+    "doi": "https://doi.org/10.1016/j.wace.2014.12.004",
+    "journalVolume": "Vol. 7,\n                                no. C\n                                \n                                  pp.\n                                  84\n                                  – 95",
+    "issn": "2212-0947 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/weather-and-climate-extremes/",
+    "abstract": "Substantially resourceful and densely populated coastal zones of Bangladesh experience numerous extreme events linked to hydro-meteorological processes viz. cyclones, tidal surges, floods, salinity intrusion and erosion etc. These hazards give rise to extensive damage to property and loss of lives every year. Further, anthropogenic activities in the coastal zones are accentuating environmental degradation causing widespread suffering. Cyclones and tornadoes in particular damage infrastructures and crops every year affecting the economy of the country negatively. Some naturally adapted plants as well as landscapes usually reduce the speed of cyclones and tornadoes and thus, protect the coastal zones. However, human activities have destroyed many of the forests and landscapes. Sundarbans and Chokoria Sundarbans mangrove forests of Bangladesh are under a great threat of extinction due to illicit logging and agricultural expansion. At least 34 plant species of tropical forest are on the verge of extinction. Many animals e.g., cats, bears, porcupines, wild boars, pythons and anteaters are in the process of being wiped out from the coastal areas. Among the marine and coastal species, Red crabs, jelly-fish, sharks, and dolphins are also rare but these were the major species prior to 1980s. This study revealed that during the recent decades there has been massive plantations and construction of embankment and polderization but these and other measures have been found to be impractical and ineffective in reducing disasters in coastal areas. There is a need for integration of traditional coping practices and wisdoms with modern approaches. Available knowledge on some of these traditional practices has been documented for establishing a sustainable policy for management of coastal zones of Bangladesh. By combining traditional and scientific management of coastal ecosystem with mangroves and other plants following triple-tier mechanism and habitat, it is possible to reduce the effects of natural and climate change-induced disasters. Under such a management system, the entire coastal zone can be made more productive and sustainable.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S221209471500002X"
+  },
+  {
+    "title": "10-year Characteristics of Moisture Source Regions and Their Potential Effect on Seasonal Isotopic Signatures of δ18O in Tropical Trees of Southern Ecuador",
+    "authors": [
+      "Nadja Landshuter,",
+      "Thomas Mölg,",
+      "Jussi Grießinger,",
+      "Achim Bräuning,",
+      "Thorsten Peters"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2020.604804",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "Ratios of stable oxygen isotopes in tree rings (δ18O) are a valuable proxy for reconstructing past climates. Such reconstructions allow us to gain better knowledge of climate dynamics under different (eg warmer) environmental conditions, which also forms the basis for effective risk management. The latter aspect is particularly relevant for our study site on the western flanks of the Andes in Southern Ecuador, since the region is frequently affected by droughts and heavy precipitation events during the rainy season (January to April), leading to enormous social and economic losses. In particular, we focus on precipitation amounts and moisture source regions as they are known to influence the δ18O signature of tree rings. Moisture source regions are based on 240 h backward trajectories that were calculated with the trajectory model LAGRANTO for the rainy seasons 2008 to 2017. A moisture source diagnostic was applied to the air parcel pathways. The resulting moisture source regions were analyzed by calculating composites based on precipitation amounts, season, and calendar year. The precipitation amounts were derived from data of a local Automatic Weather Station (AWS). The analysis confirms that our study site receives its moisture both, from the Atlantic and the Pacific Oceans. Heavy precipitation events are linked to higher moisture contributions from the Pacific, and local SST anomalies along the coast of Ecuador are of higher importance than those off the coast toward the central Pacific. Moreover, we identified increasing moisture contributions from the Pacific over the course of the rainy season. This change and also rain amount effects are detectable in preliminary data of δ18O variations in tree rings of Bursera graveolens. These signatures can be a starting point for investigating atmospheric and hydroclimatic processes, which trigger δ18O variations in tree rings, more extensively in future studies.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2020.604804/full"
+  }
+]

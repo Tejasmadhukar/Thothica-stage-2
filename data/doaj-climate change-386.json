@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Multi-source spatial data-based invasion risk modeling of Striga (Striga asiatica) in Zimbabwe",
+    "authors": [
+      "Bester Tawona Mudereri,",
+      "Elfatih Mohamed Abdel-Rahman,",
+      "Timothy Dube,",
+      "Tobias Landmann,",
+      "Zeyaur Khan,",
+      "Emily Kimathi,",
+      "Rachel Owino,",
+      "Saliou Niassy"
+    ],
+    "doi": "https://doi.org/10.1080/15481603.2020.1744250",
+    "journalVolume": "Vol. 57,\n                                no. 4\n                                \n                                  pp.\n                                  553\n                                  – 571",
+    "issn": "1548-1603 (Print)",
+    "publisher": "1943-7226 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgrs",
+    "abstract": "Monitoring of destructive invasive weeds such as those from the genus Striga requires accurate, near real-time predictions and integrated assessment techniques to enable better surveillance and consistent assessment initiatives. Thus, in this study, we predicted the potential ecological niche of Striga (Striga asiatica) weed in Zimbabwe, to identify and understand its propagation and map potentially vulnerable cropping areas. Vegetation phenology from remote sensing, bioclimatic and other environmental variables (i.e. cropping system, edaphic, land surface temperature, and terrain) were used as predictors. Six machine learning modeling techniques and the ensemble model were evaluated on their suitability to predict current and future Striga weed distributional patterns. The mentioned predictors (n = 40) were integrated into six models with “presence-only” training and evaluation data, collected in Zimbabwe over the period between the 12th and 28th of March 2018. The area under the curve (AUC) and true skill statistic (TSS) were used to measure the performance of the Striga modeling framework. The results showed that the ensemble model had the strongest Striga occurrence predictive power (AUC = 0.98; TSS = 0.93) when compared to the other modeling algorithms. Temperature seasonality (Bio4), the maximum temperature of the warmest month (Bio5) and precipitation seasonality (Bio15) were determined to be the most dominant bioclimatic variables influencing Striga occurrence. “Start of the season” and “season minimum value” of the “Enhanced Vegetation Index base value” were the most relevant remote sensing-based variables. Based on projected climate change scenarios, the study showed that up to 2050, the suitable area for Striga propagation will increase by ~ 0.73% in Zimbabwe. The present work demonstrated the importance of integrating multi-source data in predicting possible crop production restraints due to weed propagation. The results can enhance national preparedness and management strategies, specifically, if the current and future risk areas can be identified for early intervention and containment",
+    "readLink": "http://dx.doi.org/10.1080/15481603.2020.1744250"
+  },
+  {
+    "title": "KELEMBAGAAN PENGURUSAN KEHUTANAN PADA ERA DESENTRALISASI (STUDY KASUS DI KABUPATEN OGAN  KOMERING ILIR, PROPINSI SUMATERA SELATAN)",
+    "authors": [
+      "Sulistya Ekawati"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2009.6.1.69-81",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  69\n                                  – 81",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "Pelaksanaan desentralisasi urusan kehutanan menemui beberapa masalah, antara lain: rancunya aturan perundang-undangan, ketidakjelasan wewenang, kurang harmonisnya tata hubungan kerja pusat dan daerah dan ketidaksiapan daerah. Tulisan ini bertujuan untuk menganalisis aspek kelembagaan kepengurusan hutan pada era desentralisasi dan menjelaskan mengapa berbagai masalah tersebut muncul. Sasaran yang ingin dicapai adalah memberikan rekomendasi untuk perbaikan pelaksanaan desentralisasi kehutanan ke depan. Kajian dilakukan di Kabupaten Ogan Komering Ilir Sumatera Selatan, karena kabupaten ini merupakan salah satu kabupaten di Indonesia yang memiliki luas hutan 45% terhadap total luas kabupaten. Data yang terkumpul dianalisis secara deskriptif. Hasil kajian menunjukkan bahwa beberapa Perda di Kabupaten OKI masih mengacu pada aturan lama dari Departemen Kehutanan yang sudah dicabut. Peraturan perundangan dalam pengurusan hutan di Pemerintah Pusat berubah lebih cepat, daripada sosialisasi ke Pemerintah Daerah. Dalam pelimpahan kewenangan dari Pemerintah Pusat kepada Pemerintah Daerah harus ada keseimbangan hak dan tanggungjawab agar pelimpahan kewenangan yang diberikan tidak dianggap sebagai beban. Tata hubungan kerja antara UPT Pusat yang ada di daerah, Dinas Kehutanan Propinsi dan Dinas Kehutanan Kabupaten perlu diperbaiki agar kinerja pengurusan hutan di daerah lebih optimal. Pelaksanaan desentralisasi urusan kehutanan menghadapi masalah pendanaan dan SDM, oleh karena itu diperlukan pembinaan dan mekanisme pelimpahan wewenang secara bertahap, sampai daerah betul-betul mampu menjalankan kewenangan yang dilimpahkan secara mandiri.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/363"
+  },
+  {
+    "title": "Unexpected winter questing activity of ticks in the Central Midwestern United States",
+    "authors": [
+      "Ram K. Raghavan,",
+      "Zoe L. Koestel,",
+      "Gunavanthi Boorgula,",
+      "Ali Hroobi,",
+      "Roman Ganta,",
+      "John Harrington,",
+      "Doug Goodin,",
+      "Roger W. Stich,",
+      "Gary Anderson"
+    ],
+    "doi": "Vol. 16,\n                                no. 11",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Unexpected questing activity of ticks was noted during the winter months of January and February in the Central Midwestern states of Kansas, Missouri, Oklahoma, and Arkansas. From nine geographically distinct locations, four species of ticks were collected using the flagging method, of which the lone star tick, Amblyomma americanum, was most abundant, followed by the American dog tick, Dermacentor variabilis, the Gulf coast tick, Amblyomma maculatum, and the Black legged tick, Ixodes scapularis. More A. americanum nymphs were caught questing than male or female adults. The winter activity of these medically important ticks in this region poses concern for public health and offers an insight into future tick activity in light of ongoing climate change. More studies on the seasonality of these tick species, and how different climate parameters affect their seasonal activity in this region are warranted and would be expected to benefit for both human and veterinary medicine.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8584693/?tool=EBI"
+  },
+  {
+    "title": "The role of specially protected natural areas in solving environmental problems of the Russian arctic (using the example of Vaygach Island)",
+    "authors": [
+      "Aleinikova Anna,",
+      "Byashkin Maksim,",
+      "Gaivoron Tatiana,",
+      "Mainasheva Galina,",
+      "Marsheva Natalia"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202016902019",
+    "journalVolume": "Vol. 169\n                                \n                                \n                                  p.\n                                  02019",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The Russian Arctic is a unified physical and geographical system of land and sea areas of Northern Eurasia, within which unique natural and historical and cultural objects are concentrated. The system of specially protected natural areas of the Russian Arctic preserves vulnerable arctic, tundra landscapes under conditions of various anthropogenic activities. In the face of modern climate change, monitoring of the transformation of the Arctic landscapes in specially protected natural areas is important. The landscape map compiled as a result of our own field and office studies shows 26 natural complexes. The most interesting for ecological tourism is the north-western part of the island. .By the example of Vaygach Island, the natural and historical-cultural possibilities of organizing a protected area, including the solution of environmental problems, are considered.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/29/e3sconf_apeem2020_02019.pdf"
+  },
+  {
+    "title": "First evidence of free-living Naegleria species in recreational lakes of Alberta, Canada",
+    "authors": [
+      "Rafik Dey,",
+      "Elena Dlusskaya,",
+      "Mariem Oloroso,",
+      "Nicholas J. Ashbolt"
+    ],
+    "doi": "https://doi.org/10.2166/wh.2023.325",
+    "journalVolume": "Vol. 21,\n                                no. 3\n                                \n                                  pp.\n                                  439\n                                  – 442",
+    "issn": "1477-8920 (Print)",
+    "publisher": "1996-7829 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://iwaponline.com/jwh",
+    "abstract": "Rising temperatures are increasing environmental habitats for thermotolerant pathogens, such as the so-called ‘brain-eating amoeba’, Naegleria fowleri. To the best of our knowledge, however, Naegleria species have not been reported in environmental water sources in Canada. We surveyed popular recreational lakes in Alberta, Canada during the summer bathing period to determine the presence or absence of Naegleria species. While N. fowleri was not isolated in this study, we identified other thermotolerant species, including Naegleria pagei, Naegleria gruberi, Naegleria jejuensis and Naegleria fultoni using culture-based methods, hence indicating the potential conditions to support N. fowleri. Ongoing monitoring and examination of water for pathogenic amoebae is recommended in order to assist in the public health management of water sources. HIGHLIGHTS Survey of Naegleria species in recreational lakes in Alberta, Canada.; First evidence of thermotolerant Naegleria species detection in Canada.; Climate change and northern expansion of Naegleria species.;",
+    "readLink": "http://jwh.iwaponline.com/content/21/3/439"
+  },
+  {
+    "title": "CCUS: The Road to Net-Zero",
+    "authors": [
+      "Humbul Suleman,",
+      "Rizwan Nasir"
+    ],
+    "doi": "https://doi.org/10.3390/en16114260",
+    "journalVolume": "Vol. 16,\n                                no. 4260\n                                \n                                  p.\n                                  4260",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "As the world continues to grapple with the pressing issue of climate change, the development and implementation of carbon capture, utilisation, and storage (CCUS) technologies are becoming increasingly important [...]",
+    "readLink": "https://www.mdpi.com/1996-1073/16/11/4260"
+  },
+  {
+    "title": "Attribution Analysis of Runoff Variation in Kuye River Basin Based on Three Budyko Methods",
+    "authors": [
+      "Jiahao Zheng,",
+      "Yi He,",
+      "Xiaohui Jiang,",
+      "Tong Nie,",
+      "Yuxin Lei"
+    ],
+    "doi": "https://doi.org/10.3390/land10101061",
+    "journalVolume": "Vol. 10,\n                                no. 1061\n                                \n                                  p.\n                                  1061",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "The Loess Plateau is the main soil erosion area within the Yellow River Basin. Quantifying the contribution rate of climate change and human activities to runoff change can provide support for water resources management in the Yellow River Basin. Kuye River Basin is located in the Loess Plateau. As a first-class tributary of the Yellow River, it was selected as the study area. Runoff from the Kuye River Basin has decreased significantly since the 1990s owing to climate change and anthropogenic coal mining. The main objective of this study was to quantify the contribution and sensitivity of climate change and anthropogenic activities to runoff changes using three popular Budyko and elasticity coefficient methods, as well as to compare the similarities and differences among the three methods. The results show that: (1) Through four mutation point test methods, the change point of runoff in the study period of Kuye River Basin is 1997. (2) The elasticity coefficients calculated by the three Budyko methods showed that during the study period, the runoff was more sensitive to changes in precipitation, followed by the catchment surface characteristic parameters and the potential evapotranspiration. (3) All three Budyko methods can yield reasonable contributions of climate change and human activity to runoff changes. The three methods together indicate that the influence of the catchment surface characteristic parameters is the most important factor for the runoff variation in the Kuye River.",
+    "readLink": "https://www.mdpi.com/2073-445X/10/10/1061"
+  },
+  {
+    "title": "Climate change, urban health, and the promotion of health equity.",
+    "authors": [
+      "Jerald A Fagliano,",
+      "Ana V Diez Roux"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pmed.1002621",
+    "journalVolume": "Vol. 15,\n                                no. 7\n                                \n                                  p.\n                                  e1002621",
+    "issn": "1549-1277 (Print)",
+    "publisher": "1549-1676 (Online)",
+    "countryOfPublisher": "Public Library of Science (PLoS)",
+    "lcc": [
+      "United States",
+      "Medicine"
+    ],
+    "journalUrl": "https://journals.plos.org/plosmedicine/",
+    "abstract": "Jerald Fagliano and Ana Diez Roux discuss the challenges of climate change in an urban environment, but also opportunities for healthier lifestyles and green spaces.",
+    "readLink": "http://europepmc.org/articles/PMC6057639?pdf=render"
+  },
+  {
+    "title": "Climatic fluctuations and malaria transmission dynamics, prior to elimination, in Guna Yala, República de Panamá",
+    "authors": [
+      "Lisbeth Amarilis Hurtado,",
+      "José E. Calzada,",
+      "Chystrie A. Rigg,",
+      "Milagros Castillo,",
+      "Luis Fernando Chaves"
+    ],
+    "doi": "https://doi.org/10.1186/s12936-018-2235-3",
+    "journalVolume": "Vol. 17,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "1475-2875 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Special situations and conditions: Arctic medicine. Tropical medicine",
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "https://malariajournal.biomedcentral.com/",
+    "abstract": "Abstract Background Malaria has historically been entrenched in indigenous populations of the República de Panamá. This scenario occurs despite the fact that successful methods for malaria elimination were developed during the creation of the Panamá Canal. Today, most malaria cases in the República de Panamá affect the Gunas, an indigenous group, which mainly live in autonomous regions of eastern Panamá. Over recent decades several malaria outbreaks have affected the Gunas, and one hypothesis is that such outbreaks could have been exacerbated by climate change, especially by anomalous weather patterns driven by the EL Niño Southern Oscillation (ENSO). Results Monthly malaria cases in Guna Yala (1998–2016) were autocorrelated up to 2 months of lag, likely reflecting parasite transmission cycles between humans and mosquitoes, and cyclically for periods of 4 months that might reflect relapses of Plasmodium vivax, the dominant malaria parasite transmitted in Panamá. Moreover, malaria case number was positively associated (P < 0.05) with rainfall (7 months of lag), and negatively with the El Niño 4 index (15 months of lag) and the Normalized Difference Vegetation Index, NDVI (8 months of lag), the sign and magnitude of these associations likely related to the impacts of weather patterns and vegetation on the ecology of Anopheles albimanus, the main malaria vector in Guna Yala. Interannual cycles, of approximately 4-year periods, in monthly malaria case numbers were associated with the El Niño 4 index, a climatic index associated with weather and vegetation dynamics in Guna Yala at seasonal and interannual time scales. Conclusion The results showed that ENSO, rainfall and NDVI were associated with the number of malaria cases in Guna Yala during the study period. These results highlight the vulnerability of Guna populations to malaria, an infection sensitive to climate change, and call for further studies about weather impacts on malaria vector ecology, as well as the association of malaria vectors with Gunas paying attention to their socio-economic conditions of poverty and cultural differences as an ethnic minority.",
+    "readLink": "http://link.springer.com/article/10.1186/s12936-018-2235-3"
+  },
+  {
+    "title": "Whose environment?: the end of nature, climate change and the process of post-politicization",
+    "authors": [
+      "Erik Swyngedouw"
+    ],
+    "doi": "https://doi.org/10.1590/S1414-753X2011000200006",
+    "journalVolume": "Vol. 14,\n                                no. 2\n                                \n                                  pp.\n                                  69\n                                  – 87",
+    "issn": "1414-753X (Print)",
+    "publisher": "Associação Nacional de Pós-Graduação e Pesquisa em Ambiente e Sociedade (ANPPAS)",
+    "countryOfPublisher": "Brazil",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography"
+    ],
+    "journalUrl": "http://www.scielo.br/scielo.php?script=sci_serial&pid=1414-753X&lng=en&nrm=iso",
+    "abstract": "The paper explores how the elevation of the environmental question, in particular the problem of climate change, to a global and consensually established public concern is both a marker of and constituent force in the production of de-politicization. The paper has four parts. First, I problematize the question of Nature and the environment. Second, the case of climate change policy is presented as cause célèbre of de-politicization. The third part relates this argument to the views of political theorists who argue that the political constitution of western democracies is increasingly marked by the consolidation of post-political and post-democratic arrangements. Fourth, I discuss the climate change consensus in light of the post-political thesis. I conclude that the matter of the environment and climate change in particular, needs to be displaced onto the terrain of the properly political.Este artigo explora como a eminência da questão ambiental, particularmente da problemática das mudanças climáticas, para uma preocupação pública global e consensualmente vigente é ao mesmo tempo um marco e uma força constituinte na produção da despolitização. Este artigo tem quatro partes. Primeiro, eu problematizo a questão da natureza e do meio ambiente. Segundo, o caso das políticas de mudanças climáticas é apresentado como cause célèbre da despolitização. A terceira parte relaciona este argumento com as visões de teóricos políticos que argumentam que a constituição política das democracias ocidentais é, cada vez mais, marcada pela consolidação de arranjos pós-politicos e pós-democráticos. Na quarta parte eu discuto o consenso das mudanças climáticas à luz da tese pós-política. Eu concluo que a questão do meio ambiente e, particularmente, das mudanças climáticas precisam ser deslocadas para o terreno do propriamente político.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1414-753X2011000200006"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "title": "The Importance of Water Temperature Fluctuations in Relation to the Hydrological Factor. Case Study – Bistrita River Basin (Romania)",
+    "authors": [
+      "Cojoc Gianina Maria,",
+      "Romanescu Gheorghe,",
+      "Tirnovan Alina"
+    ],
+    "doi": "https://doi.org/10.2478/pesd-2014-0034",
+    "journalVolume": "Vol. 8,\n                                no. 2\n                                \n                                  pp.\n                                  183\n                                  – 194",
+    "issn": "2284-7820 (Online)",
+    "publisher": "Alexandru Ioan Cuza University Press, Iasi, Romania",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.pesd.ro/",
+    "abstract": "The increase in most components of the climate over the past 50 years, including air and water temperature, is a real phenomenon, as attested by the numerous specialized researches according to IPCC (2013). The water temperature is one of the most important climatic components in analyzing the hydrological regime of the Bistrita River (Romania). The thermal regime of the Bistrita River basin and the frost phenomena associated with the risk factor are particularly important and frequently appear in this area. In recent years, under the Siret Water Basin Administration, this parameter was permanently monitored, so we could do an analysis, which shows that the water temperature fluctuations, influenced by air temperature, lead to the emergence of the ice jam phenomenon. The present study aims to analyze the water temperature, as compared to the air temperature, and the effect of these components on the liquid flow regime (the values were recorded at the hydrological stations on the main course of the Bistrita River). The negative effects resulted from the ice jam phenomenon require developing methods of damage prevention and defense. The frost phenomena recorded after the construction of the Bicaz dam are analyzed in this article",
+    "readLink": "http://www.degruyter.com/view/j/pesd.2014.8.issue-2/pesd-2014-0034/pesd-2014-0034.xml?format=INT"
+  },
+  {
+    "title": "Coordinating an operational data distribution network  for CMIP6 data",
+    "authors": [
+      "R. Petrie,",
+      "S. Denvil,",
+      "S. Ames,",
+      "G. Levavasseur,",
+      "S. Fiore,",
+      "S. Fiore,",
+      "C. Allen,",
+      "F. Antonio,",
+      "K. Berger,",
+      "P.-A. Bretonnière,",
+      "L. Cinquini,",
+      "E. Dart,",
+      "P. Dwarakanath,",
+      "K. Druken,",
+      "B. Evans,",
+      "L. Franchistéguy,",
+      "S. Gardoll,",
+      "E. Gerbier,",
+      "M. Greenslade,",
+      "D. Hassell,",
+      "A. Iwi,",
+      "M. Juckes,",
+      "S. Kindermann,",
+      "L. Lacinski,",
+      "M. Mirto,",
+      "A. B. Nasser,",
+      "P. Nassisi,",
+      "E. Nienhouse,",
+      "S. Nikonov,",
+      "A. Nuzzo,",
+      "C. Richards,",
+      "S. Ridzwan,",
+      "M. Rixen,",
+      "K. Serradell,",
+      "K. Snow,",
+      "A. Stephens,",
+      "M. Stockhause,",
+      "H. Vahlenkamp,",
+      "R. Wagner"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-14-629-2021",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  629\n                                  – 644",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "The distribution of data contributed to the Coupled Model Intercomparison Project Phase 6 (CMIP6) is via the Earth System Grid Federation (ESGF). The ESGF is a network of internationally distributed sites that together work as a federated data archive. Data records from climate modelling institutes are published to the ESGF and then shared around the world. It is anticipated that CMIP6 will produce approximately 20 PB of data to be published and distributed via the ESGF. In addition to this large volume of data a number of value-added CMIP6 services are required to interact with the ESGF; for example the citation and errata services both interact with the ESGF but are not a core part of its infrastructure. With a number of interacting services and a large volume of data anticipated for CMIP6, the CMIP Data Node Operations Team (CDNOT) was formed. The CDNOT coordinated and implemented a series of CMIP6 preparation data challenges to test all the interacting components in the ESGF CMIP6 software ecosystem. This ensured that when CMIP6 data were released they could be reliably distributed.",
+    "readLink": "https://gmd.copernicus.org/articles/14/629/2021/gmd-14-629-2021.pdf"
+  },
+  {
+    "title": "Placing Ecosystem Services within the Water–Food–Energy–Climate Nexus: A Case Study in Mediterranean Mixed Orchards",
+    "authors": [
+      "Sotiroula Ioannidou,",
+      "Vassilis Litskas,",
+      "Menelaos Stavrinides,",
+      "Ioannis Ν. Vogiatzakis"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy12092224",
+    "journalVolume": "Vol. 12,\n                                no. 2224\n                                \n                                  p.\n                                  2224",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "We used Cyprus as a model to link the Water–Energy–Food–Climate (WEFC) nexus indicators (e.g., carbon and water footprints) to the ecosystem services (ES) provided by 39 mixed orchards (stone fruits and nuts) on organic (Org) and conventional (Conv) farms. Food provision was lower for Org than Conv orchards. Management practices in Org mixed orchards better support climate change mitigation and water flow regulation. Soil quality parameters (e.g., organic matter and soil respiration), Arbuscular Mycorrhizal Fungi (AMF), and farm attributes (e.g., tree age) were significantly correlated to the GHG emissions per Mcal of food. Using cluster analysis, orchards were grouped based on WEFC indicators. Finally, a simple approach was developed to allow a rapid link between the WEFC and ES and to support decision making related to land use. This approach highlighted that in the case of Mediterranean mixed orchards, the main objective towards sustainability should be the balance between input management, food production, and ES from agroecosystems, rather than solely the attainment of high yields.",
+    "readLink": "https://www.mdpi.com/2073-4395/12/9/2224"
+  },
+  {
+    "title": "Drinking water perception and consumption in Canadian subarctic Indigenous communities and the importance for public health",
+    "authors": [
+      "Mylène Ratelle,",
+      "Andrew Spring,",
+      "Brian Douglas Laird,",
+      "Leon Andrew,",
+      "Deborah Simmons,",
+      "Alexa Scully,",
+      "Kelly Skinner"
+    ],
+    "doi": "https://doi.org/10.1139/facets-2021-0094",
+    "journalVolume": "Vol. 7\n                                \n                                \n                                  pp.\n                                  343\n                                  – 359",
+    "issn": "2371-1671 (Online)",
+    "publisher": "Canadian Science Publishing",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Education",
+      "Science"
+    ],
+    "journalUrl": "http://www.facetsjournal.com/",
+    "abstract": "Resource development and climate change are increasing concerns regarding safe water for Indigenous people in Canada. A research study was completed to characterize the consumption of water and beverages prepared with water and identify the perception of water consumption in Indigenous communities from the Northwest Territories and Yukon, Canada. As part of a larger research program, data for this study were available from a 24-hour recall dietary survey (n = 162), a health messages survey (n = 150), and an exposure factor survey (n = 63). A focus group was conducted with Elders in an on-the-land camp setting. The consumption of water-based beverages in winter was 0.9 L/day on average, mainly consisting of tea and coffee. Of the 81% of respondents who reported consuming water-based beverages in the previous 24 hours of the survey, 33% drank more bottled water than tap water. About 2% of respondents consumed water from the land (during the winter season). Chlorine smell was the main limiting factor reported to the consumption of tap water. Results from the focus group indicated that Indigenous knowledge might impact both the perception and consumption of water. These findings aim to support public health efforts to enable people to make water their drink of choice.",
+    "readLink": "https://cdnsciencepub.com/doi/10.1139/facets-2021-0094"
+  },
+  {
+    "title": "Similarities, differences and mechanisms of climate impact on terrestrial vs. marine ecosystems",
+    "authors": [
+      "Maurizio Ribera d’Alcalà"
+    ],
+    "doi": "https://doi.org/10.3897/natureconservation.34.30923",
+    "journalVolume": "Vol. 34\n                                \n                                \n                                  pp.\n                                  505\n                                  – 523",
+    "issn": "1314-6947 (Print)",
+    "publisher": "1314-3301 (Online)",
+    "countryOfPublisher": "Pensoft Publishers",
+    "lcc": [
+      "Bulgaria",
+      "Science: Biology (General): Ecology",
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://natureconservation.pensoft.net/",
+    "abstract": "Comparisons between terrestrial and marine ecosystems are generally not in the main stream of scientific literature even though Webb (2012) listed several points for which the transfer of knowledge and concepts related to one or to the other system would benefit our understanding of both. Even sharing this view, the leading hypothesis behind this contribution is that the pelagic system, where the dominant biotic component by number and biomass is microscopic, has specific features which strongly differentiate it from the above-the-surface terrestrial systems. Due to this, climate change, i.e. changes in temperature, precipitation and most importantly in the dynamics of the two fluid media, atmosphere and ocean, act with different mechanisms which prevents proceeding with analogies in many cases. In addition, the non-linearity of most of the processes and responses to perturbations requires, in order to obtain reliable forecasts or hindcasts, a detailed analysis of the path followed by the system which is normally overlooked in the step-change simulations or projections.",
+    "readLink": "https://natureconservation.pensoft.net/article/30923/download/pdf/"
+  },
+  {
+    "title": "Co-Seismic and Post-Seismic Temporal and Spatial Gravity Changes of the 2010 Mw 8.8 Maule Chile Earthquake Observed by GRACE and GRACE Follow-on",
+    "authors": [
+      "Wei Qu,",
+      "Yaxi Han,",
+      "Zhong Lu,",
+      "Dongdong An,",
+      "Qin Zhang,",
+      "Yuan Gao"
+    ],
+    "doi": "https://doi.org/10.3390/rs12172768",
+    "journalVolume": "Vol. 12,\n                                no. 2768\n                                \n                                  p.\n                                  2768",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The Gravity Recovery and Climate Experiment (GRACE) and GRACE Follow-on (GRACE-FO) satellites are important for studying regional gravitational field changes caused by strong earthquakes. In this study, we chose Chile, one of Earth’s most active seismic zones to explore the co-seismic and post-seismic gravitational field changes of the 2010 Mw 8.8 Maule earthquake based on longer-term GRACE and the newest GRACE-FO data. We calculated the first-order co-seismic gravity gradient changes (GGCs) and probed the geodynamic characteristics of the earthquake. The earthquake caused significant positive gravity change on the footwall and negative gravity changes on the hanging wall of the seismogenic fault. The time series of gravity changes at typical points all clearly revealed an abrupt change caused by the earthquake. The first-order northern co-seismic GGCs had a strong suppressive effect on the north-south strip error. GRACE-FO results showed that the latest post-seismic gravity changes had obvious inherited development characteristics, and that the west coast of Chile maybe still affected by the post-seismic effect. The cumulative gravity changes simulated based on viscoelastic dislocation model is approximately consistent with the longer-term GRACE and the newest GRACE-FO observations. Our results provide important reference for understanding temporal and spatial gravity variations associated with the co-seismic and post-seismic processes of the 2010 Maule earthquake.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/17/2768"
+  },
+  {
+    "title": "Movement ecology research to advance conservation of South America's grassland migratory birds",
+    "authors": [
+      "Alex E. Jahn,",
+      "Vanesa Bejarano,",
+      "Víctor R. Cueto,",
+      "Adrián S. Di Giacomo,",
+      "Carla S. Fontana"
+    ],
+    "doi": "Vol. 15,\n                                no. 3\n                                \n                                  pp.\n                                  209\n                                  – 215",
+    "issn": "2530-0644 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology",
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/perspectives-in-ecology-and-conservation",
+    "abstract": "South America is home to some of the largest, most diverse grasslands on the planet, providing critical habitat for numerous plants and animals and vital resources for millions of people. Yet, at the dawn of the 21st Century, South America's grasslands are experiencing rapid, widespread and unprecedented impacts from activities such as pesticide use, drainage, urbanization, and conversion to industrial monocultures. In combination with the pervasive effects of global climate change, these impacts have the potential to ripple across grassland food webs in ways we still poorly understand. How do these impacts affect the behavior, ecology and population demographics of the numerous migratory birds that call these grasslands home? Given the historical lack of research on grassland birds across the New World, we know very little about how to best conserve them, much less which grassland migratory birds are currently impacted or likely will be in the near future. We argue that, by applying recent theoretical and technological advances in the field of movement ecology, rapid advances can be achieved in understanding grassland migratory birds in South America. We outline the current state of knowledge about grassland birds that migrate within South America, the main threats to their survival, and how the emerging field of movement ecology can contribute to understanding how to conserve and manage their populations. Only with information on the full annual cycle of these birds will we be able to formulate effective conservation and management plans to ensure the long-term viability of these unique species.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1679007316301451"
+  },
+  {
+    "title": "Mapping and Measuring European Local Governments’ Priorities for a Sustainable and Low-Carbon Energy Future",
+    "authors": [
+      "Stelios Grafakos,",
+      "Elena Marie Enseñado,",
+      "Alexandros Flamos,",
+      "Jan Rotmans"
+    ],
+    "doi": "https://doi.org/10.3390/en81011641",
+    "journalVolume": "Vol. 8,\n                                no. 10\n                                \n                                  pp.\n                                  11641\n                                  – 11666",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The main objective of this article is to assess the priorities of local governments (LGs) in Europe regarding climate change mitigation technologies evaluation in the electricity sector and to provide important insights for energy policy design. The study applies a hybrid weighting methodology to elicit LGs’ preferences in a constructive and iterative way regarding the evaluation criteria of low-carbon energy technologies. Furthermore, the study employs three data collection and preference elicitation methods, namely: survey, workshop, and webinar. The study was conducted across thirty one (31) European LGs that were categorized according to three variables: population size, geographical region and gross domestic product (GDP) per capita. The analysis shows that “CO2 emissions” is the most important criterion among European LGs, followed by “mortality and morbidity” and “ecosystem damages”. The results illustrate the potential synergies of climate and energy policies for addressing both CO2 emissions and air pollution. It was also found, based on a correlation analysis, that LGs with higher GDP per capita tend to provide higher weights to criteria related to security of energy supply and technological innovation. The current study provides insights on the actual LGs’ priorities that are important to consider during low-carbon energy technologies evaluation and energy policy design. Interestingly, the results of the European LGs’ preferences clearly show that the EU climate policy objectives have reached different levels of governance—and at this particular case, the local level. Furthermore, the developed methodology could be applied at different geographical regions to map other regions’ LG priorities, but also at a group decision making context to elicit relevant stakeholders’ preferences regarding low-carbon energy technologies and policy objectives.",
+    "readLink": "http://www.mdpi.com/1996-1073/8/10/11641"
+  },
+  {
+    "title": "Wildfire risks under a changing climate: Synthesized assessments of wildfire risks over southwestern China",
+    "authors": [
+      "Yuanxin Xu,",
+      "Yuanxin Xu,",
+      "Haiyan Guo,",
+      "Haiyan Guo,",
+      "Jia Liu,",
+      "Jia Liu,",
+      "Jia Liu,",
+      "Rui Sun,",
+      "Rui Sun,",
+      "Xiaolan Li,",
+      "Xiaolan Li"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2023.1137372",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "Wildfire events in southwestern China resulted in catastrophic loss of property and human life, and the localized wildfire risks show differentiated trends under global warming scenarios. In the case of quantitating climate impacts and localizing wildfire risks, synthesized assessments of wildfire risks of high-incident areas in southwestern China are established and mapped in this article, constituted by three essential elements: hazard, vulnerability, and disaster prevention/mitigation capacity. The hazard group includes vegetation ignitability and fire spreading related to climate and topography factors. Public and economic characteristic elements belong to the vulnerability and disaster prevention/mitigation capacity group based on their functions and influences on wildfire events. Each aspect and group are rated by the historical wildfire site records and weighted by the entropy weight method and analytic hierarchy process. Assessments indicate that most very high wildfire risk girds are distributed in the west of 103°E and the north of 28°N, covering an area of over 26,500 km2, mainly in low-altitude suburban regions in basins and valleys with high climate hazards. The highly localized wildfire risk maps specified both stresses of fire prevention/mitigation in each grid cell and general spatial patterns of wildfire risks, thereby enhancing the understanding of both current and future patterns of wildfire risks and thus helping improve suppression and prevention policies.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2023.1137372/full"
+  },
+  {
+    "title": "Climate Change Sensitivity of Multi-Species Afforestation in Semi-Arid Benin",
+    "authors": [
+      "Florent Noulèkoun,",
+      "Asia Khamzina,",
+      "Jesse  B. Naab,",
+      "Ni’matul Khasanah,",
+      "Meine van Noordwijk,",
+      "John  P. A. Lamers"
+    ],
+    "doi": "https://doi.org/10.3390/su10061931",
+    "journalVolume": "Vol. 10,\n                                no. 6\n                                \n                                  p.\n                                  1931",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The early growth stage is critical in the response of trees to climate change and variability. It is not clear, however, what climate metrics are best to define the early-growth sensitivity in assessing adaptation strategies of young forests to climate change. Using a combination of field experiments and modelling, we assessed the climate sensitivity of two promising afforestation species, Jatropha curcas L. and Moringa oleifera Lam., by analyzing their predicted climate–growth relationships in the initial two years after planting on degraded cropland in the semi-arid zone of Benin. The process-based WaNuLCAS model (version 4.3, World Agroforestry Centre, Bogor, Indonesia) was used to simulate aboveground biomass growth for each year in the climate record (1981–2016), either as the first or as the second year of tree growth. Linear mixed models related the annual biomass growth to climate indicators, and climate sensitivity indices quantified climate–growth relationships. In the first year, the length of dry spells had the strongest effect on tree growth. In the following year, the annual water deficit and length of dry season became the strongest predictors. Simulated rooting depths greater than those observed in the experiments enhanced biomass growth under extreme dry conditions and reduced sapling sensitivity to drought. Projected increases in aridity implied significant growth reduction, but a multi-species approach to afforestation using species that are able to develop deep-penetrating roots should increase the resilience of young forests to climate change. The results illustrate that process-based modelling, combined with field experiments, can be effective in assessing the climate–growth relationships of tree species.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/6/1931"
+  }
+]

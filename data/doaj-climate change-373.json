@@ -1,0 +1,190 @@
+[
+  {
+    "title": "The Cladistic Basis for the Phylogenetic Diversity (PD) Measure Links Evolutionary Features to Environmental Gradients and Supports Broad Applications of Microbial Ecology’s “Phylogenetic Beta Diversity” Framework",
+    "authors": [
+      "Rob Knight,",
+      "David Nipperess,",
+      "Catherine A. Lozupone,",
+      "Daniel P. Faith"
+    ],
+    "doi": "https://doi.org/10.3390/ijms10114723",
+    "journalVolume": "Vol. 10,\n                                no. 11\n                                \n                                  pp.\n                                  4723\n                                  – 4741",
+    "issn": "1661-6596 (Print)",
+    "publisher": "1422-0067 (Online)",
+    "countryOfPublisher": "MDPI AG",
+    "lcc": [
+      "Switzerland",
+      "Science: Biology (General)",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijms",
+    "abstract": "The PD measure of phylogenetic diversity interprets branch lengths cladistically to make inferences about feature diversity. PD calculations extend conventional specieslevel ecological indices to the features level. The “phylogenetic beta diversity” framework developed by microbial ecologists calculates PD-dissimilarities between community localities. Interpretation of these PD-dissimilarities at the feature level explains the framework’s success in producing ordinations revealing environmental gradients. An example gradients space using PD-dissimilarities illustrates how evolutionary features form unimodal response patterns to gradients. This features model supports new application of existing species-level methods that are robust to unimodal responses, plus novel applications relating to climate change, commercial products discovery, and community assembly.",
+    "readLink": "http://www.mdpi.com/1422-0067/10/11/4723/"
+  },
+  {
+    "title": "Modify the Accuracy of MODIS PWV in China: A Performance Comparison Using Random Forest, Generalized Regression Neural Network and Back-Propagation Neural Network",
+    "authors": [
+      "Zhaohui Xiong,",
+      "Xiaogong Sun,",
+      "Jizhang Sang,",
+      "Xiaomin Wei"
+    ],
+    "doi": "https://doi.org/10.3390/rs13112215",
+    "journalVolume": "Vol. 13,\n                                no. 2215\n                                \n                                  p.\n                                  2215",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Water vapor plays an important role in climate change and water cycling, but there are few water vapor products with both high spatial resolution and high accuracy that effectively monitor the change of water vapor. The high precision Global Navigation Satellite System (GNSS) Precipitable Water Vapor (PWV) is often used to calibrate the high spatial resolution Moderate-resolution Imaging Spectroradiometer (MODIS) PWV to produce new PWV product with high accuracy and high spatial resolution. In addition, the machine learning method has a good performance in modifying the accuracy of MODIS PWV. However, the accuracy improvement of different machine learning methods and different modeling timescale is different. In this article, we use three machine learning methods, namely, the Random Forest (RF), Generalized Regression Neural Network (GRNN), and Back-propagation Neural Network (BPNN) to calibrate MODIS PWV in 2019, at annual and monthly timescales. We also use the Multiple Linear Regression (MLR) method for comparison. The root mean squares (RMSs) at the annual timescale with the three machine learning methods are 4.1 mm (BPNN), 3.3 mm (RF), and 3.9 mm (GRNN), and the average RMSs become 2.9 mm (BPNN), 2.8 mm (RF), and 2.5 mm (GRNN) at the monthly timescale. Those results are all better than the MLR method (5.0 mm at the annual timescale and 4.6 mm at the monthly timescale). When there is an obvious variation pattern in the training sample, the RF method can capture the pattern to achieve the best results since the RF achieves the best performance at the annual timescale. Dividing such samples into several sub-samples each having higher internal consistency could further improve the performance of machine learning methods, especially for the GRNN, since GRNN achieves the best performance at the monthly timescale, and the performance of those three machine learning methods at the monthly timescale is better than that of annual timescale. The spatial and temporal variation patterns of the RMS values are significantly weakened after the modeling by machine learning methods for both three methods.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/11/2215"
+  },
+  {
+    "title": "The \"climate\" decree: new opportunities for forests of high conservation value",
+    "authors": [
+      "Lombardi F,",
+      "Tognetti R,",
+      "Marchetti M"
+    ],
+    "doi": "https://doi.org/10.3832/efor0064-016",
+    "journalVolume": "Vol. 16,\n                                no. 1\n                                \n                                  pp.\n                                  83\n                                  – 85",
+    "issn": "1824-0119 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://foresta.sisef.org/",
+    "abstract": "The Decree on Climate 2019 represents an innovative and concrete framework for applying the international recommendations aimed at preventing and mitigating the effects of climate change. It focuses, in addition to many environment-related aspects, on the old-growth forests, recognizing them as forest ecosystems of high environmental value, defining their main ecological traits. According to this legislation, the extent of these forests in Italy is important, since many forest ecosystems have been left unmanaged from more than 60 years. Even if these stands are not always characterized by high level of naturalness, they are currently evolving towards more complex structures, due to the absence of human-related disturbance. Old-growth forests are unique ecosystems with a high structural complexity and peculiarities that are absent in managed forests. They are also an essential point of reference for sustainable forest management and environmental monitoring, in terms of conservation of biological diversity and ecological processes. For these reasons, they represent a unique benchmark for developing silvicultural models that incorporate knowledge of structural complexity (vertical and spatial) and developmental processes, duration of development and particularly the role of disturbances in creating structural legacies that become key elements of the post-disturbance stands. These forests, as the new Decrete underlines, must be protected, preserved and monitored in a long-term perspective, in order to safeguard their biodiversity, avoiding the structural simplification, which often characterizes the managed forests.",
+    "readLink": "http://foresta.sisef.org/contents/?id=efor0064-016&lang=en"
+  },
+  {
+    "title": "Comparison of Different Solutions for a Seismic and Energy Retrofit of an Auditorium",
+    "authors": [
+      "Alessandra De Angelis,",
+      "Francesco Tariello,",
+      "Rosa Francesca De Masi,",
+      "Maria Rosaria Pecce"
+    ],
+    "doi": "https://doi.org/10.3390/su13168761",
+    "journalVolume": "Vol. 13,\n                                no. 8761\n                                \n                                  p.\n                                  8761",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The increasing attention paid to climate change has boosted scientific research in the matter of energy refurbishment of existing public buildings. However, the design of the intervention must be integrated with structural upgrading when the constructions are located in seismic zones. Indeed, in Italy, as in other seismically active countries, the structural damage, observed after earthquakes, underlines the increase in economic losses for buildings retrofitted only for energy saving. In this framework, the paper introduces an integrated approach for selecting retrofit actions aimed at improving both the seismic and energy performance, starting from a detailed in situ analysis with which dynamic energy and structural simulation models are constructed. The case study is an auditorium erected in 1982 with a reinforced concrete structure inside a masonry ring wall of an ancient building. A step-by-step analysis of each component role in the structural and energy performance of the building is proposed. The results indicate that the proposed approach can help to determine the best technical solution, and the integrated design leads to saving 10% of the cost of the works.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/16/8761"
+  },
+  {
+    "title": "Anaerobic Digestion of Lignocellulosic Biomass: Substrate Characteristics (Challenge) and Innovation",
+    "authors": [
+      "Christy E. Manyi-Loh,",
+      "Ryk Lues"
+    ],
+    "doi": "https://doi.org/10.3390/fermentation9080755",
+    "journalVolume": "Vol. 9,\n                                no. 755\n                                \n                                  p.\n                                  755",
+    "issn": "2311-5637 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology: Fermentation industries. Beverages. Alcohol"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/fermentation",
+    "abstract": "Modern society is characterised by its outstanding capacity to generate waste. Lignocellulosic biomass is most abundant in nature and is biorenewable and contains energy sources formed via biological photosynthesis from the available atmospheric carbon dioxide, water, and sunlight. It is composed of cellulose, hemicellulose, and lignin, constituting a complex polymer. The traditional disposal of these types of waste is associated with several environmental and public health effects; however, they could be harnessed to produce several value-added products and clean energy. Moreover, the increase in population and industrialisation have caused current energy resources to be continuously exploited, resulting in the depletion of global fuel reservoirs. The overexploitation of resources has caused negative environmental effects such as climate change, exacerbating global greenhouse gas emissions. In the quest to meet the world’s future energy needs and adequate management of these types of waste, the anaerobic digestion of lignocellulosic biomass has remained the focus, attracting great interest as a sustainable alternative to fossil carbon resources. However, substrate characteristics offer recalcitrance to the process, which negatively impacts the methane yield. Nevertheless, the biodigestibility of these substrates can be enhanced through chemical, physical, and biological pretreatment methods, leading to improvement in biogas yields. Furthermore, the co-digestion of these substrates with other types and adding specific nutrients as trace elements or inoculum will help to adjust substrate characteristics to a level appropriate for efficient anaerobic digestion and increased biogas yield.",
+    "readLink": "https://www.mdpi.com/2311-5637/9/8/755"
+  },
+  null,
+  {
+    "title": "Effectiveness and Benefits of the Eco-Management and Audit Scheme: Evidence from Polish Organisations",
+    "authors": [
+      "Alina Matuszak-Flejszman,",
+      "Beata Paliwoda"
+    ],
+    "doi": "https://doi.org/10.3390/en15020434",
+    "journalVolume": "Vol. 15,\n                                no. 434\n                                \n                                  p.\n                                  434",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Climate change and environmental pollution are considered to be among the main challenges faced by the modern world. The growth of environmental awareness and the adoption of a pro-environmental approach are considered to be the key megatrends with the greatest impact on the global economy in the upcoming years. According to Eurobarometer, EU citizens are particularly aware of the importance of protecting the environment. Although the negative environmental impact of European industry has improved over the past decades, EU citizens believe that there is further scope in terms of helping companies transition towards adopting more sustainable models. One of the factors contributing to the reduction in negative environmental impact is the participation of enterprises in voluntary programs such as the Environmental Management System (EMS), according to ISO 14001, or the Eco-management and Audit Scheme (EMAS). The whole population of Polish companies registered under the EMAS was included in the study and although the sample size was small, it was a full study, and for that reason allows for the generalisation and conclusion regarding the whole population of EMAS-registered companies in Poland. The results of the study conducted on EMAS-registered organisations in Poland in 2015 suggest that the average effectiveness of the EMAS observed between 2007 and 2014 was 66.4%. The aim of this study was to review the changes in EMAS effectiveness and benefits obtained by participating organisations after five years. The results indicate that the average effectiveness during the period of 2015–2020 increased to 79.1%; nevertheless, registered organisations recognise fewer benefits for participation in the scheme. The study has shown that as EMAS matures in organisations, it becomes more effective. It influences a lot of factors, such as environmental awareness and management commitment, the use of SRDs (including BEMPs), environmental performance indicators for specific sectors, the criteria for the excellence of assessing the level of environmental performance, and the skilful use of indicators in organisations.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/2/434"
+  },
+  {
+    "title": "Exploring the Spatial–Temporal Variation in Cultivated Land Quality and Influential Factors in the Lower Reaches of the Yangtze River from 2017 to 2020",
+    "authors": [
+      "Zixuan Wang,",
+      "Xufeng Fei,",
+      "Meiling Sheng,",
+      "Rui Xiao"
+    ],
+    "doi": "https://doi.org/10.3390/land12020322",
+    "journalVolume": "Vol. 12,\n                                no. 322\n                                \n                                  p.\n                                  322",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Cultivated land quality is directly related to national food security; hence, it is necessary to determine the spatial–temporal characteristics and factors that influence its variation. This study analyzed the soil properties and cultivated land quality in the Hang-Jia-Hu Plain, the most important grain production base in Zhejiang Province, located in the lower reaches of the Yangtze River, from 2017 to 2020. In addition, the factors that influenced cultivated land quality variation were explored. The results showed that soil pH and soil organic matter (SOM) significantly improved from 6.32 and 29.07 g/kg in 2017 to 6.38 and 31.54 g/kg in 2020, whereas the variations in available phosphorus (AP) and available potassium (AK) were not significant. More than 60% of the cultivated land still had the potential for soil nutrient status improvement. The cultivated land quality indicator (CLQI) calculated based on the national standard (GB/T 33469-2016) significantly increased from 0.90 in 2017 to 0.91 in 2020. According to the CLQI classification, approximately three quarters of the cultivated land was defined as high-yielding fields. Although the spatial pattern for CLQI was similar between 2017 and 2020, more than 75% of the cultivated land quality showed an increasing trend that was mainly located in the northeastern and central areas. The results of influential factor detection indicated that the improvement in SOM and available soil nutrients including AP and AK was the main reason for the CLQI increase, whereas the climate, topography, and socioeconomic factors had little influence on the change in CLQI. In addition, when influential factors interacted, a significant increase in the explanatory ability for CLQI was obtained, especially for the interaction of SOM and AP variation, which explained 41% of the CLQI variation. This study provides basic foundations and references for cultivated land quality monitoring and improvement in the lower reaches of the Yangtze River, China.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/2/322"
+  },
+  {
+    "title": "Bibliometric Analysis of Land Degradation Studies in Drylands Using Remote Sensing Data: A 40-Year Review",
+    "authors": [
+      "Diêgo P. Costa,",
+      "Stefanie M. Herrmann,",
+      "Rodrigo N. Vasconcelos,",
+      "Soltan Galano Duverger,",
+      "Washinton J. S. Franca Rocha,",
+      "Elaine C. B. Cambuí,",
+      "Jocimara S. B. Lobão,",
+      "Ellen M. R. Santos,",
+      "Jefferson Ferreira-Ferreira,",
+      "Mariana Oliveira,",
+      "Leonardo da Silva Barbosa,",
+      "André T. Cunha Lima,",
+      "Carlos A. D. Lentini"
+    ],
+    "doi": "https://doi.org/10.3390/land12091721",
+    "journalVolume": "Vol. 12,\n                                no. 1721\n                                \n                                  p.\n                                  1721",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Drylands are vast and face threats from climate change and human activities. Traditional reviews cannot capture interdisciplinary knowledge, but bibliometric analysis provides valuable insights. Our study conducted bibliometric research of scientific production on climate change and land degradation in drylands using remote sensing. We examined 1527 Scopus-indexed publications to identify geographic and thematic hotspots, extracting leading authors, journals, and institutions. China leads in publications, followed by the US, Germany, and Australia. The US has the highest citation count. Collaboration networks involve the US, China, and European countries. There has been an exponential increase in remote sensing of land degradation in drylands (RSLDD) publications since 2011. Key journals include “International Journal of Remote Sensing” and “Remote Sensing of Environment”. The analysis highlights the growing interest in the field, driven by Australia, the US, and China. Key areas of study are vegetation dynamics and land use change. Future perspectives for this scientific field involve promoting collaboration and exploring emerging technologies for comprehensive land degradation and desertification research.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/9/1721"
+  },
+  {
+    "title": "Evolution characteristics and simulation prediction of forest and grass landscape fragmentation based on the “Grain for Green” projects on the Loess Plateau, P.R. China",
+    "authors": [
+      "Li Gu,",
+      "Zhiwen Gong,",
+      "Yuxiao Du"
+    ],
+    "doi": "Vol. 131\n                                \n                                \n                                  p.\n                                  108240",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Landscape fragmentation is one of the major environmental challenges to sustainable development under the background of global climate change. Grassland and forest land are the largest landscape types, which have contributed the most to ecosystem services on the Loess Plateau. However, there is no precedent for the combined study of the landscape fragmentation of forest and grassland ecosystems. In particular, there is still a lack of clear spatial significance and a quantitative description of fragmentation at the regional scale. Based on the implementation background for the “Grain for Green” Project, we selected the Loess Plateau as the research area and used the coupled future land use simulation (FLUS) model and landscape fragmentation model to explore the temporal and spatial changes in forest and grass landscape fragmentation. The results showed that (1) Woodland, grassland, and cropland are the main landscape types, and the area of cropland initially increased and then decreased, while the area of woodland and grassland exhibited the opposite trend. In particular, the period from 2000 to 2015 was forest and grass restoration stage. (2) The kappa coefficient was 0.85, and the figure of merit coefficient (FOM) was 0.11 for a 1% random sampling when using FLUS model to predict the land use, and the simulation results are also consistent with the objective change in the current social and economic development. (3) The fragmentation of woodland and grassland were dominated by edge type and core type, and the core type had an absolute advantage. It is predicted that the landscape fragmentation will gradually slowdown in 2030 under different intensities of the “Grain for Green” project. The dynamics of landscape fragmentation are conducive to the reasonable planning and objective evaluation of woodland and grassland spatial allocation and quality improvement.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X21009055"
+  }
+]

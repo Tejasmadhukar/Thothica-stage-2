@@ -1,0 +1,263 @@
+[
+  {
+    "title": "Using Bi-Seasonal WorldView-2 Multi-Spectral Data and Supervised Random Forest Classification to Map Coastal Plant Communities in Everglades National Park",
+    "authors": [
+      "Kristie S. Wendelberger,",
+      "Daniel Gann,",
+      "Jennifer H. Richards"
+    ],
+    "doi": "https://doi.org/10.3390/s18030829",
+    "journalVolume": "Vol. 18,\n                                no. 3\n                                \n                                  p.\n                                  829",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Coastal plant communities are being transformed or lost because of sea level rise (SLR) and land-use change. In conjunction with SLR, the Florida Everglades ecosystem has undergone large-scale drainage and restoration, altering coastal vegetation throughout south Florida. To understand how coastal plant communities are changing over time, accurate mapping techniques are needed that can define plant communities at a fine-enough resolution to detect fine-scale changes. We explored using bi-seasonal versus single-season WorldView-2 satellite data to map three mangrove and four adjacent plant communities, including the buttonwood/glycophyte community that harbors the federally-endangered plant Chromolaena frustrata. Bi-seasonal data were more effective than single-season to differentiate all communities of interest. Bi-seasonal data combined with Light Detection and Ranging (LiDAR) elevation data were used to map coastal plant communities of a coastal stretch within Everglades National Park (ENP). Overall map accuracy was 86%. Black and red mangroves were the dominant communities and covered 50% of the study site. All the remaining communities had ≤10% cover, including the buttonwood/glycophyte community. ENP harbors 21 rare coastal species threatened by SLR. The spatially explicit, quantitative data provided by our map provides a fine-scale baseline for monitoring future change in these species’ habitats. Our results also offer a method to monitor vegetation change in other threatened habitats.",
+    "readLink": "http://www.mdpi.com/1424-8220/18/3/829"
+  },
+  {
+    "title": "Coast-to-interior gradient in recent northwest Greenland precipitation trends (1952–2012)",
+    "authors": [
+      "G J Wong,",
+      "E C Osterberg,",
+      "R L Hawley,",
+      "Z R Courville,",
+      "D G Ferris,",
+      "J A Howley"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/10/11/114008",
+    "journalVolume": "Vol. 10,\n                                no. 11\n                                \n                                  p.\n                                  114008",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The spatial and temporal variability of precipitation on the Greenland ice sheet is an essential component of surface mass balance, which has been declining in recent years with rising temperatures. We present an analysis of precipitation trends in northwest (NW) Greenland (1952–2012) using instrumental (coastal meteorological station) and proxy records (snow pits and ice cores) to characterize the precipitation gradient from the coast to the ice sheet interior. Snow-pit-derived precipitation near the coast (1950–2000) has increased (∼7% decade ^−1 , p < 0.01) whereas there is no significant change observed in interior snow pits. This trend holds for 1981–2012, where calculated precipitation changes decrease in magnitude with increasing distance from the coast: 13% decade ^−1 (2.4 mm water equivalent (w.e.) decade ^−2 ) at coastal Thule air base (AB), 8.6% decade ^−1 (4.7 mm w.e. decade ^−2 ) at the 2Barrel ice core site 150 km from Thule AB, −5.2% decade ^−1 (1.7 mm w.e. decade ^−2 ) at Camp Century located 205 km from Thule AB, and 4.4% decade ^−1 (1.0 mm w.e. decade ^−2 ) at B26 located 500 km from Thule AB. In general, annually averaged precipitation and annually and seasonally averaged mean air temperatures observed at Thule AB follow trends observed in composite coastal Greenland time series, with both notably indicating winter as the fastest warming season in recent periods (1981–2012). Trends (1961–2012) in seasonal precipitation differ, specifically with NW Greenland summer precipitation increasing (∼0.6 mm w.e. decade ^−2 ) in contrast with decreasing summer precipitation in the coastal composite time series (3.8 mm w.e. decade ^−2 ). Differences in precipitation trends between NW Greenland and coastal composite Greenland underscore the heterogeneity in climate influences affecting precipitation. In particular, recent (1981–2012) changes in NW Greenland annual precipitation are likely a response to a weakening North Atlantic oscillation.",
+    "readLink": "https://doi.org/10.1088/1748-9326/10/11/114008"
+  },
+  {
+    "title": "Evaluating alternative ebullition models for predicting peatland methane emission and its pathways via data–model fusion",
+    "authors": [
+      "S. Ma,",
+      "S. Ma,",
+      "S. Ma,",
+      "L. Jiang,",
+      "R. M. Wilson,",
+      "J. P. Chanton,",
+      "S. Bridgham,",
+      "S. Niu,",
+      "C. M. Iversen,",
+      "A. Malhotra,",
+      "A. Malhotra,",
+      "J. Jiang,",
+      "X. Lu,",
+      "Y. Huang,",
+      "J. Keller,",
+      "X. Xu,",
+      "D. M. Ricciuto,",
+      "P. J. Hanson,",
+      "Y. Luo,",
+      "Y. Luo"
+    ],
+    "doi": "https://doi.org/10.5194/bg-19-2245-2022",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  2245\n                                  – 2262",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "Understanding the dynamics of peatland methane (CH4) emissions and quantifying sources of uncertainty in estimating peatland CH4 emissions are critical for mitigating climate change. The relative contributions of CH4 emission pathways through ebullition, plant-mediated transport, and diffusion, together with their different transport rates and vulnerability to oxidation, determine the quantity of CH4 to be oxidized before leaving the soil. Notwithstanding their importance, the relative contributions of the emission pathways are highly uncertain. In particular, the ebullition process is more uncertain and can lead to large uncertainties in modeled CH4 emissions. To improve model simulations of CH4 emission and its pathways, we evaluated two model structures: (1) the ebullition bubble growth volume threshold approach (EBG) and (2) the modified ebullition concentration threshold approach (ECT) using CH4 flux and concentration data collected in a peatland in northern Minnesota, USA. When model parameters were constrained using observed CH4 fluxes, the CH4 emissions simulated by the EBG approach (RMSE = 0.53) had a better agreement with observations than the ECT approach (RMSE = 0.61). Further, the EBG approach simulated a smaller contribution from ebullition but more frequent ebullition events than the ECT approach. The EBG approach yielded greatly improved simulations of pore water CH4 concentrations, especially in the deep soil layers, compared to the ECT approach. When constraining the EBG model with both CH4 flux and concentration data in model–data fusion, uncertainty of the modeled CH4 concentration profiles was reduced by 78 % to 86 % in comparison to constraints based on CH4 flux data alone. The improved model capability was attributed to the well-constrained parameters regulating the CH4 production and emission pathways. Our results suggest that the EBG modeling approach better characterizes CH4 emission and underlying mechanisms. Moreover, to achieve the best model results both CH4 flux and concentration data are required to constrain model parameterization.",
+    "readLink": "https://bg.copernicus.org/articles/19/2245/2022/bg-19-2245-2022.pdf"
+  },
+  {
+    "title": "Nemo-Nordic 1.0: a NEMO-based ocean model for the Baltic and North seas – research and operational applications",
+    "authors": [
+      "R. Hordoir,",
+      "R. Hordoir,",
+      "L. Axell,",
+      "A. Höglund,",
+      "C. Dieterich,",
+      "F. Fransner,",
+      "F. Fransner,",
+      "F. Fransner,",
+      "M. Gröger,",
+      "Y. Liu,",
+      "P. Pemberton,",
+      "S. Schimanke,",
+      "H. Andersson,",
+      "P. Ljungemyr,",
+      "P. Nygren,",
+      "S. Falahat,",
+      "A. Nord,",
+      "A. Jönsson,",
+      "I. Lake,",
+      "K. Döös,",
+      "M. Hieronymus,",
+      "H. Dietze,",
+      "U. Löptien,",
+      "I. Kuznetsov,",
+      "A. Westerlund,",
+      "L. Tuomi,",
+      "J. Haapala"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-12-363-2019",
+    "journalVolume": "Vol. 12\n                                \n                                \n                                  pp.\n                                  363\n                                  – 386",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "We present Nemo-Nordic, a Baltic and North Sea model based on the NEMO ocean engine. Surrounded by highly industrialized countries, the Baltic and North seas and their assets associated with shipping, fishing and tourism are vulnerable to anthropogenic pressure and climate change. Ocean models providing reliable forecasts and enabling climatic studies are important tools for the shipping infrastructure and to get a better understanding of the effects of climate change on the marine ecosystems. Nemo-Nordic is intended to be a tool for both short-term and long-term simulations and to be used for ocean forecasting as well as process and climatic studies. Here, the scientific and technical choices within Nemo-Nordic are introduced, and the reasons behind the design of the model and its domain and the inclusion of the two seas are explained. The model's ability to represent barotropic and baroclinic dynamics, as well as the vertical structure of the water column, is presented. Biases are shown and discussed. The short-term capabilities of the model are presented, especially its capabilities to represent sea level on an hourly timescale with a high degree of accuracy. We also show that the model can represent longer timescales, with a focus on the major Baltic inflows and the variability in deep-water salinity in the Baltic Sea.",
+    "readLink": "https://www.geosci-model-dev.net/12/363/2019/gmd-12-363-2019.pdf"
+  },
+  {
+    "title": "New Suptech Tool of the Predictive Generation for Insurance Companies—The Case of the European Market",
+    "authors": [
+      "Timotej Jagrič,",
+      "Daniel Zdolšek,",
+      "Robert Horvat,",
+      "Iztok Kolar,",
+      "Niko Erker,",
+      "Jernej Merhar,",
+      "Vita Jagrič"
+    ],
+    "doi": "https://doi.org/10.3390/info14100565",
+    "journalVolume": "Vol. 14,\n                                no. 565\n                                \n                                  p.\n                                  565",
+    "issn": "2078-2489 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Technology (General): Industrial engineering. Management engineering: Information technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/information/",
+    "abstract": "Financial innovation, green investments, or climate change are changing insurers’ business ecosystems, impacting their business behaviour and financial vulnerability. Supervisors and other stakeholders are interested in identifying the path toward deterioration in the insurance company’s financial health as early as possible. Suptech tools enable them to discover more and to intervene in a timely manner. We propose an artificial intelligence approach using Kohonen’s self-organizing maps. The dataset used for development and testing included yearly financial statements with 4058 observations for European composite insurance companies from 2012 to 2021. In a novel manner, the model investigates the behaviour of insurers, looking for similarities. The model forms a map. For the obtained groupings of companies from different geographical origins, a common characteristic was discovered regarding their future financial deterioration. A threshold defined using the solvency capital requirement (SCR) ratio being below 130% for the next year is applied to the map. On the test sample, the model correctly identified on average 86% of problematic companies and 79% of unproblematic companies. Changing the SCR ratio level enables differentiation into multiple map sections. The model does not rely on traditional methods, or the use of the SCR ratio as a dependent variable but looks for similarities in the actual insurer’s financial behaviour. The proposed approach offers grounds for a Suptech tool of predictive generation to support early detection of the possible future financial distress of an insurance company.",
+    "readLink": "https://www.mdpi.com/2078-2489/14/10/565"
+  },
+  {
+    "title": "Salinity strongly drives the survival, growth, leaf demography, and nutrient partitioning in seedlings of Xylocarpus granatum J. König",
+    "authors": [
+      "Siddique MRH,",
+      "Saha S,",
+      "Salekin S,",
+      "Mahmood H"
+    ],
+    "doi": "https://doi.org/10.3832/ifor2382-010",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  851\n                                  – 856",
+    "issn": "1971-7458 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://iforest.sisef.org",
+    "abstract": "Salinity is increasing in the Sundarbans (Bangladesh) due to sea-level rise and the reduction of fresh water flow. Xylocarpus granatum is one of the most valuable mangrove tree species of the Sundarbans. We conducted a six-month long study to investigate the effect of salinity on the survival, growth, leaf demography, and nutrient partitioning in parts of X. granatum seedlings. Our results showed that most of the seedlings (90%) survived at 0 to 5 PSU salinity, and this survival percentage was found to decrease at higher saline conditions. Salinity of more than 25 PSU was lethal to the plants as no seedlings survived under these conditions. In this salinity (25 PSU), accelerated leaf fall coupled with a reduction in the new leaves caused loss of leaves. The relative growth rate (RGR) was higher at 0 to 5 PSU salinity, and conversely, a lower growth rate was observed with increased salinity. Higher saline conditions created stress, which inhibited nutrient (N, P and K) accumulation in different parts (leaf, stem, bark and root) of the seedlings. We concluded that salinity is a critical factor for the growth and survival of X. granatum either by inhibiting plant nutrient uptake or due to salinity related toxicity.",
+    "readLink": "https://iforest.sisef.org/contents/?id=ifor2382-010"
+  },
+  {
+    "title": "Hydrological hazards assessment and management in Slovakia",
+    "authors": [
+      "Martina ZELEŇÁKOVÁ,",
+      "Maria Manuela PORTELA,",
+      "P. PURCZ,",
+      "P. BLIŠŤAN,",
+      "Helena HLAVATA"
+    ],
+    "doi": "https://doi.org/10.24193/AWC2017_16",
+    "journalVolume": "Vol. 2017,\n                                no. 2017\n                                \n                                  pp.\n                                  124\n                                  – 131",
+    "issn": "2067-743X (Print)",
+    "publisher": "Cluj University Press",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://aerapa.conference.ubbcluj.ro/",
+    "abstract": "One of the purpose of Water Framework Directive (WFD) (2000/60/EC) is to contribute to mitigating the effects of floods and droughts – hydrological hazards occurring nowdays more often in river basins. Effective water management, as required by the WFD, helps Member States prepare for extreme weather events which, due to climate change, are becoming more frequent and cause tremendous damages. The study of climatological data is performed with goal to reduce impacts of droughts and floods and thus to ensure sustainable and proper water resources management. Based on the precipitation time series obtained from Slovak Hydrometeorological Institute at a number of climatic stations over a considerable span of time a comprehensive analysis for the entire Slovakia is being carried out. Some of methods applied as well as some of the results achieved are briefly mentioned in this paper, namely (i) trend analysis applied to precipitation time series, (ii) the temporal and spatial evolution of climatological hazards in the area, and (iii) proposal of hazard mitigation measures. It is found increasing trends in precipitation time series in the most of stations in Slovakia, although it is also proved that the droughts are recurrent in Slovakia. The paper identifies climatological extremity in the country that significantly influences water resources management. It presents actual measures for proper water management in river basins aimed to mitigation of hydrological risks.",
+    "readLink": "http://aerapa.conference.ubbcluj.ro/2017/PDF/16_Zelenacova_etal_124_131.pdf"
+  },
+  {
+    "title": "Substitution impacts of Nordic wood-based multi-story building types: influence of the decarbonization of the energy sector and increased recycling of construction materials",
+    "authors": [
+      "Tanja Myllyviita,",
+      "Elias Hurmekoski,",
+      "Janni Kunttu"
+    ],
+    "doi": "https://doi.org/10.1186/s13021-022-00205-x",
+    "journalVolume": "Vol. 17,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "1750-0680 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://cbmjournal.biomedcentral.com/",
+    "abstract": "Abstract Background The building and construction sectors represent a major source of greenhouse gas (GHG) emissions. Replacing concrete and steel with wood is one potential strategy to decrease emissions. On product level, the difference in fossil emissions per functional unit can be quantified with displacement factors (DFs), i.e., the amount of fossil emission reduction achieved per unit of wood use when replacing a functionally equivalent product. We developed DFs for substitution cases representative of typical wood-frame and non-wood frame multi-story buildings in the Nordic countries, considering the expected decarbonization of the energy sector and increased recycling of construction products. Results Most of the DFs were positive, implying lower fossil emissions, if wood construction is favored. However, variation in the DFs was substantial and negative DFs implying higher emissions were also detected. All DFs showed a decreasing trend, i.e., the GHG mitigation potential of wood construction significantly decreases under future decarbonization and increased recycling assumptions. If only the decarbonization of the energy sector was considered, the decrease was less dramatic compared to the isolated impact of the recycling of construction materials. The mitigation potential of wood construction appears to be the most sensitive to the GHG emissions of concrete, whereas the emissions of steel seem less influential, and the emissions of wood have only minor influence. Conclusions The emission reduction due to the decarbonization of the energy sector and the recycling of construction materials is a favorable outcome but one that reduces the relative environmental benefit of wood construction, which ought to be considered in forest-based mitigation strategies. Broadening the system boundary is required to assess the overall substitution impacts of increased use of wood in construction, including biogenic carbon stock changes in forest ecosystems and in wood products over time, as well as price-mediated market responses.",
+    "readLink": "https://doi.org/10.1186/s13021-022-00205-x"
+  },
+  {
+    "title": "Directions for Research on Climate and Conflict",
+    "authors": [
+      "Katharine J. Mach,",
+      "W. Neil Adger,",
+      "Halvard Buhaug,",
+      "Marshall Burke,",
+      "James D. Fearon,",
+      "Christopher B. Field,",
+      "Cullen S. Hendrix,",
+      "Caroline M. Kraan,",
+      "Jean‐Francois Maystadt,",
+      "John O'Loughlin,",
+      "Philip Roessler,",
+      "Jürgen Scheffran,",
+      "Kenneth A. Schultz,",
+      "Nina vonUexkull"
+    ],
+    "doi": "https://doi.org/10.1029/2020EF001532",
+    "journalVolume": "Vol. 8,\n                                no. 7\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract The potential links between climate and conflict are well studied, yet disagreement about the specific mechanisms and their significance for societies persists. Here, we build on assessment of the relationship between climate and organized armed conflict to define crosscutting priorities for future directions of research. They include (1) deepening insight into climate‐conflict linkages and conditions under which they manifest, (2) ambitiously integrating research designs, (3) systematically exploring future risks and response options, responsive to ongoing decision‐making, and (4) evaluating the effectiveness of interventions to manage climate‐conflict links. The implications of this expanding scientific domain unfold in real time.",
+    "readLink": "https://doi.org/10.1029/2020EF001532"
+  },
+  {
+    "title": "Bacteriophages: Combating Antimicrobial Resistance in Food-Borne Bacteria Prevalent in Agriculture",
+    "authors": [
+      "Arnold Au,",
+      "Helen Lee,",
+      "Terry Ye,",
+      "Uday Dave,",
+      "Azizur Rahman"
+    ],
+    "doi": "https://doi.org/10.3390/microorganisms10010046",
+    "journalVolume": "Vol. 10,\n                                no. 46\n                                \n                                  p.\n                                  46",
+    "issn": "2076-2607 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/microorganisms",
+    "abstract": "Through recent decades, the subtherapeutic use of antibiotics within agriculture has led to the widespread development of antimicrobial resistance. This problem not only impacts the productivity and sustainability of current agriculture but also has the potential to transfer antimicrobial resistance to human pathogens via the food supply chain. An increasingly popular alternative to antibiotics is bacteriophages to control bacterial diseases. Their unique bactericidal properties make them an ideal alternative to antibiotics, as many countries begin to restrict the usage of antibiotics in agriculture. This review analyses recent evidence from within the past decade on the efficacy of phage therapy on common foodborne pathogens, namely, Escherica coli, Staphylococcus aureus, Salmonella spp., and Campylobacter jejuni. This paper highlights the benefits and challenges of phage therapy and reveals the potential for phages to control bacterial populations both in food processing and livestock and the possibility for phages to replace subtherapeutic usage of antibiotics in the agriculture sector.",
+    "readLink": "https://www.mdpi.com/2076-2607/10/1/46"
+  }
+]

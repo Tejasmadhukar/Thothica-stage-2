@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Object-Oriented Clustering Approach to Detect Evolutions of ENSO-Related Precipitation Anomalies over Tropical Pacific Using Remote Sensing Products",
+    "authors": [
+      "Lianwei Li,",
+      "Yuanyu Zhang,",
+      "Cunjin Xue,",
+      "Zhi Zheng"
+    ],
+    "doi": "https://doi.org/10.3390/rs15112902",
+    "journalVolume": "Vol. 15,\n                                no. 2902\n                                \n                                  p.\n                                  2902",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Precipitation extremes driven by the El Niño–Southern Oscillation (ENSO) are one of the critical ways in which the ENSO impacts the global climate, specifically in the tropical Pacific, where they have the potential to cause extreme weather conditions. However, existing approaches struggle to effectively identify the evolution of ENSO-related precipitation anomalies that change rapidly in spatial distribution. To address this challenge, we propose the object-oriented spatiotemporal clustering approach using remote sensing products (OSCAR) for detecting evolutions of ENSO-related precipitation anomalies. The OSCAR was validated using simulated datasets and applied to precipitation anomalies over the tropical Pacific. The simulation experiment demonstrates that the OSCAR outperforms the dual-constraint spatiotemporal clustering approach (DcSTCA) in accuracy, particularly for rapidly evolving precipitation anomaly variations. The application of the OSCAR demonstrates its ability to recognize the evolution of ENSO-related precipitation anomalies over the tropical Pacific, which may offer valuable references for global climate change research.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/11/2902"
+  },
+  {
+    "title": "Evapotranspiration Changes over the European Alps: Consistency of Trends and Their Drivers between the MOD16 and SSEBop Algorithms",
+    "authors": [
+      "Mariapina Castelli"
+    ],
+    "doi": "https://doi.org/10.3390/rs13214316",
+    "journalVolume": "Vol. 13,\n                                no. 4316\n                                \n                                  p.\n                                  4316",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "In the Alps, understanding how climate change is affecting evapotranspiration (ET) is relevant due to possible implications on water availability for large lowland areas of Europe. Here, changes in ET were studied based on 20 years of MODIS data. MOD16 and operational Simplified Surface Energy Balance (SSEBop) products were compared with eddy-covariance data and analyzed for trend detection. The two products showed a similar relationship with ground observations, with RMSE between 0.69 and 2 mm day−1, and a correlation coefficient between 0.6 and 0.83. A regression with the potential drivers of ET showed that, for climate variables, ground data were coherent with MOD16 at grassland sites, where r2 was 0.12 for potential ET, 0.17 for precipitation, and 0.57 for air temperature, whereas ground data agreed with SSEBop at forest sites, with an r2 of 0.46 for precipitation, no correlation with temperature, and negative correlation with potential ET. Interestingly, ground-based correlation corresponded to SSEBop for leaf area index (LAI), while it matched with MOD16 for land surface temperature (LST). Through the trend analysis, both MOD16 and SSEBop revealed positive trends in the south-west, and negative trends in the south and north-east. Moreover, in summer, positive trends prevailed at high elevations for grasslands and forests, while negative trends dominated at low elevations for croplands and grasslands. However, the Alpine area share with positive ET trends was 16.6% for MOD16 and 3.9% for SSEBop, while the share with negative trends was 1.2% for MOD16 and 15.3% for SSEBop. A regression between trends in ET and in climate variables, LST, and LAI indicated consistency, especially between ET, temperature, and LAI increase, but low correlation. Overall, the discrepancies in the trends, and the fact that none of the two products outperformed the other when compared to ground data, suggest that, in the Alps, SSEBop and MOD16 might not be accurate enough to be a robust basis to study ET changes.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/21/4316"
+  },
+  {
+    "title": "Effect of Planting Density and Harvest Interval on the Leaf Yield and Quality of Moringa (Moringa oleifera) under Diverse Agroecological Conditions of Northern South Africa",
+    "authors": [
+      "M. P. Mabapa,",
+      "K. K. Ayisi,",
+      "I. K. Mariga"
+    ],
+    "doi": "https://doi.org/10.1155/2017/2941432",
+    "journalVolume": "Vol. 2017",
+    "issn": "1687-8159 (Print)",
+    "publisher": "1687-8167 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/ija/",
+    "abstract": "Smallholder livestock farmers who depend on natural communal grazing lands are particularly vulnerable to climate change as well as to food insecurity and should be encouraged to grow drought-tolerant fodder crops. Moringa oleifera is a highly valued plant, due to its exceptionally high nutritional content. This study was conducted at two experimental sites in the Limpopo province of northern South Africa to evaluate for the first time the effect of plant density and cutting interval on biomass production and chemical composition of moringa grown under two diverse climatic conditions. Four different planting densities (435,000, 300,000, 200,000, and 100,000 plants/ha) were arranged in a randomized complete block design and experimental samples were replicated four times. Data for biomass and gravimetric soil moisture content were collected each time the plants reached a height of 50 cm. Harvested leaves were analysed for chemical composition. An increase in the plant density led to elevated biomass production at both study locations, ranging between 527 and 2867 kg/ha. Moringa is capable of meeting all nutrient requirements of livestock depending on harvest time and location.",
+    "readLink": "http://dx.doi.org/10.1155/2017/2941432"
+  },
+  {
+    "title": "The effect of the penalty system on market prices in the Korea ETS",
+    "authors": [
+      "Weonseek Kim,",
+      "Jongmin Yu"
+    ],
+    "doi": "https://doi.org/10.1080/17583004.2018.1440852",
+    "journalVolume": "Vol. 9,\n                                no. 2\n                                \n                                  pp.\n                                  145\n                                  – 154",
+    "issn": "1758-3004 (Print)",
+    "publisher": "1758-3012 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tcmt",
+    "abstract": "This study analyzes the effect of the penalty system in an emission trading scheme (ETS) on pricing and abatement activities. No previous studies have shown that the ways of penalizing for unretired permits specifically might have a crucial role in permit pricing. Most studies show that the penalty rate is fixed, as in the EU-ETS, but this paper focuses on the mechanism that price affects penalty and this again affects price. The Korea ETS case is examined as an example in which the per-unit penalty for unretired permits is determined by the average market price. Based on simple analytical modeling, this study derives policy implications that differ from the pre-determined penalty rate system: that the penalty system linked with market prices causes downward pressure on market prices, that the maximum rate is not very meaningful in pricing, that the multiplication level of the penalty rate affects market prices, and that this price-linked penalizing system can affect the overall level of abatement.",
+    "readLink": "http://dx.doi.org/10.1080/17583004.2018.1440852"
+  },
+  {
+    "title": "Whitebark and Foxtail Pine in Yosemite, Sequoia, and Kings Canyon National Parks: Initial Assessment of Stand Structure and Condition",
+    "authors": [
+      "Jonathan  C.B. Nesmith,",
+      "Micah Wright,",
+      "Erik  S. Jules,",
+      "Shawn  T. McKinney"
+    ],
+    "doi": "https://doi.org/10.3390/f10010035",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  p.\n                                  35",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The Inventory & Monitoring Division of the U.S. National Park Service conducts long-term monitoring to provide park managers information on the status and trends in biological and environmental attributes including white pines. White pines are foundational species in many subalpine ecosystems and are currently experiencing population declines. Here we present results on the status of whitebark and foxtail pine in the southern Sierra Nevada of California, an area understudied relative to other parts of their ranges. We selected random plot locations in Yosemite, Sequoia, and Kings Canyon national parks using an equal probability spatially-balanced approach. Tree- and plot-level data were collected on forest structure, composition, demography, cone production, crown mortality, and incidence of white pine blister rust and mountain pine beetle. We measured 7899 whitebark pine, 1112 foxtail pine, and 6085 other trees from 2012–2017. All factors for both species were spatially highly variable. Whitebark pine occurred in nearly-pure krummholz stands at or near treeline and as a minor component of mixed species forests. Ovulate cones were observed on 25% of whitebark pine and 69% of foxtail pine. Whitebark pine seedlings were recorded in 58% of plots, and foxtail pine seedlings in only 21% of plots. Crown mortality (8% in whitebark, 6% in foxtail) was low and significantly higher in 2017 compared to previous years. Less than 1% of whitebark and zero foxtail pine were infected with white pine blister rust and <1% of whitebark and foxtail pine displayed symptoms of mountain pine beetle attack. High elevation white pines in the southern Sierra Nevada are healthy compared to other portions of their range where population declines are significant and well documented. However, increasing white pine blister rust and mountain pine beetle occurrence, coupled with climate change projections, portend future declines for these species, underscoring the need for broad-scale collaborative monitoring.",
+    "readLink": "http://www.mdpi.com/1999-4907/10/1/35"
+  },
+  {
+    "title": "Does External Debt Worsen Environmental Pollution? Evidence from Morocco",
+    "authors": [
+      "Hikma Bachegour,",
+      "Ahlam Qafas"
+    ],
+    "doi": "https://doi.org/10.32479/ijeep.13944",
+    "journalVolume": "Vol. 13,\n                                no. 2",
+    "issn": "2146-4553 (Online)",
+    "publisher": "EconJournals",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://www.econjournals.com/index.php/ijeep",
+    "abstract": "Morocco’s new development model report published in 2021 offers a renewed vision of the country's economic emergence strategy. It advocates an economic growth model that respects the environment and takes into consideration climate change challenges while promoting external debt, as one of the main economic instruments to achieve this new development pathway. This study investigates the empirical relationship between external debt and carbon dioxide emissions as an indicator of environmental pollution through the environmental Kuznets theory. As Morocco has a growing external debt and relies mainly on fossil fuels, the purpose is to analyze the long-term and short-term effect of external debt on carbon dioxide emissions using an ARDL model over the period 1984-2018. The time series data was collected from World Bank. The core findings of the study confirm the existence of inverted U-shaped Kuznets curve, they also reveal that external debt has a significant negative effect on carbon dioxide emissions in Morocco.",
+    "readLink": "https://econjournals.com/index.php/ijeep/article/view/13944"
+  },
+  {
+    "title": "Adaptation of Cities to Climate Change (Best Practices Review)",
+    "authors": [
+      "Ivanova Zinaida,",
+      "Eichner Michael"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202124406011",
+    "journalVolume": "Vol. 244\n                                \n                                \n                                  p.\n                                  06011",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The authors of the article are raising current issues related to climate change and global warming. Not all the countries are responding to these processes the same way and undertake joint complex efforts to mitigate climate change impacts. The authors have analyzed the existing legislations and actions for adaptation to climate change in the EU and separate European countries. “Covenant of Mayors”, ADAPT program, Joint Programming Initiative Urban Europe are considered in detail. Informational and awareness-raising work of state and educational entities is one of the main necessary actions to mitigate climate change negative impacts. The article presents the results of the opinion poll made by the European Social Survey, “Russian Public Opinion Research Center” (JSC “VCIOM”) and the investigations of German State Development Bank KfW on how citizens perceive climate change processes, their sense of personal responsibility and personal reaction. Also a brief review of educational programs of builders, urban developers and architects in European and Russian universities is added to the article. The conclusion of the authors is as such: it is necessary to intensify legislative measures for adaptation of cities to climate change, the stronger control of the amount of carbon dioxide emissions and coordinated actions in one region are needed. It is necessary to pay careful attention to climatic education of the students – future builders and urban developers.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/20/e3sconf_emmft2020_06011.pdf"
+  },
+  {
+    "title": "A Persistently Increasing Precipitation Trend Through the Holocene in Northwest China Recorded by Black Carbon δ13C From Sayram Lake",
+    "authors": [
+      "Qingfeng Jiang,",
+      "Jianan Zheng,",
+      "Yufeng Yang,",
+      "Wenwei Zhao,",
+      "Dongliang Ning,",
+      "Dongliang Ning"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2020.00228",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "Precipitation is an important requirement for the stable and sustainable development of ecosystems and communities in arid areas, which are vulnerable to the influences of climate change. The changes in precipitation throughout the Holocene, as well as its long-term characteristics in arid northwest China, are not well understood, and records to reconstruct the precipitation trends are needed. Therefore, this study established a well-dated black carbon (BC) stable isotope-inferred (δ13C) precipitation record based on a sediment core from Sayram Lake, Tianshan Mountains (Xinjiang province, northwest China). The record spans the last 12880 cal. yr BP. Variations in BC δ13C showed that between ∼12280 and 9260 cal. yr BP, regional precipitation gradually decreased, but then increased continually until the present, with millennial to centennial scale fluctuations. During the Holocene, a distinct period of low precipitation was observed between 9800 and 8800 cal. yr BP, and two episodes of high precipitation were observed between 8000 and 7600, and 5800 and 2500 cal. yr BP. The maximum precipitation occurred at ∼3800 cal. yr BP. Generally, the persistently increasing precipitation trend is consistent with other records from arid northwest China and adjacent areas. The trend was possibly controlled by Northern Hemisphere solar insolation and associated substantial ice sheet remnants, due to the influence of the North Atlantic Ocean sea surface temperatures and intensities of the Westerlies, which regulate the transport of water vapor to Xinjiang. The results provide a better understanding of the mechanisms driving the evolution of precipitation through the Holocene.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/feart.2020.00228/full"
+  },
+  {
+    "title": "Zinc Nutrition Responses to Agronomic and Yield Traits, Kernel Quality, and Pollen Viability in Rice (Oryza sativa L.)",
+    "authors": [
+      "Essam E. Kandil,",
+      "Aly A. A. El-Banna,",
+      "Dalia M. M. Tabl,",
+      "Marwa I. Mackled,",
+      "Rehab Y. Ghareeb,",
+      "Asma A. Al-Huqail,",
+      "Hayssam M. Ali,",
+      "Jebril Jebril,",
+      "Nader R. Abdelsalam"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2022.791066",
+    "journalVolume": "Vol. 13",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Rice (Oryza sativa L.) is one of the major cereal crops worldwide with wheat and maize. A total of two field experiments were performed to evaluate the response of some rice cultivars to various foliar zinc (Zn) concentrations based on different measurements, such as agronomic, yield, yield compounds, and grain technological parameters. The experimental layout was a split plot in three replicates; the five rice cultivars (Skaha 101, Giza178, Yasmeen, Fourate, and Amber 33) were distributed in the main plots while the four foliar applications of Zn (1,500, 2,000, 2,500 mg/L besides spray water) were occupied the sub-plots. The findings showed significant differences among the five rice cultivars regarding plant height, grain yield, straw yield, biological yield, harvest index, 1,000-grain weight, panicle length, protein percentage, and grain Zn content. There is a significant effect of Zn on all plant attributes. A significant interaction between rice cultivars and foliar application of Zn was observed, whereas fertilizing Giza 178 with foliar application of Zn at the rate of 2,500 mg/L achieved the highest mean values of grain yield and straw yield, biological yield, harvest index, 1,000-grain weight, panicle length, protein %, and Zn content followed by Sakha 101 with Zn application at the rate of 2,000 mg/L, respectively, in both seasons. The rice cultivars significantly differed in hulling (%), broken (%), hardness, grain length, shape, amylose (%), gel consistency, and gelatinization temperature. Unfortunately, the commercial Zn product used was genotoxic to pollen grains with a higher rate of Zn. Aberrations were observed such as stickiness, ultrastructural changes in the exterior and interior walls, partially or fully degenerated grains, and shrunken and unfilled grains. This study concluded that using Zn application at the rate of 2,000 mg/L to protect human and environmental health, the side effects and toxicity of the local commercial Zn product market should be investigated before making recommendations to farmers.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2022.791066/full"
+  },
+  {
+    "title": "Assessment of Seasonal and Annual Rainfall Trends and Variability in Sharjah City, UAE",
+    "authors": [
+      "Tarek Merabtene,",
+      "Mohsin Siddique,",
+      "Abdallah Shanableh"
+    ],
+    "doi": "https://doi.org/10.1155/2016/6206238",
+    "journalVolume": "Vol. 2016",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "Although a few studies on rainfall spatial and temporal variability in the UAE have been carried out, evidence of the impact of climate change on rainfall trends has not been reported. This study aims at assessing the significance of long-term rainfall trends and temporal variability at Sharjah City, UAE. Annual rainfall and seasonal rainfall extending over a period of 81 years (1934–2014) recorded at Sharjah International Airport have been analyzed. To this end, several parametric and nonparametric statistical measures have been applied following systematic data quality assessment. The analyses revealed that the annual rainfall trend decreased from −3 mm to −9.4 mm per decade over the study periods. The decreasing annual rainfall trend is mainly driven by the significant drop in winter rainfall, particularly during the period from 1977 to 2014. The results also indicate that high probability extreme events have shifted toward low frequency (12.7 years) with significant variations in monthly rainfall patterns and periodicity. The findings of the present study suggest reevaluating the derivation of design rainfall for infrastructure of Sharjah City and urge developing an integrated framework for its water resources planning and risk under climate change impacts scenarios.",
+    "readLink": "http://dx.doi.org/10.1155/2016/6206238"
+  }
+]

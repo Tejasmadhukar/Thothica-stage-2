@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Contributions of developed and developing countries to global climate forcing and surface temperature change",
+    "authors": [
+      "D S Ward,",
+      "N M Mahowald"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/9/7/074008",
+    "journalVolume": "Vol. 9,\n                                no. 7\n                                \n                                  p.\n                                  074008",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Understanding the relative contributions of individual countries to global climate change for different time periods is essential for mitigation strategies that seek to hold nations accountable for their historical emissions. Previous assessments of this kind have compared countries by their greenhouse gas emissions, but have yet to consider the full spectrum of the short-lived gases and aerosols. In this study, we use the radiative forcing of anthropogenic emissions of long-lived greenhouse gases, ozone precursors, aerosols, and from albedo changes from land cover change together with a simple climate model to evaluate country contributions to climate change. We assess the historical contribution of each country to global surface temperature change from anthropogenic forcing ( Δ T _s ), future Δ T _s through year 2100 given two different emissions scenarios, and the Δ T _s that each country has committed to from past activities between 1850 and 2010 (committed Δ T _s ). By including forcings in addition to the long-lived greenhouse gases the contribution of developed countries, particularly the United States, to Δ T _s from 1850 to 2010 (58%) is increased compared to an assessment of CO _2 -equivalent emissions for the same time period (52%). Contributions to committed Δ T _s evaluated at year 2100, dominated by long-lived greenhouse gas forcing, are more evenly split between developed and developing countries (55% and 45%, respectively). The portion of anthropogenic Δ T _s attributable to developing countries is increasing, led by emissions from China and India, and we estimate that this will surpass the contribution from developed countries around year 2030.",
+    "readLink": "https://doi.org/10.1088/1748-9326/9/7/074008"
+  },
+  {
+    "title": "Monitoring the Characteristics of the Bohai Sea Ice Using High-Resolution Geostationary Ocean Color Imager (GOCI) Data",
+    "authors": [
+      "Yu Yan,",
+      "Kaiyue Huang,",
+      "Dongdong Shao,",
+      "Yingjun Xu,",
+      "Wei Gu"
+    ],
+    "doi": "https://doi.org/10.3390/su11030777",
+    "journalVolume": "Vol. 11,\n                                no. 3\n                                \n                                  p.\n                                  777",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Satellite remote sensing data, such as moderate resolution imaging spectroradiometers (MODIS) and advanced very high-resolution radiometers (AVHRR), are being widely used to monitor sea ice conditions and their variability in the Bohai Sea, the southernmost frozen sea in the Northern Hemisphere. Monitoring the characteristics of the Bohai Sea ice can provide crucial information for ice disaster prevention for marine transportation, oil field operation, and regional climate change studies. Although these satellite data cover the study area with fairly high spatial resolution, their typically limited cloudless images pose serious restrictions for continuous observation of short-term dynamics, such as sub-seasonal changes. In this study, high spatiotemporal resolution (500 m and eight images per day) geostationary ocean color imager (GOCI) data with a high proportion of cloud-free images were used to monitor the characteristics of the Bohai Sea ice, including area and thickness. An object-based feature extraction method and an albedo-based thickness inversion model were used for estimating sea ice area and thickness, respectively. To demonstrate the efficacy of the new dataset, a total of 68 GOCI images were selected to analyze the evolution of sea ice area and thickness during the winter of 2012⁻2013 with severe sea ice conditions. The extracted sea ice area was validated using Landsat Thematic Mapper (TM) data with higher spatial resolution, and the estimated sea ice thickness was found to be consistent with in situ observation results. The entire sea ice freezing⁻melting processes, including the key events such as the day with the maximum ice area and the first and last days of the frozen season, were better resolved by the high temporal-resolution GOCI data compared with MODIS or AVHRR data. Both characteristics were found to be closely correlated with cumulative freezing/melting degree days. Our study demonstrates the applicability of the GOCI data as an improved dataset for studying the Bohai Sea ice, particularly for purposes that require high temporal resolution data, such as sea ice disaster monitoring.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/3/777"
+  },
+  {
+    "title": "Estimation of Water Loss Due to Evaporation in the El Cazadero Dam, Mexico, during a Drought",
+    "authors": [
+      "Pedro Antonio  Guido Aldana,",
+      "Yves Alexis  Pardavell Juárez,",
+      "Pino  Durán Escamilla"
+    ],
+    "doi": "https://doi.org/10.18359/rcin.5406",
+    "journalVolume": "Vol. 31,\n                                no. 1",
+    "issn": "0124-8170 (Print)",
+    "publisher": "1909-7735 (Online)",
+    "countryOfPublisher": "Editorial Neogranadina",
+    "lcc": [
+      "Colombia",
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science"
+    ],
+    "journalUrl": "http://revistas.unimilitar.edu.co/index.php/rcin",
+    "abstract": "In Mexico, large dams have been a critical component of the water supply. However, the places where they can be built are scarcer every day, a situation that adds to the high costs and social conflicts that they cause. Much of the water stored in dams is lost due to evaporation, so technological alternatives are currently being investigated to reduce it. Regarding the determination of evaporated volumes, data obtained with evaporimeters do not represent actual evaporation, being necessary to apply theoretical models in combination with field measurements to reach better approximations. The main objective of this research is to calculate the water evaporation in the El Cazadero dam located in the State of Zacatecas, Mexico, through Penman’s semi-empirical equation using data from the El Cazadero or 32006 weather station. The study area was selected due to its aridity and recurring drought problems that affect water availability. Evaporation results obtained from applying the theoretical model are compared with those reported by the weather station, showing a good correlation. In addition, results of the average daily evaporation are used to determine the approximate volume of water evaporated in the hydrological year between November 2010 and October 2011, when a severe drought occurred, whose magnitude and economic value indicates the necessity to carry out more research on this subject and propose public policies to develop and implement technological alternatives that mitigate this phenomenon.",
+    "readLink": "https://revistas.unimilitar.edu.co/index.php/rcin/article/view/5406"
+  },
+  {
+    "title": "Modeling the Evolution of Construction Solutions in Residential Buildings’ Thermal Comfort",
+    "authors": [
+      "Inês  F. G. Reis,",
+      "António Figueiredo,",
+      "António Samagaio"
+    ],
+    "doi": "https://doi.org/10.3390/app11052427",
+    "journalVolume": "Vol. 11,\n                                no. 2427\n                                \n                                  p.\n                                  2427",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "The evolution of the construction sector over the years has been marked by the replacement of high thermal inertia mass constructions by increasingly lighter solutions that are subject to greater thermal fluctuations and, consequently, thermal discomfort. To minimize these effects, energy demanding space conditioning technologies are implemented, contributing significantly to the sector’s share of global energy consumption. Enhanced constructive solutions involving phase-change materials have been developed to respond to the constructive thermal inertia loss, influencing buildings’ thermal and energy performance. This work aims to model the evolution of the construction over the last decades to understand to what extent constructive characteristics influence the occupants’ thermal comfort. For this purpose, typical and enhanced solutions representing distinct constructive periods were simulated using the EnergyPlus® software through its graphical interface DesignBuilder® and the thermal comfort of the different solutions was evaluated using the adaptive model for thermal comfort EN16798-1. The main results reveal that more restraining regulatory requirements are indeed mitigating thermal discomfort situations. However, overheating phenomena can rise, creating worrying consequences in the short-medium term. Thus, countries with mild climates such as Portugal, must pay special attention to these effects, which may be aggravated by climate change.",
+    "readLink": "https://www.mdpi.com/2076-3417/11/5/2427"
+  },
+  null,
+  {
+    "title": "Recent Changes in Water Discharge in Snow and Glacier Melt-Dominated Rivers in the Tienshan Mountains, Central Asia",
+    "authors": [
+      "Qifei Zhang,",
+      "Yaning Chen,",
+      "Zhi Li,",
+      "Gonghuan Fang,",
+      "Yanyun Xiang,",
+      "Yupeng Li,",
+      "Huiping Ji"
+    ],
+    "doi": "https://doi.org/10.3390/rs12172704",
+    "journalVolume": "Vol. 12,\n                                no. 2704\n                                \n                                  p.\n                                  2704",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Global warming has generally led to changes in river runoffs fed by snow and glacier meltwater in mountain ranges. The runoff of the Aksu River, which originates in the Southern Tienshan Mountains, exhibited a positive trend during 1979–2002, but this trend reversed during 2002–2015. Through a comprehensive analysis, this study aims to estimate potential reasons for changes in the runoff of its two contrasting headwaters: the Toxkan and Kumalak Rivers, based on climatic data, the altitude of the 0 °C isotherm, glacier mass balance (GMB), snow cover area (SCA), snow depth (SD) and the sensitivity model. For the Toxkan River, the decrease in spring runoff mainly resulted from reductions in precipitation, whereas the decrease in summer runoff was mainly caused by early snowmelt in spring and a much-reduced snow meltwater supply in summer. In addition, the obvious glacier area reduction in the catchment (decreased to less than 4%) also contributed to the reduced summer runoff. For the Kumalak River, a sharp decrease rate of 10.21 × 108 m3/decade in runoff was detected due to summertime cooling of both surface and upper air temperatures. Reduced summer temperatures with a positive trend in precipitation not only inhibited glacier melting but also dropped the 0 °C layer altitude, resulting in a significant increase in summertime SCA and SD, a slowing of the glacier negative mass balance, and a lowering of the snow-line altitude.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/17/2704"
+  },
+  {
+    "title": "Global Change Modulated Asian Inland Climate Since 7.3 Ma: Carbonate Manganese Records in the Western Qaidam Basin",
+    "authors": [
+      "Yudong Liu,",
+      "Yudong Liu,",
+      "Yibo Yang,",
+      "Chengcheng Ye,",
+      "Rongsheng Yang,",
+      "Erwin Appel,",
+      "Xiaomin Fang,",
+      "Xiaomin Fang"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2021.813727",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "Late Cenozoic drying of the Asian inland has not only exerted a profound impact on the regional environment but also affected global climate as an important source of global atmospheric dust. Continuous and accurately dated sediment records from the Asian interior are pivotal to a better understanding of the evolutionary history of Asian inland drying and the associated driving mechanisms. In this study, we present a continuous record of climate change in the Asian interior spanning the past 7.3 Myr, reconstructed by the redox evolution of a paleolake in the western Qaidam Basin, NE Tibetan Plateau. The paleolake redox conditions are linked to the oxygen concentration of lake bottom water and lake level, and were revealed by the manganese (Mn) concentration in the carbonate fraction (leached by the diluted acetic acid) of the carbonate-rich lacustrine sediments retrieved from two drill-cores (SG-1 and SG-1b). The reconstructed regional climate in the western Qaidam Basin shows long-term fluctuations, consistent with the secular evolution of the coeval global climate, especially the sea surface temperature variation in the high latitude North Atlantic. Three transitions of the paleolake hydrochemical system occurred at 6.2, 5.3, and 2.6 Ma, with a short drying stage at 6.2–5.3 Ma and prolonged Quaternary drying since 2.6 Ma. We argue that drying of the Asia interior has been dominantly forced by global cooling, in particular, the high-latitude cooling of the Northern Hemisphere.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2021.813727/full"
+  },
+  {
+    "title": "Retrofitting Historic Buildings for Future Climatic Conditions and Consequences in Terms of Artifacts Conservation Using Hygrothermal Building Simulation",
+    "authors": [
+      "Guilherme B. A. Coelho,",
+      "Vasco Peixoto de Freitas,",
+      "Fernando M. A. Henriques,",
+      "Hugo Entradas Silva"
+    ],
+    "doi": "https://doi.org/10.3390/app13042382",
+    "journalVolume": "Vol. 13,\n                                no. 2382\n                                \n                                  p.\n                                  2382",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "Climate change will greatly influence the world at several levels and will have consequences on the interior climate of historic buildings and artifacts conservation. Buildings are responsible for a large slice of the overall emissions, which is due both to the greenhouse gases that are released during their construction as well as the activities that are performed therewithin. One way of counteracting this trend is to design more efficient retrofit buildings and predict their behavior using simulation software, which can thoroughly assess the performance of new buildings or the impact of each retrofit measure for existing buildings. In this study, a calibrated computational model of high thermal inertia building was used to assess the performance of passive retrofits in mitigating the effects of climate change concerning artifact decay mechanisms. In addition, a methodology that aims to reduce the amount of time spent to perform these studies is also presented, in which time savings reach up to 63%.",
+    "readLink": "https://www.mdpi.com/2076-3417/13/4/2382"
+  },
+  {
+    "title": "The Toledo Mountains: A Resilient Landscape and a Landscape for Resilience? Hazards and Strategies in a Mid-Elevation Mountain Region in Central Spain",
+    "authors": [
+      "Reyes Luelmo-Lautenschlaeger,",
+      "Sebastián Pérez-Díaz,",
+      "Olivier Blarquez,",
+      "César Morales-Molino,",
+      "José  Antonio López-Sáez"
+    ],
+    "doi": "https://doi.org/10.3390/quat2040035",
+    "journalVolume": "Vol. 2,\n                                no. 4\n                                \n                                  p.\n                                  35",
+    "issn": "2571-550X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Anthropology: Physical anthropology. Somatology: Human evolution",
+      "Science: Geology: Stratigraphy"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/quaternary",
+    "abstract": "The Toledo Mountains are a mid-elevation mountain range that separates the Tagus and Guadiana basins in the central area of the Iberian Peninsula. The location of these mountains allows the development of typical Mediterranean vegetation with some Atlantic influence. Consequently, typical broadleaved evergreen Mediterranean vegetation currently dominates the regional landscape, with the remarkable presence of more mesophilous species in sheltered and more humid microsites such as gorges (e.g., Prunus lusitanica, Taxus baccata, Ilex aquifolium) and mires/bogs (e.g., Betula pendula susbp. fontqueri, Erica tetralix, Myrica gale). Palaeoecological studies in these mountains are essential to understand the long-term ecology and original distribution of these valuable communities and are key to assess their resilience. Understanding the hazards and opportunities faced in the past by the plant communities of the Toledo Mountains is necessary to enhance the management and protection of those species currently threatened. This study focuses on El Perro mire, a peatland on the southern Toledo Mountains (central Spain) where climatic variability has played a major role in landscape dynamics at multi-decadal to millennial timescales. Climatic events such as the 4.2 ka cal. Before Present (BP) or the Little Ice Age triggered relevant landscape changes such as the spread and latter decline of birch and hazel forests. Human communities also seemed to be affected by these events, as their resilience was apparently jeopardized by the new climatic conditions and they were forced to find new strategies to cope with the new scenarios.",
+    "readLink": "https://www.mdpi.com/2571-550X/2/4/35"
+  },
+  {
+    "title": "Importance and vulnerability of water towers across Northwest China",
+    "authors": [
+      "Yi Huang,",
+      "Cun-De Xiao,",
+      "Bo Su"
+    ],
+    "doi": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  63\n                                  – 72",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "High mountains (known as water towers) in the arid areas of Northwest China (ARNWC) are major suppliers of water resources for the downstream oasis region, where large populations and economic activities are concentrated. Studies on both water supply and water demand in central Asia including ARNWC have been explored in recent decades, but a precise study on the importance and vulnerability of fine-scale water towers still needs to be conducted, because oases are isolated each other and each oasis has its own specific tower(s). Here we ranked the importance of water tower units (WTUs) using a simplified water tower index (WTI) based on water amount of supply/demand side at a fine river basin scale. Then the vulnerability of these WTUs is assessed with the consideration of future changes in climate, population, GDP, water stress, etc. We concluded that the WTU of the Mid-branch Rivers of the Junggar Basin is the most important with the highest WTI, while the Yarkant River Basin is the most vulnerable. The WTUs such as the Yarkant, Hotan and Kaxgar of the Tarim River Basin as well as the Hei River of the Hexi Corridor are important at present and vulnerable under a considerable pressure from future climate change scenarios. To respond to these opportunities and risks, it is better to reduce the proportion of the primary industry appropriately, improve the efficiency of water use and strengthen the supervision of water resources utilization, especially in the industrial and urban planning as well as ecological engineering projects.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927821001817"
+  }
+]

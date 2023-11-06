@@ -1,0 +1,213 @@
+[
+  {
+    "title": "STEFLUX, a tool for investigating stratospheric intrusions: application to two WMO/GAW global stations",
+    "authors": [
+      "D. Putero,",
+      "D. Putero,",
+      "P. Cristofanelli,",
+      "M. Sprenger,",
+      "B. Škerlak,",
+      "L. Tositti,",
+      "P. Bonasoni"
+    ],
+    "doi": "https://doi.org/10.5194/acp-16-14203-2016",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  14203\n                                  – 14217",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Stratospheric intrusion (SI) events are a topic of ongoing research, especially because of their ability to change the oxidation capacity of the troposphere and their contribution to tropospheric ozone levels. In this work, a novel tool called STEFLUX (Stratosphere-to-Troposphere Exchange Flux) is presented, discussed, and used to provide a first long-term investigation of SI over two global hot-spot regions for climate change and air pollution: the southern Himalayas and the central Mediterranean Basin. The main purpose of STEFLUX is to obtain a fast-computing and reliable identification of the SI events occurring at a specific location and during a specified time window. It relies on a compiled stratosphere-to-troposphere exchange (STE) climatology, which makes use of the ERA-Interim reanalysis dataset from the ECMWF, as well as a refined version of a well-established Lagrangian methodology. STEFLUX results are compared to the SI observations (SIO) at two high-mountain WMO/GAW global stations in these climate hot spots, i.e., the Nepal Climate Observatory-Pyramid (NCO-P, 5079 m a.s.l.) and Mt. Cimone (2165 m a.s.l.), which are often affected by SI events. Compared to the observational datasets at the two specific measurement sites, STEFLUX is able to detect SI events on a regional scale. Furthermore, it has the advantage of retaining additional information concerning the pathway of stratospheric-affected air masses, such as the location of tropopause crossing and other meteorological parameters along the trajectories. However, STEFLUX neglects mixing and dilution that air masses undergo along their transport within the troposphere. Therefore, the regional-scale STEFLUX events cannot be expected to perfectly reproduce the point measurements at NCO-P and Mt. Cimone, which are also affected by small-scale (orographic) circulations. Still, the seasonal variability in SI events according to SIO and STEFLUX agrees fairly well. By exploiting the fact that the ERA-Interim reanalysis extends back to 1979, the long-term climatology of SI events at NCO-P and Mt. Cimone is also assessed in this work. The analysis of the 35-year record at both stations denies the existence of any significant trend in the SI frequency, except for winter seasons at NCO-P. Furthermore, for the first time, by using the STEFLUX outputs, we investigate the potential impact of specific climate factors (i.e. ENSO, QBO, and solar activity) on SI frequency variability over the Mediterranean Basin and the Himalayas.",
+    "readLink": "https://www.atmos-chem-phys.net/16/14203/2016/acp-16-14203-2016.pdf"
+  },
+  {
+    "title": "Brief communication: Recent changes in summer Greenland blocking captured by none of the CMIP5 models",
+    "authors": [
+      "E. Hanna,",
+      "X. Fettweis,",
+      "R. J. Hall"
+    ],
+    "doi": "https://doi.org/10.5194/tc-12-3287-2018",
+    "journalVolume": "Vol. 12\n                                \n                                \n                                  pp.\n                                  3287\n                                  – 3292",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Recent studies note a significant increase in high-pressure blocking over the Greenland region (Greenland Blocking Index, GBI) in summer since the 1990s. Such a general circulation change, indicated by a negative trend in the North Atlantic Oscillation (NAO) index, is generally highlighted as a major driver of recent surface melt records observed on the Greenland Ice Sheet (GrIS). Here we compare reanalysis-based GBI records with those from the Coupled Model Intercomparison Project 5 (CMIP5) suite of global climate models over 1950–2100. We find that the recent summer GBI increase lies well outside the range of modelled past reconstructions and future GBI projections (RCP4.5 and RCP8.5). The models consistently project a future decrease in GBI (linked to an increase in NAO), which highlights a likely key deficiency of current climate models if the recently observed circulation changes continue to persist. Given well-established connections between atmospheric pressure over the Greenland region and air temperature and precipitation extremes downstream, e.g. over northwest Europe, this brings into question the accuracy of simulated North Atlantic jet stream changes and resulting climatological anomalies over densely populated regions of northern Europe as well as of future projections of GrIS mass balance produced using global and regional climate models.",
+    "readLink": "https://www.the-cryosphere.net/12/3287/2018/tc-12-3287-2018.pdf"
+  },
+  {
+    "title": "Views of the Highway: Infrastructure Reality, Perceptions, and Politics",
+    "authors": [
+      "Linda M. Fogg,",
+      "Lawrence C. Hamilton,",
+      "Erin S. Bell"
+    ],
+    "doi": "https://doi.org/10.1177/2158244020963609",
+    "journalVolume": "Vol. 10",
+    "issn": "2158-2440 (Online)",
+    "publisher": "SAGE Publishing",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "General Works: History of scholarship and learning. The humanities",
+      "Social Sciences"
+    ],
+    "journalUrl": "http://journals.sagepub.com/home/sgoa",
+    "abstract": "Transportation infrastructure such as highways and bridges requires upgrades and maintenance. In many U.S. regions, these requirements have surpassed current funding, so new solutions are needed. One obvious though imperfect source is gasoline taxes, but raising these is politically risky, regardless of need. To illuminate this conflict, we analyze data from four random-sample telephone surveys (2016–2018, n = 2,035) that asked residents in the U.S. state of New Hampshire about their perceptions of highway and bridge conditions, and support for gas tax increases. About one third of the respondents counterfactually reported that highway and bridge conditions had improved compared with 10 or 20 years ago. At the county level, subjective perceptions correlate well with actual pavement and bridge conditions. Majorities of respondents also said they would support tax increases of 5 of 10 cents, although support falls off at higher amounts. Support for a tax increase varies not only with the proposed amount, but also with individual characteristics—especially political identity. In a structural equation model, infrastructure perceptions serve as an intervening variable between ideology and tax support: if infrastructure is falsely seen as improving, that supports an ideologically favored rejection of taxes. Partisan differences in perceptions of physical conditions, noted previously in other domains such as climate change, pose an unexpected challenge in building public support for transportation infrastructure.",
+    "readLink": "https://doi.org/10.1177/2158244020963609"
+  },
+  {
+    "title": "Terrestrial Water Storage Dynamics: Different Roles of Climate Variability, Vegetation Change, and Human Activities across Climate Zones in China",
+    "authors": [
+      "Shiyu Deng,",
+      "Mingfang Zhang,",
+      "Yiping Hou,",
+      "Hongyun Wang,",
+      "Enxu Yu,",
+      "Yali Xu"
+    ],
+    "doi": "https://doi.org/10.3390/f13101541",
+    "journalVolume": "Vol. 13,\n                                no. 1541\n                                \n                                  p.\n                                  1541",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Understanding terrestrial water storage (TWS) dynamics and associated drivers (e.g., climate variability, vegetation change, and human activities) across climate zones is essential for designing water resources management strategies in a changing environment. This study estimated TWS anomalies (TWSAs) based on the corrected Gravity Recovery and Climate Experiment (GRACE) gravity satellite data and derived driving factors for 214 watersheds across six climate zones in China. We evaluated the long-term trends and stationarities of TWSAs from 2004 to 2014 using the Mann–Kendall trend test and Augmented Dickey-Fuller stationarity test, respectively, and identified the key driving factors for TWSAs using the partial correlation analysis. The results indicated that increased TWSAs were observed in watersheds in tropical and subtropical climate zones, while decreased TWSAs were found in alpine and warm temperate watersheds. For tropical watersheds, increases in TWS were caused by increasing water conservation capacity as a result of large-scale plantations and the implementation of natural forest protection programs. For subtropical watersheds, TWS increments were driven by increasing precipitation and forestation. The decreasing tendency in TWS in warm temperate watersheds was related to intensive human activities. In the cold temperate zone, increased precipitation and soil moisture resulting from accelerated and advanced melting of frozen soils outweigh the above-ground evapotranspiration losses, which consequently led to the upward tendency in TWS in some watersheds (e.g., Xiaoxing’anling mountains). In the alpine climate zone, significant declines in TWS were caused by declined precipitation and soil moisture and increased evapotranspiration and glacier retreats due to global warming, as well as increased agriculture activities. These findings can provide critical scientific evidence and guidance for policymakers to design adaptive strategies and plans for watershed-scale water resources and forest management in different climate zones.",
+    "readLink": "https://www.mdpi.com/1999-4907/13/10/1541"
+  },
+  {
+    "title": "The Achievements of Climate Change and Energy Policy in the European Union",
+    "authors": [
+      "Indre Siksnelyte-Butkiene,",
+      "Tomas Karpavicius,",
+      "Dalia Streimikiene,",
+      "Tomas Balezentis"
+    ],
+    "doi": "https://doi.org/10.3390/en15145128",
+    "journalVolume": "Vol. 15,\n                                no. 5128\n                                \n                                  p.\n                                  5128",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The European transition to green economy is based on long-term strategies. The Europe 2020 Strategy was launched in 2010 in order to promote smart, sustainable, and inclusive growth in the region. Later, the ambitions regarding this strategy were followed by the Green Deal and Sustainable Development Goals. Now, the effort of countries towards the green economy is even more relevant than ever because of the context of today’s global energy crisis and economic uncertainty due to many challenges such as the COVID-19 pandemic or Russia invasion of Ukraine. This paper seeks to assess the countries’ achievements in seeking climate change and energy targets of the Europe 2020 Strategy by applying the innovative multi-criteria decision-making (MCDM) technique. The kernel-based comprehensive assessment (KerCA) method was applied for the calculations of the progress achieved and countries’ rankings. It allows to evaluate countries’ achievements and compare them using the mathematical models. The analysis of the national target implementation in the countries allows to determine the compliance of countries with their commitments and liability towards other countries and the European Union (EU). An analysis of the implementation of the strategy can serve as a guide to further develop climate change and energy policy in the region. Furthermore, the added value of the article is systematic overview of scientific studies proposing different methodologies for the analysis of target implementation at the whole region level. The novelty of this paper also relies on the approach, which considers not only the level of achievement of the target, but also assesses the excess.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/14/5128"
+  },
+  {
+    "title": "Decomposition of contribution to runoff changes and spatial differences of major tributaries in the middle reaches of the Yellow River based on the Budyko framework",
+    "authors": [
+      "Yanyu Dai,",
+      "Fan Lu,",
+      "Benqing Ruan,",
+      "Xinyi Song,",
+      "Yu Du,",
+      "Yiran Xu"
+    ],
+    "doi": "https://doi.org/10.2166/nh.2023.061",
+    "journalVolume": "Vol. 54,\n                                no. 4\n                                \n                                  pp.\n                                  435\n                                  – 450",
+    "issn": "1998-9563 (Print)",
+    "publisher": "2224-7955 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)",
+      "Geography. Anthropology. Recreation: Physical geography"
+    ],
+    "journalUrl": "https://iwaponline.com/hr",
+    "abstract": "Quantitative differentiation of climate and human activities on runoff is important for water resources management and future water resources trend prediction. In recent years, runoff in the middle reaches of the Yellow River (MRYR) has decreased dramatically. Many studies have analyzed the causes of runoff reduction, but there is still a lack of understanding of the spatial differences in runoff contributions and their causes. Therefore, this study quantitatively distinguishes the contributions of climate and human activities to runoff changes in nine sub-basins of the MRYR based on the Budyko framework and analyses the differences in the contributions of different basins and their causes. The results show that the runoff in the nine sub-basins decreases significantly and the precipitation increases from northwest to southeast. The contribution of human activities to runoff is greater than that of climate change, especially in the Huangfuchuan (HF) River and Kuye (KY) River basins, where the contribution of human activities to runoff exceeds 90%. The greater impact of human activities in HF River and KY River is due to the significantly higher water use growth rate and normalized vegetation index trends than in other areas. HIGHLIGHTS Spatial differences in the causes of runoff variation in nine small watersheds in the middle reaches of the Yellow River were analyzed.; The influence of NDVI and human water extraction cannot be ignored.;",
+    "readLink": "http://hr.iwaponline.com/content/54/4/435"
+  },
+  {
+    "title": "The Construction and Empirical Study on Evaluation Index System of International Low-Carbon Economy Development",
+    "authors": [
+      "Zhang Zhongyu,",
+      "Zhang Zhongxiang"
+    ],
+    "doi": "https://doi.org/10.3389/fenrg.2021.761567",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-598X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "General Works"
+    ],
+    "journalUrl": "http://www.frontiersin.org/energy_research",
+    "abstract": "Global climate change has become one of the core issues of world governance. Many countries have put forward the goal of carbon neutrality one after another, leading to the intensification of international low-carbon economy competition. To assess the current low-carbon competitiveness among countries, this article constructs an evaluation index system of international low-carbon economy development, and obtains the scores and rankings of countries in energy, society, economy and environment, as well as overall. Taking 20 countries with the highest carbon emissions in the world in 2019 as samples, starting from the concept of low-carbon economy and five evaluation principles, this article selects 40 low-carbon evaluation indicators from five aspects, including economy, society, science and technology, environment, and energy structure. By using the principal component factor analysis method to calculate and test, the four factors, energy factor, society factor, economy factor, and environment factor, are finally extracted to construct the evaluation index system. Results show that South Korea, France, China, Canada, and Germany are among the world’s top five low-carbon economies. The overall competitiveness of China’s low-carbon economy is in a relatively favorable position (3rd overall), with the most outstanding performance in terms of economic strength (1st), but poor performance in terms of social development (9th) and environmental carrying capacity (9th), and the biggest disadvantage in terms of energy structure (13th).",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenrg.2021.761567/full"
+  },
+  {
+    "title": "Water Balance Analysis of Hulun Lake, a Semi-Arid UNESCO Wetland, Using Multi-Source Data",
+    "authors": [
+      "Biao Sun,",
+      "Zhiyan Yang,",
+      "Shengnan Zhao,",
+      "Xiaohong Shi,",
+      "Yu Liu,",
+      "Guodong Ji,",
+      "Jussi Huotari"
+    ],
+    "doi": "https://doi.org/10.3390/rs15082028",
+    "journalVolume": "Vol. 15,\n                                no. 2028\n                                \n                                  p.\n                                  2028",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Hulun Lake is the largest lake in northeastern China, and its basin is located in China and Mongolia. This research aims to analyze the dynamic changes in the water volume of Hulun Lake and to estimate the groundwater recharge of the lake during the past 60 years. Multi-source data were used, and water-level-data-interpolation extrapolation, water-balance equations, and other methods were applied. The proportion of the contribution of each component to the quantity of water in Hulun Lake during the last 60 years was accurately calculated. Evaporation loss was the main component in the water loss in Hulun Lake. In the last 60 years, the average annual runoff into the lake was about 1.202 billion m3, and it was the factor with the largest variation range and the leading factor affecting the changes in the quantity of water in Hulun Lake. There was groundwater recharge in Hulun Lake for a long period, and the average annual groundwater recharge was about 776 million m3 (excluding leakage). The contribution ratio of the river water, groundwater, and precipitation to the recharging of Hulun Lake was about 5:3:2. The changes in the quantity of water in Hulun Lake are affected by climate change and human activities in China and Mongolia, especially those in Mongolia.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/8/2028"
+  },
+  {
+    "title": "Protecting the Gulf: Climate change coverage in GCC print media",
+    "authors": [
+      "Bradley C. Freeman"
+    ],
+    "doi": "https://doi.org/10.1080/23311983.2016.1212690",
+    "journalVolume": "Vol. 3,\n                                no. 1",
+    "issn": "2331-1983 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Fine Arts: Arts in general",
+      "General Works: History of scholarship and learning. The humanities"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/oaah",
+    "abstract": "This paper explores the range and type of coverage that climate change has received over a five-year period in the English-language press in the six member countries of the Gulf Cooperation Council (GCC), namely Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. Using a coding scheme that has been successfully employed in previous research, the coverage is examined based on several factors, for example, the dominant frame of the story, the number of stories and word count, which sources are quoted, and whether or not blame is attributed. As the salience of the issue ebbs and flows in the world press and for global populations, examining coverage in the regional press of supranational organizations (such as the EU, ASEAN, and the GCC) represents another interesting avenue for research as the potential for future conflict among nations resulting from climate change becomes more of a reality. Results show that climate change receives varied coverage in the Gulf press; researchers and government officials tend to be used as sources; roughly half of the sampled articles mention risks and discuss potential solutions. The stories tend to revolve around energy, conservation, and weather-related topics, while at the same time approximately half mention “man” as to blame for the problem.",
+    "readLink": "http://dx.doi.org/10.1080/23311983.2016.1212690"
+  },
+  {
+    "title": "Uncertainty analysis of a spatially explicit annual water-balance model: case study of the Cape Fear basin, North Carolina",
+    "authors": [
+      "P. Hamel,",
+      "A. J. Guswa"
+    ],
+    "doi": "https://doi.org/10.5194/hess-19-839-2015",
+    "journalVolume": "Vol. 19,\n                                no. 2\n                                \n                                  pp.\n                                  839\n                                  – 853",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "There is an increasing demand for assessment of water provisioning ecosystem services. While simple models with low data and expertise requirements are attractive, their use as decision-aid tools should be supported by uncertainty characterization. We assessed the performance of the InVEST annual water yield model, a popular tool for ecosystem service assessment based on the Budyko hydrological framework. Our study involved the comparison of 10 subcatchments ranging in size and land-use configuration, in the Cape Fear basin, North Carolina. We analyzed the model sensitivity to climate variables and input parameters, and the structural error associated with the use of the Budyko framework, a lumped (catchment-scale) model theory, in a spatially explicit way. Comparison of model predictions with observations and with the lumped model predictions confirmed that the InVEST model is able to represent differences in land uses and therefore in the spatial distribution of water provisioning services. Our results emphasize the effect of climate input errors, especially annual precipitation, and errors in the ecohydrological parameter Z, which are both comparable to the model structure uncertainties. Our case study supports the use of the model for predicting land-use change effect on water provisioning, although its use for identifying areas of high water yield will be influenced by precipitation errors. While some results are context-specific, our study provides general insights and methods to help identify the regions and decision contexts where the model predictions may be used with confidence.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/19/839/2015/hess-19-839-2015.pdf"
+  }
+]

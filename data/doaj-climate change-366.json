@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Seasonal Cropland Trends and Their Nexus with Agrometeorological Parameters in the Indus River Plain",
+    "authors": [
+      "Qiming Zhou,",
+      "Ali Ismaeel"
+    ],
+    "doi": "https://doi.org/10.3390/rs13010041",
+    "journalVolume": "Vol. 13,\n                                no. 41\n                                \n                                  p.\n                                  41",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The fine-scale insights of existing cropland trends and their nexus with agrometeorological parameters are of paramount importance in assessing future food security risks and analyzing adaptation options under climate change. This study has analyzed the seasonal cropland trends in the Indus River Plain (IRP), using multi-year remote sensing data. A combination of Sen’s slope estimator and Mann–Kendall test was used to quantify the existing cropland trends. A correlation analysis between enhanced vegetation index (EVI) and 9 agrometeorological parameters, derived from reanalysis and remote sensing data, was conducted to study the region’s cropland-climate nexus. The seasonal trend analysis revealed that more than 50% of cropland in IRP improved significantly from the year 2003 to 2018. The lower reaches of the IRP had the highest fraction of cropland, showing a significant decreasing trend during the study period. The nexus analysis showed a strong correlation of EVI with the evaporative stress index (ESI) during the water-stressed crop season. Simultaneously, it exhibited substantial nexus of EVI with actual evapotranspiration (AET) during high soil moisture crop season. Temperature and solar radiation had a negative linkage with EVI response. In contrast, a positive correlation of rainfall with EVI trends was spatially limited to the IRP’s upstream areas. The relative humidity had a spatially broad positive correlation with EVI compare to other direct climatic parameters. The study concluded that positive and sustainable growth in IRP croplands could be achieved through effective agriculture policies to address spatiotemporal AET anomalies.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/1/41"
+  },
+  {
+    "title": "Breaking the reproductive barrier of divergent species to explore the genomic landscape",
+    "authors": [
+      "A. Gilles,",
+      "Y. Thevenin,",
+      "F. Dione,",
+      "J.-F. Martin,",
+      "B. Barascud,",
+      "R. Chappaz,",
+      "N. Pech"
+    ],
+    "doi": "https://doi.org/10.3389/fgene.2022.963341",
+    "journalVolume": "Vol. 13",
+    "issn": "1664-8021 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Genetics"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/genetics",
+    "abstract": "Background: Climate change will have significant consequences for species. Species range shifts induce the emergence of new hybrid zones or the spatial displacement of pre-existing ones. These hybrid zones may become more porous as alleles are passed from one species to another. Currently, hybridization between highly divergent species living in sympatry seems extremely limited. Indeed, this phenomenon involves breaking two barriers. The first is the pre-mating barrier, related to the reproductive phenology of the two species. The second is the post-zygotic barrier, related to the genetic divergence between these species. Here, we were interested in identifying new hybridization patterns and potential implications, especially in the context of environmental modifications.Methods: We sampled Telestes souffia and Parachondrostoma toxostoma wild specimens from different locations across France and genotyped them for SNP markers. We identified discriminant loci using F1-hybrid specimens and parental species and performed principal component analysis and Bayesian model-based clustering to analyze phylogenetic information. Furthermore, we assessed deviation in allele frequency from F1 to F2 and for Hardy–Weinberg equilibrium for F2 and assessed gene function associated with two F2 cohorts.Results: We demonstrate that by breaking the ecological barrier, massive introgressive hybridization is possible between two endemic lineages of Cyprinidae belonging to two distinct genera. For both cohorts studied (=2 cm and >2 cm), a large majority of loci (>88%) presented no deviation in allele frequency and no departure from the Hardy–Weinberg equilibrium. For individuals beyond the 2 cm stage, two phenomena were observed. The first was an allelic imbalance in favor of P. toxostoma, for some genomic regions, with genes involved in developmental regulatory processes, cytoskeletal organization, and chromosome organization. The second was an excess of heterozygous loci coupled with an equilibrium of allelic frequencies for genes involved in immune response and kidney/liver development. Moreover, the 2 cm-sized specimens with high mortality yielded a particular genomic signature.Conclusion: Our study displayed important results for understanding the early stages of hybridization between divergent lineages and predicting the emergence of future hybrid zones in the wild. Moreover, this hybridization generates a wide spectrum of hybrids that are a potential source of important evolutionary novelties.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fgene.2022.963341/full"
+  },
+  {
+    "title": "Inter- and Intra-Annual Glacier Elevation Change in High Mountain Asia Region Based on ICESat-1&2 Data Using Elevation-Aspect Bin Analysis Method",
+    "authors": [
+      "Cong Shen,",
+      "Li Jia,",
+      "Shaoting Ren"
+    ],
+    "doi": "https://doi.org/10.3390/rs14071630",
+    "journalVolume": "Vol. 14,\n                                no. 1630\n                                \n                                  p.\n                                  1630",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Glaciers are sensitive indicators of climate change and have a significant influence on regional water cycle, human survival and social development. Global warming has led to great changes in glaciers over the High Mountain Asia (HMA) region. Glacier elevation change is a measure of glacier mass balance driven by the processes of energy and mass exchange between the glacier surface and the atmosphere which are influenced by climatic factors and glacier surface properties. In this study, we estimated the inter-annual and intra-annual elevation changes of glaciers in the HMA region in 2003–2020 using Ice, Cloud and land Elevation Satellite (ICESat) data and Shuttle Radar Terrain Mission (SRTM) digital elevation model (DEM) data by developing an “elevation-aspect bin analysis method” that considered the difference of glacier elevation changes in different elevations and aspects of glacier topography. The results showed that: (1) The inter-annual change of glacier elevation in 2003–2020 had large spatial heterogeneity. Glacier elevation reduction mainly occurred in the marginal region of the HMA with the maximum decline in the Nyainqentanglha region, while glacier elevation showed increase in the West Kunlun of inner HMA regions in 2003–2020. The glacier elevation change rate showed an accelerating reduction trend in most of the HMA regions, except in the west HMA where the glacier elevation reduction rate showed slowdown tendency. Specifically, the glacier elevation change rate in the entire HMA was −0.21 ± 0.12 m/year in 2003–2008 and −0.26 ± 0.11 m/year in 2003–2020, respectively. (2) The intra-annual change of HMA glacier elevation in 2019 and 2020 showed obvious spatiotemporal heterogeneity, and the glacier thickening period was gradually delayed from the marginal area to the inner area of the HMA. The glaciers in the western marginal part of the HMA (the Tienshan Mountains, Pamir and Hindu Kush and Spiti Lahaul) and Karakoram thickened in winter or spring, the glaciers in the Nyainqentanglha Mountains exhibited spring accumulation. The glaciers in West Kunlun accumulated in two time periods, i.e., from March to June and from July to September. The glaciers in the Inner Tibetan Plateau and Bhutan and Nepal areas experienced spring or summer accumulation, especially in June or July. Moreover, we found that the inter-annual and intra-annual change of glacier elevation could be explained by the changes in temperature and precipitation. A similar analysis can be extended to mountain glaciers in other regions of the world, and glacier change trends could be further explored over a longer time span with the continuous operation of ICESat-2.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/7/1630"
+  },
+  {
+    "title": "Does Ecological Water Replenishment Help Prevent a Large Wetland from Further Deterioration? Results from the Zhalong Nature Reserve, China",
+    "authors": [
+      "Liwen Chen,",
+      "Sixin Liu,",
+      "Yanfeng Wu,",
+      "Y.  Jun Xu,",
+      "Shengbo Chen,",
+      "Shiliang Pang,",
+      "Zongting Gao,",
+      "Guangxin Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/rs12203449",
+    "journalVolume": "Vol. 12,\n                                no. 3449\n                                \n                                  p.\n                                  3449",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Ecological water replenishment (EWR) has been increasingly applied to the restoration and maintenance of wetland hydrological conditions across China since the beginning of the 21st century. However, little is known about whether EWR projects help protect and/or restore wetland ecohydrology. As one of the earliest and longest-running EWR projects in China, water has been released from the Nenjiang River into the Zhalong wetland since 2001. It is important to examine the ecohydrological effects of this EWR project. In this study, long time series remote sensing data were used to extract the water area, inundation frequency, and normalized difference vegetation index (NDVI) to explore how eco-hydrological conditions changed during the pre- (1984–2000) and post-EWR (2001–2018) periods in the Zhalong wetland. Results show that the inundation area decreased due to the reduced surface water inflow during the pre-EWR period. Similarly, monthly vegetation NDVI in the growing season generally exhibited a decreasing and an increasing trend during the pre- and post-EWR periods, respectively. In the post-EWR period, NDVI increased by 19%, 73%, 45%, 28%, 13% for the months of May through September, respectively. Due to EWR, vegetation growth in areas with low inundation frequency was better than in areas with high inundation frequency. We found that the EWR project, runoff, and precipitation contributed 25%, 11%, and 64% to changes in the NDVI, respectively, and 46%, 37%, and 17% to changes in inundation area, respectively. These results indicate that the EWR project has improved hydrological conditions in the Zhalong wetland. For further maximum benefits of EWR in the Zhalong wetlands, we suggest that implementing similar eco-hydrological projects in the future should focus on flood pulse management to increase the inundation area, improve hydrological connectivity, and create new habitats.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/20/3449"
+  },
+  {
+    "title": "A snapshot of the limnological features in tropical floodplain lakes: the relative influence of climate and land use",
+    "authors": [
+      "Maria Tereza Ribeiro Alves,",
+      "Karine Borges Machado,",
+      "Manuel Eduardo Ferreira,",
+      "Ludgero Cardoso Galli Vieira,",
+      "João Carlos Nabout"
+    ],
+    "doi": "https://doi.org/10.1590/s2179-975x7916",
+    "journalVolume": "Vol. 31,\n                                no. 0",
+    "issn": "2179-975X (Online)",
+    "publisher": "Associação Brasileira de Limnologia",
+    "countryOfPublisher": "Brazil",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.scielo.br/j/alb/",
+    "abstract": "Abstract Aim This study aimed to investigate the relative influence of climate (temperature and precipitation) and land use on limnological features of 30 floodplain lakes in the Araguaia River, in Central Brazil, an important river that drains in the Brazilian Cerrado. Methods The lakes were sampled in one same period, at a large spatial scale (900 km along the river) covering climate and landscape variability. For decomposing the relative importance of land use and climate, we used the RDA and partitioning variance techniques. Results The lakes presented limnological gradient along the floodplain; in general, the lakes presented low transparency, nutrients concentrations (total nitrogen and total phosphorus) and oxygen saturation. The water pH was considered weakly acidic. Considering land use in Araguaia river basin, lakes in downstream presented more remnant vegetation and lakes in upstream presented more livestock and agriculture soil use. The climate conditions were the most important in explaining the variation in limnological characteristics of the lakes, while the individual analysis of limnological variables showed that land use was important to explain to the pH and transparency of the water. Conclusions Finally, this study showed the importance of investigating regional climatic attributes and land use information to explain the limnological characterization of floodplain lakes. Thus, it highlights the importance of the possible impacts of global climate change on limnological conditions.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2179-975X2019000100307&lng=en&tlng=en"
+  },
+  {
+    "title": "Estimating uncertainty of North American landbird population sizes",
+    "authors": [
+      "Jessica C. Stanton,",
+      "Peter Blancher,",
+      "Kenneth V. Rosenberg,",
+      "Arvind O. Panjabi,",
+      "Wayne E. Thogmartin"
+    ],
+    "doi": "Vol. 14,\n                                no. 1\n                                \n                                  p.\n                                  4",
+    "issn": "1712-6568 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ace-eco.org/",
+    "abstract": "An important metric for many aspects of species conservation planning and risk assessment is an estimate of total population size. For landbirds breeding in North America, Partners in Flight (PIF) generates global, continental, and regional population size estimates. These estimates are an important component of the PIF species assessment process, but have also been used by others for a range of applications. The PIF population size estimates are primarily calculated using a formula designed to extrapolate bird counts recorded by the North American Breeding Bird Survey (BBS) to regional population estimates. The extrapolation formula includes multiple assumptions and sources of uncertainty, but there were previously no attempts to quantify this uncertainty in the published population size estimates aside from a categorical data quality score. Using a Monte Carlo approach, we propagated the main sources of uncertainty arising from individual components of the model through to the final estimation of landbird population sizes. This approach results in distributions of population size estimates rather than point estimates. We found the width of uncertainty of population size estimates to be generally narrower than the order-of-magnitude distances between the population size score categories PIF uses in the species assessment process, suggesting confidence in the categorical ranking used by PIF. Our approach provides a means to identify species whose uncertainty bounds span more than one categorical rank, which was not previously possible with the data quality scores. Although there is still room for additional improvements to the estimation of avian population sizes and uncertainty, particularly with respect to replacing categorical model components with empirical estimates, our estimates of population size distributions have broader utility to a range of conservation planning and risk assessment activities relying on avian population size estimates.",
+    "readLink": "http://www.ace-eco.org/vol14/iss1/art4/"
+  },
+  {
+    "title": "Future thermal regimes for epaulette sharks (Hemiscyllium ocellatum): growth and metabolic performance cease to be optimal",
+    "authors": [
+      "Carolyn R. Wheeler,",
+      "Jodie L. Rummer,",
+      "Barbara Bailey,",
+      "Jamie Lockwood,",
+      "Shelby Vance,",
+      "John W. Mandelman"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-020-79953-0",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Climate change is affecting thermal regimes globally, and organisms relying on their environment to regulate biological processes face unknown consequences. In ectotherms, temperature affects development rates, body condition, and performance. Embryonic stages may be the most vulnerable life history stages, especially for oviparous species already living at the warm edge of their distribution, as embryos cannot relocate during this developmental window. We reared 27 epaulette shark (Hemiscyllium ocellatum) embryos under average summer conditions (27 °C) or temperatures predicted for the middle and end of the twenty-first century with climate change (i.e., 29 and 31 °C) and tracked growth, development, and metabolic costs both in ovo and upon hatch. Rearing sharks at 31 °C impacted embryonic growth, yolk consumption, and metabolic rates. Upon hatch, 31 °C-reared sharks weighed significantly less than their 27 °C-reared counterparts and exhibited reduced metabolic performance. Many important growth and development traits in this species may peak after 27 °C and start to become negatively impacted nearing 31 °C. We hypothesize that 31 °C approximates the pejus temperature (i.e., temperatures at which performance of a trait begin to decline) for this species, which is alarming, given that this temperature range is well within ocean warming scenarios predicted for this species’ distribution over the next century.",
+    "readLink": "https://doi.org/10.1038/s41598-020-79953-0"
+  },
+  {
+    "title": "Radon Hazard In Permafrost Conditions: Current State Of Research",
+    "authors": [
+      "Andrey V. Puchkov,",
+      "Evgeny Yu. Yakovlev,",
+      "Nicholas Hasson,",
+      "Guilherme A. N. Sobrinho,",
+      "Yuliana V. Tsykareva,",
+      "Alexey S. Tyshov,",
+      "Pavel I. Lapikov,",
+      "Ekaterina V. Ushakova"
+    ],
+    "doi": "https://doi.org/10.24057/2071-9388-2021-037",
+    "journalVolume": "Vol. 14,\n                                no. 4\n                                \n                                  pp.\n                                  93\n                                  – 104",
+    "issn": "2071-9388 (Print)",
+    "publisher": "2542-1565 (Online)",
+    "countryOfPublisher": "Lomonosov Moscow State University",
+    "lcc": [
+      "Russian Federation",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://ges.rgo.ru",
+    "abstract": "In this paper, we review both practical and theoretical assessments for evaluating radon geohazards from permafrost landforms in northern environments (>60º N). Here, we show that polar amplification (i.e. climate change) leads to the development of thawing permafrost, ground subsidence, and thawed conduits (i.e. Taliks), which allow radon migration from the subsurface to near surface environment. Based on these survey results, we conjecture that abruptly thawing permafrost soils will allow radon migration to the near surface, and likely impacting human settlements located here. We analyze potential geohazards associated with elevated ground concentrations of natural radionuclides. From these results, we apply the main existing legislation governing the control of radon parameters in the design, construction and use of buildings, as well as existing technologies for assessing the radon hazard. We found that at present, these laws do not consider our findings, namely, that increasing supply of radon to the surface during thawing of permafrost will enhance radon exposure, thereby, changing prior assumptions from which the initial legislation was determined. Hence, the legislation will likely need to respond and reconsider risk assessments of public health in relation to radon exposure. We discuss the prospects for developing radon geohazard monitoring, methodical approaches, and share recommendations based on the current state of research in permafrost effected environments.",
+    "readLink": "https://ges.rgo.ru/jour/article/view/1890"
+  },
+  {
+    "title": "Ecosystem Services Evaluation of Nature-Based Solutions with the Help of Citizen Scientists",
+    "authors": [
+      "Francesco Di Grazia,",
+      "Bruna Gumiero,",
+      "Luisa Galgani,",
+      "Elena Troiani,",
+      "Michele Ferri,",
+      "Steven A. Loiselle"
+    ],
+    "doi": "https://doi.org/10.3390/su131910629",
+    "journalVolume": "Vol. 13,\n                                no. 10629\n                                \n                                  p.\n                                  10629",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Ecosystem services are increasingly being considered in decision-making with respect to mitigating future climate impacts. In this respect, there is a clear need to identify how nature-based solutions (NBS) can benefit specific ecosystem services, in particular within the complex spatial and temporal dynamics that characterize most river catchments. To capture these changes, ecosystem models require spatially explicit data that are often difficult to obtain for model development and validation. Citizen science allows for the participation of trained citizen volunteers in research or regulatory activities, resulting in increased data collection and increased participation of the general public in resource management. Despite the increasing experience in citizen science, these approaches have seldom been used in the modeling of provisioning ecosystem services. In the present study, we examined the temporal and spatial drivers in nutrient delivery in a major Italian river catchment and under different NBS scenarios. Information on climate, land use, soil and river conditions, as well as future climate scenarios, were used to explore future (2050) benefits of NBS on local and catchment scale nutrient loads and nutrient export. We estimate the benefits of a reduction in nitrogen and phosphorus export to the river and the receiving waters (Adriatic Sea) with respect to the costs associated with individual and combined NBS approaches related to river restoration and catchment reforestation.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/19/10629"
+  },
+  {
+    "title": "Tropospheric and Surface Nitrogen Dioxide Changes in the Greater Toronto Area during the First Two Years of the COVID-19 Pandemic",
+    "authors": [
+      "Xiaoyi Zhao,",
+      "Vitali Fioletov,",
+      "Ramina Alwarda,",
+      "Yushan Su,",
+      "Debora Griffin,",
+      "Dan Weaver,",
+      "Kimberly Strong,",
+      "Alexander Cede,",
+      "Thomas Hanisco,",
+      "Martin Tiefengraber,",
+      "Chris McLinden,",
+      "Henk Eskes,",
+      "Jonathan Davies,",
+      "Akira Ogyu,",
+      "Reno Sit,",
+      "Ihab Abboud,",
+      "Sum Chi Lee"
+    ],
+    "doi": "https://doi.org/10.3390/rs14071625",
+    "journalVolume": "Vol. 14,\n                                no. 1625\n                                \n                                  p.\n                                  1625",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "We present tropospheric nitrogen dioxide (NO2) changes observed by the Canadian Pandora measurement program in the Greater Toronto Area (GTA), Canada, and compare the results with surface NO2 concentrations measured via in situ instruments to assess the local emission changes during the first two years of the COVID-19 pandemic. In the City of Toronto, the first lockdown period started on 15 March 2020, and continued until 24 June 2020. ECMWF Reanalysis v5 (ERA-5) wind information was used to facilitate the data analysis and reveal detailed local emission changes from different areas of the City of Toronto. Evaluating seven years of Pandora observations, a clear NO2 reduction was found, especially from the more polluted downtown Toronto and airport areas (e.g., declined by 35% to 40% in 2020 compared to the 5-year mean value from these areas) during the first two years of the pandemic. Compared to the sharp decline in NO2 emissions in 2020, the atmospheric NO2 levels in 2021 started to recover, but are still below the mean values in pre-pandemic time. For some sites, the pre-pandemic NO2 local morning rush hour peak has still not returned in 2021, indicating a change in local traffic and commuter patterns. The long-term (12 years) surface air quality record shows a statistically significant decline in NO2 with and without April to September 2020 observations (trend of −4.1%/yr and −3.9%/yr, respectively). Even considering this long-term negative trend in NO2, the observed NO2 reduction (from both Pandora and in situ) in the early stage of the pandemic is still statistically significant. By implementing the new wind-based validation method, the high-resolution satellite instrument (TROPOMI) can also capture the local NO2 emission pattern changes to a good level of agreement with the ground-based observations. The bias between ground-based and satellite observations during the pandemic was found to have a positive shift (5–12%) than the bias during the pre-pandemic period.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/7/1625"
+  }
+]

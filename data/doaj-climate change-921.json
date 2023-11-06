@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Impact of geology and climate change on wetlands: Case of Lake Aguelmam Azegza (Middle Atlas, Morocco)",
+    "authors": [
+      "Boutsougame Abdelaziz,",
+      "Elyoussfi Lahcen,",
+      "Aassine Hlima,",
+      "Khuili Soufiane,",
+      "Cherkaoui Sidi Imad,",
+      "Ouazzani Hassane,",
+      "Alaoui Mustapha"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202233701007",
+    "journalVolume": "Vol. 337\n                                \n                                \n                                  p.\n                                  01007",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The AguelmamAzegza lake is located in the Middle Atlas mountain range, this region consists of carbonate rocks of Lias. It is the best-watered and richest region in Morocco in terms of wetlands, especially natural lakes, rivers and fresh springs. The lake’s water supply is ensured by the inflows of water in the form of underwater sources fed by precipitation (rain and snow) following tectonics and the genesis of karstic formations by the dissolution of carbonate rocks. The declining trend in lake levels in recent years results from the decrease in precipitation which decreases during these years.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/04/e3sconf_i2cnp2022_01007.pdf"
+  },
+  {
+    "title": "Assessing uncertainties in landslide susceptibility predictions in a changing environment (Styrian Basin, Austria)",
+    "authors": [
+      "R. Knevels,",
+      "H. Petschko,",
+      "H. Proske,",
+      "P. Leopold,",
+      "A. N. Mishra,",
+      "D. Maraun,",
+      "A. Brenning"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-23-205-2023",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  pp.\n                                  205\n                                  – 229",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "The assessment of uncertainties in landslide susceptibility modelling in a changing environment is an important, yet often neglected, task. In an Austrian case study, we investigated the uncertainty cascade in storylines of landslide susceptibility emerging from climate change and parametric landslide model uncertainty. In June 2009, extreme events of heavy thunderstorms occurred in the Styrian Basin, triggering thousands of landslides. Using a storyline approach, we discovered a generally lower landslide susceptibility for the pre-industrial climate, while for the future climate (2071–2100) a potential increase of 35 % in highly susceptible areas (storyline of much heavier rain) may be compensated for by much drier soils (−45 % areas highly susceptible to landsliding). However, the estimated uncertainties in predictions were generally high. While uncertainties related to within-event internal climate model variability were substantially lower than parametric uncertainties in the landslide susceptibility model (ratio of around 0.25), parametric uncertainties were of the same order as the climate scenario uncertainty for the higher warming levels (+3 and +4 K). We suggest that in future uncertainty assessments, an improved availability of event-based landslide inventories and high-resolution soil and precipitation data will help to reduce parametric uncertainties in landslide susceptibility models used to assess the impacts of climate change on landslide hazard and risk.",
+    "readLink": "https://nhess.copernicus.org/articles/23/205/2023/nhess-23-205-2023.pdf"
+  },
+  {
+    "title": "Mapping Plant Functional Types over Broad Mountainous Regions: A Hierarchical Soft Time-Space Classification Applied to the Tibetan Plateau",
+    "authors": [
+      "Danlu Cai,",
+      "Yanning Guan,",
+      "Shan Guo,",
+      "Chunyan Zhang,",
+      "Klaus Fraedrich"
+    ],
+    "doi": "https://doi.org/10.3390/rs6043511",
+    "journalVolume": "Vol. 6,\n                                no. 4\n                                \n                                  pp.\n                                  3511\n                                  – 3532",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Research on global climate change requires plant functional type (PFT) products. Although several PFT mapping procedures for remote sensing imagery are being used, none of them appears to be specifically designed to map and evaluate PFTs over broad mountainous areas which are highly relevant regions to identify and analyze the response of natural ecosystems. We present a methodology for generating soft classifications of PFTs from remotely sensed time series that are based on a hierarchical strategy by integrating time varying integrated NDVI and phenological information with topography: (i) Temporal variability: a Fourier transform of a vegetation index (MODIS NDVI, 2006 to 2010). (ii) Spatial partitioning: a primary image segmentation based on a small number of thresholds applied to the Fourier amplitude. (iii) Classification by a supervised soft classification step is based on a normalized distance metric constructed from a subset of Fourier coefficients and complimentary altitude data from a digital elevation model. Applicability and effectiveness is tested for the eastern Tibetan Plateau. A classification nomenclature is determined from temporally stable pixels in the MCD12Q1 time series. Overall accuracy statistics of the resulting classification reveal a gain of about 7% from 64.4% compared to 57.7% by the MODIS PFT products.",
+    "readLink": "http://www.mdpi.com/2072-4292/6/4/3511"
+  },
+  {
+    "title": "Amplification of warming on the Tibetan Plateau",
+    "authors": [
+      "Cen Zhang,",
+      "Da-He Qin,",
+      "Pan-Mao Zhai"
+    ],
+    "doi": "Vol. 14,\n                                no. 4\n                                \n                                  pp.\n                                  493\n                                  – 501",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "The accelerated warming over the Tibetan Plateau relative to global means has attracted considerable attention from the scientific community. Nevertheless, the timescale, seasonality and dominant causes of the Tibetan warming amplification have not been discussed. The seasonality of the Tibetan amplification effect at different timescales was revealed in this study. Based on the optimal fingerprinting attribution method, an attribution study of the Tibetan warming amplification was also conducted after selecting the outperforming model simulations in the Coupled Model Intercomparison Project (CMIP6). Results showed that Tibetan warming amplification manifested in the mid-1970s. The annual amplification during 1961–2018 was 0.13 °C per decade. The warming amplification in spring started later than all the other seasons, and the strongest warming amplification occurred in winter. The change in Tibetan warming amplification also displayed distinct decadal differences at time scales shorter than 30 years. The updated models perform better in simulating the surface air temperature change on the global land scale whilst underestimating the warming over the Tibetan Plateau region, which causes a weak amplification in the model simulation. Overall, the largest deviation comes from winter. The attribution result reveals that the stronger warming response to human influence on the Tibetan Plateau than the global land is the direct cause of the Tibetan warming amplification. This finding implies the important role of local climate feedback over the Tibetan Plateau.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927823000862"
+  },
+  {
+    "title": "Parenti, C. (2012). Tropic of Chaos. Climate change and the new geography of violence",
+    "authors": [
+      "David Saurí i Pujol"
+    ],
+    "doi": "https://doi.org/10.5565/rev/dag.114",
+    "journalVolume": "Vol. 60,\n                                no. 1\n                                \n                                  pp.\n                                  202\n                                  – 206",
+    "issn": "0212-1573 (Print)",
+    "publisher": "2014-4512 (Online)",
+    "countryOfPublisher": "Universitat Autònoma de Barcelona",
+    "lcc": [
+      "Spain",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://dag.revista.uab.es/",
+    "abstract": "PARENTI, C. (2012)Tropic of Chaos. Climate change and the new geography of violenceNew York: Nation Book, X+ 295 p.ISBN 978-1-568858-729-5 (paperback)",
+    "readLink": "https://dag.revista.uab.es/article/view/114"
+  },
+  {
+    "title": "Breeding success of a marine central place forager in the context of climate change: A modeling approach.",
+    "authors": [
+      "Lauriane Massardier-Galatà,",
+      "Jennifer Morinay,",
+      "Frédéric Bailleul,",
+      "Eric Wajnberg,",
+      "Christophe Guinet,",
+      "Patrick Coquillard"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0173797",
+    "journalVolume": "Vol. 12,\n                                no. 3\n                                \n                                  p.\n                                  e0173797",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "In response to climate warming, a southward shift in productive frontal systems serving as the main foraging sites for many top predator species is likely to occur in Subantarctic areas. Central place foragers, such as seabirds and pinnipeds, are thus likely to cope with an increase in the distance between foraging locations and their land-based breeding colonies. Understanding how central place foragers should modify their foraging behavior in response to changes in prey accessibility appears crucial. A spatially explicit individual-based simulation model (Marine Central Place Forager Simulator (MarCPFS)), including bio-energetic components, was built to evaluate effects of possible changes in prey resources accessibility on individual performances and breeding success. The study was calibrated on a particular example: the Antarctic fur seal (Arctocephalus gazella), which alternates between oceanic areas in which females feed and the land-based colony in which they suckle their young over a 120 days rearing period. Our model shows the importance of the distance covered to feed and prey aggregation which appeared to be key factors to which animals are highly sensitive. Memorization and learning abilities also appear to be essential breeding success traits. Females were found to be most successful for intermediate levels of prey aggregation and short distance to the resource, resulting in optimal female body length. Increased distance to resources due to climate warming should hinder pups' growth and survival while female body length should increase.",
+    "readLink": "http://europepmc.org/articles/PMC5371308?pdf=render"
+  },
+  {
+    "title": "The Use of Semigeostrophic Theory to Diagnose the Behaviour of an Atmospheric GCM",
+    "authors": [
+      "Mike Cullen"
+    ],
+    "doi": "https://doi.org/10.3390/fluids3040072",
+    "journalVolume": "Vol. 3,\n                                no. 4\n                                \n                                  p.\n                                  72",
+    "issn": "2311-5521 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Heat: Thermodynamics",
+      "Science: Physics: Descriptive and experimental mechanics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/fluids",
+    "abstract": "A diagnostic method is presented for analysing the large-scale behaviour of the Met Office Unified Model, which is a comprehensive atmospheric model used for weather and climate prediction. Outside the boundary layer, on scales larger than the radius of deformation, semi-geostrophic theory will give an accurate approximation to the model evolution. In particular, the ageostrophic circulation required to maintain geostrophic and hydrostatic balance against prescribed forcing and a rate of change of the geostrophic pressure can be calculated. In the tropics, the balance condition degenerates to the weak temperature gradient approximation. Within the boundary layer, the semi-geotriptic approximation has to be used because friction and rotation are equally important. Assuming the calculated pressure tendency and ageotriptic circulation match the observed model behaviour, the influence of the large-scale state and the nature of the forcing on the model response can be deduced in a straightforward way. The capabilities of the diagnostic are illustrated by comparing predictions of the ageotriptic circulation from the theory and the model. It is then used to show that the effects of latent heat release can be included by modifying the static stability, and to show the effect of an idealised tropical heat source on the subtropical jet. Finally, the response of the ageotriptic flow to boundary layer heating in the tropics is demonstrated. These illustrations show that the model behaviour on large scales conforms with theoretical expectations, so that the results of the diagnostic can be used to aid the development of further improvements to the model, in particular investigating systematic errors and understanding the large-scale atmospheric response to forcing.",
+    "readLink": "http://www.mdpi.com/2311-5521/3/4/72"
+  },
+  {
+    "title": "Towards seasonal Arctic shipping route predictions",
+    "authors": [
+      "N Melia,",
+      "K Haines,",
+      "E Hawkins,",
+      "J J Day"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aa7a60",
+    "journalVolume": "Vol. 12,\n                                no. 8\n                                \n                                  p.\n                                  084005",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The continuing decline in Arctic sea-ice will likely lead to increased human activity and opportunities for shipping in the region, suggesting that seasonal predictions of route openings will become ever more important. Here we present results from a set of ‘perfect model’ experiments to assess the predictability characteristics of the opening of Arctic sea routes. We find skilful predictions of the upcoming summer shipping season can be made from as early as January, although typically forecasts show lower skill before a May ‘predictability barrier’. We demonstrate that in forecasts started from January, predictions of route opening date are twice as uncertain as predicting the closing date and that the Arctic shipping season is becoming longer due to climate change, with later closing dates mostly responsible. We find that predictive skill is state dependent with predictions for high or low ice years exhibiting greater skill than medium ice years. Forecasting the fastest open water route through the Arctic is accurate to within 200 km when predicted from July, a six-fold increase in accuracy compared to forecasts initialised from the previous November, which are typically no better than climatology. Finally we find that initialisation of accurate summer sea-ice thickness information is crucial to obtain skilful forecasts, further motivating investment into sea-ice thickness observations, climate models, and assimilation systems.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aa7a60"
+  },
+  {
+    "title": "Climate Change Effects on Fish Passability across a Rock Weir in a Mediterranean River",
+    "authors": [
+      "Daniel Mameri,",
+      "Rui Rivaes,",
+      "Maria Teresa Ferreira,",
+      "Stefan Schmutz,",
+      "José Maria Santos"
+    ],
+    "doi": "https://doi.org/10.3390/w13192758",
+    "journalVolume": "Vol. 13,\n                                no. 2758\n                                \n                                  p.\n                                  2758",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Climate change represents a major challenge for the management of native fish communities in Mediterranean rivers, as reductions in discharge may lead to a decrease in passability through small barriers such as weirs, both in temporary and perennial rivers. Through hydraulic modelling, we investigated how discharges from a large hydropower plant in the Tagus River are expected to affect the passability of native freshwater fish species through a rock weir (Pego, Portugal), equipped with a nature-like fish ramp. We considered not only mean daily discharge values retrieved from nearby gauging stations (1991–2005) for our flow datasets, but also predicted discharge values based on climatic projections (RCP) until the end of the century (2071–2100) for the Tagus River. Results showed that a minimum flow of 3 m3 s−1 may be required to ensure the passability of all species through the ramp and that passability was significantly lower in the RCP scenarios than in the historical scenario. This study suggests that climate change may reduce the passability of native fish species in weirs, meaning that the construction of small barriers in rivers should consider the decreases in discharge predicted from global change scenarios for the suitable management of fish populations.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/19/2758"
+  },
+  {
+    "title": "Climate policy for a net-zero future: ten recommendations for Direct Air Capture",
+    "authors": [
+      "Benjamin K Sovacool,",
+      "Chad M Baum,",
+      "Sean Low,",
+      "Cameron Roberts,",
+      "Jan Steinhauser"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac77a4",
+    "journalVolume": "Vol. 17,\n                                no. 7\n                                \n                                  p.\n                                  074014",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Direct Air Capture with Carbon Storage (DACCS) technologies represent one of the most significant potential tools for tackling climate change by making net-zero and net-negative emissions achievable, as deemed necessary in reports from the Intergovernmental Panel on Climate Change and the European Green Deal. We draw from a novel and original dataset of expert interviews ( N = 125) to distil ten recommendations for future DACCS policy. After providing a literature review on DACCS and explaining our methods of data collection, we present these recommendations as follows: (a) follow governance principles that ensure ‘negative’ emissions; (b) prioritize long-term carbon storage; (c) appreciate and incentivize scale; (d) co-develop with capture, transport, and storage; (e) phase in a carbon price; (f) couple with renewables; (g) harness hub deployment; (h) maintain separate targets; (i) embrace certification and compliance; and (j) recognize social acceptance. All ten recommendations are important, and all speak to the urgency and necessity of better managing and shaping the potentially impending DACCS transition.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac77a4"
+  }
+]

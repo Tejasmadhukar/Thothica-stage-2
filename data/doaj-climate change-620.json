@@ -1,0 +1,243 @@
+[
+  {
+    "title": "Freeze-Thaw Deformation Cycles and Temporal-Spatial Distribution of Permafrost along the Qinghai-Tibet Railway Using Multitrack InSAR Processing",
+    "authors": [
+      "Jing Wang,",
+      "Chao Wang,",
+      "Hong Zhang,",
+      "Yixian Tang,",
+      "Wei Duan,",
+      "Longkai Dong"
+    ],
+    "doi": "https://doi.org/10.3390/rs13234744",
+    "journalVolume": "Vol. 13,\n                                no. 4744\n                                \n                                  p.\n                                  4744",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The Qinghai-Tibet Railway (QTR) is the railway with the highest elevation and longest distance in the world, spanning more than 1142 km from Golmud to Lhasa across the continuous permafrost region. Due to climate change and anthropogenic activities, geological disasters such as subsidence and thermal melt collapse have occurred in the QTR embankment. To conduct the large-scale permafrost monitoring and geohazard investigation along the QTR, we collected 585 Sentinel-1A images based on the composite index model using the multitrack time-series interferometry synthetic aperture radar (MTS-InSAR) method to retrieve the surface deformation over a 3.15 × 105 km2 area along the QTR. Meanwhile, a new method for permafrost distribution mapping based on InSAR time series deformation was proposed. Finally, the seasonal deformation map and a new map of permafrost distribution along the QTR from Golmud to Lhasa were obtained. The results showed that the estimated seasonal deformation range of the 10 km buffer zone along the QTR was −50–10 mm, and the LOS deformation rate ranged from −30 to 15 mm/yr. In addition, the deformation results were validated by leveling measurements, and the range of absolute error was between 0.1 and 4.62 mm. Most of the QTR was relatively stable. Some geohazard-prone sections were detected and analyzed along the QTR. The permafrost distribution results were mostly consistent with the simulated results of Zou’s method, based on the temperature at the top of permafrost (TTOP) model. This study reveals recent deformation characteristics of the QTR, and has significant scientific implications and applicational value for ensuring the safe operation of the QTR. Moreover, our method, based on InSAR results, provides new insights for permafrost classification on the Qinghai-Tibet Plateau (QTP).",
+    "readLink": "https://www.mdpi.com/2072-4292/13/23/4744"
+  },
+  {
+    "title": "PERAN CAGAR BIOSFER CIBODAS DALAM PENYERAPAN CO 2",
+    "authors": [
+      "Retno Larasati,",
+      "Tania June,",
+      "Sonya Dewi"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2012.9.2.66-76",
+    "journalVolume": "Vol. 9,\n                                no. 2\n                                \n                                  pp.\n                                  66\n                                  – 76",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "Cagar biosfer merupakan kawasan konservasi yang keberadaanya diakui secara internasional sebagai suatu kawasan yang mempromosikan keseimbangan hubungan antara manusia dan lingkungan. Cagar biosfer memiliki 3 zona yakni zona inti sebagai kawasan konservasi, zona penyangga sebagai kawasan pelindung zona inti, serta zona transisi yang diperuntukan bagi kawasan pembangunan berkelanjutan. Cagar Biosfer Cibodas merupakan salah satu dari tujuh cagar biosfer yang ada di Indonesia dengan ekosistem terbesar hutan hujan pegunungan. Salah satu jasa lingkungan yang diberikan oleh Cagar Biosfer Cibodas adalah kemampuannya dalam penyerapan CO2 . Penelitian ini bertujuan untuk menduga nilai penyerapan CO2 di Cagar Biosfer Cibodas menggunakan nilai fluks karbon yang ditunjukkan oleh nilai (NPP). Hasil dari penelitian ini memberikan nilai fluks karbon tertinggi pada zona inti, zona penyangga dan zona transisi terjadi pada tahun 2006 yaitu berturut-turut sebesar 1.689,2 gC/m /tahun, 1.543,4 gC/m /tahun dan 1.197,3 gC/m /tahun. Potensi total penyerapan CO2 pada zona inti tertinggi terjadi pada tahun 1991 sebesar 1.473.572,4 ton/tahun, pada zona penyangga terjadi pada tahun 2006 sebesar 705.096,4 ton/tahun, dan pada zona transisi terjadi pada tahun 1991 sebesar 1.036.069,6 ton/tahun.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/204"
+  },
+  {
+    "title": "Open-Surface Water Bodies Dynamics Analysis in the Tarim River Basin (North-Western China), Based on Google Earth Engine Cloud Platform",
+    "authors": [
+      "Jiahao Chen,",
+      "Tingting Kang,",
+      "Shuai Yang,",
+      "Jingyi Bu,",
+      "Kexin Cao,",
+      "Yanchun Gao"
+    ],
+    "doi": "https://doi.org/10.3390/w12102822",
+    "journalVolume": "Vol. 12,\n                                no. 2822\n                                \n                                  p.\n                                  2822",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Tarim River Basin (TRB), located in an arid region, is facing the challenge of increasing water pressure and uncertain impacts of climate change. Many water body identification methods have achieved good results in different application scenarios, but only a few for arid areas. An arid region water detection rule (ARWDR) was proposed by combining vegetation index and water index. Taking computing advantages of the Google Earth Engine (GEE) cloud platform, 56,284 Landsat 5/7/8 optical images in the TRB were used to detect open-surface water bodies and generated a 30-m annual water frequency map from 1992 to 2019. The interannual changes and trends of the water body area were analyzed and the impacts of climatic and anthropogenic drivers on open-surface water body area dynamics were examined. The results show that: (1) ARWDR is suitable for long-term and large-scale water body identification, especially suitable for arid areas lacking vegetation. (2) The permanent water area was 2093.63 km2 and the seasonal water area was 44,242.80 km2, accounting for 4.52% and 95.48% of the total open-surface water area of he TRB, respectively. (3) From 1992 to 2019, the permanent and seasonal water bodies of the TRB all showed an increasing trend, with obvious spatial heterogeneity. (4) Among the effects of human activities and climate change, precipitation has the largest impact on the water area, which can explain 65.3% of the change of water body area. Our findings provide valuable information for the entire TRB’s open-surface water resources planning and management.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/10/2822"
+  },
+  {
+    "title": "Long‐Term Soil Water Trends across a 1000‐m Elevation Gradient",
+    "authors": [
+      "Mark Seyfried,",
+      "David Chandler,",
+      "Danny Marks"
+    ],
+    "doi": "https://doi.org/10.2136/vzj2011.0014",
+    "journalVolume": "Vol. 10,\n                                no. 4\n                                \n                                  pp.\n                                  1276\n                                  – 1286",
+    "issn": "1539-1663 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://acsess.onlinelibrary.wiley.com/journal/15391663",
+    "abstract": "There is a general consensus among climate models that the direct influence of increasing temperature on evaporative demand will result in drier soils, reduced water supply, and more frequent drought conditions. The data available to evaluate long‐term soil water trends that may result from climate change are sparse. We examine soil water data collected over a 32‐yr period at four sites covering a 1000‐m elevation gradient in a semiarid watershed. Meteorological data from these sites have previously confirmed a significant, increasing temperature trend with no significant precipitation trend during the period of record. There are, however, well‐documented climatic trends with elevation that may influence vegetative response to a warming climate. We evaluated the soil water data to: (i) determine any significant temporal trends and (ii) compare soil water among sites to evaluate spatial trends. No significant temporal trends were observed at any of the sites. There were, however, strong spatial trends with elevation and season. Two linked explanations for the lack of temporal trends emerge from the data. First, these semiarid systems are relatively insensitive to the effects of temperature increase because transpiration is limited by low leaf area, soil water content, and solar radiation for all but 4 to 5 wk per year. Second, the large degree of interannual variability of soil water during those critical weeks tends to obscure any subtle temporal trends in soil water dynamics that may be present.",
+    "readLink": "https://doi.org/10.2136/vzj2011.0014"
+  },
+  {
+    "title": "Seroprevalence of Crimean-Congo hemorrhagic fever in humans in the World Health Organization European region: A systematic review.",
+    "authors": [
+      "Lía Monsalve-Arteaga,",
+      "Montserrat Alonso-Sardón,",
+      "Juan Luis Muñoz Bellido,",
+      "María Belén Vicente Santiago,",
+      "María Carmen Vieira Lista,",
+      "Julio López Abán,",
+      "Antonio Muro,",
+      "Moncef Belhassen-García"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pntd.0008094",
+    "journalVolume": "Vol. 14,\n                                no. 3\n                                \n                                  p.\n                                  e0008094",
+    "issn": "1935-2727 (Print)",
+    "publisher": "1935-2735 (Online)",
+    "countryOfPublisher": "Public Library of Science (PLoS)",
+    "lcc": [
+      "United States",
+      "Medicine: Internal medicine: Special situations and conditions: Arctic medicine. Tropical medicine",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://journals.plos.org/plosntds/",
+    "abstract": "BACKGROUND:Crimean-Congo hemorrhagic fever (CCHF) is an emerging infectious disease caused by a Nairovirus. CCHF is a tick-borne disease that is predominantly associated with Hyalomma ticks and have a widespread distribution in Africa, Asia and Europe. CCHF usually presents as a subclinical disease, but in some cases, it may present as a hemorrhagic fever with a high mortality rate. This systematic review of the literature was performed to identify the available evidence on the prevalence of CCHF in the European Region of the World Health Organization, based on seroprevalence (IgG antibodies). METHODOLOGY:A systematic review was performed following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement protocol. PubMed, Embase, and the Web of Science were used for the search (up to January 31, 2019), combining the following MeSH terms: [\"Crimean-Congo haemorrhagic fever\" OR \"Crimean-Congo hemorrhagic fever virus\" OR \"Congo-Crimea\" OR \"Crimea-Congo\"] AND [\"Europe\"] AND [\"epidemiology\" OR \"seroprevalence\"]. The abstracts were screened. Subsequently, full-text articles were selected and reviewed based on the PICOS (Population-Intervention-Comparison-Outcomes-Study type) criteria by two independent reviewers for inclusion in the final analysis. The data were qualitatively synthesized without quantitative pooling due to the heterogeneity in the study populations and methodologies. PRINCIPAL FINDINGS:Thirty articles (9 from western Europe, 18 from central Europe and 3 from eastern Europe) were included in the analysis. All articles were cross-sectional studies (descriptive studies). CONCLUSIONS:The highest seroprevalence of CCHF is found in central and eastern European countries. Southern and western Europe countries, such as Greece and Spain, have low levels of endemicity, but the spread of the infection, which is associated with climate change, is a possibility that we should keep in mind. Further studies, especially larger seroprevalence studies in humans and animals, are needed to establish the current status of the CCHF epidemiology and to generate standardized guidelines for action in the region.",
+    "readLink": "https://doi.org/10.1371/journal.pntd.0008094"
+  },
+  {
+    "title": "An evaluation of CNN and ANN in prediction weather forecasting: A review",
+    "authors": [
+      "Shahab Kareem,",
+      "Zhala Jameel Hamad,",
+      "Shavan Askar"
+    ],
+    "doi": "https://doi.org/10.37868/sei.v3i2.id146",
+    "journalVolume": "Vol. 3,\n                                no. 2\n                                \n                                  pp.\n                                  148\n                                  – 159",
+    "issn": "2712-0562 (Online)",
+    "publisher": "Research and Development Academy",
+    "countryOfPublisher": "Bosnia and Herzegovina",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General): Engineering design",
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Electronics: Computer engineering. Computer hardware"
+    ],
+    "journalUrl": "https://sei.ardascience.com/",
+    "abstract": "Artificial intelligence through deep neural networks is now widely used in a variety of applications that have profoundly altered human livelihoods in a variety of ways. People's daily lives have become much more convenient. Image recognition, smart recommendations, self-driving vehicles, voice translation, and a slew of other neural network innovations have had a lot of success in their respective fields. The authors present the ANN applied in weather forecasting. The prediction technique relies solely upon learning previous input values from intervals in order to forecast future values. And also, Convolutional Neural Networks (CNNs) are a form of deep learning technique that can help classify, recognize, and predict trends in climate change and environmental data. However, due to the inherent difficulties of such results, which are often independently identified, non-stationary, and unstable CNN algorithms should be built and tested with each dataset and system separately. On the other hand, to eradicate error and provides us with data that is virtually identical to the real value we need Artificial Neural Networks (ANN) algorithms or benefit from it. The presented CNN model's forecasting efficiency was compared to some state-of-the-art ANN algorithms. The analysis shows that weather prediction applications become more efficient when using ANN algorithms because it is really easy to put into practice.",
+    "readLink": "https://sei.ardascience.com/index.php/journal/article/view/146"
+  },
+  {
+    "title": "The Adaptable 4A Inversion (5AI): description and first <i>X</i><sub>CO<sub>2</sub></sub> retrievals from Orbiting Carbon Observatory-2 (OCO-2) observations",
+    "authors": [
+      "M. Dogniaux,",
+      "C. Crevoisier,",
+      "R. Armante,",
+      "V. Capelle,",
+      "T. Delahaye,",
+      "V. Cassé,",
+      "M. De Mazière,",
+      "N. M. Deutscher,",
+      "N. M. Deutscher,",
+      "D. G. Feist,",
+      "D. G. Feist,",
+      "D. G. Feist,",
+      "O. E. Garcia,",
+      "D. W. T. Griffith,",
+      "F. Hase,",
+      "L. T. Iraci,",
+      "R. Kivi,",
+      "I. Morino,",
+      "J. Notholt,",
+      "D. F. Pollard,",
+      "C. M. Roehl,",
+      "K. Shiomi,",
+      "K. Strong,",
+      "Y. Té,",
+      "V. A. Velazco,",
+      "T. Warneke"
+    ],
+    "doi": "https://doi.org/10.5194/amt-14-4689-2021",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  4689\n                                  – 4706",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "A better understanding of greenhouse gas surface sources and sinks is required in order to address the global challenge of climate change. Space-borne remote estimations of greenhouse gas atmospheric concentrations can offer the global coverage that is necessary to improve the constraint on their fluxes, thus enabling a better monitoring of anthropogenic emissions. In this work, we introduce the Adaptable 4A Inversion (5AI) inverse scheme that aims to retrieve geophysical parameters from any remote sensing observation. The algorithm is based on the Optimal Estimation algorithm, relying on the Operational version of the Automatized Atmospheric Absorption Atlas (4A/OP) radiative transfer forward model along with the Gestion et Étude des Informations Spectroscopiques Atmosphériques: Management and Study of Atmospheric Spectroscopic Information (GEISA) spectroscopic database. Here, the 5AI scheme is applied to retrieve the column-averaged dry air mole fraction of carbon dioxide (XCO2) from a sample of measurements performed by the Orbiting Carbon Observatory-2 (OCO-2) mission. Those have been selected as a compromise between coverage and the lowest aerosol content possible, so that the impact of scattering particles can be neglected, for computational time purposes. For air masses below 3.0, 5AI XCO2 retrievals successfully capture the latitudinal variations of CO2 and its seasonal cycle and long-term increasing trend. Comparison with ground-based observations from the Total Carbon Column Observing Network (TCCON) yields a bias of 1.30±1.32 ppm (parts per million), which is comparable to the standard deviation of the Atmospheric CO2 Observations from Space (ACOS) official products over the same set of soundings. These nonscattering 5AI results, however, exhibit an average difference of about 3 ppm compared to ACOS results. We show that neglecting scattering particles for computational time purposes can explain most of this difference that can be fully corrected by adding to OCO-2 measurements an average calculated–observed spectral residual correction, which encompasses all the inverse setup and forward differences between 5AI and ACOS. These comparisons show the reliability of 5AI as an optimal estimation implementation that is easily adaptable to any instrument designed to retrieve column-averaged dry air mole fractions of greenhouse gases.",
+    "readLink": "https://amt.copernicus.org/articles/14/4689/2021/amt-14-4689-2021.pdf"
+  },
+  {
+    "title": "A Decision Support Tool for Implementing District Heating in Existing Cities, Focusing on Using a Geothermal Source",
+    "authors": [
+      "Ioannis Acheilas,",
+      "Fransje Hooimeijer,",
+      "Aksel Ersoy"
+    ],
+    "doi": "https://doi.org/10.3390/en13112750",
+    "journalVolume": "Vol. 13,\n                                no. 2750\n                                \n                                  p.\n                                  2750",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "In the context of climate change mitigation strategies in urban environments and reducing reliance on carbon-based energy sources, the Netherlands is gradually taking steps towards modification of its thermal energy system. Geothermal energy, widely used in agriculture, has recently emerged as a local, clean, and sustainable energy source able to fulfil the residential demand for space heating and has received growing attention in district energy planning. However, failed attempts in the past and the lack of experience with direct application of this technology in district heating systems has increased uncertainty with respect to the technical, spatial, and socioeconomic barriers to be overcome between supply and demand. This calls for the application of decision support tools in order to remove these barriers and facilitate more appropriate decision making towards the implementation of smart thermal energy grids in local energy communities. This research explores how the network of actors, those who see opportunities in direct use of geothermal energy in the Netherlands, can work on the transformation of the current centralised carbon-based energy systems towards local sustainable energy communities.",
+    "readLink": "https://www.mdpi.com/1996-1073/13/11/2750"
+  },
+  {
+    "title": "Balancing stability and flexibility in adaptive governance: an analysis of tools available in U.S. environmental law",
+    "authors": [
+      "Robin Kundis. Craig,",
+      "Ahjond S. Garmestani,",
+      "Craig R. Allen,",
+      "Craig Anthony (Tony). Arnold,",
+      "Hannah Birgé,",
+      "Daniel A. DeCaro,",
+      "Alexander K. Fremier,",
+      "Hannah Gosnell,",
+      "Edella Schlager"
+    ],
+    "doi": "https://doi.org/10.5751/ES-08983-220203",
+    "journalVolume": "Vol. 22,\n                                no. 2\n                                \n                                  p.\n                                  3",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Adaptive governance must work \"on the ground,\" that is, it must operate through structures and procedures that the people it governs perceive to be legitimate and fair, as well as incorporating processes and substantive goals that are effective in allowing social-ecological systems (SESs) to adapt to climate change and other impacts. To address the continuing and accelerating alterations that climate change is bringing to SESs, adaptive governance generally will require more flexibility than prior governance institutions have often allowed. However, to function as good governance, adaptive governance must pay real attention to the problem of how to balance this increased need for flexibility with continuing governance stability so that it can foster adaptation to change without being perceived or experienced as perpetually destabilizing, disruptive, and unfair. Flexibility and stability serve different purposes in governance, and a variety of tools exist to strike different balances between them while still preserving the governance institution's legitimacy among the people governed. After reviewing those purposes and the implications of climate change for environmental governance, we examine psychological insights into the structuring of adaptive governance and the variety of legal tools available to incorporate those insights into adaptive governance regimes. Because the substantive goals of governance systems will differ among specific systems, we do not purport to comment on what the normative or substantive goals of law should be. Instead, we conclude that attention to process and procedure (including participation), as well as increased use of substantive standards (instead of rules), may allow an increased level of substantive flexibility to operate with legitimacy and fairness, providing the requisite levels of psychological, social, and economic stability needed for communities to adapt successfully to the Anthropocene.",
+    "readLink": "http://www.ecologyandsociety.org/vol22/iss2/art3/"
+  },
+  {
+    "title": "Meat consumption reduction in Italian regions: Health co-benefits and decreases in GHG emissions.",
+    "authors": [
+      "Sara Farchi,",
+      "Manuela De Sario,",
+      "Enrica Lapucci,",
+      "Marina Davoli,",
+      "Paola Michelozzi"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0182960",
+    "journalVolume": "Vol. 12,\n                                no. 8\n                                \n                                  p.\n                                  e0182960",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Animal agriculture has exponentially grown in recent decades in response to the rise in global demand for meat, even in countries like Italy that traditionally eat a Mediterranean, plant-based diet. Globalization related dietary changes are contributing to the epidemic of non-communicable diseases and to the global climate crisis, and are associated with huge carbon and water footprints. The objective of the study is to assess inequalities in health impacts and in attributable greenhouse gases-GHG emissions in Italy by hypothesizing different scenarios of reduction in red and processed meat consumption towards healthier consumption patterns more compliant with the recommendations of the Mediterranean food pyramid.We used demographic and food consumption patterns from national surveys and risk relationships between meat intake and cardiovascular and colorectal cancer mortality from IARC and other meta-analyses. From the baseline data (year 2005-2006, average 406 gr/week beef and 245 gr/week processed meat), we considered hypothetical meat reduction scenarios according to international dietary guidelines such as the Mediterranean pyramid targets. For each geographical area (Northwest, Northeast, Centre, and South) and gender, we calculated the number of avoidable deaths from colorectal cancer, and cardiovascular disease among the adult population. Moreover, years of life gained by the adult population from 2012 to 2030 and changes in life expectancy of the 2012 birth cohort were quantified using gender-specific life tables. GHG emission reductions under Mediterranean scenario were estimated only for beef by applying the Global Warming Potential (GWP) coefficient to total consumption and to a low carbon food substitution in adult diet.The deaths avoidable (as percentage change compared to baseline) according to the three reduction scenarios for beef consumption were between 2.3% and 4.5% for colorectal cancer, and between 2.1% and 4.0% for cardiovascular disease; higher benefits would be observed in Northwestern areas and among males. In parallel, 5% and 6.4% of colorectal cancer and CVD deaths would be avoided if the Italian population ate the advised quantity of processed meat. Life table analysis suggests that the scenario that is fully compliant with the Mediterranean diet model would save 5 million years of life lost prematurely among men and women over the next 18 years and would increase average life expectancy of future generations by over 7 months. Considering the environmental impact, emissions associated with the actual total intake of beef range from 12,900 to 21,800 Gg CO2 eq; emissions saved according to the Mediterranean scenario are in the range 8000-14000 Gg CO2 eq per year. The per capita reduction is 263 KgCO2eq/year/person with higher reductions in Northwestern and Central areas.In Italy, scenarios for reducing beef consumption are consistent with significant health and environmental co-benefits on current and future generations. Results support introducing policies to promote healthier behavior towards red and processed meat in the adult population within an overall balanced and healthy dietary pattern. Interventions should address gender, vulnerable population groups, and geographical differences in order to be more effective.",
+    "readLink": "http://europepmc.org/articles/PMC5557600?pdf=render"
+  }
+]

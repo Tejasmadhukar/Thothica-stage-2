@@ -1,0 +1,222 @@
+[
+  {
+    "title": "CALIOP-Based Quantification of Central Asian Dust Transport",
+    "authors": [
+      "Ying Han,",
+      "Tianhe Wang,",
+      "Ruiqi Tan,",
+      "Jingyi Tang,",
+      "Chengyun Wang,",
+      "Shanjuan He,",
+      "Yuanzhu Dong,",
+      "Zhongwei Huang,",
+      "Jianrong Bi"
+    ],
+    "doi": "https://doi.org/10.3390/rs14061416",
+    "journalVolume": "Vol. 14,\n                                no. 1416\n                                \n                                  p.\n                                  1416",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Central Asia is one of the most important sources of mineral saline dust worldwide. A comprehensive understanding of Central Asian dust transport is essential for evaluating its impacts on human health, ecological safety, weather and climate. This study first puts forward an observation-based climatology of Central Asian dust transport flux by using the 3-D dust detection of Cloud-Aerosol LiDAR with Orthogonal Polarization (CALIOP). The seasonal difference of transport flux and downstream contribution are evaluated and compared with those of the Modern-Era Retrospective Analysis for Research and Applications, version 2 (MERRA-2). Central Asian dust can be transported not only southward in summer under the effect of the South Asian summer monsoon, but also eastward in other seasons under the control of the westerly jet. Additionally, the transport of Central Asian dust across the Pamir Plateau to the Tibetan Plateau is also non-negligible, especially during spring (with a transport flux rate of 150 kg m−1 day−1). The annual CALIOP-based downstream contribution of Central Asian dust to South Asian (164.01 Tg) is 2.1 times that to East Asia (78.36 Tg). This can be attributed to the blocking effect of the higher terrain between Central and East Asia. Additionally, the downstream contributions to South and East Asia from MERRA-2 are only 0.36 and 0.84 times that of CALIOP, respectively. This difference implies the overestimation of the wet and dry depositions of the model, especially in the low latitude zone. The quantification of the Central Asian dust transport allows a better understanding of the Central Asian dust cycle, and supports the calibration/validation of aerosol-related modules of regional and global climate models.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/6/1416"
+  },
+  {
+    "title": "How Should a Numerical Weather Prediction Be Used: Full Field or Anomaly? A Conceptual Demonstration with a Lorenz Model",
+    "authors": [
+      "Jun Du,",
+      "Guo Deng"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13091487",
+    "journalVolume": "Vol. 13,\n                                no. 1487\n                                \n                                  p.\n                                  1487",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "A forecast from a numerical weather prediction (NWP) model can be decomposed into model climate and anomaly. Each part contributes to forecast error. To avoid errors from model climate, an anomaly, rather than a full field, should be used in a model. Model climate is replaced by the observed climate to reconstruct a new forecast for application. Using a Lorenz model, which has similar error characteristics to an NWP model, the following results were obtained. (a) The new anomaly-based method can significantly and steadily increase forecast accuracy throughout the entire forecast period (28 model days). On average, the total forecast error was reduced ~25%, and the correlation was increased by ~100–200%. The correlation improvement increases with the increasing of forecast length. (b) The method has different impacts on different types of error. Bias error was almost eliminated (over 90% in reduction). However, the change in flow-dependent error was mixed: a slight reduction (~5%) for model day 1–14 forecasts and increase (~15%) for model day 15–28 forecasts on average. The larger anomaly forecast error leads to the worsening of flow-dependent error. (c) Bias error stems mainly from model climate prediction, while flow-dependent error is largely associated with anomaly forecast. The method works more effectively for a forecast that has larger bias and smaller flow-dependent error. (d) A more accurate anomaly forecast needs to be constructed relative to model climate rather than observed climate by taking advantage of cancelling model systematic error (i.e., perfect-model assumption). In principle, this approach can be applicable to any model-based prediction.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/9/1487"
+  },
+  {
+    "title": "Subtropical Low Cloud Response to a Warmer Climate in an Superparameterized Climate Model: Part I. Regime Sorting and Physical Mechanisms",
+    "authors": [
+      "Peter N Blossey,",
+      "Christopher S Bretherton,",
+      "Matthew C Wyant"
+    ],
+    "doi": "https://doi.org/10.3894/JAMES.2009.1.7",
+    "journalVolume": "Vol. 1\n                                \n                                \n                                  pp.\n                                  Art. #7\n                                  – 11 pp.",
+    "issn": "1942-2466 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1942-2466/",
+    "abstract": "The subtropical low cloud response to a climate with SST uniformly warmed by 2 K is analyzed in the SP- CAM superparameterized climate model, in which each grid column is replaced by a two-dimensional cloud-resolving model (CRM). Intriguingly, SP-CAM shows substantial low cloud increases over the subtropical oceans in the warmer climate. The paper aims to understand the mechanism for these increases. The subtropical low cloud increase is analyzed by sorting grid-column months of the climate model into composite cloud regimes using percentile ranges of lower tropospheric stability (LTS). LTS is observed to be well correlated to subtropical low cloud amount and boundary layer vertical structure. The low cloud increase in SP-CAM is attributed to boundary-layer destabilization due to increased clear-sky radiative cooling in the warmer climate. This drives more shallow cumulus convection and a moister boundary layer, inducing cloud increases and further increasing the radiative cooling. The boundary layer depth does not change substantially, due to compensation between increased radiative cooling (which promotes more turbulent mixing and boundary-layer deepening) and slight strengthening of the boundary-layer top inversion (which inhibits turbulent entrainment and promotes a shallower boundary layer). The widespread changes in low clouds do not appear to be driven by changes in mean subsidence.<br />In a companion paper we use column-mode CRM simulations based on LTS-composite profiles to further study the low cloud response mechanisms and to explore the sensitivity of low cloud response to grid resolution in SP-CAM.",
+    "readLink": "http://james.agu.org/index.php/JAMES/article/view/v1n7"
+  },
+  {
+    "title": "Deep learning to assess the effects of land use/land cover and climate change on landslide susceptibility in the Tra Khuc river basin of Vietnam",
+    "authors": [
+      "Quan Vu Viet Du,",
+      "Huu Duy Nguyen,",
+      "Viet Thanh Pham,",
+      "Cao Huan Nguyen,",
+      "Quoc-Huy Nguyen,",
+      "Quang-Thanh Bui,",
+      "Thanh Thuy Doan,",
+      "Anh Tuan Tran,",
+      "Alexandru-Ionut Petrisor"
+    ],
+    "doi": "https://doi.org/10.1080/10106049.2023.2172218",
+    "journalVolume": "Vol. 0,\n                                no. 0",
+    "issn": "1010-6049 (Print)",
+    "publisher": "1752-0762 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Physical geography"
+    ],
+    "journalUrl": "https://www.tandfonline.com/tgei",
+    "abstract": "Understanding the negative effects of climate change and changes to land use/land cover on natural hazards is an important feature of sustainable development worldwide, as these phenomena are inextricably linked with natural hazards such as landslides. The contribution of this study is an attempt to develop a state-of-the-art method to assess the effects of climate change and changes in land use/land cover on landslide susceptibility in the Tra Khuc river basin in Vietnam. The method is based on machine learning and remote sensing algorithms, namely radial basis function neural networks–search and rescue optimization (RBFNN–SARO), radial basis function neural network–queuing search algorithm (RBFNN–QSA), radial basis function neural network–life choice-based optimizer (RBFNN–LCBO), radial basis function neural network–dragonfly optimization (RBFNN–DO). All proposed models performed well, with AUC value of >0.9. The RBFNN–QSA model performed best, with an AUC value of 0.98, followed by RBFNN–SARO (AUC = 0.97), RBFNN–LCBO (AUC = 0.95), RBFNN–DO (AUC = 0.93), and support vector machine (SVM; AUC = 0.92). The results show that both climate and land use/land cover change greatly in the future: Precipitation increases 18% by 2030 and 25.1% by 2050; the total production forest, protected forest and built-up area change considerably between 2010 and 2050. These changes influence landslide susceptibility: The area of high and very high landslide susceptibility decrease by approximately 100 and 300 km2 respectively in the study area from 2010 to 2050. The findings of this study can support decision-makers in formulating appropriate strategies to reduce damage from landslides, such as limiting construction in areas where future landslides are predicted. Although this study applies to a particular region of Vietnam, the findings can be applied in other mountainous regions around the world.",
+    "readLink": "http://dx.doi.org/10.1080/10106049.2023.2172218"
+  },
+  {
+    "title": "Analyzing the Correlation between Deer Habitat and the Component of the Risk for Lyme Disease in Eastern Ontario, Canada: A GIS-Based Approach",
+    "authors": [
+      "Dongmei Chen,",
+      "Haydi Wong,",
+      "Paul Belanger,",
+      "Kieran Moore,",
+      "Mary Peterson,",
+      "John Cunningham"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi4010105",
+    "journalVolume": "Vol. 4,\n                                no. 1\n                                \n                                  pp.\n                                  105\n                                  – 123",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "Lyme borreliosis, caused by the bacterium, Borrelia burgdorferi, is an emerging vector-borne infectious disease in Canada. According to the Public Health Agency of Canada (PHAC), by the year 2020, 80% of Canadians will live in Lyme endemic areas. An understanding of the association of Ixodes scapularis, the main vector of Lyme disease, with it hosts is a fundamental component in assessing changes in the spatial distribution of human risk for Lyme disease. Through the application of Geographic Information System (GIS) mapping methods and spatial analysis techniques, this study examines the population dynamics of the black-legged Lyme tick and its primary host, the white-tailed deer, in eastern Ontario, Canada. By developing a habitat suitability model through a GIS-based multi-criteria decision making (MCDM) analysis, the relationship of the deer habitat suitability map was generated and the results were compared with deer harvest data. Tick submission data collected from two public health units between 2006 and 2012 were used to explore the relationship between endemic ticks and deer habitat suitability in eastern Ontario. The positive correlation demonstrated between the deer habitat suitability model and deer harvest data allows us to further analyze the association between deer habitat and black-legged ticks in our study area. Our results revealed that the high tick submission number corresponds with the high suitability. These results are useful for developing management strategies that aim to prevent Lyme from becoming a threat to public health in Canada. Further studies are required to investigate how tick survival, behaviour and seasonal activity may change with projected climate change.",
+    "readLink": "http://www.mdpi.com/2220-9964/4/1/105"
+  },
+  {
+    "title": "Policy Implications for the Green Bank Development in the Context of Global Climate Change",
+    "authors": [
+      "Nga Phan Thi Hang"
+    ],
+    "doi": "https://doi.org/10.28991/ESJ-2022-06-04-011",
+    "journalVolume": "Vol. 6,\n                                no. 4\n                                \n                                  pp.\n                                  817\n                                  – 833",
+    "issn": "2610-9182 (Online)",
+    "publisher": "Ital Publication",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Technology: Technology (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://ijournalse.org",
+    "abstract": "With the global financial crisis in 2008, climate change, and the COVID-19 pandemic, most countries worldwide have re-thought their organization and operating models in their financial systems, including the banking system. In Vietnam, sustainable economic development has become an essential need in the long term. However, sustainable development requires a balance between economic growth and environmental protection. Therefore, Vietnam has chosen to develop a green economy, in which \"green banks\" have an essential role. Green banking is a future banking model that balances all stakeholders' economic and environmental benefits and costs in banking activities. Green banking emerges as an ideal model for future banking, a foundation for a green economy and sustainable development. Therefore, the article analyzes the current situation and some challenges to promoting the development of green banking in Vietnam and proposes policy recommendations to promote green banking development in Vietnam in the coming time. The article used methods to test the reliability of Cronbach's alpha scale, exploratory factor analysis (EFA), confirmatory factor analysis (CFA), and SEM to test the research hypotheses based on surveying 700 commercial bank managers and collecting data by a convenient sampling method from June 2021 to December 2021. Research novelty explores five factors affecting green bank development with a significance level of 1.0%. Finally, the author had policy implications for developing the green bank in the future. Doi: 10.28991/ESJ-2022-06-04-011 Full Text: PDF",
+    "readLink": "https://www.ijournalse.org/index.php/ESJ/article/view/1072"
+  },
+  {
+    "title": "Drought Stress in Cereals – A Review",
+    "authors": [
+      "Havrlentová Michaela,",
+      "Kraic Ján,",
+      "Gregusová Veronika,",
+      "Kovácsová Bernadett"
+    ],
+    "doi": "https://doi.org/10.2478/agri-2021-0005",
+    "journalVolume": "Vol. 67,\n                                no. 2\n                                \n                                  pp.\n                                  47\n                                  – 60",
+    "issn": "1338-4376 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "https://sciendo.com/journal/AGRI",
+    "abstract": "Drought is one of the most important factors that influences plant morphology, biochemistry, and physiology, and finally leads to the decline in crops productivity and seed quality. Climate change, severe changes in water availability together with thermal stresses environment coincide with increasing human population, and to reveal sustainable solutions it is necessary to understand: i) how cereals react to drought, ii) how the tolerance mechanisms are exhibited by the genotype, and iii) which approaches enable to increase the tolerance of crop species against limited water availability. Especially in cereals as in high-quality food sources, it is important to reveal the adaptation mechanisms to rainfall dynamics on arable land and to the prolonged period of drought. This review summarizes current knowledge on the impact of drought on cereals, the mechanisms these crops utilize to cope water scarcity and survive, and the most efficient approaches to improve their drought tolerance.",
+    "readLink": "https://doi.org/10.2478/agri-2021-0005"
+  },
+  {
+    "title": "Economic performance index assessment of an industrial wastewater treatment plant in terms of the European Green Deal: effect of greenhouse gas emissions",
+    "authors": [
+      "Pelin Yapıcıoğlu,",
+      "Mehmet Irfan Yeşilnacar"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2022.146",
+    "journalVolume": "Vol. 13,\n                                no. 8\n                                \n                                  pp.\n                                  3100\n                                  – 3118",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "This study aims to determine the effect of greenhouse gas (GHG) emissions on economic performance in terms of energy costs for an industrial wastewater treatment plant. Also, the mitigation of GHG emissions aimed at using process modification to obtain possible reductions in energy costs. Optimum energy consumptions were reported for the minimum GHG emission using the Data Envelopment Analysis (DEA) and Monte Carlo simulation model. In this paper, a new empirical approach has been developed depending on the GHG emissions for estimating the economic performance of the wastewater treatment plants. The results revealed that nitrous oxide (N2O) emissions led to the highest energy costs among direct emissions. In the second stage of the study, the effects of design conditions on GHG emissions and energy costs were investigated. If the aeration tank is operated at 24 h of hydraulic retention time (HRT) and 22 days of solid retention time (SRT), then, on average, 27, 27.9, and 30.7% of reduction in energy costs in terms of direct carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) emissions, respectively, is observed in the plant. These reductions corresponded to approximately 17.33 €/kWh of cost-saving in this plant. HIGHLIGHTS A new empirical approach based on GHG emissions has been developed.; Process modification has been applied to mitigate GHG emissions and economic performance assessment was fulfilled in situ GHG emissions under design and operational conditions.; It would be a significant reduction (on average 32.7%) in GHG emissions within the scope of compliance with the EU Green Deal.;",
+    "readLink": "http://jwcc.iwaponline.com/content/13/8/3100"
+  },
+  {
+    "title": "Effects of decentralized forest management (DFM) on deforestation and poverty in low‐ and middle‐income countries: a systematic review",
+    "authors": [
+      "Cyrus Samii,",
+      "Matthew Lisiecki,",
+      "Parashar Kulkarni,",
+      "Laura Paler,",
+      "Larry Chavis"
+    ],
+    "doi": "https://doi.org/10.4073/csr.2014.10",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 88",
+    "issn": "1891-1803 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Social Sciences"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/18911803",
+    "abstract": "Decentralized forest management programs reduce deforestation rates, although the effects may be modest. More research is needed to assess whether such programs reduce the income of poor households. Proponents of decentralized forest management programs suggest that such programs can contribute to both environmental and poverty reduction outcomes. This review showed that little research has been conducted on the poverty reduction benefits of such programs, and no studies have jointly evaluated both conservation and poverty outcomes. Research is also lacking in the countries where decentralised forest management has the most potential, such as Indonesia and Brazil. Abstract We conducted a systematic review of studies on the impact of decentralized forest management (DFM) on deforestation and poverty in developing countries. The review is motivated by debates over whether the pursuits of conservation and poverty reduction in developing countries tend to conflict or whether they might be complementary. A search for rigorous evaluation studies identified eleven quantitative and nine associated qualitative evaluation studies on DFM. The methodological rigor of these studies varied widely, meaning that the evidence base for the impact of DFM policies is limited in both quantity and quality. Given the evidence available, we find little reason for optimism about the potential for current DFM approaches to achieve both conservation and poverty reduction benefits jointly. We call for the production of much better impact studies, employing randomized field experiments when possible, to assess whether the apparent incompatibility of conservation and poverty reduction might be overcome through programming innovations. Executive summary BACKGROUND Natural forest preservation in the tropics, and thus in developing countries, must be an element of any effective effort to manage climate change. Forests serve as natural carbon sinks, which help to mitigate the effect of other carbon emissions. However, forest cover is being reduced and it is estimated that deforestation is responsible for 10–17 per cent of global carbon emissions. Since 2007, governments have coordinated conservation efforts under the Reducing Emissions through Deforestation and Forest Degradation (REDD+) initiative, which has led to the implementation of various programs designed to reduce the amount of forested land converted to other purposes. Decentralized forest management (DFM) is one approach to forest management which has been widely implemented to reduce deforestation in developing countries. DFM programs relocate decision‐making authority on forest use in the direction of forest communities, rather than central government actors. While the primary goal of reducing deforestation is clear, the policy and academic literature debates the extent to which DFM programs in developing countries should incorporate goals of poverty reduction. Some argue that the targeting of poverty goals will undermine conservation effectiveness (e.g. because behavioral change among poorer households does not have as much potential to promote conservation as that of wealthier households or commercial entities). Others argue that targeting benefits toward the poor would contribute to conservation effectiveness by either promoting sustainable livelihoods or helping to legitimize conservation programming. To move the debate around DFM beyond theoretical discussions and into better‐informed, evidence‐based discussion we examine the evidence on the effects of DFM programs on deforestation and welfare outcomes in low and middle income countries (LMICs), aiming also to assess whether these goals are at odds with each other. OBJECTIVES The first objective of this review is to assess the evidence on the effects of DFM programs on the conservation and poverty outcomes in LMICs. A second objective is to assess the extent to which these programs' effects on poverty in turn affect whether conservation benefits are realized. The third objective is to evaluate how institutional and social conditions (namely, inequality, institutional capacity, corruption, and democratic accountability) moderate the effects of DFM programs. SELECTION CRITERIA The review includes studies of DFM programs that assess effects on (i) deforestation outcomes in forest areas in developing countries or (ii) poverty conditions of populations residing in communities that are proximate to natural growth forest areas in developing countries. We included studies using a range of measures for both deforestation (on‐the‐ground point samples, samples created from satellite imagery) and welfare (consumption, income, or income potential). For a program to be considered a DFM program, de jure responsibility for managing natural forest resources must pass from centralized to local authorities. This responsibility must grant local authorities the right to grant concessions or establish use restrictions. We were flexible as to the precise level of administration to which responsibilities are passed as well as whether or not the decentralization also involves granting local authorities the right to sell or transfer titles to forested lands. For the quantitative synthesis we included (a) randomized studies or (b) quasi‐experimental studies that employ strategies for causal identification with clearly delineated treated and control areas and use some method for removing biases due to non‐random assignment of the intervention. Qualitative data is used in the synthesis to provide descriptions and context for interventions that are included in the quantitative synthesis. Such data were extracted from the quantitative studies themselves as well as qualitative studies that cover the same programs or settings as the quantitative studies. SEARCH STRATEGY To identify the articles included in this review, we searched a variety of databases using key words related to DFM programs. The set of databases and lists of keywords were assembled based on consultation with a Campbell Collaboration information retrieval specialist. We also carried out hand searches of key journals in relevant fields, using publisher search engines and references cited in papers accepted for review as well as references in review papers or thematically relevant papers identified during the search. DATA COLLECTION AND ANALYSIS We collected data on the study characteristics, findings, and moderators of all included studies. Risk of bias was assessed based on the guidance of the IDCG Risk of Bias Tool (version March 2012). We extracted qualitative information from both the included quantitative studies as well as qualitative studies that covered the same types of programs and contexts as our quantitative studies. We used such qualitative data to establish that conditions recorded in quantitative data are being interpreted correctly and to provide descriptions and context for interventions that are included in the quantitative synthesis. For effects on forest cover, whenever possible, we standardize them to annual forest cover change rates. For effects on material welfare and poverty outcomes we use percentage change over estimated average counterfactual outcome (e.g., for income effects, per cent change in income relative to the average income of the control group). For each hypothesis, we synthesized estimates using meta‐analysis when the following conditions were met: (i) more than two studies meeting the quantitative inclusion criteria; (ii) effect sizes for common outcome constructs; and (iii) effects measured against similar comparators. RESULTS Our database search returned 1272 articles on DFM programs. After eliminating articles that were not relevant to our hypotheses or conducted with appropriate methodological rigor, we were left with 12 studies of DFM programs. Of these, eight DFM studies were quantitative impact evaluations. The studies cover eight programs in seven countries (Bolivia, Ethiopia, India, Kenya, Malawi, Nepal, and Uganda). The evidence base is limited both in terms of the number of eligible studies and the methodological quality of included studies. None of the studies are based on randomized experiments, and so the potential for hidden selection or confounding biases is the most pertinent problem. Few of the studies create comparison groups that allow them to address spillover and leakage of effects from program areas to non‐program areas. Finally, none of the studies investigated forest conservation and welfare effects jointly, which made it difficult to address our question of how these two goals relate. Effects on Deforestation Outcomes The included studies that report the effects of interventions on forest conservation outcomes included research on programs in Bolivia, India, Kenya, and Nepal, although only the studies from India and Bolivia report effects on forest cover change. These studies used a wide range of outcome variables (e.g., different forest types), so it is difficult to synthesize an average effect of these programs. Across the studies the reported effects of DFM programs on the annual forest cover change rate range from 0.026 percentage points (s.e.=0.060, 95% CI: [‐0.09, 0.14]) for a study examining DFM and community forest use in India to 0.80 percentage points (s.e.=0.20, 95% CI: [0.41, 1.19]) for a study examining DFM‐based administration of protected forests in Bolivia. Effects on Human Welfare Outcomes Three studies assess the effects of DFM on welfare or poverty outcomes, evaluating programs in Ethiopia, Malawi, and Uganda. They differed in the nature of the comparisons that they made, but all found that DFM did lead to a boost in either a households' forest or household income on average. Effects ranged from a 35 per cent increase in per capita consumption expenditure in Ethiopia (s.e.=9.44, 95% CI: [16.5, 53.5]) to a 2 per cent gain in Uganda (s.e.=2.36, 95% CI: [‐2.63, 6.63]). Nevertheless, these average effects are not so helpful in assessing effects on poverty if they do not characterize consequences for poor households specifically. Indeed, the study of DFM programs in Uganda suggested that poor households in areas neighbouring DFM programs might have been harmed: among members of the lowest income quartile, the effect of devolution to local public institutions on income per capita was a 6 per cent reduction, although this was not statistically significant (s.e.=8.43, 95% CI: [‐22.52, 10.52]), while devolution to local parastatals yielded a 10 per cent loss of income (s.e.=5.12, 95% CI: [‐20.04, 0.04]). The Role of Institutional and Social Conditions We aimed to address a number of hypotheses regarding the influence of institutional and social conditions (inequality, institutional capacity, corruption, and democratic accountability) on the effects of DFM programs. However, due to limitations of the evidence base we were unable to assess these hypotheses. We did however extract qualitative data from included studies and associated qualitative studies that provide some insights into the role of institutional and social conditions in the context of PES programs These studies highlighted issues of institutional capacity, describing situations where DFM programs did not have the ability to carry out their mandates. We also found qualitative support for the idea that democratically accountable DFM institutions may result in larger conservation effects. However, this hypothesis does rest on the possibly erroneous assumption that all forest edge community members favour conservation, an assumption that was challenged in qualitative accounts from Mexico. AUTHORS' CONCLUSIONS Limitations in the evidence base preclude definitive hypothesis tests, but we do find that DFM reduce deforestation rates. In terms of program effects on human welfare and poverty outcomes, the evidence is very limited and we cannot conclude that the evidence indicates non‐negative effects. Our review aimed to assess the extent to which conservation and poverty reduction goals conflict, and the scope for “win‐win” strategies that generate both significant environmental and human welfare benefits. Based on the evidence available, we do not find that an evidence‐based case can be made for conservation and poverty‐reduction goals being complementary in DFM programming. Our final conclusion re‐emphasizes the poor state of the evidence base for conservation programming. Much advanced scientific effort and extensive investment has gone into measuring forest conditions around the world. Relative to that, efforts to assess the effects of DFM programs on deforestation and poverty is limited and methodologically weak. Conservations researchers should look to recent work in development economics for guidance on executing field experiments that might provide more credible evidence (Banerjee and Duflo, 2011; Casey et al., 2012; Karlan and Appel, 2012).",
+    "readLink": "https://doi.org/10.4073/csr.2014.10"
+  },
+  {
+    "title": "Time Series of Landsat Imagery Shows Vegetation Recovery in Two Fragile Karst Watersheds in Southwest China from 1988 to 2016",
+    "authors": [
+      "Jie Pei,",
+      "Li Wang,",
+      "Xiaoyue Wang,",
+      "Zheng Niu,",
+      "Maggi Kelly,",
+      "Xiao-Peng Song,",
+      "Ni Huang,",
+      "Jing Geng,",
+      "Haifeng Tian,",
+      "Yang Yu,",
+      "Shiguang Xu,",
+      "Lei Wang,",
+      "Qing Ying,",
+      "Jianhua Cao"
+    ],
+    "doi": "https://doi.org/10.3390/rs11172044",
+    "journalVolume": "Vol. 11,\n                                no. 17\n                                \n                                  p.\n                                  2044",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Since the implementation of China’s afforestation and conservation projects during recent decades, an increasing number of studies have reported greening trends in the karst regions of southwest China using coarse-resolution satellite imagery, but small-scale changes in the heterogenous landscapes remain largely unknown. Focusing on two typical karst regions in the Nandong and Xiaojiang watersheds in Yunnan province, we processed 2,497 Landsat scenes from 1988 to 2016 using the Google Earth Engine cloud platform and analyzed vegetation trends and associated drivers. We found that both watersheds experienced significant increasing trends in annual fractional vegetation cover, at a rate of 0.0027 year−1 and 0.0020 year−1, respectively. Notably, the greening trends have been intensifying during the conservation period (2001−2016) even under unfavorable climate conditions. Human-induced ecological engineering was the primary factor for the increased greenness. Moreover, vegetation change responded differently to variations in topographic gradients and lithological types. Relatively more vegetation recovery was found in regions with moderate slopes and elevation, and pure limestone, limestone and dolomite interbedded layer as well as impure carbonate rocks than non-karst rocks. Partial correlation analysis of vegetation trends and temperature and precipitation trends suggested that climate change played a minor role in vegetation recovery. Our findings contribute to an improved understanding of the mechanisms behind vegetation changes in karst areas and may provide scientific supports for local afforestation and conservation policies.",
+    "readLink": "https://www.mdpi.com/2072-4292/11/17/2044"
+  }
+]

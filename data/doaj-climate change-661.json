@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Thresholds of acidification impacts on macroinvertebrates adapted to seasonally acidified tropical streams: potential responses to extreme drought-driven pH declines",
+    "authors": [
+      "Carissa Ganong,",
+      "Minor Hidalgo Oconitrillo,",
+      "Catherine Pringle"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.11955",
+    "journalVolume": "Vol. 9\n                                \n                                \n                                  p.\n                                  e11955",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background Drought-driven acidification events of increasing frequency and severity are expected as a consequence of climate change, and these events may expose macroinvertebrate taxa to increased acidification beyond their tolerance levels. Recent work in lowland Costa Rica has shown that poorly-buffered tropical streams exhibit natural seasonal variation in pH, with extremely low levels (<4.5) after extreme dry seasons). Our goal was to determine the threshold of pH effects on survival of three tropical stream macroinvertebrate taxa. Methods We conducted laboratory mesocosm experiments to determine acidification effects (using diluted HCl) on three focal macroinvertebrate taxa collected from a poorly-buffered stream at La Selva Biological Station: (1) mayfly naiads (Ephemeroptera: Leptophlebiidae: Traverella holzenthali), (2) adult shrimp (Decapoda: Palaemonidae: Macrobrachium olfersii), and (3) larval midges (Diptera: Chironomidae). We also compared the effect of pH on survival and growth rates of larval midges from a poorly-buffered (pH 4.3–6.9) vs. a naturally well-buffered (pH 5.1–6.9) stream. Results/Discussion Mayfly and shrimp survival decreased between pH 4.0 and 3.5, overlapping with the range of lowest pH levels (3.6–4.0) recorded during a previous extreme El Niño Southern Oscillation event in 1998 and suggesting that increasingly extreme acidification events induced by climate change may negatively affect their survival. In contrast, survival of larval midges was unaffected by pH regimes at/above 3.5, indicating tolerance to pH levels experienced in poorly-buffered stream during seasonal acidification, which has presumably occurred over millennia. These findings highlight the potential importance of historical pH regimes in structuring macroinvertebrate communities. These results are relevant not only to lowland Neotropical streams, but also signal the need for further research in lotic ecosystems worldwide where drought-driven pH declines have been documented or are probable in the future.",
+    "readLink": "https://peerj.com/articles/11955.pdf"
+  },
+  {
+    "title": "CANADA IN THE INDO-PACIFIC?",
+    "authors": [
+      "Stephen  Nagy"
+    ],
+    "doi": "https://doi.org/10.11575/sppp.v14i1.72540",
+    "journalVolume": "Vol. 14,\n                                no. 1",
+    "issn": "2560-8312 (Print)",
+    "publisher": "2560-8320 (Online)",
+    "countryOfPublisher": "University of Calgary",
+    "lcc": [
+      "Canada",
+      "Political science: Political institutions and public administration (General)"
+    ],
+    "journalUrl": "https://journalhosting.ucalgary.ca/index.php/sppp/index",
+    "abstract": "Canada needs to take a bigger part in the Indo-Pacific’s development and support for a rules-based order or risk getting locked out of the region’s economic, diplomatic and security benefits. Although the Indo-Pacific region is an economic dynamo, it’s also institutionally underdeveloped and the source of numerous traditional and non-traditional security challenges. Traditional challenges include North Korea’s WMD program and potential conflicts between China and neighbouring nations. Non-traditional challenges include piracy, illegal fishing and climate change. Conflicts, especially at sea, could disrupt communications, trade and energy flows. Canadians know that much is at stake in Indo-Pacific region. A 2020 survey found that 83 per cent of Canadians believe that Canada should stand up to China when values like human rights and democracy are on the line. Opinions vary as to how Canadian engagement in the Indo-Pacific should look. Any such process should be clearly and meaningfully articulated to garner buy-in from Canadians. It should also be based on a realistic assessment of the capabilities and capacities Canada can bring to the region. Canada has already used existing institutions, such as military exercises among Indo-Pacific nations, to get involved in the area. Options include bringing together middle-power countries to promote multilateralism and non-military solutions to Indo-Pacific challenges. North Korean denuclearization, vaccine distribution and the digital economy offer possibilities to create a diplomatic consensus among like-minded countries. Outreach should also concentrate on issues directly affecting Canada and its allies, like forging coalitions to resist hostage diplomacy and economic coercion. At the same time, Canada must develop a constructive relationship with China to mitigate regionwide challenges such as climate change. Canada shares an interest with the U.S., Australia, Japan and other countries in ensuring that the Indo-Pacific develops in a free, open and rules-based manner. A more Machiavellian approach founded on the presumption that might is right would see Canada and similar middle-power countries become marginalized and more vulnerable to security challenges. It’s time for Canada to speak up and become more involved in the Indo-Pacific to prevent that scenario.",
+    "readLink": "https://journalhosting.ucalgary.ca/index.php/sppp/article/view/72540"
+  },
+  {
+    "title": "Mapping of peatlands in the forested landscape of Sweden using lidar-based terrain indices",
+    "authors": [
+      "L. Rimondini,",
+      "T. Gumbricht,",
+      "A. Ahlström,",
+      "G. Hugelius"
+    ],
+    "doi": "https://doi.org/10.5194/essd-15-3473-2023",
+    "journalVolume": "Vol. 15\n                                \n                                \n                                  pp.\n                                  3473\n                                  – 3482",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "Globally, northern peatlands are major carbon deposits with important implications for the climate system. It is therefore crucial to understand their spatial occurrence, especially in the context of peatland degradation by land cover change and climate change. This study was aimed at mapping peatlands in the forested landscape of Sweden by modelling soil data against lidar-based terrain indices. Machine learning methods were used to produce nationwide raster maps at 10 m spatial resolution indicating the presence or not of peatlands. Four different definitions of peatlands were examined: 30, 40, 50 and 100 cm thickness of the organic horizon. Depending on peatland definition, testing with a hold-out dataset indicated an accuracy of 0.89–0.91 and Matthew's correlation coefficient of 0.79–0.81. The final maps showed a national forest peatland extent of 60 292–71 996 km2, estimates which are in the range of previous studies employing traditional soil maps. In conclusion, these results emphasize the possibilities of mapping boreal peatlands with lidar-based terrain indices. The final peatland maps are publicly available at https://doi.org/10.17043/rimondini-2023-peatlands-2 (Rimondini et al., 2023) and may be employed for spatial planning, estimating carbon stocks and evaluating climate change mitigation strategies.",
+    "readLink": "https://essd.copernicus.org/articles/15/3473/2023/essd-15-3473-2023.pdf"
+  },
+  {
+    "title": "A Chemo-Ecological Investigation of <i>Dendrilla antarctica</i> Topsent, 1905: Identification of Deceptionin and the Effects of Heat Stress and Predation Pressure on Its Terpene Profiles",
+    "authors": [
+      "Paula De Castro-Fernández,",
+      "Carlos Angulo-Preckler,",
+      "Cristina García-Aljaro,",
+      "Conxita Avila,",
+      "Adele Cutignano"
+    ],
+    "doi": "https://doi.org/10.3390/md21090499",
+    "journalVolume": "Vol. 21,\n                                no. 499\n                                \n                                  p.\n                                  499",
+    "issn": "1660-3397 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/marinedrugs",
+    "abstract": "Marine sponges usually host a wide array of secondary metabolites that play crucial roles in their biological interactions. The factors that influence the intraspecific variability in the metabolic profile of organisms, their production or ecological function remain generally unknown. Understanding this may help predict changes in biological relationships due to environmental variations as a consequence of climate change. The sponge Dendrilla antarctica is common in shallow rocky bottoms of the Antarctic Peninsula and is known to produce diterpenes that are supposed to have defensive roles. Here we used GC-MS to determine the major diterpenes in two populations of D. antarctica from two islands, Livingston and Deception Island (South Shetland Islands). To assess the potential effect of heat stress, we exposed the sponge in aquaria to a control temperature (similar to local), heat stress (five degrees higher) and extreme heat stress (ten degrees higher). To test for defence induction by predation pressure, we exposed the sponges to the sea star Odontaster validus and the amphipod Cheirimedon femoratus. Seven major diterpenes were isolated and identified from the samples. While six of them were already reported in the literature, we identified one new aplysulphurane derivative that was more abundant in the samples from Deception Island, so we named it deceptionin (7). The samples were separated in the PCA space according to the island of collection, with 9,11-dihydrogracilin A (1) being more abundant in the samples from Livingston, and deceptionin (7) in the samples from Deception. We found a slight effect of heat stress on the diterpene profiles of D. antarctica, with tetrahydroaplysulphurin-1 (6) and the gracilane norditerpene 2 being more abundant in the group exposed to heat stress. Predation pressure did not seem to influence the metabolite production. Further research on the bioactivity of D. antarctica secondary metabolites, and their responses to environmental changes will help better understand the functioning and fate of the Antarctic benthos.",
+    "readLink": "https://www.mdpi.com/1660-3397/21/9/499"
+  },
+  {
+    "title": "Climate and Health in Buenos Aires: A Review on Climate Impact on Human Health Studies Between 1995 and 2015",
+    "authors": [
+      "Silvia Fontan,",
+      "Matilde Rusticucci"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2020.528408",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "In this review, seven pieces of research on climate variability and its impact on human health in Buenos Aires City between 1995 and 2015 were evaluated. The review highlighted continuities and ruptures in the methodology, variables, and statistics data of the research, considering their similarities and differences in the period of study and the methodology applied. Contributions, pending issues, and public policies on climate change challenges in the city aimed at improving living conditions were considered. Six studies contributed evidence on the relationship between climate and health and its impacts on the population; two studies suggested the development of early warning systems and one study is a preliminary approach.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2020.528408/full"
+  },
+  {
+    "title": "Group Activity to Enhance Student Collaboration, Graph Interpretation, and Peer Evaluation of Ecological Concepts in a Large-Enrollment Class",
+    "authors": [
+      "Marcia A. Shofner,",
+      "Gili Marbach-Ad"
+    ],
+    "doi": "https://doi.org/10.1128/jmbe.v18i3.1387",
+    "journalVolume": "Vol. 18,\n                                no. 3",
+    "issn": "1935-7877 (Print)",
+    "publisher": "1935-7885 (Online)",
+    "countryOfPublisher": "American Society for Microbiology",
+    "lcc": [
+      "United States",
+      "Education: Special aspects of education",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://journals.asm.org/journal/jmbe",
+    "abstract": "This study presents an example for an activity that was implemented in a large enrollment (Principles of Ecology and Evolution) class to enhance student collaboration and critical thinking (e.g., graph interpretation and peer evaluation). In Spring 2015, a course redesign was initiated to move from teacher-centered to student-centered learning. We implemented six learning activities that each replaced one lecture. Here we will elaborate on two activities, McArthur and Wilson’s Island Biogeography Theory and Pikas and Climate Change. Both activities require students to use skills such as graph development and interpretation and quantitative reasoning. Students were divided into small groups and worked collaboratively on worksheets. Upon completion of the worksheet, each group was asked to exchange their worksheet with another group. Students were given ten minutes to review and comment on the other group’s worksheet answers. They recorded their comments (positive and negative feedback) directly on the worksheet and handed this back to the original group. The group activity and peer evaluation exercise offered were positively perceived by most of the students. Through the activities students learned about the process of scientific research, including formulating hypotheses, working collaboratively, reviewing each others’ work, being reviewed by others, and learning that there can be more than one way to interpret a graph.",
+    "readLink": "https://journals.asm.org/doi/10.1128/jmbe.v18i3.1387"
+  },
+  {
+    "title": "Le lien au territoire, un facteur déterminant des réinstallations climatiques des communautés autochtones de l’Arctique nord-américain",
+    "authors": [
+      "Adèle de Mesnard"
+    ],
+    "doi": "https://doi.org/10.4000/eps.10562",
+    "journalVolume": "Vol. 2020",
+    "issn": "0755-7809 (Print)",
+    "publisher": "2104-3752 (Online)",
+    "countryOfPublisher": "Université des Sciences et Technologies de Lille",
+    "lcc": [
+      "France",
+      "Geography. Anthropology. Recreation",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://eps.revues.org",
+    "abstract": "Given the ineffectiveness of alternative climate change mitigation measures, three Alaska Native communities, Kivalina, Shishmaref and Newtok, voted over twenty years ago to relocate to a specific site that they designated as the most likely to allow them to continue to develop as a community, while preserving their identity and culture. Yet, the choice of this relocation site appears to be the most important point of contention between the Native communities, the State of Alaska and federal actors. While the communities are not opposed to relocating, they refuse to see their displacement as a simple movement from point A to point B, based on the consideration that they can be moved to wherever it is possible to send them. What is at stake for the Native communities is to overcome the pitfalls of a unilateral choice by public authorities that would restrict the special relationship they have with their lands and their environment. Since place is an intangible element of community cohesion, it is important that the community has control over the process of selecting the relocation site rather than relying solely on a top-down bureaucratic process. A refocusing on indigenous perspectives, which goes beyond the pragmatic technicism adopted by the public authorities, then appears necessary to create the conditions for a genuine dialogue.",
+    "readLink": "http://journals.openedition.org/eps/10562"
+  },
+  {
+    "title": "Distribution and Activity of Sulfur-Metabolizing Bacteria along the Temperature Gradient in Phototrophic Mats of the Chilean Hot Spring Porcelana",
+    "authors": [
+      "Ricardo Konrad,",
+      "Pablo Vergara-Barros,",
+      "Jaime Alcorta,",
+      "María E. Alcamán-Arias,",
+      "Gloria Levicán,",
+      "Christina Ridley,",
+      "Beatriz Díez"
+    ],
+    "doi": "https://doi.org/10.3390/microorganisms11071803",
+    "journalVolume": "Vol. 11,\n                                no. 1803\n                                \n                                  p.\n                                  1803",
+    "issn": "2076-2607 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/microorganisms",
+    "abstract": "In terrestrial hot springs, some members of the microbial mat community utilize sulfur chemical species for reduction and oxidization metabolism. In this study, the diversity and activity of sulfur-metabolizing bacteria were evaluated along a temperature gradient (48–69 °C) in non-acidic phototrophic mats of the Porcelana hot spring (Northern Patagonia, Chile) using complementary meta-omic methodologies and specific amplification of the aprA (APS reductase) and soxB (thiosulfohydrolase) genes. Overall, the key players in sulfur metabolism varied mostly in abundance along the temperature gradient, which is relevant for evaluating the possible implications of microorganisms associated with sulfur cycling under the current global climate change scenario. Our results strongly suggest that sulfate reduction occurs throughout the whole temperature gradient, being supported by different taxa depending on temperature. Assimilative sulfate reduction is the most relevant pathway in terms of taxonomic abundance and activity, whereas the sulfur-oxidizing system (Sox) is likely to be more diverse at low rather than at high temperatures. Members of the phylum Chloroflexota showed higher sulfur cycle-related transcriptional activity at 66 °C, with a potential contribution to sulfate reduction and oxidation to thiosulfate. In contrast, at the lowest temperature (48 °C), Burkholderiales and Acetobacterales (both Pseudomonadota, also known as Proteobacteria) showed a higher contribution to dissimilative sulfate reduction/oxidation as well as to thiosulfate metabolism. Cyanobacteriota and Planctomycetota were especially active in assimilatory sulfate reduction. Analysis of the aprA and soxB genes pointed to members of the order Burkholderiales (Gammaproteobacteria) as the most dominant and active along the temperature gradient for these genes. Changes in the diversity and activity of different sulfur-metabolizing bacteria in photoautotrophic microbial mats along a temperature gradient revealed their important role in hot spring environments, especially the main primary producers (Chloroflexota/Cyanobacteriota) and diazotrophs (Cyanobacteriota), showing that carbon, nitrogen, and sulfur cycles are highly linked in these extreme systems.",
+    "readLink": "https://www.mdpi.com/2076-2607/11/7/1803"
+  },
+  {
+    "title": "AUTUMN GROWTH AND DEVELOPMENT OF WINTER WHEAT PLANTS ON THE IRRIGATED LANDS DEPENDING ON HYDROTHERMAL CONDITIONS, VARIETIES AND TERMS OF SOWING",
+    "authors": [
+      "S. O. Zaiets"
+    ],
+    "doi": "https://doi.org/10.31073/mivg201901-157",
+    "journalVolume": "no. 1\n                                \n                                  pp.\n                                  42\n                                  – 48",
+    "issn": "2616-5643 (Print)",
+    "publisher": "2616-5562 (Online)",
+    "countryOfPublisher": "National Academy of Agrarian Sciences of Ukraine, Institute of Water Problems and Land Reclamation",
+    "lcc": [
+      "Ukraine",
+      "Technology: Hydraulic engineering"
+    ],
+    "journalUrl": "http://mivg.iwpim.com.ua/index.php/mivg",
+    "abstract": "Actuality. For the last few years the instability in grain productions in the Steppe zone has been observed that is mainly connected with the fluctuations of agrometeorological conditions and global climatic change. Climate change made corrections in terms of sowing of winter crops, which are one of the main factors of technological process, which productivity of the crops depends on. Goal. To determine the influence of agrometeorological conditions, varieties and terms of sowing on the growth and development of plants during the autumn period of vegetation when cultivating winter wheat varieties on irrigated lands. Methods. The researches were conducted at the Institute of Irrigated Agriculture NAAS using the methodology of field and laboratory experiments on irrigated lands (IOZ NAAS, 2014). Results. During the study period it was determined that the hydrothermal conditions and the duration of the autumn period for winter wheat vegetation were significantly different. When sowing on the 20th of September, on the 1st of October, and on the 10th of October, the duration of the autumn vegetation period in 2016 was 56, 46 and 36 days, in 2015 - 100, 90 and 80 days and in 2017 - 114, 104 and 94 days respectively. When sowing on the 20th of October, winter wheat plants vegetated during 26, 70 and 84 days, respectively. Sowing terms affected winter wheat sprout population in different ways - when sowing on the 20th of September, it averaged to 372 plants/m2, on the 1st of October - 407 plants/m2, on the 10th of October – 386 plants/m2 and on the 20th of October - 392 plants/m2. It was determined that at different terms of sowing the plants entered in winter period with uneven growth and development. When sowing on the 20th of September all the varieties in autumn tillered, and in average for three years they created 4.1-5.0 shoots, developed more herbage mass of 713-761 g/m2 in comparison to other terms of sowing. The later wheat was sown, the less the plant tillering was, therefore, less herbage mass was formed. Conclusions. Agrometeorological conditions of autumn period and terms of sowing significantly affect the population of sprouts and growth processes of the plants of current winter wheat varieties. The highest plant population of all the varieties was formed when sowing on the 1st of October, the least one was formed by the varieties Mariia and Kokhana at early sowing on the 20th of September, and variety Ovidii – at early sowing on the 20th of September, and at late sowing on the 20th of October. That is, the Ovid variety is more responsive to the terms of sowing and to the deviation from the optimal (October 1) and leads to a decrease in the sprouting density. When sowing on the 20th of September and on the 1st of October all the varieties tillered intensively in autumn time, and they formed 4.1-5.0 and 3.3-3.7 shoots, respectively, developed more herbage mass comparatively to other terms of sowing - 713-761 and 313-381 g/m2 respectively. Having these terms of sowing the most intensive tillering was observed on the varieties Mariia and Kokhana, and when sowing in delayed terms no one variety had an advantage over the others.",
+    "readLink": "http://mivg.iwpim.com.ua/index.php/mivg/article/view/157"
+  },
+  {
+    "title": "Effects of light pollution on tree phenology in the urban environment",
+    "authors": [
+      "Škvareninová Jana,",
+      "Tuhárska Mária,",
+      "Škvarenina Jaroslav,",
+      "Babálová Darina,",
+      "Slobodníková Lenka,",
+      "Slobodník Branko,",
+      "Středová Hana,",
+      "Minďaš Jozef"
+    ],
+    "doi": "https://doi.org/10.1515/mgr-2017-0024",
+    "journalVolume": "Vol. 25,\n                                no. 4\n                                \n                                  pp.\n                                  282\n                                  – 290",
+    "issn": "1210-8812 (Print)",
+    "publisher": "2199-6202 (Online)",
+    "countryOfPublisher": "Sciendo",
+    "lcc": [
+      "Poland",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://sciendo.com/journal/MGR",
+    "abstract": "Research on urban climates has been an important topic in recent years, given the growing number of city inhabitants and significant influences of climate on health. Nevertheless, far less research has focused on the impacts of light pollution, not only on humans, but also on plants and animals in the landscape. This paper reports a study measuring the intensity of light pollution and its impact on the autumn phenological phases of tree species in the town of Zvolen (Slovakia). The research was carried out at two housing estates and in the central part of the town in the period 2013–2016. The intensity of ambient nocturnal light at 18 measurement points was greater under cloudy weather than in clear weather conditions. Comparison with the ecological standard for Slovakia showed that average night light values in the town centre and in the housing estate with an older type of public lighting, exceeded the threshold value by 5 lux. Two tree species, sycamore maple (Acer pseudoplatanus L.) and staghorn sumac (Rhus typhina L.), demonstrated sensitivity to light pollution. The average onset of the autumn phenophases in the crown parts situated next to the light sources was delayed by 13 to 22 days, and their duration was prolonged by 6 to 9 days. There are three major results: (i) the effects of light pollution on organisms in the urban environment are documented; (ii) the results provide support for a theoretical and practical basis for better urban planning policies to mitigate light pollution effects on organisms; and (iii) some limits of the use of plant phenology as a bioindicator of climate change are presented.",
+    "readLink": "https://doi.org/10.1515/mgr-2017-0024"
+  }
+]

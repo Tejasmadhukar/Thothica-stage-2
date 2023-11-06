@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Seoul, Keep Your Paddies! Implications for the Conservation of Hylid Species",
+    "authors": [
+      "Borzee, Amael,",
+      "Ahn, Jaeha,",
+      "Kim, Sanha,",
+      "Heo, Kyongman,",
+      "Jang, Yikweon"
+    ],
+    "doi": "https://doi.org/10.5635/ASED.2015.31.3.176",
+    "journalVolume": "Vol. 31,\n                                no. 3\n                                \n                                  pp.\n                                  176\n                                  – 181",
+    "issn": "2234-6953 (Print)",
+    "publisher": "2234-8190 (Online)",
+    "countryOfPublisher": "Korean Society of Systematic Zoology",
+    "lcc": [
+      "Korea, Republic of",
+      "Science: Biology (General)",
+      "Science: Zoology"
+    ],
+    "journalUrl": "http://e-ased.org/",
+    "abstract": "Biodiversity is plummeting worldwide, and the major causes of such decline include habitat degradation and climate change. While cities do contribute to the negative impact to the environment, they can also serve as strategic centres for conservation programs. Sites qualifying as biogeographic islands within metropolitan Seoul were studied for the occurrence of two hylid species: the endangered Hyla suweonensis and the abundant H. japonica. This study demonstrates that neither habitat diversity nor surface area, but solely the occurrence of aggregated rice paddies is a requisite for H. suweonensis, hypothetically due to its strict breeding requirements. On the contrary, H. japonica occurrence was not affected by any of these factors, and all types of habitats studied were adequate for this species. The presence of an endangered species within the boundaries of one of the most populated metropolises suggests a strong natural resilience, which should be enhanced with appropriate actions. We emphasize that the management plans therein can, and should, be used as the first step in the conservation of H. suweonensis in metropolitan Seoul.",
+    "readLink": "http://www.kpubs.org/article/articleMain.kpubs?articleANo=DMBRBT_2015_v31n3_176"
+  },
+  null,
+  {
+    "title": "Evaluation of Various Resolution DEMs in Flood Risk Assessment and Practical Rules for Flood Mapping in Data-Scarce Geospatial Areas: A Case Study in Thessaly, Greece",
+    "authors": [
+      "Nikolaos Xafoulis,",
+      "Yiannis Kontos,",
+      "Evangelia Farsirotou,",
+      "Spyridon Kotsopoulos,",
+      "Konstantinos Perifanos,",
+      "Nikolaos Alamanis,",
+      "Dimitrios Dedousis,",
+      "Konstantinos Katsifarakis"
+    ],
+    "doi": "https://doi.org/10.3390/hydrology10040091",
+    "journalVolume": "Vol. 10,\n                                no. 91\n                                \n                                  p.\n                                  91",
+    "issn": "2306-5338 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/hydrology",
+    "abstract": "Floods are lethal and destructive natural hazards. The Mediterranean, including Greece, has recently experienced many flood events (e.g., Medicanes Zorbas and Ianos), while climate change results in more frequent and intense flood events. Accurate flood mapping in river areas is crucial for flood risk assessment, planning mitigation measures, protecting existing infrastructure, and sustainable planning. The accuracy of results is affected by all simplifying assumptions concerning the conceptual and numerical model implemented and the quality of geospatial data used (Digital Terrain Models—DTMs). The current research investigates flood modelling sensitivity against geospatial data accuracy using the following DTM resolutions in a mountainous river sub-basin of Thessaly’s Water District (Greece): (a) open 5 m and (b) 2 m data from Hellenic Cadastre (HC) and (c) 0.05 m data from an Unmanned Aerial Vehicle (UAV) topographical mission. RAS-Mapper and HEC-RAS are used for 1D (steady state) hydraulic simulation regarding a 1000-year return period. Results include flood maps and cross section-specific flow characteristics. They are analysed in a graphical flood map-based empirical fashion, whereas a statistical analysis based on the correlation matrix and a more sophisticated Machine Learning analysis based on the interpretation of nonlinear relationships between input–output variables support and particularise the conclusions in a quantifiable manner.",
+    "readLink": "https://www.mdpi.com/2306-5338/10/4/91"
+  },
+  {
+    "title": "Indicators of sustainable development performance: Case study of European Union countries",
+    "authors": [
+      "Šoja Svjetlana Janković,",
+      "Jelić Dana Bucalo"
+    ],
+    "doi": "https://doi.org/10.1515/crebss-2016-0009",
+    "journalVolume": "Vol. 2,\n                                no. 2\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2459-5616 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Social Sciences: Statistics"
+    ],
+    "journalUrl": "https://sciendo.com/journal/CREBSS",
+    "abstract": "A sustainable development strategy is an essential long-term strategy that aims to bring about a balance of three key policy factors: sustainable economic growth and economic and technological development, sustainable development of society based on social equality, and environmental protection with a rational use of natural resources. The sustainable development strategy is very complex and contains a large number of indicators, so one of the statistical methods that can be used for this complex problem is the I-distance method. It was created as a need to rank countries according to the level of socio-economic development and the problem was how to take advantage of all the indicators in order to calculate a synthetic indicator which would represent the rank. The I-distance method in this paper is used for the ranking of 18 countries of the European Union based on ten indicators that have been selected in accordance with the EU Sustainable Development Strategy. The used headline indicators come from the following areas: socio-economic development, sustainable consumption and production, social inclusion, demographic changes, public health, climate change and energy, sustainable transport, and global partnership. By analysing the initial set of indicators and their correlation coefficients with the found I-distance values, the following most important indicators were found: official development assistance as a share of the gross national income, employment rate of older workers, healthy life years and life expectancy at birth (males), energy consumption of transport relative to GDP etc. Countries that occupied the top three places were Sweden, Luxembourg, and Finland while Croatia, Poland, and Slovenia occupied the last three places.",
+    "readLink": "https://doi.org/10.1515/crebss-2016-0009"
+  },
+  {
+    "title": "Hierarchical distance sampling reveals increased population size and broader habitat use in the endangered Bahama Oriole",
+    "authors": [
+      "Michael G. Rowley,",
+      "Richard C. Stanley,",
+      "Janine M. Antalffy,",
+      "Jennifer L. Christhilf,",
+      "Daniel C. Stonko,",
+      "Scott B. Johnson,",
+      "Shelley Cant-Woodside,",
+      "T Scott. Sillett,",
+      "Matthew E. Fagan,",
+      "Colin E. Studds,",
+      "Kevin E. Omland"
+    ],
+    "doi": "Vol. 16,\n                                no. 1\n                                \n                                  p.\n                                  5",
+    "issn": "1712-6568 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ace-eco.org/",
+    "abstract": "The Caribbean is home to over 20 passerine species listed by the International Union for Conservation of Nature as vulnerable, endangered or critically endangered. The Bahama Oriole (Icterus northropi) is listed as critically endangered and is now restricted to Andros, a single island complex in The Bahamas. We investigated this species' habitat use and produced the first statistically robust estimate of population size. We conducted point counts during the Bahama Oriole's breeding season in May and June 2017, extensively surveying the northern part of North Andros over a study area covering 713 km². Hierarchical distance sampling models estimated 1269-2765 individuals within our study area, a substantially larger population on North Andros than was indicated by the previously published estimates. Earlier studies, which disproportionately sampled anthropogenic and coppice habitats, likely underestimated this species' abundance in pine forest. We found that the Bahama Oriole is widespread, most abundant in pine forest, and not dependent on developed habitats during the breeding season. These findings provide a better outlook for the species' persistence and indicate that conserving pine forest would benefit this critically endangered species. Our results also emphasize the importance of rigorously evaluating habitat use when developing conservation plans for endangered species. Systematic population counts and statistical analyses that account for detection probability are needed for endangered and vulnerable endemic birds across the Caribbean, especially in the face of increased hurricane strength and sea level rise due to climate change.",
+    "readLink": "https://www.ace-eco.org/vol16/iss1/art5/"
+  },
+  {
+    "title": "Suitability and limitations of ground-based imagery and thermography for long-term monitoring of vegetation changes in Victoria Land (continental Antarctica)",
+    "authors": [
+      "N. Cannone,",
+      "M. Guglielmin,",
+      "S. Ponti"
+    ],
+    "doi": "Vol. 156\n                                \n                                \n                                  p.\n                                  111080",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Antarctic vegetation has been recognized to be a valuable bio-indicator to track climatic and environmental changes through an accurate long-term monitoring. The extremely harsh climatic conditions of Antarctica, its limited logistical accessibility and remoteness encourage the substitution or integration of field surveys with remote sensing monitoring.Here we assess the applicability and limitations of ground-based remote sensing (visible imagery and thermography) for accurate long-term monitoring of vegetation changes in continental Antarctica with reference to: a) total vegetation coverage; b) cover of the dominant species; c) vegetation seasonality. We selected the three most widespread continental Antarctic vegetation types (high cover moss; low cover moss; low cover moss and/or lichen).For the total vegetation cover the best fitting with the field data was achieved by the fishnet grid analysis performed by the expert and by the RGB_sup analysis, the two methods providing the highest feasibility, especially for the high cover moss, while for the other vegetation types the remote sensing methods provided over- and/or under-estimations (including GEI, differently from the Arctic).Regarding the dominant species cover (%), none of the remote sensing methods provided suitable results, while we demonstrated that seasonality affects the quantification of total vegetation cover through remote sensing due to changes of vegetation temperature, hydration and activity, especially for moss vegetation, even analyzing mono-specific vegetation plots. This finding underlines the importance of the timing of the digital image acquisition, an issue that has never been addressed before in continental Antarctica.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X23012220"
+  },
+  {
+    "title": "Animal nutrition strategies to reduce greenhouse gas emissions in dairy cattle",
+    "authors": [
+      "Juan Antonio Rendon-Huerta,",
+      "Juan Manuel Pinos-Rodríguez,",
+      "Ermias Kebreab"
+    ],
+    "doi": "https://doi.org/10.15174/au.2018.1766",
+    "journalVolume": "Vol. 28",
+    "issn": "0188-6266 (Print)",
+    "publisher": "2007-9621 (Online)",
+    "countryOfPublisher": "Universidad de Guanajuato",
+    "lcc": [
+      "Mexico",
+      "Science: Science (General)",
+      "Social Sciences"
+    ],
+    "journalUrl": "http://www.actauniversitaria.ugto.mx/index.php/acta",
+    "abstract": "The objective of this study was to analyze different animal nutrition strategies from published papers to reduce greenhouse gas (GHG) emissions, particularly methane (CH4) and nitrous oxide (N2O) in dairy catt-le. Ration data used (n = 32 diets) was obtained from 15 published papers selected according to differences between forage:concentrate ratio and crude protein (CP) content. An empirical model was used to estima-te enteric methane emissions based on fiber and CP content in the diets. The N2O emission was calculated according to Intergovernmental Panel of Climate Change (IPCC) recommendations. Differences between CH4 and N2O affected by FC or CP content were analyzed through a variance analysis. Furthermore, a co-rrelation analysis was carried out to compare CP content and nitrogen excretion in feces, urine and milk. Estimations of enteric CH4 were not significantly different between diets with various forage content le-vels. Diets with high concentrate content had lower GHG intensity. Nitrogen excretion in feces and urine increased linearly as dietary protein level was increased from the lowest to the highest concentrations, but conversion of nitrogen intake to nitrogen excreted in milk was not affected by increasing dietary protein. In conclusion, dietary manipulation could decrease GHG emissions by unit of produced milk",
+    "readLink": "https://www.actauniversitaria.ugto.mx/index.php/acta/article/view/1766/pdf"
+  },
+  {
+    "title": "Meltwater runoff in a changing climate (1951–2099) at Chhota Shigri Glacier, Western Himalaya, Northern India",
+    "authors": [
+      "Markus Engelhardt,",
+      "Paul Leclercq,",
+      "Trude Eidhammer,",
+      "Pankaj Kumar,",
+      "Oskar Landgren,",
+      "Roy Rasmussen"
+    ],
+    "doi": "https://doi.org/10.1017/aog.2017.13",
+    "journalVolume": "Vol. 58\n                                \n                                \n                                  pp.\n                                  47\n                                  – 58",
+    "issn": "0260-3055 (Print)",
+    "publisher": "1727-5644 (Online)",
+    "countryOfPublisher": "Cambridge University Press",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/annals-of-glaciology",
+    "abstract": "Meltwater runoff in the catchment area containing Chhota Shigri glacier (Western Himalaya) is simulated for the period 1951–2099. The applied mass-balance model is forced by downscaled products from four regional climate models with different horizontal resolution. For the future climate scenarios we use high resolution time series of 5 km grid spacing, generated using the newly developed Intermediate Complexity Atmospheric Research Model. The meteorological input is downscaled to 300 m horizontal resolution. The use of an ice flow model provides annually updated glacier area for the mass-balance calculations. The mass-balance model calculates daily snow accumulation, melt, runoff, as well as the individual runoff components (glacial melt, snowmelt and rain). The resulting glacier area decreases by 35% (representative concentration pathway (RCP) 4.5 scenario) to 70% (RCP 8.5 scenario) by 2099 relative to 2000. The average annual mass balance over the whole model period (1951–2099) was –0.4 (±0.3) m w.e. a–1. Average annual runoff does not differ substantially between the two climate scenarios. However, for the years after 2040 our results show a shift towards earlier snowmelt onset that increases runoff in May and June, and reduced glacier melt that decreases runoff in August and September. This shift is much stronger pronounced in the RCP 8.5 scenario.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S0260305517000131/type/journal_article"
+  },
+  null,
+  {
+    "title": "Above ground biomass carbon assessment using field, satellite data and model based integrated approach to predict the carbon sequestration potential of major land use sector of Arunachal Himalaya, India",
+    "authors": [
+      "Biswajit Das,",
+      "Reetashree Bordoloi,",
+      "Sangeeta Deka,",
+      "Ashish Paul,",
+      "Pankaj Kumar Pandey,",
+      "Lal Bihari Singha,",
+      "Om Prakash Tripathi,",
+      "Bhanu Prakash Mishra,",
+      "Madhusudan Mishra"
+    ],
+    "doi": "https://doi.org/10.1080/17583004.2021.1899753",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  pp.\n                                  201\n                                  – 214",
+    "issn": "1758-3004 (Print)",
+    "publisher": "1758-3012 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tcmt",
+    "abstract": "The land-use sector needs special importance owing to its ability to store and emit carbon back to the atmosphere. Land-use changes and their correlations could elucidate conditions that put forests at risk of conversion to other land uses. The impact of rapid forest cover change tends to reduce the percentage of forest cover, thereby reducing the potential for carbon storage in woody biomass. The study was conducted in the state of Arunachal Pradesh to estimate the above-ground biomass, carbon pool and sequestration potential of major land-use sectors. The above-ground biomass of selected land-uses viz. dense forest, moderately dense forest, open forest, plantations, Jhum >5 years, Jhum <5 years and current jhum are 332.28 t ha−1, 246.63 t ha−1, 145.36 t ha−1, 179.31 t ha−1, 149.63 t ha−1, 55.40 t ha−1, 16.84 t ha−1 respectively. The developed model is derived from Soil Adjusted Vegetation Index (SAVI) and Atmospherically Resistant Vegetation Index (ARVI) for prediction of above-ground biomass (AGB) (R2 = 0.85, p < 0.05). The resultant R2 value of 85% predicts that 79% of accuracy could be assumed by the model. The RMSE of the model was 53.21 t ha−1, having no multicollinearity problem keeping tolerance (0.49) and VIF (2.80). The spatial AGB density map was predicted using a step-wise linear regression model which used AGB, SAVI and ARVI of the corresponding sample plot location. The implication of the land-use change revealed that about 84% carbon will be lost from dense forest once it is converted to Jhum (Jhum is the alternate name of Shifting cultivation in India) followed by Jhum <5 years (65%). It is pertinent to mention here that, the present analysis will help the policymakers in visualizing a proper developmental goal to regulate land-use changes for achieving the higher carbon stock and maintaining balance in the global climate scenario.",
+    "readLink": "http://dx.doi.org/10.1080/17583004.2021.1899753"
+  }
+]

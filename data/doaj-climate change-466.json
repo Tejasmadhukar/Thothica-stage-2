@@ -1,0 +1,273 @@
+[
+  {
+    "title": "Long-term ocean and resource dynamics in a hotspot of climate change",
+    "authors": [
+      "Heike K. Lotze,",
+      "Stefanie Mellon,",
+      "Jonathan Coyne,",
+      "Matthew Betts,",
+      "Meghan Burchell,",
+      "Katja Fennel,",
+      "Marisa A. Dusseault,",
+      "Susanna D. Fuller,",
+      "Eric Galbraith,",
+      "Lina Garcia Suarez,",
+      "Laura de Gelleke,",
+      "Nina Golombek,",
+      "Brianne Kelly,",
+      "Sarah D. Kuehn,",
+      "Eric Oliver,",
+      "Megan MacKinnon,",
+      "Wendy Muraoka,",
+      "Ian T.G. Predham,",
+      "Krysten Rutherford,",
+      "Nancy Shackell,",
+      "Owen Sherwood,",
+      "Elizabeth C. Sibert,",
+      "Markus Kienast"
+    ],
+    "doi": "https://doi.org/10.1139/facets-2021-0197",
+    "journalVolume": "Vol. 7\n                                \n                                \n                                  pp.\n                                  1142\n                                  – 1184",
+    "issn": "2371-1671 (Online)",
+    "publisher": "Canadian Science Publishing",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Education",
+      "Science"
+    ],
+    "journalUrl": "http://www.facetsjournal.com/",
+    "abstract": "The abundance, distribution, and size of marine species are linked to temperature and nutrient regimes and are profoundly affected by humans through exploitation and climate change. Yet little is known about long-term historical links between ocean environmental changes and resource abundance to provide context for current and potential future trends and inform conservation and management. We synthesize >4000 years of climate and marine ecosystem dynamics in a Northwest Atlantic region currently undergoing rapid changes, the Gulf of Maine and Scotian Shelf. This period spans the late Holocene cooling and recent warming and includes both Indigenous and European influence. We compare environmental records from instrumental, sedimentary, coral, and mollusk archives with ecological records from fossils, archaeological, historical, and modern data, and integrate future model projections of environmental and ecosystem changes. This multidisciplinary synthesis provides insight into multiple reference points and shifting baselines of environmental and ecosystem conditions, and projects a near-future departure from natural climate variability in 2028 for the Scotian Shelf and 2034 for the Gulf of Maine. Our work helps advancing integrative end-to-end modeling to improve the predictive capacity of ecosystem forecasts with climate change. Our results can be used to adjust marine conservation strategies and network planning and adapt ecosystem-based management with climate change.",
+    "readLink": "https://facetsjournal.com/doi/10.1139/facets-2021-0197"
+  },
+  {
+    "title": "Using landscape genomics to delineate future adaptive potential for climate change in the Yosemite toad (Anaxyrus canorus)",
+    "authors": [
+      "Paul A. Maier,",
+      "Amy G. Vandergast,",
+      "Andrew J. Bohonak"
+    ],
+    "doi": "https://doi.org/10.1111/eva.13511",
+    "journalVolume": "Vol. 16,\n                                no. 1\n                                \n                                  pp.\n                                  74\n                                  – 97",
+    "issn": "1752-4571 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Evolution"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/17524571",
+    "abstract": "Abstract An essential goal in conservation biology is delineating population units that maximize the probability of species persisting into the future and adapting to future environmental change. However, future‐facing conservation concerns are often addressed using retrospective patterns that could be irrelevant. We recommend a novel landscape genomics framework for delineating future “Geminate Evolutionary Units” (GEUs) in a focal species: (1) identify loci under environmental selection, (2) model and map adaptive conservation units that may spawn future lineages, (3) forecast relative selection pressures on each future lineage, and (4) estimate their fitness and likelihood of persistence using geo‐genomic simulations. Using this process, we delineated conservation units for the Yosemite toad (Anaxyrus canorus), a U.S. federally threatened species that is highly vulnerable to climate change. We used a genome‐wide dataset, redundancy analysis, and Bayesian association methods to identify 24 candidate loci responding to climatic selection (R2 ranging from 0.09 to 0.52), after controlling for demographic structure. Candidate loci included genes such as MAP3K5, involved in cellular response to environmental change. We then forecasted future genomic response to climate change using the multivariate machine learning algorithm Gradient Forests. Based on all available evidence, we found three GEUs in Yosemite National Park, reflecting contrasting adaptive optima: YF‐North (high winter snowpack with moderate summer rainfall), YF‐East (low to moderate snowpack with high summer rainfall), and YF‐Low‐Elevation (low snowpack and rainfall). Simulations under the RCP 8.5 climate change scenario suggest that the species will decline by 29% over 90 years, but the highly diverse YF‐East lineage will be least impacted for two reasons: (1) geographically it will be sheltered from the largest climatic selection pressures, and (2) its standing genetic diversity will promote a faster adaptive response. Our approach provides a comprehensive strategy for protecting imperiled non‐model species with genomic data alone and has wide applicability to other declining species.",
+    "readLink": "https://doi.org/10.1111/eva.13511"
+  },
+  {
+    "title": "Health Impacts of Climate Change as Contained in Economic Models Estimating the Social Cost of Carbon Dioxide",
+    "authors": [
+      "Kevin Cromar,",
+      "Peter Howard,",
+      "Váleri N. Vásquez,",
+      "David Anthoff"
+    ],
+    "doi": "https://doi.org/10.1029/2021GH000405",
+    "journalVolume": "Vol. 5,\n                                no. 8\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2471-1403 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2471-1403/",
+    "abstract": "Abstract The health impacts of climate change are substantial and represent a primary motivating factor to mitigate climate change. However, the health impacts in economic models that estimate the social cost of carbon dioxide (SC‐CO2) have generally been made in isolation from health experts and have never been rigorously evaluated. Version 3.10 of the Framework for Uncertainty, Negotiation and Distribution (FUND) model was used to estimate the health‐based portion of current SC‐CO2 estimates across low‐, middle‐, and high‐income regions. In addition to the base model, three additional experiments assessed the sensitivity of these estimates to changes in the socio‐economic assumptions in the model. Economic impacts from adverse health outcomes represent ∼8.7% of current SC‐CO2 estimates. The majority of these health impacts (74%) were attributable to diarrhea mortality (from both low‐ and high‐income regions) followed by diarrhea morbidity (12%) and malaria mortality (11%); no other health impact makes a meaningful contribution to SC‐CO2 estimates in current economic models. The results of the socio‐economic experiments show that the health‐based portion of SC‐CO2 estimates are highly sensitive to assumptions regarding income elasticity of health effects, income growth, and use of equity weights. Improving the health‐based portion of SC‐CO2 estimates could have substantial impacts on magnitude of the SC‐CO2. Incorporating additional health impacts not previously included in estimates of SC‐CO2 will be a critical component of model updates. This effort will be most successful through coordination between economists and health researchers and should focus on updating the form and function of concentration‐response functions.",
+    "readLink": "https://doi.org/10.1029/2021GH000405"
+  },
+  {
+    "title": "A High Spatial Resolution Satellite Remote Sensing Time Series Analysis of Cape Bounty, Melville Island, Nunavut (2004–2018)",
+    "authors": [
+      "V. Freemantle,",
+      "J. Freemantle,",
+      "D. Atkinson,",
+      "P. Treitz"
+    ],
+    "doi": "https://doi.org/10.1080/07038992.2020.1866979",
+    "journalVolume": "Vol. 46,\n                                no. 6\n                                \n                                  pp.\n                                  733\n                                  – 752",
+    "issn": "1712-7971 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/ujrs20",
+    "abstract": "Changes in vegetation have been observed in areas of the Arctic due to changing climate. This study examines a normalized difference vegetation index (NDVI) time series (2004–2018) of high spatial resolution satellite data (i.e., IKONOS, WorldView-2, WorldView-3) to determine if vegetation abundance has changed over the Cape Bounty Arctic Watershed Observatory, Melville Island, Nunavut. Image data were corrected to top-of-atmosphere reflectance and normalized for time series analysis using the pseudo-invariant feature (PIF) method. Percent vegetation cover measurements and indices derived from local climate data (growing degree days base 5 °C; GDD5) were used to contextualize NDVI trends in different vegetation types and within active layer detachments (ALDs). NDVI showed similar patterns within the different vegetation types and across the ALDs. There was no significant change in NDVI nor in GDD5 over time. However, there were statistically significant (p < 0.05) relationships between the GDD5 and NDVI for all vegetation types. Using field measurements with high spatial resolution remote sensing data helps link changes in NDVI with changes to vegetation and earth surface processes. The challenges of integrating high spatial resolution satellite data from different sensors in a time series analysis are also discussed.",
+    "readLink": "http://dx.doi.org/10.1080/07038992.2020.1866979"
+  },
+  {
+    "title": "Effects of reanalysis forcing fields on ozone trends and age of air from a chemical transport model",
+    "authors": [
+      "Y. Li,",
+      "S. S. Dhomse,",
+      "S. S. Dhomse,",
+      "M. P. Chipperfield,",
+      "M. P. Chipperfield,",
+      "W. Feng,",
+      "W. Feng,",
+      "A. Chrysanthou,",
+      "Y. Xia,",
+      "D. Guo"
+    ],
+    "doi": "https://doi.org/10.5194/acp-22-10635-2022",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  10635\n                                  – 10656",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "We use TOMCAT, a 3-dimensional (3D) offline chemical transport model (CTM) forced by two different meteorological reanalysis data sets (ERA-Interim and ERA5) from the European Centre for Medium-Range weather Forecasts (ECMWF) to analyse seasonal behaviour and long-term trends in stratospheric ozone and mean age of air. The model-simulated ozone variations are evaluated against two observation-based data sets. For total column ozone (TCO) comparisons, we use the Copernicus Climate Change Service (C3S) data (1979–2019), while for ozone profiles we use the Stratospheric Water and OzOne Satellite Homogenized (SWOOSH) data set (1984–2019). We find that the CTM simulations forced by ERA-Interim (A_ERAI) and ERA5 (B_ERA5) can both successfully reproduce the spatial and temporal variations in stratospheric ozone. Also, modelled TCO anomalies from B_ERA5 show better agreement with C3S than A_ERAI, especially in Northern Hemisphere (NH) mid latitudes, except that it gives somewhat larger positive biases (> 15 DU, Dobson units) during winter–spring seasons. Ozone profile comparisons against SWOOSH data show larger differences between the two simulations. In the lower stratosphere, ozone differences can be directly attributed to the representation of dynamical processes, whereas in the upper stratosphere they can be directly linked to the differences in temperatures between ERAI and ERA5 data sets. Although TCO anomalies from B_ERA5 show relatively better agreement with C3S compared to A_ERAI, a comparison with SWOOSH data does not confirm that B_ERA5 performs better at simulating the variations in the stratospheric ozone profiles. We employ a multivariate regression model to quantify the TCO and ozone profile trends before and after peak stratospheric halogen loading in 1997. Our results show that, compared to C3S, TCO recovery trends (since 1998) in simulation B_ERA5 are significantly overestimated in the Southern Hemisphere (SH) mid latitudes, while for A_ERAI in the NH mid latitudes, simulated ozone trends remain negative. Similarly, in the lower stratosphere, B_ERA5 shows positive ozone recovery trends for both NH and SH mid latitudes. In contrast, both SWOOSH and A_ERAI show opposite (negative) trends in the NH mid latitudes. Furthermore, we analyse age of air (AoA) trends to diagnose transport differences between the two reanalysis data sets. Simulation B_ERA5 shows a positive AoA trend after 1998 and somewhat older age in the NH lower stratosphere compared to A_ERAI, indicating that a slower Brewer–Dobson circulation does not translate into reduced wintertime ozone buildup in the NH extratropical lower stratosphere. Overall, our results show that models forced by the most recent ERA5 reanalyses may not yet be capable of reproducing observed changes in stratospheric ozone, particularly in the lower stratosphere.",
+    "readLink": "https://acp.copernicus.org/articles/22/10635/2022/acp-22-10635-2022.pdf"
+  },
+  {
+    "title": "Airway epithelial cells exposed to wildfire smoke extract exhibit dysregulated autophagy and barrier dysfunction consistent with COPD",
+    "authors": [
+      "Eugene Roscioli,",
+      "Rhys Hamon,",
+      "Susan E. Lester,",
+      "Hubertus P. A. Jersmann,",
+      "Paul N. Reynolds,",
+      "Sandra Hodge"
+    ],
+    "doi": "https://doi.org/10.1186/s12931-018-0945-2",
+    "journalVolume": "Vol. 19,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "1465-9921 (Print)",
+    "publisher": "1465-993X (Online)",
+    "countryOfPublisher": "BMC",
+    "lcc": [
+      "United Kingdom",
+      "Medicine: Internal medicine: Specialties of internal medicine: Diseases of the respiratory system"
+    ],
+    "journalUrl": "https://respiratory-research.biomedcentral.com/",
+    "abstract": "Abstract Background Individuals with respiratory disease are being increasingly exposed to wildfire smoke as populations encroach further into forested regions and climate change continues to bring higher temperatures with lower rainfall. Frequent exposures have significant potential to accelerate conditions such as chronic obstructive pulmonary disease (COPD) which is characterised by an exaggerated inflammatory response to environmental stimuli. Here we employ models of human airway epithelium exposed to wildfire smoke-extract (WFSE) to examine modulation in airway epithelial cell (AEC) survival, fragility and barrier function. Methods Submerged cultures of small airway epithelial cells (SAEC) and differentiated air-liquid interface (ALI) cultures of primary bronchial AEC (bAEC) were treated for 1–24 h with 1–10% WFSE generated from plant species found in the Australian bushland. Autophagy (LC3-II and Sequestosome), apoptosis (Poly-(ADP)-Ribose Polymerase (PARP) cleavage) and tight junction proteins were measured using western blot. Barrier function was assessed via permeability of fluorescein tracers and measuring trans-epithelial electrical resistance. The production of IL-6 was assessed using ELISA. Results Primary epithelial models exposed to WFSE exhibited a significant blockade in autophagy as evidenced by an increase in LC3-II coupled with a concomitant elevation in Sequestosome abundance. These exposures also induced significant PARP cleavage indicative of apoptotic changes. ALI cultures of bAEC treated with 5% WFSE demonstrated barrier dysfunction with significant increases in paracellular molecular permeability and ionic conductance, and a reduction in the abundance of the tight junction proteins ZO-1 and Claudin-1. These cultures also exhibited increased IL-6 secretion consistent with the aberrant and pro-inflammatory repair response observed in the COPD airways. Further, blocks in autophagy and barrier disruption were significantly elevated in response to WFSE in comparison to similar exposures with cigarette smoke-extract. Conclusion WFSE inhibits autophagic flux and induces barrier dysfunction in the airway epithelium. As autophagy is a central regulator of cellular repair, viability, and inflammation, targeting the block in autophagic flux may ameliorate the consequences of wildfire smoke-exposure for individuals with pre-existing respiratory conditions.",
+    "readLink": "http://link.springer.com/article/10.1186/s12931-018-0945-2"
+  },
+  {
+    "title": "Green System Development in the Medinas of Tunis and Marrakesh—Green Heritage and Urban Livability",
+    "authors": [
+      "Sarah Ben Salem,",
+      "Chaima Lahmar,",
+      "Marianna Simon,",
+      "Kinga Szilágyi"
+    ],
+    "doi": "https://doi.org/10.3390/earth2040048",
+    "journalVolume": "Vol. 2,\n                                no. 48\n                                \n                                  pp.\n                                  809\n                                  – 825",
+    "issn": "2673-4834 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/earth",
+    "abstract": "Due to their authentic urban and architectural character, the Medinas of Tunis and Marrakesh became listed among the United Nations educational, scientific, and cultural organization (UNESCO) heritage sites in 1979 and 1985, respectively. Nowadays, the urbanization of the surrounding green areas and the climate change impacts on cities are degrading the Medinas’ livability and their characteristic heritage. On the other hand, scientific knowledge and data about the green system in the dense urban cores of Medinas in the Maghreb region is still not a widely apprehended theme in the scientific domain. This research objective is to initiate nature-based and sustainable solutions in these cities by demonstrating the application of the urban green infrastructure (UGI) approach. As a research methodology, an analysis of the historical green system development in the Medinas is given to highlight their tangible and intangible values. The analysis goes over three periods: first, the medieval Islamic era, then the modern period during the French colony, and the contemporary city as a unique urban landscape. Finally, the study proposes a design guideline to prove the applicability of the UGI in the given historical morphologies by implementing the retained historical values of the historic green heritage in Medinas and the aspects of the site.",
+    "readLink": "https://www.mdpi.com/2673-4834/2/4/48"
+  },
+  {
+    "title": "Interannual climate variability improves niche estimates for ectothermic but not endothermic species",
+    "authors": [
+      "Dirk Nikolaus Karger,",
+      "Bianca Saladin,",
+      "Rafael O. Wüest,",
+      "Catherine H. Graham,",
+      "Damaris Zurell,",
+      "Lidong Mo,",
+      "Niklaus E. Zimmermann"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-023-39637-x",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Climate is an important limiting factor of species’ niches and it is therefore regularly included in ecological applications such as species distribution models (SDMs). Climate predictors are often used in the form of long-term mean values, yet many species experience wide climatic variation over their lifespan and within their geographical range which is unlikely captured by long-term means. Further, depending on their physiology, distinct groups of species cope with climate variability differently. Ectothermic species, which are directly dependent on the thermal environment are expected to show a different response to temporal or spatial variability in temperature than endothermic groups that can decouple their internal temperature from that of their surroundings. Here, we explore the degree to which spatial variability and long-term temporal variability in temperature and precipitation change niche estimates for ectothermic (730 amphibian, 1276 reptile), and endothermic (1961 mammal) species globally. We use three different species distribution modelling (SDM) algorithms to quantify the effect of spatial and temporal climate variability, based on global range maps of all species and climate data from 1979 to 2013. All SDMs were cross-validated and accessed for their performance using the Area under the Curve (AUC) and the True Skill Statistic (TSS). The mean performance of SDMs using only climatic means as predictors was TSS = 0.71 and AUC = 0.90. The inclusion of spatial variability offers a significant gain in SDM performance (mean TSS = 0.74, mean AUC = 0.92), as does the inclusion of temporal variability (mean TSS = 0.80, mean AUC = 0.94). Including both spatial and temporal variability in SDMs shows the highest scores in AUC and TSS. Accounting for temporal rather than spatial variability in climate improved the SDM prediction especially in ectotherm groups such as amphibians and reptiles, while for endothermic mammals no such improvement was observed. These results indicate that including long term climate interannual climate variability into niche estimations matters most for ectothermic species that cannot decouple their physiology from the surrounding environment as endothermic species can.",
+    "readLink": "https://doi.org/10.1038/s41598-023-39637-x"
+  },
+  {
+    "title": "Analyzing the future climate change of Upper Blue Nile River basin using statistical downscaling techniques",
+    "authors": [
+      "D. Fenta Mekonnen,",
+      "D. Fenta Mekonnen,",
+      "M. Disse"
+    ],
+    "doi": "https://doi.org/10.5194/hess-22-2391-2018",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  2391\n                                  – 2408",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Climate change is becoming one of the most threatening issues for the world today in terms of its global context and its response to environmental and socioeconomic drivers. However, large uncertainties between different general circulation models (GCMs) and coarse spatial resolutions make it difficult to use the outputs of GCMs directly, especially for sustainable water management at regional scale, which introduces the need for downscaling techniques using a multimodel approach. This study aims (i) to evaluate the comparative performance of two widely used statistical downscaling techniques, namely the Long Ashton Research Station Weather Generator (LARS-WG) and the Statistical Downscaling Model (SDSM), and (ii) to downscale future climate scenarios of precipitation, maximum temperature (Tmax) and minimum temperature (Tmin) of the Upper Blue Nile River basin at finer spatial and temporal scales to suit further hydrological impact studies. The calibration and validation result illustrates that both downscaling techniques (LARS-WG and SDSM) have shown comparable and good ability to simulate the current local climate variables. Further quantitative and qualitative comparative performance evaluation was done by equally weighted and varying weights of statistical indexes for precipitation only. The evaluation result showed that SDSM using the canESM2 CMIP5 GCM was able to reproduce more accurate long-term mean monthly precipitation but LARS-WG performed best in capturing the extreme events and distribution of daily precipitation in the whole data range. Six selected multimodel CMIP3 GCMs, namely HadCM3, GFDL-CM2.1, ECHAM5-OM, CCSM3, MRI-CGCM2.3.2 and CSIRO-MK3 GCMs, were used for downscaling climate scenarios by the LARS-WG model. The result from the ensemble mean of the six GCM showed an increasing trend for precipitation, Tmax and Tmin. The relative change in precipitation ranged from 1.0 to 14.4 % while the change for mean annual Tmax may increase from 0.4 to 4.3 °C and the change for mean annual Tmin may increase from 0.3 to 4.1 °C. The individual result of the HadCM3 GCM has a good agreement with the ensemble mean result. HadCM3 from CMIP3 using A2a and B2a scenarios and canESM2 from CMIP5 GCMs under RCP2.6, RCP4.5 and RCP8.5 scenarios were downscaled by SDSM. The result from the two GCMs under five different scenarios agrees with the increasing direction of three climate variables (precipitation, Tmax and Tmin). The relative change of the downscaled mean annual precipitation ranges from 2.1 to 43.8 % while the change for mean annual Tmax and Tmin may increase in the range from 0.4 to 2.9 °C and from 0.3 to 1.6 °C respectively.",
+    "readLink": "https://www.hydrol-earth-syst-sci.net/22/2391/2018/hess-22-2391-2018.pdf"
+  },
+  {
+    "title": "Technical note: The CAMS greenhouse gas reanalysis from 2003 to 2020",
+    "authors": [
+      "A. Agustí-Panareda,",
+      "J. Barré,",
+      "S. Massart,",
+      "A. Inness,",
+      "I. Aben,",
+      "M. Ades,",
+      "B. C. Baier,",
+      "B. C. Baier,",
+      "G. Balsamo,",
+      "T. Borsdorff,",
+      "N. Bousserez,",
+      "S. Boussetta,",
+      "M. Buchwitz,",
+      "L. Cantarello,",
+      "C. Crevoisier,",
+      "R. Engelen,",
+      "H. Eskes,",
+      "J. Flemming,",
+      "S. Garrigues,",
+      "O. Hasekamp,",
+      "V. Huijnen,",
+      "L. Jones,",
+      "Z. Kipling,",
+      "B. Langerock,",
+      "J. McNorton,",
+      "N. Meilhac,",
+      "S. Noël,",
+      "M. Parrington,",
+      "V.-H. Peuch,",
+      "M. Ramonet,",
+      "M. Razinger,",
+      "M. Reuter,",
+      "R. Ribas,",
+      "M. Suttie,",
+      "C. Sweeney,",
+      "J. Tarniewicz,",
+      "L. Wu"
+    ],
+    "doi": "https://doi.org/10.5194/acp-23-3829-2023",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  pp.\n                                  3829\n                                  – 3859",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "The Copernicus Atmosphere Monitoring Service (CAMS) has recently produced a greenhouse gas reanalysis (version egg4) that covers almost 2 decades from 2003 to 2020 and which will be extended in the future. This reanalysis dataset includes carbon dioxide (CO2) and methane (CH4). The reanalysis procedure combines model data with satellite data into a globally complete and consistent dataset using the European Centre for Medium-Range Weather Forecasts' Integrated Forecasting System (IFS). This dataset has been carefully evaluated against independent observations to ensure validity and to point out deficiencies to the user. The greenhouse gas reanalysis can be used to examine the impact of atmospheric greenhouse gas concentrations on climate change (such as global and regional climate radiative forcing), assess intercontinental transport, and serve as boundary conditions for regional simulations, among other applications and scientific uses. The caveats associated with changes in assimilated observations and fixed underlying emissions are highlighted, as is their impact on the estimation of trends and annual growth rates of these long-lived greenhouse gases.",
+    "readLink": "https://acp.copernicus.org/articles/23/3829/2023/acp-23-3829-2023.pdf"
+  }
+]

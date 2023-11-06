@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Temporal response of the tiger salamander (<it>Ambystoma tigrinum</it>) to 3,000 years of climatic variation",
+    "authors": [
+      "Long Webb,",
+      "Bruzgul Judsen E,",
+      "Hadly Elizabeth A"
+    ],
+    "doi": "https://doi.org/10.1186/1472-6785-5-7",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  p.\n                                  7",
+    "issn": "1472-6785 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://bmcecol.biomedcentral.com",
+    "abstract": "Abstract Background Amphibians are sensitive indicators of environmental conditions and show measurable responses, such as changes in phenology, abundance and range limits to local changes in precipitation and temperature regimes. Amphibians offer unique opportunities to study the important ecological and evolutionary implications of responses in life history characteristics to climatic change. We analyzed a late-Holocene fossil record of the Tiger Salamander (Ambystoma tigrinum) for evidence of population-level changes in body size and paedomorphosis to climatic change over the last 3000 years. Results We found a significant difference in body size index between paedomorphic and metamorphic individuals during the time interval dominated by the Medieval Warm Period. There is a consistent ratio of paedomorphic to metamorphic specimens through the entire 3000 years, demonstrating that not all life history characteristics of the population were significantly altered by changes in climate on this timescale. Conclusion The fossil record of Ambystoma tigrinum we used spans an ecologically relevant timescale appropriate for understanding population and community response to projected climatic change. The population-level responses we documented are concordant with expectations based on modern environmental studies, and yield insight into population-level patterns across hundreds of generations, especially the independence of different life history characteristics. These conclusions lead us to offer general predictions about the future response of this species based on likely scenarios of climatic warming in the Rocky Mountain region.",
+    "readLink": "http://www.biomedcentral.com/1472-6785/5/7"
+  },
+  {
+    "title": "Using high-resolution global climate models from the PRIMAVERA project to create a European winter windstorm event set",
+    "authors": [
+      "J. F. Lockwood,",
+      "G. S. Guentchev,",
+      "A. Alabaster,",
+      "S. J. Brown,",
+      "E. J. Palin,",
+      "M. J. Roberts,",
+      "H. E. Thornton"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-22-3585-2022",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  3585\n                                  – 3606",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "PRIMAVERA (process-based climate simulation: advances in high-resolution modelling and European climate risk assessments) was a European Union Horizon 2020 project whose primary aim was to generate advanced and well-evaluated high-resolution global climate model datasets for the benefit of governments, business and society in general. Following consultation with members of the insurance industry, we have used a PRIMAVERA multi-model ensemble to generate a European winter windstorm event set for use in insurance risk analysis, containing approximately 1300 years of windstorm data. The data are available at https://doi.org/10.5281/zenodo.6492182. To create the storm footprints for the event set, the storms in the PRIMAVERA models are identified through tracking. A method is developed to separate the winds from storms occurring in the domain at the same time. The wind footprints are bias corrected and converted to 3 s gusts onto a uniform grid using quantile mapping. The distribution of the number of model storms per season as a function of estimated loss is consistent with re-analysis, as are the total losses per season, and the additional event set data greatly reduce uncertainty on return period magnitudes. The event set also reproduces the temporally clustered nature of European windstorms. Since the event set is generated from global climate models, it can help to quantify the non-linear relationship between large-scale climate indices such as the North Atlantic Oscillation (NAO) and windstorm damage. Although we find only a moderate positive correlation between extended winter NAO and storm damage in northern European countries (consistent with re-analysis), there is a large change in risk of extreme seasons between negative and positive NAO states. The intensities of the most severe storms in the event set are, however, sensitive to the gust conversion and bias correction method used, so care should be taken when interpreting the expected damages for very long return periods.",
+    "readLink": "https://nhess.copernicus.org/articles/22/3585/2022/nhess-22-3585-2022.pdf"
+  },
+  {
+    "title": "Genomic tools in pearl millet breeding for drought tolerance: Status and prospects",
+    "authors": [
+      "Desalegn Debelo Serba,",
+      "Rattan S Yadav"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2016.01724",
+    "journalVolume": "Vol. 7",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Pearl millet (Penisetum glaucum (L) R. Br.) is a hardy cereal crop grown in the arid and semiarid tropics where other cereals are likely to fail to produce economic yields due to drought and heat stresses. Adaptive evolution, a form of natural selection shaped the crop to grow and yield satisfactorily with limited moisture supply or under periodic water deficits in the soil. Drought tolerance is a complex polygenic trait that various morphological and physiological responses are controlled by hundreds of genes and significantly influenced by the environment. The development of genomic tools will have enormous potential to improve the efficiency and precision of conventional breeding. The apparent independent domestication events, highly outcrossing nature and traditional cultivation in stressful environments maintained tremendous amount of polymorphism in pearl millet. This high polymorphism of the crop has been revealed by genome mapping that in turn stimulated the mapping and tagging of genomic regions controlling important traits such as drought tolerance. Mapping of a major QTL for terminal drought tolerance in independent populations envisaged the prospect for the development of molecular breeding in pearl millet. To accelerate genetic gains for drought tolerance targeted novel approaches such as establishment of marker-trait associations, genomic selection tools, genome sequence and genotyping-by-sequencing are still limited. Development and application of high throughput genomic tools need to be intensified to improve the breeding efficiency of pearl millet to minimize the impact of climate change on its production.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fpls.2016.01724/full"
+  },
+  {
+    "title": "Applying a Multi-Model Ensemble Method for Long-Term Runoff Prediction under Climate Change Scenarios for the Yellow River Basin, China",
+    "authors": [
+      "Linus Zhang,",
+      "Xiaoliu Yang"
+    ],
+    "doi": "https://doi.org/10.3390/w10030301",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  p.\n                                  301",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Given the substantial impacts that are expected due to climate change, it is crucial that accurate rainfall–runoff results are provided for various decision-making purposes. However, these modeling results often generate uncertainty or bias due to the imperfect character of individual models. In this paper, a genetic algorithm together with a Bayesian model averaging method are employed to provide a multi-model ensemble (MME) and combined runoff prediction under climate change scenarios produced from eight rainfall–runoff models for the Yellow River Basin. The results show that the multi-model ensemble method, especially the genetic algorithm method, can produce more reliable predictions than the other considered rainfall–runoff models. These results show that it is possible to reduce the uncertainty and thus improve the accuracy for future projections using different models because an MME approach evens out the bias involved in the individual model. For the study area, the final combined predictions reveal that less runoff is expected under most climatic scenarios, which will threaten water security of the basin.",
+    "readLink": "http://www.mdpi.com/2073-4441/10/3/301"
+  },
+  {
+    "title": "Influence of ontogenetic development, temperature, and pCO2 on otolith calcium carbonate polymorph composition in sturgeons",
+    "authors": [
+      "Alison R. Loeppky,",
+      "Luke D. Belding,",
+      "Alex R. Quijada-Rodriguez,",
+      "John D. Morgan,",
+      "Brenda M. Pracheil,",
+      "Bryan C. Chakoumakos,",
+      "W. Gary Anderson"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-93197-6",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Changes to calcium carbonate (CaCO3) biomineralization in aquatic organisms is among the many predicted effects of climate change. Because otolith (hearing/orientation structures in fish) CaCO3 precipitation and polymorph composition are controlled by genetic and environmental factors, climate change may be predicted to affect the phenotypic plasticity of otoliths. We examined precipitation of otolith polymorphs (aragonite, vaterite, calcite) during early life history in two species of sturgeon, Lake Sturgeon, (Acipenser fulvescens) and White Sturgeon (A. transmontanus), using quantitative X-ray microdiffraction. Both species showed similar fluctuations in otolith polymorphs with a significant shift in the proportions of vaterite and aragonite in sagittal otoliths coinciding with the transition to fully exogenous feeding. We also examined the effect of the environment on otolith morphology and polymorph composition during early life history in Lake Sturgeon larvae reared in varying temperature (16/22 °C) and pCO2 (1000/2500 µatm) environments for 5 months. Fish raised in elevated temperature had significantly increased otolith size and precipitation of large single calcite crystals. Interestingly, pCO2 had no statistically significant effect on size or polymorph composition of otoliths despite blood pH exhibiting a mild alkalosis, which is contrary to what has been observed in several studies on marine fishes. These results suggest climate change may influence otolith polymorph composition during early life history in Lake Sturgeon.",
+    "readLink": "https://doi.org/10.1038/s41598-021-93197-6"
+  },
+  {
+    "title": "Distribution and Environmental Drivers of Fungal Denitrifiers in Global Soils",
+    "authors": [
+      "Yvonne Bösch,",
+      "Grace Pold,",
+      "Aurélien Saghaï,",
+      "Magnus Karlsson,",
+      "Christopher M. Jones,",
+      "Sara Hallin"
+    ],
+    "doi": "https://doi.org/10.1128/spectrum.00061-23",
+    "journalVolume": "Vol. 11,\n                                no. 3",
+    "issn": "2165-0497 (Online)",
+    "publisher": "American Society for Microbiology",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "https://journals.asm.org/journal/spectrum",
+    "abstract": "ABSTRACT The microbial process of denitrification is the primary source of the greenhouse gas nitrous oxide (N2O) from terrestrial ecosystems. Fungal denitrifiers, unlike many bacteria, lack the N2O reductase, and thereby are sources of N2O. Still, their diversity, global distribution, and environmental determinants, as well as their relative importance, compared to bacterial and archaeal denitrifiers, remain unresolved. Employing a phylogenetically informed approach to analyze 1,980 global soil and rhizosphere metagenomes for the denitrification marker gene nirK, which codes for the copper dependent nitrite reductase in denitrification, we show that fungal denitrifiers are sparse, yet cosmopolitan and that they are dominated by saprotrophs and pathogens. Few showed biome-specific distribution patterns, although members of the Fusarium oxysporum species complex, which are known to produce substantial amounts of N2O, were proportionally more abundant and diverse in the rhizosphere than in other biomes. Fungal denitrifiers were most frequently detected in croplands, but they were most abundant in forest soils when normalized to metagenome size. Nevertheless, the overwhelming dominance of bacterial and archaeal denitrifiers suggests a much lower fungal contribution to N2O emissions than was previously estimated. In relative terms, they could play a role in soils that are characterized by a high carbon to nitrogen ratio and a low pH, especially in the tundra as well as in boreal and temperate coniferous forests. Because global warming predicts the proliferation of fungal pathogens, the prevalence of potential plant pathogens among fungal denitrifiers and the cosmopolitan distribution of these organisms suggest that fungal denitrifier abundance may increase in terrestrial ecosystems. IMPORTANCE Fungal denitrifiers, in contrast to their bacterial counterparts, are a poorly studied functional group within the nitrogen cycle, even though they produce the greenhouse gas N2O. To curb soil N2O emissions, a better understanding of their ecology and distribution in soils from different ecosystems is needed. Here, we probed a massive amount of DNA sequences and corresponding soil data from a large number of samples that represented the major soil environments for a broad understanding of fungal denitrifier diversity at the global scale. We show that fungal denitrifiers are predominantly cosmopolitan saprotrophs and opportunistic pathogens. Fungal denitrifiers constituted, on average, 1% of the total denitrifier community. This suggests that earlier estimations of fungal denitrifier abundance, and, thereby, it is also likely that the contributions of fungal denitrifiers to N2O emissions have been overestimated. Nevertheless, with many fungal denitrifiers being plant pathogens, they could become increasingly relevant, as soilborne pathogenic fungi are predicted to increase with ongoing climate change.",
+    "readLink": "https://journals.asm.org/doi/10.1128/spectrum.00061-23"
+  },
+  {
+    "title": "Carbon capture and storage (CCS)",
+    "authors": [
+      "Della Moretta Davide,",
+      "Craig Jonathan"
+    ],
+    "doi": "https://doi.org/10.1051/epjconf/202226800005",
+    "journalVolume": "Vol. 268\n                                \n                                \n                                  p.\n                                  00005",
+    "issn": "2100-014X (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Science: Physics"
+    ],
+    "journalUrl": "http://www.epj-conferences.org/",
+    "abstract": "Carbon Capture and Storage (CCS) is an important tool for the decarbonization of the energy system to achieve the mid-century global climate change targets. CO2 is captured using diﬀerent industrial processes that involve membrane filtering or enhanced combustion. The CO2 is then transported, preferably by pipeline, to a storage site where it is injected into a permeable reservoir. Sealing capacity of the storage site is of paramount importance for safe CO2 sequestration, to avoid any geological leakage. Each CCS project must have a dedicated MMV (Measurement, Monitoring and Verification) programme to ensure conformance with the expected evolution of the CO2 plume and its containment within the storage site. Eni is committed to the implementation of CCS, with several ongoing projects.",
+    "readLink": "https://www.epj-conferences.org/articles/epjconf/pdf/2022/12/epjconf_lnes2022_00005.pdf"
+  },
+  {
+    "title": "Role of the ocean in global and regional climate change",
+    "authors": [
+      "S. A. Lysenko,",
+      "V. F. Loginov"
+    ],
+    "doi": "Vol. 0,\n                                no. 7\n                                \n                                  pp.\n                                  58\n                                  – 63",
+    "issn": "1729-7648 (Print)",
+    "publisher": "Educational institution «Belarusian State University of Informatics and Radioelectronics»",
+    "countryOfPublisher": "Belarus",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Electronics"
+    ],
+    "journalUrl": "https://doklady.bsuir.by/",
+    "abstract": "Исследованы внешние и внутренние климатообразующие факторы. Мировой океан рассматривается как главный модулятор современных естественных изменений климата в контексте его влияния на испарение в атмосферу и формирование облаков. Особое внимание уделено исследованию процессов замедления темпов роста среднеглобальной температуры. На основе данных дистанционного зондирования Земли и компьютерного моделирования показана тесная связь глобального и регионального климата с аномалиями температуры в тропической зоне Тихого океана. Установлены связанные с океаном индексы, позволяющие с заблаговременностью в полгода предсказывать экстремальность климата Беларуси в летние месяцы.",
+    "readLink": "https://doklady.bsuir.by/jour/article/view/1042"
+  },
+  {
+    "title": "Smart Resilience City As An Approach To Improve Disaster Risk Reduction",
+    "authors": [
+      "Nada Samir Farag,",
+      "Gehan Elsayed Abd eldayem,",
+      "Ahmed Saleh Abd Elfatah"
+    ],
+    "doi": "https://doi.org/10.21608/jur.2023.157191.1106",
+    "journalVolume": "Vol. 47,\n                                no. 1\n                                \n                                  pp.\n                                  120\n                                  – 139",
+    "issn": "2090-0694 (Print)",
+    "publisher": "2682-4515 (Online)",
+    "countryOfPublisher": "Cairo University, Faculty of Urban and Regional Planning in Cooperation with The Egyptian Knowledge Bank (EKB).",
+    "lcc": [
+      "Egypt",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography: Settlements: Cities. Urban geography",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: Urbanization. City and country"
+    ],
+    "journalUrl": "https://jur.journals.ekb.eg/",
+    "abstract": "Cities confront massive issues like Disasters, climate change, urbanization, population growth, and economic growth; it is necessary to reduce their impact to the minimum possible. To accomplish this, A smart, resilient society intended to manage cities using Big Data, the Internet of Things (IoT), and intelligent information technologies to improve the ability to resist, absorb, and adapt to external changes resulting in urban resilience. Beyond that, constructing a smart, resilient city is a more advanced strategy for reducing vulnerabilities to emergencies like the COVID-19 pandemic and natural disasters like earthquakes and tsunamis. This study proposes a conceptual design for smart resilience cities and explores how a system can improve risk reduction and adaptation approaches and natural disaster recovery. Using various examples, the various states how smart cities' characteristics help cities be more resilient to disasters. The paper explains the differences and similarities between a smart city and a resilient city.",
+    "readLink": "https://jur.journals.ekb.eg/article_282698_0c783e8d217761b6d387792eb4960860.pdf"
+  },
+  {
+    "title": "Two Birds, One Stone: The Effectiveness of Health and Environmental Messages to Reduce Meat Consumption and Encourage Pro-environmental Behavioral Spillover",
+    "authors": [
+      "Emily Wolstenholme,",
+      "Wouter Poortinga,",
+      "Wouter Poortinga,",
+      "Lorraine Whitmarsh"
+    ],
+    "doi": "https://doi.org/10.3389/fpsyg.2020.577111",
+    "journalVolume": "Vol. 11",
+    "issn": "1664-1078 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Psychology"
+    ],
+    "journalUrl": "http://frontiersin.org/psychology",
+    "abstract": "There is a growing consensus that reducing excess meat consumption will be necessary to meet climate change targets, whilst also benefitting people’s health. Strategies aimed at encouraging reduced meat consumption also have the potential to promote additional pro-environmental behaviors through behavioral spillover, which can be catalyzed through an increased pro-environmental identity. Based on this, the current study tested the effectiveness of a randomized two-week messaging intervention on reducing red and processed meat consumption and encouraging pro-environmental behavioral spillover. Participants were undergraduate students in the United Kingdom (n = 320 at baseline) randomly allocated to four conditions in which they received information about the health, environmental, or combined (health and environmental) impacts of meat consumption, and a no-message control. The results showed that receiving information on the health and/or environmental impacts of meat was effective in reducing red and processed meat consumption compared to the control group during the intervention period, with some effects remaining one-month later. However, the intervention did not have any effect on pro-environmental identity and there was little evidence of behavioral spillover. Implications for future research and interventions aimed at reducing meat consumption are discussed.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpsyg.2020.577111/full"
+  }
+]

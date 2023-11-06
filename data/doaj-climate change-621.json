@@ -1,0 +1,221 @@
+[
+  {
+    "title": "Stomatal Development and Conductance of a Tropical Forage Legume Are Regulated by Elevated [CO2] Under Moderate Warming",
+    "authors": [
+      "Eduardo Habermann,",
+      "Eduardo A. Dias de Oliveira,",
+      "Daniele Ribeiro Contin,",
+      "Juca A. B. San Martin,",
+      "Lucas Curtarelli,",
+      "Miquel A. Gonzalez-Meler,",
+      "Carlos Alberto Martinez"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2019.00609",
+    "journalVolume": "Vol. 10",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "The opening and closing of stomata are controlled by the integration of environmental and endogenous signals. Here, we show the effects of combining elevated atmospheric carbon dioxide concentration (eCO2; 600 μmol mol-1) and warming (+2°C) on stomatal properties and their consequence to plant function in a Stylosanthes capitata Vogel (C3) tropical pasture. The eCO2 treatment alone reduced stomatal density, stomatal index, and stomatal conductance (gs), resulting in reduced transpiration, increased leaf temperature, and leading to maintenance of soil moisture during the growing season. Increased CO2 concentration inside leaves stimulated photosynthesis, starch content levels, water use efficiency, and PSII photochemistry. Under warming, plants developed leaves with smaller stomata on both leaf surfaces; however, we did not see effects of warming on stomatal conductance, transpiration, or leaf water status. Warming alone enhanced PSII photochemistry and photosynthesis, and likely starch exports from chloroplasts. Under the combination of warming and eCO2, leaf temperature was higher than that of leaves from the warming or eCO2 treatments. Thus, warming counterbalanced the effects of CO2 on transpiration and soil water content but not on stomatal functioning, which was independent of temperature treatment. Under warming, and in combination with eCO2, leaves also produced more carotenoids and a more efficient heat and fluorescence dissipation. Our combined results suggest that control on stomatal opening under eCO2 was not changed by a warmer environment; however, their combination significantly improved whole-plant functioning.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2019.00609/full"
+  },
+  {
+    "title": "A novel method for calculating ambient aerosol liquid water content based on measurements of a humidified nephelometer system",
+    "authors": [
+      "Y. Kuang,",
+      "C. S. Zhao,",
+      "G. Zhao,",
+      "J. C. Tao,",
+      "W. Xu,",
+      "N. Ma,",
+      "Y. X. Bian"
+    ],
+    "doi": "https://doi.org/10.5194/amt-11-2967-2018",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  2967\n                                  – 2982",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "Water condensed on ambient aerosol particles plays significant roles in atmospheric environment, atmospheric chemistry and climate. Before now, no instruments were available for real-time monitoring of ambient aerosol liquid water contents (ALWCs). In this paper, a novel method is proposed to calculate ambient ALWC based on measurements of a three-wavelength humidified nephelometer system, which measures aerosol light scattering coefficients and backscattering coefficients at three wavelengths under dry state and different relative humidity (RH) conditions, providing measurements of light scattering enhancement factor f(RH). The proposed ALWC calculation method includes two steps: the first step is the estimation of the dry state total volume concentration of ambient aerosol particles, Va(dry), with a machine learning method called random forest model based on measurements of the dry nephelometer. The estimated Va(dry) agrees well with the measured one. The second step is the estimation of the volume growth factor Vg(RH) of ambient aerosol particles due to water uptake, using f(RH) and the Ångström exponent. The ALWC is calculated from the estimated Va(dry) and Vg(RH). To validate the new method, the ambient ALWC calculated from measurements of the humidified nephelometer system during the Gucheng campaign was compared with ambient ALWC calculated from ISORROPIA thermodynamic model using aerosol chemistry data. A good agreement was achieved, with a slope and intercept of 1.14 and −8.6 µm3 cm−3 (r2 = 0.92), respectively. The advantage of this new method is that the ambient ALWC can be obtained solely based on measurements of a three-wavelength humidified nephelometer system, facilitating the real-time monitoring of the ambient ALWC and promoting the study of aerosol liquid water and its role in atmospheric chemistry, secondary aerosol formation and climate change.",
+    "readLink": "https://www.atmos-meas-tech.net/11/2967/2018/amt-11-2967-2018.pdf"
+  },
+  {
+    "title": "Efficient Management of Power Losses from Renewable Sources Using Removable E.V. Batteries",
+    "authors": [
+      "Claudiu George Bocean,",
+      "Anca Antoaneta Vărzaru,",
+      "Andreea Teodora Al-Floarei,",
+      "Simona Dumitriu,",
+      "Dragoş Laurenţiu Diaconescu,",
+      "Mihai Constantin Răzvan Barbu"
+    ],
+    "doi": "https://doi.org/10.3390/app11146413",
+    "journalVolume": "Vol. 11,\n                                no. 6413\n                                \n                                  p.\n                                  6413",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "Electric vehicles (E.V.) are one of the feasible solutions to address the challenges of sustainable development that require particular attention, such as climate change, depletion of fossil fuel reserves, and greenhouse gas emissions. In addition to the environmental benefits of electric vehicles, they can also be used as a storage system to alleviate the challenges posed by the variability of renewable electricity sources and to provide the network with ancillary benefits, such as voltage regulation and frequency regulation. Furthermore, using removable batteries by electric vehicles to store renewable energy is an innovative and effective solution to combat the increase in GHG emissions. In this article, using the autoregressive integrated moving average forecast model, we estimate the necessary storage capacity to contribute to the adjustment of the energy system increasingly powered by renewable energy sources. Also, we estimate the number of electric vehicles needed to take over the excess energy produced by renewable sources when the conventional grid cannot take over this surplus. The forecasts have the year 2050 as a time horizon. The results show that removable E.V. batteries can be an efficient solution for managing and storing energy lost in the temporal incongruity of demand with supply in the energy market.",
+    "readLink": "https://www.mdpi.com/2076-3417/11/14/6413"
+  },
+  {
+    "title": "Opinions on Sustainability of Smart Cities in the Context of Energy Challenges Posed by Cryptocurrency Mining",
+    "authors": [
+      "Oluwaseun Fadeyi,",
+      "Ondrej Krejcar,",
+      "Petra Maresova,",
+      "Kamil Kuca,",
+      "Peter Brida,",
+      "Ali Selamat"
+    ],
+    "doi": "https://doi.org/10.3390/su12010169",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  p.\n                                  169",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Next to climate change on the list of challenges faced by humankind in today’s technological age is energy management. While “smart” ideas continue to gather momentum as some of the ways earmarked to combat the menace of a changing climate, coupled with efficient management of energy, research and development in the blockchain is not retracting, recently giving rise to digital currencies capable of fueling massive energy consumption via mining of “crypto-coins”. Given that sustainability is a crucial goal in the design of smart cities nowadays, there are currently no assurances of sustainable cities where cryptocurrency mining is at full scale. Nevertheless, alternative energy sources may come to the rescue in no distant time. In this paper, we contextualize energy-use in smart cities through mining of virtual currencies, in order to predict whether or not smart cities can truly be sustainable if crypto-mining is sustained. An attempt is also made to emphasize the possible ways of reducing energy use and all activities involving digital currencies by seeking to replace “Proof of Work” (PoW) with improved alternatives.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/1/169"
+  },
+  {
+    "title": "Unlocking climate finance potential and policy barriers—A case of renewable energy and energy efficiency in Sub-Saharan Africa",
+    "authors": [
+      "Edward M. Mungai,",
+      "S. Wagura Ndiritu,",
+      "Izael Da Silva"
+    ],
+    "doi": "Vol. 7\n                                \n                                \n                                  p.\n                                  100043",
+    "issn": "2666-9161 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/resources-environment-and-sustainability/",
+    "abstract": "Sub-Saharan African is in a unique position to reap the socio-economic and environmental benefits of renewable resources, and the energy efficiency practices as the demand for energy in the continent grows. Assessment of the financing potential and the related obstacles for the financing deployment of renewable energy and energy efficiency sectors mapping will be a step forward to help in mobilizing the financial flows into sectors. With the Sub-Saharan Africa population growth, urbanization, economic growth coupled with the global commitment of Sustainable Energy for All Initiative, the need for accessible clean energy has never been more urgent. This paper aims to assess the renewable energy (RE) and energy-efficient (E.E.) investment potential as well as policy barriers in Sub-Saharan Africa (SSA). Analyzing five investment indicators, using secondary sources of information, and conducting interviews with key stakeholders. The RE and E.E. investment potential, investment gap, and policy barriers in 14 countries from West, Central, Southern, and East Africa was quantified conducted. The result of the study indicates a promising yet very susceptible future for the implementation of RE and E.E. in SSA. To enhance access to electricity, promote energy security, and propel economic growth in an environmentally friendly approach, SSA has to overcome the significant challenge of inadequate private and public funding for the energy sector. The conclusion is that there is a need to address the institutional knowledge gaps and policy gaps that will be key to helping in unlocking the financing potential of RE and E.E. in the continent of Africa.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S266691612100030X"
+  },
+  {
+    "title": "Le catastrophisme écologique contre la démocratie",
+    "authors": [
+      "Antoine Chollet,",
+      "Romain Felli"
+    ],
+    "doi": "https://doi.org/10.4000/vertigo.16427",
+    "journalVolume": "Vol. 15,\n                                no. 2",
+    "issn": "1492-8442 (Online)",
+    "publisher": "Éditions en environnement VertigO",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://vertigo.revues.org/",
+    "abstract": "In this article we aim to analyze the specific temporal regimes associated with the discourses of environmental – and especially, climatic – catastrophe. By empirically describing and analyzing the images of the future used in catastrophist discourses, we seek to demonstrate that these discourses lead to anti-democratic political positions. Hence, we normatively argue for the replacement of these discourses by another understanding of the future, of temporality, and of time itself, and we theoretically define the lineaments of such an understanding. Finally, our aim is not to challenge the severity of the current ecological crises but rather, by way of reframing these crises in a present setting, and by pointing to their contradictory multiplicity, to contribute to a serious assessment of their nature. Only thus, is it possible to acknowledge the possibility of a democratic politics of socio-ecological relations.",
+    "readLink": "http://journals.openedition.org/vertigo/16427"
+  },
+  {
+    "title": "Vectors as Sentinels: Rising Temperatures Increase the Risk of <i>Xylella fastidiosa</i> Outbreaks",
+    "authors": [
+      "Pauline Farigoule,",
+      "Marguerite Chartois,",
+      "Xavier Mesmin,",
+      "Maxime Lambert,",
+      "Jean-Pierre Rossi,",
+      "Jean-Yves Rasplus,",
+      "Astrid Cruaud"
+    ],
+    "doi": "https://doi.org/10.3390/biology11091299",
+    "journalVolume": "Vol. 11,\n                                no. 1299\n                                \n                                  p.\n                                  1299",
+    "issn": "2079-7737 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biology",
+    "abstract": "Global change is expected to modify the threat posed by pathogens to plants. However, little is known regarding how a changing climate will influence the epidemiology of generalist vector-borne diseases. We developed a high-throughput screening method to test for the presence of a deadly plant pathogen, Xylella fastidiosa, in its insect vectors. Then, using data from a four-year survey in climatically distinct areas of Corsica (France), we demonstrated a positive correlation between the proportion of vectors positive to X. fastidiosa and temperature. Notably, a higher prevalence corresponded with milder winters. Our projections up to 2100 indicate an increased risk of outbreaks. While the proportion of vectors that carry the pathogen should increase, the climate conditions will remain suitable for the bacterium and its main vector, with possible range shifts towards a higher elevation. Besides calling for research efforts to limit the incidence of plant diseases in the temperate zone, this work reveals that recent molecular technologies could and should be used for massive screening of pathogens in vectors to scale-up surveillance and management efforts.",
+    "readLink": "https://www.mdpi.com/2079-7737/11/9/1299"
+  },
+  {
+    "title": "Hydrological science and wetland restoration: some case studies from Europe",
+    "authors": [],
+    "doi": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  158\n                                  – 169",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Throughout the world, wetlands are increasingly being recognised as important elements of the landscape because of their high biodiversity and goods and services they provide to mankind. After many decades of wetland destruction and conversion, large areas of wetlands are now protected under the International Convention on Wetlands (Ramsar) and regional or national legislation such as the European Union Habitats Directive. In many cases, there is a need to restore the ecological character of the wetland through appropriate water management. This paper provides examples of scientific knowledge of wetland hydrology that can guide such restoration. It focuses on the need for sound hydrological science on a range of issues including water level control, topography, flood storage, wetland connections with rivers and sustainability of water supply under climate change.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/11/158/2007/hess-11-158-2007.pdf"
+  },
+  {
+    "title": "Genetic Potential and Inheritance Pattern of Phenological Growth and Drought Tolerance in Cotton (Gossypium Hirsutum L.)",
+    "authors": [
+      "Tahir Mahmood,",
+      "Xiukang Wang,",
+      "Sunny Ahmar,",
+      "Muhammad Abdullah,",
+      "Muhammad Shahid Iqbal,",
+      "Rashid Mehmood Rana,",
+      "Muhammad Yasir,",
+      "Shiguftah Khalid,",
+      "Talha Javed,",
+      "Freddy Mora-Poblete,",
+      "Jen-Tsung Chen,",
+      "Muhammad Kausar Nawaz Shah,",
+      "Xiongming Du"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2021.705392",
+    "journalVolume": "Vol. 12",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Cotton has prime importance in the global economy and governs socio-economic affairs of the world. Water scarcity and high temperature are major constraints that badly affect cotton production, which shows the need for the development of drought-tolerant varieties. Ten cotton genotypes, including three drought-tolerant and seven susceptible, were identified from a panel of diverse cotton genotypes at the seedling stage under two contrasting water regimes. Three lines were crossed with seven testers under line × tester mating design. The 21 F1 cross combinations along with 10 parents were evaluated under 100% non-stress (NS) and 50% drought stress (DS) filed capacity to assess the effects of drought stress and its inheritance in the next generation. All the genotypes were evaluated till the maturity stage for combining ability, heritability, and other genetic factors to understand the drought tolerance mechanisms. The proportional contribution of lines in the total variance evidenced that lines had a significant higher contribution in total variance for days to boll opening (DBO) of 10% and proline contents (PC) of 13% under DS conditions. It indicates that lines contributed more positive alleles for such traits. Under DS condition, DTV-9 × BT-252 and DTV-9 × DTV-10 had maximum negative specific combining ability (SCA) effects for DBO. Simultaneously, DBO also had higher heritability (h2) which indicates its dominant gene action and meanwhile, the importance of these combinations for the early mature and short duration variety development. The results revealed that most of the studied traits, including days taken to maturity, yield traits, and physiological traits, are under significant genetic control, with a strong genetic basis and have a huge potential for improving drought tolerance in cotton. Drought tolerance was found to have a strong association with early maturity and agro-climatic conditions of the cultivated areas. Identified superior parents in this study are suggested to use in the future breeding program to advance the cotton growth and drought tolerance.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2021.705392/full"
+  },
+  {
+    "title": "REVIEW ON THE BURGER EFFECT: BEEF INDUSTRY AND CLIMATE CHANGE",
+    "authors": [
+      "Rehab Rayan"
+    ],
+    "doi": "https://doi.org/10.37557/gjphm.v2iSP1.39",
+    "journalVolume": "Vol. 2,\n                                no. SP1",
+    "issn": "2664-4657 (Online)",
+    "publisher": "Education in Action Club",
+    "countryOfPublisher": "Malaysia",
+    "lcc": [
+      "Medicine: Medicine (General)"
+    ],
+    "journalUrl": "https://www.gjphm.org/index.php/gjphm/index",
+    "abstract": "The world needs to decrease emissions from agriculture, and fossil fuels to halt global warming adequately. Animal-based meals are nourishing and very vital to livings and nutrition in developing nations, though they are a similarly incompetent source. Producing beef is growing further dynamic, yet forests are still being cut down. People state they desire to consume more plants, although eating beef is yet increasing. Consuming meat is among the main factors for global warming. Provided that the globally growing market for meat, and the severe effect of manufacturing meat on the planet, cutting down animal protein regarded as public health and food security concern. A future with sustainable food would need a variety of approaches from the farmer to the consumer. This review explores the relation between producing beef and the emission of greenhouse gases (GHGs) and the debate of consuming more or fewer resources. It also displays the beneficial impact of cutting down beef consumption. Finally, it suggests some methods to produce beef sustainably.",
+    "readLink": "https://www.gjphm.org/index.php/gjphm/article/view/39"
+  }
+]

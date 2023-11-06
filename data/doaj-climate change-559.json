@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Mitigating the Effects of Climate Change through Harvesting and Planting in Boreal Forests of Northeastern China",
+    "authors": [
+      "Xu Luo,",
+      "Hong  S. He,",
+      "Yu Liang,",
+      "Jacob  S. Fraser,",
+      "Jialin Li"
+    ],
+    "doi": "https://doi.org/10.3390/su10103531",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  p.\n                                  3531",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The ecological resilience of boreal forests is an important element of measuring forest ecosystem capacity recovered from a disturbance, and is sensitive to broad-scale factors (e.g., climate change, fire disturbance and human related impacts). Therefore, quantifying the effects of these factors is increasingly important for forest ecosystem management. In this study, we investigated the impacts of climate change, climate-induced fire regimes, and forest management schemes on forest ecological resilience using a forest landscape model in the boreal forests of the Great Xing’an Mountains, Northeastern China. First, we simulated the effects of the three studied variables on forest aboveground biomass, growing space occupied, age cohort structure, and the proportion of mid and late-seral species indicators by using the LANDIS PRO model. Second, we calculated ecological resilience based on these four selected indicators. We designed five simulated scenarios: Current fire only scenario, increased fire occurrence only scenario, climate change only scenario, climate-induced fire regime scenario, and climate-fire-management scenario. We analyzed ecological resilience over the five scenarios from 2000 to 2300. The results indicated that the initialized stand density and basal area information from the year 2000 adequately represented the real forest landscape of that year, and no significant difference was found between the simulated landscape of year 2010 and the forest inventory data of that year at the landscape scale. The simulated fire disturbance results were consistent with field inventory data in burned areas. Compared to the current fire regime scenario, forests where fire occurrence increased by 30% had an increase in ecological resilience of 12.4–43.2% at the landscape scale, whereas increasing fire occurrence by 200% would decrease the ecological resilience by 2.5–34.3% in all simulated periods. Under the low climate-induced fire regime scenario, the ecological resilience was 12.3–26.7% higher than that in the reference scenario across all simulated periods. Under the high climate-induced fire regime scenario, the ecological resilience decreased significantly by 30.3% and 53.1% in the short- and medium-terms at landscape scale, while increasing slightly by 3.8% in the long-term period compared to the reference scenario. Compared to no forest management scenario, ecological resilience was decreased by 5.8–32.4% under all harvesting and planting strategies for the low climate-induced fire regime scenario, and only the medium and high planting intensity scenarios visibly increased the ecological resilience (1.7–15.8%) under the high climate-induced fire regime scenario at the landscape scale. Results from our research provided insight into the future forest management and have implications for improving boreal forest sustainability.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/10/3531"
+  },
+  {
+    "title": "Importance of vegetation dynamics for future terrestrial carbon cycling",
+    "authors": [
+      "Anders Ahlström,",
+      "Jianyang Xia,",
+      "Almut Arneth,",
+      "Yiqi Luo,",
+      "Benjamin Smith"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/10/5/054019",
+    "journalVolume": "Vol. 10,\n                                no. 5\n                                \n                                  p.\n                                  054019",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Terrestrial ecosystems currently sequester about one third of anthropogenic CO _2 emissions each year, an important ecosystem service that dampens climate change. The future fate of this net uptake of CO _2 by land based ecosystems is highly uncertain. Most ecosystem models used to predict the future terrestrial carbon cycle share a common architecture, whereby carbon that enters the system as net primary production (NPP) is distributed to plant compartments, transferred to litter and soil through vegetation turnover and then re-emitted to the atmosphere in conjunction with soil decomposition. However, while all models represent the processes of NPP and soil decomposition, they vary greatly in their representations of vegetation turnover and the associated processes governing mortality, disturbance and biome shifts. Here we used a detailed second generation dynamic global vegetation model with advanced representation of vegetation growth and mortality, and the associated turnover. We apply an emulator that describes the carbon flows and pools exactly as in simulations with the full model. The emulator simulates ecosystem dynamics in response to 13 different climate or Earth system model simulations from the Coupled Model Intercomparison Project Phase 5 ensemble under RCP8.5 radiative forcing. By exchanging carbon cycle processes between these 13 simulations we quantified the relative roles of three main driving processes of the carbon cycle; (I) NPP, (II) vegetation dynamics and turnover and (III) soil decomposition, in terms of their contribution to future carbon (C) uptake uncertainties among the ensemble of climate change scenarios. We found that NPP, vegetation turnover (including structural shifts, wild fires and mortality) and soil decomposition rates explained 49%, 17% and 33%, respectively, of uncertainties in modelled global C-uptake. Uncertainty due to vegetation turnover was further partitioned into stand-clearing disturbances (16%), wild fires (0%), stand dynamics (7%), reproduction (10%) and biome shifts (67%) globally. We conclude that while NPP and soil decomposition rates jointly account for 83% of future climate induced C-uptake uncertainties, vegetation turnover and structure, dominated by biome shifts, represent a significant fraction globally and regionally (tropical forests: 40%), strongly motivating their representation and analysis in future C-cycle studies.",
+    "readLink": "https://doi.org/10.1088/1748-9326/10/5/054019"
+  },
+  {
+    "title": "Effects of population density and environmental conditions on life‐history prevalence in a migratory fish",
+    "authors": [
+      "Mark H. Sorel,",
+      "Andrew R. Murdoch,",
+      "Richard W. Zabel,",
+      "Cory M. Kamphaus,",
+      "Eric R. Buhle,",
+      "Mark D. Scheuerell,",
+      "Sarah J. Converse"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.10087",
+    "journalVolume": "Vol. 13,\n                                no. 5\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Individual variation in life‐history traits can have important implications for the ability of populations to respond to environmental variability and change. In migratory animals, flexibility in the timing of life‐history events, such as juvenile emigration from natal areas, can influence the effects of population density and environmental conditions on habitat use and population dynamics. We evaluated the functional relationships between population density and environmental covariates and the abundance of juveniles expressing different life‐history pathways in a migratory fish, Chinook salmon (Oncorhynchus tshawytscha), in the Wenatchee River basin in Washington State, USA. We found that the abundance of younger emigrants from natal streams was best described by an accelerating or near‐linear function of spawners, whereas the abundance of older emigrants was best described by a decelerating function of spawners. This supports the hypothesis that emigration timing varies in response to density in natal areas, with younger‐emigrating life‐history pathways comprising a larger proportion of emigrants when densities of conspecifics are high. We also observed positive relationships between winter stream discharge and abundance of younger emigrants, supporting the hypothesis that habitat conditions can also influence the prevalence of different life‐history pathways. Our results suggest that early emigration, and a resultant increase in the use of downstream rearing habitats, may increase at higher population densities and with greater winter precipitation. Winter precipitation is projected to increase in this system due to climate warming. Characterizing relationships between life‐history prevalence and environmental conditions may improve our understanding of species habitat requirements and is a first step in understanding the dynamics of species with diverse life‐history strategies. As environmental conditions change—due to climate change, management, or other factors—resultant life‐history changes are likely to have important demographic implications that will be challenging to predict when life‐history diversity is not accounted for in population models.",
+    "readLink": "https://doi.org/10.1002/ece3.10087"
+  },
+  {
+    "title": "Incidental news exposure and opinion leader’s role in spreading climate change information and environment-friendly behavior on social media",
+    "authors": [
+      "Rachela Belinda Fatharani"
+    ],
+    "doi": "https://doi.org/10.21831/informasi.v53i1.62632",
+    "journalVolume": "Vol. 53,\n                                no. 1\n                                \n                                  pp.\n                                  151\n                                  – 160",
+    "issn": "0126-0650 (Print)",
+    "publisher": "2502-3837 (Online)",
+    "countryOfPublisher": "Universitas Negeri Yogyakarta",
+    "lcc": [
+      "Indonesia",
+      "Language and Literature: Philology. Linguistics: Communication. Mass media"
+    ],
+    "journalUrl": "http://journal.uny.ac.id/index.php/informasi",
+    "abstract": "Social media is the primary medium for disseminating information, including global topics such as climate change. The topic of climate change is related to the community's application of environmentally friendly habits. Social media and social media users have their characteristics in disseminating information about climate change compared to other media. Social media allows a user to be accidentally exposed to the information referred to as incidental news exposure. In addition, in disseminating information, opinion leaders have a role in disseminating information to social media users. This study aims to determine the role of opinion leaders and incidental news exposure in disseminating information about climate change. This research is a case study involving fourteen participants divided into two Focused-Group Discussion (FGD) groups. After carrying out the FGD, the results of the participants' discussions were analyzed using the diffusion of innovation theory, in which there are elements of the spread of an innovation consisting of the innovation, communication channel, time, and social system. The study results show that incidental news exposure and opinion leaders play a role in disseminating information about climate change and environmentally friendly habits. Incidental news exposure and opinion leaders can be part of disseminating information with the diffusion of innovation theory approach.",
+    "readLink": "https://journal.uny.ac.id/index.php/informasi/article/view/62632"
+  },
+  {
+    "title": "Detection of Spatial Shift in Flood Regime of the Kabul River Basin in Pakistan, Causes, Challenges, and Opportunities",
+    "authors": [
+      "Asif Mehmood,",
+      "Shaofeng  Jia Aifeng Lv,",
+      "Wenbin Zhu,",
+      "Rashid Mahmood,",
+      "Muhammad Saifullah,",
+      "Rana  Muhammad Adnan"
+    ],
+    "doi": "https://doi.org/10.3390/w13091276",
+    "journalVolume": "Vol. 13,\n                                no. 1276\n                                \n                                  p.\n                                  1276",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Recent evidence of regional climate change impacts on hydrological cycle directed us to study the floods in a high elevated and rapidly urbanized river basin, the Kabul River basin (KRB), Pakistan, which is susceptible to frequent flooding. Therefore, we analyzed the changes in flood regime at various spatial and temporal scales and their possible causes, which is accomplished by using flood indicators, trend analysis, change point analysis, and hydrological modeling. The results showed that the northern and northwestern parts of the KRB were more exposed to flood hazard than the southern parts under long-term scenario (1961/64-2015). However, after the change points, the flood risk decreased in the northern and increased in the southern regions. This spatial shift increased the vulnerability of population to the flood hazard, because the majority of population resides in the southern region. The extreme precipitation has also increased, especially the maximum one-day rainfall and maximum five-day rainfall throughout the basin. Particularly, the major cause of the decrease in different flood indicators in the northern parts of the KRB is the corresponding decrease in the annual and monsoonal rainfall and corresponding positive mass balance of glaciers in the northern region after the occurrence of change point in flood regime. However, the major cause of the increase in flood hazard on the southern part of the KRB is associated with maximum five-day rainfall. A 68% variability of annual maximum flood for the Kabul River at Nowshera and an 84% variability of annual maximum flood for Bara River at Jhansi post are explained by maximum five-day rainfall. In addition, a considerable decrease in forests (–5.21%) and increase in the urban area (88.26%) from 1992–2015 also amplifies the risk of higher flood peaks. The results of hydrological modeling suggest that the six-hourly flood peak increased by 6.85% (1992–2010) and 4.81% (2010–2015) for the extreme flood of 2010 for the Kabul River at Nowshera. The flood peak per decade will increase by 8.6%, as compared to the flood peak under the land use scenario of 2010. Therefore, consideration of proper land use planning is crucial for sustainable flood management in the KRB.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/9/1276"
+  },
+  {
+    "title": "Renewables and Decarbonisation: Implications for Energy Policy in the European Union",
+    "authors": [
+      "Dan Gabriel Dumitrescu,",
+      "Alexandra Horobeț,",
+      "Cristiana Doina Tudor ,",
+      "Lucian Belașcu"
+    ],
+    "doi": "https://doi.org/10.24818/EA/2023/63/345",
+    "journalVolume": "Vol. 25,\n                                no. 63\n                                \n                                  pp.\n                                   345\n                                  –  361",
+    "issn": "1582-9146 (Print)",
+    "publisher": "2247-9104 (Online)",
+    "countryOfPublisher": "Academy of Economic Studies of Bucharest",
+    "lcc": [
+      "Romania",
+      "Social Sciences: Commerce: Business",
+      "Social Sciences: Economic theory. Demography: Economics as a science"
+    ],
+    "journalUrl": "https://www.amfiteatrueconomic.ro/Home_EN.aspx",
+    "abstract": "The study examines the contribution of low-carbon and fossil electricity sources to environmental degradation in the European Union countries, modelled by economic development and globalisation. We ensure the robustness of the results by exploring the concurrent and individual effects of the alternative electricity sources on GHG emissions. Consistent GMM estimators indicate that all low-carbon sources have a mitigating effect on environmental degradation in the EU, in a context of persistent pollution fuelled by fossilfuels-based electricity. Hydropower and wind emerge as the most efficient electricity generation sources in the fight against climate change. Countries’ development level, globalisation and population were not found to significantly impact pollution in EU countries. Our results have important implications for energy policy, suggesting that replacing fossil fuels in electricity generation with low-carbon sources, in particular wind and hydro, is a beneficial path to achieve decarbonisation while also decreasing the EU’s reliance on foreign oil and gas.",
+    "readLink": "https://www.amfiteatrueconomic.ro/temp/Article_3201.pdf"
+  },
+  {
+    "title": "Impacts of Climatic Variation on the Growth of Black Spruce Across the Forest-Tundra Ecotone: Positive Effects of Warm Growing Seasons and Heat Waves Are Offset by Late Spring Frosts",
+    "authors": [
+      "Guillaume Moreau,",
+      "Catherine Chagnon,",
+      "Catherine Chagnon,",
+      "David Auty,",
+      "John Caspersen,",
+      "Alexis Achim"
+    ],
+    "doi": "https://doi.org/10.3389/ffgc.2020.613523",
+    "journalVolume": "Vol. 3",
+    "issn": "2624-893X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Forestry",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/forests-and-global-change#",
+    "abstract": "Climate strongly limits the physiological processes of trees near their range limits, leading to increased growth sensitivity. Northeastern North America is experiencing considerable warming, so the growth of trees near the northern treeline represents a key indicator of forest responses to climate change. However, tree-ring series and corresponding climatic data are scarce across the forest-tundra ecotone when compared to southern boreal regions, resulting in fewer studies on growth-climate relationships focused on this ecotone. Using daily climatic data, we identified trends in growing season heat accumulation and the intensity of acute climatic events over the last several decades in the southern and the northern parts of the forest-tundra ecotone in northeastern North America, and investigated their influence on black spruce radial growth. We found that black spruce trees responded positively to the increase in growing season temperatures and heat wave intensity, suggesting that growth is currently limited by suboptimal temperatures. While tree growth in the southern region generally benefited from warm spring temperatures, vulnerability to late spring frosts reduced tree growth in the northern region and increased probability of abrupt growth decline. In this region, late spring frosts offset approximately half of the additional growth that would otherwise occur over the course of a warm growing season. This vulnerability of northern trees may result from local adaptations to short growing seasons, which initiate biological activities at colder temperatures in the spring. Overall, our results highlight the need to explicitly incorporate acute climatic events into modeling efforts in order to refine our understanding of the impact of climate change on forest dynamics.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/ffgc.2020.613523/full"
+  },
+  {
+    "title": "How Would We Cycle Today If We Had the Weather of Tomorrow? An Analysis of the Impact of Climate Change on Bicycle Traffic",
+    "authors": [
+      "Anton Galich,",
+      "Simon Nieland,",
+      "Barbara Lenz,",
+      "Jan Blechschmidt"
+    ],
+    "doi": "https://doi.org/10.3390/su131810254",
+    "journalVolume": "Vol. 13,\n                                no. 10254\n                                \n                                  p.\n                                  10254",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Bicycle usage is significantly affected by weather conditions. Climate change is, therefore, expected to have an impact on the volume of bicycle traffic, which is an important factor in the planning and design of bicycle infrastructures. To predict bicycle traffic in a changed climate in the city of Berlin, this paper compares a traditional statistical approach to three machine learning models. For this purpose, a cross-validation procedure is developed that evaluates model performance on the basis of prediction accuracy. XGBoost showed the best performance and is used for the prediction of bicycle counts. Our results indicate that we can expect an overall annual increase in bicycle traffic of 1–4% in the city of Berlin due to the changes in local weather conditions caused by global climate change. The biggest changes are expected to occur in the winter season with increases of 11–14% due to rising temperatures and only slight increases in precipitation.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/18/10254"
+  },
+  {
+    "title": "Knowledge, attitude, and practice of coral reef conservation among Terengganu community of Malaysia",
+    "authors": [
+      "Roy Rillera Marzo,",
+      "Hana W. Jun Chen,",
+      "Haryati Anuar,",
+      "Mohamad Khairuddin Abdul Wahab,",
+      "Mohamad Hairul Nizam Arifin,",
+      "Indang Ariati Ariffin,",
+      "Hazian Hamzah,",
+      "Azral Ismawy Ahmad,",
+      "Joseph Kawuki,",
+      "Shariff Halim,",
+      "Mohammed Aljuaid"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2023.1267980",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "Background: Malaysia’s coral reefs, primarily threatened by overfishing, pollution, and climate change, face significant challenges despite conservation efforts. Researchers from Management and Science University have taken a holistic approach towards coral reef conservation. This multi-stakeholder strategy, which involves local communities, government agencies, and private sectors, underscores the importance of collective action. A notable initiative within this approach is the coral transplantation program on Geluk Island, aiming to restore and bolster these crucial marine ecosystems.Objective: This study aimed to investigate the knowledge, attitudes, and practices of the Terengganu community towards coral reef conservation and identify sociodemographic variables associated with community member practices.Methodology: This was a cross-sectional study conducted from July to October 2022 in Setiu, Terengganu and recruited 338 adult local villagers. Data on participants’ sociodemographic characteristics, knowledge of coral reefs, awareness and attitude towards the MYCoral 5.0 MSU Eco-Marine Project, and practice of coral reef conservation were collected via validated interviewer-rated questionnaires. Logistic regression analysis was conducted to identify factors associated with good coral reef conservation practices, using SPSS version 2.Results: Out of the 338 participants, 55.3% had acceptable knowledge on coral reefs, 29.0% had good practice of coral reef conservation. Additionally, 44.7% had good knowledge of the MyCoral 5.0 project, and 68.9% were willing to volunteer for coral reef conservation. Knowledge of coral reefs (AOR = 1.22, 95% CI: 1.15–2.52), knowledge of MyCoral project (AOR = 2.64, 95% CI: 1.47–4.74), and willingness to volunteer for conservation (AOR = 1.66, 95% CI: 1.36–3.64) were significantly associated with good practice of coral reef conservation.Conclusion: The study results highlight a need for education and awareness programs to improve the knowledge and practices of coral reef conservation. Moreover, consideration of socio-demographic dynamics of the local communities in designing targeted conservation strategies could also be vital.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2023.1267980/full"
+  },
+  {
+    "title": "The Assessment of an Effect of Natural Origin Products on the Initial Growth and Development of Maize under Drought Stress and the Occurrence of Selected Pathogens",
+    "authors": [
+      "Joanna Horoszkiewicz,",
+      "Ewa Jajor,",
+      "Jakub Danielewicz,",
+      "Marek Korbas,",
+      "Lech Schimmelpfennig,",
+      "Marzena Mikos-Szymańska,",
+      "Marta Klimczyk,",
+      "Jan Bocianowski"
+    ],
+    "doi": "https://doi.org/10.3390/agriculture13040815",
+    "journalVolume": "Vol. 13,\n                                no. 815\n                                \n                                  p.\n                                  815",
+    "issn": "2077-0472 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agriculture",
+    "abstract": "Poland, like other countries in the world, increasingly experiences the ongoing climate change that is a critical yield-limiting factor. The use of biostimulants in agriculture has shown tremendous potential in combating climate change-induced stresses such as drought, temperature stress, etc. They could be a promising tool in the current crop production scenario. Biostimulants are organic compounds, microbes, or amalgamation of both that could regulate plant growth behavior through molecular alteration and physiological, biochemical, and anatomical modulations. They can promote plant growth under various environmental stresses because they have a positive effect, in particular, on plant growth and resistance. There are many products of this type available on the market, including those of natural origin, which are part of the Integrated Pest Management. The ecotoxicity of chemical plant protection products, the negative effects of their use, and the change in regulations make it recommended to use low-risk chemicals and non-chemical methods, that involve the least risk to health and the environment, and at the same time ensure effective and efficient protection of crops. Natural origin biocomponents obtained by the supercritical CO2 extraction of plant material or by fermentation process in bioreactors were tested. Common maize (Zea mays L.) was selected as a test plant for growth tests at climate chambers. Results showed that the only supernatant (fermentation broth) obtained with the Paenibacillus bacteria (S2) had a positive effect on the germination index (GI > 100%) of maize seeds, compared to the obtained plant seed extracts from the crop of the legume family (Fabaceae) (E3) and from the crop of the smartweed family (Polygonaceae) (E9) (GI Enterobacter) and S2 used as a single product and in combination with UAN+S, under optimal conditions of the experiment, had a positive effect on the maize root weight compared to the untreated, while under drought stress, a decrease in the root weight was observed. Moreover, on the basis of the conducted research, differences in the mycelial growth of selected fungi were found. The applied biocomponent S2 of microbial origin extract (supernatant 2) showed a mycelial growth-limiting effect on all tested Fusarium fungi isolated from the corn cobs.",
+    "readLink": "https://www.mdpi.com/2077-0472/13/4/815"
+  }
+]

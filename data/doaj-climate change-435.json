@@ -1,0 +1,212 @@
+[
+  {
+    "title": "MODELING THE DEVELOPMENTS IN URBANISATION AND RELATIONSHIP WITH VEGETATION COVER IN ALANYA",
+    "authors": [
+      "B. İşler,",
+      "Z. Aslan"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLVI-4-W5-2021-291-2021",
+    "journalVolume": "Vol. XLVI-4-W5-2021\n                                \n                                \n                                  pp.\n                                  291\n                                  – 297",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "The increase in the world population and the migration of people from rural to urban areas causes an increase in artificial surfaces and causes many negative effects on the ecosystem, regional climate variations and global diversity. Nowadays, as the effects of climate change are felt more and more, it has gained importance in researches on this subject. Therefore, the estimation of the change in the vegetation density for the coming years and the determination of the land use / land cover (LULC) change in cities are very essential for urban planning. In this study, the effects of regional urbanization on vegetation are examined by using satellite data and atmospheric variables. In the vegetation analysis, multi-time index values obtained from TERRA-MODIS satellite, EVI (Enhanced Vegetation Index) and LST (Land Surface Temperature) were taken into account between the years of 2005 and 2018 in Alanya, Turkey. Temperature and precipitation were selected as the atmospheric variables and expected variations in EVI value until 2030 were estimated. In the study employed a wavelet-transformed artificial neural network (WANN) model to generate long-term (12-year) EVI forecasts using LST, temperature and precipitation. The relationship between land use / land cover and urbanization is investigated with NDBI (Normalized Difference Built-up Index) data obtained from the Landsat 8 OLI / TIRS satellite sensor. The simulation results show that The EVI value, which was 0.30 in 2018, will decrease to 0.25 in 2030.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLVI-4-W5-2021/291/2021/isprs-archives-XLVI-4-W5-2021-291-2021.pdf"
+  },
+  {
+    "title": "Impact of hypoxia on gene expression patterns by the human pathogen, Vibrio vulnificus, and bacterial community composition in a North Carolina estuary",
+    "authors": [
+      "Britney L. Phippen,",
+      "James D. Oliver"
+    ],
+    "doi": "https://doi.org/10.1002/2016GH000024",
+    "journalVolume": "Vol. 1,\n                                no. 1\n                                \n                                  pp.\n                                  37\n                                  – 50",
+    "issn": "2471-1403 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2471-1403/",
+    "abstract": "Abstract Estuarine environments are continuously being shaped by both natural and anthropogenic sources which directly/indirectly influence the organisms that inhabit these important niches on both individual and community levels. Human infections caused by pathogenic Vibrio species are continuing to rise, and factors associated with global climate change have been suggested to be impacting their abundance and geographical range. Along with temperature, hypoxia has also increased dramatically in the last 40 years, which has led to persistent dead zones worldwide in areas where these infections are increasing. Thus, utilizing membrane diffusion chambers, we investigated the impact of in situ hypoxia on the gene expression of one such bacterium, Vibrio vulnificus, which is an inhabitant of these vulnerable areas worldwide. By coupling these data with multiple abiotic factors, we were able to demonstrate that genes involved in numerous functions, including those involved in virulence, environmental persistence, and stressosome production, were negatively correlated with dissolved oxygen. Furthermore, comparing 16S ribosomal RNA, we found similar overall community compositions during both hypoxia and normoxia. However, unweighted beta diversity analyses revealed that although certain classes of bacteria dominate in both low‐ and high‐oxygen environments, there is the potential for quantitative shifts in lower abundant species, which may be important for effective risk assessment in areas that are becoming increasingly more hypoxic. This study emphasizes the importance of investigating hypoxia as a trigger for gene expression changes by marine Vibrio species and highlights the need for more in depth community analyses during estuarine hypoxia.",
+    "readLink": "https://doi.org/10.1002/2016GH000024"
+  },
+  {
+    "title": "Impact of Reduced Rainfall on Above Ground Dry Matter Production of Semi-natural Grassland in South Gloucestershire, UK: A Rainfall Manipulation Study",
+    "authors": [
+      "S. M. Ayling,",
+      "Jill Thompson,",
+      "A. Gray,",
+      "L. J. McEwen"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2021.686668",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "In the United Kingdom, agricultural grasslands cover 40% of the land area, make up 89% of the total agricultural area and are an important land use for ecosystem services and food security. Climate change predictions suggest that the United Kingdom will experience more frequent and severe periods of drought that may impact these grasslands. As part of the Drought Risk and You (DRY) project, a field experiment in which rain shelters reduced precipitation reaching the vegetation by approximately 50%, was set up in the South West of England. The experiment ran for 3 years, from October 2015 to October 2018. The study was carried out at two locations in the catchment of the Bristol River Frome. Both sites were species-rich semi-natural pastures that had received no inputs of fertilizer or herbicide for many years. Automatic weather stations recorded environmental conditions, especially rainfall, within the experimental area. The existing agricultural management regimes were approximated by cutting the vegetation in the plots, by hand, at the appropriate times of year. The effect of rainfall reduction on plant growth was assessed by biomass sampling. At both sites, the rainfall reduction treatment had only small effects on total above ground dry matter production (biomass). These effects were much smaller than the year-to-year variation in total biomass. Our results suggested that well-established permanent pastures in the South West of England were able to tolerate a 3-year period of reduced water supply. The observed year-to-year variation in biomass demonstrated how important the timing of dry weather is for biomass production, and this will be reflected in effects on yield and quality of hay.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2021.686668/full"
+  },
+  {
+    "title": "Influence of weather and geographical factors in the worsening of Habana's Malecon (La Habana, Cuba)",
+    "authors": [
+      "Ricardo Remond,",
+      "Karen Múgica Aguilar,",
+      "Cindy Alfonso-Álvarez,",
+      "Juan Francisco Martínez Murillo"
+    ],
+    "doi": "https://doi.org/10.21138/bage.2541",
+    "journalVolume": "Vol. 0,\n                                no. 77\n                                \n                                  pp.\n                                  256\n                                  – 282",
+    "issn": "0212-9426 (Print)",
+    "publisher": "2605-3322 (Online)",
+    "countryOfPublisher": "Asociación Española de Geografía",
+    "lcc": [
+      "Spain",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://bage.age-geografia.es/ojs",
+    "abstract": "Located in the northside coast of La Habana, the Malecón is one of the most famous public and touristic sites from this Cuban city. Its conservation has arised as one of the most urgent issues for local managers, especially, in the current context of Climate Change. This study deals with the deterioration mapping of this urban infrastructure as well as with the analysis of the impact of meteorological events and controlling geographic factors. This mapping procedure was performed by means of the use of remote sensing and spatial and statistical analysis in GIS. Moreover, the study was conducted through the consult of references, maps and remote sensing of high spatial resolution, which let obtain the Malecon’s deterioration mapping. The results are unprecedented and quite useful for local managers.",
+    "readLink": "https://www.age-geografia.es/ojs/index.php/bage/article/view/2637"
+  },
+  {
+    "title": "It's time to take a sustainable approach to health care in the face of the challenges of the 21st century",
+    "authors": [
+      "Catherine Laprise"
+    ],
+    "doi": "Vol. 16\n                                \n                                \n                                  p.\n                                  100510",
+    "issn": "2352-7714 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Medicine: Medicine (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/one-health",
+    "abstract": "Health challenges in the 21st century have become increasingly complex and global. The recent COVID-19 pandemic has only exacerbated the many problems faced by health care systems around the world and sadly, exposed various flaws. With ageing populations, particularly in Canada, as well as unavoidable factors such as globalization and accelerating climate change, it is becoming imperative to implement a new health care approach based on intersectorality and interdisciplinarity. Furthermore, links must be forged between all the stakeholders, i.e. the researchers, the health system and its specialists, the communities and the individuals themselves. It is in this perspective, where everyone concerned must be equally involved in attaining a better quality of life, that the concepts of One Health and sustainable health must be deployed.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352771423000307"
+  },
+  {
+    "title": "Assessing Strategies for Urban Climate Change Adaptation: The Case of Six Metropolitan Cities in South Korea",
+    "authors": [
+      "Jae-Seung Lee,",
+      "Jeong Won Kim"
+    ],
+    "doi": "https://doi.org/10.3390/su10062065",
+    "journalVolume": "Vol. 10,\n                                no. 6\n                                \n                                  p.\n                                  2065",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "As interest in climate change adaptation grows, an increasing number of national and local governments are developing adaptation strategies. This study assesses the strategies for urban climate change adaptation of municipal governments in South Korea. The adaptation plans and budget expenditures of six metropolitan cities in South Korea were compared, based on the Implementation Plan for Climate Change Adaptation Strategy (IPCCAS) 2012–2016 and annual expenditure reports of each city. The results show that the actual implementation of these adaptation programs varied vis-à-vis the original plans, in terms of the level of overall expenditure and sector-specific expenditure. The following findings were drawn from the analysis: First, in most cases, the highest adaptation priorities were disaster/infrastructure, water management, and the health sector. Second, actual expenditure on climate change adaptation programs was smaller than the planned budget in the IPCCAS. Third, the prioritized sectors matched for planning and implementation in Seoul, Daegu, Daejeon, and Incheon, but not in Busan and Ulsan. Fourth, the adaptation programs of South Korean metropolitan cities do not seem to have been well-tailored to each case.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/6/2065"
+  },
+  {
+    "title": "Retour critique sur la mobilisation du concept de ‎résilience en lien avec l’adaptation des systèmes urbains au changement climatique",
+    "authors": [
+      "Béatrice Quenault"
+    ],
+    "doi": "https://doi.org/10.4000/echogeo.13403",
+    "journalVolume": "Vol. 24",
+    "issn": "1963-1197 (Online)",
+    "publisher": "Pôle de Recherche pour l'Organisation et la diffusion de l'Information Géographique",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://echogeo.revues.org",
+    "abstract": "Through a review of the academic literature, this paper critically examines the mobilization of the concept of resilience in the field of the adaptation to climate change in urban systems. It interrogates firstly the real reasons of the actual successfulness of the concept of resilience, then it breaks off with the dominant flip-side approach of vulnerability and resilience which both are considered as the reverse polarity (negative versus positive) of the same medal and finally, it argues the idea more and more communally admitted that resilience represents a new paradigm of both risks management and urban sustainable planning in link with climate change.",
+    "readLink": "http://journals.openedition.org/echogeo/13403"
+  },
+  {
+    "title": "Research on the spatial effect and threshold effect of industrial structure upgrading on carbon emissions in China",
+    "authors": [
+      "Zhenqiang Li,",
+      "Qiuyang Zhou"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2021.216",
+    "journalVolume": "Vol. 12,\n                                no. 8\n                                \n                                  pp.\n                                  3886\n                                  – 3898",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "Based on panel data from 2000 to 2017 in 29 Chinese provinces, this paper analyzes the impact of industrial structure upgrading on carbon emissions by constructing a spatial panel model and a panel threshold model. The results show that (1) there is a significant spatial correlation between carbon emissions in Chinese provinces, and the carbon emissions of a province are affected by the carbon emissions of surrounding provinces; (2) in China, carbon emissions have a significant time lag feature, and current carbon emissions are largely affected by previous carbon emissions; (3) industrial structure upgrading can effectively promote carbon emission reductions in local areas, and the impact of industrial structure upgrading on carbon emissions has a significant threshold effect. With continued economic development, the promotion effect of industrial structure upgrading on carbon emission reductions will decrease slightly, but this carbon emission reduction effect is still significant. (4) In addition, there is a clear difference between the impact of energy consumption intensity and population size on carbon emissions in short and long terms. In the short term, the increase in energy consumption intensity and the expansion of population size not only increase the carbon emissions of a local area but also increase the carbon emissions of neighboring areas. In the long term, the impact of energy consumption intensity and population size on carbon emissions of neighboring areas will be weakened, but the promotion impact on carbon emissions in local areas will be strengthened. HIGHLIGHTS This paper studies the impact of industrial structure upgrading on carbon emissions in detail.; This paper uses a static spatial panel model and a dynamic spatial panel model for analysis.; This paper uses economic development as a threshold variable to determine whether the impact direction and degree of industrial structure upgrading on carbon emissions will change with economic development.;",
+    "readLink": "http://jwcc.iwaponline.com/content/12/8/3886"
+  },
+  {
+    "title": "Validation of the CrIS fast physical NH<sub>3</sub> retrieval with ground-based FTIR",
+    "authors": [
+      "E. Dammers,",
+      "M. W. Shephard,",
+      "M. Palm,",
+      "K. Cady-Pereira,",
+      "S. Capps,",
+      "S. Capps,",
+      "E. Lutsch,",
+      "K. Strong,",
+      "J. W. Hannigan,",
+      "I. Ortega,",
+      "G. C. Toon,",
+      "W. Stremme,",
+      "M. Grutter,",
+      "N. Jones,",
+      "D. Smale,",
+      "J. Siemons,",
+      "K. Hrpcek,",
+      "D. Tremblay,",
+      "M. Schaap,",
+      "J. Notholt,",
+      "J. W. Erisman,",
+      "J. W. Erisman"
+    ],
+    "doi": "https://doi.org/10.5194/amt-10-2645-2017",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  2645\n                                  – 2667",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "Presented here is the validation of the CrIS (Cross-track Infrared Sounder) fast physical NH3 retrieval (CFPR) column and profile measurements using ground-based Fourier transform infrared (FTIR) observations. We use the total columns and profiles from seven FTIR sites in the Network for the Detection of Atmospheric Composition Change (NDACC) to validate the satellite data products. The overall FTIR and CrIS total columns have a positive correlation of r = 0.77 (N = 218) with very little bias (a slope of 1.02). Binning the comparisons by total column amounts, for concentrations larger than 1.0 × 1016 molecules cm−2, i.e. ranging from moderate to polluted conditions, the relative difference is on average ∼ 0–5 % with a standard deviation of 25–50 %, which is comparable to the estimated retrieval uncertainties in both CrIS and the FTIR. For the smallest total column range (< 1.0 × 1016 molecules cm−2) where there are a large number of observations at or near the CrIS noise level (detection limit) the absolute differences between CrIS and the FTIR total columns show a slight positive column bias. The CrIS and FTIR profile comparison differences are mostly within the range of the single-level retrieved profile values from estimated retrieval uncertainties, showing average differences in the range of ∼ 20 to 40 %. The CrIS retrievals typically show good vertical sensitivity down into the boundary layer which typically peaks at ∼ 850 hPa (∼ 1.5 km). At this level the median absolute difference is 0.87 (std = ±0.08) ppb, corresponding to a median relative difference of 39 % (std = ±2 %). Most of the absolute and relative profile comparison differences are in the range of the estimated retrieval uncertainties. At the surface, where CrIS typically has lower sensitivity, it tends to overestimate in low-concentration conditions and underestimate in higher atmospheric concentration conditions.",
+    "readLink": "https://www.atmos-meas-tech.net/10/2645/2017/amt-10-2645-2017.pdf"
+  },
+  {
+    "title": "Birds facing climate change: a qualitative model for the adaptive potential of migratory behaviour",
+    "authors": [
+      "Michelangelo Morganti"
+    ],
+    "doi": "https://doi.org/10.4081/rio.2015.197",
+    "journalVolume": "Vol. 85,\n                                no. 1",
+    "issn": "0035-6875 (Print)",
+    "publisher": "2385-0833 (Online)",
+    "countryOfPublisher": "PAGEPress Publications",
+    "lcc": [
+      "Italy",
+      "Science: Zoology"
+    ],
+    "journalUrl": "http://sisn.pagepress.org/index.php/rio/index",
+    "abstract": "Recent climate change is altering the migratory behaviour of many bird species. An advancement in the timing of spring events and a shift in the geographical distribution have been detected for birds around the world. In particular, intra-Palearctic migratory birds have advanced arrivals in spring and shortened migratory distances by shifting northward their wintering grounds. These changes in migratory patterns are considered adaptive responses facilitating the adjustment of the life cycle to the phenological changes found in their breeding areas. However, in some cases, populations exposed to the same selective pressures do not show any appreciable adaptive change in their behaviour. Basing on the comparison of realized and non-realized adaptive changes, I propose here the formulation of a qualitative model that predicts the potential of migratory birds populations to change adaptively their migratory behaviour. The model assumes that the adaptive potential of migratory behaviour is fuelled by both genetic diversity and phenotypic plasticity. Populations of long-distance migrants are exposed to strong environmental canalization that largely eroded their phenotypic plasticity and reduced genetic variability, so that they show a very low amount of adaptive potential regarding migratory behaviour. On the contrary, partial-migrant populations have a highly varied genetic profile and are more plastic at the phenotypic level, and consequently show the highest amount of adaptive potential. Species with mainly social and mainly genetic determination of the migratory behaviour are separately treated in the model. Specific empirical models to foresee the adaptive strategies of wild bird populations that face to climate change can be derived from the general theoretical model. As example, a specific model about the shortening of migratory distances in Western European migratory bird is presented. Finally, a number of future research lines on the topic of adaptive potential of migratory behaviour are discussed, including some examples of concrete study cases. In conclusion, partial-migration emerge as the less known system and future research efforts on this topic are expected to be especially fruitful.",
+    "readLink": "https://sisn.pagepress.org/index.php/rio/article/view/197"
+  }
+]

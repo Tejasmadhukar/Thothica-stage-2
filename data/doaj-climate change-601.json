@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Remote Sensing for Water Resources and Environmental Management",
+    "authors": [
+      "Timothy Dube,",
+      "Munyaradzi D. Shekede,",
+      "Christian Massari"
+    ],
+    "doi": "https://doi.org/10.3390/rs15010018",
+    "journalVolume": "Vol. 15,\n                                no. 18\n                                \n                                  p.\n                                  18",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "In line with the United Nations Sustainable Development Goal (SDG) 6, the main goal of the Special Issue on “Remote sensing for water resources and environmental management” was to solicit papers from a diverse range of scientists around the world on the use of cutting-edge remote sensing technologies to assess and monitor freshwater quality, quantity, availability, and management to ensure water security. Special consideration was given to scientific manuscripts that covered, but were not limited to, the development of geospatial techniques and remote sensing applications for detecting, quantifying, and monitoring freshwater water resources, identifying potential threats to water resources and agriculture, as well as other themes related to water resources and environmental management at various spatial scales. The Special Issue attracted over thirteen peer-reviewed scientific articles, with the majority of manuscripts originating from China. Most of the studies made use of satellite datasets, ranging from coarse spatial resolution data, such as the Gravity Recovery and Climate Experiment (GRACE) and GRACE Follow-On (GRACE-FO), to medium spatial resolution data, such as the Landsat series, ERA5, Modern-Era Retrospective Analysis for Research and Application Land version 2 reanalysis product (MERRA2), CLSM and NOAH ET, and MODIS (Moderate Resolution Imaging Spectroradiometer). Google Earth Engine (GEE) data, together with big data processing techniques, such as the remote sensing-based energy balance model (ALEXI/DisALEXI approach) and the STARFM data fusion technique, were used for analyzing geospatial datasets. Overall, this Special Issue demonstrated significant knowledge gaps in various big data image processing techniques and improved computing processes in assessing and monitoring water resources and the environment at various spatial and temporal scales.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/1/18"
+  },
+  {
+    "title": "Strategic Slum Upgrading and Redevelopment Action Plan for Jammu City",
+    "authors": [
+      "Majid Farooq,",
+      "Fayma Mushtaq,",
+      "Gowhar Meraj,",
+      "Suraj Kumar Singh,",
+      "Shruti Kanga,",
+      "Ankita Gupta,",
+      "Pankaj Kumar,",
+      "Deepak Singh,",
+      "Ram Avtar"
+    ],
+    "doi": "https://doi.org/10.3390/resources11120120",
+    "journalVolume": "Vol. 11,\n                                no. 120\n                                \n                                  p.\n                                  120",
+    "issn": "2079-9276 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/resources",
+    "abstract": "Rapid urbanization has led to the emergence of slums in many developing and industrialized nations. It degrades the quality of life and burdens the urban amenities resulting in uneven distribution of slums. The majority of people in the developing world live in squatter settlements and these random gatherings disrupt the economic and social developmental plans of the concerned country. No suitable planning framework has been created for replicability on a considerable scale, despite the fact that slum upgrading is acquiring worldwide importance as a political issue. In recent years Jammu City has witnessed high population growth rates resulting in an uneven provision of urban amenities and a surge in slum areas. This paper focuses on a method-based approach using Management Information System (MIS) and Geographic Information System (GIS) for upgrading slums and recommends a planning outline using the approach formulated by the Government of India under the scheme named “Rajiv Awas Yojna” (RAY). The aim of this study is to assess the status of slums, propose redevelopment plans, and highlight the roles of different planning agencies to accomplish the redevelopment goals. The study concludes by postulating several recommendations for upgrading slums and formulating a framework that can be used in other similar areas for development.",
+    "readLink": "https://www.mdpi.com/2079-9276/11/12/120"
+  },
+  {
+    "title": "Population History Shapes Responses to Different Temperature Regimes in <i>Drosophila subobscura</i>",
+    "authors": [
+      "Katarina Erić,",
+      "Marija Savić Veselinović,",
+      "Aleksandra Patenković,",
+      "Slobodan Davidović,",
+      "Pavle Erić,",
+      "Marina Stamenković-Radak,",
+      "Marija Tanasković"
+    ],
+    "doi": "https://doi.org/10.3390/life13061333",
+    "journalVolume": "Vol. 13,\n                                no. 1333\n                                \n                                  p.\n                                  1333",
+    "issn": "2075-1729 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/life",
+    "abstract": "Drosophila subobscura is considered a good model species for investigation of a population’s ability to adapt and cope with climate changes. Decade long research has shown that inversion frequencies change in response to environmental factors indicating their role in adaptation to novel environments. The mechanisms behind organisms’ responses to temperature are complex, involving changes in physiology, behavior, gene expression and regulation. On the other hand, a population’s ability to respond to suboptimal conditions depends on standing genetic variation and population history. In order to elucidate the role of local adaptation in population response to the changing temperature, we investigated the response to temperature in D. subobscura individuals originating from two different altitudes by combining traditional cytogenetic techniques with assessing the levels of Hsp70 protein expression. Inversion polymorphism was assessed in the flies sampled from natural populations and in flies reared in laboratory conditions at three different temperatures after five and sixteen generations and Hsp70 protein expression profile in 12th generation flies at the basal level and after heat shock induction. Our results indicate that local adaptation and population history influence population response to the changing temperature.",
+    "readLink": "https://www.mdpi.com/2075-1729/13/6/1333"
+  },
+  {
+    "title": "Implementation of the chemistry module MECCA (v2.5) in the modal aerosol version of the Community Atmosphere Model component (v3.6.33) of the Community Earth System Model",
+    "authors": [
+      "M. S. Long,",
+      "W. C. Keene,",
+      "R. Easter,",
+      "R. Sander,",
+      "A. Kerkweg,",
+      "D. Erickson,",
+      "X. Liu,",
+      "S. Ghan"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-6-255-2013",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  255\n                                  – 262",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "A coupled atmospheric chemistry and climate system model was developed using the modal aerosol version of the National Center for Atmospheric Research Community Atmosphere Model (modal-CAM; v3.6.33) and the Max Planck Institute for Chemistry's Module Efficiently Calculating the Chemistry of the Atmosphere (MECCA; v2.5) to provide enhanced resolution of multiphase processes, particularly those involving inorganic halogens, and associated impacts on atmospheric composition and climate. Three Rosenbrock solvers (Ros-2, Ros-3, RODAS-3) were tested in conjunction with the basic load-balancing options available to modal-CAM (1) to establish an optimal configuration of the implicitly-solved multiphase chemistry module that maximizes both computational speed and repeatability of Ros-2 and RODAS-3 results versus Ros-3, and (2) to identify potential implementation strategies for future versions of this and similar coupled systems. RODAS-3 was faster than Ros-2 and Ros-3 with good reproduction of Ros-3 results, while Ros-2 was both slower and substantially less reproducible relative to Ros-3 results. Modal-CAM with MECCA chemistry was a factor of 15 slower than modal-CAM using standard chemistry. MECCA chemistry integration times demonstrated a systematic frequency distribution for all three solvers, and revealed that the change in run-time performance was due to a change in the frequency distribution of chemical integration times; the peak frequency was similar for all solvers. This suggests that efficient chemistry-focused load-balancing schemes can be developed that rely on the parameters of this frequency distribution.",
+    "readLink": "http://www.geosci-model-dev.net/6/255/2013/gmd-6-255-2013.pdf"
+  },
+  {
+    "title": "Littoral Drift Impoundment at a Sandbar Breakwater: Two Case Studies along the Bight of Benin Coast (Gulf of Guinea, West Africa)",
+    "authors": [
+      "Stephan K. Lawson,",
+      "Keiko Udo,",
+      "Hitoshi Tanaka,",
+      "Janaka Bamunawala"
+    ],
+    "doi": "https://doi.org/10.3390/jmse11091651",
+    "journalVolume": "Vol. 11,\n                                no. 1651\n                                \n                                  p.\n                                  1651",
+    "issn": "2077-1312 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Naval Science: Naval architecture. Shipbuilding. Marine engineering",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/jmse",
+    "abstract": "This study assessed the deposition of sediment and shoreline evolution at two newly constructed port facilities in the Bight of Benin, West Africa. Based on the Building with Nature approach, the concept of a sandbar breakwater was implemented at the study sites. The coastal system of the bight is characterized by a sand barrier-lagoon system and a uniform prevailing wave climate, making it a favorable location for this innovative port solution. The case studies were undertaken at the Port of Lomé, Togo, and the Lekki Deep Sea Port (Dangote Sea Port), Nigeria, using remotely sensed shoreline positions and the one-line coastline change model for different periods. After construction of the breakwater, we estimated that the updrift coastline at the two locations accreted in the range of 10–23 m/year and the rates of sediment deposition were estimated to be in the magnitude of 1.0–7.0 × 105 m3/year. The comparative study conducted also showed that these rates could further reach a magnitude of 106 m3/year at other sediment-accreting landforms within the bight. We found that these large magnitudes of longshore sediment transport generated from very oblique incident waves (10°–20°) and sediment input from rivers (in orders of 106 m3/year) have enabled the realization of expected morphodynamic changes on the updrift shoreline of the ports. From these results, downdrift morphological changes should not be underestimated due to potential imbalances induced in the sedimentary budget along the coastline. Future developmental plans within the bight should also continuously aim to adopt nature-based solutions to protect the ecosystem while mitigating unforeseen implications.",
+    "readLink": "https://www.mdpi.com/2077-1312/11/9/1651"
+  },
+  {
+    "title": "Bio-Inspired Robots and Structures toward Fostering the Modernization of Agriculture",
+    "authors": [
+      "Maria Kondoyanni,",
+      "Dimitrios Loukatos,",
+      "Chrysanthos Maraveas,",
+      "Christos Drosos,",
+      "Konstantinos G. Arvanitis"
+    ],
+    "doi": "https://doi.org/10.3390/biomimetics7020069",
+    "journalVolume": "Vol. 7,\n                                no. 69\n                                \n                                  p.\n                                  69",
+    "issn": "2313-7673 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biomimetics",
+    "abstract": "Biomimetics is the interdisciplinary cooperation of biology and technology that offers solutions to practical problems by analyzing biological systems and transferring their principles into applications. This review article focused on biomimetic innovations, including bio-inspired soft robots and swarm robots that could serve multiple functions, including the harvesting of fruits, pest control, and crop management. The research demonstrated commercially available biomimetic innovations, including robot bees by Arugga AI Farming and the Robotriks Traction Unit (RTU) precision farming equipment. Additionally, soft robotic systems have made it possible to mitigate the risk of surface bruises, rupture, the crushing destruction of plant tissue, and plastic deformation in the harvesting of fruits with a soft rind such as apples, cherries, pears, stone fruits, kiwifruit, mandarins, cucumbers, peaches, and pome. Even though the smart farming technologies, which were developed to mimic nature, could help prevent climate change and enhance the intensification of agriculture, there are concerns about long-term ecological impact, cost, and their inability to complement natural processes such as pollination. Despite the problems, the market for bio-inspired technologies with potential agricultural applications to modernize farming and solve the abovementioned challenges has increased exponentially. Future research and development should lead to low-cost FEA robotic grippers and FEA-tendon-driven grippers for crop harvesting. In brief, soft robots and swarm robotics have immense potential in agriculture.",
+    "readLink": "https://www.mdpi.com/2313-7673/7/2/69"
+  },
+  {
+    "title": "SUPPORT VECTOR MACHINE CLASSIFICATION OF OBJECT-BASED DATA FOR CROP MAPPING, USING MULTI-TEMPORAL LANDSAT IMAGERY",
+    "authors": [
+      "R. Devadas,",
+      "R. J. Denham,",
+      "M. Pringle"
+    ],
+    "doi": "https://doi.org/10.5194/isprsarchives-XXXIX-B7-185-2012",
+    "journalVolume": "Vol. XXXIX-B7\n                                \n                                \n                                  pp.\n                                  185\n                                  – 190",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Crop mapping and time series analysis of agronomic cycles are critical for monitoring land use and land management practices, and analysing the issues of agro-environmental impacts and climate change. Multi-temporal Landsat data can be used to analyse decadal changes in cropping patterns at field level, owing to its medium spatial resolution and historical availability. This study attempts to develop robust remote sensing techniques, applicable across a large geographic extent, for state-wide mapping of cropping history in Queensland, Australia. In this context, traditional pixel-based classification was analysed in comparison with image object-based classification using advanced supervised machine-learning algorithms such as Support Vector Machine (SVM). For the Darling Downs region of southern Queensland we gathered a set of Landsat TM images from the 2010–2011 cropping season. Landsat data, along with the vegetation index images, were subjected to multiresolution segmentation to obtain polygon objects. Object-based methods enabled the analysis of aggregated sets of pixels, and exploited shape-related and textural variation, as well as spectral characteristics. SVM models were chosen after examining three shape-based parameters, twenty-three textural parameters and ten spectral parameters of the objects. We found that the object-based methods were superior to the pixel-based methods for classifying 4 major landuse/land cover classes, considering the complexities of within field spectral heterogeneity and spectral mixing. Comparative analysis clearly revealed that higher overall classification accuracy (95%) was observed in the object-based SVM compared with that of traditional pixel-based classification (89%) using maximum likelihood classifier (MLC). Object-based classification also resulted speckle-free images. Further, object-based SVM models were used to classify different broadacre crop types for summer and winter seasons. The influence of different shape, textural and spectral variables, and their weights on crop-mapping accuracy, was also examined. Temporal change in the spectral characteristics, specifically through vegetation indices derived from multi-temporal Landsat data, was found to be the most critical information that affects the accuracy of classification. However, use of these variables was constrained by the data availability and cloud cover.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XXXIX-B7/185/2012/isprsarchives-XXXIX-B7-185-2012.pdf"
+  },
+  {
+    "title": "Assessing the geographic origin of the invasive grey squirrel using DNA sequencing: Implications for management strategies",
+    "authors": [
+      "Claire D. Stevenson-Holt,",
+      "William Sinclair"
+    ],
+    "doi": "https://doi.org/10.1016/j.gecco.2014.11.005",
+    "journalVolume": "Vol. 3,\n                                no. C\n                                \n                                  pp.\n                                  20\n                                  – 27",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "The invasive grey squirrel Sciurus carolinensis has become a major pest species causing negative effects to forestry and biodiversity. This study aims to assess the origin of grey squirrel within Cumbria using phylogeographic analysis to aid in management and control. The work reported analysed mitochondrial DNA sequences in the D-Loop gene of 73 grey squirrel individuals from multiple locations in the UK. The results indicate that individuals in north Cumbria are derived from individuals from Scotland and North East England. Other individuals in north Cumbria share a unique haplotype with south Cumbria and Lancashire suggesting a southerly origin and movement around or over the Cumbrian Mountain range which is thought of as a barrier to movements. The assessment of invasive species geographical origin and the identification of potential wildlife transit corridors through natural barriers are becoming more important as species shift range in response to environmental and ecological changes. With the grey squirrel population expansion also occurring in Italy, the European red squirrel may become threatened across its entire range. It is crucial to understand the population origins of the invasive grey squirrel and landscape usage to successfully manage the incursion routes and control the population.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989414000675"
+  },
+  {
+    "title": "Comparative study of the growth and carbon sequestration potential of Bermuda grass in industrial and urban areas",
+    "authors": [
+      "Usman Ali,",
+      "Muhammad Azam Khan,",
+      "Ishfaq Ahmad Hafiz,",
+      "Khalid Saifullah Khan,",
+      "Shahid Mahmood"
+    ],
+    "doi": "https://doi.org/10.25252/SE/18/51380",
+    "journalVolume": "Vol. 37,\n                                no. 1\n                                \n                                  pp.\n                                  75\n                                  – 82",
+    "issn": "2074-9546 (Print)",
+    "publisher": "2075-1141 (Online)",
+    "countryOfPublisher": "Soil Science Society of Pakistan (SSSP)",
+    "lcc": [
+      "Pakistan",
+      "Agriculture: Agriculture (General)",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.se.org.pk",
+    "abstract": "Climate change is a global phenomenon occurring throughout the world. Greenhouse gases (GHGs) especially carbon dioxide (CO2) considered to be the major culprit to bring these changes. So, carbon (C) sequestration by any mean could be useful to reduce the CO2 level in atmosphere. Turf grasses have the ability to sequester C and minimize the effects of GHGs on the environment. In order to study that how turf grasses can help in C sequestration, Bermuda grass (Cynodon dactylon) was grown both at industrial and urban location and its effect on C storage were assessed by soil and plant analysis. Dry deposition of ammonium and nitrate was maximum at both locations through the year. However wet deposition was highest during the months of high rainfall. It was examined through soil analysis that soil organic matter, soil C and nitrogen in both locations increased after second mowing of grass. However, soil pH 6.68 in urban and 7.00 in industrial area and EC 1.86 dS/m in urban and 1.90 dS/m in industrial area decreased as the grass growth continue. Soil fresh weight (27.6 g) in urban and (27.28 g) industrial area also decreased after first and second mowing of grass. The C levels in plant dry biomass also increased which showed improved ability of plant to uptake C from the soil and store it. Similarly, chlorophyll contents were more in industrial area compared to urban area indicates the positive impact of high C concentration. Whereas stomatal conductance was reduced in high C environment to slow down respiration process. Hence, from present study it can be concluded that the Bermuda grass could be grown in areas with high C concentration in atmosphere for sequestrating C in soil.",
+    "readLink": "http://se.org.pk/File-Download.aspx?archivedpaperid=827"
+  },
+  {
+    "title": "Progress towards a holistic land and marine surface meteorological database and a call for additional contributions",
+    "authors": [
+      "Simon Noone,",
+      "Chris Atkinson,",
+      "David I. Berry,",
+      "Robert J. H. Dunn,",
+      "Eric Freeman,",
+      "Irene Perez Gonzalez,",
+      "John J. Kennedy,",
+      "Elizabeth C. Kent,",
+      "Anthony Kettle,",
+      "Shelley McNeill,",
+      "Matthew Menne,",
+      "Ag Stephens,",
+      "Peter W. Thorne,",
+      "William Tucker,",
+      "Corinne Voces,",
+      "Kate M. Willett"
+    ],
+    "doi": "https://doi.org/10.1002/gdj3.109",
+    "journalVolume": "Vol. 8,\n                                no. 2\n                                \n                                  pp.\n                                  103\n                                  – 120",
+    "issn": "2049-6060 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://rmets.onlinelibrary.wiley.com/journal/20496060",
+    "abstract": "Abstract This paper outlines progress of the Copernicus Climate Change Service's (C3S) Global Land and Marine Observations Database service in securing data sources and introduces the data upload component. We present details of land and marine data holdings inventoried, highlighting priority needs in terms of periods, regions and Essential Climate Variables (ECVs) where additional data could bring most benefit. These holdings are being iteratively merged and integrated to best meet user needs and are served to the user via the Copernicus Climate Data Store (CDS). The secure Data Upload Server enables any data provider to share additional data and metadata with the service. We outline the process for registering as a data provider and how data sets are prioritized for integration. We encourage all data owners to share their data with the C3S service via our Data Upload Server. All unique and relevant data acquired or submitted will be also archived at the NOAA National Centers for Environmental Information World Data Center for Meteorology, Asheville, North Carolina, USA and used in their database curation efforts which are being jointly developed.",
+    "readLink": "https://doi.org/10.1002/gdj3.109"
+  }
+]

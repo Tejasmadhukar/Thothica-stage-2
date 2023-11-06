@@ -1,0 +1,205 @@
+[
+  {
+    "title": "Retrieval of total and fine mode aerosol optical depth by an improved MODIS Dark Target algorithm",
+    "authors": [
+      "Xin Su,",
+      "Lunche Wang,",
+      "Xuan Gui,",
+      "Leiku Yang,",
+      "Lei Li,",
+      "Ming Zhang,",
+      "Wenmin Qin,",
+      "Minghui Tao,",
+      "Shaoqiang Wang,",
+      "Lizhe Wang"
+    ],
+    "doi": "Vol. 166\n                                \n                                \n                                  p.\n                                  107343",
+    "issn": "0160-4120 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environment-international",
+    "abstract": "Total and fine mode aerosol optical depth (AODT and AODF), as well as the fine mode fraction (FMF = AODF/AODT), are critical variables for climate change and atmospheric environment studies. The retrievals with high accuracy from satellite observations, particularly FMF and AODF over land, remain challenging. This study aims to improve the Moderate-resolution Imaging Spectro-radiometer (MODIS) land dark target (DT) algorithm for retrieving AODT, AODF, and FMF on a global scale. Based on the fact that the underestimated surface reflectance (SR) could overestimate the AODT and underestimate the aerosol size parameter in the DT algorithm, two robust schemes were developed to improve SR determination: the first (NEW1 DT) used the top of the atmosphere reflectance instead of SR at 2.12 µm; the second (NEW2 DT) used eleven-year MODIS data to establish a monthly spectral SR relationship model (2.12–0.47 and 2.12–0.65 µm) database at pixel-by-pixel scale. Then a novel lookup table approach based on the physical process was proposed to retrieve the AODF and FMF. The new MODIS AODT, FMF, and AODF were compared to AERosol RObotic NETwork (AERONET) retrievals. Results showed that the root mean square error (RMSE) was 0.096–0.103, 0.098–0.099, and 0.167–0.180 for the new AODTs, AODFs, and FMFs, respectively, which were better than that of the Collection 6.1 (C6.1) DT (0.117, 0.235, and 0.426) in the validation by global AERONET sites. From the validation results, NEW2 DT provided better AODT and coarse mode AOD retrievals, while NEW1 DT had better AODF and FMF performances. The spatial patterns of AODF, FMF, and AODC of the new DT algorithms were comparable to those of the Polarization and Directionality of the Earth's Reflectances aerosol product. Hence, the new algorithms have the potential to provide global AODT, FMF, and AODF products over land to the scientific community with high accuracy using long-term MODIS data.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0160412022002707"
+  },
+  {
+    "title": "Climatic and ecological drivers of euphausiid community structure vary spatially in the Barents Sea: relationships from a long time series (1952-2009)",
+    "authors": [
+      "Emma Lvovna Orlova,",
+      "Andrey Viktorovich Dolgov,",
+      "Paul E Renaud,",
+      "Paul E Renaud,",
+      "Michael eGreenacre,",
+      "Michael eGreenacre,",
+      "Claudia eHalsband,",
+      "Victor Anatolyevich Ivshin"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2014.00074",
+    "journalVolume": "Vol. 1",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Euphausiids play an important role in transferring energy from ephemeral primary producers to fish, seabirds, and marine mammals in the Barents Sea ecosystem. Climatic impacts have been suggested to occur at all levels of the Barents Sea food-web, but adequate exploration of these phenomena on ecologically relevant spatial scales has not been integrated sufficiently. We used a time-series of euphausiid abundance data spanning 58 years, one of the longest biological time-series in the Arctic, to explore qualitative and quantitative relationships among climate, euphausiids, and their predators, and how these parameters vary spatially in the Barents Sea. We detected four main hydrographic regions, each with distinct patterns of interannual variability in euphausiid abundance and community structure. Assemblages varied primarily in the relative abundance of Thysanoessa inermis versus T. raschii, or T. inermis versus T. longicaudata and Meganyctiphanes norvegica. Climate proxies and the abundance of capelin or cod explained 30-60% of the variability in euphausiid abundance in each region. Climate also influenced patterns of variability in euphausiid community structure, but correlations were generally weaker. Advection of boreal euphausiid taxa from the Norwegian Sea is clearly more prominent in warmer years than in colder years, and interacts with seasonal fish migrations to help explain spatial differences in primary drivers of euphausiid community structure. Non-linear effects of predators were common, and must be considered more carefully if a mechanistic understanding of the ecosystem is to be achieved. Quantitative relationships among euphausiid abundance, climate proxies, and predator stock-sizes derived from these time series are valuable for ecological models being used to predict impacts of climate change on the Barents Sea ecosystem, and how the system should be managed.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fmars.2014.00074/full"
+  },
+  {
+    "title": "Temporal LiDAR scanning in quantifying cumulative rockfall volume and hazard assessment: A case study at southwestern Saudi Arabia",
+    "authors": [
+      "Abdullah A. Alotaibi,",
+      "Norbert H. Maerz,",
+      "Kenneth J. Boyko,",
+      "Ahmed M. Youssef,",
+      "Biswajeet Pradhan"
+    ],
+    "doi": "Vol. 25,\n                                no. 2\n                                \n                                  pp.\n                                  435\n                                  – 443",
+    "issn": "1110-9823 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Egypt",
+    "lcc": [
+      "Science: Astronomy: Geodesy"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/the-egyptian-journal-of-remote-sensing-and-space-sciences/",
+    "abstract": "Rockfalls and unstable slopes pose a serious threat to people and property along roads/highways in the southwestern mountainous regions of Saudi Arabia. In this study, the application of terrestrial light detection and ranging (LiDAR) technology was applied aiming to propose a strategy to analyze and accurately depict the detection of rockfall changes, calculation of rockfall volume, and evaluate rockfall hazards along the Habs Road, Jazan Region, Saudi Arabia. A series of temporal LiDAR scans were acquired at three selected sites. Our results show that these three sites have different degrees of hazard due to their geological differences. The mean volume loss of sites A1, A2, and A3 is 327.1, 424.4, and 3.7 L, respectively. Statistical analysis confirms the significance of the influence of site type on rockfall volume, with a probability value of < 0.0105. The rockfall volume and change detection values are then correlated with precipitation, which is a triggering factor. The study also reveals that the use of terrestrial LiDAR could reduce time and effort, increase accessibility, and produce effective solutions. LiDAR could be an indispensable tool for disaster risk assessment, response and recovery process.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1110982322000394"
+  },
+  {
+    "title": "Management of Birch Spruce Mixed Stands with Consideration of Carbon Stock in Biomass and Harvested Wood Products",
+    "authors": [
+      "Jānis Vuguls,",
+      "Stefānija Dubra,",
+      "Anete Garanča,",
+      "Daiga Zute,",
+      "Āris Jansons"
+    ],
+    "doi": "https://doi.org/10.3390/f14010057",
+    "journalVolume": "Vol. 14,\n                                no. 57\n                                \n                                  p.\n                                  57",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Forests play an important role in climate change mitigation. Usage of harvested wood products (HWP) can extend the carbon cycle by retaining carbon as well as preventing new fossil emission via substitution. We compared carbon balance of different management strategies of birch spruce mixed stands over an eight-year period: unmanaged, representing a decision of prolonged rotation, and managed, representing a decision of final harvest of birch and retention of spruce for continuous forest cover and regeneration harvest. Management resulted in a higher contribution of mixed stands to climate change mitigation, if the carbon stock (CS) in biomass as well carbon balance (CB) of wood product is jointly considered in comparison to no management (prolonged rotation). Assortment structure plays an important role in CB of HWP, therefore a practice ensuring higher outcome of longer-lasting wood products are beneficial to climate change mitigation.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/1/57"
+  },
+  {
+    "title": "Reactivity to Climate Change",
+    "authors": [
+      "Jan Inglis"
+    ],
+    "doi": "no. 5\n                                \n                                  pp.\n                                  275\n                                  – 277",
+    "issn": "1553-3069 (Online)",
+    "publisher": "ARINA, Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://integral-review.org/",
+    "abstract": "Abstracts for short works are not provided",
+    "readLink": "http://integral-review.org/current_issue/documents/Inglis,%20Reactivity%20to%20Climate%20Change%205,%202007.pdf"
+  },
+  {
+    "title": "Review on Recent Strategies for Integrating Energy Storage Systems in Microgrids",
+    "authors": [
+      "Ritu Kandari,",
+      "Neeraj Neeraj,",
+      "Alexander Micallef"
+    ],
+    "doi": "https://doi.org/10.3390/en16010317",
+    "journalVolume": "Vol. 16,\n                                no. 317\n                                \n                                  p.\n                                  317",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Energy security and the resilience of electricity networks have recently gained critical momentum as subjects of research. The challenges of meeting the increasing electrical energy demands and the decarbonisation efforts necessary to mitigate the effects of climate change have highlighted the importance of microgrids for the effective integration of renewable energy sources. Microgrids have been the focus of research for several years; however, there are still many unresolved challenges that need to be addressed. Energy storage systems are essential elements that provide reliability and stability in microgrids with high penetrations of renewable energy sources. This study provides a systematic review of the recent developments in the control and management of energy storage systems for microgrid applications. In the early sections, a summary of the microgrid topologies and architectures found in the recent literature is given. The main contributions and targeted applications by the energy storage systems in the microgrid applications is defined for each scenario. As various types of energy storage systems are currently being integrated for the reliable operation of the microgrids, the paper analyses the properties and limitations of the solutions proposed in the recent literature. The review that was carried out shows that a hybrid energy storage system performs better in terms of microgrid stability and reliability when compared to applications that use a simple battery energy storage system. Therefore, a case study for a DC microgrid with a hybrid energy storage system was modelled in MATLAB/Simulink. The presented results show the advantages of hybrid energy storage systems in DC microgrids.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/1/317"
+  },
+  {
+    "title": "A generic methodological framework for accurately quantifying greenhouse gas footprints of crop cultivation systems",
+    "authors": [
+      "Xunhua ZHENG,",
+      "Shenghui HAN"
+    ],
+    "doi": "https://doi.org/10.1080/16742834.2018.1393309",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  15\n                                  – 28",
+    "issn": "1674-2834 (Print)",
+    "publisher": "2376-6123 (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/atmospheric-and-oceanic-science-letters/",
+    "abstract": "The greenhouse gas (GHG) footprint of an agricultural system is a measure of the climate change impact potential (CCIP) exerted by the formation of its product(s). Its accurate quantification is essential for determining the green value added tax of agricultural products for food markets, which in turn may drastically change the current patterns of food consumption and production towards a product life cycle oriented economy. This paper reviews the literature regarding GHG footprints of crop cultivation systems. The review concludes that few studies have fully considered the categories/items of net GHG emissions from an investigated crop cultivation system, and thus probably led to biases in footprint estimation. Most studies to date have even neglected changes in the soil organic carbon stocks of ecosystems with annual crops, while process-oriented biogeochemical models so far have seldom been involved in GHG footprint quantification. To help with solving these problems or drawbacks, the authors propose a generic methodological framework for quantifying GHG footprints of crop cultivation systems free from grazing, which takes into account all direct/indirect GHG contributors within a ‘cradle-to-gate’ life cycle. The authors then provide example values of some GHG emission factors, such as those from machinery operations and other agricultural inputs, extracted from the literature. In addition, direct measurements or model simulations of other major on-farm emission factors are emphasized. The need to further update this methodological framework in future studies, especially by adapting it to mixed crop–livestock production systems, is also indicated.",
+    "readLink": "http://dx.doi.org/10.1080/16742834.2018.1393309"
+  },
+  {
+    "title": "Construction of a national natural hazard interaction framework: The case of Sweden",
+    "authors": [
+      "Viktor Sköld Gustafsson,",
+      "Mattias Hjerpe,",
+      "Gustav Strandberg"
+    ],
+    "doi": "Vol. 26,\n                                no. 4\n                                \n                                  p.\n                                  106501",
+    "issn": "2589-0042 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.cell.com/iscience/home",
+    "abstract": "Summary: Recent multiple natural hazards and compound climate events studies have identified a range of interaction types and examined natural hazard interactions in various locations. Yet, there are calls for examining relevant multiple natural hazards in still unstudied national contexts as Sweden. Moreover, multi-hazard concepts rarely consider climate change effects, despite the call of the Intergovernmental Panel on Climate Change (IPCC) to adopt multi-hazard approaches and the growing recognition that compound events should be considered “normal”. Using a systematic literature study, the paper presents a national natural hazard interaction framework for Sweden identifying 39 cascading, 56 disposition alteration, 3 additional hazard potential, and 17 coincident triggering interactions between 20 natural hazards. Reviewed gray literature, an expert workshop, and reviewed climate research suggest increases of multiple natural hazards with heat wave and heavy rain as triggering or driving events and with hydrological hazards, for instance, fluvial floods, landslides, and debris flows, as the main consequences.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2589004223005783"
+  },
+  {
+    "title": "CLIMATE CHANGE – BETWEEN COSTS AND BENEFITS",
+    "authors": [
+      "CARMEN VALENTINA RĂDULESCU,",
+      "FLORINA BRAN,",
+      "CRISTINA POPA"
+    ],
+    "doi": "Vol. 2011\n                                \n                                \n                                  pp.\n                                  299\n                                  – 304",
+    "issn": "2067-743X (Print)",
+    "publisher": "Cluj University Press",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://aerapa.conference.ubbcluj.ro/",
+    "abstract": "Climate change – between costs and benefits. At global and regional levels the effects of climate change start to show up. While some of the countries make efforts to alleviate these effects and to find solutions, others are facing economic or political restrains that prevent them in applying the principle of common responsibility. The complex social, economic, and environmental implications of climate change’s effects focused a growing part of research on the analysis of costs and benefits. Although controversial, one of the methods used – the cost-benefit analysis – revealed that in most of the cases the prevention costs are lower than the costs of inaction. Prevention measures bring benefits by anticipating the impact and minimizing the risks for ecosystems and economy. The paper presents in its first part the controversies regarding the cost-benefit analysis, and continues, in the second part, with estimations on costs and benefits of certain policy instruments that target emission reduction.",
+    "readLink": "http://aerapa.conference.ubbcluj.ro/2011/PDF/Radulescu.pdf"
+  },
+  {
+    "title": "High Mountains Becoming Wetter While Deserts Getting Drier in Xinjiang, China since the 1980s",
+    "authors": [
+      "Yong Zhang,",
+      "Chengbang An,",
+      "Luyu Liu,",
+      "Yanzhen Zhang,",
+      "Chao Lu,",
+      "Wensheng Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/land10111131",
+    "journalVolume": "Vol. 10,\n                                no. 1131\n                                \n                                  p.\n                                  1131",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Climate change has been thought to drive the accelerated expansion of global drylands. However, many studies reveal that Arid Central Asia (ACA) has been warming and wetting in recent decades, representing an anomalous response to global climate change. Given that ACA is composed of complex ecosystems and landforms, it is not clear whether or not this trend is uniform in this topographically heterogenous region. Here, we integrate the Google Earth Engine and ERA5-Land reanalysis data to study the trend of changes, since the 1980s, in temperature and precipitation in the Tianshan Mountains and the surrounding deserts, collectively referred to as the Tianshan and Desert Ecozone, which is in Northwest China. Our results show that only 20.4% of this area is becoming both warmer and wetter, which occurs mainly in the altitudes above 2800 m (Tianshan Ecozone). All three alpine ecosystems (coniferous forests, alpine meadow, and nival zone) in the Tianshan Ecozone exhibit similar warming and wetting trends, including of elevation-dependent wetting on the specific altitude range. In contrast, the low-lying oasis where human activities are mostly concentrated is undergoing warming and drying, which will face a greater threat of drought projected under three emissions scenarios (SSP1-2.6, SSP2-4.5, and SSP5-8.5). These results highlight the importance of considering the differences of climate change in different altitude gradients and different ecosystems when studying climate change in drylands.",
+    "readLink": "https://www.mdpi.com/2073-445X/10/11/1131"
+  }
+]

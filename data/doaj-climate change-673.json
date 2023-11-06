@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Emerging Technologies to Enable Sustainable Controlled Environment Agriculture in the Extreme Environments of Middle East-North Africa Coastal Regions",
+    "authors": [
+      "Ryan M. Lefers,",
+      "Ryan M. Lefers,",
+      "Ryan M. Lefers,",
+      "Ryan M. Lefers,",
+      "Mark Tester,",
+      "Mark Tester,",
+      "Kyle J. Lauersen"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2020.00801",
+    "journalVolume": "Vol. 11",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Despite global shifts in attitudes toward sustainability and increasing awareness of human impact on the environment, projected population growth and climate change require technological adaptations to ensure food and resource security at a global scale. Although desert areas have long been proposed as ideal sites for solar electricity generation, only recently have efforts shifted toward development of specialized and regionally focused agriculture in these extreme environments. In coastal regions of the Middle East and North Africa (MENA), the most abundant resources are consistent intense sunlight and saline sea water. MENA coastal regions hold incredible untapped potential for agriculture driven by the combination of key emerging technologies in future greenhouse concepts: transparent infrared collecting solar panels and low energy salt water cooling. These technologies can be combined to create greenhouses that drive regionally relevant agriculture in this extreme environment, especially when the target crops are salt-tolerant plants and algal biomass. Future controlled environment agriculture concepts will not compete for municipal fresh water and can be readily integrated into local human/livestock/fisheries food chains. With strategic technological implementation, marginal lands in these environments could participate in production of biomass, sustainable energy generation, and the circular carbon economy. The goal of this perspective is to reframe the idea of these environments as extreme, to having incredible untapped development potential.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2020.00801/full"
+  },
+  {
+    "title": "A GIS-based agroecological model for sustainable agricultural production in arid and semi-arid areas: The case of Kerman Province, Iran",
+    "authors": [
+      "Kamaleddin Aghaloo,",
+      "Ayyoob Sharifi"
+    ],
+    "doi": "Vol. 6\n                                \n                                \n                                  p.\n                                  100230",
+    "issn": "2666-0490 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/current-research-in-environmental-sustainability",
+    "abstract": "Promoting the adoption of crop species with medicinal and commercial value can provide new opportunities for local communities to export their products. Meanwhile, using sustainable water resources and minimizing the over-exploitation of groundwater are urgently needed due to the critical status of aquifers in many parts of the world. Most existing studies are focused on a single aspect of this issue. However, few studies have incorporated the results of several suitability models in agroecological processes. Rossa Damascena Mill is recognized as a crop species and raw material with added value and considerable profitability. In addition, it is resistant to drought and adapts to different climatic conditions. This paper presents a framework for the optimal detection of suitable land for agroecological activities. We tested the framework in Kerman Province (Iran) to identify: 1) suitable lands for Rossa Damascena Mill cultivation, 2) suitable lands for agricultural rainwater harvesting (ARWH) systems, and 3) suitable lands for developing both Rosa farms and RWH simultaneously. Results revealed that approximately 24,808.5 km2 of land (14% of the province's land) is suitable for dry farming. Also, RWH systems can be implemented in 19,024.4 km2 of land (11% of the province). Overlapping land suitability for rainfed agriculture and RWH systems highlights that only 4% of the study area can be cultivated. Finally, two strategies are suggested: developing Rosa Damascena cultivation in a) ranked areas for rainfed agriculture and b) farms/gardens that can be supplied by RWH systems nearby. Sensitivity analysis and overall accuracy assessment validated the results and robustness of the modeling. This proposed model can be helpful for making effective decisions regarding the region's sustainable development to strengthen the local economy and address water stress issues, especially in arid and semi-arid areas. The results have implications for different SDGs, including SDG 12 on sustainable consumption and production and SDG 15 on life on land. They can also be used to enhance resilience against stressors induced by climate change.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666049023000233"
+  },
+  {
+    "title": "Second order observations on a coaching programme: the changes in organisational culture",
+    "authors": [
+      "Geraint Evans"
+    ],
+    "doi": "no. S5\n                                \n                                  pp.\n                                  70\n                                  – 87",
+    "issn": "1741-8305 (Online)",
+    "publisher": "Oxford Brookes University",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Education: Special aspects of education",
+      "Social Sciences: Commerce: Business: Industrial psychology"
+    ],
+    "journalUrl": "https://doi.org/10.24384/IJEBCM",
+    "abstract": "The purpose of this study is to illuminate the relationship between a coaching programme and the consequent changes within a scientific services unit of a UK county police force, using organisational culture as the lens to view and interpret the outcomes. A qualitative case study is used to create a detailed description of the changes in behaviour of managers and SSU staff and the consequent shift in the organisation climate, practice and culture. The findings suggest that management behaviour influences the organisational climate and contributed to an environment that changed the way members of the SSU related to each other and the divisional aims. Furthermore, the study highlighted individual sense-making of the coaching programme and the outcomes and surfaced the paradox of using person-centred non-directive coaching for explicit directed organisational change.",
+    "readLink": "https://radar.brookes.ac.uk/radar/file/d4f78fd2-9163-4cd2-be18-67561a01fc27/1/special05-paper-06.pdf"
+  },
+  {
+    "title": "New York State's 100% renewable electricity transition planning under uncertainty using a data-driven multistage adaptive robust optimization approach with machine-learning",
+    "authors": [
+      "Ning Zhao,",
+      "Fengqi You"
+    ],
+    "doi": "Vol. 2\n                                \n                                \n                                  p.\n                                  100019",
+    "issn": "2666-7924 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/advances-in-applied-energy",
+    "abstract": "Power system decarbonization is critical for combating climate change, and handling systems uncertainties is essential for designing robust renewable transition pathways. In this study, a bottom-up data-driven multistage adaptive robust optimization (MARO) framework is proposed to address the power systems’ renewable transition under uncertainty. To illustrate the applicability of the proposed framework, a case study for New York State is presented. Machine learning techniques, including a variational algorithm for Dirichlet process mixture model, principal component analysis, and kernel density estimation, are applied for constructing data-driven uncertainty sets, which are integrated into the proposed MARO framework to systematically handle uncertainty. The results show that the total renewable electricity transition costs under uncertainty are 21%-42% higher than deterministic planning, and the costs under the data-driven uncertainty sets are 2%-17% lower than the conventional uncertainty sets. By 2035, on-land wind and offshore wind would be the major power source for the deterministic planning case and robust optimization cases, respectively.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666792421000123"
+  },
+  {
+    "title": "The four antelope species on the Qinghai-Tibet plateau face habitat loss and redistribution to higher latitudes under climate change",
+    "authors": [
+      "Jingjie Zhang,",
+      "Feng Jiang,",
+      "Guangying Li,",
+      "Wen Qin,",
+      "Tong Wu,",
+      "Feng Xu,",
+      "Yuansheng Hou,",
+      "Pengfei Song,",
+      "Zhenyuan Cai,",
+      "Tongzuo Zhang"
+    ],
+    "doi": "Vol. 123\n                                \n                                \n                                  p.\n                                  107337",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Climate change is predicted to directly or indirectly affect species distribution and abundance, especially the species that live on the Qinghai-Tibet plateau that is highly sensitive to climate change. The Przewalski’s gazelle (Procapra przewalskii), the Goitered gazelle (Gazella subgutturosa), the Tibetan gazelle (Procapra picticaudata) and the Tibetan antelope (Pantholops hodgsonii) are the only four existing antelopes living on the plateau. They play indispensable roles in regulating the structure and function of the plateau ecosystem. To understand how climate change affects the spatial distribution and migration direction of these ungulates, we applied the maximum entropy (MaxEnt) model and used 82, 57, 397 and 324 GPS points of Przewalski’s gazelle, Goitered gazelle, Tibetan gazelle and Tibetan antelope, respectively. These points were mainly obtained through the survey of the line transect method and a small part from the database, and then we combined with the related environmental variables, and afterwards evaluated to predict the habitat change and shift of species geographic range under three climate scenarios in the 2050s and 2070s. Additionally, the potential migration paths in the future were simulated by the Minimal Cumulative Resistance (MCR) model. The results showed that climate change would cause habitat loss for all four species. The Tibetan antelope was predicted to lose over 50% of its current inhabited area under the most severe climate scenario. Also, the suitable habitat of all species would shift to higher latitudes. In particular, the Przewalski’s gazelle as an endangered species that occupies narrow habitat area would face more severe challenges in the future. Therefore, all suitable habitats should be considered as important protection areas, and our results also provide a reference for designing the optimal migration corridors for the investigated species.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X21000029"
+  },
+  {
+    "title": "Examining past and projecting future: an 800-year streamflow reconstruction of the Australian Murray river",
+    "authors": [
+      "P A Higgins,",
+      "J G Palmer,",
+      "M S Andersen,",
+      "C S M Turney,",
+      "F Johnson,",
+      "K Allen,",
+      "D Verdon-Kidd,",
+      "E R Cook"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/acf8d9",
+    "journalVolume": "Vol. 18,\n                                no. 10\n                                \n                                  p.\n                                  104016",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Managing water security and sustaining ecosystem functions under future warming poses substantial challenges for semi-arid regions. The Murray–Darling Basin (MDB) is particularly vulnerable given the considerable demand for water that underpins Australia’s agricultural production and contribution to the national economy. Understanding future drought risk requires a robust assessment of natural variability in drought length, frequency, and magnitude. In the absence of long instrumental records, past drought characteristics can be inferred from paleo-records. We reconstruct over 800 years of Murray River streamflow using a suite of tree-ring chronologies from regions with strong climate teleconnections to the MDB. The reconstruction (1190–2000 CE) captures a broad spectrum of natural climate variability, not fully represented in instrumental records, contributing to an improved understanding of the occurrence rate of multi-year droughts. We found that the Millennium Drought, which occurred in the 2000s, was the most severe (joint duration, magnitude, and peak) during the 800-year reconstruction. The return period of this event is estimated to be ∼2500 years. However, droughts in the early-1200s were of a longer duration and similar magnitude to the Millennium Drought. We used climate models to assess how the occurrence probability of severe droughts might change in the future. Compared to the 800-year baseline, climate models project an increase in future drought severity. While the increase in drought occurrence is within the uncertainty range for most future projections, the driest forecast shows a significant increase in the likelihood of severe droughts compared to natural variability. Our results highlight the need for water management strategies not to rely solely on instrumental data as it may not fully represent current and future risks. Ensuring a resilient MDB under future warming will require a robust water security policy that captures a broader range of natural and anthropogenic variability than currently recognised.",
+    "readLink": "https://doi.org/10.1088/1748-9326/acf8d9"
+  },
+  null,
+  {
+    "title": "Problem-Based Learning in University Studies on Renewable Energies: Case of a Laboratory Windpump",
+    "authors": [
+      "Alain Ulazia,",
+      "Gabriel Ibarra-Berastegi"
+    ],
+    "doi": "https://doi.org/10.3390/su12062495",
+    "journalVolume": "Vol. 12,\n                                no. 6\n                                \n                                  p.\n                                  2495",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "In the last eight years, the new faculty of Engineering in Renewable Energies at the University of the Basque Country in Eibar has developed several sustainability goals related to clean energy and climate change, but also in educative terms related to co-operative learning, motivation, and reflective thinking. The case of the laboratory-windpump challenge is paradigmatic in this sense, since it constitutes successful problem-based learning for the students in terms of the activation of heuristic tools (analogies or diagrams), critical discussions combining complex ideas about aerodynamics, mechanics and hydraulics, and a good group atmosphere. The conclusions of this work are supported by qualitative and quantitative results within a theoretical background based on the logic of discovery and its corresponding constructive-learning strategy, rather than on the logic of justification with given and well-known aprioristic assumptions.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/6/2495"
+  },
+  {
+    "title": "Climatic Niche Shift during <i>Azolla filiculoides</i> Invasion and Its Potential Distribution under Future Scenarios",
+    "authors": [
+      "Argantonio Rodríguez-Merino,",
+      "Rocío Fernández-Zamudio,",
+      "Pablo García-Murillo,",
+      "Jesús Muñoz"
+    ],
+    "doi": "https://doi.org/10.3390/plants8100424",
+    "journalVolume": "Vol. 8,\n                                no. 10\n                                \n                                  p.\n                                  424",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "In order to prevent future biological invasions, it is crucial to know non-native species distributions. We evaluated the potential global distribution of Azolla filiculoides, a free-floating macrophyte native to the Americas by using species distribution models and niche equivalency tests to analyze the degree of niche overlap between the native and invaded ranges of the species. The models were projected under two future emission scenarios, three global circulation models and two time periods. Our results indicate a possible niche shift between the distribution ranges of the species, indicating that A. filiculoides can adapt to novel environmental conditions derived from climatic differences during the invasion process. Our models also show that the future potential distribution of A. filiculoides will decrease globally, although the species could colonize new vulnerable regions where it is currently absent. We highlight that species occurrence records in the invaded area are necessary to generate accurate models, which will, in turn, improve our ability to predict potential invasion risk areas.",
+    "readLink": "https://www.mdpi.com/2223-7747/8/10/424"
+  },
+  {
+    "title": "Molecular distributions of dicarboxylic acids, oxocarboxylic acids and <i>α</i>-dicarbonyls in PM<sub>2.5</sub> collected at the top of Mt. Tai, North China, during the wheat burning season of 2014",
+    "authors": [
+      "Y. Zhu,",
+      "L. Yang,",
+      "L. Yang,",
+      "J. Chen,",
+      "J. Chen,",
+      "J. Chen,",
+      "K. Kawamura,",
+      "K. Kawamura,",
+      "M. Sato,",
+      "A. Tilgner,",
+      "D. van Pinxteren,",
+      "Y. Chen,",
+      "Y. Chen,",
+      "L. Xue,",
+      "X. Wang,",
+      "I. J. Simpson,",
+      "H. Herrmann,",
+      "H. Herrmann,",
+      "H. Herrmann,",
+      "D. R. Blake,",
+      "W. Wang"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-10741-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  10741\n                                  – 10758",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Fine particulate matter (PM2.5) samples collected at Mount (Mt.) Tai in the North China Plain during summer 2014 were analyzed for dicarboxylic acids and related compounds (oxocarboxylic acids and α-dicarbonyls) (DCRCs). The total concentration of DCRCs was 1050±580 and 1040±490 ng m−3 during the day and night, respectively. Although these concentrations were about 2 times lower than similar measurements in 2006, the concentrations reported here were about 1–13 times higher than previous measurements in other major cities in the world. Molecular distributions of DCRCs revealed that oxalic acid (C2) was the dominant species (50 %), followed by succinic acid (C4) (12 %) and malonic acid (C3) (8 %). WRF modeling revealed that Mt. Tai was mostly in the free troposphere during the campaign and long-range transport was a major factor governing the distributions of the measured compounds at Mt. Tai. A majority of the samples (79 %) had comparable concentrations during the day and night, with their day–night concentration ratios between 0.9 and 1.1. Multi-day transport was considered an important reason for the similar concentrations. Correlation analyses of DCRCs and their gas precursors and between C2 and sulfate indicated precursor emissions and aqueous-phase oxidations during long-range transport also likely play an important role, especially during the night. Source identification indicated that anthropogenic activities followed by photochemical aging accounted for about 60 % of the total variance and were the dominant source at Mt. Tai. However, biomass burning was only important during the first half of the measurement period. Measurements of potassium (K+) and DCRCs were about 2 times higher than those from the second half of the measurement period. The concentration of levoglucosan, a biomass burning tracer, decreased by about 80 % between 2006 and 2014, indicating that biomass burning may have decreased between 2006 and 2014.",
+    "readLink": "https://www.atmos-chem-phys.net/18/10741/2018/acp-18-10741-2018.pdf"
+  }
+]

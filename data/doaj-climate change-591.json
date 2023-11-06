@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Applying machine learning to investigate long‐term insect–plant interactions preserved on digitized herbarium specimens",
+    "authors": [
+      "Emily K. Meineke,",
+      "Carlo Tomasi,",
+      "Song Yuan,",
+      "Kathleen M. Pryer"
+    ],
+    "doi": "https://doi.org/10.1002/aps3.11369",
+    "journalVolume": "Vol. 8,\n                                no. 6\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2168-0450 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General)",
+      "Science: Botany"
+    ],
+    "journalUrl": "https://bsapubs.onlinelibrary.wiley.com/journal/21680450",
+    "abstract": "Premise Despite the economic significance of insect damage to plants (i.e., herbivory), long‐term data documenting changes in herbivory are limited. Millions of pressed plant specimens are now available online and can be used to collect big data on plant–insect interactions during the Anthropocene. Methods We initiated development of machine learning methods to automate extraction of herbivory data from herbarium specimens by training an insect damage detector and a damage type classifier on two distantly related plant species (Quercus bicolor and Onoclea sensibilis). We experimented with (1) classifying six types of herbivory and two control categories of undamaged leaf, and (2) detecting two of the damage categories for which several hundred annotations were available. Results Damage detection results were mixed, with a mean average precision of 45% in the simultaneous detection and classification of two types of damage. However, damage classification on hand‐drawn boxes identified the correct type of herbivory 81.5% of the time in eight categories. The damage classifier was accurate for categories with 100 or more test samples. Discussion These tools are a promising first step for the automation of herbivory data collection. We describe ongoing efforts to increase the accuracy of these models, allowing researchers to extract similar data and apply them to biological hypotheses.",
+    "readLink": "https://doi.org/10.1002/aps3.11369"
+  },
+  {
+    "title": "Water usage, hygiene and diarrhea in low-income urban communities—A mixed method prospective longitudinal study",
+    "authors": [
+      "Rebeca Sultana,",
+      "Charlotte Crim Tamason,",
+      "Leela Sengupta Carstensen,",
+      "Jannatul Ferdous,",
+      "Zenat Zebin Hossain,",
+      "Anowara Begum,",
+      "Peter Kjær Mackie Jensen"
+    ],
+    "doi": "Vol. 6\n                                \n                                \n                                  pp.\n                                  2822\n                                  – 2837",
+    "issn": "2215-0161 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/methodsx/",
+    "abstract": "Epidemiological studies considered water use and hygiene practices as central risk factors for diarrhea. Few studies focused on independent association of water quantity with diarrheal diseases. This study aimed to describe the methodological protocol that adapted multidisciplinary and mixed-method research approach to assess how water usage including water quantity influences the attributable risk for diarrhea in a low-income urban community in Bangladesh.The quantitative, anthropological and microbiological approaches were threaded together to provide a greater understanding of the infrastructural, behavioral and microbial interactions to fathom the dimensions of fecal oral transmission pathways within the households. The use of the 'Choleraphone' (i.e. a mobile phone based real time diarrheal reporting system) was a contemporary approach intended to cut down on resources, reduce research fatigue and provide more accurate data compared to the 'gold standard' (i.e. visiting a household of diarrhea cases within 48 hours) for measuring diarrhea incidence. Development of methods to measure water quantity using qualitative and quantitative approach within a setting where meter water connection is rare was another unique feature of this protocol. This protocol provided guidance and insight on how multiple methods of different disciplines can be combined to enrich understanding of waterborne diseases. Protocol name: Combating cholera caused by climate change, Keywords: Diarrhea, Water quantity, Domestic and personal hygiene, Qualitative research, Bangladesh",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2215016119303218"
+  },
+  {
+    "title": "Stratospheric water vapor affecting atmospheric circulation",
+    "authors": [
+      "Edward Charlesworth,",
+      "Felix Plöger,",
+      "Thomas Birner,",
+      "Rasul Baikhadzhaev,",
+      "Marta Abalos,",
+      "Nathan Luke Abraham,",
+      "Hideharu Akiyoshi,",
+      "Slimane Bekki,",
+      "Fraser Dennison,",
+      "Patrick Jöckel,",
+      "James Keeble,",
+      "Doug Kinnison,",
+      "Olaf Morgenstern,",
+      "David Plummer,",
+      "Eugene Rozanov,",
+      "Sarah Strode,",
+      "Guang Zeng,",
+      "Tatiana Egorova,",
+      "Martin Riese"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-023-39559-2",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Abstract Water vapor plays an important role in many aspects of the climate system, by affecting radiation, cloud formation, atmospheric chemistry and dynamics. Even the low stratospheric water vapor content provides an important climate feedback, but current climate models show a substantial moist bias in the lowermost stratosphere. Here we report crucial sensitivity of the atmospheric circulation in the stratosphere and troposphere to the abundance of water vapor in the lowermost stratosphere. We show from a mechanistic climate model experiment and inter-model variability that lowermost stratospheric water vapor decreases local temperatures, and thereby causes an upward and poleward shift of subtropical jets, a strengthening of the stratospheric circulation, a poleward shift of the tropospheric eddy-driven jet and regional climate impacts. The mechanistic model experiment in combination with atmospheric observations further shows that the prevailing moist bias in current models is likely caused by the transport scheme, and can be alleviated by employing a less diffusive Lagrangian scheme. The related effects on atmospheric circulation are of similar magnitude as climate change effects. Hence, lowermost stratospheric water vapor exerts a first order effect on atmospheric circulation and improving its representation in models offers promising prospects for future research.",
+    "readLink": "https://doi.org/10.1038/s41467-023-39559-2"
+  },
+  {
+    "title": "FOREST COVER CHANGE DETECTION IN PAKTIA PROVINCE OF AFGHANISTAN USING REMOTE SENSING AND GIS: 1998-2018",
+    "authors": [
+      "Mujeeburahman Ariez,",
+      "Khanzad  Gul zazai,",
+      "Mohammad  Ismael Larwai,",
+      "Akhlaq  Amin wani"
+    ],
+    "doi": "https://doi.org/10.29303/jbl.v5i2.887",
+    "journalVolume": "Vol. 5,\n                                no. 2",
+    "issn": "2614-7238 (Print)",
+    "publisher": "2614-3453 (Online)",
+    "countryOfPublisher": "Forestry Study Program University of Mataram",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://belantara.unram.ac.id/index.php/JBL/index",
+    "abstract": "Monitoring changes in forest cover is important to address issues like biodiversity conservation, sustainable management, and climate change. The study has been conducted in the Paktia province of Afghanistan to assess the changes in different forest classes which occurred together with political changes by using Remote Sensing and Geographic Information System (GIS). The change was analyzed for a period of two decades, i.e., 1998 to 2018. Landsat TM and OLI satellite images of 30m resolution for the years 1998 and 2018 were used respectively. The overall classification accuracy of the mapping was estimated as 82.67% and the kappa coefficient was estimated as 0.8081. The study area was delineated via visual image interpretation technique into 11 LULC classes’ viz., closed forest, open forest, forest scrub, grassland other classes (Agriculture, Agroforestry, horticulture, habitation, waterbody, wasteland, and snow). The comparison of maps 1998 and 2018 revealed that the total area under closed forest, open forest, showed an increase of 0.43%, 0.73%, respectively. While the areas under forest scrub, showed a decline of 0.30%, during the study period (1998-2018).",
+    "readLink": "https://belantara.unram.ac.id/index.php/JBL/article/view/887"
+  },
+  {
+    "title": "Future Education and Its Challenges: A Millennial’s Perspective",
+    "authors": [
+      "Marco Vitiello"
+    ],
+    "doi": "Vol. 4,\n                                no. 2\n                                \n                                  pp.\n                                  282\n                                  – 290",
+    "issn": "2038-5242 (Print)",
+    "publisher": "2038-5250 (Online)",
+    "countryOfPublisher": "Risk Institute, Trieste- Geneva",
+    "lcc": [
+      "Italy",
+      "Political science: International relations",
+      "Social Sciences: Industries. Land use. Labor: Economic growth, development, planning"
+    ],
+    "journalUrl": "http://www.cadmusjournal.org/",
+    "abstract": "In a rapidly changing world, school systems need to adapt themselves rapidly in order to be able to prepare their students for the upcoming challenges that are threatening the world today. If many steps have been taken by humanity towards progress, the multiple efforts needed to not stop this trend can be achieved only if human beings are taught differently from the past: soft skills must enter school programs more significantly, since only by nurturing empathetic and environmentally aware citizens who are able to think critically, will we be able to preserve democracy, improve social justice and international cooperation and save the world (and ourselves) from the threat of climate change",
+    "readLink": "http://cadmusjournal.org/article/volume-4/issue-2/future-education-and-its-challenges-millennial%E2%80%99s-perspective"
+  },
+  {
+    "title": "„Wir sind hier, wir sind laut“ – Artikulationen von Emotionen der Nähe auf Fahrraddemonstrationen",
+    "authors": [
+      "P. Boos,",
+      "G. Jessen"
+    ],
+    "doi": "https://doi.org/10.5194/gh-78-1-2023",
+    "journalVolume": "Vol. 78\n                                \n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "0016-7312 (Print)",
+    "publisher": "2194-8798 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography",
+      "Geography. Anthropology. Recreation: Geography (General)",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography: Cartography"
+    ],
+    "journalUrl": "http://www.geographica-helvetica.net/",
+    "abstract": "The article examines how citizens' initiatives use articulations of proximity in the context of emotionalized environment perceptions for demanding the integration of protective bicycle infrastructure in urban design. In order to do so, we present a variety of material consisting of images and language that was created in 2020 as part of various bicycle demonstrations in Berlin-Neukölln. These flyer texts, posters, speeches and photos help to understand how concerns about safety and quality of life are articulated in a language of proximity. What is perceived as closer spatially (urban spaces of everyday use such as streets in front of individuals' doors, regularly frequented cycling routes) becomes intertwined with what is perceived as closer in time, i.e. imminent and already occurring “great phenomena” (Everts, 2016) such as climate change and scarcity of resources. In our study, we assume that bicycle demonstrations function as transformation experiences. Bicycle demonstrations are motivated by emotions such as fear or anger, but can also generate different emotions such as joy and sense of community in the course of protest. For the duration of the demonstrations, streets become lived spaces suitable for bicycles, while the power relations that otherwise determine urban road traffic are challenged for a short amount of time. The experience of closeness becomes one of belonging and self-determination. It is these appropriations of space that mark bicycle demonstrations as a form of protest worth investigating, since they contribute to transforming emotions and intensifying perceptions of one's own environment.",
+    "readLink": "https://gh.copernicus.org/articles/78/1/2023/gh-78-1-2023.pdf"
+  },
+  {
+    "title": "Arctic marine climate of the early nineteenth century",
+    "authors": [
+      "P. Brohan,",
+      "C. Ward,",
+      "G. Willetts,",
+      "C. Wilkinson,",
+      "R. Allan,",
+      "D. Wheeler"
+    ],
+    "doi": "https://doi.org/10.5194/cp-6-315-2010",
+    "journalVolume": "Vol. 6,\n                                no. 3\n                                \n                                  pp.\n                                  315\n                                  – 324",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "The climate of the early nineteenth century is likely to have been significantly cooler than that of today, as it was a period of low solar activity (the Dalton minimum) and followed a series of large volcanic eruptions. Proxy reconstructions of the temperature of the period do not agree well on the size of the temperature change, so other observational records from the period are particularly valuable. Weather observations have been extracted from the reports of the noted whaling captain William Scoresby Jr., and from the records of a series of Royal Navy expeditions to the Arctic, preserved in the UK National Archives. They demonstrate that marine climate in 1810–1825 was marked by consistently cold summers, with abundant sea-ice. But although the period was significantly colder than the modern average, there was considerable variability: in the Greenland Sea the summers following the Tambora eruption (1816 and 1817) were noticeably warmer, and had less sea-ice coverage, than the years immediately preceding them; and the sea-ice coverage in Lancaster Sound in 1819 and 1820 was low even by modern standards.",
+    "readLink": "http://www.clim-past.net/6/315/2010/cp-6-315-2010.pdf"
+  },
+  {
+    "title": "Fishermen's Perception of the Benefits of Using ICT in Relationship with Fishermen's Income and Stakeholder Role Strategies : A Case Study in Pati, Central Java",
+    "authors": [
+      "Ika Suciati,",
+      "Indah Susilowati"
+    ],
+    "doi": "https://doi.org/10.24856/mem.v27i01.2646",
+    "journalVolume": "Vol. 37,\n                                no. 1\n                                \n                                  pp.\n                                  127\n                                  – 139",
+    "issn": "0854-1442 (Print)",
+    "publisher": "2503-4464 (Online)",
+    "countryOfPublisher": "Universitas 17 Agustus 1945 (UNTAG) Semarang",
+    "lcc": [
+      "Indonesia",
+      "Technology: Manufactures: Production management. Operations management",
+      "Social Sciences: Industries. Land use. Labor: Management. Industrial management"
+    ],
+    "journalUrl": "http://jurnal.untagsmg.ac.id/index.php/fe/index",
+    "abstract": "The potential of fisheries resources is still massive as well as the challenges. One of the challenges faced in the fisheries sector is climate change occurring massively. Climate change that occurs disrupts the productivity and activities of fishermen. Fishermen live with uncertainty because their livelihoods are directly related to nature. So that fishermen are required to be able to adapt and mitigate to climate change that is occurring rapidly. Information innovation and communication are widely developed to help fishermen in sea activities. The technology created is available in various forms, such as android-based applications, SMS broadcasts, Whatsapp groups, GPS, Fishfinder, etc. The objective of this study is to identify fishermen's perception of the benefits of technology and service communication used, ICT relationship with fishermen's income, and stakeholder role strategies in the use of ICT. The mix-method approach is used to acknowledge study objectives using the software SPSS 23 and Atlas. Ti 8. The result shows that fishermen's perception of the benefits of ICT namely facilitating communication, reducing production costs, improving safety, increasing fishermen's knowledge, and increasing income. There is a relationship between the use of ICT and fishermen's income, as well as stakeholders who have an important role in the use of ICT in the fishing community.",
+    "readLink": "http://jurnal.untagsmg.ac.id/index.php/fe/article/view/2646"
+  },
+  {
+    "title": "Advancements for Snowmelt Monitoring by Means of Sentinel-1 SAR",
+    "authors": [
+      "Thomas Nagler,",
+      "Helmut Rott,",
+      "Elisabeth Ripper,",
+      "Gabriele Bippus,",
+      "Markus Hetzenecker"
+    ],
+    "doi": "https://doi.org/10.3390/rs8040348",
+    "journalVolume": "Vol. 8,\n                                no. 4\n                                \n                                  p.\n                                  348",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The Sentinel satellite constellation series, developed and operated by the European Space Agency, represents the dedicated space component of the European Copernicus program, committed to long-term operational services in environment, climate and security. We developed, tested and evaluated an algorithm for generating maps of snowmelt area from C-band synthetic aperture radar (SAR) data of the Sentinel-1 mission. For snowmelt classification, a change detection method is applied, using multitemporal dual-polarized SAR data acquired in Interferometric Wide swath (IW) mode, the basic operation mode over land surfaces. Of particular benefit for wet snow retrievals are the high instrument stability, the high spatial resolution across the 250 km wide swath, and the short revisit time. In order to study the impact of polarization, we generated maps of melting snow using data of the VV-polarized channel, the VH-polarized channel and a combined VV- and VH-based channel using a weighting function that accounts for effects of the local incidence angle. Comparisons are performed with snow maps derived from Landsat images over study areas in the Alps and in Iceland. The pixel-by-pixel comparisons show good agreement between the snow products of the two sensors, with the best performance for retrievals based on the combined (VV and VH) channel and a minor decline for the VH-based product. The VV-based snowmelt extent product shows a drop-off in quality over areas with steep terrain because of the decreasing backscatter contrast of snow-covered versus snow-free surfaces on fore-slopes. The investigations demonstrate the excellent capability of the Sentinel-1 mission for operational monitoring of snowmelt areas.",
+    "readLink": "http://www.mdpi.com/2072-4292/8/4/348"
+  },
+  {
+    "title": "Synergy between land use and climate change increases future fire risk in Amazon forests",
+    "authors": [
+      "Y. Le Page,",
+      "D. Morton,",
+      "C. Hartin,",
+      "B. Bond-Lamberty,",
+      "J. M. C. Pereira,",
+      "G. Hurtt,",
+      "G. Asrar"
+    ],
+    "doi": "https://doi.org/10.5194/esd-8-1237-2017",
+    "journalVolume": "Vol. 8\n                                \n                                \n                                  pp.\n                                  1237\n                                  – 1246",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "Tropical forests have been a permanent feature of the Amazon basin for at least 55 million years, yet climate change and land use threaten the forest's future over the next century. Understory forest fires, which are common under the current climate in frontier forests, may accelerate Amazon forest losses from climate-driven dieback and deforestation. Far from land use frontiers, scarce fire ignitions and high moisture levels preclude significant burning, yet projected climate and land use changes may increase fire activity in these remote regions. Here, we used a fire model specifically parameterized for Amazon understory fires to examine the interactions between anthropogenic activities and climate under current and projected conditions. In a scenario of low mitigation efforts with substantial land use expansion and climate change – Representative Concentration Pathway (RCP) 8.5 – projected understory fires increase in frequency and duration, burning 4–28 times more forest in 2080–2100 than during 1990–2010. In contrast, active climate mitigation and land use contraction in RCP4.5 constrain the projected increase in fire activity to 0.9–5.4 times contemporary burned area. Importantly, if climate mitigation is not successful, land use contraction alone is very effective under low to moderate climate change, but does little to reduce fire activity under the most severe climate projections. These results underscore the potential for a fire-driven transformation of Amazon forests if recent regional policies for forest conservation are not paired with global efforts to mitigate climate change.",
+    "readLink": "https://www.earth-syst-dynam.net/8/1237/2017/esd-8-1237-2017.pdf"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "title": "Jamestown Canyon virus is transmissible by Aedes aegypti and is only moderately blocked by Wolbachia co-infection.",
+    "authors": [
+      "Meng-Jia Lau,",
+      "Heverton L C Dutra,",
+      "Matthew J Jones,",
+      "Brianna P McNulty,",
+      "Anastacia M Diaz,",
+      "Fhallon Ware-Gilmore,",
+      "Elizabeth A McGraw"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pntd.0011616",
+    "journalVolume": "Vol. 17,\n                                no. 9\n                                \n                                  p.\n                                  e0011616",
+    "issn": "1935-2727 (Print)",
+    "publisher": "1935-2735 (Online)",
+    "countryOfPublisher": "Public Library of Science (PLoS)",
+    "lcc": [
+      "United States",
+      "Medicine: Internal medicine: Special situations and conditions: Arctic medicine. Tropical medicine",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://journals.plos.org/plosntds/",
+    "abstract": "Jamestown Canyon virus (JCV), a negative-sense arbovirus, is increasingly common in the upper Midwest of the USA. Transmitted by a range of mosquito genera, JCV's primary amplifying host is white-tailed deer. Aedes aegypti is responsible for transmitting various positive-sense viruses globally including dengue (DENV), Zika, chikungunya, and Yellow Fever. Ae. aegypti's distribution, once confined to the tropics, is expanding, in part due to climate change. Wolbachia, an insect endosymbiont, limits the replication of co-infecting viruses inside insects. The release and spread of the symbiont into Ae. aegypti populations have been effective in reducing transmission of DENV to humans, although the mechanism of Wolbachia-mediated viral blocking is still poorly understood. Here we explored JCV infection potential in Ae. aegypti, the nature of the vector's immune response, and interactions with Wolbachia infection. We show that Ae. aegypti is highly competent for JCV, which grows to high loads and rapidly reaches the saliva after an infectious blood meal. The mosquito immune system responds with strong induction of RNAi and JAK/STAT. Neither the direct effect of viral infection nor the energetic investment in immunity appears to affect mosquito longevity. Wolbachia infection blocked JCV only in the early stages of infection. Wolbachia-induced immunity was small compared to that of JCV, suggesting innate immune priming does not likely explain blocking. We propose two models to explain why Wolbachia's blocking of negative-sense viruses like JCV may be less than that of positive-sense viruses, relating to the slowdown of host protein synthesis and the triggering of interferon-like factors like Vago. In conclusion, we highlight the risk for increased human disease with the predicted future overlap of Ae. aegypti and JCV ranges. We suggest that with moderate Wolbachia-mediated blocking and distinct biology, negative-sense viruses represent a fruitful comparator model to other viruses for understanding blocking mechanisms in mosquitoes.",
+    "readLink": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0011616&type=printable"
+  },
+  {
+    "title": "Where to Go or Where Not to Go—A Method for Advising Communities during Extreme Temperatures",
+    "authors": [
+      "Helena Madureira,",
+      "Ana Monteiro,",
+      "Sara Cruz"
+    ],
+    "doi": "https://doi.org/10.3390/cli9030049",
+    "journalVolume": "Vol. 9,\n                                no. 49\n                                \n                                  p.\n                                  49",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Climate change is producing more extremes and increasing the number and magnitude of risks that impact people’s lives, so identifying and understanding local climate risks is a long but essential process for defining adaptation strategies. The availability of technologies to sensitize and educate people about risks, and to assist people with becoming active observers and monitors of climatic elements has helped to promote permanent surveillance and proactive attitudes towards climatic phenomena that lead to undesirable risks. This paper proposes a methodological approach to guide citizens moving around the city when extreme temperatures occur, minimizing climatic risks and negative health comes, using a very simple method based on Landsat 8 temperature data images at a subsection spatial scale level. The results obtained indicate the places of higher extreme temperatures risks, as well as some of the potential places that people can use to protect themselves. This work demonstrates the value of mapping climatic factors at a local scale and deliver tailored and accurate maps with the places suitable for alleviating bioclimatic stresses and the places that should be avoided.",
+    "readLink": "https://www.mdpi.com/2225-1154/9/3/49"
+  },
+  {
+    "title": "A Southern Ocean supergyre as a unifying dynamical framework identified by physics-informed machine learning",
+    "authors": [
+      "Maike Sonnewald,",
+      "Krissy Anne Reeve,",
+      "Redouane Lguensat"
+    ],
+    "doi": "https://doi.org/10.1038/s43247-023-00793-7",
+    "journalVolume": "Vol. 4,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 20",
+    "issn": "2662-4435 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Geology",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.nature.com/commsenv/",
+    "abstract": "Abstract The Southern Ocean closes the global overturning circulation and is key to the regulation of carbon, heat, biological production, and sea level. However, the dynamics of the general circulation and upwelling pathways remain poorly understood. Here, a physics-informed unsupervised machine learning framework using principled constraints is used. A unifying framework is proposed invoking a semi-circumpolar supergyre south of the Antarctic circumpolar current: a massive series of leaking sub-gyres spanning the Weddell and Ross seas that are connected and maintained via rough topography that acts as scaffolding. The supergyre framework challenges the conventional view of having separate circulation structures in the Weddell and Ross seas and suggests that idealized models and zonally-averaged frameworks may be of limited utility for climate applications. Machine learning was used to reveal areas of coherent driving forces within a vorticity-based analysis. Predictions from the supergyre framework are supported by available observations and could aid observational and modelling efforts to study this climatologically key region undergoing rapid change.",
+    "readLink": "https://doi.org/10.1038/s43247-023-00793-7"
+  },
+  {
+    "title": "A new multi-scalar framework for quantifying the impacts of climate change and human activities on streamflow variation",
+    "authors": [
+      "Mingwei Ma,",
+      "Zhaohang Wang,",
+      "Huijuan Cui,",
+      "Wenchuan Wang,",
+      "Liuyuwei Jiang"
+    ],
+    "doi": "https://doi.org/10.2166/ws.2022.432",
+    "journalVolume": "Vol. 23,\n                                no. 1\n                                \n                                  pp.\n                                  259\n                                  – 276",
+    "issn": "1606-9749 (Print)",
+    "publisher": "1607-0798 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes",
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)"
+    ],
+    "journalUrl": "https://iwaponline.com/ws",
+    "abstract": "Most previous studies on attributing climate change and human activities to streamflow variation focused only on an annual scale, while few attempts were devoted to shorter time scales, such as seasonal or monthly scales. In this study, a multi-scalar framework for attribution analysis was constructed by integrating hydrological modeling into the Budyko-based decomposition method. Then, the multi-scalar framework was employed in the source region of the Yellow River (SRYR) as a case study. Moreover, the quantification results are compared with the simulation of a monthly water balance model (i.e., abcd model). The main results and findings indicate: (1) The mutation point of the annual streamflow is 1991 in the SRYR, and the monthly ABCD hydrological model achieves good performance in streamflow simulation for the prechange period and postchange period; (2) The contribution of climate change to streamflow variation is 65.99%, 37.50%, and 70.86% for annual, dry season, and wet season, respectively, indicating that climate change is the dominant factor controlling streamflow variation for the annual and wet season, while human activities play a major role in streamflow variation for dry season; (3) The contributions of climate change and human activities show obvious dynamic and seasonal characteristics, which are strongly affected by the transition between dry and wet seasons. Generally, the findings of this study provide valuable references for local reasonable water resource planning and management to make timely and appropriate use of the water supply. HIGHLIGHTS A new multi-scalar framework is proposed for attribution of streamflow variation.; The Budyko-based decomposition method is first extended to a monthly scale.; The ABCD model is selected for watershed hydrological modeling.; The quantification of climate and human impacts is verified by the hydrologic simulation approach.;",
+    "readLink": "http://ws.iwaponline.com/content/23/1/259"
+  },
+  {
+    "title": "New distributional record of Anthrenus dorsatus Mulsant &amp;amp; Rey, 1868 (Coleoptera, Dermestidae), Thessaloniki, Greece",
+    "authors": [
+      "Graham J. Holloway,",
+      "Dimitrios E. Bakaloudis"
+    ],
+    "doi": "https://doi.org/10.15560/15.6.1077",
+    "journalVolume": "Vol. 15,\n                                no. 6\n                                \n                                  pp.\n                                  1077\n                                  – 1081",
+    "issn": "1809-127X (Online)",
+    "publisher": "Pensoft Publishers",
+    "countryOfPublisher": "Bulgaria",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://checklist.pensoft.net/",
+    "abstract": "Anthrenus dorsatus Mulsant &amp; Rey, 1868 has been recorded from North Africa, Malta, and Iberia. During a recent visit to Thessaloniki, Greece, several Anthrenus species were collected, including A. dorsatus. The previously known distribution of A. dorsatus suggested that this species was restricted to the western Mediterranean basin, possibly with a coastal bias. This record extends the known range of A. dorsatus farther east and providing more evidence of range expansion in the pimpinellae species group across Europe, possibly driven by global climate change.",
+    "readLink": "https://checklist.pensoft.net/article/37435/download/pdf/"
+  },
+  {
+    "title": "A study of climate change impacts on hydrologic regime of the Vogršček accumulation (SW Slovenia)",
+    "authors": [
+      "Branka Trček"
+    ],
+    "doi": "Vol. 48,\n                                no. 2\n                                \n                                  pp.\n                                  295\n                                  – 302",
+    "issn": "0016-7789 (Print)",
+    "publisher": "1854-620X (Online)",
+    "countryOfPublisher": "Geological Survey of Slovenia",
+    "lcc": [
+      "Slovenia",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.geologija-revija.si",
+    "abstract": "Climate change impacts on hydrologic regime of the Vogršček accumulation (Vipava valley) were studied for a decade period 1995-2004. During this time water capture from the accumulation has been increased. Although a pumping did not influence the accumulationlevel a lot, it oscillated much different during single halves of the decade. The results indicated that this could result from a decrease of effective precipitation amounts, which recharge the accumulation, from changes of their distribution, as well as from an increasedfrequency of extreme dry periods and extreme precipitation events during the second decade half.",
+    "readLink": "http://www.geologija-revija.si/dokument.aspx?id=417"
+  },
+  {
+    "title": "Effect of environmental history on the habitat-forming kelp Macrocystis pyrifera responses to ocean acidification and warming: a physiological and molecular approach",
+    "authors": [
+      "Pamela A. Fernández,",
+      "Jorge M. Navarro,",
+      "Carolina Camus,",
+      "Rodrigo Torres,",
+      "Alejandro H. Buschmann"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-82094-7",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 15",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract The capacity of marine organisms to adapt and/or acclimate to climate change might differ among distinct populations, depending on their local environmental history and phenotypic plasticity. Kelp forests create some of the most productive habitats in the world, but globally, many populations have been negatively impacted by multiple anthropogenic stressors. Here, we compare the physiological and molecular responses to ocean acidification (OA) and warming (OW) of two populations of the giant kelp Macrocystis pyrifera from distinct upwelling conditions (weak vs strong). Using laboratory mesocosm experiments, we found that juvenile Macrocystis sporophyte responses to OW and OA did not differ among populations: elevated temperature reduced growth while OA had no effect on growth and photosynthesis. However, we observed higher growth rates and NO3 − assimilation, and enhanced expression of metabolic-genes involved in the NO3 − and CO2 assimilation in individuals from the strong upwelling site. Our results suggest that despite no inter-population differences in response to OA and OW, intrinsic differences among populations might be related to their natural variability in CO2, NO3 − and seawater temperatures driven by coastal upwelling. Further work including additional populations and fluctuating climate change conditions rather than static values are needed to precisely determine how natural variability in environmental conditions might influence a species’ response to climate change.",
+    "readLink": "https://doi.org/10.1038/s41598-021-82094-7"
+  },
+  {
+    "title": "Combining dispersal, landscape connectivity and habitat suitability to assess climate-induced changes in the distribution of Cunningham's skink, Egernia cunninghami.",
+    "authors": [
+      "Benjamin Y Ofori,",
+      "Adam J Stow,",
+      "John B Baumgartner,",
+      "Linda J Beaumont"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0184193",
+    "journalVolume": "Vol. 12,\n                                no. 9\n                                \n                                  p.\n                                  e0184193",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The ability of species to track their climate niche is dependent on their dispersal potential and the connectivity of the landscape matrix linking current and future suitable habitat. However, studies modeling climate-driven range shifts rarely address the movement of species across landscapes realistically, often assuming \"unlimited\" or \"no\" dispersal. Here, we incorporate dispersal rate and landscape connectivity with a species distribution model (Maxent) to assess the extent to which the Cunningham's skink (Egernia cunninghami) may be capable of tracking spatial shifts in suitable habitat as climate changes. Our model was projected onto four contrasting, but equally plausible, scenarios describing futures that are (relative to now) hot/wet, warm/dry, hot/with similar precipitation and warm/wet, at six time horizons with decadal intervals (2020-2070) and at two spatial resolutions: 1 km and 250 m. The size of suitable habitat was projected to decline 23-63% at 1 km and 26-64% at 250 m, by 2070. Combining Maxent output with the dispersal rate of the species and connectivity of the intervening landscape matrix showed that most current populations in regions projected to become unsuitable in the medium to long term, will be unable to shift the distance necessary to reach suitable habitat. In particular, numerous populations currently inhabiting the trailing edge of the species' range are highly unlikely to be able to disperse fast enough to track climate change. Unless these populations are capable of adaptation they are likely to be extirpated. We note, however, that the core of the species distribution remains suitable across the broad spectrum of climate scenarios considered. Our findings highlight challenges faced by philopatric species and the importance of adaptation for the persistence of peripheral populations under climate change.",
+    "readLink": "http://europepmc.org/articles/PMC5584964?pdf=render"
+  },
+  {
+    "title": "Green Infrastructure Solutions to Health Impacts of Climate Change: Perspectives of Affected Residents in Detroit, Michigan, USA",
+    "authors": [
+      "Christine Carmichael,",
+      "Cecilia Danks,",
+      "Christine Vatovec"
+    ],
+    "doi": "https://doi.org/10.3390/su11205688",
+    "journalVolume": "Vol. 11,\n                                no. 20\n                                \n                                  p.\n                                  5688",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Cities worldwide are incorporating green infrastructure to mitigate climate change and achieve health cobenefits. However, green infrastructure projects are often distributed inequitably based on race and class. Residents’ perspectives are necessary to develop and enact effective and equitable ‘green’ strategies to address climate change and its health impacts. This study reports findings from interviews and ethnographic observations with diverse residents of Detroit, Michigan, USA, who have experience with both green infrastructure projects and intense weather events (flooding). Residents expressed widespread support for green infrastructure solutions, while also sharing concerns about unintended health consequences from unsatisfactory governance of green spaces and climate change itself. Residents also held differing perspectives regarding their responsibility for, and capacity to enact, these solutions compared to businesses, city government, and nonprofit organizations. These findings illuminate key factors that city governments and partnering institutions should incorporate into planning processes with residents to achieve greater environmental justice through green infrastructure strategies to mitigate climate change and related health impacts.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/20/5688"
+  },
+  {
+    "title": "Law and Policy Review on Green Hydrogen Potential in ECOWAS Countries",
+    "authors": [
+      "Abdoulaye Ballo,",
+      "Koffi Kouakou Valentin,",
+      "Bruno Korgo,",
+      "Kehinde Olufunso Ogunjobi,",
+      "Solomon Nwabueze Agbo,",
+      "Daouda Kone,",
+      "Moumini Savadogo"
+    ],
+    "doi": "https://doi.org/10.3390/en15072304",
+    "journalVolume": "Vol. 15,\n                                no. 2304\n                                \n                                  p.\n                                  2304",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "This paper aims to review existing energy-sector and hydrogen-energy-related legal, policy, and strategy documents in the ECOWAS region. To achieve this aim, current renewable-energy-related laws, acts of parliament, executive orders, presidential decrees, administrative orders, and memoranda were analyzed. The study shows that ECOWAS countries have strived to design consistent legal instruments regarding renewable energy in developing comprehensive legislation and bylaws to consolidate it and to encourage investments in renewable energy. Despite all these countries having a legislative basis for regulating renewable energy, there are still weaknesses that revolve around the law and policy regarding its possible application in green hydrogen production and use. The central conclusion of this review paper is that ECOWAS member states presently have no official hydrogen policies nor bylaws in place. The hydrogen rise presents a challenge and opportunity for members to play an important role in the fast-growing global hydrogen market. Therefore, these countries need to reform their regulatory frameworks and align their policies by introducing green hydrogen production in order to accomplish their green economy transition for the future and to boost the continent’s sustainable development.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/7/2304"
+  }
+]

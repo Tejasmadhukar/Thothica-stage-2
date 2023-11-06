@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Validation of Two MODIS Aerosols Algorithms with SKYNET and Prospects for Future Climate Satellites Such as the GCOM-C/SGLI",
+    "authors": [
+      "Jules R. Dim,",
+      "Tamio Takamura,",
+      "Akiko Higurashi,",
+      "Pradeep Kathri,",
+      "Nobuyuki Kikuchi,",
+      "Takahashi Y. Nakajima"
+    ],
+    "doi": "https://doi.org/10.1155/2013/508064",
+    "journalVolume": "Vol. 2013",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "Potential improvements of aerosols algorithms for future climate-oriented satellites such as the coming Global Change Observation Mission Climate/Second generation Global Imager (GCOM-C/SGLI) are discussed based on a validation study of three years’ (2008–2010) daily aerosols properties, that is, the aerosol optical thickness (AOT) and the Ångström exponent (AE) retrieved from two MODIS algorithms. The ground-truth data used for this validation study are aerosols measurements from 3 SKYNET ground sites. The results obtained show a good agreement between the ground-truth data AOT and that of one of the satellites’ algorithms, then a systematic overestimation (around 0.2) by the other satellites’ algorithm. The examination of the AE shows a clear underestimation (by around 0.2–0.3) by both satellites’ algorithms. The uncertainties explaining these ground-satellites’ algorithms discrepancies are examined: the cloud contamination affects differently the aerosols properties (AOT and AE) of both satellites’ algorithms due to the retrieval scale differences between these algorithms. The deviation of the real part of the refractive index values assumed by the satellites’ algorithms from that of the ground tends to decrease the accuracy of the AOT of both satellites’ algorithms. The asymmetry factor (AF) of the ground tends to increase the AE ground-satellites discrepancies as well.",
+    "readLink": "http://dx.doi.org/10.1155/2013/508064"
+  },
+  {
+    "title": "The 2018 fire season in North America as seen by TROPOMI: aerosol layer height intercomparisons and evaluation of model-derived plume heights",
+    "authors": [
+      "D. Griffin,",
+      "C. Sioris,",
+      "J. Chen,",
+      "N. Dickson,",
+      "N. Dickson,",
+      "A. Kovachik,",
+      "A. Kovachik,",
+      "M. de Graaf,",
+      "S. Nanda,",
+      "P. Veefkind,",
+      "P. Veefkind,",
+      "E. Dammers,",
+      "C. A. McLinden,",
+      "P. Makar,",
+      "A. Akingunola"
+    ],
+    "doi": "https://doi.org/10.5194/amt-13-1427-2020",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  1427\n                                  – 1445",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "Before the launch of the TROPOspheric Monitoring Instrument (TROPOMI), only two other satellite instruments were able to observe aerosol plume heights globally, the Multi-angle Imaging SpectroRadiometer (MISR) and Cloud-Aerosol Lidar with Orthogonal Polarization (CALIOP). The TROPOMI aerosol layer height is a potential game changer, since it has daily global coverage, and the aerosol layer height retrieval is available in near real time. The aerosol layer height can be useful for aviation and air quality alerts, as well as for improving air quality forecasting related to wildfires. Here, TROPOMI's aerosol layer height product is evaluated with MISR and CALIOP observations for wildfire plumes in North America for the 2018 fire season (June to August). Further, observing system simulation experiments were performed to interpret the fundamental differences between the different products. The results show that MISR and TROPOMI are, in theory, very close for aerosol profiles with single plumes. For more complex profiles with multiple plumes, however, different plume heights are retrieved; the MISR plume height represents the top layer, and the plume height retrieved with TROPOMI tends to have an average altitude of several plume layers. The comparison between TROPOMI and MISR plume heights shows that, on average, the TROPOMI aerosol layer heights are lower, by approximately 600 m, compared to MISR, which is likely due to the different measurement techniques. From the comparison to CALIOP, our results show that the TROPOMI aerosol layer height is more accurate over dark surfaces, for thicker plumes, and plumes between approximately 1 and 4.5 km. MISR and TROPOMI are further used to evaluate the plume height of Environment and Climate Change Canada's operational forecasting system FireWork with fire plume injection height estimates from the Canadian Forest Fire Emissions Prediction System (CFFEPS). The modelled plume heights are similar compared to the satellite observations but tend to be slightly higher with average differences of 270–580 and 60–320 m compared to TROPOMI and MISR, respectively.",
+    "readLink": "https://www.atmos-meas-tech.net/13/1427/2020/amt-13-1427-2020.pdf"
+  },
+  {
+    "title": "Thermally Activated Concrete Slabs with Integrated PCM Materials",
+    "authors": [
+      "Millers Renars,",
+      "Korjakins Aleksandrs,",
+      "Lesinskis Arturs"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/201911101080",
+    "journalVolume": "Vol. 111\n                                \n                                \n                                  p.\n                                  01080",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "As building codes are pushing towards higher energy efficiency and the arrival of nearly Zero Energy Building (nZEB) requirements for all new buildings are just around the corner the need for alternative, high efficiency heating and cooling solutions for nZEB’s is greater than ever. Also as experience with renewable energy sources has proven the energy demand and energy generation rarely overlaps and it does not allow to fully utilise some renewable energy sources. This is a simulation study that focuses on integrated cooling and energy storage system utilising phase-change materials (PCM). Several types of thermally activated slabs with different PCM thicknesses were simulated in order to find the most optimal PCM thickness with melting point temperature that can support passive cooling methods based on adiabatic cooling principles. Two calculation tools were used for the study – IDA ICE 4.8 and U-NORM 2012-2 to calculate the properties of the slabs and potential of application in well insulated residential building in Baltic climate. The results showed that the optimal thickness for thermally activated PCM layer (large flat containers) range from 25 mm to 90 mm, and for layers with no thermal activation – 180 mm and more. Moreover the results show that apart from energy storage the thermally activated panel can increase thermal comfort conditions.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/37/e3sconf_clima2019_01080.pdf"
+  },
+  {
+    "title": "Long-Term Fertilization Alters the Storage and Stability of Soil Organic Carbon in Chinese Paddy Soil",
+    "authors": [
+      "Adnan Mustafa,",
+      "Hu Xu,",
+      "Nan Sun,",
+      "Kailou Liu,",
+      "Qinghai Huang,",
+      "Mohammad Tahsin Karimi Nezhad,",
+      "Minggang Xu"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy13061463",
+    "journalVolume": "Vol. 13,\n                                no. 1463\n                                \n                                  p.\n                                  1463",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "The storage of soil organic carbon (SOC) in cropland soils is an essential strategy that serves the dual purpose of enhancing soil fertility and mitigating climate change. However, how the stability of stored carbon is altered under long-term fertilization has not been well understood, especially in the double rice cropping system in Chinese paddy soils. In this study, we explored the SOC storage and consequent stability of SOC under long-term fertilization. The soil samples were fractionated chemically to isolate various fractions and constituent pools of SOC (i.e., very labile C/VLC, labile C/LC, less labile C/LLC, and non-labile C/NLC). The following treatments were tested: control (CK), recommended rate of inorganic fertilizer (NPK), double the amount of recommended rate of inorganic fertilizer (2NPK), and NPK combined with manure (NPKM). The results showed that, relative to the initial level, the application of NPKM significantly improved the SOC storage as compared to the control. The long-term NPKM increased the total SOC in the paddy soil and this increased SOC was mainly stored in LLC, as revealed by the highest increase (142%) over the control. Furthermore, the highest proportion of labile pool was associated with unfertilized CK, while the reverse was true for the recalcitrant pool, which was highest under NPKM. This supports the role of combining manure with NPK to improve the stability of SOC, further verified by the high recalcitrance index under NPKM (56.75% for 0–20 cm and 57.69% for 20–40 cm) as compared to the control.",
+    "readLink": "https://www.mdpi.com/2073-4395/13/6/1463"
+  },
+  {
+    "title": "Ecofibers for the Reinforcement of Cement Mortars for Coating Promoting the Circular Economy",
+    "authors": [
+      "Carolina  Piña Ramírez,",
+      "Alejandra  Vidales Barriguete,",
+      "Julián  García Muñoz,",
+      "Mercedes  del Río Merino,",
+      "Patricia  del Solar Serrano"
+    ],
+    "doi": "https://doi.org/10.3390/su12072835",
+    "journalVolume": "Vol. 12,\n                                no. 2835\n                                \n                                  p.\n                                  2835",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Nowadays, nobody can deny that climate change is a reality and that the life cycle of buildings contributes greatly to that reality. Therefore, proposals such as the circular economy must be integrated into the construction sector. This article shows part of the results of a research project whose objective is to introduce circular economy criteria in building materials, seeking new uses for construction and demolition waste from buildings. In particular, this article analyses the possibility of replacing fibres currently used to reinforce cement mortars with recycled fibres. After consulting the bibliography, we can conclude that some studies analyse the behaviour of cement mortars reinforced with different types of fibres, but none has been found that analyses the behaviour of these mortars for the application of continuous coatings. For this purpose, a two-stage experimental plan is designed to test cement mortar samples with different types of fibres, recycled fibres and commercial fibres, taking into consideration the characteristics that these mortars have to comply to be applied as continuous coatings. Moreover, a detailed study about the porosity of these mortars and its influence on how the mortars behave with regard to compression, water vapour permeability and impermeability has been conducted. From the results obtained, it can be concluded that the mortars containing recycled fibres have very similar resistance, absorption and permeability values to those containing commercial fibres, so that they might be suitable for application as external coatings.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/7/2835"
+  },
+  {
+    "title": "Recent expansion and intensification of hypoxia in the Arabian Gulf and its drivers",
+    "authors": [
+      "Zouhair Lachkar,",
+      "Michael Mehari,",
+      "Marina Lévy,",
+      "Francesco Paparella,",
+      "Francesco Paparella,",
+      "John A. Burt,",
+      "John A. Burt"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.891378",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The Arabian Gulf (also known as Persian Gulf, hereafter Gulf) is a shallow semi-enclosed subtropical sea known for its extreme physical environment. Recent observations suggest a decline in oxygen concentrations in the Gulf over the past few decades accompanied by an expansion of seasonal near-bottom hypoxia. Here, we reconstruct the evolution of dissolved oxygen in the Gulf from 1982 through 2010 and explore its controlling factors. To this end, we use an eddy-resolving hindcast simulation forced with winds and heat and freshwater fluxes from an atmospheric reanalysis. We show that seasonal near-bottom hypoxia (O2< 60 mmol m-3) emerges in the deeper part of the Gulf over summer and peaks in autumn in response to enhanced vertical stratification inhibiting mixing and O2 replenishment at depth. We also find a significant deoxygenation in the Gulf over the study period, with the Gulf O2 content dropping by nearly 1% per decade and near-bottom O2 decreasing by between 10 and 30 mmol m-3 in the deeper part of the Gulf between the early 1980s and the late 2000s. These changes result in the horizontal expansion of seasonal bottom hypoxia with the hypoxia-prone seafloor area increasing from less than 20,000 km2 in the 1980s to around 30,000 km2 in the 2000s. The expansion of hypoxia is also accompanied by a lengthening of the hypoxic season with hypoxia emerging locally 1 to 2 months earlier in the late 2000s relative to the early 1980s. Furthermore, declining near-bottom O2 levels result in the expansion of suboxic conditions (O2< 4 mmol m-3) and the emergence and amplification of denitrification there. An analysis of the Gulf oxygen budget demonstrates that deoxygenation is essentially caused by reduced oxygen solubility near the surface and enhanced respiration near the bottom. While reduced solubility results from the warming of the Gulf waters, enhanced respiration is mostly driven by an increased supply of nutrients imported from the Arabian Sea due to the weakening of winter Shamal winds over the study period. Our findings suggest that recent changes in local climate are not only altering the Gulf physical environment but are also having a strong impact on the Gulf biogeochemistry with profound potential implications for the ecosystems and the fisheries of the region.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.891378/full"
+  },
+  null,
+  {
+    "title": "Antioxidant responses of damiana (Turnera diffusa Willd) to exposure to artificial ultraviolet (UV) radiation in an in vitro model: part II; UV-B radiation",
+    "authors": [
+      "Lluvia de Abril Alexandra Soriano-Melgar,",
+      "Lilia Alcaraz-Meléndez,",
+      "Lía C. Méndez-Rodríguez,",
+      "María Esther Puente,",
+      "Fernando Rivera-Cabrera,",
+      "Tania Zenteno-Savín"
+    ],
+    "doi": "https://doi.org/10.3305/nh.2014.29.5.7092",
+    "journalVolume": "Vol. 29,\n                                no. 5\n                                \n                                  pp.\n                                  1116\n                                  – 1122",
+    "issn": "0212-1611 (Print)",
+    "publisher": "1699-5198 (Online)",
+    "countryOfPublisher": "Arán Ediciones, S. L.",
+    "lcc": [
+      "Spain",
+      "Medicine: Internal medicine: Specialties of internal medicine: Nutritional diseases. Deficiency diseases"
+    ],
+    "journalUrl": "http://www.nutricionhospitalaria.org",
+    "abstract": "Introduction: Ultraviolet type B (UV-B) radiation effects on medicinal plants have been recently investigated in the context of climate change, but the modifications generated by UV-B radiation might be used to increase the content of antioxidants, including phenolic compounds. Objective: To generate information on the effect of exposure to artificial UV-B radiation at different high-doses in the antioxidant content of damiana plants in an in vitro model. Methods: Damiana plantlets (tissue cultures in Murashige-Skoog medium) were irradiated with artificial UV-B at 3 different doses (1) 0.5 ± 0.1 mW cm-2 (high) for 2 h daily, (2) 1 ± 0,1 mW cm-2 (severe) for 2 h daily, or (3) 1 ± 0.1 mW cm-2 for 4 h daily during 3 weeks. The concentration of photosynthetic pigments (chlorophylls a and b, carotenoids), vitamins (C and E) and total phenolic compounds, the enzymatic activity of superoxide dismutase (SOD, EC 1.15.1.1) and total peroxidases (POX, EC 1.11.1), as well as total antioxidant capacity and lipid peroxidation levels were quantified to assess the effect of high artificial UV-B radiation in the antioxidant content of in vitro damiana plants. Results: Severe and high doses of artificial UV-B radiation modified the antioxidant content by increasing the content of vitamin C and decreased the phenolic compound content, as well as modified the oxidative damage of damiana plants in an in vitro model. Conclusion: UV-B radiation modified the antioxidant content in damiana plants in an in vitro model, depending on the intensity and duration of the exposure.",
+    "readLink": "http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112014000500022&lng=en&tlng=en"
+  },
+  {
+    "title": "Air Quality Implications of COVID-19 in California",
+    "authors": [
+      "Shuai Pan,",
+      "Jia Jung,",
+      "Zitian Li,",
+      "Xuewei Hou,",
+      "Anirban Roy,",
+      "Yunsoo Choi,",
+      "H.  Oliver Gao"
+    ],
+    "doi": "https://doi.org/10.3390/su12177067",
+    "journalVolume": "Vol. 12,\n                                no. 7067\n                                \n                                  p.\n                                  7067",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The COVID-19 pandemic has significantly affected human health and the economy. The implementation of social distancing practices to combat the virus spread, however, has led to a notable improvement in air quality. This study compared the surface air quality monitoring data from the United States Environmental Protection Agency (U.S. EPA)’s AirNow network during the period 20 March–5 May in 2020 to those in 2015–2019 from the Air Quality System (AQS) network over the state of California. The results indicated changes in fine particulate matter (PM2.5) of −2.04 ± 1.57 μg m−3 and ozone of −3.07 ± 2.86 ppb. If the air quality improvements persist over a year, it could potentially lead to 3970–8900 prevented premature deaths annually (note: the estimates of prevented premature deaths have large uncertainties). Public transit demand showed dramatic declines (~80%). The pandemic provides an opportunity to exhibit how substantially human behavior could impact on air quality. To address both the pandemic and climate change issues, better strategies are needed to affect behavior, such as ensuring safer shared mobility, the higher adoption of telecommuting, automation in the freight sector, and cleaner energy transition.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/17/7067"
+  },
+  {
+    "title": "Investigating the Effects of Teleconnection Indices on Net Primary Production in the North of Iran’s Alborz Mountains",
+    "authors": [
+      "M. Araghi Shahri,",
+      "S. Soltani,",
+      "M. Tarkesh,",
+      "S. Pourmanafi"
+    ],
+    "doi": "Vol. 9,\n                                no. 3\n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "2476-3128 (Print)",
+    "publisher": "2476-3217 (Online)",
+    "countryOfPublisher": "Isfahan University of Technology",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://ijae.iut.ac.ir/",
+    "abstract": "One of the main scientific topics on the effects of global climate change is to assess changes in the carbon cycle in rangelands. Net Primary Production (NPP) is an important component of this cycle, in terms of carbon storage, and a key indicator for assessing the ecosystem function. This research aimed to investigate the correlation between NPP and ocean-atmospheric oscillations, monthly and seasonally, from 2000 to 2016 in the north of Iran’s Alborz Mountains. Net Primary Production of terrestrial vegetation was extracted from MODIS data and used in a model along with ocean-atmospheric oscillations. Multivariate regression analysis was used to investigate the simultaneous and lagged status in different timescales. Mann-Kendal test was used for trend analysis in different seasons over the studied period. Results showed that the highest NPP values were 2.06 and 1.30 g C m-2 d-1 in spring and summer and the lowest were 0.68 and 0.55 g C m-2 d-1 in autumn and winter, respectively. The trend of NPP variations was significantly different in autumn and winter. Overall, it was showed that NPP was affected by climatic variables, especially precipitation, and variables related to ENSO indicator are the main factors affecting precipitation, thereby affecting NPP in the north of Iran.",
+    "readLink": "http://ijae.iut.ac.ir/article-1-987-en.html"
+  }
+]

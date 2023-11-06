@@ -1,0 +1,207 @@
+[
+  {
+    "title": "Performance Comparison between Polyvinylidene Fluoride and Polytetrafluoroethylene Hollow Fiber Membranes for Direct Contact Membrane Distillation",
+    "authors": [
+      "Frank  Y. C. Huang,",
+      "Allie Arning"
+    ],
+    "doi": "https://doi.org/10.3390/membranes9040052",
+    "journalVolume": "Vol. 9,\n                                no. 4\n                                \n                                  p.\n                                  52",
+    "issn": "2077-0375 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology: Chemical engineering"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/membranes",
+    "abstract": "Increasing water demand coupled with projected climate change puts the Southwestern United States at the highest risk of water sustainability by 2050. Membrane distillation offers a unique opportunity to utilize the substantial, but largely untapped geothermal brackish groundwater for desalination to lessen the stress. Two types of hydrophobic, microporous hollow fiber membranes (HFMs), including polytetrafluoroethylene (PTFE) and polyvinylidene fluoride (PVDF), were evaluated for their effectiveness in direct contact membrane distillation (DCMD). Water flux and salt rejection were measured as a function of module packing density and length in lab-scale systems. The PVDF HFMs generally exhibited higher water flux than the PTFE HFMs possibly due to thinner membrane wall and higher porosity. As the packing density or module length increased, water flux declined. The water production rate per module, however, increased due to the larger membrane surface area. A pilot-scale DCMD system was deployed to the 2nd largest geothermally-heated greenhouse in the United States for field testing over a duration of about 22 days. The results demonstrated the robustness of the DCMD system in the face of environmental fluctuation at the facility.",
+    "readLink": "https://www.mdpi.com/2077-0375/9/4/52"
+  },
+  {
+    "title": "Population genomic signatures of the oriental fruit moth related to the Pleistocene climates",
+    "authors": [
+      "Li-Jun Cao,",
+      "Wei Song,",
+      "Jin-Cui Chen,",
+      "Xu-Lei Fan,",
+      "Ary Anthony Hoffmann,",
+      "Shu-Jun Wei"
+    ],
+    "doi": "https://doi.org/10.1038/s42003-022-03097-2",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2399-3642 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.nature.com/commsbio/",
+    "abstract": "The oriental fruit moth is a pest species native to East Asia with refugial and colonized populations throughout the region. Here, a chromosome-level assembly for the species is reported and used to identify genomic signatures related to Quaternary climate change.",
+    "readLink": "https://doi.org/10.1038/s42003-022-03097-2"
+  },
+  {
+    "title": "Variation in hatching responses of Nematodirus battus eggs to temperature experiences",
+    "authors": [
+      "Lynsey A. Melville,",
+      "Jan Van Dijk,",
+      "Sian Mitchell,",
+      "Giles Innocent,",
+      "David J. Bartley"
+    ],
+    "doi": "https://doi.org/10.1186/s13071-020-04368-9",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 8",
+    "issn": "1756-3305 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "https://parasitesandvectors.biomedcentral.com/",
+    "abstract": "Abstract Background Nematodirus battus, unlike most other gastrointestinal nematodes, undergoes maturation to an infective larva within the egg. Historically, eggs were considered to require a period of chilling over winter followed by a period of temperature above 10 °C for synchronous hatching to occur (generally in spring). Anecdotal reports of Nematodirus infection out-with spring in veterinary journals and the farming press suggest that the concentrated pasture abundance of N. battus infective larvae may be changing. In order for control practices to be adapted, and unexpected disease outbreaks to be avoided, it is important to quantify how parasite epidemiology is changing and research the drivers behind it. Method The present study investigated the in vitro hatching response to temperature experiences (with and without a period of chilling) for egg samples of 90 N. battus populations obtained from 73 commercial sheep farms. Six aliquots of larvated eggs were prepared per population, three aliquots were placed at 4 °C for 6 weeks to provide a chill stimulus then incubated at the optimal hatching temperature for the species. The remaining three aliquots of eggs were incubated at the hatching temperature without a prior chill stimulus and the number of hatched larvae was compared between treatments. Results Median hatch rate across all populations with chilling was 45% (95% CI: 42–48%) and without chilling was 4% (95% CI: 2–6%). Inter-population variation in hatching ranged from 0 to 87% of eggs able to hatch in the absence of a chill stimulus, mean non-chill hatching was 13 ± 2% of eggs (mean ± SE). Non-chill hatching rates were greater than chilled hatching rates in seven of the 90 populations tested. Conclusions Clearly, the variation in hatching responses to temperature experience is very large and therefore the seasonality of the parasite may vary not only between regions but also at farm level. In contrast to what previous work has suggested, there was a geographical trend towards higher non-chill hatching in the Northern parts of the UK.",
+    "readLink": "http://link.springer.com/article/10.1186/s13071-020-04368-9"
+  },
+  {
+    "title": "Estimating Carbon Sink Strength of Norway Spruce Forests Using Machine Learning",
+    "authors": [
+      "Junbin Zhao,",
+      "Holger Lange,",
+      "Helge Meissner"
+    ],
+    "doi": "https://doi.org/10.3390/f13101721",
+    "journalVolume": "Vol. 13,\n                                no. 1721\n                                \n                                  p.\n                                  1721",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Forests sequester atmospheric carbon dioxide (CO2) which is important for climate mitigation. Net ecosystem production (NEP) varies significantly across forests in different regions depending on the dominant tree species, stand age, and environmental factors. Therefore, it is important to evaluate forest NEP and its potential changes under climate change in different regions to inform forestry policy making. Norway spruce (Picea abies) is the most prevalent species in conifer forests throughout Europe. Here, we focused on Norway spruce forests and used eddy covariance-based observations of CO2 fluxes and other variables from eight sites to build a XGBoost machine learning model for NEP estimation. The NEP values from the study sites varied between −296 (source) and 1253 (sink) g C m−2 yr−1. Overall, among the tested variables, air temperature was the most important factor driving NEP variations, followed by global radiation and stand age, while precipitation had a very limited contribution to the model. The model was used to predict the NEP of mature Norway spruce forests in different regions within Europe. The NEP median value was 494 g C m−2 yr−1 across the study areas, with higher NEP values, up to >800 g C m−2 yr−1, in lower latitude regions. Under the “middle-of-the-road” SSP2-4.5 scenario, the NEP values tended to be greater in almost all the studied regions by 2060 with the estimated median of NEP changes in 2041–2060 to be +45 g C m−2 yr−1. Our results indicate that Norway spruce forests show high productivity in a wide area of Europe with potentially future NEP enhancement. However, due to the limitations of the data, the potential decrease in NEP induced by temperature increases beyond the photosynthesis optima and frequent ecosystem disturbances (e.g., drought, bark beetle infestation, etc.) still needs to be evaluated.",
+    "readLink": "https://www.mdpi.com/1999-4907/13/10/1721"
+  },
+  {
+    "title": "Low summer river flows associated with low productivity of Chinook salmon in a watershed with shifting hydrology",
+    "authors": [
+      "Luke Warkentin,",
+      "Charles K. Parken,",
+      "Richard Bailey,",
+      "Jonathan W. Moore"
+    ],
+    "doi": "https://doi.org/10.1002/2688-8319.12124",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2688-8319 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://besjournals.onlinelibrary.wiley.com/journal/26888319",
+    "abstract": "Abstract Climate change and human activities are transforming river flows globally, with potentially large consequences for freshwater life. To help inform watershed and flow management, there is a need for empirical studies linking flows and fish productivity. We tested the effects of river conditions and other factors on 22 years of Chinook salmon productivity in a watershed in British Columbia, Canada. Freshwater conditions during adult salmon migration and spawning, as well as during juvenile rearing, explained a large amount of variation in productivity. August river flows while salmon fry reared had the strongest effect on productivity—our model predicted that cohorts that experience 50% below average flow in the August of rearing have 21% lower productivity. These contemporary relationships are set within long‐term changes in climate, land use, and hydrology. Over the last century, average August river discharge decreased by 26%, air temperatures warmed, and water withdrawals increased. Seventeen percent of the watershed was logged in the last 20 years. Our results suggest that, in order to remain stable, this Chinook salmon population being assessed for legal protection requires substantially higher August flow than previously recommended. Changing flow regimes—driven by watershed impacts and climate change—can threaten imperilled fish populations.",
+    "readLink": "https://doi.org/10.1002/2688-8319.12124"
+  },
+  {
+    "title": "Strategies to Mitigate the Adverse Effects of Climate Change - Perspectives of the Farmers of North-East India",
+    "authors": [
+      "Sesenlo Kath,",
+      "K Kanagasabapathi"
+    ],
+    "doi": "https://doi.org/10.26725/JEE.2019.4.31.6417-6420",
+    "journalVolume": "Vol. 31,\n                                no. 4",
+    "issn": "0971-3123 (Print)",
+    "publisher": "2456-1282 (Online)",
+    "countryOfPublisher": "Extension Education Society",
+    "lcc": [
+      "India",
+      "Education: Special aspects of education"
+    ],
+    "journalUrl": "http://extensioneducation.org/index.php/jee",
+    "abstract": "Climate change is one of the biggest environmental threats facing the world, potentially impacting food production and security. There is increasing evidence that climate change will strongly affect the North eastern region of India, especially the state of Nagaland and will be one of the challenging issues for future development. An attempt has been made to collect data from three hundred farmer respondents for providing suggestions to overcome the ill effects of climate change. The farmers suggested measures such as ‘provision of adequate funds to the grassroots level workers and functionaries’, ‘creating intensive awareness among farmers about climate change and adaptation’ and ‘developing low cost adaptation technology’.",
+    "readLink": "https://www.extensioneducation.org/index.php/jee/article/view/489"
+  },
+  {
+    "title": "Inferring ground-level nitrogen dioxide concentrations at fine spatial resolution applied to the TROPOMI satellite instrument",
+    "authors": [
+      "Matthew J Cooper,",
+      "Randall V Martin,",
+      "Chris A McLinden,",
+      "Jeffrey R Brook"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aba3a5",
+    "journalVolume": "Vol. 15,\n                                no. 10\n                                \n                                  p.\n                                  104013",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Satellite-based estimates of ground-level nitrogen dioxide (NO _2 ) concentrations are useful for understanding links between air quality and health. A longstanding question has been why prior satellite-derived surface NO _2 concentrations are biased low with respect to ground-based measurements. In this work we demonstrate that these biases are due to both the coarse resolution of previous satellite NO _2 products and inaccuracies in vertical mixing assumptions used to convert satellite-observed tropospheric columns to surface concentrations. We develop an algorithm that now allows for different mixing assumptions to be used based on observed NO _2 conditions. We then apply this algorithm to observations from the TROPOMI satellite instrument, which has been providing NO _2 column observations at an unprecedented spatial resolution for over a year. This new product achieves estimates of ground-level NO _2 with greater accuracy and higher resolution compared to previous satellite-based estimates from OMI. These comparisons also show that TROPOMI-inferred surface NO _2 concentrations from our updated algorithm have higher correlation and lower bias than those found using TROPOMI and the prior algorithm. TROPOMI-inferred estimates of the population exposed to NO _2 conditions exceeding health standards are at least three times higher than for OMI-inferred estimates. These developments provide an exciting opportunity for air quality monitoring.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aba3a5"
+  },
+  {
+    "title": "Indicators for evaluating trends of air humidification in arid regions under circumstance of climate change: Relative humidity (RH) vs. Actual water vapour pressure (ea)",
+    "authors": [
+      "Qi Wei,",
+      "Junzeng Xu,",
+      "Linxian Liao,",
+      "Yanmei Yu,",
+      "Weixuan Liu,",
+      "Jing Zhou,",
+      "Yimin Ding"
+    ],
+    "doi": "Vol. 121\n                                \n                                \n                                  p.\n                                  107043",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "The trend of wetting or drying is an important metric of regional and global climate change. Based on daily meteorological data during 1951–2018 from 10 stations in arid regions of North China, the performances of two indicators, relative humidity (RH) and actual water vapour pressure (ea), in evaluating the trends of air humidification are investigated. Results show that annual RH decreases by 0–0.10% yr−1 during the past decades in almost all (90%) stations, whereas annual ea presents increasing trends in 40% of stations and decreasing trends in the other 60% stations. Therefore, contrasting results are observed in the trends of air humidity reflected RH and ea. Specifically, stations getting significantly drying as indicated by RH, it is tend to getting less drying or even wetting as indicated by ea. These results suggest that it tend to give a misleading conclusion with the trends of RH as indicator in evaluating the trends of regional or global wetting or drying, due to the reduction in RH caused by the accompanying temperature rising under global warming. The other indicator ea is more consistent with the precipitation changes, and suitable for trending analyses of air humidification under such circumstance. Further researches should be done in a larger scale arid region and in different seasons, to investigate the differences in the trends of air humidification indicated by RH and ea, and discuss the response of the changes of wetting or drying to the varied meteorological factors.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X20309821"
+  },
+  {
+    "title": "Paleoclimate and Paleoenvironment Reconstructions from Middle Eocene Successions at Beni-Suef, Egypt: Foraminiferal Assemblages and Geochemical Approaches",
+    "authors": [
+      "Mostafa Mohamed Sayed,",
+      "Petra Heinz,",
+      "Ibrahim Mohamed Abd El-Gaied,",
+      "Michael Wagreich"
+    ],
+    "doi": "https://doi.org/10.3390/d15060695",
+    "journalVolume": "Vol. 15,\n                                no. 695\n                                \n                                  p.\n                                  695",
+    "issn": "1424-2818 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/diversity/",
+    "abstract": "The Eocene deposits of Egypt provide a wide variety of shallow marine facies and fossil assemblages, allowing paleoenvironmental reconstructions in this warmhouse climate interval. Forty-three rock samples have been collected from two middle Eocene sections, exposed at southeast Beni-Suef area in northern Egypt. The studied outcrops are lithologicsally subdivided into two rock units named from base to top as follows: (1) the Qarara Formation (Lutetian) and (2) the El Fashn Formation (Bartonian). Most investigated rock samples showed richness in benthic foraminiferal assemblages and only rare occurrences of index planktonic foraminifera. They yielded 160 foraminifera species which belong to 4 suborders, 19 superfamilies, 34 families, and 59 genera. The stratigraphic distribution of the identified species allowed us to define four local benthic bio-ecozones: (1) Bolivina carinata Lowest Occurrence Zone (Lutetian), (2) Cibicides mabahethi/Cancris auriculus primitivus Concurrent-Range Zone, (3) Nonion scaphum Lowest Occurrence Zone, and (4) Brizalina cookei/Nonionella insecta Concurrent-Range Zone (Bartonian). These biozones are described and discussed in detail and correlated to stratigraphic equivalents in Egypt. The rareness of index planktonic foraminifera through the studied sections does not allow a precise biostratigraphic and chronostratigraphic correlation. The shale samples show low TOC values, which may be related to low productivity, high sediment influx, and/or prevailing oxic conditions. Bulk rock geochemistry, consistent with the benthic foraminifera ecological preferences, indicated that the studied sections were deposited in moderate to high oxygen levels and warm climatic conditions in a typical shelf marine setting. The identified species showed strong similarities with nearby southern Tethys areas, reflecting migration via the trans-Sahara seaway, and minor similarities with those identified from the northwestern Tethys and the North Atlantic province attributed to the change in the environmental and climatic conditions, such as cooler, latitudinal zoned climatic conditions along the northwestern Tethys, which was unsuitable for their biological demands. The warming trend identified from Lutetian to Bartonian intervals corresponds to the onset of the Middle Eocene Climatic Optimum (MECO).",
+    "readLink": "https://www.mdpi.com/1424-2818/15/6/695"
+  },
+  {
+    "title": "Spatio-temporal distribution of atmospheric precipitation in the Odesa region at the beginning of the 21st century",
+    "authors": [
+      "H. P. Ivus,",
+      "L. D. Goncharova,",
+      "N. I. Kosolapova"
+    ],
+    "doi": "https://doi.org/10.31481/uhmj.22.2018.02",
+    "journalVolume": "no. 22\n                                \n                                  pp.\n                                  16\n                                  – 27",
+    "issn": "2311-0902 (Print)",
+    "publisher": "2616-7271 (Online)",
+    "countryOfPublisher": "Odessa State Environmental University",
+    "lcc": [
+      "Ukraine",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://uhmj.org.ua",
+    "abstract": "During the last decade of the 20th and at the beginning of the 21st century there was a need for a higher level of understanding of the climate system and development of opportunities to prevent climate change and, first of all, understanding of dangerous natural hydrometeorological phenomena. The research of the latter is based on contemporary ideas of the theory of climate whose main concepts found their further development in the study of changes and fluctuations of the today's climate. For its climatic characteristics the South of Ukraine is considered as a separate region. This is due to not only the influence of the Black Sea but also to the specific features of the atmospheric circulation. Precipitation is one of the most important characteristics of humidification and appears to be the most variable meteorological value both in space and time. According to the results of modern studies the amount of precipitation within the territory of Ukraine and its individual regions was changing at the end of the 20th century and this change is still observed at the beginning of the 21st century. Therefore, the purpose of this scientific study is to determine the peculiarities of the spatio-temporal distribution of atmospheric precipitation in the territory of the Odesa Region over the recent decades. To complete this task we used statistical methods of processing the output information which included time data for 00, 06, 12 and 18 hours. Based on peculiarities of the structure of the long-term course of atmospheric precipitation in the territory of the Odesa region the following five regions were defined: southern, northwest, northern, eastern and coastal. Using the integral Fourier transform we managed to determine probable periodic oscillations (quasi-two-month, quasi-three-month, half-year and quasi-ten-month ones). This article presents the main results of one of the sections of the research work \"Forecasting of dangerous meteorological phenomena over the southern regions of Ukraine\" which is performed at the Department of Meteorology and Climatology of the Odessa State Environmental University.",
+    "readLink": "http://uhmj.org.ua/index.php/journal/article/view/103"
+  }
+]

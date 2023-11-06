@@ -1,0 +1,210 @@
+[
+  {
+    "title": "PERFORMANCES OF TWO PROTOTYPES OF LOG EXTRACTION TECHNIQUES USING THE SKYLINE SYSTEM",
+    "authors": [
+      "Wesman Endom,",
+      "Satria Astana"
+    ],
+    "doi": "https://doi.org/10.20886/ijfr.2017.4.1.1-14",
+    "journalVolume": "Vol. 4,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2355-7079 (Print)",
+    "publisher": "2406-8195 (Online)",
+    "countryOfPublisher": "Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/IJFR",
+    "abstract": "Timber extraction from felling area to road side is not an easy job. This activity facing a number of difficulties particularly due to geo-biophysical conditions, such as steep terrain, up and/or down-hill, valley or river-to be crossed, slippery road and also the size of the timber and low accessibility. To anticipate those obstacles two engineering designs of the skyline system had been tried, the so called Expo-2000 Generation-1, using gasoline engine of 6 HP (G-1), and Expo-2000 Generation-3 using diesel engine of 12 HP (G-3). G-1 model has been tested in Cimeong and Rancaparang in 2011. G-3 model has been examined in Cibatu Canjur and Cibaliung Banten in 2013. This paper evaluates the modification of skyline system for steep terrain and to compare the performance between two modified skyline systems, in term of productivity and cost. The data collected included working time, log volume extracted, log extraction distance and fuel used. Data were analyzed to get the average productivity and cost of operation. Result show that prototype G-3 with logs in horizontal position at a distance of 130-430 m, can extract logs averaging 1.72 m3/hr, at a cost of about Rp 80,346/m3, while prototype G-1 and logs in vertical position at a distance of about 50-320 m, could only extract logs averaging ± 0.85 m3/ hr at a cost of about Rp 156,351/m3. It suggests that prototype Expo-2000 G-3 is more effective for log extraction logs in steep terrain.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/IJFR/article/view/2071"
+  },
+  {
+    "title": "Directions and Extent of Flows Changes in Warta River Basin (Poland) in the Context of the Efficiency of Run-of-River Hydropower Plants and the Perspectives for Their Future Development",
+    "authors": [
+      "Mariusz Sojka"
+    ],
+    "doi": "https://doi.org/10.3390/en15020439",
+    "journalVolume": "Vol. 15,\n                                no. 439\n                                \n                                  p.\n                                  439",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "This paper presents changes in the flow of 14 rivers located in the Warta River basin, recorded from 1951 to 2020. The Warta is the third-longest river in Poland. Unfortunately, the Warta River catchment area is one of the most water-scarce regions. It hosts about 150 hydropower plants with a capacity of up to 5 kW. The catchment areas of the 14 smaller rivers selected for the study differ in location, size, land cover structure and geological structure. The paper is the first study of this type with respect to both the number of analyzed catchments, the length of the sampling series and the number of analyzed flow characteristics in this part of Europe. The analysis of changes in the river flows was performed with reference to low minimum, mean and maximum monthly, seasonal and annual flows. Particular attention was paid to 1, 3, 7, 30 and 90-day low flows and durations of the flows between Q50 and Q90%. In addition, the duration of flows between Q50 and Q90% were analysed. Analysis of the direction and extent of particular flow types was performed by multitemporal analysis using the Mann–Kendall (MK) and Sen (S) tests. The analysis of multiannual flow sequences from the years 1951–2020 showed that the changes varied over the time periods and catchments. The most significant changes occurred in the low flows, while the least significant changes occurred in the high flows. From the point of view of the operation of the hydropower sector, these changes may be unfavourable and result in a reduction in the efficiency of run-of-river hydropower plants. It was established that local factors play a dominant role in the shaping of river flows in both positive and negative terms, for the efficiency of the hydropower plants.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/2/439"
+  },
+  {
+    "title": "GIS-based modeling of runoff source areas and pathways",
+    "authors": [
+      "N. J. Kuhn,",
+      "H. Zhu"
+    ],
+    "doi": "https://doi.org/10.5194/gh-63-48-2008",
+    "journalVolume": "Vol. 63,\n                                no. 1\n                                \n                                  pp.\n                                  48\n                                  – 57",
+    "issn": "0016-7312 (Print)",
+    "publisher": "2194-8798 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography",
+      "Geography. Anthropology. Recreation: Geography (General)",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography: Cartography"
+    ],
+    "journalUrl": "http://www.geographica-helvetica.net/",
+    "abstract": "The application of runoff models that rely on calibration to future land use and climate conditions is restricted to situations where the reaction of Hydrologic Response Units to environmental change is known. This limitation and the ensuing uncertainty of model results can be avoided when a risk-based approach to landscape and runoff analysis is taken. GIS-based landscape analysis provides the possibility of assessing the risks associated with non-linear responses of Hydrologic Response Units to changing rainfall and land use. In this paper, a runoff module designed for IDRISI-Andes to calculate runoff amount and routing for single or multiple rainfall events on a hillslope at small catchment scale is presented. The module is raster-based and uses layers with topographic and hydrological parameters to calculate a spatially distributed output layer of surface runoff. Conceptually, the module extrapolates point data of infiltration capacity onto a field or hillslope. A spatially distributed runoff map is calculated based on the addition of layers with rainfall data and the routing of runoff through pathways connecting pixels in a digital elevation model. Unlike outlet-based runoff modeling, the need for parameterization of the catchment is kept to a minimum. The application of the RUNOFF module in a test area in the Eifel region of Germany indicated that runoff from grassland is sensitive to small increases in rainfall intensity and soil compaction. The spatial patterns of infiltration capacity also contribute significantly to the non-linearity of the test area reaction to changing rainfall and soil hydrologic properties.",
+    "readLink": "http://www.geogr-helv.net/63/48/2008/gh-63-48-2008.pdf"
+  },
+  {
+    "title": "Risk assessment and uncertainty of the shrimp trawl fishery in the Gulf of California considering environmental variability",
+    "authors": [
+      "Luis César Almendarez-Hernández,",
+      "Germán Ponce-Díaz,",
+      "Daniel Lluch-Belda,",
+      "Pablo del Monte-Luna,",
+      "Romeo Saldívar-Lucio"
+    ],
+    "doi": "https://doi.org/10.3856/vol43-issue4-fulltext-4",
+    "journalVolume": "Vol. 43,\n                                no. 4\n                                \n                                  pp.\n                                  651\n                                  – 661",
+    "issn": "0718-560X (Online)",
+    "publisher": "Escuela de Ciencias del Mar, Facultad de Recursos Naturales, Pontificia Universidad Católica de Valparaíso",
+    "countryOfPublisher": "Chile",
+    "lcc": [
+      "Agriculture: Aquaculture. Fisheries. Angling",
+      "Geography. Anthropology. Recreation: Oceanography",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.lajar.cl/index.php/rlajar",
+    "abstract": "The shrimp fishery off the Mexican Pacific coast is the country's most important fishery from the economic standpoint. However, it faces serious problems, including the fleet's overcapitalization and age, in addition to the environmental variability that affects the size of catches. Thus, this activity depends on a variety of factors that add uncertainty to the profitability of fishing vessels. This study aims to estimate the probability of success and economic risk of \"type vessels\" under two different environmental variability scenarios in the Gulf of California. The results from the economic simulation pointed to the vessel type used in Guaymas (Sonora) as the most efficient one under a neutral climate change scenario, showing a homogeneous behaviour in physical characteristics and mode of operation. By contrast, under a scenario of a monotonic rise in sea surface temperature, the shrimp fishery faces a greater risk of incurring economic losses. The simulated climate behaviour scenarios revealed that the activity involves a moderate economic profitability under the neutral scenario; however, under the warming scenario, profitability may be low or even nil due to the risks and uncertainty resulting from the influence of environmental phenomena.",
+    "readLink": "http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-560X2015000400004&lng=en&tlng=en"
+  },
+  {
+    "title": "Water requirements for wheat and maize under climate change in North Nile Delta",
+    "authors": [
+      "Samiha Ouda,",
+      "Noreldin Tahany,",
+      "Abd El-Latif Khaled"
+    ],
+    "doi": "https://doi.org/10.5424/sjar/2015131-6412",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  p.\n                                  e0301",
+    "issn": "1695-971X (Print)",
+    "publisher": "2171-9292 (Online)",
+    "countryOfPublisher": "Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria",
+    "lcc": [
+      "Spain",
+      "Agriculture"
+    ],
+    "journalUrl": "https://revistas.inia.es/index.php/sjar",
+    "abstract": "Determination of water requirements for wheat and maize under climate change is important for policy makers in Egypt. The objectives of this paper were to calculate (i) ETo and (ii) water requirements for wheat and maize crops grown in five governorates (Alexandria, Demiatte, Kafr El-Sheik, El-Dakahlia and El-Behira) located in North Nile Delta of Egypt under current climate and climate change. ECHAM5 climate model was used to develop A1B climate change scenario in 2020, 2030 and 2040. Monthly values of evapotranspiration (ETo) under the different scenarios in these governorates were calculated using Hargreaves-Samani equation (H-S). Then, these values were regressed on ETo values previously calculated by Penman-Monteith equation (P-M) and linear regression (prediction equations were developed for each governorate). The predicted ETo values were compared to the values of ETo calculated by P-M equation and the deviations between them were very low (RMSE/obs=0.04-0.06 mm and R2 =0.96-0.99). Water requirements for wheat and maize were calculated using BISm model under current climate and in 2020, 2030 and 2040. The results showed that average annual ETo would increase by low percentage in 2020 and 2030. However, in 2040 the increase would reach 8%. Water requirements are expected to increase by 2-3% for wheat and by 10-15% for maize, which would result in reduction of the cultivated area. Thus, it is very important to revise and fix the production system of wheat and maize, in terms of the used cultivars, fertilizer and irrigation application to overcome the risk of climate change. Additional key words: Triticum spp; Zea mays; Penman-Monteith equation; Hargreaves-Samani equation; BISm model; ECHAM5 climate model; A1B climate change scenario. Abbreviations used: BISm (basic irrigation scheduling model); CCAFS (Climate Change, Agriculture and Food Security); ETo (evapotranspiration); H-S (Hargreaves & Samani); Kc (crop coefficient); PI (percentage of increase); P-M (Penman Monteith); RMSE (root mean square error); WHC (water holding capacity). Citation: Ouda, S.; Noreldin, T.; Abd El-Latif, K. (2015). Water requirements for wheat and maize under climate change in North Nile Delta. Spanish Journal of Agricultural Research, Volume 13, Issue 1, e03-001, 10 pages. http://dx.doi.org/10.5424/sjar/2015131-6412. Received: 15 Jun 2014. Accepted: 02 Dec 2014. http://dx.doi.org/10.5424/sjar/2015131-6412 Copyright © 2015 INIA. This is an open access article distributed under the Creative Commons Attribution License (CC by 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Funding: The author(s) received no specific funding for this work. Competing interests: The authors have declared that no competing interests exist. Correspondence should be addressed to Samiha Ouda: samihaouda@yahoo.com",
+    "readLink": "http://revistas.inia.es/index.php/sjar/article/view/6412/2228"
+  },
+  {
+    "title": "Loss of profit in the hotel industry of the United States due to climate change",
+    "authors": [
+      "Pan He,",
+      "Yueming Qiu,",
+      "Yi David Wang,",
+      "Cihan Cobanoglu,",
+      "Olena Ciftci,",
+      "Zhu Liu"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ab2dce",
+    "journalVolume": "Vol. 14,\n                                no. 8\n                                \n                                  p.\n                                  084022",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Tourism has been identified as a key economic sector vulnerable to climate change, yet direct empirical evidence is still lacking on the economic gain and loss of the tourism industry due to climate change. Here we find that temperature significantly affects the profits of the hotel industry with both spatial and seasonal heterogeneity. By using a rich dataset of the monthly financial records of more than 1700 hotels in 50 US states during 2016–2018 (approximately 3.2% of hotels nationally), we show that a deviation from 18 °C ∼ 20 °C in monthly averaged temperature leads to a decrease in the profit rate. The effect is triggered by fewer customers, less revenue, and higher cost per occupied room partially due to the increased usage of electricity and water. Such an effect can be lasting and is less impactful for higher chain scale hotels. In future GHG emission scenarios, climate change will lead to a loss of profit in most climate zones particularly the southern regions, with higher GHG emissions leading to a more serious effect. This study contributes to the literature on how climate change affects human activities and helps refine the relevant damage function of climate change on tourism in existing climate models.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ab2dce"
+  },
+  {
+    "title": "Experiments and Numerical Simulations of Dike Erosion due to a Wave Impact",
+    "authors": [
+      "Stefania Evangelista"
+    ],
+    "doi": "https://doi.org/10.3390/w7105831",
+    "journalVolume": "Vol. 7,\n                                no. 10\n                                \n                                  pp.\n                                  5831\n                                  – 5848",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Dike erosion is a crucial issue in coastal and fluvial flood risk management. These defense structures appear vulnerable to extreme hydrological events, whose potential occurrence risk seems to be recently increased due to climate change. Their design and reinforcement is, however, a complex task, and although numerical models are very powerful nowadays, real processes cannot be accurately predicted; therefore, physical models constitute a useful tool to investigate different features under controlled conditions. This paper presents some laboratory experimental results of erosion of a sand dike produced by the impact of a dam break wave. Experiments have been conducted in the Water Engineering Laboratory at the University of Cassino and Southern Lazio, Italy, in a rectangular channel: here, the sudden opening of a gate forming the reservoir generates the wave impacting the dike, made in turn of two different, almost uniform sands. The physical evidence proves that the erosion process is strongly unsteady and significantly different from a gradual overtopping and highlights the importance of apparent cohesion for the fine sand dike. The experimental results have also been compared against the ones obtained through the numerical integration of a two-phase model, which shows the reasonable predictive capability of the temporal free surface and dike profile evolution.",
+    "readLink": "http://www.mdpi.com/2073-4441/7/10/5831"
+  },
+  {
+    "title": "Projections of Beach Erosion and Associated Costs in Chile",
+    "authors": [
+      "Patricio Winckler,",
+      "Roberto Agredano Martín,",
+      "César Esparza,",
+      "Oscar Melo,",
+      "María Isabel Sactic,",
+      "Carolina Martínez"
+    ],
+    "doi": "https://doi.org/10.3390/su15075883",
+    "journalVolume": "Vol. 15,\n                                no. 5883\n                                \n                                  p.\n                                  5883",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Economic costs associated to coastal erosion are projected in 45 sandy beaches in Chilean coasts. We compare mid-century (2026–2045) and end-of-century projections (2081–2100) of wave climate and sea-level rise (SLR) with a historical period (1985–2004) using several General Circulation Models for the RCP 8.5 scenario. Offshore wave data are then downscaled to each site, where shoreline retreat is assessed with Bruun rule for various berm heights and sediment diameters. Results indicate that mid-century retreat would be moderate (>13 m) while larger end-of-century projections (>53 m) are explained by SLR (0.58 ± 0.25 m). A small counterclockwise rotation of long beaches is also expected. To assess the costs of shoreline retreat, we use the benefit transfer methodology by using adjusted values from a previous study to the sites of interest. Results show that, by mid-century, beach width reduction would be between 2.0% and 68.2%, implying a total annual loss of USD 5.6 [5.1–6.1] million. For end-the-century projections, beach width reduction is more significant (8.4–100%), involving a total annual loss of USD 10.5 [8.1–11.8] million. Additionally, by the end-of-century, 13–25 beaches could disappear. These costs should be reduced with coastal management practices which are nevertheless inexistent in the country.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/7/5883"
+  },
+  {
+    "title": "Belowground plant biomass allocation in tundra ecosystems and its relationship with temperature",
+    "authors": [
+      "Peng Wang,",
+      "Monique M P D Heijmans,",
+      "Liesje Mommer,",
+      "Jasper van Ruijven,",
+      "Trofim C Maximov,",
+      "Frank Berendse"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/11/5/055003",
+    "journalVolume": "Vol. 11,\n                                no. 5\n                                \n                                  p.\n                                  055003",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Climate warming is known to increase the aboveground productivity of tundra ecosystems. Recently, belowground biomass is receiving more attention, but the effects of climate warming on belowground productivity remain unclear. Enhanced understanding of the belowground component of the tundra is important in the context of climate warming, since most carbon is sequestered belowground in these ecosystems. In this study we synthesized published tundra belowground biomass data from 36 field studies spanning a mean annual temperature (MAT) gradient from −20 °C to 0 °C across the tundra biome, and determined the relationships between different plant biomass pools and MAT. Our results show that the plant community biomass–temperature relationships are significantly different between above and belowground. Aboveground biomass clearly increased with MAT, whereas total belowground biomass and fine root biomass did not show a significant increase over the broad MAT gradient. Our results suggest that biomass allocation of tundra vegetation shifts towards aboveground in warmer conditions, which could impact on the carbon cycling in tundra ecosystems through altered litter input and distribution in the soil, as well as possible changes in root turnover.",
+    "readLink": "https://doi.org/10.1088/1748-9326/11/5/055003"
+  },
+  {
+    "title": "Mycotoxins: Risks, regulations and European co-operation",
+    "authors": [
+      "Van Egmond Hans P."
+    ],
+    "doi": "https://doi.org/10.2298/ZMSPN1325007V",
+    "journalVolume": "Vol. 2013,\n                                no. 125\n                                \n                                  pp.\n                                  7\n                                  – 20",
+    "issn": "0352-4906 (Print)",
+    "publisher": "2406-0828 (Online)",
+    "countryOfPublisher": "Matica srpska",
+    "lcc": [
+      "Serbia",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.doiserbia.nb.rs/journal.aspx?issn=0352-4906",
+    "abstract": "Mycotoxins and mycotoxicises have been problems of the past and the present, but scientific attention for mycotoxins did not start until the early 1960’s. Nowa­days, many mycotoxins are known, and their occurrence in food and animal feed may cause various adverse effects on human and animal health, including carcinogenic, hepatotoxic, immunotoxic, nephrotoxic, neurotoxic, oestrogenic and teratogenic effects. Some important mycotoxins include the aflatoxins, ochratoxin A, the fumonisins and the trichothecenes, and their significance is briefly described. To protect human and animal health, many countries have enacted specific regulations for mycotoxins in food and animal feed. Risk assessment is a major factor for scientific underpinning of regulations, but other factors such as availability of adequate sampling and analysis procedures also play an important a role in the establishment of mycotoxin regulations. In addition, socio-economic factors such as cost-benefit considerations, trade issues and sufficiency of food supply are equally important in the decision-taking process to come to meaningful regulations. Nowadays, more than 100 countries have formal mycotoxin regulations for food and feed. The mycotoxin regulations are the most stringent in the EU, where various organizations and pan-European networks contribute to combat the mycotoxin problem. It is to be expected that mycotoxins will stay with us in the future and climate change might have a negative influence in this respect. Several possibilities exist to mitigate the problems caused by mycotoxins. In particular prevention of mould growth and mycotoxin formation is key to the control of mycotoxins.",
+    "readLink": "http://www.doiserbia.nb.rs/img/doi/0352-4906/2013/0352-49061325007V.pdf"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Is the beneficiary pays principle essential in climate justice?",
+    "authors": [
+      "Clare  Heyward"
+    ],
+    "doi": "https://doi.org/10.18261/issn.1504-2901-2021-02-03-07",
+    "journalVolume": "Vol. 56\n                                \n                                \n                                  pp.\n                                  125\n                                  – 136",
+    "issn": "0029-1943 (Print)",
+    "publisher": "1504-2901 (Online)",
+    "countryOfPublisher": "Scandinavian University Press/Universitetsforlaget",
+    "lcc": [
+      "Norway",
+      "Philosophy. Psychology. Religion: Philosophy (General)"
+    ],
+    "journalUrl": "https://www.idunn.no/journal/nft",
+    "abstract": "Abstract The United Nations Framework Convention on Climate Change principle of ‘common but differentiated responsibility’ admits many interpretations. In the philosophical literature on climate justice, it has typically been cashed out in terms of the following three principles: the ability to pay principle (APP), the beneficiary pays principle (BPP), and the contribution to problem principle (CPP). Many of these accounts have given prominence to the CPP and APP, but there are some who argue that the BPP deserves greater consideration. In this paper, I want to ask whether the BPP must feature in any plausible account of remedial responsibility for climate change. I examine this question by looking at three different ways in which the BPP has been incorporated into accounts of climate burden-sharing. In each case, there are questions about the particular role that the BPP is assigned and it looks like either the BPP must be given equal prominence to the CPP, or the BPP might be redundant when it comes to specific task of remedying the injustices of climate change. I suggest in the conclusion one possible reason to maintain the BPP.",
+    "readLink": "https://www.idunn.no/nft/2021/02-03/is_the_beneficiary_pays_principle_essential_in_climate_just"
+  },
+  {
+    "title": "Estimation of 10-Hour Fuel Moisture Content Using Meteorological Data: A Model Inter-Comparison Study",
+    "authors": [
+      "HoonTaek Lee,",
+      "Myoungsoo Won,",
+      "Sukhee Yoon,",
+      "Keunchang Jang"
+    ],
+    "doi": "https://doi.org/10.3390/f11090982",
+    "journalVolume": "Vol. 11,\n                                no. 982\n                                \n                                  p.\n                                  982",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Forest fire modeling often requires estimates of fuel moisture status. Among the various fuel variables used for fire modeling studies, the 10-h fuel moisture content (10-h FMC) is a promising predictor since it can be automatically measured in real time at study sites, yielding more information for fire models. Here, the performance of 10-h FMC models based on three different approaches, including regression (MREG), machine learning algorithms (MML) with random forest and support vector machine, and a process-based model (MFSMM), were compared. In addition, whole-year models of each type were compared with their respective seasonal models to explore whether the development of separate seasonal models yielded better estimates. Meteorological conditions and 10-h FMC were measured each minute for 18 months in and near a forest site and used for constructing and examining the 10-h FMC models. In the assessments, MML showed the best performance (R2 = 0.77–0.82 and root mean squared error [RMSE] = 2.05–2.84%). The introduction of the correction coefficient into MREG improved its estimates (R2 improved from 0.56–0.58 to 0.68–0.70 and RMSE improved from 3.13–3.85% to 2.64–3.27%) by reducing the errors associated with high 10-h FMC values. MFSMM showed the worst performance (R2 = 0.41–0.43 and RMSE = 3.70–4.39%), which could possibly be attributed to the lack of radiation input from the study sites as well as the particular fuel moisture stick sensor that was used. Whole-year models and seasonal models showed almost equal performance because 10-h FMC varied in response to atmospheric moisture conditions rather than specific seasonal patterns. The adoption of a hybrid modeling approach that blends machine-learning and process-based approaches may yield better predictability and interpretability. This study provides additional evidence of the lagged response of 10-h FMC after rainfall, and suggests a new way of accounting for this response in a regression model. Our approach using comparisons among models can be utilized for other fire modeling studies, including those involving fire danger ratings.",
+    "readLink": "https://www.mdpi.com/1999-4907/11/9/982"
+  },
+  {
+    "title": "Hantavirus reservoir <it>Oligoryzomys longicaudatus </it>spatial distribution sensitivity to climate change scenarios in Argentine Patagonia",
+    "authors": [
+      "González Paula LM,",
+      "Vera Carolina,",
+      "Carbajo Aníbal E"
+    ],
+    "doi": "https://doi.org/10.1186/1476-072X-8-44",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  p.\n                                  44",
+    "issn": "1476-072X (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics"
+    ],
+    "journalUrl": "https://ij-healthgeographics.biomedcentral.com/",
+    "abstract": "Abstract Background Oligoryzomys longicaudatus (colilargo) is the rodent responsible for hantavirus pulmonary syndrome (HPS) in Argentine Patagonia. In past decades (1967–1998), trends of precipitation reduction and surface air temperature increase have been observed in western Patagonia. We explore how the potential distribution of the hantavirus reservoir would change under different climate change scenarios based on the observed trends. Methods Four scenarios of potential climate change were constructed using temperature and precipitation changes observed in Argentine Patagonia between 1967 and 1998: Scenario 1 assumed no change in precipitation but a temperature trend as observed; scenario 2 assumed no changes in temperature but a precipitation trend as observed; Scenario 3 included changes in both temperature and precipitation trends as observed; Scenario 4 assumed changes in both temperature and precipitation trends as observed but doubled. We used a validated spatial distribution model of O. longicaudatus as a function of temperature and precipitation. From the model probability of the rodent presence was calculated for each scenario. Results If changes in precipitation follow previous trends, the probability of the colilargo presence would fall in the HPS transmission zone of northern Patagonia. If temperature and precipitation trends remain at current levels for 60 years or double in the future 30 years, the probability of the rodent presence and the associated total area of potential distribution would diminish throughout Patagonia; the areas of potential distribution for colilargos would shift eastwards. These results suggest that future changes in Patagonia climate may lower transmission risk through a reduction in the potential distribution of the rodent reservoir. Conclusion According to our model the rates of temperature and precipitation changes observed between 1967 and 1998 may produce significant changes in the rodent distribution in an equivalent period of time only in certain areas. Given that changes maintain for 60 years or double in 30 years, the hantavirus reservoir Oligoryzomys longicaudatus may contract its distribution in Argentine Patagonia extensively.",
+    "readLink": "http://www.ij-healthgeographics.com/content/8/1/44"
+  },
+  {
+    "title": "Twenty-first century climate change and submerged aquatic vegetation in a temperate estuary: the case of Chesapeake Bay",
+    "authors": [
+      "Thomas M. Arnold,",
+      "Richard C. Zimmerman,",
+      "Katharina A. M. Engelhardt,",
+      "J. Court Stevenson"
+    ],
+    "doi": "https://doi.org/10.1080/20964129.2017.1353283",
+    "journalVolume": "Vol. 3,\n                                no. 7",
+    "issn": "2096-4129 (Print)",
+    "publisher": "2332-8878 (Online)",
+    "countryOfPublisher": "American Association for the Advancement of Science (AAAS)",
+    "lcc": [
+      "United States",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://spj.science.org/journal/ehs",
+    "abstract": "Introduction: The Chesapeake Bay was once renowned for expansive meadows of submerged aquatic vegetation (SAV). However, only 10% of the original meadows survive. Future restoration efforts will be complicated by accelerating climate change, including physiological stressors such as a predicted mean temperature increase of 2–6°C and a 50–160% increase in CO2 concentrations. Outcomes: As the Chesapeake Bay begins to exhibit characteristics of a subtropical estuary, summer heat waves will become more frequent and severe. Warming alone would eventually eliminate eelgrass (Zostera marina) from the region. It will favor native heat-tolerant species such as widgeon grass (Ruppia maritima) while facilitating colonization by non-native seagrasses (e.g., Halodule spp.). Intensifying human activity will also fuel coastal zone acidification and the resulting high CO2/low pH conditions may benefit SAV via a “CO2 fertilization effect.” Discussion: Acidification is known to offset the effects of thermal stress and may have similar effects in estuaries, assuming water clarity is sufficient to support CO2-stimulated photosynthesis and plants are not overgrown by epiphytes. However, coastal zone acidification is variable, driven mostly by local biological processes that may or may not always counterbalance the effects of regional warming. This precarious equipoise between two forces – thermal stress and acidification – will be critically important because it may ultimately determine the fate of cool-water plants such as Zostera marina in the Chesapeake Bay. Conclusion: The combined impacts of warming, coastal zone acidification, water clarity, and overgrowth of competing algae will determine the fate of SAV communities in rapidly changing temperate estuaries.",
+    "readLink": "http://dx.doi.org/10.1080/20964129.2017.1353283"
+  },
+  {
+    "title": "Virtual Capacity Building for International Research Collaborations in Times of COVID-19 and #Flygskam",
+    "authors": [
+      "Isabel  Richter,",
+      "Elizabeth Gabe-Thomas,",
+      "Carya Maharja,",
+      "Thu Ha Nguyen,",
+      "Quyen Van Nguyen,",
+      "Quyen Van Nguyen,",
+      "Radisti Praptiwi,",
+      "Radisti Praptiwi,",
+      "Sabine Pahl,",
+      "Sabine Pahl"
+    ],
+    "doi": "https://doi.org/10.3389/fcomm.2020.562828",
+    "journalVolume": "Vol. 5",
+    "issn": "2297-900X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Language and Literature: Philology. Linguistics: Communication. Mass media"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/communication",
+    "abstract": "In the wake of the current global pandemic, international travel is restricted. This poses substantial challenges for research relationships aiming to build capacity and foster co-creation to achieve the Sustainable Development Goals, where global collaboration and communication is paramount. This is especially challenging when it comes to interactive dialogues that go beyond the typical one-way structure of online learning. Considerations on structural, technical and behavioral levels are needed to not only deal with these challenges but rather to take advantage of the new situation. This commentary outlines the lessons learned from an internationally operating project, co-developed to cope with travel restrictions. We discuss implications for future reduction of international travel to reduce carbon in the context of climate change.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fcomm.2020.562828/full"
+  },
+  {
+    "title": "Remote sensing and GIS-based landslide susceptibility mapping using LNRF method in part of Western Ghats of India",
+    "authors": [
+      "Abhijit S. Patil,",
+      "Sachin S. Panhalkar"
+    ],
+    "doi": "Vol. 11\n                                \n                                \n                                  p.\n                                  100095",
+    "issn": "2666-0334 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation",
+      "Auxiliary sciences of history: Archaeology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/quaternary-science-advances",
+    "abstract": "Every year, the Western Ghats region experiences devastating landslides, resulting in significant loss of life and damage to both private and public assets. To mitigate these losses, it is essential to identify the areas most susceptible to landslides. This research aims to create an accurate landslide susceptibility map for a section of the Western Ghats region by employing a comprehensive approach that combines remote sensing and geographical information systems (GIS). The Landslide Numerical Risk Factor (LNRF) method is utilized to determine landslide susceptibility zones. The LNRF model incorporates a landslide inventory based on geographic object-based image analysis and influencing factors. The resulting LNRF model generates a landslide susceptibility map, classifying over 35% of the study region's land area as having a high probability of landslides. The model's accuracy is assessed using the receiver operating characteristic (ROC) method, which yields an area under the curve (AUC) value of 0.77. This indicates that the LNRF model exhibits good predictive performance, resulting in a reliable landslide susceptibility map.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666033423000278"
+  },
+  {
+    "title": "The effects of uncertainty under a cap-and-trade policy on afforestation in the United States",
+    "authors": [
+      "Jerome Dumortier"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/8/4/044020",
+    "journalVolume": "Vol. 8,\n                                no. 4\n                                \n                                  p.\n                                  044020",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "To combat climate change, cap-and-trade policies have been proposed and implemented in countries around the world. The stochastic carbon price that results from a cap-and-trade policy makes investment decisions in carbon mitigating and sequestering practices more complex. This letter illustrates the consequence of uncertainty by analyzing forest carbon offset credits under a potential cap-and-trade policy in the United States. The effects of uncertainty on afforestation, carbon sequestration, cropland allocation, and commodity prices using a real option framework are assessed. When compared with deterministic models, less land gets converted from cropland to forestry over the projection period of 40 years because landowners find it optimal to wait before changing land-use to gain more information about the carbon price evolution. The simulation shows that most afforestation occurs in the south and the northeast with almost no conversion in the Corn Belt. The lesson for policy makers is that under carbon price uncertainty, lower afforestation and carbon sequestration takes place. To foster afforestation, mechanisms are necessary to reduce uncertainty at the expense of higher commodity prices.",
+    "readLink": "https://doi.org/10.1088/1748-9326/8/4/044020"
+  },
+  null,
+  {
+    "title": "Zoysia Soil-Less Green Roof’s Performance:  A Life Cycle Assessment",
+    "authors": [
+      "Muscas Desirée,",
+      "Frota De Albuquerque Landi Fabiana,",
+      "Fabiani Claudia,",
+      "Grohmann David,",
+      "Rocchi Lucia"
+    ],
+    "doi": "https://doi.org/10.2478/rtuect-2022-0072",
+    "journalVolume": "Vol. 26,\n                                no. 1\n                                \n                                  pp.\n                                  955\n                                  – 967",
+    "issn": "2255-8837 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources"
+    ],
+    "journalUrl": "https://sciendo.com/journal/RTUECT",
+    "abstract": "The use of green roofs is demonstrated to improve the energy performance of buildings, increase biodiversity, reduce environmental impacts of urban areas, and mitigate climate change phenomena. Their use on a large scale is desirable in the coming years. Still, the choice of the most suitable green roof design solution should also consider the impacts of their production. Within this study, the Life Cycle Assessment methodology was used to evaluate the environmental impact of a particular typology of soil-less green roofs ideated by an Italian company. In this lightweight green roof, the growing medium is replaced by recycled felt layers, filtration is guaranteed by geotextile, and a closed-loop sub-irrigation system fertilises the pre-growth lawn placed on the top. The extremely low weight of this system suggests an optimal use in building retrofitting scenarios, but its environmental implication was not known. The environmental impact of this product has been assessed with an attributional cradle-to-gate approach through four different methodologies (ReCiPe midpoint and endpoint H V1.1, Ecological footprint V1.01, and IPCC 2013 GWP 100y V1.0) using the ecoinvent v3, Agri-footprint 1.0, and ELCD database on the SimaPro 8.4.4.0 software. The IPCC method has shown a Global Warming Potential of 7.66 kg of CO2 eq. for 1 m2 of Pratotetto® green roof; however, the reuse of waste materials from the textile industry must be considered.",
+    "readLink": "https://doi.org/10.2478/rtuect-2022-0072"
+  },
+  {
+    "title": "Interpretation of NO<sub>3</sub>–N<sub>2</sub>O<sub>5</sub> observation via steady state in high-aerosol air mass: the impact of equilibrium coefficient in ambient conditions",
+    "authors": [
+      "X. Chen,",
+      "H. Wang,",
+      "H. Wang,",
+      "K. Lu,",
+      "K. Lu"
+    ],
+    "doi": "https://doi.org/10.5194/acp-22-3525-2022",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  3525\n                                  – 3533",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Steady-state approximation for interpreting NO3 and N2O5 has large uncertainty under complicated ambient conditions and could even produce incorrect results unconsciously. To provide an assessment and solution to the dilemma, we formulate datasets based on in situ observations to reassess the applicability of the method. In most of steady-state cases, we find a prominent discrepancy between Keq (equilibrium coefficient for reversible reactions of NO3 and N2O5) and correspondingly simulated [N2O5]/[NO2]×[NO3], especially under high-aerosol conditions in winter. This gap reveals that the accuracy of Keq has a critical impact on the steady-state analysis in polluted regions. In addition, the accuracy of γ (N2O5) derived by steady-state fit depends closely on the reactivity of NO3 (kNO3) and N2O5(kN2O5). Based on a complete set of simulations, air mass of kNO3 less than 0.01 s−1 with high aerosol and temperature higher than 10 ∘C is suggested to be the best suited for steady-state analysis of NO3–N2O5 chemistry. Instead of confirming the validity of steady state by numerical modeling for every case, this work directly provides appropriate concentration ranges for accurate steady-state approximation, with implications for choosing suited methods to interpret nighttime chemistry in high-aerosol air mass.",
+    "readLink": "https://acp.copernicus.org/articles/22/3525/2022/acp-22-3525-2022.pdf"
+  }
+]

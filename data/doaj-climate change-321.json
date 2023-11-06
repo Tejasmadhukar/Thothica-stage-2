@@ -1,0 +1,233 @@
+[
+  {
+    "title": "Integrating market and technology uncertainties into the projected cost of power technologies: a case of Korea",
+    "authors": [
+      "Donghyun Choi,",
+      "Jiyong Eom,",
+      "Cheolhung Cho"
+    ],
+    "doi": "Vol. 45\n                                \n                                \n                                  p.\n                                  101046",
+    "issn": "2211-467X (Print)",
+    "publisher": "2211-4688 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/energy-strategy-reviews",
+    "abstract": "Like many countries responding to climate change, Korea also faces an unprecedented transformation of its power sector into a low-carbon system. To evaluate the most advantageous combination of technologies and necessary policies for achieving the goals of such a transformation, this study decomposes the historical development of the total cost of five major power technologies in Korea into three cost components and identifies the underlying driving forces and variabilities of each. We then project the likely distribution of costs in 2030 using Monte-Carlo simulation and simulate the possible impact of climate and environmental policies on the economic landscape of competing technologies. Our results show that the business-as-usual dynamics of key techno-economic-market factors are not likely to secure the economic viability of the proposed energy transition in Korea. Introducing carbon prices or strict environmental policy is imperative in Korea to make renewables and less carbon-intensive gas power remain cost-competitive with coal power.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2211467X22002401"
+  },
+  {
+    "title": "OGC API STATE OF PLAY – A PRACTICAL TESTBED FOR THE NATIONAL SPATIAL DATA INFRASTRUCTURE IN SWITZERLAND",
+    "authors": [
+      "N. Blanc,",
+      "M. Cannata,",
+      "M. Collombin,",
+      "O. Ertz,",
+      "G. Giuliani,",
+      "J. Ingensand"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLVIII-4-W1-2022-59-2022",
+    "journalVolume": "Vol. XLVIII-4-W1-2022\n                                \n                                \n                                  pp.\n                                  59\n                                  – 65",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Interoperability standards from the Open Geospatial Consortium (OGC) shape a backbone within the OSGeo community by defining a pathway to software implementation toward the standardization of geospatial information and related services ensuring interoperability between FOSS4G software. In 2016, the OGC has initiated the creation of a new generation of standards based on the OpenAPI specifications to facilitate the integration of geospatial data in modern web applications and systems. From a practical perspective this paper intends to address the question how organizations and institutions anticipate to leverage this new generation of standards in order to deploy a geospatial data infrastructure. This issue is at the core of this article and at the center of a project that seeks to address the issue by running a Testbed Platform with a special focus to the Swiss context. To challenge these standards, the Testbed platform is configured to run a showcase with experimental cases about climate change. It is expected to bring good visibility toward all actors concerned by the Swiss standardization process and to raise interest from government stakeholders, technical or not, companies and universities as a community in synergy when considering the advances at the OGC.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLVIII-4-W1-2022/59/2022/isprs-archives-XLVIII-4-W1-2022-59-2022.pdf"
+  },
+  {
+    "title": "WATLAS: high-throughput and real-time tracking of many small birds in the Dutch Wadden Sea",
+    "authors": [
+      "Allert I. Bijleveld,",
+      "Frank van Maarseveen,",
+      "Bas Denissen,",
+      "Anne Dekinga,",
+      "Emma Penning,",
+      "Selin Ersoy,",
+      "Pratik R. Gupte,",
+      "Luc de Monte,",
+      "Job ten Horn,",
+      "Roeland A. Bom,",
+      "Sivan Toledo,",
+      "Ran Nathan,",
+      "Christine E. Beardsworth"
+    ],
+    "doi": "https://doi.org/10.1186/s40317-022-00307-w",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 17",
+    "issn": "2050-3385 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology",
+      "Science: Physiology: Animal biochemistry"
+    ],
+    "journalUrl": "http://animalbiotelemetry.biomedcentral.com",
+    "abstract": "Abstract Tracking animal movement is important for understanding how animals interact with their (changing) environment, and crucial for predicting and explaining how animals are affected by anthropogenic activities. The Wadden Sea is a UNESCO World Heritage Site and a region of global importance for millions of shorebirds. Due to climate change and anthropogenic activity, understanding and predicting movement and space-use in areas like the Wadden Sea is increasingly important. Monitoring and predicting animal movement, however, requires high-resolution tracking of many individuals. While high-resolution tracking has been made possible through GPS, trade-offs between tag weight and battery life limit its use to larger species. Here, we introduce WATLAS (the Wadden Sea deployment of the ATLAS tracking system) capable of monitoring the movements of hundreds of (small) birds simultaneously in the Dutch Wadden Sea. WATLAS employs an array of receiver stations that can detect and localize small, low-cost tags at fine spatial (metres) and temporal resolution (seconds). From 2017 to 2021, we tracked red knots, sanderlings, bar-tailed godwits, and common terns. We use parts of these data to give four use-cases revealing its performance and demonstrating how WATLAS can be used to study numerous aspects of animal behaviour, such as, space-use (both intra- and inter-specific), among-individual variation, and social networks across levels of organization: from individuals, to species, to populations, and even communities. After describing the WATLAS system, we first illustrate space-use of red knots across the study area and how the tidal environment affects their movement. Secondly, we show large among-individual differences in distances travelled per day, and thirdly illustrate how high-throughput WATLAS data allows calculating a proximity-based social network. Finally, we demonstrate that using WATLAS to monitor multiple species can reveal differential space use. For example, despite sanderlings and red knots roosting together, they foraged in different areas of the mudflats. The high-resolution tracking data collected by WATLAS offers many possibilities for research into the drivers of bird movement in the Wadden Sea. WATLAS could provide a tool for impact assessment, and thus aid nature conservation and management of the globally important Wadden Sea ecosystem.",
+    "readLink": "https://doi.org/10.1186/s40317-022-00307-w"
+  },
+  {
+    "title": "Variability of Rainfall Erosivity and Erosivity Density in the Ganjiang River Catchment, China: Characteristics and Influences of Climate Change",
+    "authors": [
+      "Xianghu Li,",
+      "Xuchun Ye"
+    ],
+    "doi": "https://doi.org/10.3390/atmos9020048",
+    "journalVolume": "Vol. 9,\n                                no. 2\n                                \n                                  p.\n                                  48",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Soil erosion is one of the most critical environmental hazards in the world. Understanding the changes in rainfall erosivity (RE) and erosivity density (ED), as well as their affecting factors, at local and catchment scales in the context of climate warming is an important prerequisite of soil erosion prevention and soil loss risk assessment. The present study identified the variability and trends of RE and ED in terms of both time and space in the Ganjiang River catchment over the period of 1960–2012, and also analyzed and discussed the impact of climate change. The results show that RE and ED in the catchment had great monthly variations and high year-to-year variability. Both presented long-term increasing trends over the entire study period. The highest RE and ED were observed in June and in the eastern and northeast parts of the catchment, which indicated that June was the most susceptible month for soil erosion in this area and the lower reaches of the Ganjiang River was the riskiest area for soil erosion. Finally, the East Asian summer monsoon and climate change were highly correlated with changes in RE and ED.",
+    "readLink": "http://www.mdpi.com/2073-4433/9/2/48"
+  },
+  {
+    "title": "Effects of Earth system feedbacks on the potential mitigation of large-scale tropical forest restoration",
+    "authors": [
+      "A. Koch,",
+      "A. Koch,",
+      "C. Brierley,",
+      "S. L. Lewis,",
+      "S. L. Lewis"
+    ],
+    "doi": "https://doi.org/10.5194/bg-18-2627-2021",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  2627\n                                  – 2647",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "To achieve the Paris Agreement requires aggressive mitigation strategies alongside negative emission technologies. Recent studies suggest that increasing tree cover can make a substantial contribution to negative emissions, with the tropics being the most suitable region from a biogeophysical perspective. Yet these studies typically do not account for subsequent carbon cycle and climate responses to large-scale land-use change. Here we quantify the maximum potential temperature and CO2 benefits from pantropical forest restoration, including the Earth system response, using a fully coupled, emission-driven Earth system model (HadGEM2-ES). We perform an idealised experiment where all land use in the tropics is stopped and vegetation is allowed to recover, on top of an aggressive mitigation scenario (RCP2.6). We find that tropical restoration of 1529 Mha increases carbon stored in live biomass by 130 Pg C by 2100 CE. Whilst avoiding deforestation and tropical restoration in the tropics removes 42 Pg C compared to RCP2.6, the subsequent reduction in extratropical and ocean carbon uptake means that carbon in the atmosphere only reduces by 18 Pg C by 2100. The resulting small CO2 (9 ppm) benefit does not translate to a detectable reduction in global surface air temperature compared to the control experiment. The greatest carbon benefit is achieved 30–50 years after restoration before the Earth system response adjusts to the new land-use regime and declining fossil fuel use. Comparing our results with previous modelling studies, we identify two model-independent key points: (i) in a world where emission reductions follow the Paris Agreement, restoration is best deployed immediately, and (ii) the global carbon cycle response to reduced emissions limits the efficacy of negative emissions technologies by more than half. We conclude that forest restoration can reduce peak CO2 mid-century, but it can only modestly contribute to negative emissions.",
+    "readLink": "https://bg.copernicus.org/articles/18/2627/2021/bg-18-2627-2021.pdf"
+  },
+  {
+    "title": "Making a Case for Local Combined Head and Power and District Heating Infrastructures within the United Kingdom Policy Landscape",
+    "authors": [
+      "Urquizo Javier,",
+      "Calderón Carlos,",
+      "James Philip"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/201911502003",
+    "journalVolume": "Vol. 115\n                                \n                                \n                                  p.\n                                  02003",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Planning energy infrastructure at the local level is the key to addressing some of the most difficult challenges in climate change and energy policy planning (i.e. fuel poverty) and to unlock the transformative potential of distributed energy technologies. The scientific field of urban energy and carbon modelling is becoming a fundamental instrument to estimate an energy and carbon baseline at a point in time and to quantify the impact that policy-driven technological interventions that could have on the overall carbon footprint of a city. This capability enables an evidence-based approach in which the economic case towards a low-carbon economy can be made. Transformative local distributed energy technologies such as CHP or district heating have a strong spatial component due to a need to identify synergies with adjacent properties or heating loads. Currently available domestic building energy models often do not take into account spatial information. Accessing geo-referenced data for energy modelling can also be particularly useful as validated outputs (i.e. heating and electricity loads, energy profiles) can be mapped using spatial modelling techniques that help to easily identify high and low energy consumption areas and potential synergies in local energy infrastructure planning. In Newcastle upon Tyne UK, the council is exploring the opportunities for the installation of renewable heat technologies on their own stock as a matter of urgency. Identification of potential sites and feasibility for technical and financial applicability within the UK policies will be addressed by this paper.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/41/e3sconf_ceege18_02003.pdf"
+  },
+  {
+    "title": "Forest Phenology Dynamics to Climate Change and Topography in a Geographic and Climate Transition Zone: The Qinling Mountains in Central China",
+    "authors": [
+      "Haoming Xia,",
+      "Yaochen Qin,",
+      "Gary Feng,",
+      "Qingmin Meng,",
+      "Yaoping Cui,",
+      "Hongquan Song,",
+      "Ying Ouyang,",
+      "Gangjun Liu"
+    ],
+    "doi": "https://doi.org/10.3390/f10111007",
+    "journalVolume": "Vol. 10,\n                                no. 11\n                                \n                                  p.\n                                  1007",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Forest ecosystems in an ecotone and their dynamics to climate change are growing ecological and environmental concerns. Phenology is one of the most critical biological indicators of climate change impacts on forest dynamics. In this study, we estimated and visualized the spatiotemporal patterns of forest phenology from 2001 to 2017 in the Qinling Mountains (QMs) based on the enhanced vegetation index (EVI) from MODerate-resolution Imaging Spectroradiometer (MODIS). We further analyzed this data to reveal the impacts of climate change and topography on the start of the growing season (SOS), end of the growing season (EOS), and the length of growing season (LOS). Our results showed that forest phenology metrics were very sensitive to changes in elevation, with a 2.4 days delayed SOS, 1.4 days advanced EOS, and 3.8 days shortened LOS for every 100 m increase in altitude. During the study period, on average, SOS advanced by 0.13 days year−1, EOS was delayed by 0.22 days year−1, and LOS increased by 0.35 day year−1. The phenological advanced and delayed speed across different elevation is not consistent. The speed of elevation-induced advanced SOS increased slightly with elevation, and the speed of elevation-induced delayed EOS shift reached a maximum value of 1500 m from 2001 to 2017. The sensitivity of SOS and EOS to preseason temperature displays that an increase of 1 °C in the regionally averaged preseason temperature would advance the average SOS by 1.23 days and delay the average EOS by 0.72 days, respectively. This study improved our understanding of the recent variability of forest phenology in mountain ecotones and explored the correlation between forest phenology and climate variables in the context of the ongoing climate warming.",
+    "readLink": "https://www.mdpi.com/1999-4907/10/11/1007"
+  },
+  {
+    "title": "Human Activities Inducing High CH<sub>4</sub> Diffusive Fluxes in an Agricultural River Catchment in Subtropical China",
+    "authors": [
+      "Hongbao Wu,",
+      "Qiang Zhao,",
+      "Qingzhu Gao,",
+      "Yu’e Li,",
+      "Yunfan Wan,",
+      "Yong Li,",
+      "Di Tian,",
+      "Yulin Liao,",
+      "Meirong Fan,",
+      "Hasbagan Ganjurjav,",
+      "Guozheng Hu,",
+      "Bin Wang,",
+      "Xuan Chen,",
+      "Xiaobo Qin"
+    ],
+    "doi": "https://doi.org/10.3390/su12052114",
+    "journalVolume": "Vol. 12,\n                                no. 5\n                                \n                                  p.\n                                  2114",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Methane (CH4) is one of the key greenhouse gases (GHGs) in the atmosphere with current concentration of 1859 ppb in 2017 due to climate change and anthropogenic activities. Rivers are of increasing concern due to sources of atmospheric CH4. However, knowledge and data limitations exist for field studies of subtropical agricultural river catchments, particularly in southern China. The headspace balance method and the diffusion model method were employed to assess spatiotemporal variations of CH4 diffusive fluxes from April 2015 to January 2016 in four order reaches (S1, S2, S3, and S4) of the Tuojia River, Hunan, China. Results indicated that both the dissolved concentrations and diffusive fluxes of CH4 showed obvious spatiotemporal variations. The observed mean concentration and diffusive flux of CH4 were 0.40 ± 0.02 μmol L−1 and 41.19 ± 2.50 µg m−2 h−1, respectively, showing the river to be a strong source of atmospheric CH4. The CH4 diffusive fluxes during the rice-growing seasons were significantly greater than the winter fallow season (an increase of 80.26%). The spatial distribution of CH4 diffusive fluxes increased gradually from (17.58 ± 1.42) to (55.56 ± 4.32) µg m−2 h−1 due to the organic and nutrient loading into the river waterbodies, with the maximum value at location S2 and the minimum value at location S1. Correlation analysis showed that the CH4 diffusive fluxes exhibited a positive relationship with the dissolved organic carbon (DOC), salinity, and water temperature (WT), while a negative correlation occurred between CH4 diffusive fluxes and the dissolved oxygen (DO) concentration, as well as the pH value. Our findings highlighted that a good understanding of exogenous nutrient loading in agricultural catchments will clarify the influence of human activities on river water quality and then constrain the global CH4 budget.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/5/2114"
+  },
+  {
+    "title": "Hydrological characteristics and water quality change in mountain river valley on Qinghai-Tibet Plateau",
+    "authors": [
+      "Dongsheng Li,",
+      "Buli Cui,",
+      "Fenglin Zuo,",
+      "Hehua Zong,",
+      "Wanxin Yu"
+    ],
+    "doi": "https://doi.org/10.1007/s13201-023-01906-5",
+    "journalVolume": "Vol. 13,\n                                no. 4\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2190-5487 (Print)",
+    "publisher": "2190-5495 (Online)",
+    "countryOfPublisher": "SpringerOpen",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.springer.com/13201",
+    "abstract": "Abstract Management and protection of regional water resources requires an understanding of the hydrological characteristics and water quality changes. In this study, we combined isotopic, geochemical and hydrometric measurements to investigate hydrological characteristics and water quality changes during the interactions between surface water and groundwater in mountain river valley. Our results showed that the stable isotope values in most of the groundwater and river water samples were located above the middle of the local meteoric water line in a mountain river valley. The hydrochemical types of most of the groundwater and river water samples were Ca–Mg–HCO3 and were primarily dominated by rock weathering. The hydrochemical compositions of groundwater and river water were mainly affected by carbonate dissolution and cation exchange, but influences of saltwater intrusion and human activity were found at the lakeside. Precipitation was the main factor affecting the changes in hydrological processes at these groundwater and river water sites and they were also affected by meltwater, soil water and the interaction between groundwater and surface water. The water level of the river increased, and the recharge of the groundwater by river water increased in river valley during the rainy season, which led to an increase runoff path in groundwater. The interaction between the river water and groundwater was affected by the rainfall frequency and intensity, the recharge time of the soil water and the pressure of the river on both sides of the river channels. Additionally, our results indicated that the flow of groundwater into the river will lead to water quality deterioration. The increasing pressure of the river on the groundwater will cause the deterioration of groundwater quality, which will also be affected by saltwater intrusion and human activity. Our results detailed the hydrological characteristics, water quality changes and main influencing factors of the interaction between surface water and groundwater of river valley in mountain, which will be beneficial to promote the reasonable protection of water resources under climate change in the future.",
+    "readLink": "https://doi.org/10.1007/s13201-023-01906-5"
+  },
+  {
+    "title": "Urban Planners with Renewable Energy Skills",
+    "authors": [
+      "Arto Emerik Nuorkivi,",
+      "Anna-Maija Ahonen"
+    ],
+    "doi": "https://doi.org/10.6092/1970-9870/1569",
+    "journalVolume": "Vol. 6,\n                                no. 2\n                                \n                                  pp.\n                                  159\n                                  – 170",
+    "issn": "1970-9889 (Print)",
+    "publisher": "1970-9870 (Online)",
+    "countryOfPublisher": "Università di Napoli Federico II",
+    "lcc": [
+      "Italy",
+      "Technology: Engineering (General). Civil engineering (General): Transportation engineering",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: Urbanization. City and country"
+    ],
+    "journalUrl": "http://www.tema.unina.it/index.php/tema",
+    "abstract": "There is no much tradition to combine urban and energy planning together to fight Climate Change even though energy production with fossil fuels is the main cause to the Change. Pilot training of urban planners in five EU countries such Finland, Germany, Hungary, Spain and the United Kingdom to understand the basics of renewable energy sources (RES) and energy efficiency (EE) has been carried out during 2011-2012 under co-financing of Intelligent Energy Europe. Organizing such pilot training was challenging for many reasons, but the outcome can be consdered highly statisfactory, based on the recorded feedback of trainees and other stakeholders. The project encourages other planning schools in Europe to learn from the experience and to use the published training materials available in ten languages in their curricula.",
+    "readLink": "http://www.tema.unina.it/index.php/tema/article/view/1569"
+  }
+]

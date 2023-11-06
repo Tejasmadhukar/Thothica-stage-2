@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Coupling GIS spatial analysis and Ensemble Niche Modelling to investigate climate change-related threats to the Sicilian pond turtle Emys trinacris, an endangered species from the Mediterranean",
+    "authors": [
+      "Mattia Iannella,",
+      "Francesco Cerasoli,",
+      "Paola D’Alessandro,",
+      "Giulia Console,",
+      "Maurizio Biondi"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.4969",
+    "journalVolume": "Vol. 6\n                                \n                                \n                                  p.\n                                  e4969",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "The pond turtle Emys trinacris is an endangered endemic species of Sicily showing a fragmented distribution throughout the main island. In this study, we applied “Ensemble Niche Modelling”, combining more classical statistical techniques as Generalized Linear Models and Multivariate Adaptive Regression Splines with machine-learning approaches as Boosted Regression Trees and Maxent, to model the potential distribution of the species under current and future climatic conditions. Moreover, a “gap analysis” performed on both the species’ presence sites and the predictions from the Ensemble Models is proposed to integrate outputs from these models, in order to assess the conservation status of this threatened species in the context of biodiversity management. For this aim, four “Representative Concentration Pathways”, corresponding to different greenhouse gases emissions trajectories were considered to project the obtained models to both 2050 and 2070. Areas lost, gained or remaining stable for the target species in the projected models were calculated. E. trinacris’ potential distribution resulted to be significantly dependent upon precipitation-linked variables, mainly precipitation of wettest and coldest quarter. Future negative effects for the conservation of this species, because of more unstable precipitation patterns and extreme meteorological events, emerged from our analyses. Further, the sites currently inhabited by E. trinacris are, for more than a half, out of the Protected Areas network, highlighting an inadequate management of the species by the authorities responsible for its protection. Our results, therefore, suggest that in the next future the Sicilian pond turtle will need the utmost attention by the scientific community to avoid the imminent risk of extinction. Finally, the gap analysis performed in GIS environment resulted to be a very informative post-modeling technique, potentially applicable to the management of species at risk and to Protected Areas’ planning in many contexts.",
+    "readLink": "https://peerj.com/articles/4969.pdf"
+  },
+  {
+    "title": "A forecast of staple crop production in Burkina Faso to enable early warnings of shortages in domestic food availability",
+    "authors": [
+      "Rahel Laudien,",
+      "Bernhard Schauberger,",
+      "Jillian Waid,",
+      "Christoph Gornott"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-022-05561-9",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Almost half of the Burkinabe population is moderately or severely affected by food insecurity. With climate change, domestic food production may become more under pressure, further jeopardizing food security. In this study, we focus on the production of maize, sorghum and millet as staple cereal crops in Burkina Faso to assess food availability as one component of food security. Based on a statistical weather-driven crop model, we provide a within-season forecast of crop production 1 month before the harvest. Hindcast results from 1984 to 2018 produce an r2 of 0.95 in case of known harvest areas and an r2 of 0.88 when harvest areas are modelled instead. We compare actually supplied calories with those usually consumed from staple crops, allowing us to provide early information on shortages in domestic cereal production on the national level. Despite the—on average—sufficient domestic cereal production from maize, sorghum and millet, a considerable level of food insecurity prevails for large parts of the population. We suggest to consider such forecasts as an early warning signal for shortages in domestic staple crop production and encourage a comprehensive assessment of all dimensions of food security to rapidly develop counteractions for looming food crises.",
+    "readLink": "https://doi.org/10.1038/s41598-022-05561-9"
+  },
+  {
+    "title": "Earth energy evolution, human development and carbon neutral strategy",
+    "authors": [
+      "Caineng ZOU,",
+      "Feng MA,",
+      "Songqi PAN,",
+      "Minjie LIN,",
+      "Guosheng ZHANG,",
+      "Bo XIONG,",
+      "Ying WANG,",
+      "Yingbo LIANG,",
+      "Zhi YANG"
+    ],
+    "doi": "Vol. 49,\n                                no. 2\n                                \n                                  pp.\n                                  468\n                                  – 488",
+    "issn": "2096-4803 (Print)",
+    "publisher": "1876-3804 (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Technology: Chemical technology: Oils, fats, and waxes: Petroleum refining. Petroleum products"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/petroleum-exploration-and-development/",
+    "abstract": "Energy is the basis of human development and the impetus of society progress. There are three sources of energy: energy of celestial body outside the Earth, the Earth energy and energy of interaction between the Earth and other celestial bodies. Meanwhile, there are three scales of co-evolution: the evolution of the Sun-Earth-Moon system on an ultra-long time scale has provided energy sources and extra-terrestrial environmental conditions for the formation of the Earth system; the evolution of the Earth system on a long time scale has provided the material preconditions such as energy resources and suitable sphere environment for life birth and the human development; on a short time scale, the development of human civilization makes the human circle break through the Earth system, expanding the extraterrestrial civilization. With the co-evolution, there are three processes in the carbon cycle: inorganic carbon cycle, short-term organic carbon cycle and long-term organic carbon cycle, which records human immoderate utilization of fossil energy and global sphere reforming activities, breaking the natural balance and closed-loop path of the carbon cycle of the Earth, causing the increase of greenhouse gases and global climate change, affecting human happiness and development. The energy transition is inevitable, and carbon neutrality must be realized. Building the green energy community is a fundamental measure to create the new energy system under carbon neutrality target. China is speeding up its energy revolution and developing a powerful energy nation. It is necessary to secure the cornerstone of the supply of fossil energy and forge a strong growing pole for green and sustainable development of new energy. China energy production and consumption structure will make a revolutionary transformation from the type of fossil energy domination to the type of new energy domination, depending on a high-level self-reliance of science and technology and a high-quality green energy system of cleaning, low-carbon, safety, efficiency and independence. Energy development has three major trends: low-carbon fossil energy, large-scale new energy and intelligent energy system, relying on the green innovation, contributing the green energy and constructing the green homeland.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1876380422600405"
+  },
+  {
+    "title": "Enhanced ocean-atmosphere carbon partitioning via the carbonate counter pump during the last deglacial",
+    "authors": [
+      "Stéphanie Duchamp-Alphonse,",
+      "Giuseppe Siani,",
+      "Elisabeth Michel,",
+      "Luc Beaufort,",
+      "Yves Gally,",
+      "Samuel L. Jaccard"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-018-04625-7",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "The contribution of the carbonate counter pump (CCP) to the last deglacial atmospheric CO2 rise has yet been largely ignored. Here, the authors show that an increased CCP in the Subantarctic Pacific along with high surface ocean fertility and [CO2aq], contributed in propelling the Earth out of the last ice age.",
+    "readLink": "https://doi.org/10.1038/s41467-018-04625-7"
+  },
+  {
+    "title": "Modeling composite effects of marine and freshwater processes on migratory species",
+    "authors": [
+      "Whitney R. Friedman,",
+      "Benjamin T. Martin,",
+      "Brian K. Wells,",
+      "Pete Warzybok,",
+      "Cyril J. Michel,",
+      "Eric M. Danner,",
+      "Steven T. Lindley"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.2743",
+    "journalVolume": "Vol. 10,\n                                no. 7\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract Life histories of migratory species such as anadromous fishes make them particularly susceptible to composite effects of processes experienced across distinct habitats and life stages. Therefore, their population dynamics are difficult to quantify and manage without tools such as life‐cycle models. As a model species for which life‐cycle modeling is particularly useful, we provide an analysis of influential processes affecting dynamics of the Central Valley fall‐run Chinook salmon (CVFC) population (Oncorhynchus tshawytscha). This analysis demonstrates how, through identification of covariates that affect this population at each life stage and their relationship to one another, it is possible to identify actions that best promote sustainability for this anadromous species. We developed a life‐cycle model for CVFC examining primary processes influencing variability in observed patterns of escapement from 1988 to 2016. CVFC are a valuable fishery along the US West Coast; however, their natural population is a fraction of its historic size, and recent low escapements have resulted in substantial restrictions on the fishery. Our model explains 68.3% of variability in historic escapement values. The most influential processes include temperatures experienced during egg incubation, freshwater flow during juvenile outmigration, and environmentally mediated predation during early marine residence. This work demonstrates the need, and methodology, for considering the interactions between freshwater and marine dynamics when evaluating the efficacy of managerial practices in freshwater and the ocean, especially in the context of increased environmental variability, climate change, and dynamic predator populations. The methodology developed in this study can be used toward improved conservation and management of other anadromous fishes and migratory species.",
+    "readLink": "https://doi.org/10.1002/ecs2.2743"
+  },
+  {
+    "title": "Interactions between the atmosphere, cryosphere,  and ecosystems at northern high latitudes",
+    "authors": [
+      "M. Boy,",
+      "E. S. Thomson,",
+      "J.-C. Acosta Navarro,",
+      "O. Arnalds,",
+      "E. Batchvarova,",
+      "E. Batchvarova,",
+      "J. Bäck,",
+      "F. Berninger,",
+      "M. Bilde,",
+      "Z. Brasseur,",
+      "P. Dagsson-Waldhauserova,",
+      "P. Dagsson-Waldhauserova,",
+      "P. Dagsson-Waldhauserova,",
+      "D. Castarède,",
+      "M. Dalirian,",
+      "G. de Leeuw,",
+      "M. Dragosics,",
+      "E.-M. Duplissy,",
+      "J. Duplissy,",
+      "A. M. L. Ekman,",
+      "K. Fang,",
+      "J.-C. Gallet,",
+      "M. Glasius,",
+      "S.-E. Gryning,",
+      "H. Grythe,",
+      "H. Grythe,",
+      "H.-C. Hansson,",
+      "M. Hansson,",
+      "E. Isaksson,",
+      "T. Iversen,",
+      "I. Jonsdottir,",
+      "V. Kasurinen,",
+      "V. Kasurinen,",
+      "A. Kirkevåg,",
+      "A. Korhola,",
+      "R. Krejci,",
+      "J. E. Kristjansson,",
+      "J. E. Kristjansson,",
+      "H. K. Lappalainen,",
+      "H. K. Lappalainen,",
+      "H. K. Lappalainen,",
+      "A. Lauri,",
+      "M. Leppäranta,",
+      "H. Lihavainen,",
+      "R. Makkonen,",
+      "A. Massling,",
+      "O. Meinander,",
+      "E. D. Nilsson,",
+      "H. Olafsson,",
+      "H. Olafsson,",
+      "J. B. C. Pettersson,",
+      "N. L. Prisle,",
+      "I. Riipinen,",
+      "P. Roldin,",
+      "M. Ruppel,",
+      "M. Salter,",
+      "M. Sand,",
+      "Ø. Seland,",
+      "H. Seppä,",
+      "H. Skov,",
+      "J. Soares,",
+      "J. Soares,",
+      "A. Stohl,",
+      "J. Ström,",
+      "J. Svensson,",
+      "E. Swietlicki,",
+      "K. Tabakova,",
+      "T. Thorsteinsson,",
+      "T. Thorsteinsson,",
+      "A. Virkkula,",
+      "A. Virkkula,",
+      "G. A. Weyhenmeyer,",
+      "Y. Wu,",
+      "P. Zieger,",
+      "M. Kulmala"
+    ],
+    "doi": "https://doi.org/10.5194/acp-19-2015-2019",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  2015\n                                  – 2061",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "The Nordic Centre of Excellence CRAICC (Cryosphere–Atmosphere Interactions in a Changing Arctic Climate), funded by NordForsk in the years 2011–2016, is the largest joint Nordic research and innovation initiative to date, aiming to strengthen research and innovation regarding climate change issues in the Nordic region. CRAICC gathered more than 100 scientists from all Nordic countries in a virtual centre with the objectives of identifying and quantifying the major processes controlling Arctic warming and related feedback mechanisms, outlining strategies to mitigate Arctic warming, and developing Nordic Earth system modelling with a focus on short-lived climate forcers (SLCFs), including natural and anthropogenic aerosols. The outcome of CRAICC is reflected in more than 150 peer-reviewed scientific publications, most of which are in the CRAICC special issue of the journal Atmospheric Chemistry and Physics. This paper presents an overview of the main scientific topics investigated in the centre and provides the reader with a state-of-the-art comprehensive summary of what has been achieved in CRAICC with links to the particular publications for further detail. Faced with a vast amount of scientific discovery, we do not claim to completely summarize the results from CRAICC within this paper, but rather concentrate here on the main results which are related to feedback loops in climate change–cryosphere interactions that affect Arctic amplification.",
+    "readLink": "https://www.atmos-chem-phys.net/19/2015/2019/acp-19-2015-2019.pdf"
+  },
+  {
+    "title": "Historical and future runoff changes in the Yangtze River Basin from CMIP6 models constrained by a weighting strategy",
+    "authors": [
+      "Jiazhen Zhao,",
+      "Shengping He,",
+      "Huijun Wang"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac3f61",
+    "journalVolume": "Vol. 17,\n                                no. 2\n                                \n                                  p.\n                                  024015",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Based on the ERA5-Land datasets from 1981–2020, a decadal oscillation has been found in the variation of summer runoff in the middle and lower reaches of the Yangtze River Basin (MLYRB). The oscillation suggests that the MLYRB will experience increased runoff in the next few decades after 2020, which saw a record high runoff in the MLYRB. The decadal changes in summer runoff over the MLYRB under various climate change scenarios are then analyzed with direct runoff outputs from 28 general circulation models participating in the sixth phase of the Coupled Model Intercomparison Project. Given that the equal-weighted multi-model ensemble mean could not well represent the historical runoff changes in the MLYRB, in this paper we introduce a model weighting scheme that considers both the model skill and independence. It turns out that this scheme well constrains the models to represent the observed decadal changes of summer runoff. The weighted mean projections suggest that the summer runoff in the MLYRB during 2015–2100 under all warming scenarios will be higher than the present day; and 2021–2040 is likely to be a period with significantly increased summer runoff. Results of the present study have great implications for flood control and effective water resources management over the MLYRB in the future, and the weighting approach used in this paper can be applied to a wide range of projections at both regional and global scales.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac3f61"
+  },
+  {
+    "title": "Systematic Evaluation of Whole-Genome Sequencing Based Prediction of Antimicrobial Resistance in Campylobacter jejuni and C. coli",
+    "authors": [
+      "Lisa M. Hodges,",
+      "Eduardo N. Taboada,",
+      "Adam Koziol,",
+      "Steven Mutschall,",
+      "Burton W. Blais,",
+      "G. Douglas Inglis,",
+      "Daniel Leclair,",
+      "Catherine D. Carrillo"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2021.776967",
+    "journalVolume": "Vol. 12",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "The increasing prevalence of antimicrobial resistance (AMR) in Campylobacter spp. is a global concern. This study evaluated the use of whole-genome sequencing (WGS) to predict AMR in Campylobacter jejuni and C. coli. A panel of 271 isolates recovered from Canadian poultry was used to compare AMR genotype to antimicrobial susceptibility testing (AST) results (azithromycin, ciprofloxacin, erythromycin, gentamicin, tetracycline, florfenicol, nalidixic acid, telithromycin, and clindamycin). The presence of antibiotic resistance genes (ARGs) was determined for each isolate using five computational approaches to evaluate the effect of: ARG screening software, input data (i.e., raw reads, draft genome assemblies), genome coverage and genome assembly software. Overall, concordance between the genotype and phenotype was influenced by the computational pipelines, level of genome coverage and the type of ARG but not by input data. For example, three of the pipelines showed a 99% agreement between detection of a tet(O) gene and tetracycline resistance, whereas agreement between the detection of tet(O) and TET resistance was 98 and 93% for two pipelines. Overall, higher levels of genome coverage were needed to reliably detect some ARGs; for example, at 15X coverage a tet(O) gene was detected in >70% of the genomes, compared to <60% of the genomes for bla(OXA). No genes associated with florfenicol or gentamicin resistance were found in the set of strains included in this study, consistent with AST results. Macrolide and fluoroquinolone resistance was associated 100% with mutations in the 23S rRNA (A2075G) and gyrA (T86I) genes, respectively. A lower association between a A2075G 23S rRNA gene mutation and resistance to clindamycin and telithromycin (92.8 and 78.6%, respectively) was found. While WGS is an effective approach to predicting AMR in Campylobacter, this study demonstrated the impact that computational pipelines, genome coverage and the genes can have on the reliable identification of an AMR genotype.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmicb.2021.776967/full"
+  },
+  {
+    "title": "Radiative forcing and climate metrics for ozone precursor emissions: the impact of multi-model averaging",
+    "authors": [
+      "C. R. MacIntosh,",
+      "K. P. Shine,",
+      "W. J. Collins"
+    ],
+    "doi": "https://doi.org/10.5194/acp-15-3957-2015",
+    "journalVolume": "Vol. 15,\n                                no. 7\n                                \n                                  pp.\n                                  3957\n                                  – 3969",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Multi-model ensembles are frequently used to assess understanding of the response of ozone and methane lifetime to changes in emissions of ozone precursors such as NOx, VOCs (volatile organic compounds) and CO. When these ozone changes are used to calculate radiative forcing (RF) (and climate metrics such as the global warming potential (GWP) and global temperature-change potential (GTP)) there is a methodological choice, determined partly by the available computing resources, as to whether the mean ozone (and methane) concentration changes are input to the radiation code, or whether each model's ozone and methane changes are used as input, with the average RF computed from the individual model RFs. We use data from the Task Force on Hemispheric Transport of Air Pollution source–receptor global chemical transport model ensemble to assess the impact of this choice for emission changes in four regions (East Asia, Europe, North America and South Asia). We conclude that using the multi-model mean ozone and methane responses is accurate for calculating the mean RF, with differences up to 0.6% for CO, 0.7% for VOCs and 2% for NOx. Differences of up to 60% for NOx 7% for VOCs and 3% for CO are introduced into the 20 year GWP. The differences for the 20 year GTP are smaller than for the GWP for NOx, and similar for the other species. However, estimates of the standard deviation calculated from the ensemble-mean input fields (where the standard deviation at each point on the model grid is added to or subtracted from the mean field) are almost always substantially larger in RF, GWP and GTP metrics than the true standard deviation, and can be larger than the model range for short-lived ozone RF, and for the 20 and 100 year GWP and 100 year GTP. The order of averaging has most impact on the metrics for NOx, as the net values for these quantities is the residual of the sum of terms of opposing signs. For example, the standard deviation for the 20 year GWP is 2–3 times larger using the ensemble-mean fields than using the individual models to calculate the RF. The source of this effect is largely due to the construction of the input ozone fields, which overestimate the true ensemble spread. Hence, while the average of multi-model fields are normally appropriate for calculating mean RF, GWP and GTP, they are not a reliable method for calculating the uncertainty in these fields, and in general overestimate the uncertainty.",
+    "readLink": "http://www.atmos-chem-phys.net/15/3957/2015/acp-15-3957-2015.pdf"
+  },
+  {
+    "title": "Observational constraint of process crop models suggests higher risks for global maize yield under climate change",
+    "authors": [
+      "Xiaomeng Yin,",
+      "Guoyong Leng"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac7ac7",
+    "journalVolume": "Vol. 17,\n                                no. 7\n                                \n                                  p.\n                                  074023",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Projecting future changes in crop yield usually relies on process-based crop models, but the associated uncertainties (i.e. the range between models) are often high. In this study, a Machine Learning (i.e. Random Forest, RF) based observational constraining approach is proposed for reducing the uncertainties of future maize yield projections by seven process-based crop models. Based on the observationally constrained crop models, future changes in yield average and yield variability for the period 2080–2099 are investigated for the globe and top ten producing countries. Results show that the uncertainties of crop models for projecting future changes in yield average and yield variability can be largely reduced by 62% and 52% by the RF-based constraint, respectively, while only 4% and 16% of uncertainty reduction is achieved by traditional linear regression-based constraint. Compared to the raw simulations of future change in yield average (−5.13 ± 18.19%) and yield variability (−0.24 ± 1.47%), the constrained crop models project a much higher yield loss (−34.58 ± 6.93%) and an increase in yield variability (3.15 ± 0.71%) for the globe. Regionally, the constrained models show the largest increase in yield loss magnitude in Brazil, India and Indonesia. Our results suggest more agricultural risks under climate change than previously expected after observationally constraining crop models. The results obtained in this study point to the importance for observationally constraining process crop models for robust yield projections, and highlight the added value of using Machine Learning for reducing the associated uncertainties.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac7ac7"
+  }
+]

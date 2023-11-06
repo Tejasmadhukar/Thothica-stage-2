@@ -1,0 +1,222 @@
+[
+  {
+    "title": "The effect of nest temperature on growth and survival in juvenile Great Tits Parus major",
+    "authors": [
+      "Alejandro Corregidor‐Castro,",
+      "Owen R. Jones"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.7565",
+    "journalVolume": "Vol. 11,\n                                no. 12\n                                \n                                  pp.\n                                  7346\n                                  – 7353",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract For birds, maintaining an optimal nest temperature is critical for early‐life growth and development. Temperatures deviating from this optimum can affect nestling growth and fledging success with potential consequences on survival and lifetime reproductive success. It is therefore particularly important to understand these effects in relation to projected temperature changes associated with climate change. Targets set by the 2015 Paris Agreement aim to limit temperature increases to 2°C, and, with this in mind, we carried out an experiment in 2017 and 2018 where we applied a treatment that increased Great Tit Parus major nest temperature by approximately this magnitude (achieving an increase of 1.6°C, relative to the control) during the period from hatching to fledging to estimate how small temperature differences might affect nestling body size and weight at fledging and fledging success. We recorded hatching and fledging success and measured skeletal size (tarsus length) and body mass at days 5, 7, 10, and 15 posthatch in nestlings from two groups of nest boxes: control and heated (+1.6°C). Our results show that nestlings in heated nest boxes were 1.6% smaller in skeletal size at fledging than those in the cooler control nests, indicating lower growth rates in heated boxes, and that their weight was, in addition, 3.3% lower. These results suggest that even fairly small changes in temperature can influence phenotype and postfledging survival in cavity‐nesting birds. This has the potential to affect the population dynamics of these birds in the face of ongoing climatic change, as individuals of reduced size in colder winters may suffer from decreased fitness.",
+    "readLink": "https://doi.org/10.1002/ece3.7565"
+  },
+  {
+    "title": "Climate Change Impacts on the Upper Indus Hydrology: Sources, Shifts and Extremes.",
+    "authors": [
+      "A F Lutz,",
+      "W W Immerzeel,",
+      "P D A Kraaijenbrink,",
+      "A B Shrestha,",
+      "M F P Bierkens"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0165630",
+    "journalVolume": "Vol. 11,\n                                no. 11\n                                \n                                  p.\n                                  e0165630",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The Indus basin heavily depends on its upstream mountainous part for the downstream supply of water while downstream demands are high. Since downstream demands will likely continue to increase, accurate hydrological projections for the future supply are important. We use an ensemble of statistically downscaled CMIP5 General Circulation Model outputs for RCP4.5 and RCP8.5 to force a cryospheric-hydrological model and generate transient hydrological projections for the entire 21st century for the upper Indus basin. Three methodological advances are introduced: (i) A new precipitation dataset that corrects for the underestimation of high-altitude precipitation is used. (ii) The model is calibrated using data on river runoff, snow cover and geodetic glacier mass balance. (iii) An advanced statistical downscaling technique is used that accounts for changes in precipitation extremes. The analysis of the results focuses on changes in sources of runoff, seasonality and hydrological extremes. We conclude that the future of the upper Indus basin's water availability is highly uncertain in the long run, mainly due to the large spread in the future precipitation projections. Despite large uncertainties in the future climate and long-term water availability, basin-wide patterns and trends of seasonal shifts in water availability are consistent across climate change scenarios. Most prominent is the attenuation of the annual hydrograph and shift from summer peak flow towards the other seasons for most ensemble members. In addition there are distinct spatial patterns in the response that relate to monsoon influence and the importance of meltwater. Analysis of future hydrological extremes reveals that increases in intensity and frequency of extreme discharges are very likely for most of the upper Indus basin and most ensemble members.",
+    "readLink": "http://europepmc.org/articles/PMC5102348?pdf=render"
+  },
+  {
+    "title": "Automated Extraction of the Archaeological Tops of  Qanat Shafts from VHR Imagery in Google Earth",
+    "authors": [
+      "Lei Luo,",
+      "Xinyuan Wang,",
+      "Huadong Guo,",
+      "Chuansheng Liu,",
+      "Jie Liu,",
+      "Li Li,",
+      "Xiaocui Du,",
+      "Guoquan Qian"
+    ],
+    "doi": "https://doi.org/10.3390/rs61211956",
+    "journalVolume": "Vol. 6,\n                                no. 12\n                                \n                                  pp.\n                                  11956\n                                  – 11976",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Qanats in northern Xinjiang of China provide valuable information for agriculturists and anthropologists who seek fundamental understanding of the distribution of qanat water supply systems with regard to water resource utilization, the development of oasis agriculture, and eventually climate change. Only the tops of qanat shafts (TQSs), indicating the course of the qanats, can be observed from space, and their circular archaeological traces can also be seen in very high resolution imagery in Google Earth. The small size of the TQSs, vast search regions, and degraded features make manually extracting them from remote sensing images difficult and costly. This paper proposes an automated TQS extraction method that adopts mathematical morphological processing methods before an edge detecting module is used in the circular Hough transform approach. The accuracy assessment criteria for the proposed method include: (i) extraction percentage (E) = 95.9%, branch factor (B) = 0 and quality percentage (Q) = 95.9% in Site 1; and (ii) extraction percentage (E) = 83.4%, branch factor (B) = 0.058 and quality percentage (Q) = 79.5% in Site 2. Compared with the standard circular Hough transform, the quality percentages (Q) of our proposed method were improved to 95.9% and 79.5% from 86.3% and 65.8% in test sites 1 and 2, respectively. The results demonstrate that wide-area discovery and mapping can be performed much more effectively based on our proposed method.",
+    "readLink": "http://www.mdpi.com/2072-4292/6/12/11956"
+  },
+  {
+    "title": "From CO<sub>2</sub> to Value-Added Products: A Review about Carbon-Based Materials for Electro-Chemical CO<sub>2</sub> Conversion",
+    "authors": [
+      "Lilian  D. Ramírez-Valencia,",
+      "Esther Bailón-García,",
+      "Francisco Carrasco-Marín,",
+      "Agustín  F. Pérez-Cadenas"
+    ],
+    "doi": "https://doi.org/10.3390/catal11030351",
+    "journalVolume": "Vol. 11,\n                                no. 351\n                                \n                                  p.\n                                  351",
+    "issn": "2073-4344 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/catalysts",
+    "abstract": "The global warming and the dangerous climate change arising from the massive emission of CO2 from the burning of fossil fuels have motivated the search for alternative clean and sustainable energy sources. However, the industrial development and population necessities make the decoupling of economic growth from fossil fuels unimaginable and, consequently, the capture and conversion of CO2 to fuels seems to be, nowadays, one of the most promising and attractive solutions in a world with high energy demand. In this respect, the electrochemical CO2 conversion using renewable electricity provides a promising solution. However, faradaic efficiency of common electro-catalysts is low, and therefore, the design of highly selective, energy-efficient, and cost-effective electrocatalysts is critical. Carbon-based materials present some advantages such as relatively low cost and renewability, excellent electrical conductivity, and tunable textural and chemical surface, which show them as competitive materials for the electro-reduction of CO2. In this review, an overview of the recent progress of carbon-based electro-catalysts in the conversion of CO2 to valuable products is presented, focusing on the role of the different carbon properties, which provides a useful understanding for the materials design progress in this field. Development opportunities and challenges in the field are also summarized.",
+    "readLink": "https://www.mdpi.com/2073-4344/11/3/351"
+  },
+  {
+    "title": "Energy transport, polar amplification, and ITCZ shifts in the GeoMIP G1 ensemble",
+    "authors": [
+      "R. D. Russotto,",
+      "T. P. Ackerman,",
+      "T. P. Ackerman"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-2287-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  2287\n                                  – 2305",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "The polar amplification of warming and the ability of the Intertropical Convergence Zone (ITCZ) to shift to the north or south are two very important problems in climate science. Examining these behaviors in global climate models (GCMs) running solar geoengineering experiments is helpful not only for predicting the effects of solar geoengineering but also for understanding how these processes work under increased carbon dioxide (CO2). Both polar amplification and ITCZ shifts are closely related to the meridional transport of moist static energy (MSE) by the atmosphere. This study examines changes in MSE transport in 10 fully coupled GCMs in experiment G1 of the Geoengineering Model Intercomparison Project (GeoMIP), in which the solar constant is reduced to compensate for the radiative forcing from abruptly quadrupled CO2 concentrations. In G1, poleward MSE transport decreases relative to preindustrial conditions in all models, in contrast to the Coupled Model Intercomparison Project phase 5 (CMIP5) abrupt4xCO2 experiment, in which poleward MSE transport increases. We show that since poleward energy transport decreases rather than increases, and local feedbacks cannot change the sign of an initial temperature change, the residual polar amplification in the G1 experiment must be due to the net positive forcing in the polar regions and net negative forcing in the tropics, which arise from the different spatial patterns of the simultaneously imposed solar and CO2 forcings. However, the reduction in poleward energy transport likely plays a role in limiting the polar warming in G1. An attribution study with a moist energy balance model shows that cloud feedbacks are the largest source of uncertainty regarding changes in poleward energy transport in midlatitudes in G1, as well as for changes in cross-equatorial energy transport, which are anticorrelated with ITCZ shifts.",
+    "readLink": "https://www.atmos-chem-phys.net/18/2287/2018/acp-18-2287-2018.pdf"
+  },
+  {
+    "title": "Klimaanpassung auf regionaler Ebene: Herausforderungen einer regionalen Klimawandel-Governance",
+    "authors": [
+      "Stefanie Baasch,",
+      "Sybille Bauriedl,",
+      "Simone Hafner,",
+      "Sandra Weidlich"
+    ],
+    "doi": "https://doi.org/10.1007/s13147-012-0155-1",
+    "journalVolume": "Vol. 70,\n                                no. 3",
+    "issn": "0034-0111 (Print)",
+    "publisher": "1869-4179 (Online)",
+    "countryOfPublisher": "oekom verlag GmbH",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography: Settlements: Cities. Urban geography",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: Urbanization. City and country"
+    ],
+    "journalUrl": "https://rur.oekom.de/",
+    "abstract": "The implementation of climate change adaptation strategies mainly takes part at a regional scale. This scale refers to the functional and spatial dimensions of most climate change effects. Therefore, the regional scale is most adequate for processing cooperative governance formations, for progressing the regulatory framework, for implementing institutional innovations and conducting collective conflict solutions. One of the main findings in the new field of climate adaptation research refers to the necessity of an intersectoral and integrative cross-cutting issue for the consideration of climate change effects. The main aspects of an integrative perspective include a reconciliation of adaptation measures with global climate change mitigation goals, dealing with uncertainties in climate change scenarios, the integration of adaptation measures into various sectors and creating of acceptance for adaptation measures and their implementation instruments. These aspects lead to extensive discussion and coordination needs between governmental and civil society actors. This paper summarizes a framework of regional climate change governance and offers conclusions for the local practice and climate adaptation research. Referring to the action fields of spatial and regional planning, forestry and agriculture in the model region of Northern Hesse, generalizable good practice examples of institutional settings, governance formations and instruments for conducting successful adaptation strategies will be presented.",
+    "readLink": "https://rur.oekom.de/index.php/rur/article/view/851"
+  },
+  {
+    "title": "Use of Analytic Hierarchy Process Method to Identify Potential Rainwater Harvesting Sites: Design and Financial Strategies in Taxco de Alarcón, Southern Mexico",
+    "authors": [
+      "Blanca Itzany Rivera Vázquez,",
+      "Edith Rosalba Salcedo Sánchez,",
+      "Juan Manuel Esquivel Martínez,",
+      "Miguel Ángel Gómez Albores,",
+      "Felipe Gómez Noguez,",
+      "Carina Gutiérrez Flores,",
+      "Oscar Talavera Mendoza"
+    ],
+    "doi": "https://doi.org/10.3390/su15108220",
+    "journalVolume": "Vol. 15,\n                                no. 8220\n                                \n                                  p.\n                                  8220",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Mexico is among the countries that are facing the greatest water stress, where factors such as climate change, contamination of surface water, groundwater sources, and inefficient management have limited the availability of water resources. Consequently, new supply sources need to be implemented. Rainwater harvesting systems (RHS) are viable and sustainable alternatives, the implementation of which primarily depends on identifying suitable sites and applying technologies that are appropriate for different users. This research used the Analytical Hierarchy Process (AHP) technique in a GIS environment to select the optimal sites for designing RHS, taking into account hydrological, biophysical, and socioeconomic criteria. After determining the ideal sites, the study presents proposals and costs for the design of an urban and rural RHS based on the characteristics of the region and the needs of the community. The findings show that implementing RHS in the study area can be a practical, economical, and efficient alternative for water resource management, since these projects are aimed at sustainability.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/10/8220"
+  },
+  {
+    "title": "Epidemiological Characteristics of Field Tick-Borne Pathogens in Gwang-ju Metropolitan Area, South Korea, from 2014 to 2018",
+    "authors": [
+      "Jung Wook Park,",
+      "Seung Hun Lee,",
+      "Gi Seong Lee,",
+      "Jin Jong Seo,",
+      "Jae Keun Chung"
+    ],
+    "doi": "https://doi.org/10.24171/j.phrp.2020.11.4.06",
+    "journalVolume": "Vol. 11,\n                                no. 4\n                                \n                                  pp.\n                                  177\n                                  – 184",
+    "issn": "2210-9099 (Print)",
+    "publisher": "2233-6052 (Online)",
+    "countryOfPublisher": "Korea Disease Control and Prevention Agency",
+    "lcc": [
+      "Korea, Republic of",
+      "Medicine: Internal medicine: Special situations and conditions",
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "https://www.ophrp.org",
+    "abstract": "Objectives The importance of tick-borne diseases is increasing because of climate change, with a lack of long-term studies on tick-borne pathogens in South Korea. To understand the epidemiological characteristics of tick-borne diseases, the monthly distribution of field ticks throughout the year was studied in South Korea between May 2014 and April 2018 in a cross sectional study. Methods The presence of various tick-borne pathogens (Rickettsia species, Borrelia species, Anaplasma phagocytophilum) was confirmed by using polymerase chain reaction, to provide information for a prevention strategy against tick-borne pathogenic infections, through increased understanding of the relationship between seasonal variation and risk of infection with Rickettsia species. This was performed using logistic regression analysis (SPSS 20, IBM, USA) of the data obtained from the study. Results During the study period there were 11,717 ticks collected and 4 species identified. Haemapysalis longicornis was the most common species (n = 10,904, 93.1%), followed by Haemapysalis flava (n = 656, 5.6%), Ixodes nipponensis (n = 151, 1.3%), and Amblyomma testudinarium (n = 6, 0.05%) The results of this cross-sectional study showed that Haemapysalis flava carried a higher risk of transmission of Rickettsia species than other tick species (p < 0.05). Conclusion In conclusion, due attention should be paid to preventing tick-borne infections in humans whilst engaged in outdoor activities in Spring and Autumn, particularly in places where there is a high prevalence of ticks.",
+    "readLink": "http://ophrp.org/upload/pdf/ophrp-11-177.pdf"
+  },
+  {
+    "title": "Evolutionary and Holistic Assessment of Green-Grey Infrastructure for CSO Reduction",
+    "authors": [
+      "Alida Alves,",
+      "Arlex Sanchez,",
+      "Zoran Vojinovic,",
+      "Solomon Seyoum,",
+      "Mukand Babel,",
+      "Damir Brdjanovic"
+    ],
+    "doi": "https://doi.org/10.3390/w8090402",
+    "journalVolume": "Vol. 8,\n                                no. 9\n                                \n                                  p.\n                                  402",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Recent research suggests future alterations in rainfall patterns due to climate variability, affecting public safety and health in urban areas. Urban growth, one of the main drivers of change in the current century, will also affect these conditions. Traditional drainage approaches using grey infrastructure offer low adaptation to an uncertain future. New methodologies of stormwater management focus on decentralized approaches in a long-term planning framework, including the use of Green Infrastructure (GI). This work presents a novel methodology to select, evaluate, and place different green-grey practices (or measures) for retrofitting urban drainage systems. The methodology uses a hydrodynamic model and multi-objective optimization to design solutions at a watershed level. The method proposed in this study was applied in a highly urbanized watershed to evaluate the effect of these measures on Combined Sewer Overflows (CSO) quantity. This approach produced promising results and may become a useful tool for planning and decision making of drainage systems.",
+    "readLink": "http://www.mdpi.com/2073-4441/8/9/402"
+  },
+  {
+    "title": "Assessment of the Impact of Climate Change Policies on the Market for Forest Industrial Residues",
+    "authors": [
+      "Emily Hope,",
+      "Bruno Gagnon,",
+      "Vanja Avdić"
+    ],
+    "doi": "https://doi.org/10.3390/su12051787",
+    "journalVolume": "Vol. 12,\n                                no. 5\n                                \n                                  p.\n                                  1787",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "As part of the Pan-Canadian Framework (PCF) on Clean Growth and Climate Change, the Government of Canada (GoC) introduced carbon pricing and is in the process of developing a Clean Fuel (CF) Standard. Both policies are key elements of the PCF and aim to reduce greenhouse gas (GHG) emissions through the use of lower carbon fuels, including bioenergy. Carbon pricing and the CF Standard are expected to increase the demand for biomass feedstocks, possibly threatening feedstock availability for existing forest industrial residues users, including composite panel manufacturers. To assess the potential impact of carbon pricing and the CF Standard on Canadian composite panel producers, a Monte Carlo-based model was developed to estimate possible increases in feedstock price-points that composite panel manufacturers may face as a result of increases in bioenergy consumption. Results suggest that the composite panel industry may be negatively impacted in the long-term (2030) by the relative price increase of fossil fuels covered by carbon pricing and additional revenues for biofuel suppliers from CF Standard credits, assuming no other adjustments to the market. Although these results are preliminary in that the analysis excludes external market factors that could influence the outcome, there is evidence that such policies have the potential to generate supply risks for the Canadian composite panel industry without careful consideration of the associated externalities.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/5/1787"
+  }
+]

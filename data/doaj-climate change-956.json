@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Evaluating the simulated radiative forcings, aerosol properties, and stratospheric warmings from the 1963 Mt Agung, 1982 El Chichón, and 1991 Mt Pinatubo volcanic aerosol clouds",
+    "authors": [
+      "S. S. Dhomse,",
+      "S. S. Dhomse,",
+      "G. W. Mann,",
+      "G. W. Mann,",
+      "J. C. Antuña Marrero,",
+      "S. E. Shallcross,",
+      "M. P. Chipperfield,",
+      "M. P. Chipperfield,",
+      "K. S. Carslaw,",
+      "L. Marshall,",
+      "L. Marshall,",
+      "N. L. Abraham,",
+      "N. L. Abraham,",
+      "C. E. Johnson,",
+      "C. E. Johnson"
+    ],
+    "doi": "https://doi.org/10.5194/acp-20-13627-2020",
+    "journalVolume": "Vol. 20\n                                \n                                \n                                  pp.\n                                  13627\n                                  – 13654",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Accurately quantifying volcanic impacts on climate is a key requirement for robust attribution of anthropogenic climate change. Here we use the Unified Model – United Kingdom Chemistry and Aerosol (UM-UKCA) composition–climate model to simulate the global dispersion of the volcanic aerosol clouds from the three largest eruptions of the 20th century: 1963 Mt Agung, 1982 El Chichón, and 1991 Mt Pinatubo. The model has interactive stratospheric chemistry and aerosol microphysics, with coupled aerosol–radiation interactions for realistic composition–dynamics feedbacks. Our simulations align with the design of the Interactive Stratospheric Aerosol Model Intercomparison (ISA-MIP) “Historical Eruption SO2 Emissions Assessment”. For each eruption, we perform three-member ensemble model experiments for upper, mid-point, and lower estimates of SO2 emission, each re-initialised from a control run to approximately match the observed transition in the phase of the quasi-biennial oscillation (QBO) in the 6 months after the eruptions. With this experimental design, we assess how each eruption's emitted SO2 translates into a tropical reservoir of volcanic aerosol and analyse the subsequent dispersion to mid-latitudes. We compare the simulations to the volcanic forcing datasets (e.g. Space-based Stratospheric Aerosol Climatology (GloSSAC); Sato et al., 1993, and Ammann et al., 2003) that are used in historical integrations for the two most recent Coupled Model Intercomparison Project (CMIP) assessments. For Pinatubo and El Chichón, we assess the vertical extent of the simulated volcanic clouds by comparing modelled extinction to the Stratospheric Aerosol and Gas Experiment (SAGE-II) v7.0 satellite measurements and to 1964–1965 Northern Hemisphere ground-based lidar measurements for Agung. As an independent test for the simulated volcanic forcing after Pinatubo, we also compare simulated shortwave (SW) and longwave (LW) top-of-the-atmosphere radiative forcings to the flux anomalies measured by the Earth Radiation Budget Experiment (ERBE) satellite instrument. For the Pinatubo simulations, an injection of 10 to 14 Tg SO2 gives the best match to the High Resolution Infrared Sounder (HIRS) satellite-derived global stratospheric sulfur burden, with good agreement also with SAGE-II mid-visible and near-infra-red extinction measurements. This 10–14 Tg range of emission also generates a heating of the tropical stratosphere that is consistent with the temperature anomaly present in the ERA-Interim reanalysis. For El Chichón, the simulations with 5 and 7 Tg SO2 emission give best agreement with the observations. However, these simulations predict a much deeper volcanic cloud than represented in the GloSSAC dataset, which is largely based on an interpolation between Stratospheric Aerosol Measurements (SAM-II) satellite and aircraft measurements. In contrast, these simulations show much better agreement during the SAGE-II period after October 1984. For 1963 Agung, the 9 Tg simulation compares best to the forcing datasets with the model capturing the lidar-observed signature of the altitude of peak extinction descending from 20 km in 1964 to 16 km in 1965. Overall, our results indicate that the downward adjustment to SO2 emission found to be required by several interactive modelling studies when simulating Pinatubo is also needed when simulating the Agung and El Chichón aerosol clouds. This strengthens the hypothesis that interactive stratospheric aerosol models may be missing an important removal or re-distribution process (e.g. effects of co-emitted ash) which changes how the tropical reservoir of volcanic aerosol evolves in the initial months after an eruption. Our model comparisons also identify potentially important inhomogeneities in the CMIP6 dataset for all three eruption periods that are hard to reconcile with variations predicted in the interactive stratospheric aerosol simulations. We also highlight large differences between the CMIP5 and CMIP6 volcanic aerosol datasets for the Agung and El Chichón periods. Future research should aim to reduce this uncertainty by reconciling the datasets with additional stratospheric aerosol observations.",
+    "readLink": "https://acp.copernicus.org/articles/20/13627/2020/acp-20-13627-2020.pdf"
+  },
+  {
+    "title": "Developing Wheat for Improved Yield and Adaptation Under a Changing Climate: Optimization of a Few Key Genes",
+    "authors": [
+      "M.A.N. Nazim Ud Dowla,",
+      "Ian Edwards,",
+      "Graham O'Hara,",
+      "Shahidul Islam,",
+      "Wujun Ma"
+    ],
+    "doi": "Vol. 4,\n                                no. 4\n                                \n                                  pp.\n                                  514\n                                  – 522",
+    "issn": "2095-8099 (Print)",
+    "publisher": "2096-0026 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "China",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/engineering",
+    "abstract": "Wheat grown under rain-fed conditions is often affected by drought worldwide. Future projections from a climate simulation model predict that the combined effects of increasing temperature and changing rainfall patterns will aggravate this drought scenario and may significantly reduce wheat yields unless appropriate varieties are adopted. Wheat is adapted to a wide range of environments due to the diversity in its phenology genes. Wheat phenology offers the opportunity to fight against drought by modifying crop developmental phases according to water availability in target environments. This review summarizes recent advances in wheat phenology research, including vernalization (Vrn), photoperiod (Ppd), and also dwarfing (Rht) genes. The alleles, haplotypes, and copy number variation identified for Vrn and Ppd genes respond differently in different climatic conditions, and thus could alter not only the development phases but also the yield. Compared with the model plant Arabidopsis, more phenology genes have not yet been identified in wheat; quantifying their effects in target environments would benefit the breeding of wheat for improved drought tolerance. Hence, there is scope to maximize yields in water-limited environments by deploying appropriate phenology gene combinations along with Rht genes and other important physiological traits that are associated with drought resistance. Keywords: Phenology, Wheat, Vernalization, Photoperiod, Drought, Climate change",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2095809917302485"
+  },
+  {
+    "title": "The nexus of oil, conflict, and climate change vulnerability of pastoral communities in northwest Kenya",
+    "authors": [
+      "J. Schilling,",
+      "R. Locham,",
+      "T. Weinzierl,",
+      "J. Vivekananda,",
+      "J. Scheffran"
+    ],
+    "doi": "https://doi.org/10.5194/esd-6-703-2015",
+    "journalVolume": "Vol. 6,\n                                no. 2\n                                \n                                  pp.\n                                  703\n                                  – 717",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "Turkana, in northwest Kenya, is the country's poorest and least developed county. Pastoralism in Turkana is well adapted to the harsh climatic conditions, but an increase in drought frequency associated with global climate change and intensifying violent conflicts between pastoral groups poses significant challenges for local communities. The conflicts are especially violent in the border region between the Turkana and the Pokot communities. In this very region significant oil reserves have recently been found. The first aim of this paper is to analyse how the oil exploration affects the communities' vulnerability to climate change. Secondly, the paper explores the risk of the oil explorations creating new conflicts or aggravating existing ones. The primary method of the study is qualitative field research supplemented with a geo-spatial analysis of conflict data. The field research was conducted in October 2013 and April 2014 in three villages with different levels of engagement with the oil exploration. At the time of the research, oil exploration was expected close to Lokwamosing, while it had recently started in the vicinity of Lopii and had been ongoing for a longer time close to Nakukulas. The findings suggest that the oil exploration increases the community's vulnerability to climate change. Further, unmet community expectations for water, employment and development pose a significant risk for violent conflict between local communities and the operating oil company. Intercommunal conflict over water and land could increase as well.",
+    "readLink": "http://www.earth-syst-dynam.net/6/703/2015/esd-6-703-2015.pdf"
+  },
+  {
+    "title": "EDDA 2.0: integrated simulation of debris flow initiation and dynamics considering two initiation mechanisms",
+    "authors": [
+      "P. Shen,",
+      "L. Zhang,",
+      "H. Chen,",
+      "R. Fan"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-11-2841-2018",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  2841\n                                  – 2856",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Climate change is resulting in more frequent rainstorms and more rain-induced debris flows in mountainous areas. The prediction of likely hazard zones is important for debris flow risk assessment and management. Existing numerical methods for debris flow analysis often require the input of hydrographs at prescribed initiation locations, ignoring the initiation process and leading to large uncertainties in debris flow initiation locations, times, and volumes when applied to regional debris flow analysis. The evolution of the flowing mixture in time and space is also barely addressed. This paper presents a new integrated numerical model, EDDA 2.0, to simulate the whole process of debris flow initiation, motion, entrainment, deposition, and property changes. Two physical initiation mechanisms are modelled: transformation from slope failures and surface erosion. Three numerical tests and field application to a catastrophic debris flow event are conducted to verify the model components and evaluate the model performance. The results indicate that the integrated model is capable of simulating the initiation and subsequent flowing process of rain-induced debris flows, as well as the physical evolution of the flowing mixture. The integrated model provides a powerful tool for analysing multi-hazard processes, hazard interactions, and regional debris flow risk assessment in the future.",
+    "readLink": "https://www.geosci-model-dev.net/11/2841/2018/gmd-11-2841-2018.pdf"
+  },
+  {
+    "title": "Biome changes in Asia since the mid-Holocene – an analysis of different transient Earth system model simulations",
+    "authors": [
+      "A. Dallmeyer,",
+      "M. Claussen,",
+      "J. Ni,",
+      "X. Cao,",
+      "Y. Wang,",
+      "N. Fischer,",
+      "M. Pfeiffer,",
+      "L. Jin,",
+      "V. Khon,",
+      "S. Wagner,",
+      "K. Haberkorn,",
+      "U. Herzschuh"
+    ],
+    "doi": "https://doi.org/10.5194/cp-13-107-2017",
+    "journalVolume": "Vol. 13,\n                                no. 2\n                                \n                                  pp.\n                                  107\n                                  – 134",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "The large variety of atmospheric circulation systems affecting the eastern Asian climate is reflected by the complex Asian vegetation distribution. Particularly in the transition zones of these circulation systems, vegetation is supposed to be very sensitive to climate change. Since proxy records are scarce, hitherto a mechanistic understanding of the past spatio-temporal climate–vegetation relationship is lacking. To assess the Holocene vegetation change and to obtain an ensemble of potential mid-Holocene biome distributions for eastern Asia, we forced the diagnostic biome model BIOME4 with climate anomalies of different transient Holocene climate simulations performed in coupled atmosphere–ocean(–vegetation) models. The simulated biome changes are compared with pollen-based biome records for different key regions.In all simulations, substantial biome shifts during the last 6000 years are confined to the high northern latitudes and the monsoon–westerly wind transition zone, but the temporal evolution and amplitude of change strongly depend on the climate forcing. Large parts of the southern tundra are replaced by taiga during the mid-Holocene due to a warmer growing season and the boreal treeline in northern Asia is shifted northward by approx. 4° in the ensemble mean, ranging from 1.5 to 6° in the individual simulations, respectively. This simulated treeline shift is in agreement with pollen-based reconstructions from northern Siberia. The desert fraction in the transition zone is reduced by 21 % during the mid-Holocene compared to pre-industrial due to enhanced precipitation. The desert–steppe margin is shifted westward by 5° (1–9° in the individual simulations). The forest biomes are expanded north-westward by 2°, ranging from 0 to 4° in the single simulations. These results corroborate pollen-based reconstructions indicating an extended forest area in north-central China during the mid-Holocene. According to the model, the forest-to-non-forest and steppe-to-desert changes in the climate transition zones are spatially not uniform and not linear since the mid-Holocene.",
+    "readLink": "http://www.clim-past.net/13/107/2017/cp-13-107-2017.pdf"
+  },
+  {
+    "title": "Stochastic Processes Drive Plant Community Assembly in Alpine Grassland during the Restoration Period",
+    "authors": [
+      "Zhaoheng Deng,",
+      "Jingxue Zhao,",
+      "Zhong Wang,",
+      "Ruicheng Li,",
+      "Ying Guo,",
+      "Tianxiang Luo,",
+      "Lin Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/d14100832",
+    "journalVolume": "Vol. 14,\n                                no. 832\n                                \n                                  p.\n                                  832",
+    "issn": "1424-2818 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/diversity/",
+    "abstract": "Enclosure (prohibition of grazing) is an important process to restore alpine grassland on the Qinghai-Tibetan Plateau. However, few studies have quantified the extent to which the long-term enclosure may contribute to the changes in plant phylogenetic diversity and community assembly in alpine grassland under environmental change. In this study, based on an 11-year fencing experiment along an altitudinal gradient ranging from 4400 m to 5200 m in central Tibet, we conducted an observation of species composition and coverage within and outside the fences in the fifth, eighth and eleventh year, and monitored the related climate and soil factors at 7 sites. Our aim is to quantify the relative effects of environmental change and grassland management on the alpine plant community assemblage. The results were: (1) the overall phylogenetic structure (NRI) of the alpine plant communities, whether inside or outside the enclosure, was divergent at altitudes where the environment was relatively unextreme (4800–5100 m), but aggregative at altitudes with low precipitation (4400–4650 m) or with low temperature (5200 m). (2) The phylogenetic structure of the nearest taxon of species (NTI) was more aggregative along the whole gradient. (3) Precipitation was the dominant factor driving the changes in species richness, phylogenetic diversity and community α-phylogenetic structure indices (NRI and NTI), followed by enclosure duration and soil C:N ratio. (4) The phylogenetic structure of the communities was similar at higher altitudes under grazing or enclosure treatments, and was opposite at lower sites. Stochastic processes have driven the changes in the communities between inside and outside the fences at all altitudes. In addition, homogeneous dispersal occurred in communities at higher sites. In summary, the 11-year enclosure had little effect on community structure of alpine meadows where the grazing pressure is relative lower, whereas it could help restore the community of steppe meadow at lower altitudes where the grazing pressure is extensively higher. This study may provide a vital theoretical support for the formulation of differential management for alpine grassland on the Tibetan Plateau.",
+    "readLink": "https://www.mdpi.com/1424-2818/14/10/832"
+  },
+  {
+    "title": "Assessing demographic and economic vulnerabilities to sea level rise in Bangladesh via a nighttime light-based cellular automata model",
+    "authors": [
+      "Bijoy Mitra,",
+      "Syed Masiur Rahman,",
+      "Mohammed Sakib Uddin,",
+      "Khaled Mahmud,",
+      "Md Kamrul Islam,",
+      "Md Arifuzzaman,",
+      "MM Hafizur Rahman,",
+      "Muhammad Muhitur Rahman"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-023-40329-9",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract The Intergovernmental Panel on Climate Change (IPCC) 6th Assessment Report (AR6) forecasts a sea level rise (SLR) of up to 2 m by 2100, which poses significant risks to regional geomorphology. As a country with a rapidly developing economy and substantial population, Bangladesh confronts unique challenges due to its extensive floodplains and 720 km-long Bay of Bengal coastline. This study uses nighttime light data to investigate the demographic repercussions and potential disruptions to economic clusters arising from land inundation attributable to SLR in the Bay of Bengal. By using geographical information system (GIS)-based bathtub modeling, this research scrutinizes potential risk zones under three selected shared socioeconomic pathway (SSP) scenarios. The analysis anticipates that between 0.8 and 2.8 thousand km2 of land may be inundated according to the present elevation profile, affecting 0.5–2.8 million people in Bangladesh by 2150. Moreover, artificial neural network (ANN)-based cellular automata modeling is used to determine economic clusters at risk from SLR impacts. These findings emphasize the urgency for land planners to incorporate modeling and sea inundation projections to tackle the inherent uncertainty in SLR estimations and devise effective coastal flooding mitigation strategies. This study provides valuable insights for policy development and long-term planning in coastal regions, especially for areas with a limited availability of relevant data.",
+    "readLink": "https://doi.org/10.1038/s41598-023-40329-9"
+  },
+  {
+    "title": "Impacts of Changbai Mountain Topography on the Extreme Precipitation From Super Typhoon Maysak",
+    "authors": [
+      "Dan Zhu,",
+      "Dan Zhu,",
+      "Xiefei Zhi,",
+      "Ning Wang,",
+      "Changsheng Chen,",
+      "Xiao Tian,",
+      "Yueming Yu"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2021.818402",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "Based on hourly gridded precipitation data (0.1°) calculated by the China Meteorological Administration (CMA), the European Centre Medium-Range Weather Forecasts (ECMWF) reanalysis data, and microwave measurements, this paper investigated the extreme precipitation induced by the Typhoon Maysak in Northeast China (September 2020), using the Advanced Research dynamic core of the Weather Research and Forecasting Model (WRF-ARW). The study focused on Changbai Mountain topography and the extreme precipitation in Jilin Province. The results show that two extreme precipitation centers corresponded well to the local terrain height in Jilin Province. The Changbai Mountain range, which mainly lies in southeastern Jilin Province, affected the typhoon in three aspects: blocking drag, forcing uplift, and promoting moisture convergence. Because of the blocking drag of the mountain topography, the duration of severe precipitation was prolonged. The overlap of the area affected by the peripheral cloud band of the typhoon and the direction of the typhoon was largely responsible for the extreme rainfall. The dynamic lifting by the mountainous terrain and the reinforced moisture convergence also considerably increased precipitation. Microwave measurements show that water vapor density profile increased rapidly at the peak (14 g/m3), and the high moisture density was retained for at least 15 h in the lower layer. The prolonged, continuous, and abundant moisture transport offered a sufficient water vapor supply for this severe precipitation event. According to the estimation of precipitation rate, the increment of torrential rainfall on Changbai Mountain during the severe precipitation period reached 6.8 mm/h, about 41% of the total rainfall in this period. Finally, the topographic sensitivity test indicated that when the terrain of Changbai Mountain was lower, the convergent ascending motion, precipitable water, and storm-relative helicity were weaker, and the rainfall distribution markedly changed. This finding further verifies the importance of the Changbai orography in the extreme precipitation event induced by Typhoon Maysak.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2021.818402/full"
+  },
+  {
+    "title": "Impacts of Extreme Weather Events on Bacterial Community Composition of a Temperate Humic Lake",
+    "authors": [
+      "Alexa Hoke,",
+      "Jason Woodhouse,",
+      "Luca Zoccarato,",
+      "Valerie McCarthy,",
+      "Elvira de Eyto,",
+      "Maria Calderó-Pascual,",
+      "Ewan Geffroy,",
+      "Mary Dillane,",
+      "Hans-Peter Grossart,",
+      "Eleanor Jennings"
+    ],
+    "doi": "https://doi.org/10.3390/w12102757",
+    "journalVolume": "Vol. 12,\n                                no. 2757\n                                \n                                  p.\n                                  2757",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Extreme weather events are projected to increase in frequency and intensity as climate change continues. Heterotrophic bacteria play a critical role in lake ecosystems, yet little research has been done to determine how they are affected by such extremes. The purpose of this study was to use high-throughput sequencing to explore the bacterial community composition of a humic oligotrophic lake on the North Atlantic Irish coast and to assess the impacts on composition dynamics related to extreme weather events. Samples for sequencing were collected from Lough Feeagh on a fortnightly basis from April to November 2018. Filtration was used to separate free-living and particle-associated bacterial communities and amplicon sequencing was performed for the 16S rRNA V4 region. Two named storms, six high discharge events, and one drought period occurred during the sampling period. These events had variable, context-dependent effects on bacterial communities in Lough Feeagh. The particle-associated community was found to be more likely to respond to physical changes, such as mixing, while the free-living population responded to changes in nutrient and carbon concentrations. Generally, however, the high stability of the bacterial community observed in Lough Feeagh suggests that the bacterial community is relatively resilient to extreme weather events.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/10/2757"
+  },
+  {
+    "title": "New Challenges for Agriculture within the Context of Climate Change",
+    "authors": [
+      "Ildikó IOAN,",
+      "Carmen Valentina RĂDULESCU"
+    ],
+    "doi": "Vol. XXII,\n                                no. 4\n                                \n                                  pp.\n                                  253\n                                  – 262",
+    "issn": "1841-8678 (Print)",
+    "publisher": "1844-0029 (Online)",
+    "countryOfPublisher": "General Association of Economists from Romania",
+    "lcc": [
+      "Romania",
+      "Social Sciences: Commerce: Business",
+      "Social Sciences: Economic theory. Demography: Economics as a science"
+    ],
+    "journalUrl": "http://www.ectap.ro/",
+    "abstract": "Recent evolutions of the natural environment launched a number of warnings regarding the sustainability of economic growth and development. The boldest threat is the one of climate change that is foreseen as a catastrophe unless urgent action is taken in both directions mitigation and adaptation. Agriculture and food production are amongst the most important variables shaping the prospects of society for centuries. Their status was determined always by natural factors but recently the impact of economic factors is more influential. Therefore climate change is about to create important economic challenges for agriculture that call for guidelines, support, and initiative to enact changes needed for emission reduction and more importantly for increasing the adaptability of farms in all regions while preserving and improving the wealth of farmers. The paper provide a synthesis of climate change impact along with a brief review of adaptation measures already enforced and discusses the innovative solutions for adaptation that could be employed for the financial management of farms.",
+    "readLink": "\n\t\t\thttp://store.ectap.ro/articole/1150.pdf\n\t\t"
+  }
+]

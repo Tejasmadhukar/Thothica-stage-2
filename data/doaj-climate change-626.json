@@ -1,0 +1,229 @@
+[
+  {
+    "title": "Assessment of the Continuous Extreme Drought Events in Namibia during the Last Decade",
+    "authors": [
+      "Xuan Liu,",
+      "Jie Zhou"
+    ],
+    "doi": "https://doi.org/10.3390/w13202942",
+    "journalVolume": "Vol. 13,\n                                no. 2942\n                                \n                                  p.\n                                  2942",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "In the context of climate change, the intensity, frequency, and duration of drought events have increased significantly, resulting in a profound impact on both natural ecosystems and socio-economic systems. In arid and semi-arid regions, precipitation is the main limiting factor for vegetation growth, and the ecosystems are very sensitive to climate change. Over the past 10 years, the Namibian government has declared national emergencies in 2013, 2016, and 2019 due to extreme drought events. The continued extreme drought has posed serious threat to the country’s food security. Accurately monitoring the continuous drought events in Namibia and assessing their impact on the ecosystem is essential for drought risk management in the region. Based on long-term satellite observation of vegetation index and precipitation, we have evaluated the spatiotemporal dynamics of the three drought events, the vegetation–precipitation relationship across biomes, and the impact of continuous drought events on regional ecosystems. The results suggest that: (1) According to affected area and severity, the drought in 2019 was the most severe one, followed by the drought in 2013; the 2015–2016 drought spread over smaller spatial area, although it continued for two years; (2) Both the accumulated NDVI and precipitation in the growing season in Namibia increased from 2001 to 2010 while showing a significant decreasing trend during 2011–2020; (3) In Namibia, there is a significant correlation between the current season’s accumulated precipitation and the current season’s accumulated NDVI (r = 0.90, p p p < 0.01). This indicates that part of the precipitation in the current season may be stored in the soil for the next season’s plant growth, which is more obvious in the northern plains with deep-rooted woody plants; (4) In 2013, the drought event suddenly changed from a long-term relatively humid state to an extremely dry state. During the ecological recovery stage, the NDVI during the growing season could not return to the state before the drought, causing irreversible damage to the Namibian ecosystem. In summary, the continuous extreme drought events during the last decade have caused profound impacts on the regional ecosystem. Much more attention should be paid to whether the extreme drought events will continue into the next decade and how the ecosystem can sustain a new equilibrium under a warmer and drier climate.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/20/2942"
+  },
+  {
+    "title": "COP 15 and Pacific Island states: A collective voice on climate change",
+    "authors": [
+      "Yasmine Ryan"
+    ],
+    "doi": "https://doi.org/10.24135/pjr.v16i1.1017",
+    "journalVolume": "Vol. 16,\n                                no. 1",
+    "issn": "1023-9499 (Print)",
+    "publisher": "2324-2035 (Online)",
+    "countryOfPublisher": "Asia Pacific Network",
+    "lcc": [
+      "New Zealand",
+      "Language and Literature: Philology. Linguistics: Communication. Mass media",
+      "Language and Literature: Literature (General): Journalism. The periodical press, etc."
+    ],
+    "journalUrl": "https://ojs.aut.ac.nz/pacific-journalism-review/",
+    "abstract": "Commentary: Pacific Island states battled to have their perspectives taken into account at the United Nations Climate Change Conference in Copenhagen in December 2009. Though widely accepted as being among the first victims of climate change, most developed countries, along with some emerging economies, put their own geopolitical interests ahead of what Pacific leaders argued was their right to survival as viable nations and cultures. The Pacific Island states negotiated collectively for shared goals, with Tuvalu often taking a leadership role. Australia and New Zealand, meanwhile, pursued strategies at marked odds with their smaller neighbours. Papua New Guinea broke ranks with other island nations, concentrating overwhelmingly on forestry negotiations to the exclusion of other common objectives. The PNG delegation also pushed to weaken the safeguarding of indigenous rights in the draft text on forestry. Much of the civil society present in Copenhagen, however, gave vocal support for the position taken by the Pacific Island states. This article is based largely on interviews with delegates and commentators at COP 15 in December 2009.",
+    "readLink": "https://ojs.aut.ac.nz/pacific-journalism-review/article/view/1017"
+  },
+  null,
+  {
+    "title": "Multivariate bias corrections of climate simulations: which benefits for which losses?",
+    "authors": [
+      "B. François,",
+      "M. Vrac,",
+      "A. J. Cannon,",
+      "Y. Robin,",
+      "D. Allard"
+    ],
+    "doi": "https://doi.org/10.5194/esd-11-537-2020",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  537\n                                  – 562",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "Climate models are the major tools to study the climate system and its evolutions in the future. However, climate simulations often present statistical biases and have to be corrected against observations before being used in impact assessments. Several bias correction (BC) methods have therefore been developed in the literature over the last 2 decades, in order to adjust simulations according to historical records and obtain climate projections with appropriate statistical attributes. Most of the existing and popular BC methods are univariate, i.e., correcting one physical variable and one location at a time and, thus, can fail to reconstruct inter-variable, spatial or temporal dependencies of the observations. These remaining biases in the correction can then affect the subsequent analyses. This has led to further research on multivariate aspects for statistical postprocessing BC methods. Recently, some multivariate bias correction (MBC) methods have been proposed, with different approaches to restore multidimensional dependencies. However, these methods are not yet fully apprehended by researchers and practitioners due to differences in their applicability and assumptions, therefore leading potentially to different results. This study is intended to intercompare four existing MBCs to provide end users with aid in choosing such methods for their applications. For evaluation and illustration purposes, these methods are applied to correct simulation outputs from one climate model through a cross-validation method, which allows for the assessment of inter-variable, spatial and temporal criteria. Then, a second cross-validation method is performed for assessing the ability of the MBC methods to account for the multidimensional evolutions of the climate model. Additionally, two reference datasets are used to assess the influence of their spatial resolution on (M)BC results. Most of the methods reasonably correct inter-variable and intersite correlations. However, none of them adjust correctly the temporal structure as they generate bias-corrected data with usually weak temporal dependencies compared to observations. Major differences are found concerning the applicability and stability of the methods in high-dimensional contexts and in their capability to reproduce the multidimensional changes in the model. Based on these conclusions, perspectives for MBC developments are suggested, such as methods to adjust not only multivariate correlations but also temporal structures and allowing multidimensional evolutions of the model to be accounted for in the correction.",
+    "readLink": "https://esd.copernicus.org/articles/11/537/2020/esd-11-537-2020.pdf"
+  },
+  {
+    "title": "Farasan Island of Saudi Arabia confronts the measurable impacts of global warming in 45 years",
+    "authors": [
+      "Khaled Mohamed Khedher,",
+      "Gasem Mohammad Abu-Taweel,",
+      "Zarraq Al-Fifi,",
+      "Mofareh D. Qoradi,",
+      "Zainab Al-khafaji,",
+      "Bijay Halder,",
+      "Jatisankar Bandyopadhyay,",
+      "Shamsuddin Shahid,",
+      "LAATAR Essaied,",
+      "Zaher Mundher Yaseen"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-022-18225-5",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 20",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Coastal vulnerability assessment is the key to coastal management and sustainable development. Sea level rise (SLR) and anthropogenic activities have triggered more extreme climatic events and made the coastal region vulnerable in recent decades. Many parts of the world also noticed increased sediment deposition, tidal effects, and changes in the shoreline. Farasan Island, located in the south-eastern part of Saudi Arabia, experienced changes in sediment deposition from the Red Sea in recent years. This study used Digital Shoreline Analysis System (DSAS) to delineate the shoreline changes of Farasan Island during 1975–2020. Multi-temporal Landsat data and DSAS were used for shoreline calculation based on endpoint rate (EPR) and linear regression. Results revealed an increase in vegetation area on the island by 17.18 km2 during 1975–1989 and then a decrease by 69.85 km2 during 1990–2020. The built-up land increased by 5.69 km2 over the study period to accommodate the population growth. The annual temperature showed an increase at a rate of 0.196 °C/year. The sea-level rise caused a shift in the island's shoreline and caused a reduction of land by 80.86 km2 during 1975–2020. The highly influenced areas by the environmental changes were the north, central, northwest, southwest, and northeast parts of the island. Urban expansion and sea-level rise gradually influence the island ecosystem, which needs proper attention, management, policies, and awareness planning to protect the environment of Farasan Island. Also, the study’s findings could help develop new strategies and plan climate change adaptation.",
+    "readLink": "https://doi.org/10.1038/s41598-022-18225-5"
+  },
+  {
+    "title": "Insolation evolution and ice volume legacies determine interglacial and glacial intensity",
+    "authors": [
+      "T. Mitsui,",
+      "T. Mitsui,",
+      "P. C. Tzedakis,",
+      "E. W. Wolff"
+    ],
+    "doi": "https://doi.org/10.5194/cp-18-1983-2022",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  1983\n                                  – 1996",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "Interglacials and glacials represent low and high ice volume end-members of ice age cycles. While progress has been made in our understanding of how and when transitions between these states occur, their relative intensity has been lacking an explanatory framework. With a simple quantitative model, we show that over the last 800 000 years interglacial intensity can be described as a function of the strength of the previous glacial and the summer insolation at high latitudes in both hemispheres during the deglaciation. Since the precession components in the boreal and austral insolations counteract each other, the amplitude increase in obliquity cycles after 430 000 years ago is imprinted in interglacial intensities, contributing to the manifestation of the so-called Mid-Brunhes Event. Glacial intensity is also linked to the strength of the previous interglacial, the time elapsed from it, and the evolution of boreal summer insolation. Our results suggest that the memory of previous climate states and the time course of the insolation are crucial for understanding interglacial and glacial intensities.",
+    "readLink": "https://cp.copernicus.org/articles/18/1983/2022/cp-18-1983-2022.pdf"
+  },
+  {
+    "title": "Hidden Public Value Identification of Real Estate Management Decisions",
+    "authors": [
+      "Kazak Jan K.,",
+      "Simeunović Nataša,",
+      "Hendricks Andreas"
+    ],
+    "doi": "https://doi.org/10.2478/remav-2019-0039",
+    "journalVolume": "Vol. 27,\n                                no. 4\n                                \n                                  pp.\n                                  96\n                                  – 104",
+    "issn": "2300-5289 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Social Sciences: Industries. Land use. Labor: Land use: Real estate business"
+    ],
+    "journalUrl": "https://sciendo.com/journal/REMAV",
+    "abstract": "Seeing as how cities nowadays have to face many challenges (such as: urban traffic management, revitalization, and adaptation to climate change.), different kinds of urban policies and actions are undertaken. Many of these actions result in changes that influence real estate, mostly by improving the conditions of public services. However, implementation of such urban policies is connected with significant costs that have to be covered by public funds. Therefore, the question arises how we can analyze the assumed benefits from the increase of real estate value? Which tool could allow stakeholders to search for potential added value?",
+    "readLink": "https://doi.org/10.2478/remav-2019-0039"
+  },
+  {
+    "title": "SPEAR: The Next Generation GFDL Modeling System for Seasonal to Multidecadal Prediction and Projection",
+    "authors": [
+      "Thomas L. Delworth,",
+      "William F. Cooke,",
+      "Alistair Adcroft,",
+      "Mitchell Bushuk,",
+      "Jan‐Huey Chen,",
+      "Krista A. Dunne,",
+      "Paul Ginoux,",
+      "Richard Gudgel,",
+      "Robert W. Hallberg,",
+      "Lucas Harris,",
+      "Matthew J. Harrison,",
+      "Nathaniel Johnson,",
+      "Sarah B. Kapnick,",
+      "Shian‐Jian Lin,",
+      "Feiyu Lu,",
+      "Sergey Malyshev,",
+      "Paul C. Milly,",
+      "Hiroyuki Murakami,",
+      "Vaishali Naik,",
+      "Salvatore Pascale,",
+      "David Paynter,",
+      "Anthony Rosati,",
+      "M.D. Schwarzkopf,",
+      "Elena Shevliakova,",
+      "Seth Underwood,",
+      "Andrew T. Wittenberg,",
+      "Baoqiang Xiang,",
+      "Xiaosong Yang,",
+      "Fanrong Zeng,",
+      "Honghai Zhang,",
+      "Liping Zhang,",
+      "Ming Zhao"
+    ],
+    "doi": "https://doi.org/10.1029/2019MS001895",
+    "journalVolume": "Vol. 12,\n                                no. 3\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "1942-2466 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1942-2466/",
+    "abstract": "Abstract We document the development and simulation characteristics of the next generation modeling system for seasonal to decadal prediction and projection at the Geophysical Fluid Dynamics Laboratory (GFDL). SPEAR (Seamless System for Prediction and EArth System Research) is built from component models recently developed at GFDL—the AM4 atmosphere model, MOM6 ocean code, LM4 land model, and SIS2 sea ice model. The SPEAR models are specifically designed with attributes needed for a prediction model for seasonal to decadal time scales, including the ability to run large ensembles of simulations with available computational resources. For computational speed SPEAR uses a coarse ocean resolution of approximately 1.0° (with tropical refinement). SPEAR can use differing atmospheric horizontal resolutions ranging from 1° to 0.25°. The higher atmospheric resolution facilitates improved simulation of regional climate and extremes. SPEAR is built from the same components as the GFDL CM4 and ESM4 models but with design choices geared toward seasonal to multidecadal physical climate prediction and projection. We document simulation characteristics for the time mean climate, aspects of internal variability, and the response to both idealized and realistic radiative forcing change. We describe in greater detail one focus of the model development process that was motivated by the importance of the Southern Ocean to the global climate system. We present sensitivity tests that document the influence of the Antarctic surface heat budget on Southern Ocean ventilation and deep global ocean circulation. These findings were also useful in the development processes for the GFDL CM4 and ESM4 models.",
+    "readLink": "https://doi.org/10.1029/2019MS001895"
+  },
+  {
+    "title": "From Climate Conditions to the Numerical Slope Stability Analysis of Surface Coal Mines",
+    "authors": [
+      "Alexandros I. Theocharis,",
+      "Ioannis E. Zevgolis,",
+      "Alexandros V. Deliveris,",
+      "Rania Karametou,",
+      "Nikolaos C. Koukouzas"
+    ],
+    "doi": "https://doi.org/10.3390/app12031538",
+    "journalVolume": "Vol. 12,\n                                no. 1538\n                                \n                                  p.\n                                  1538",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "A new perspective is presented for evaluating the slope stability of coal and lignite mines due to rainfall. The case of Greek lignite mining areas is employed to illustrate the methodology. Initially, past climatic records of rainfall are documented and analyzed; rainfall intensity varies from light (0.8 mm/h) to heavy (up to 9 mm/h). Few extreme phenomena are documented, with the maximum intensity being 17 mm/h. Furthermore, climatic projections of future trends are performed with open-access tools to anticipate possible deviations from the baseline conditions. Although the mean temperature is expected to increase, projections show that the past rainfall range is not expected to change. Finally, the effect of rainfall infiltration on the stability of a typical open-pit lignite mining slope is investigated by finite element analysis. The precipitation range defined by the environmental analysis is used. The SF is practically constant for the lower rainfall intensities (0.8–2.2 mm/h). For the higher intensities of 6.4 mm/h, 9 mm/h, and 17 mm/h, the SF decrease is almost the same (from 2.08 to 1.9), with reduction rates of 8.3%, 8.9%, and 9.3%, respectively. The effect of the critical geotechnical properties—groundwater table depth, unsaturated zone properties, and soil permeability—is also examined for a complete evaluation.",
+    "readLink": "https://www.mdpi.com/2076-3417/12/3/1538"
+  },
+  {
+    "title": "Relationship among Plant Functional Groups, Soil, and Moisture as Basis for Wetland Conservation",
+    "authors": [
+      "Fevziye Aslan,",
+      "Ricardo Mata-González,",
+      "David Eduardo Prado-Tarango,",
+      "Matthew Hovland,",
+      "Jenessa Stemke,",
+      "Carlos G. Ochoa"
+    ],
+    "doi": "https://doi.org/10.3390/su151914377",
+    "journalVolume": "Vol. 15,\n                                no. 14377\n                                \n                                  p.\n                                  14377",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "This study characterized the relationship between plant species, soil, and moisture dynamics in the Willamette Valley (Oregon, USA) to obtain a base framework for wetland conservation and restoration. We identified 24 dominant plant species, including the exotic invasive Dipsacus fullonum, distributed throughout the wetland. Plant community analysis indicated that (1) soil moisture during the dry season (August to October) and (2) soil bulk density were the major abiotic drivers of plant community structure. Water potential measurements confirmed the community analysis. Juncus (rush) species appeared to be more tolerant to drought than other typical wetland species. Therefore, dryer conditions due to climate change or water diversion may favor rushes’ persistence. We also found that the dominance of D. fullonum may also negatively affect the native plant species’ survival, which highlights the need for proper management practices. To prevent further vegetation deterioration in sensitive wetland areas, we recommend avoiding hydric diversions to maintain the water supply, exploring manners of controlling invasive species, and preventing livestock grazing. The results of this study contribute to foundational and practical knowledge concerning the influence of soil conditions and moisture availability on the physiological response and distribution of wetland plant species that is required for conservation and management.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/19/14377"
+  }
+]

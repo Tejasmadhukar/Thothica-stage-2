@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Model computations on the climate change effects on snow cover, soil moisture and soil frost in the boreal conditions over Finland",
+    "authors": [
+      "Kellomäki, Seppo,",
+      "Maajärvi, Matti,",
+      "Strandman, Harri,",
+      "Kilpeläinen, Antti,",
+      "Peltola, Heli"
+    ],
+    "doi": "https://doi.org/10.14214/sf.455",
+    "journalVolume": "Vol. 44,\n                                no. 2",
+    "issn": "2242-4075 (Online)",
+    "publisher": "Finnish Society of Forest Science",
+    "countryOfPublisher": "Finland",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://silvafennica.fi/",
+    "abstract": "This study considered how climate change affects the accumulation of snow, the soil moisture and soil frost at sites without tree cover in boreal conditions in Finland (60Â°â70Â°N). An increase of 4.5Â Â°C in annual mean temperature and 20 % in annual precipitation were assumed for Finland by the year 2100 according to A2 emission scenario. Along with climate, the soil type of the permanent inventory plots of the Finnish National Forest Inventory was used. Soil and climate data were combined by using a process-based ecosystem model. Calculations were done for four periods: current climate (1971â2000), near future (2001â2020), mid-term future (2021â2050) and long-term future (2071â2100). According to our simulations, the average monthly duration and depth of snow decreased over the simulation period. However, the increasing precipitation may locally increase the snow depths in the mid-term calculations. In the autumn and winter, the average volumetric soil moisture content slightly increased in southern Finland during the near future, but decreased towards the end of the century, but still remained on a higher level than presently. In northern Finland, the soil moisture in the autumn and winter increased by the end of this century. In the summertime soil moisture decreased slightly regardless of the region. Throughout Finland, the length and the depth of soil frost decreased by the end of the century. In the south, the reduction in the depth was largest in the autumn and spring, while in the mid-winter it remained relatively deep in the middle of the century. In the north, the depth tended to increase during the first two calculation periods, in some areas, even during the third calculation period (2071â2100) due to reduced insulation effects of snow during cold spells. The wintertime increase in soil moisture and reduced soil frost may be reflected to reduced carrying capacity of soil for timber harvesting.",
+    "readLink": "https://www.silvafennica.fi/article/455"
+  },
+  {
+    "title": "Sentinel‐1 remote sensing data and Hydrologic Engineering Centres River Analysis System two‐dimensional integration for flash flood detection and modelling in New Cairo City, Egypt",
+    "authors": [
+      "Ismail Elkhrachy,",
+      "Quoc Bao Pham,",
+      "Romulus Costache,",
+      "Meriame Mohajane,",
+      "Khalil Ur Rahman,",
+      "Himan Shahabi,",
+      "Nguyen Thi Thuy Linh,",
+      "Duong Tran Anh"
+    ],
+    "doi": "https://doi.org/10.1111/jfr3.12692",
+    "journalVolume": "Vol. 14,\n                                no. 2\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "1753-318X (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Hydraulic engineering: River protective works. Regulation. Flood control",
+      "Technology: Engineering (General). Civil engineering (General): Disasters and engineering"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/1753318x",
+    "abstract": "Abstract Digital surface models, land use and rainfall data were used to simulate water areas using Hydrologic Engineering Centres River Analysis System (HEC‐RAS) software. Multi‐temporal synthetic aperture radar (SAR) was used for the detection of flood prone area to calibrate HEC‐RAS, due to the lack of data validation in the New Cairo City, Egypt. The thresholding water detection method was applied to two Sentinel‐1 images, one pre‐ and one post‐flash flood event from April 24 to 27, 2018. The threshold method was used to detect water areas from SAR Sentinel‐1 images. Feature statistical agreement F1 and F2 values ranged from 73.4 to 77.7% between water areas extracted based on backscattering values between 19.97 and 16.53 in decibels (dB) and reference water areas obtained using an optical image of the Sentinel‐2 satellite. The similarity between simulated HEC‐RAS two‐dimensional (2D) of water areas and reference water areas based on SAR data ranged between 74.2 and 89.7% using feature statistical agreement values F1 and F2. It provides a clear suggestion that, in the absence of field observations, SAR data can be used to calibrate the model. Two flood hazard maps created based on water velocity and depth were obtained from HEC‐RAS 2D simulation. The obtained maps indicated that 11% of the roads and 50% of the buildings in New Cairo City are exposed to high hazard areas. Furthermore, 28% of the bare land is situated in a very high vulnerability area. We recommend the use of obtained hazard map in supporting emergency response, and designing effective emergency plans.",
+    "readLink": "https://doi.org/10.1111/jfr3.12692"
+  },
+  {
+    "title": "Medieval Irish chronicles reveal persistent volcanic forcing of severe winter cold events, 431–1649 CE",
+    "authors": [
+      "Francis Ludlow,",
+      "Alexander R Stine,",
+      "Paul Leahy,",
+      "Enda Murphy,",
+      "Paul A Mayewski,",
+      "David Taylor,",
+      "James Killen,",
+      "Michael G L Baillie,",
+      "Mark Hennessy,",
+      "Gerard Kiely"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/8/2/024035",
+    "journalVolume": "Vol. 8,\n                                no. 2\n                                \n                                  p.\n                                  024035",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Explosive volcanism resulting in stratospheric injection of sulfate aerosol is a major driver of regional to global climatic variability on interannual and longer timescales. However, much of our knowledge of the climatic impact of volcanism derives from the limited number of eruptions that have occurred in the modern period during which meteorological instrumental records are available. We present a uniquely long historical record of severe short-term cold events from Irish chronicles, 431–1649 CE, and test the association between cold event occurrence and explosive volcanism. Thirty eight (79%) of 48 volcanic events identified in the sulfate deposition record of the Greenland Ice Sheet Project 2 ice-core correspond to 37 (54%) of 69 cold events in this 1219 year period. We show this association to be statistically significant at the 99.7% confidence level, revealing both the consistency of response to explosive volcanism for Ireland’s climatically sensitive Northeast Atlantic location and the large proportional contribution of volcanism to historic cold event frequencies here. Our results expose, moreover, the extent to which volcanism has impacted winter-season climate for the region, and can help to further resolve the complex spatial patterns of Northern Hemisphere winter-season cooling versus warming after major eruptions.",
+    "readLink": "https://doi.org/10.1088/1748-9326/8/2/024035"
+  },
+  {
+    "title": "Influence of climate variability on large rivers runoff",
+    "authors": [
+      "B. Nurtaev"
+    ],
+    "doi": "https://doi.org/10.5194/piahs-371-211-2015",
+    "journalVolume": "Vol. 371\n                                \n                                \n                                  pp.\n                                  211\n                                  – 214",
+    "issn": "2199-8981 (Print)",
+    "publisher": "2199-899X (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.proceedings-international-association-of-hydrological-sciences.net/",
+    "abstract": "In accordance with IPCC Report the influence of climate change on the water cycle will increase hydrologic variability by means of changing of precipitation patterns, melting of ice and change of runoff. Precipitation has increased in high northern latitudes and decreased in southern latitudes. This study presents an analysis of river runoffs trends in different climatic zones of the world in condition of climate change.",
+    "readLink": "https://www.proc-iahs.net/371/211/2015/piahs-371-211-2015.pdf"
+  },
+  {
+    "title": "Association between high ambient temperature and acute work-related injury: a case-crossover analysis using workers’ compensation claims data",
+    "authors": [
+      "Judith A McInnes,",
+      "Muhammad Akram,",
+      "Ewan M MacFarlane,",
+      "Tessa Keegel,",
+      "Malcolm R Sim,",
+      "Peter Smith"
+    ],
+    "doi": "https://doi.org/10.5271/sjweh.3602",
+    "journalVolume": "Vol. 43,\n                                no. 1\n                                \n                                  pp.\n                                  86\n                                  – 94",
+    "issn": "0355-3140 (Print)",
+    "publisher": "1795-990X (Online)",
+    "countryOfPublisher": "Nordic Association of Occupational Safety and Health (NOROSH)",
+    "lcc": [
+      "Finland",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.sjweh.fi/",
+    "abstract": "OBJECTIVES: The aim of this study was to investigate the association between high ambient temperature and acute work-related injury, expanding on previous research in this area. Specifically we examined the relationship between both daytime and overnight temperatures and injury risk and disentangled physically demanding occupational exposures from exposure to outdoor working conditions. METHODS: A time-stratified case-crossover study design was used to examine the association between ambient temperatures and acute work-related injuries in Melbourne, Australia, 2002–2012, using workers’ compensation claims to identify work-related injuries. The relationship was assessed for both daily maximum and daily minimum temperatures using conditional logistic regression. RESULTS: Significant positive associations between temperature and acute work-related injury were seen for younger workers (<25 years), with the odds of injury increasing by 1% for each 1 °C increase in daily minimum temperature, and by 0.8% for each 1 °C increase in daily maximum temperature. Statistically significant associations were also observed between daily maximum temperature and risk of injury for workers employed in the highest strength occupations and for male workers, and between daily minimum temperature and injury for all cases combined, female workers, workers aged 25–35 and ≥55 years, \"light\" and \"limited\" physical demand groups, and \"in vehicle or cab\" and \"regulated indoor climate\" workplace exposure groups. CONCLUSIONS: Young workers, male workers and workers engaged in heavy physical work are at increased risk of injury on hot days, and a wider range of worker subgroups are vulnerable to injury following a warm night. In light of climate change projections, this information is important for informing injury prevention strategies.",
+    "readLink": "\n      https://www.sjweh.fi/show_abstract.php?abstract_id=3602\n    "
+  },
+  {
+    "title": "Identifying Common Trees and Herbaceous Plants to Mitigate Particulate Matter Pollution in a Semi-Arid Mining Region of South Africa",
+    "authors": [
+      "Sutapa Adhikari,",
+      "Madeleen Struwig,",
+      "Stefan John Siebert"
+    ],
+    "doi": "https://doi.org/10.3390/cli11010009",
+    "journalVolume": "Vol. 11,\n                                no. 9\n                                \n                                  p.\n                                  9",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Plants provide long-term and sustainable solutions to mitigate particulate matter (PM) pollution in urban environments. We evaluated total, fine, coarse and large particle trapping abilities of an equal number of common trees (Carica papaya, Citrus limon, Moringa oleifera, Ozoroa paniculosa, Peltophorum africanum, Psidium guajava) and herbaceous species (Argemone ochroleuca, Catharanthus roseus, Gomphocarpus fruticosus, Ipomoea batatas, Senna italica, Tribulus terrestris) to identify dust accumulators for Sekhukhuneland, a mining–smelting region of South Africa where desertification is becoming problematic. Scanning electron microscopy techniques were used to count and measure particles and relate leaf surface micromorphology to dust accumulation. Three tree and three herbaceous species showed superior dust collection capacity (G. fruticosus > P. guajava > I. batatas > O. paniculosa > C. roseus > M. oleifera). Variations in accumulation of PM sizes were noted among these six species and between adaxial and abaxial leaf surfaces. Compared with large PM, all plants accumulated more fine and coarse fractions which are respirable and thus hazardous to human health. Leaf surface roughness, epicuticular wax and epidermal glands improved dust accumulation. The six preferred plants may serve as forerunner species to abate PM pollution in Sekhukhuneland and other arid regions facing similar climate change and pollution challenges.",
+    "readLink": "https://www.mdpi.com/2225-1154/11/1/9"
+  },
+  {
+    "title": "A Processes‐Based Dynamic Root Growth Model Integrated Into the Ecosystem Model",
+    "authors": [
+      "Haibo Lu,",
+      "Wenping Yuan,",
+      "Xiuzhi Chen"
+    ],
+    "doi": "https://doi.org/10.1029/2019MS001846",
+    "journalVolume": "Vol. 11,\n                                no. 12\n                                \n                                  pp.\n                                  4614\n                                  – 4628",
+    "issn": "1942-2466 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1942-2466/",
+    "abstract": "Abstract Plant roots play a critical role in regulating the uptake of soil water and nutrients. Shifts in root growth and biomass distribution resulting from climate change can impact ecosystem water and carbon cycling. Such interactions between root growth and ecosystem functioning have not been integrated into current terrestrial ecosystem models. Here a three‐dimensional dynamic root model (DyRoot) was developed and implemented into the Integrated Biosphere Simulator (IBIS) ecosystem model for simulating root growth, architecture (i.e., fine and coarse roots), and distribution driven by soil water and nitrogen availabilities. Field root biomass observations were used for model calibration and validation. Results showed that DyRoot was able to simulate the root biomass distribution across five forest ecosystem types with good performance (R2 = 0.79, P < 0.01). The validations of root distribution in three forest chronosequences suggested that DyRoot captured the changes in rooting depth with the increase in stand age. The sensitivity of simulated root distribution to soil water availability was compared against root biomass observations from two precipitation reduction experiments. Results indicated that DyRoot reasonably represented the decrease of root biomass in topsoil layers in response to the deficits of soil moisture simulated by (IBIS). The DyRoot model algorithm in this study has great implications for representing an optimized root distribution in ecosystem models, which can improve model performance by simulating the feedbacks of root evolution in response to climate change. Furthermore, allowing explicit root architecture in the DyRoot model also sheds light on depicting the responses of root traits to environmental changes.",
+    "readLink": "https://doi.org/10.1029/2019MS001846"
+  },
+  {
+    "title": "Fast action on short-lived climate pollutants and nature-based solutions to help countries meet carbon neutrality goals",
+    "authors": [
+      "Xiaopu SUN,",
+      "Pu WANG,",
+      "Tad FERRIS,",
+      "Hui LIN,",
+      "Gabrielle DREYFUS,",
+      "Bai-He GU,",
+      "Durwood ZAELKE,",
+      "Yi WANG"
+    ],
+    "doi": "Vol. 13,\n                                no. 4\n                                \n                                  pp.\n                                  564\n                                  – 577",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "Scientific studies show that fast actions to reduce near-term warming are essential to slowing self-reinforcing climate feedbacks and avoiding irreversible tipping points. Yet cutting CO2 emissions only marginally impacts near-term warming. This study identifies two of the most effective mitigation strategies to limit near-term warming beyond CO2 mitigation, namely reducing short-lived climate pollutants (SLCPs) and promoting targeted nature-based solutions (NbS), and comprehensively reviews the latest scientific progress in these fields. Studies show that quickly reducing SLCP emissions, particularly hydrofluorocarbons (HFCs), methane, and black carbon, from all relevant sectors can avoid up to 0.6 °C of warming by 2050. Additionally, promoting targeted NbS that protect and enhance natural carbon sinks, including in forests, wetlands, grasslands, and agricultural lands, can avoid emissions of 23.8 Gt of CO2e per year in 2030, without jeopardizing food security and biodiversity. Based on the scientific evidence, we provided a series of policy recommendations on SLCPs and NbS, including: 1) implementing the Kigali Amendment to reduce HFC emissions; 2) deploying cost-effective, sector-based measures to reduce methane and black carbon emissions; and 3) implementing targeted NbS to protect and enhance existing carbon sinks and shifting away from forest-burning bioenergy. These fast-acting strategies on SLCPs and NbS will play a key role in securing the most avoided warming in the near-term and help countries meet their mid-century carbon neutrality goals. Finally, we proposed future research topics, including: improving measurement and monitoring systems and techniques for SLCP emissions; developing and improving assessments of marginal abatement costs for SLCP mitigation in different sectors; better quantifying the avoided warming potential from protecting different types of natural carbon sinks by 2030, 2050, and over longer periods; and identifying whether there are any biomass types for energy sources that are consistent with the United Nations Environment Assembly's 2022 resolution adopting a definition of NbS. Further research in these areas could help address barriers to adoption and assist countries with better integrating the most effective SLCP and NbS strategies into their climate policies.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927822000636"
+  },
+  {
+    "title": "The Possible Stimulation of the Mid-Holocene Period’s Initial Hydrological Recession on the Development of Neolithic Cultures along the Margin of the East Asian Summer Monsoon",
+    "authors": [
+      "Wenping Xue,",
+      "Heling Jin,",
+      "Bing Liu,",
+      "Liangying Sun,",
+      "Zhenyu Liu"
+    ],
+    "doi": "https://doi.org/10.3390/su11216146",
+    "journalVolume": "Vol. 11,\n                                no. 21\n                                \n                                  p.\n                                  6146",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "A better understanding of past East Asian summer monsoonal (EASM) variations, which play a key role in the development of the largely rain-watered agriculture in China, could contribute to better appraising potential impacts on EASM with regard to global climate change. However, our knowledge of the relationship between mid-Holocene hydrological recession and the development of Neolithic culture is limited due to a lack of joint studies and a compilation of spatiotemporal data, especially on the episode of ~6−5 ka from the mid-Holocene Optimum (HO) along the peripheral realm of the EASM. Here, we suggest that the hydrological recession between ~6−5 ka, on the basis of lithology and geochemical element analysis, occurred not only in the Horqin sandy land, but also in other fluvial-lacustrine, stalagmitic, loess, and aeolian records across the whole monsoon-influenced boundary belt. These records indicated varied, more or less synchronous, and coherent moisture changes, yet with not entirely consistent onsets, durations, and degrees. We attributed this spatiotemporal complexity to the orbit-induced weakening of summer solar insolation, and the interactions of the Asian monsoon (AM) and westerlies, as well as topography and regional vegetation factors. Furthermore, the mid-Holocene initial hydroclimatic recession during ~6−5 ka within the thresholds of an eco-environment bearing a capacity system, might have facilitated the development of mid−late Neolithic culture and stimulated the north and northwest expansion and integration of region-specific Neolithic culture.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/21/6146"
+  },
+  {
+    "title": "Influence of Mixed Conifer Forest Thinning and Prescribed Fire on Soil Temperature and Moisture Dynamics in Proximity to Forest Logs: A Case Study in New Mexico, USA",
+    "authors": [
+      "Robert R. Parmenter,",
+      "Mark V. Losleben"
+    ],
+    "doi": "https://doi.org/10.3390/f14061117",
+    "journalVolume": "Vol. 14,\n                                no. 1117\n                                \n                                  p.\n                                  1117",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Forest management activities often include fuels reduction through mechanized thinning followed by prescribed fire to remove slash. Management prescriptions may include the retention of logs for wildlife habitat and microsites for enhanced tree regeneration. We examined aboveground microclimate and belowground soil temperature and volumetric water content (VWC) dynamics beneath and adjacent to logs at 10, 20, and 30 cm depths in a mixed conifer forest. We assessed the soil variables over 7 years during pre-treatment, post-thinning, and post-fire using a Before–After/Control–Impact experimental design. We found that thinning and burning caused large increases in solar radiation and mean and maximum wind speeds, but only small changes in air temperature and humidity. The treatments increased the soil temperatures beneath the logs by up to 2.7 °C during spring, summer, and fall; the soil VWC increased from 0.05 to 0.08 m3/m3 year-round at 20 and 30 cm depths. Microsites 1–2 m away from the logs also showed soil temperature increases of up to 3.6 °C in spring, summer, and fall, while the measurements of the soil VWC produced variable results (moderate increases and decreases). The increased VWC in late winter/spring likely resulted from reduced plant transpiration and greater snow amounts reaching the ground without being intercepted by the forest canopy. Log retention on thinned and burned sites provided microsites with increased soil temperature and moisture in the top 30 cm, which can enhance soil ecosystem processes and provide refugia for invertebrate and vertebrate wildlife.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/6/1117"
+  }
+]

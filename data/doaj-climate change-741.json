@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Resilient City: Characterization, Challenges and Outlooks",
+    "authors": [
+      "Chengwei Wu,",
+      "Jeremy Cenci,",
+      "Wei Wang,",
+      "Jiazhen Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/buildings12050516",
+    "journalVolume": "Vol. 12,\n                                no. 516\n                                \n                                  p.\n                                  516",
+    "issn": "2075-5309 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Building construction"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/buildings",
+    "abstract": "The increasingly severe environmental pollution and the Earth’s ecological crisis make the concept of resilient cities (RCs) a hot topic in urban research. We ran a bibliometric analysis to analyze the research progress, areas, hotspots, and strategies pertaining to RCs. The core collection came from the Web of Science (WoS) database as the data source to explore 4462 literature works on RCs. The results revealed that development time series analysis is divided into three stages. Changes in the number of publications are linked to natural disasters, the ecological environment, and science policy. The top five issuing journals accounted for 24.15% of the total sample. Country cooperation mainly is concentrated in countries with good economic development trends, such as the United States, China, and the United Kingdom. There were 63 core authors. The most published research institution was the Chinese Academy of Sciences. The RC research hotspots included the definition of resilience and evolution, the study of resilience as an analytical framework for urban issues, and resilience assessment indicators. This paper shows that RCs should strengthen multi-country cooperation and interdisciplinary integration and should focus on comprehensive research on basic theories, evaluation systems, and action mechanisms to reference future research on RCs further.",
+    "readLink": "https://www.mdpi.com/2075-5309/12/5/516"
+  },
+  {
+    "title": "Neural Network Reflectance Prediction Model for Both Open Ocean and Coastal Waters",
+    "authors": [
+      "Lipi Mukherjee,",
+      "Peng-Wang Zhai,",
+      "Meng Gao,",
+      "Yongxiang Hu,",
+      "Bryan  A. Franz,",
+      "Jeremy Werdell"
+    ],
+    "doi": "https://doi.org/10.3390/rs12091421",
+    "journalVolume": "Vol. 12,\n                                no. 1421\n                                \n                                  p.\n                                  1421",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Remote sensing of global ocean color is a valuable tool for understanding the ecology and biogeochemistry of the worlds oceans, and provides critical input to our knowledge of the global carbon cycle and the impacts of climate change. Ocean polarized reflectance contains information about the constituents of the upper ocean euphotic zone, such as colored dissolved organic matter (CDOM), sediments, phytoplankton, and pollutants. In order to retrieve the information on these constituents, remote sensing algorithms typically rely on radiative transfer models to interpret water color or remote-sensing reflectance; however, this can be resource-prohibitive for operational use due to the extensive CPU time involved in radiative transfer solutions. In this work, we report a fast model based on machine learning techniques, called Neural Network Reflectance Prediction Model (NNRPM), which can be used to predict ocean bidirectional polarized reflectance given inherent optical properties of ocean waters. This supervised model is trained using a large volume of data derived from radiative transfer simulations for coupled atmosphere and ocean systems using the successive order of scattering technique (SOS-CAOS). The performance of the model is validated against another large independent test dataset generated from SOS-CAOS. The model is able to predict both polarized and unpolarized reflectances with an absolute error (AE) less than 0.004 for 99% of test cases. We have also shown that the degree of linear polarization (DoLP) for unpolarized incident light can be predicted with an AE less than 0.002 for 99 % of test cases. In general, the simulation time of SOS-CAOS depends on optical depth, and required accuracy. When comparing the average speeds of the NNRPM against the SOS-CAOS model for the same parameters, we see that the NNRPM is able to predict the Ocean BRDF 6000 times faster than SOS-CAOS. Both ultraviolet and visible wavelengths are included in the model to help differentiate between dissolved organic material and chlorophyll in the study of the open ocean and the coastal zone. The incorporation of this model into the retrieval algorithm will make the retrieval process more efficient, and thus applicable for operational use with global satellite observations.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/9/1421"
+  },
+  {
+    "title": "Future Climate Impact on the Desertification in the Dry Land Asia Using AVHRR GIMMS NDVI3g Data",
+    "authors": [
+      "Lijuan Miao,",
+      "Peilong Ye,",
+      "Bin He,",
+      "Lizi Chen,",
+      "Xuefeng Cui"
+    ],
+    "doi": "https://doi.org/10.3390/rs70403863",
+    "journalVolume": "Vol. 7,\n                                no. 4\n                                \n                                  pp.\n                                  3863\n                                  – 3877",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Dry Land Asia is the largest arid and semi-arid region in the northern hemisphere that suffers from land desertification. Over the period 1982–2011, there were both overall improvement and regional degeneration in the vegetation NDVI. We analyze future climate changes in these area using two ensemble-average methods from CMIP5 data. Bayesian Model Averaging shows a better capability to represent the future climate and less uncertainty represented by the 22-model ensemble than does the Simple Model Average. From 2006 to 2100, the average growing season temperature value will increase by 2.9 °C, from 14.4 °C to 17.3 °C under three climate scenarios (RCP 26, RCP 45 and RCP 85). We then conduct multiple regression analysis between climate changes compiled from the Climate Research Unit database and vegetation greenness from the GIMMS NDVI3g dataset. There is a general acceleration in the desertification trend under the RCP 85 scenario in middle and northern part of Middle Asia, northwestern China except Xinjiang and the Mongolian Plateau (except the middle part). The RCP 85 scenario shows a more severe desertification trend than does RCP 26. Desertification in dry land Asia, particularly in the regions highlighted in this study, calls for further investigation into climate change impacts and adaptations.",
+    "readLink": "http://www.mdpi.com/2072-4292/7/4/3863"
+  },
+  {
+    "title": "The Influence of Allocation on the Carbon Footprint of Electricity Production from Waste Gas, a Case Study for Blast Furnace Gas",
+    "authors": [
+      "Joeri Van Mierlo,",
+      "Jan Mertens,",
+      "Javier Sanfelix,",
+      "Cathy Macharis,",
+      "Fayçal Boureima,",
+      "Maarten Messagie"
+    ],
+    "doi": "https://doi.org/10.3390/en6031217",
+    "journalVolume": "Vol. 6,\n                                no. 3\n                                \n                                  pp.\n                                  1217\n                                  – 1232",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Producing electricity from waste gas is an after treatment for waste gas while recovering the energy content. This paper addresses the methodology to calculate the effect that waste gas energy recovery has on lowering the impact of climate change. Greenhouse gases are emitted while burning the waste gas. However, a thorough study should include the production of the feedstock as well as the production of the infrastructure. A framework is developed to calculate the environmental impact of electricity production from waste gas with a life cycle approach. The present paper has a twofold purpose: to assess the climate change impact of generating electricity with blast furnace gas (BFG) as a waste gas from the steel industry; and to establish a sensitivity assessment of the environmental implications of different allocation rules.",
+    "readLink": "http://www.mdpi.com/1996-1073/6/3/1217"
+  },
+  {
+    "title": "RISK ASSESSMENT OF CLIMATE VARIABILITY ON RICE PRODUCTIVITY IN SINDH PROVINCE OF PAKISTAN",
+    "authors": [
+      "M. Joyo,",
+      "N. Ram,",
+      "H. Magsi"
+    ],
+    "doi": "Vol. 34,\n                                no. 1",
+    "issn": "1023-1072 (Print)",
+    "publisher": "2663-7863 (Online)",
+    "countryOfPublisher": "Sindh Agriculture University, Tandojam",
+    "lcc": [
+      "Pakistan",
+      "Agriculture"
+    ],
+    "journalUrl": "https://pjaaevs.sau.edu.pk/index.php/ojs",
+    "abstract": "The focus of the present research was to assess the dependent variable i.e., Vector Autoregression (VAR) study model estimation with lag 2 indicated that Akaike AIC and Schwarz Sc for data using lag 2 is smaller than lag 3, lag 4 and lag 5, so the lower values Akaike AIC 17.11070 and Schwarz Sc 19.23172 for lag 2 make the model more fitted. For that reason, VAR model lag 2 in the study is more prefer-able as compared to other lag values. The ADF test showed the variables of model to be non- stationary at straight levels of significance and indicated that the first difference variables are completely stationary, which showed that all the variables are integrated of order-1, whereas water availability data is already in the stationary form. Area under rice crop is not expected to be different from the 2014-15 and the productivity is forecasted as 42.6 mds per hectare, which is a good yield but not good enough, and most probably due to the climatic uncertainty. Furthermore, the econometric results illustrated that the increase in temperatures and a decrease in precipitation tendency would cause less or more negative impact on rice productivity in up-coming years in the province of Sindh, where estimated productivity will get decreased by 7.32 percent in the short-run and 13.31 percent in the long-run with an increase in temperature by 1°C and 10 percent decrease in precipitation. Results showed decline in the productivity of the crop under study area. This might be an alarming situation and the big threats to agricultural productivity associated with rapid climate changes. A well-defined planning and sagacious policies will play sustainable productivity of the rice crop. New hybrid and climatic change resistance crop varieties may be introduced to secure the staple food crops including rice for food security.",
+    "readLink": "https://pjaaevs.sau.edu.pk/index.php/ojs/article/view/257"
+  },
+  {
+    "title": "Urbanization Alters the Influence of Weather and an Index of Forest Productivity on Avian Community Richness and Guild Abundance in the Seattle Metropolitan Area",
+    "authors": [
+      "Benjamin Shryock,",
+      "John M. Marzluff,",
+      "L. Monika Moskal"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2017.00040",
+    "journalVolume": "Vol. 5",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Fluctuations in weather and forest productivity influence the abundance and richness of bird populations, however in a rapidly urbanizing landscape the relative importance of each factor may vary. We assessed this possibility in the Seattle, WA, USA region by correlating 10 years of bird richness and relative abundance of nine guilds indicative of their tolerance of human development, migration, diet and use of human food subsidies with an annual index of forest productivity (vegetation greenness derived from a 250 m resolution Normalized Difference Vegetation Index (NDVI) product from the MODIS satellite) and weather (variation in the Oceanic Niño Index, which estimates the strength of the El Niño-Southern Oscillation, a major driver of local temperature and precipitation). We found that variation in NDVI exerted a strong influence on the richness of the avian community and the abundance of guilds in landscapes undergoing active development, but was less influential in areas of established housing development or forested reserves. Relative to NDVI, weather was much less influential on the abundance of guilds at actively changing sites, and slightly more influential in forest reserves and established developments. Following the warm winter and during the dry summer associated with a strong El Niño, migrants and herbivores declined in changing landscapes, insectivores declined in established developments, and herbivores declined while synanthropic species increased in reserves. These changes may presage the effects of climate change in the Pacific Northwest, which are expected to be similar to El Niño conditions. To buffer these changes in native bird communities, planners, developers, regulators, and home owners should minimize the loss of vegetation during development and attempt to quickly achieve mature landscaping that preferably provides food and shelter for birds.",
+    "readLink": "http://journal.frontiersin.org/article/10.3389/fevo.2017.00040/full"
+  },
+  {
+    "title": "A Road Map for the Development of the Bleached Coral Phenotype",
+    "authors": [
+      "Kelly Gómez-Campo,",
+      "Susana Enríquez,",
+      "Roberto Iglesias-Prieto"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.806491",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Mass coral bleaching compromises the long-term persistence of coral reefs, yet our current understanding of the different cellular mechanisms leading to the development of a bleached coral is still limited. In this perspective, we mapped the cascade of cellular events and physiological responses of symbiotic corals triggered by thermal stress. Based on existing knowledge, we created an integrated model that describes phenotypic changes induced by sensing mechanisms. Cellular responses are mapped in the context of reactive oxygen species (ROS) production in the algal symbiont chloroplast, followed by signaling to the nucleus and subsequent “leak” to the coral host cell. The starting point is set by ROS production and signaling, which is a day-to-day mechanism by which symbiotic corals maintain homeostasis and acclimate to environmental variation. As stress and acclimation are intimately linked, our model maps coral responses from the initial stimulus in the chloroplast to the complex cascade of events leading to seasonal phenotypic changes (i.e., seasonal acclimation), and if stress progresses, to the downstream coral bleached phenotype (i.e., when the coral’s capacity to acclimate is overwhelmed by heat stress). Placing acclimation, heat stress and bleaching responses in a common ground is a critical step to reduce the source of uncertainty in understanding the coral response to climate change, fundamental for the development of predictive climate models.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.806491/full"
+  },
+  {
+    "title": "Fishers perceptions of ecosystem service change associated with climate‐disturbed coral reefs",
+    "authors": [
+      "Anna J. Woodhead,",
+      "Nicholas A. J. Graham,",
+      "James P. W. Robinson,",
+      "Albert V. Norström,",
+      "Nathalie Bodin,",
+      "Stephanie Marie,",
+      "Marie‐Corinne Balett,",
+      "Christina C. Hicks"
+    ],
+    "doi": "https://doi.org/10.1002/pan3.10220",
+    "journalVolume": "Vol. 3,\n                                no. 3\n                                \n                                  pp.\n                                  639\n                                  – 657",
+    "issn": "2575-8314 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://besjournals.onlinelibrary.wiley.com/journal/25758314",
+    "abstract": "Abstract Understanding ecosystem service change necessitates an understanding of the social and ecological dimensions of ecosystem services and how they contribute to the well‐being of different people. These empirical research gaps persist across the tropics and in coastal environments, posing a challenge for small island states that depend on ecosystem services associated with near‐shore ecosystems like coral reefs. Perception‐based approaches allow for a rapid appraisal of what constitutes ecosystem service change, providing insights into why these changes matter, and how experiences of change differ between individuals. To capture perceptions of change in four ecosystem services associated with coral reefs (habitat, fishery, coastal protection and recreation services), we conducted 41 semi‐structured interviews with coral reef fishers from Seychelles, where reef ecosystems have been severely impacted by climate disturbance. We gathered quantitative and qualitative data to understand (a) if and what changes in reef‐associated ecosystem services have been perceived; (b) if fishers’ characteristics are associated with differences in perceived changes and (c) which changes matter most in fishers’ lives. Using a three‐dimensional approach to well‐being, we sought to identify whether reasons behind the importance of change connect to fishers’ well‐being. There have been noticeable changes across all four ecosystem services investigated. Changes include social, ecological and behavioural dynamics. Every fisher perceived at least one ecosystem service change but fishers who dive/snorkel or work from larger boats perceived a higher number of ecosystem services to have changed. Education, age and participation in snorkelling/diving were associated with fishers who identified changing habitat services as most important, whereas fishers from families with fewer livelihood alternatives and from smaller islands identified changing fishery services as most important. Different aspects of the subjective, relational and material dimensions of well‐being were implicated in why changing services matter. Despite known ecological shifts in reef condition, this research is one of few studies to empirically show how changes across multiple ecosystem services are being perceived. These perceived changes are complex, engage both the social and ecological dimensions of services, and connect in multiple ways to how fishers feel about their lives, their relationships and material well‐being. A free Plain Language Summary can be found within the Supporting Information of this article.",
+    "readLink": "https://doi.org/10.1002/pan3.10220"
+  },
+  {
+    "title": "Human factors vs climate change; experts’ view of drivers of flooding in Nigeria",
+    "authors": [
+      "Adaku Jane Echendu"
+    ],
+    "doi": "Vol. 3,\n                                no. 2\n                                \n                                  pp.\n                                  240\n                                  – 246",
+    "issn": "2666-5921 (Online)",
+    "publisher": "KeAi Communications Co. Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Geology",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://www.keaipublishing.com/en/journals/natural-hazards-research/",
+    "abstract": "Flooding disasters are occurring more frequently across the globe. Resilience capacity also differs with developing countries less able to withstand the devastating impacts of flooding. The level and type of action to prevent or mitigate flooding is dependent on the prevalent views on its principal drivers. This research engages with experts in the field of flood risk management in Nigeria, Africa's most populous country where the threats and frequency of flooding has increased over the years. An in-depth qualitative case study was conducted with semi-structured interviews used as the primary data collection tool. Understanding and distinguishing the core drivers of flooding according to context is pertinent because in a situation where the drivers are deemed to be factors beyond human control, there is risk of little action. The experts in this research acknowledged the influence of climate change on flooding which has led to increase in rainfall intensity, frequency and duration. However, they attributed the flooding being experienced in the research location to be due to more controllable human factors including lack of infrastructure, poor urban planning and governance, and weak implementation and enforcement of laws and policies. A mix of structural and non-structural solutions were recommended to better manage flooding and achieve the goal of sustainable cities and settlements.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666592123000318"
+  },
+  {
+    "title": "Broad-scale lake expansion and flooding inundates essential wood bison habitat",
+    "authors": [
+      "Jennifer B. Korosi,",
+      "Joshua R. Thienpont,",
+      "Michael F. J. Pisaric,",
+      "Peter deMontigny,",
+      "Joelle T. Perreault,",
+      "Jamylynn McDonald,",
+      "Myrna J. Simpson,",
+      "Terry Armstrong,",
+      "Steven V. Kokelj,",
+      "John P. Smol,",
+      "Jules M. Blais"
+    ],
+    "doi": "https://doi.org/10.1038/ncomms14510",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 8",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Climate change can affect lake water level and nearby landscape. Korosi and colleagues show recent expansion of shallow lakes in the Canadian Northwest Territories is flooding critical habitat for the wood bison, and demonstrate the trickle-down effect of climate change on ecosystem functioning.",
+    "readLink": "https://doi.org/10.1038/ncomms14510"
+  }
+]

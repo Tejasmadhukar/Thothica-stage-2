@@ -1,0 +1,226 @@
+[
+  {
+    "title": "PM2.5 Exposure and Associated Premature Mortality to 2100 in China Under Climate and Socioeconomic Change Scenarios",
+    "authors": [
+      "Bin Zou,",
+      "Shan Xu,",
+      "Ning Liu,",
+      "Shenxin Li,",
+      "Xiaoping Liu,",
+      "Yuming Guo,",
+      "F. Benjamin Zhan"
+    ],
+    "doi": "https://doi.org/10.1029/2022EF003416",
+    "journalVolume": "Vol. 11,\n                                no. 9\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Reducing PM2.5‐related premature mortality is essential for health‐related sustainable development. China, one of the most populated and PM2.5 polluted developing countries in the world, is striving to be in the vanguard for meeting this target. However, the global chemical transport methods for future PM2.5 projections are difficult to use and computationally expensive and may import measurement uncertainty into regional exposure assessments, thus bringing challenges to policy making. Here, we proposed an integrated PM2.5 projection model framework based on regional land use, emission, climate and population simulations. The ambient PM2.5 exposure and associated premature mortality to 2100 in China at a scale of 10 × 10 km were projected and compared under different development pathways. Ambient PM2.5 exposure is expected to peak in recent decades (2030–2060) with mean values ranging from 32.72 to 35.11 μg/m3 for different pathways, while associated premature mortality are projected to decrease (2273.9–778.59) (in thousands) over time (2030–2100). The change in the emission scenario with significant CH4 and NMVOC increases could lead to the greatest increase in average PM2.5 exposure (4.03 μg/m3), while the decrease (−0.90 μg/m3) was linked to BC, SO2, CH4, and NMVOC decreases. Meanwhile, premature deaths decrease (15–226,424) for most projection periods when land use, emissions, and population data were separately replaced with RCP2.6‐SSP1 data. Land use impacts in socioeconomic change scenarios could be moderate in certain regions. Therefore, the sustainable development pathway of the RCP2.6‐SSP1 scenario should be prioritized in China for future development considering both environmental protection and health sustainability.",
+    "readLink": "https://doi.org/10.1029/2022EF003416"
+  },
+  {
+    "title": "The Role of Urban Forests as Carbon Sink: A Case Study in the Urban Forest of Banda Aceh, Indonesia",
+    "authors": [
+      "Ali Muhammad Muslih,",
+      "Asyrafun  Nisa,",
+      "Sugianto,",
+      "Tuti Arlita,",
+      "Subhan"
+    ],
+    "doi": "https://doi.org/10.23960/jsl.v10i3.604",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  pp.\n                                  417\n                                  – 425",
+    "issn": "2339-0913 (Print)",
+    "publisher": "2549-5747 (Online)",
+    "countryOfPublisher": "Universitas Lampung",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://sylvalestari.fp.unila.ac.id/index.php/JHT/index",
+    "abstract": "Forests have a role as carbon sinks and come under the spotlight when the world is facing the climate change problem. Urban forests have functions as the most effective carbon sinks. Banda Aceh City only has 7.15 ha of urban forest, and the vegetation that grows in the urban forest is essential for carbon emissions reduction. This study aimed to determine the potential tree biomass and carbon sink value in the BNI Urban Forest, Banda Aceh City, Indonesia. This study used vegetation analysis by inventory method with the census sampling method. The diameter of all trees was measured, and tree biomass, carbon stocks, and carbon sequestration were calculated. This study identified 16 tree species in the BNI Urban Forest with a total of 318 individuals, showing Casuarina equisetifolia as the most dominant tree (163 trees). The above-ground biomass, carbon stock, and carbon sequestration by the vegetation in the BNI Urban Forest were 24.66 tons/ha, 11.59 tons/ha, and 42.51 tons/ha, respectively. This study presented the vegetation conditions and the potential of carbon sequestration, which can be used to monitor and evaluate the benefits of the existence of urban forests in Banda Aceh. Keywords: carbon sequestration, carbon stock, green open space, tree biomass, urban forest",
+    "readLink": "https://sylvalestari.fp.unila.ac.id/index.php/JHT/article/view/604"
+  },
+  {
+    "title": "Crop Row Detection through UAV Surveys to Optimize On-farm Irrigation Management",
+    "authors": [
+      "Giulia Ronchetti,",
+      "Alice Mayer,",
+      "Arianna Facchi,",
+      "Bianca Ortuani,",
+      "Giovanna Sona"
+    ],
+    "doi": "https://doi.org/10.3390/rs12121967",
+    "journalVolume": "Vol. 12,\n                                no. 1967\n                                \n                                  p.\n                                  1967",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Climate change and competition among water users are increasingly leading to a reduction of water availability for irrigation; at the same time, traditionally non-irrigated crops require irrigation to achieve high quality standards. In the context of precision agriculture, particular attention is given to the optimization of on-farm irrigation management, based on the knowledge of within-field variability of crop and soil properties, to increase crop yield quality and ensure an efficient water use. Unmanned Aerial Vehicle (UAV) imagery is used in precision agriculture to monitor crop variability, but in the case of row-crops, image post-processing is required to separate crop rows from soil background and weeds. This study focuses on the crop row detection and extraction from images acquired through a UAV during the cropping season of 2018. Thresholding algorithms, classification algorithms, and Bayesian segmentation are tested and compared on three different crop types, namely grapevine, pear, and tomato, for analyzing the suitability of these methods with respect to the characteristics of each crop. The obtained results are promising, with overall accuracy greater than 90% and producer’s accuracy over 85% for the class “crop canopy”. The methods’ performances vary according to the crop types, input data, and parameters used. Some important outcomes can be pointed out from our study: NIR information does not give any particular added value, and RGB sensors should be preferred to identify crop rows; the presence of shadows in the inter-row distances may affect crop detection on vineyards. Finally, the best methodologies to be adopted for practical applications are discussed.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/12/1967"
+  },
+  {
+    "title": "Prediction of Maize Phenotypic Traits With Genomic and Environmental Predictors Using Gradient Boosting Frameworks",
+    "authors": [
+      "Cathy C. Westhues,",
+      "Cathy C. Westhues,",
+      "Gregory S. Mahone,",
+      "Sofia da Silva,",
+      "Patrick Thorwarth,",
+      "Malthe Schmidt,",
+      "Jan-Christoph Richter,",
+      "Henner Simianer,",
+      "Henner Simianer,",
+      "Timothy M. Beissinger,",
+      "Timothy M. Beissinger"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2021.699589",
+    "journalVolume": "Vol. 12",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "The development of crop varieties with stable performance in future environmental conditions represents a critical challenge in the context of climate change. Environmental data collected at the field level, such as soil and climatic information, can be relevant to improve predictive ability in genomic prediction models by describing more precisely genotype-by-environment interactions, which represent a key component of the phenotypic response for complex crop agronomic traits. Modern predictive modeling approaches can efficiently handle various data types and are able to capture complex nonlinear relationships in large datasets. In particular, machine learning techniques have gained substantial interest in recent years. Here we examined the predictive ability of machine learning-based models for two phenotypic traits in maize using data collected by the Maize Genomes to Fields (G2F) Initiative. The data we analyzed consisted of multi-environment trials (METs) dispersed across the United States and Canada from 2014 to 2017. An assortment of soil- and weather-related variables was derived and used in prediction models alongside genotypic data. Linear random effects models were compared to a linear regularized regression method (elastic net) and to two nonlinear gradient boosting methods based on decision tree algorithms (XGBoost, LightGBM). These models were evaluated under four prediction problems: (1) tested and new genotypes in a new year; (2) only unobserved genotypes in a new year; (3) tested and new genotypes in a new site; (4) only unobserved genotypes in a new site. Accuracy in forecasting grain yield performance of new genotypes in a new year was improved by up to 20% over the baseline model by including environmental predictors with gradient boosting methods. For plant height, an enhancement of predictive ability could neither be observed by using machine learning-based methods nor by using detailed environmental information. An investigation of key environmental factors using gradient boosting frameworks also revealed that temperature at flowering stage, frequency and amount of water received during the vegetative and grain filling stage, and soil organic matter content appeared as important predictors for grain yield in our panel of environments.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2021.699589/full"
+  },
+  {
+    "title": "Unlocking the Potential of Biomass Fly Ash: Exploring Its Application in Geopolymeric Materials and a Comparative Case Study of BFA-Based Geopolymeric Concrete against Conventional Concrete",
+    "authors": [
+      "Baturalp Yalcinkaya,",
+      "Tomas Spirek,",
+      "Milan Bousa,",
+      "Petr Louda,",
+      "Vojtěch Růžek,",
+      "Cezary Rapiejko,",
+      "Katarzyna Ewa Buczkowska"
+    ],
+    "doi": "https://doi.org/10.3390/ceramics6030104",
+    "journalVolume": "Vol. 6,\n                                no. 104\n                                \n                                  pp.\n                                  1682\n                                  – 1704",
+    "issn": "2571-6131 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/ceramics",
+    "abstract": "The production of conventional cement involves high energy consumption and the release of substantial amounts of carbon dioxide (CO2), exacerbating climate change. Additionally, the extraction of raw materials, such as limestone and clay, leads to habitat destruction and biodiversity loss. Geopolymer technology offers a promising alternative to conventional cement by utilizing industrial byproducts and significantly reducing carbon emissions. This paper analyzes the utilization of biomass fly ash (BFA) in the formation of geopolymer concrete and compares its carbon and cost impacts to those of conventional concrete. The previous analysis shows great potential for geopolymers to reduce the climate change impact of cement production. The results of this analysis indicate a significant disparity in the computed financial and sustainability costs associated with geopolymers. Researchers have shown that geopolymers may help mitigate the effects of cement manufacturing on the environment. These geopolymers are predicted to reduce green gas emissions by 40–80%. They also show that those advantages can be realized with the best possible feedstock source and the cheapest possible conveyance. Furthermore, our case study on CO2 emission and cost calculation for BFA-based geopolymer and conventional concrete shows that geopolymer concrete preparation emits 56% less CO2 than conventional concrete while costing 32.4% less per ton.",
+    "readLink": "https://www.mdpi.com/2571-6131/6/3/104"
+  },
+  {
+    "title": "Vegetation impact on atmospheric moisture transport under increasing land-ocean temperature contrasts",
+    "authors": [
+      "Anastassia M. Makarieva,",
+      "Andrei V. Nefiodov,",
+      "Antonio Donato Nobre,",
+      "Douglas Sheil,",
+      "Paulo Nobre,",
+      "Jan Pokorný,",
+      "Petra Hesslerová,",
+      "Bai-Lian Li"
+    ],
+    "doi": "Vol. 8,\n                                no. 10\n                                \n                                  p.\n                                  e11173",
+    "issn": "2405-8440 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.cell.com/heliyon/home",
+    "abstract": "Destabilization of the water cycle threatens human lives and livelihoods. Meanwhile our understanding of whether and how changes in vegetation cover could trigger transitions in moisture availability remains incomplete. This challenge calls for better evidence as well as for the theoretical concepts to describe it. Here we briefly summarize the theoretical questions surrounding the role of vegetation cover in the dynamics of a moist atmosphere. We discuss the previously unrecognized sensitivity of local wind power to condensation rate as revealed by our analysis of the continuity equation for a gas mixture. Using the framework of condensation-induced atmospheric dynamics, we then show that with the temperature contrast between land and ocean increasing up to a critical threshold, ocean-to-land moisture transport reaches a tipping point where it can stop or even reverse. Land-ocean temperature contrasts are affected by both global and regional processes, in particular, by the surface fluxes of sensible and latent heat that are strongly influenced by vegetation. Our results clarify how a disturbance of natural vegetation cover, e.g., by deforestation, can disrupt large-scale atmospheric circulation and moisture transport: an increase of sensible heat flux upon deforestation raises land surface temperature and this can elevate the temperature difference between land and ocean beyond the threshold. In view of the increasing pressure on natural ecosystems, successful strategies of mitigating climate change require taking into account the impact of vegetation on moist atmospheric dynamics. Our analysis provides a theoretical framework to assess this impact. The available data for the Northern Hemisphere indicate that the observed climatological land-ocean temperature contrasts are close to the threshold. This can explain the increasing fluctuations in the continental water cycle including droughts and floods and signifies a yet greater potential importance for large-scale forest conservation.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405844022024616"
+  },
+  {
+    "title": "US major crops’ uncertain climate change risks and greenhouse gas mitigation benefits",
+    "authors": [
+      "Ian Sue Wing,",
+      "Erwan Monier,",
+      "Ari Stern,",
+      "Anupriya Mundra"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/10/11/115002",
+    "journalVolume": "Vol. 10,\n                                no. 11\n                                \n                                  p.\n                                  115002",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "We estimate the costs of climate change to US agriculture, and associated potential benefits of abating greenhouse gas emissions. Five major crops’ yield responses to climatic variation are modeled empirically, and the results combined with climate projections for a no-policy, high-warming future, as well as moderate and stringent mitigation scenarios. Unabated warming reduces yields of wheat and soybeans by 2050, and cotton by 2100, but moderate warming increases yields of all crops except wheat. Yield changes are monetized using the results of economic simulations within an integrated climate-economy modeling framework. Uncontrolled warming’s economic effects on major crops are slightly positive—annual benefits <$4 B. These are amplified by emission reductions, but subject to diminishing returns—by 2100 reaching $17 B under moderate mitigation, but only $7 B with stringent mitigation. Costs and benefits are sensitive to irreducible uncertainty about the fertilization effects of elevated atmospheric carbon dioxide, without which unabated warming incurs net costs of up to $18 B, generating benefits to moderate (stringent) mitigation as large as $26 B ($20 B).",
+    "readLink": "https://doi.org/10.1088/1748-9326/10/11/115002"
+  },
+  {
+    "title": "Leaf photosynthetic characteristics of waxy maize in response to different degrees of heat stress during grain filling",
+    "authors": [
+      "Lingling Qu,",
+      "Xiaotian Gu,",
+      "Jing Li,",
+      "Jian Guo,",
+      "Dalei Lu"
+    ],
+    "doi": "https://doi.org/10.1186/s12870-023-04482-7",
+    "journalVolume": "Vol. 23,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "1471-2229 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://bmcplantbiol.biomedcentral.com",
+    "abstract": "Abstract Background In the context of climate change, maize is facing unprecedented heat stress (HS) threats during grain filling. Understanding how HS affects yield is the key to reducing the impact of climate change on maize production. Suyunuo5 (SYN5) and Yunuo7 (YN7) were used as materials, and four temperature gradients of 28℃ (day)/20℃ (night; T0, control), 32 °C/24°C (T1, mild HS), 36 °C/28°C (T2, moderate HS), and 40 °C/32°C (T3, severe HS) were set up during grain filling to explore the physiological mechanism of different degrees HS affecting photosynthetic characteristics of leaves in this study. Results Results showed that HS accelerated the degradation of chlorophyll, disturbed the metabolism of reactive oxygen species, reduced the activity of antioxidant enzymes, and caused leaf damage. Heat stress induced the down-regulation of photosynthesis-related genes, which results in the decrease of enzymatic activities involved in photosynthesis, thereby inhibiting photosynthesis and reducing yield. Integrated analysis showed that the degree of the negative influence of three HS types during grain filling on leaves and yield was T3 > T2 > T1. The increase in HS disturbed leaf physiological activities and grain filling. Meanwhile, this study observed that the YN7 was more heat tolerance than SYN5 and thus it was recommended to use YN7 in waxy maize planting areas with frequent high temperatures. Conclusions Heat stress during grain filling caused premature senescence of the leaves by inhibiting the ability of leaves to photosynthesize and accelerating the oxidative damage of cells, thereby affecting the waxy maize yield. Our study helped to simulate the productivity of waxy maize under high temperatures and provided assistance for a stable yield of waxy maize under future climate warming.",
+    "readLink": "https://doi.org/10.1186/s12870-023-04482-7"
+  },
+  {
+    "title": "Ammonia Emission Estimation of Biogas Production Facilities in South Korea: Consideration of the Emission Factor Development",
+    "authors": [
+      "Seongmin Kang,",
+      "Goeun Kim,",
+      "Eui-Chan Jeon"
+    ],
+    "doi": "https://doi.org/10.3390/app13106203",
+    "journalVolume": "Vol. 13,\n                                no. 6203\n                                \n                                  p.\n                                  6203",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "This study identified the need to develop ammonia (NH3) emission factors for biogas production facilities in Korea and examined the base unit that should be considered when developing emission factors. The analysis showed that the ammonia concentration of three biogas production facilities ranged from approximately 0.04 to 8 ppm. The NH3 emission factors were found to be 0.005 kg NH3 ton-waste and 0.150 kg NH3/10−3 Nm3-biogas. The estimated emission factors were also used to calculate the total emissions, which were found to be small. The uncertainty of the emission factors ranged from approximately −5% to +8% for the waste-based emission factors and approximately −5% to +7% for the biogas-based emission factors. Although the uncertainty of the emission factor differences is not large, it is low compared to the international emission factor uncertainty (maximum 191%, minimum −40.7%). Considering the development of waste-based and biogas-based emission factors, there is not much difference in terms of uncertainty of emission factors, so it is judged that it will be easier to develop emission factors based on biogas production in terms of securing and managing overall data.",
+    "readLink": "https://www.mdpi.com/2076-3417/13/10/6203"
+  },
+  {
+    "title": "Analysis of the Joint Link between Extreme Temperatures, Precipitation and Climate Indices in Winter in the Three Hydroclimate Regions of Southern Quebec",
+    "authors": [
+      "Ali A. Assani,",
+      "Nadjet Guerfi"
+    ],
+    "doi": "https://doi.org/10.3390/atmos8040075",
+    "journalVolume": "Vol. 8,\n                                no. 4\n                                \n                                  p.\n                                  75",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "We analyze the relationship between four climate variables (maximum and minimum extreme temperatures, rainfall and snowfall) measured in winter (December to March) at 17 stations from 1950 to 2000 in the three hydroclimate regions of southern Quebec, and six seasonal climate indices using canonical correlation analysis (CCA) and the copula method. This analysis yielded these major results: (1) extreme temperatures are not correlated with the amount of winter rain or snow in southern Quebec; (2) winter seasonal climate indices show better correlations with climate variables than do fall climate indices; (3) winter extreme temperatures are best correlated (positive correlation) with the Atlantic Multidecadal Oscillation (AMO) in the eastern region, but show a negative correlation with the Arctic Oscillation (AO) in the southwestern region; (4) the total amount of winter snow is best correlated (negative correlation) with the Pacific Decadal Oscillation (PDO) in the three hydroclimate regions; (5) the total amount of winter rain is best (negatively) correlated with PDO in the eastern region, but shows a positive correlation with AO in the southeast region. Finally, the copula method revealed very little change in the dependence between climate indices and climate variables in the three hydroclimate regions.",
+    "readLink": "http://www.mdpi.com/2073-4433/8/4/75"
+  }
+]

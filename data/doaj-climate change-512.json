@@ -1,0 +1,243 @@
+[
+  {
+    "title": "Mycelial Beehives of HIVEOPOLIS: Designing and Building Therapeutic Inner Nest Environments for Honeybees",
+    "authors": [
+      "Asya Ilgun,",
+      "Thomas Schmickl"
+    ],
+    "doi": "https://doi.org/10.3390/biomimetics7020075",
+    "journalVolume": "Vol. 7,\n                                no. 75\n                                \n                                  p.\n                                  75",
+    "issn": "2313-7673 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biomimetics",
+    "abstract": "The perceptions and definitions of healthy indoor environments have changed significantly throughout architectural history. Today, molecular biology teaches us that microbes play important roles in human health, and that isolation from them puts not only us but also other inhabitants of urban landscapes, at risk. In order to provide an environment that makes honeybees more resilient to environmental changes, we aim for combining the thermal insulation functionality of mycelium materials with bioactive therapeutic properties within beehive constructions. By identifying mycelial fungi’s interactions with nest-related materials, using digital methods to design a hive structure, and engaging in additive manufacturing, we were able to develop a set of methods for designing and fabricating a fully grown hive. We propose two digital methods for modelling 3D scaffolds for micro-super organism co-occupation scenarios: “variable-offset” and “iterative-subtraction”, followed by two inoculation methods for the biofabrication of scaffolded fungal composites. The HIVEOPOLIS project aims to diversify and complexify urban ecological niches to make them more resilient to future game changers such as climate change. The combined functions of mycelium materials have the potential to provide a therapeutic environment for honeybees and, potentially, humans in the future.",
+    "readLink": "https://www.mdpi.com/2313-7673/7/2/75"
+  },
+  {
+    "title": "A spatiotemporal reconstruction of sea-surface temperatures in the North Atlantic during Dansgaard–Oeschger events 5–8",
+    "authors": [
+      "M. F. Jensen,",
+      "A. Nummelin,",
+      "A. Nummelin,",
+      "S. B. Nielsen,",
+      "H. Sadatzki,",
+      "E. Sessford,",
+      "B. Risebrobakken,",
+      "C. Andersson,",
+      "A. Voelker,",
+      "W. H. G. Roberts,",
+      "J. Pedro,",
+      "A. Born,",
+      "A. Born,",
+      "A. Born"
+    ],
+    "doi": "https://doi.org/10.5194/cp-14-901-2018",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  901\n                                  – 922",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "Here, we establish a spatiotemporal evolution of the sea-surface temperatures in the North Atlantic over Dansgaard–Oeschger (DO) events 5–8 (approximately 30–40 kyr) using the proxy surrogate reconstruction method. Proxy data suggest a large variability in North Atlantic sea-surface temperatures during the DO events of the last glacial period. However, proxy data availability is limited and cannot provide a full spatial picture of the oceanic changes. Therefore, we combine fully coupled, general circulation model simulations with planktic foraminifera based sea-surface temperature reconstructions to obtain a broader spatial picture of the ocean state during DO events 5–8. The resulting spatial sea-surface temperature patterns agree over a number of different general circulation models and simulations. We find that sea-surface temperature variability over the DO events is characterized by colder conditions in the subpolar North Atlantic during stadials than during interstadials, and the variability is linked to changes in the Atlantic Meridional Overturning circulation and in the sea-ice cover. Forced simulations are needed to capture the strength of the temperature variability and to reconstruct the variability in other climatic records not directly linked to the sea-surface temperature reconstructions. This is the first time the proxy surrogate reconstruction method has been applied to oceanic variability during MIS3. Our results remain robust, even when age uncertainties of proxy data, the number of available temperature reconstructions, and different climate models are considered. However, we also highlight shortcomings of the methodology that should be addressed in future implementations.",
+    "readLink": "https://www.clim-past.net/14/901/2018/cp-14-901-2018.pdf"
+  },
+  {
+    "title": "Where is the optimum? Predicting the variation of selection along climatic gradients and the adaptive value of plasticity. A case study on tree phenology",
+    "authors": [
+      "Julie Gauzere,",
+      "Bertrand Teuf,",
+      "Hendrik Davi,",
+      "Luis‐Miguel Chevin,",
+      "Thomas Caignard,",
+      "Bérangère Leys,",
+      "Sylvain Delzon,",
+      "Ophélie Ronce,",
+      "Isabelle Chuine"
+    ],
+    "doi": "https://doi.org/10.1002/evl3.160",
+    "journalVolume": "Vol. 4,\n                                no. 2\n                                \n                                  pp.\n                                  109\n                                  – 123",
+    "issn": "2056-3744 (Online)",
+    "publisher": "Oxford University Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Evolution"
+    ],
+    "journalUrl": "https://academic.oup.com/evlett",
+    "abstract": "Abstract Many theoretical models predict when genetic evolution and phenotypic plasticity allow adaptation to changing environmental conditions. These models generally assume stabilizing selection around some optimal phenotype. We however often ignore how optimal phenotypes change with the environment, which limit our understanding of the adaptive value of phenotypic plasticity. Here, we propose an approach based on our knowledge of the causal relationships between climate, adaptive traits, and fitness to further these questions. This approach relies on a sensitivity analysis of the process‐based model Phenofit, which mathematically formalizes these causal relationships, to predict fitness landscapes and optimal budburst dates along elevation gradients in three major European tree species. Variation in the overall shape of the fitness landscape and resulting directional selection gradients were found to be mainly driven by temperature variation. The optimal budburst date was delayed with elevation, while the range of dates allowing high fitness narrowed and the maximal fitness at the optimum decreased. We also found that the plasticity of the budburst date should allow tracking the spatial variation in the optimal date, but with variable mismatch depending on the species, ranging from negligible mismatch in fir, moderate in beech, to large in oak. Phenotypic plasticity would therefore be more adaptive in fir and beech than in oak. In all species, we predicted stronger directional selection for earlier budburst date at higher elevation. The weak selection on budburst date in fir should result in the evolution of negligible genetic divergence, while beech and oak would evolve counter‐gradient variation, where genetic and environmental effects are in opposite directions. Our study suggests that theoretical models should consider how whole fitness landscapes change with the environment. The approach introduced here has the potential to be developed for other traits and species to explore how populations will adapt to climate change.",
+    "readLink": "https://doi.org/10.1002/evl3.160"
+  },
+  {
+    "title": "Climate Change, Carbon Tax, and the Indonesian Directorate General of Taxes Preparedness in Implementing the New Carbon Tax",
+    "authors": [
+      "Ryan Nugraha,",
+      "Paul Balogun"
+    ],
+    "doi": "https://doi.org/10.52728/ijtc.v4i1.420",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  35\n                                  – 45",
+    "issn": "2714-9838 (Print)",
+    "publisher": "2714-9846 (Online)",
+    "countryOfPublisher": "Yayasan Ilomata",
+    "lcc": [
+      "Indonesia",
+      "Social Sciences: Commerce: Business: Accounting. Bookkeeping",
+      "Law: Law in general. Comparative and uniform law. Jurisprudence: Comparative law. International uniform law: Public finance: Revenue. Taxation. Internal revenue"
+    ],
+    "journalUrl": "https://www.ilomata.org/index.php/ijtc",
+    "abstract": "One of the crucial issues in Indonesia is climate change. It can jeopardize Indonesia's sustainable development. This article investigates a carbon tax as a climate policy option in Indonesia and the Directorate General of Taxes readiness in imposing the new carbon tax bill in April 2022. This research analyzes the early stage of carbon tax implementation in Indonesia. The author conducted a qualitative questionnaire to a small and unrepresentative sample of 32 tax officers in the DGT's head office, regional office, and small tax office in Jakarta. The data collecting process took place in January 2022. The results suggest that most DGT's employees in this study are already familiar with the term \"climate change\", its causes, and its effects as a worldwide global catastrophe. Furthermore, most respondents understand what a carbon tax is but in terms of preparedness to implement the new carbon tax, only 21 of 32 employees (65.6 percent) believe Indonesia is prepared to impose the new tax. At the same time, 11 employees doubt the implementation due to lack of human resources, derived rules, and regulation dissemination.",
+    "readLink": "https://www.ilomata.org/index.php/ijtc/article/view/420"
+  },
+  {
+    "title": "Precipitation trend increases the contribution of dry reduced nitrogen deposition",
+    "authors": [
+      "Weihua Chen,",
+      "Shiguo Jia,",
+      "Xuemei Wang,",
+      "Min Shao,",
+      "Wenhui Liao,",
+      "Alex Guenther,",
+      "Chris Flechard,",
+      "Pengfei Yu,",
+      "Buqing Zhong,",
+      "Ming Chang,",
+      "Weiwen Wang,",
+      "Jingying Mao,",
+      "Xuejun Liu,",
+      "Guirui Yu,",
+      "Gregory Carmichael"
+    ],
+    "doi": "https://doi.org/10.1038/s41612-023-00390-7",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2397-3722 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.nature.com/npjclimatsci/",
+    "abstract": "Abstract Given the leveling off in oxidized nitrogen emissions around the world, the atmospheric deposition of reduced nitrogen (NH x = NH3 + NH4 +) has become progressively critical, especially dry deposition, which presents great threats to plant growth. A combination of historical deposition data of measured wet NH x and modeled dry NH x in China suggests that dry NHx deposition has been increasing substantially (4.50% yr−1, p < 0.05) since 1980. Here, chemical transport model (WRF-EMEP) results indicate that variation in NH3 emissions is not a dominant factor resulting in the continually increasing trends of dry NH x deposition, while climate change-induced trends in precipitation patterns with less frequent light rain and more frequent consecutive rain events (with ≥2 consecutive rainy days) contribute to the increase in dry NH x deposition. This will continue to shift NH x deposition from wet to dry form at a rate of 0.12 and 0.23% yr−1 (p < 0.05) for the period of 2030–2100 in China under the RCP4.5 and RCP8.5 scenarios, respectively. Further analysis for North America and Europe demonstrates results similar to China, with a consistent increase in the contribution of dry NHx deposition driven by changing precipitation patterns from ~30% to ~35%. Our findings, therefore, uncover the change of precipitation patterns has an increasing influence on the shifting of NH x deposition from wet to dry form in the Northern Hemisphere and highlight the need to shift from total NH x deposition-based control strategies to more stringent NH3 emission controls targeting dry NH x deposition in order to mitigate the potential negative ecological impacts.",
+    "readLink": "https://doi.org/10.1038/s41612-023-00390-7"
+  },
+  {
+    "title": "Starch morphological, structural, pasting, and thermal properties of waxy maize under different heat stress durations at grain formation stage",
+    "authors": [
+      "Xiaotian Gu,",
+      "Siling Yang,",
+      "Guanghao Li,",
+      "Weiping Lu,",
+      "Dalei Lu"
+    ],
+    "doi": "https://doi.org/10.1002/fes3.378",
+    "journalVolume": "Vol. 11,\n                                no. 2\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2048-3694 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20483694",
+    "abstract": "Abstract Heat stress (HS) is a major environmental constraint in sustaining global waxy maize production under future climate condition. Starch physicochemical properties under 5‐day (HS5) and 10‐day (HS10) postsilking HS were investigated using two waxy maize hybrids (Suyunuo5 and Yunuo7) as materials. Ambient and high temperatures were 28°C/20℃ and 35°C/27℃, respectively. Starch granules were enlarged and exhibited additional pitting or cellular structures, increased amylopectin chain length, increased relative crystallinity, and increased 1047/1022 cm−1 ratio under HS. This finding indicated the stable and ordered structure of starch granules, especially under HS10. Pasting viscosities of Yunuo7 reduced by HS, and the change was the same under both HS5 and HS10. Peak viscosity of Suyunuo5 was unaffected and breakdown viscosity increased with HS5 although both characteristics decreased with HS10. HS increased gelatinization temperatures and retrogradation percentage. Results showed that HS enlarges starch granules with stable structure, reduces starch viscosities, and increases retrograde tendency, with severe detrimental effect under long HS durations.",
+    "readLink": "https://doi.org/10.1002/fes3.378"
+  },
+  {
+    "title": "Assessing the impact of varietal resistance and planting dates on pest spectrum in chickpea",
+    "authors": [
+      "Jagdish JABA,",
+      "T. PAVANI,",
+      "Sumit VASHISTH,",
+      "Suraj Prasad MISHRA,",
+      "Hari Chand SHARMA"
+    ],
+    "doi": "https://doi.org/10.14720/aas.2022.118.1.2096",
+    "journalVolume": "Vol. 118,\n                                no. 1",
+    "issn": "1581-9175 (Print)",
+    "publisher": "1854-1941 (Online)",
+    "countryOfPublisher": "University of Ljubljana Press (Založba Univerze v Ljubljani)",
+    "lcc": [
+      "Slovenia",
+      "Agriculture"
+    ],
+    "journalUrl": "https://journals.uni-lj.si/aas/",
+    "abstract": "The cotton bollworm Helicoverpa armigera [Hübner (1808)] is one of the most widely spread pest which limits the chickpea production, while the beet armyworm, Spodoptera exigua (Hübner, 1808) has emerged as a serious pest in recent years, in southern India and parasitic wasp Campoletis chlorideae Uchida, 1968 is an important larval parasitoid which naturally manages both pests under field condition. Insecticides adoption leads to development of resistance in pod borer. In view of climate change scenario, the focus of the present studies was the identification of climate resilient cultivars of chickpea for pod borers and the results reveled, that there were significant variations in the level of eggs and larval population among the genotypes. Across seasons, the crop sown in October recorded the maximum number of eggs. ‘ICC 3137’ had the highest number of H. armigera eggs (11.6) across seasons. ‘JG 11’, (6.3) in 2012 and’ ICCV 10’ (3.6) in 2013 recorded the lowest number of H. armigera eggs. During 2014-15, the maximum(80.7) H. armigera larval incidence was observed in October sown crop and the lowest (21.1) in January crop. The number of S. exigua larvae were substantially higher in the December crop. For all seasons, the highest number of C. chlorideae were found in October crop. Across seasons, multiple regression analysis for both pest had a strong interaction with weather patterns.",
+    "readLink": "https://journals.uni-lj.si/aas/article/view/13066"
+  },
+  {
+    "title": "Are Climate Factors Driving the Contemporary Wildfire Occurrence in China?",
+    "authors": [
+      "Zige Lan,",
+      "Zhangwen Su,",
+      "Meng Guo,",
+      "Ernesto C. Alvarado,",
+      "Futao Guo,",
+      "Haiqing Hu,",
+      "Guangyu Wang"
+    ],
+    "doi": "https://doi.org/10.3390/f12040392",
+    "journalVolume": "Vol. 12,\n                                no. 392\n                                \n                                  p.\n                                  392",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Understanding the drivers of wildfire occurrence is of great value for fire prevention and management, but due to the variation in research methods, data sources, and data resolution of those studies, it is challenging to conduct a large-scale comprehensive comparative qualitative analysis on the topic. China has diverse vegetation types and topography, and has undergone rapid economic and social development, but experiences a high frequency of wildfires, making it one of the ideal locations for wildfire research. We applied the Random Forests modelling approach to explore the main types of wildfire drivers (climate factors, landscape factors and human factors) in three high wildfire density regions (Northeast (NE), Southwest (SW), and Southeast (SE)) of China. The results indicate that climate factors were the main driver of wildfire occurrence in the three regions. Precipitation and temperature significantly impacted the fire occurrence in the three regions due to the direct influence on the moisture content of forest fuel. However, wind speed had important influence on fire occurrence in the SE and SW. The explanation power of the landscape and human factors varied significantly between regions. Human factors explained 40% of the fire occurrence in the SE but only explained less than 10% of the fire occurrence in the NE and SW. The density of roads was identified as the most important human factor driving fires in all three regions, but railway density had more explanation power on fire occurrence in the SE than in the other regions. The landscape factors showed nearly no influence on fire occurrence in the NE but explained 46.4% and 20.6% in the SE and SW regions, respectively. Amongst landscape factors, elevation had the highest average explanation power on fire occurrence in the three regions, particularly in the SW. In conclusion, this study provides useful insights into targeted fire prediction and prevention, which should be more precise and effective under climate change and socio-economic development.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/4/392"
+  },
+  {
+    "title": "Spatial heterogeneity of 2015–2017 drought intensity in South Africa's winter rainfall zone",
+    "authors": [
+      "W. S. Conradie​​​​​​​,",
+      "P. Wolski,",
+      "B. C. Hewitson"
+    ],
+    "doi": "https://doi.org/10.5194/ascmo-8-63-2022",
+    "journalVolume": "Vol. 8\n                                \n                                \n                                  pp.\n                                  63\n                                  – 81",
+    "issn": "2364-3579 (Print)",
+    "publisher": "2364-3587 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Oceanography",
+      "Science: Physics: Meteorology. Climatology",
+      "Science: Mathematics: Probabilities. Mathematical statistics"
+    ],
+    "journalUrl": "http://advances-statistical-climatology-meteorology-oceanography.net/",
+    "abstract": "The 2014–2018 drought over South Africa's winter rainfall zone (WRZ) created a critical water crisis which highlighted the region's drought and climate change vulnerability. Consequently, it is imperative to better understand the climatic characteristics of the drought in order to inform regional adaptation to projected climate change. In this paper we investigate the spatio-temporal patterns of drought intensity and the recent rainfall trends, focusing on assessing the consistency of the prevailing conceptual model of drought drivers with observed patterns. For this we use the new spatial subdivision for the region encompassing the WRZ introduced in our companion paper (Conradie et al., 2022). Compared to previous droughts since 1979, the 2014–2018 drought in the WRZ core was characterised by a markedly lower frequency of very wet days (exceeding the climatological 99.5th percentile daily rainfall – including dry days) and of wet months (SPI1>0.5), a sub-seasonal attribute not previously reported. There was considerable variability in the spatial footprint of the drought. Short-term drought began in the south-western core WRZ in spring 2014. The peak intensity gradually spread north-eastward, although a spatially near-uniform peak is seen during mid-2017. The overall drought intensity for the 2015–2017 period transitions radially from most severe in the WRZ core to least severe in the surroundings. During 2014 and 2015, the drought was most severe at those stations receiving the largest proportion of their rainfall from westerly and north-westerly winds; by 2018, those stations receiving the most rain from the south and south-east were most severely impacted. This indicates an evolving set of dynamic drivers associated with distinct rain-bearing synoptic flows. No evidence is found to support the suggestion that the drought was more severe in the mountain catchments of Cape Town's major supply reservoirs than elsewhere in the core nor that rain day frequency trends since 1979 are more negative in this subdomain. Rainfall and rain day trend rates also exhibit some connections to the spatial seasonality structure of the WRZ, although this is weaker than for drought intensity. Caution should be applied in assessing South African rain day trends given their high sensitivity to observed data shortcomings. Our findings suggest an important role for zonally asymmetric dynamics in the region's drought evolution. This analysis demonstrates the utility of the spatial subdivisions proposed in the companion paper by highlighting spatial structure in drought intensity evolution linked to rainfall dynamics.",
+    "readLink": "https://ascmo.copernicus.org/articles/8/63/2022/ascmo-8-63-2022.pdf"
+  },
+  {
+    "title": "A 20-day period standing oscillation in the northern winter stratosphere",
+    "authors": [
+      "K. Hocke,",
+      "K. Hocke,",
+      "S. Studer,",
+      "S. Studer,",
+      "O. Martius,",
+      "D. Scheiben,",
+      "N. Kämpfer,",
+      "N. Kämpfer"
+    ],
+    "doi": "https://doi.org/10.5194/angeo-31-755-2013",
+    "journalVolume": "Vol. 31\n                                \n                                \n                                  pp.\n                                  755\n                                  – 764",
+    "issn": "0992-7689 (Print)",
+    "publisher": "1432-0576 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.annales-geophysicae.net",
+    "abstract": "Observations of the ozone profile by a ground-based microwave radiometer in Switzerland indicate a dominant 20-day oscillation in stratospheric ozone, possibly related to oscillations of the polar vortex edge during winter. For further understanding of the nature of the 20-day oscillation, the ozone data set of ERA Interim meteorological reanalysis is analyzed at the latitude belt of 47.5° N and in the time from 1979 to 2010. Spectral analysis of ozone time series at 7 hPa indicates that the 20-day oscillation is maximal at two locations: 7.5° E, 47.5° N and 60° E, 47.5° N. Composites of the stream function are derived for different phases of the 20-day oscillation of stratospheric ozone at 7 hPa in the Northern Hemisphere. The streamline at Ψ = −2 × 107 m2 s−1 is in the vicinity of the polar vortex edge. The other streamline at Ψ = 4 × 107 m2 s1 surrounds the Aleutian anticyclone and goes to the subtropics. The composites show 20-day period standing oscillations at the polar vortex edge and in the subtropics above Northern Africa, India, and China. The 20-day period standing oscillation above Aral Sea and India is correlated to the strength of the Aleutian anticyclone.",
+    "readLink": "https://www.ann-geophys.net/31/755/2013/angeo-31-755-2013.pdf"
+  }
+]

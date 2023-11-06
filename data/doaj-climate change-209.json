@@ -1,0 +1,201 @@
+[
+  {
+    "title": "The Impact of Climate Change on a University Campus’ Energy Use: Use of Machine Learning and Building Characteristics",
+    "authors": [
+      "Haekyung Im,",
+      "Ravi S. Srinivasan,",
+      "Daniel Maxwell,",
+      "Ruth L. Steiner,",
+      "Sayar Karmakar"
+    ],
+    "doi": "https://doi.org/10.3390/buildings12020108",
+    "journalVolume": "Vol. 12,\n                                no. 108\n                                \n                                  p.\n                                  108",
+    "issn": "2075-5309 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Building construction"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/buildings",
+    "abstract": "Global warming is expected to increase 1.5 °C between 2030 and 2052. This may lead to an increase in building energy consumption. With the changing climate, university campuses need to prepare to mitigate risks with building energy forecasting models. Although many scholars have developed buildings energy models (BEMs), only a few have focused on the interpretation of the meaning of BEM, including climate change and its impacts. Additionally, despite several review papers on BEMs, there is no comprehensive guideline indicating which variables are appropriate to use to explain building energy consumption. This study developed building energy prediction models by using statistical analysis: multivariate regression models, multiple linear regression (MLR) models, and relative importance analysis. The outputs are electricity (ELC) and steam (STM) consumption. The independent variables used as inputs are building characteristics, temporal variables, and meteorological variables. Results showed that categorizing the campus buildings by building type is critical, and the equipment power density is the most important factor for ELC consumption, while the heating degree is the most critical factor for STM consumption. The laboratory building type is the most STM-consumed building type, so it needs to be monitored closely. The prediction models give an insight into which building factors remain essential and applicable to campus building policy and campus action plans. Increasing STM is to raise awareness of the severity of climate change through future weather scenarios.",
+    "readLink": "https://www.mdpi.com/2075-5309/12/2/108"
+  },
+  {
+    "title": "Effects of Biofuel Crop Switchgrass (<i>Panicum virgatum</i>) Cultivation on Soil Carbon Sequestration and Greenhouse Gas Emissions: A Review",
+    "authors": [
+      "Jian Bai,",
+      "Laicong Luo,",
+      "Aixin Li,",
+      "Xiaoqin Lai,",
+      "Xi Zhang,",
+      "Yadi Yu,",
+      "Hao Wang,",
+      "Nansheng Wu,",
+      "Ling Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/life12122105",
+    "journalVolume": "Vol. 12,\n                                no. 2105\n                                \n                                  p.\n                                  2105",
+    "issn": "2075-1729 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/life",
+    "abstract": "Under the macroenvironmental background of global warming, all countries are working to limit climate change. Internationally, biofuel plants are considered to have great potential in carbon neutralization. Several countries have begun using biofuel crops as energy sources to neutralize carbon emissions. Switchgrass (Panicum virgatum) is considered a resource-efficient low-input crop that produces bioenergy. In this paper, we reviewed the effects of switchgrass cultivation on carbon sequestration and greenhouse gas (GHG) emissions. Moreover, the future application and research of switchgrass are discussed and prospected. Switchgrass has huge aboveground and underground biomass, manifesting its huge carbon sequestration potential. The net change of soil surface 30 cm soil organic carbon in 15 years is predicted to be 6.49 Mg ha−1, significantly higher than that of other crops. In addition, its net ecosystem CO2 exchange is about −485 to −118 g C m−2 yr−1, which greatly affects the annual CO2 flux of the cultivation environment. Nitrogen (N) fertilizer is the main source of N2O emission in the switchgrass field. Nitrogen addition increases the yield of switchgrass and also increases the N2O flux of switchgrass soil. It is necessary to formulate the most appropriate N fertilizer application strategy. CH4 emissions are also an important indicator of carbon debt. The effects of switchgrass cultivation on CH4 emissions may be significant but are often ignored. Future studies on GHG emissions by switchgrass should also focus on CH4. In conclusion, as a biofuel crop, switchgrass can well balance the effects of climate change. It is necessary to conduct studies of switchgrass globally with the long-term dimension of climate change effects.",
+    "readLink": "https://www.mdpi.com/2075-1729/12/12/2105"
+  },
+  {
+    "title": "Spatial Distribution Characteristics of Suitable Planting Areas for <i>Pyrus</i> Species under Climate Change in China",
+    "authors": [
+      "Mi Wang,",
+      "Zhuowei Hu,",
+      "Yongcai Wang,",
+      "Wenji Zhao"
+    ],
+    "doi": "https://doi.org/10.3390/plants12071559",
+    "journalVolume": "Vol. 12,\n                                no. 1559\n                                \n                                  p.\n                                  1559",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "Planting suitability determines the distribution and yield of crops in a given region which can be greatly affected by climate change. In recent years, many studies have shown that carbon dioxide fertilization effects increase the productivity of temperate deciduous fruit trees under a changing climate, but the potential risks to fruit tree planting caused by a reduction in suitable planting areas are rarely reported. In this study, Maxent was first used to investigate the spatial distribution of five Pyrus species in China, and the consistency between the actual production area and the modeled climatically suitable area under the current climatic conditions were determined. In addition, based on Coupled Model Intercomparison Project Phase 6, three climate models were used to simulate the change in suitable area and the migration trend for different species under different emission scenarios (SSP1-2.6, SSP2-4.5, SSP3-7.0 and SSP5-8.5). The results showed that the suitable area for pear was highly consistent with the actual main production area under current climate conditions. The potential planting areas of P. ussuriensis showed a downward trend under all emission paths from 2020 to 2100; other species showed a trend of increasing first and then decreasing or slowing down and this growth effect was the most obvious in 2020–2040. Except for P. pashia, other species showed a migration trend toward a high latitude, and the trend was more prominent under the high emission path. Our results emphasize the response difference between species to climate change, and the method of consistency analysis between suitable planting area and actual production regions cannot only evaluate the potential planting risk but also provide a reasonable idea for the accuracy test of the modeled results. This work has certain guiding and reference significance for the protection of pear germplasm resources and the prediction of yield.",
+    "readLink": "https://www.mdpi.com/2223-7747/12/7/1559"
+  },
+  {
+    "title": "Early life history and habitat ecology of estuarine fishes: responses to natural and human induced change",
+    "authors": [
+      "Kenneth Able"
+    ],
+    "doi": "https://doi.org/10.3389/conf.FMARS.2015.03.00227",
+    "journalVolume": "Vol. 2",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Our understanding of the early life history of fishes and their habitats has proceeded from basic natural history to ecology, but we often need to return to natural history to address deficiencies in conceptual and quantitative models of ecosystems. This understanding is further limited by the complex life history of fishes and the lack of appreciation of shifting baselines in estuaries. These inadequacies are especially evident when we try to address the effects of human influences, e.g. fishing, urbanization, and climate change. Often our baselines are inadequate or inaccurate. Our work has detected these along the coasts of the U.S. in extensive time series of larval fish ingress into estuaries, studies of the effects of urbanization, and responses to catastrophes such as the BP oil spill. Long-term monitoring, especially, continues to provide critical insights",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/conf.FMARS.2015.03.00227/full"
+  },
+  {
+    "title": "Influence of Climate Change on the Thermal Condition of Yakutia’s Permafrost Landscapes (Chabyda Station)",
+    "authors": [
+      "Stepan P Varlamov,",
+      "Yuri B Skachkov,",
+      "Pavel N Skryabin"
+    ],
+    "doi": "https://doi.org/10.3390/land9050132",
+    "journalVolume": "Vol. 9,\n                                no. 132\n                                \n                                  p.\n                                  132",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "This paper presents the results of 39 years of observations conducted at the Chabyda station to monitor the thermal state of permafrost landscapes under current climatic warming. The analysis of long-term records from weather stations in the region has revealed one of the highest increasing trends in mean annual air temperature in northern Russia. The partitioning of the energy balance in different landscape units within the study area has been analyzed. Quantitative relationships in the long-term variability of ground thermal parameters, such as the ground temperature at the bottom of the active layer and seasonal thaw depth, have been established. The ground temperature dynamics within the depth of zero annual amplitude indicates that both warm and cold permafrost are thermally stable. The short-term variability of the snow accumulation regime is the main factor controlling the thermal state of the ground in permafrost landscapes. The depth of seasonal thaw is characterized by low interannual variability and exhibits little response to climate warming, with no statistically significant increasing or decreasing trend. The results of the ground thermal monitoring can be extended to similar landscapes in the region, providing a reliable basis for predicting heat transfer in natural, undisturbed landscapes.",
+    "readLink": "https://www.mdpi.com/2073-445X/9/5/132"
+  },
+  {
+    "title": "Productivity and profitability of organic and conventional potato (Solanum tuberosum L.) production in West-Central Bhutan",
+    "authors": [
+      "Lepcha Norden,",
+      "Mankeb Panya,",
+      "Suwanmaneepong Suneeporn"
+    ],
+    "doi": "https://doi.org/10.1515/opag-2021-0044",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  640\n                                  – 654",
+    "issn": "2391-9531 (Online)",
+    "publisher": "De Gruyter",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://www.degruyter.com/view/j/opag",
+    "abstract": "Bhutan aspires to be an entirely organic nation. Food self-sufficiency and increasing farm household income are critical priorities in the country. Realising these priorities necessitates assessing the country’s current organic agriculture performance. The objectives of this study were to investigate the productivity and profitability of organic and conventional potato and farmers’ constraints in producing organic potato in West-Central Bhutan. Multistage and purposive sampling techniques were used to select the study sample. A semi-structured questionnaire and face-to-face interviews were employed to gather primary data for the 2019 cropping cycle from 93 potato farmers: 43 organic farmers in the Gasa District and 50 conventional farmers in Wangdue Phodrang District. Descriptive statistics, cost and return analysis, and independent sample t-test were applied for data analysis. The results revealed that the conventional potato’s productivity (tuber yield) and profitability were significantly higher (p < 0.001) than organic potatoes. The average productivities for organic and conventional potatoes were 7.48 and 19.22 t/ha, respectively. Organic potato farmers incurred a loss of −202,708.47 Ngultrum (Nu)/ha, while conventional potato farmers incurred a profit of 83,832.85 Nu/ha. The benefit-cost ratios of organic and conventional potato stood at 0.40 and 1.27, respectively. Lack of premium price, pest and disease problems, low crop productivity, and climate change were the constraints faced by organic potato farmers. The study found that the productivity and profitability of the conventional potatoes were higher than the organic potatoes in West-Central Bhutan in the current scenario. Further, the critical information will contribute to guiding Bhutan’s vision for its organic agriculture development.",
+    "readLink": "https://doi.org/10.1515/opag-2021-0044"
+  },
+  {
+    "title": "South African Attitudes About Nuclear Power: The Case of the Nuclear Energy Expansion",
+    "authors": [
+      "Nomsa Phindile Nkosi,",
+      "Johane Dikgang"
+    ],
+    "doi": "Vol. 11,\n                                no. 5",
+    "issn": "2146-4553 (Online)",
+    "publisher": "EconJournals",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://www.econjournals.com/index.php/ijeep",
+    "abstract": "Despite the risk associated with nuclear energy, it represents an attractive climate change mitigation option and energy supply security. We examined how South African households perceive nuclear energy in the context of climate change mitigation, risk and avoidance of power outages. The objective of this study is to investigate households' willingness to pay (WTP) for the proposed second nuclear power. Traditional analysis of such data has tended to ignore zero WTP values. A spike model (i.e., ‘two-part model') which explicitly accounts for zero WTP is employed. We also test for effect of distance on WTP. The Thyspunt dummy is negative and significant in the probit model, which implies that those who are closer to the plant are more likely to state a zero WTP. The second decision, WTP given positive WTP, modelled with a truncated regression model suggests that putting more distance between residences and the nuclear plant would have little effect on WTP. Therefore, distance is not a relevant predictor of WTP for solving the problem of nuclear-related risk. Higher dependence on electricity is most likely to lead people to be more supportive of the planned plant. Keywords: climate change, distance, electricity, nuclear, willingness to pay. JEL Classifications: Q42, Q48, Q51, Q54 DOI: https://doi.org/10.32479/ijeep.11343",
+    "readLink": "https://econjournals.com/index.php/ijeep/article/view/11343"
+  },
+  {
+    "title": "Evaluation of environmental recovery and vulnerability in the Mohe area by using mathematical modeling and remote sensing techniques",
+    "authors": [
+      "Che Xinyue,",
+      "Diao Ke,",
+      "Zhou Kangzhe"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202130802003",
+    "journalVolume": "Vol. 308\n                                \n                                \n                                  p.\n                                  02003",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "In the Greater Khingan Range, wildfires in forests were frequent and severe. The wildfire in the Greater Khingan Range in 1987 was one of the severest wildfires in human history, and the study is primarily based on this natural disaster. Mohe is a representative region in the Greater Khingan Range field related to wildfire cases. Many indicators affect the relationship between wildfire and forests, such as topography, climate change, and human behaviors. This paper used remote sensing techniques, the AHP model, and the entropy model to study the environmental fragility of forests in the region of Mohe. Present paper used NDVI images from 1987, 1992, 1997, 2002 to detect the vegetation coverage change in this area and found out its potential problems that need to be paid attention to. NDVI images in the paper showed that the vegetation coverage in the region of Mohe was generally low. Therefore, the results indicated that it is necessary to make prevention and conservation in the region of Mohe. By collecting dem images and data from fire yearbooks within these years, the paper summarized seven indicators: vegetation coverage, number of fires, area of damaged forest, number of injured people, slope, altitude, and temperature. Then the paper used the AHP model to calculate the ratio of each indicator affecting wildfire and scored on indicators to observe the quality of the environment under different indicators. AHP tables in the paper showed that the influence of slope and altitude were weak on a wildfire in this region because their scores were constant. Forest quality in 1987 was relatively low, and the trend dramatically increased after this year; however, it decreased again from 1997 to 2002. Besides the AHP model, the paper also provided an entropy model by using the same parameters. Compared to the AHP model, the entropy model was more objective. Although its scores were all higher than the AHP model, the trends of the two models were similar.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/84/e3sconf_msetee2021_02003.pdf"
+  },
+  {
+    "title": "Short-term effect of simulated salt marsh restoration by sand-amendment on sediment bacterial communities.",
+    "authors": [
+      "François Thomas,",
+      "James T Morris,",
+      "Cathleen Wigand,",
+      "Stefan M Sievert"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0215767",
+    "journalVolume": "Vol. 14,\n                                no. 4\n                                \n                                  p.\n                                  e0215767",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Coastal climate adaptation strategies are needed to build salt marsh resiliency and maintain critical ecosystem services in response to impacts caused by climate change. Although resident microbial communities perform crucial biogeochemical cycles for salt marsh functioning, their response to restoration practices is still understudied. One promising restoration strategy is the placement of sand or sediment onto the marsh platform to increase marsh resiliency. A previous study examined the above- and below-ground structure, soil carbon dioxide emissions, and pore water constituents in Spartina alterniflora-vegetated natural marsh sediments and sand-amended sediments at varying inundation regimes. Here, we analyzed samples from the same experiment to test the effect of sand-amendments on the microbial communities after 5 months. Along with the previously observed changes in biogeochemistry, sand amendments drastically modified the bacterial communities, decreasing richness and diversity. The dominant sulfur-cycling bacterial community found in natural sediments was replaced by one dominated by iron oxidizers and aerobic heterotrophs, the abundance of which correlated with higher CO2-flux. In particular, the relative abundance of iron-oxidizing Zetaproteobacteria increased in the sand-amended sediments, possibly contributing to acidification by the formation of iron oxyhydroxides. Our data suggest that the bacterial community structure can equilibrate if the inundation regime is maintained within the optimal range for S. alterniflora. While long-term effects of changes in bacterial community on the growth of S. alterniflora are not clear, our results suggest that analyzing the microbial community composition could be a useful tool to monitor climate adaptation and restoration efforts.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0215767"
+  },
+  {
+    "title": "A Screening Procedure for Identifying Drought Hot-Spots in a Changing Climate",
+    "authors": [
+      "Andrea Galletti,",
+      "Giuseppe Formetta,",
+      "Bruno Majone"
+    ],
+    "doi": "https://doi.org/10.3390/w15091731",
+    "journalVolume": "Vol. 15,\n                                no. 1731\n                                \n                                  p.\n                                  1731",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Droughts are complex natural phenomena with multifaceted impacts, and a thorough drought impact assessment should entail a suite of adequate modelling tools and also include observational data, thus hindering the feasibility of such studies at large scales. In this work we present a methodology that tackles this obstacle by narrowing down the study area to a smaller subset of potential drought hot-spots (i.e., areas where drought conditions are expected to be exacerbated, based on future climate projections). We achieve this by exploring a novel interpretation of a well-established meteorological drought index that we link to the hydrological drought status of a catchment by calibrating its use on the basis of streamflow observational data. We exemplify this methodology over 25 sub-catchments pertaining to the Adige catchment. At the regional level, our findings highlight how the response to meteorological drought in Alpine catchments is complex and influenced by both the hydrological properties of each catchment and the presence of water storage infrastructures. The proposed methodology provides an interpretation of the hydrologic behavior of the analyzed sub-catchments in line with other studies, suggesting that it can serve as a reliable tool for identifying potential drought hot-spots in large river basins.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/9/1731"
+  }
+]

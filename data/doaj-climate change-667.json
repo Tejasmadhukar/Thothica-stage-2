@@ -1,0 +1,258 @@
+[
+  {
+    "title": "Low carbon research of science and technology park in southern cities",
+    "authors": [
+      "Lü Wen,",
+      "Fan Yubo,",
+      "Yan Shi,",
+      "Si Wenrong,",
+      "Zhao Wenbin,",
+      "Chai Yuan,",
+      "Zhu Rui"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202339301002",
+    "journalVolume": "Vol. 393\n                                \n                                \n                                  p.\n                                  01002",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Climate change is a major global issue of general concern to the international community. As a developing country focusing on environmental protection, China has adopted a series of relevant policies and measures to address global warming, namely, achieving carbon peak by 2030 and carbon neutrality by 2060. It can be said that carbon peaking is China's national policy to actively respond to climate change, and is also an independent commitment based on scientific demonstration; Carbon neutrality is an action goal based on China's national conditions and is also a long-term development strategy with a long-term vision. In order to realize the important long-term strategy of “carbon neutrality” at an early date, low-carbon buildings will gradually come into people's lives. This paper first analyzes the crisis and challenges we are facing under the background of the current era, and expounds how to solve the energy crisis. In this paper, we propose that green and low-carbon buildings will make a significant contribution to solving the problem of carbon pollution. Then, we studied the low carbon scheme of science and technology parks in southern cities through literature review, and case study. Next, taking the project of Block H01-01, Unit PDC1-0401, Lingang New Area of Shanghai Free Trade Zone as an example, we 、analyzed the technical characteristics of the project's climate responsive design and the integrated design of renewable energy buildings, and elaborated its project functions. While satisfying people's demands for scientific research and comfortable living, it also responded to the call of the national “double carbon” goal and completed the task of “strengthening building energy conservation and continuously improving building energy efficiency” in the key work of energy conservation, emission reduction and carbon reduction in Shanghai. Finally, it is concluded that green and low-carbon buildings can make outstanding contributions to the realization of “double carbon” goals in the future, and at the same time provide a more powerful guarantee for human living environment and quality of life.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/30/e3sconf_eppct2023_01002.pdf"
+  },
+  {
+    "title": "Evaluation of environmental factors affecting the genetic diversity, genetic structure, and the potential distribution of Rhododendron aureum Georgi under changing climate",
+    "authors": [
+      "Wei Zhao,",
+      "Xiaolong Wang,",
+      "Lin Li,",
+      "Jiangnan Li,",
+      "Hang Yin,",
+      "Ying Zhao,",
+      "Xia Chen"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.7803",
+    "journalVolume": "Vol. 11,\n                                no. 18\n                                \n                                  pp.\n                                  12294\n                                  – 12306",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Understanding genetic variation and structure, adaptive genetic variation, and its relationship with environmental factors is of great significance to understand how plants adapt to climate change and design effective conservation and management strategies. The objective of this study was to (I) investigate the genetic diversity and structure by AFLP markers in 36 populations of R. aureum from northeast China, (Ⅱ) reveal the relative contribution of geographical and environmental impacts on the distribution and genetic differentiation of R. aureum, (Ⅲ) identify outlier loci under selection and evaluate the association between outlier loci and environmental factors, and (Ⅳ) exactly calculate the development trend of population of R. aureum, as it is confronted with severe climate change and to provide information for designing effective conservation and management strategies. We found high genetic variation (I = 0.584) and differentiation among populations (ΦST = 0.703) and moderate levels of genetic diversity within populations of R. aureum. A significant relationship between genetic distance and environmental distance was identified, which suggested that the differentiation of different populations was caused by environmental factors. Using BayeScan and Dfdist, 42 outlier loci are identified and most of the outlier loci are associated with climate or relief factors, suggesting that these loci are linked to genes that are involved in the adaptability of R. aureum to the environment. Species distribution models (SDMs) showed that climate warming will cause a significant reduction in suitable areas for R. aureum, especially under the RCP 85 scenario. Our results help to understand the potential response of R. aureum to climatic changes and provide new perspectives for R. aureum resource management and conservation strategies.",
+    "readLink": "https://doi.org/10.1002/ece3.7803"
+  },
+  {
+    "title": "Supporting Decision Making for Building Decarbonization: Developing Surrogate Models for Multi-Criteria Building Retrofitting Analysis",
+    "authors": [
+      "Mostafa M. Saad,",
+      "Ramanunni Parakkal Menon,",
+      "Ursula Eicker"
+    ],
+    "doi": "https://doi.org/10.3390/en16166030",
+    "journalVolume": "Vol. 16,\n                                no. 6030\n                                \n                                  p.\n                                  6030",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Decarbonizing buildings is crucial in addressing pressing climate change issues. Buildings significantly contribute to global greenhouse gas emissions, and reducing their carbon footprint is essential to achieving sustainable and low-carbon cities. Retrofitting buildings to become more energy efficient constitutes a solution. However, building energy retrofits are complex processes that require a significant number of simulations to investigate the possible options, which limits comprehensive investigations that become infeasible to carry out. Surrogate models can be vital in addressing computational inefficiencies by emulating physics-based models and predicting building performance. However, there is a limited focus on investigating feature engineering and selection methods and their effect on the model’s performance and optimization. Feature selection methods are considered effective with interpretable models such as multi-variate linear regression (MVLR) and multiple adaptive regression splines (MARS) for achieving stable prediction stability. This study proposes a modelling framework to create, optimize, and improve the performance of surrogate predictive models for energy consumption, carbon emissions, and the associated cost of building energy retrofit processes. The investigated feature selection methods are wrapper and embedded methods such as backward-stepwise feature selection (BSFS), recursive feature elimination (RFE), and Elastic Net embedded regularization in order to provide insights into the model’s behavior and optimize the model’s performance. The most accurate surrogate models developed achieved a mean absolute percentage error (MAPE) of 0.2–1.8% compared to the used test data. In addition, when calculated for a million samples, all developed surrogate models reduced the computational time by one-thousand-fold compared to physics-based models. The study’s findings pave the way towards low-computational accurate models that can comprehensively predict building performance in near real-time, ultimately leading to identifying decarbonization measures at scale.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/16/6030"
+  },
+  {
+    "title": "Unused Development Opportunities in Ukraine: Environmental and Economic Losses",
+    "authors": [
+      "Dmytriieva V."
+    ],
+    "doi": "https://doi.org/10.31521/modecon.V20(2020)-11",
+    "journalVolume": "Vol. 20\n                                \n                                \n                                  pp.\n                                  65\n                                  – 72",
+    "issn": "2521-6392 (Online)",
+    "publisher": "Mykolayiv National Agrarian University",
+    "countryOfPublisher": "Ukraine",
+    "lcc": [
+      "Social Sciences: Commerce: Business",
+      "Social Sciences: Finance"
+    ],
+    "journalUrl": "http://modecon.mnau.edu.ua",
+    "abstract": "Abstract. Introduction. Centuries human’s activity, especially last decades of rapid technological rise, is closely related to increasing emission volumes of harmful substances into atmosphere and water basins, sustainable accumulation of dangerous by-products that occupied huge land areas that have already become unusable for agriculture. Lack of technologies and financial resources to clean up air, water and landfills is the biggest problem for majority countries. This problem causes threats for healthy vitality at least in a nearest future. Moreover, irrational use of resources leads to economic losses and income decline that means decreasing of chances for quality economic development. International society improves not only practice in organizing statistical data, monitoring situation in environment pollution, but they also find out approaches to prevent accumulation of waste and greenhouse gases emission, study in which way implemented actions can be successful ecologically and economically. The problem solving in Ukraine has some peculiarities and among them are the set of indicators that describe level of environment pollution in our country, tolerance to waste accumulating and losses of nature resources. Since 1992 Ukraine had joined to United Nations Framework Convention on Climate Change and synchronized statistical data according to it demands. It is eager to investigate with official data what the special features in our country are in both ecological and economic problems and what the tendency in their solving is. Purpose. To analyze and reveal peculiarities of lateral results of economic development in Ukraine and to assess probable profits or losses to avoid or to deal with their impact. Results. Official government statistics presents annually different reports and results of environment pollution monitoring, but, unfortunately, it has some lack of detailed information about economic and ecological effect in recycling, emission decreasing and waste utilization (except accumulating on landfills or burning) by factories that produce or recycle it. Besides that, analysis of dynamics in waste management revealed that from 30% to 45% of gathered waste are not accounted and it is leaving unknown what is happening with it than. In use of water resources subjects of business activity are not thrifty. For instance, in 2018 nearly 17% of water was lost in transportation process that meant considerable cutback of gross domestic product in regions. Conclusion. Tolerance to uncontrolled waste accumulating, losses of any nature resources can damage both environment and economy in any country. Keeping of such tendency is dangerous for healthy life and activity of modern and future generations in Ukraine.",
+    "readLink": "https://modecon.mnau.edu.ua/issue/20-2020/dmytriieva.pdf"
+  },
+  {
+    "title": "Urban Land Use Changes: Effect of Green Urban Spaces Transformation on Urban Heat Islands in Baghdad",
+    "authors": [
+      "Fareeq Tawfeeq Najah,",
+      "Sally Fakhri Khalaf Abdullah,",
+      "Tamarah Ameen Abdulkareem"
+    ],
+    "doi": "Vol. 66\n                                \n                                \n                                  pp.\n                                  555\n                                  – 571",
+    "issn": "1110-0168 (Print)",
+    "publisher": "2090-2670 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Egypt",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/alexandria-engineering-journal/",
+    "abstract": "Urban sprawl has led to changes in landscaping. For instance, open areas and green urban spaces (GUSs)11 GUSs: Green Urban Spaces. are replaced by buildings, streets, and infrastructure. Permeable and wet surfaces have also been transformed into non-permeable and dry surfaces. This, unfortunately, creates a major problem known as Urban Heat Islands (UHI). The rise in temperature makes the urban centres warmer when compared to their rural outlying areas. This affects the environmental goodness, energy consumption demands, quality of wellbeing. However, there is limited knowledge concerning the change in the use of GUSs, the relationship between the area of ​​these spaces, and the buildings formation on the exacerbation of the UHI in the cities. The research study aim is to assess the impact of the area of GUSs and the building s formation on the exacerbation of the (UHI) in Baghdad city.The purpose of this study is to improve the understanding of an integrated approach for open green spaces by reviewing city‘s experience with a main focus of environmental sustainability, cooler temperature, and thermal comfort. The research selected three typical GUSs in Baghdad (Ziyouna) as a case study. Those spaces were transformed into various types of buildings for different uses. The UHI impact is identified and compared in two scenarios (GUSs and added building) using computer climate simulation (ENVI-met) tool. The tool also assessed and measured surfaces and air temperature (CLUHI & SUHI) at different points in the selection of three typical models. The results demonstrated several factors combined with the change of urban land uses that are responsible for exacerbation of UHI in terms of buildings‘ height, formation, ground coverage, and construction including pavement materials and colour.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1110016822007384"
+  },
+  {
+    "title": "Long-term observations of cloud condensation nuclei in the Amazon rain forest – Part 1: Aerosol size distribution, hygroscopicity, and new model parametrizations for CCN prediction",
+    "authors": [
+      "M. L. Pöhlker,",
+      "C. Pöhlker,",
+      "F. Ditas,",
+      "T. Klimach,",
+      "I. Hrabe de Angelis,",
+      "A. Araújo,",
+      "J. Brito,",
+      "J. Brito,",
+      "S. Carbone,",
+      "S. Carbone,",
+      "Y. Cheng,",
+      "X. Chi,",
+      "X. Chi,",
+      "R. Ditz,",
+      "S. S. Gunthe,",
+      "J. Kesselmeier,",
+      "T. Könemann,",
+      "J. V. Lavrič,",
+      "S. T. Martin,",
+      "E. Mikhailov,",
+      "D. Moran-Zuloaga,",
+      "D. Rose,",
+      "J. Saturno,",
+      "H. Su,",
+      "R. Thalman,",
+      "R. Thalman,",
+      "D. Walter,",
+      "J. Wang,",
+      "S. Wolff,",
+      "S. Wolff,",
+      "H. M. J. Barbosa,",
+      "P. Artaxo,",
+      "M. O. Andreae,",
+      "M. O. Andreae,",
+      "U. Pöschl"
+    ],
+    "doi": "https://doi.org/10.5194/acp-16-15709-2016",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  15709\n                                  – 15740",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Size-resolved long-term measurements of atmospheric aerosol and cloud condensation nuclei (CCN) concentrations and hygroscopicity were conducted at the remote Amazon Tall Tower Observatory (ATTO) in the central Amazon Basin over a 1-year period and full seasonal cycle (March 2014–February 2015). The measurements provide a climatology of CCN properties characteristic of a remote central Amazonian rain forest site.The CCN measurements were continuously cycled through 10 levels of supersaturation (S = 0.11 to 1.10 %) and span the aerosol particle size range from 20 to 245 nm. The mean critical diameters of CCN activation range from 43 nm at S = 1.10 % to 172 nm at S = 0.11 %. The particle hygroscopicity exhibits a pronounced size dependence with lower values for the Aitken mode (κAit = 0.14 ± 0.03), higher values for the accumulation mode (κAcc = 0.22 ± 0.05), and an overall mean value of κmean = 0.17 ± 0.06, consistent with high fractions of organic aerosol.The hygroscopicity parameter, κ, exhibits remarkably little temporal variability: no pronounced diurnal cycles, only weak seasonal trends, and few short-term variations during long-range transport events. In contrast, the CCN number concentrations exhibit a pronounced seasonal cycle, tracking the pollution-related seasonality in total aerosol concentration. We find that the variability in the CCN concentrations in the central Amazon is mostly driven by aerosol particle number concentration and size distribution, while variations in aerosol hygroscopicity and chemical composition matter only during a few episodes.For modeling purposes, we compare different approaches of predicting CCN number concentration and present a novel parametrization, which allows accurate CCN predictions based on a small set of input data.",
+    "readLink": "https://www.atmos-chem-phys.net/16/15709/2016/acp-16-15709-2016.pdf"
+  },
+  {
+    "title": "Effect of volcanic aerosol on stratospheric NO<sub>2</sub> and N<sub>2</sub>O<sub>5</sub> from 2002–2014 as measured by Odin-OSIRIS and Envisat-MIPAS",
+    "authors": [
+      "C. Adams,",
+      "C. Adams,",
+      "A. E. Bourassa,",
+      "C. A. McLinden,",
+      "C. E. Sioris,",
+      "T. von Clarmann,",
+      "B. Funke,",
+      "L. A. Rieger,",
+      "D. A. Degenstein"
+    ],
+    "doi": "https://doi.org/10.5194/acp-17-8063-2017",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  8063\n                                  – 8080",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Following the large volcanic eruptions of Pinatubo in 1991 and El Chichón in 1982, decreases in stratospheric NO2 associated with enhanced aerosol were observed. The Optical Spectrograph and Infrared Imaging Spectrometer (OSIRIS) measured the widespread enhancements of stratospheric aerosol following seven volcanic eruptions between 2002 and 2014, although the magnitudes of these eruptions were all much smaller than the Pinatubo and El Chichón eruptions. In order to isolate and quantify the relationship between volcanic aerosol and NO2, NO2 anomalies were calculated using measurements from OSIRIS and the Michelson Interferometer for Passive Atmospheric Sounding (MIPAS). In the tropics, variability due to the quasi-biennial oscillation was subtracted from the time series. OSIRIS profile measurements indicate that the strongest anticorrelations between NO2 and volcanic aerosol extinction were for the 5 km layer starting ∼ 3 km above the climatological mean tropopause at the given latitude. OSIRIS stratospheric NO2 partial columns in this layer were found to be smaller than background NO2 levels during these aerosol enhancements by up to ∼ 60 % with typical Pearson correlation coefficients of R ∼ −0. 7. MIPAS also observed decreases in NO2 partial columns during periods affected by volcanic aerosol, with percent differences of up to ∼ 25 % relative to background levels. An even stronger anticorrelation was observed between OSIRIS aerosol optical depth and MIPAS N2O5 partial columns, with R ∼ −0. 9, although no link with MIPAS HNO3 was observed. The variation in OSIRIS NO2 with increasing aerosol was found to be consistent with simulations from a photochemical box model within the estimated model uncertainty.",
+    "readLink": "https://www.atmos-chem-phys.net/17/8063/2017/acp-17-8063-2017.pdf"
+  },
+  {
+    "title": "Warming conditions boost reproductive output for a northern gopher tortoise population",
+    "authors": [
+      "EA Hunter,",
+      "KJ Loope,",
+      "KK Drake,",
+      "K Hanley,",
+      "DN Jones Jr ,",
+      "KT Shoemaker,",
+      "DC Rostal"
+    ],
+    "doi": "https://doi.org/10.3354/esr01155",
+    "journalVolume": "Vol. 46\n                                \n                                \n                                  pp.\n                                  215\n                                  – 226",
+    "issn": "1863-5407 (Print)",
+    "publisher": "1613-4796 (Online)",
+    "countryOfPublisher": "Inter-Research",
+    "lcc": [
+      "Germany",
+      "Science: Zoology",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.int-res.com/journals/esr/esr-home/",
+    "abstract": "The effects of climate change on at-risk species will depend on how life history processes respond to climate and whether the seasonal timing of local climate changes overlaps with species-specific windows of climate sensitivity. For long-lived, iteroparous species like gopher tortoises Gopherus polyphemus, climate likely has a greater influence on reproduction than on adult survival. Our objective was to estimate the timing, magnitude, and direction of climate-driven effects on gopher tortoise reproductive output using a 25 yr dataset collected in southeastern Georgia, USA, near the northern edge of the species’ range. We assessed the timing of climate effects on reproductive output (both probability of reproduction and clutch size) by fitting models with climate covariates (maximum temperature, precipitation, and temperature range) summarized at all possible time intervals (in 1 mo increments) within the 24 mo period prior to the summer census date. We then fit a final model of reproductive output as a function of the identified climate variables and time windows using a Bayesian mixture model. Probability of reproduction was positively correlated with the prior year’s April-May maximum temperature, and clutch size was positively correlated with the prior year’s June maximum temperature. April-May and June maximum temperatures have increased over the past 3 decades at the study site, which likely led to an increase in clutch size of approximately 1 egg (15% increase over a mean of 6.5 eggs). However, the net effect of climate change on gopher tortoise population dynamics will depend on whether there are opposing or reinforcing climate responses for other demographic rates.",
+    "readLink": "https://www.int-res.com/abstracts/esr/v46/p215-226/"
+  },
+  {
+    "title": "Experimental and Numerical Analyses of the Thermal Regime of a Traditional Embankment in Permafrost Regions",
+    "authors": [
+      "Qihang Mei,",
+      "Ji Chen,",
+      "Shouhong Zhang,",
+      "Xin Hou,",
+      "Jingyi Zhao,",
+      "Jinchang Wang,",
+      "Haiming Dang,",
+      "Guojun Liu,",
+      "Guilong Wu"
+    ],
+    "doi": "https://doi.org/10.1155/2021/7185616",
+    "journalVolume": "Vol. 2021",
+    "issn": "1687-8434 (Print)",
+    "publisher": "1687-8442 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Materials of engineering and construction. Mechanics of materials"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amse/",
+    "abstract": "Traditional embankment is widely used in the permafrost regions along the Qinghai-Tibet Railway (QTR) because of its simple construction and lower cost. However, this form of embankment has insufficient ability to resist external thermal disturbance. To clarify the thermal characteristics of traditional embankment under climate warming, the ground temperature change process of section K1068 + 750 of the QTR was analysed in this study. Based on the field monitoring data from 2006 to 2019 and the established heat transfer model, the past and future changes of permafrost thermal regime under the embankment were analysed. The results show that the degradation of permafrost under the embankment is faster than that under the undisturbed site due to the combined of embankment construction and climate warming. The sunny-shady slope effect related to embankment orientation makes the distribution of permafrost temperature under embankment asymmetric. In the long term, permafrost degrades both under the undisturbed site and embankment. The continuous degradation of permafrost causes the settlement and deformation of embankment, especially the asymmetric degradation of permafrost on sunny side and shady side will cause longitudinal cracks on the embankment. Therefore, timely application of strengthening measures which can slow down the degradation of permafrost and adjust the uneven ground temperature on the sunny and shady sides under the embankment is of great significance to the safety of the traditional embankment.",
+    "readLink": "http://dx.doi.org/10.1155/2021/7185616"
+  },
+  {
+    "title": "Use of Multi-Date and Multi-Spectral UAS Imagery to Classify Dominant Tree Species in the Wet Miombo Woodlands of Zambia",
+    "authors": [
+      "Hastings Shamaoma,",
+      "Paxie W. Chirwa,",
+      "Jules C. Zekeng,",
+      "Abel Ramoelo,",
+      "Andrew T. Hudak,",
+      "Ferdinand Handavu,",
+      "Stephen Syampungani"
+    ],
+    "doi": "https://doi.org/10.3390/s23042241",
+    "journalVolume": "Vol. 23,\n                                no. 2241\n                                \n                                  p.\n                                  2241",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Accurate maps of tree species distributions are necessary for the sustainable management of forests with desired ecological functions. However, image classification methods to produce species distribution maps for supporting sustainable forest management are still lacking in the Miombo woodland ecoregion. This study used multi-date multispectral Unmanned Aerial Systems (UAS) imagery collected at key phenological stages (leaf maturity, transition to senescence, and leaf flushing) to classify five dominant canopy species of the wet Miombo woodlands in the Copperbelt Province of Zambia. Object-based image analysis (OBIA) with a random forest algorithm was used on single date, multi-date, and multi-feature UAS imagery for classifying the dominant canopy tree species of the wet Miombo woodlands. It was found that classification accuracy varies both with dates and features used. For example, the August image yielded the best single date overall accuracy (OA, 80.12%, 0.68 kappa), compared to October (73.25% OA, 0.59 kappa) and May (76.64% OA, 0.63 kappa). The use of a three-date image combination improved the classification accuracy to 84.25% OA and 0.72 kappa. After adding spectral indices to multi-date image combination, the accuracy was further improved to 87.07% and 0.83 kappa. The results highlight the potential of using multispectral UAS imagery and phenology in mapping individual tree species in the Miombo ecoregion. It also provides guidance for future studies using multispectral UAS for sustainable management of Miombo tree species.",
+    "readLink": "https://www.mdpi.com/1424-8220/23/4/2241"
+  }
+]

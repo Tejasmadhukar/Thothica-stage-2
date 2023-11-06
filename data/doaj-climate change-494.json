@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Mapping current and future thermal limits to suitability for malaria transmission by the invasive mosquito Anopheles stephensi",
+    "authors": [
+      "Sadie J. Ryan,",
+      "Catherine A. Lippi,",
+      "Oswaldo C. Villena,",
+      "Aspen Singh,",
+      "Courtney C. Murdock,",
+      "Leah R. Johnson"
+    ],
+    "doi": "https://doi.org/10.1186/s12936-023-04531-4",
+    "journalVolume": "Vol. 22,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "1475-2875 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Special situations and conditions: Arctic medicine. Tropical medicine",
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "https://malariajournal.biomedcentral.com/",
+    "abstract": "Abstract Background Anopheles stephensi is a malaria-transmitting mosquito that has recently expanded from its primary range in Asia and the Middle East, to locations in Africa. This species is a competent vector of both Plasmodium falciparum and Plasmodium vivax malaria. Perhaps most alarming, the characteristics of An. stephensi, such as container breeding and anthropophily, make it particularly adept at exploiting built environments in areas with no prior history of malaria risk. Methods In this paper, global maps of thermal transmission suitability and people at risk (PAR) for malaria transmission by An. stephensi were created, under current and future climate. Temperature-dependent transmission suitability thresholds derived from recently published species-specific thermal curves were used to threshold gridded, monthly mean temperatures under current and future climatic conditions. These temperature driven transmission models were coupled with gridded population data for 2020 and 2050, under climate-matched scenarios for future outcomes, to compare with baseline predictions for 2020 populations. Results Using the Global Burden of Disease regions approach revealed that heterogenous regional increases and decreases in risk did not mask the overall pattern of massive increases of PAR for malaria transmission suitability with An. stephensi presence. General patterns of poleward expansion for thermal suitability were seen for both P. falciparum and P. vivax transmission potential. Conclusions Understanding the potential suitability for An. stephensi transmission in a changing climate provides a key tool for planning, given an ongoing invasion and expansion of the vector. Anticipating the potential impact of onward expansion to transmission suitable areas, and the size of population at risk under future climate scenarios, and where they occur, can serve as a large-scale call for attention, planning, and monitoring.",
+    "readLink": "https://doi.org/10.1186/s12936-023-04531-4"
+  },
+  {
+    "title": "Factors Influencing Risk during Wildfires: Contrasting Divergent Regions in the US",
+    "authors": [
+      "Erin Noonan-Wright,",
+      "Carl Seielstad"
+    ],
+    "doi": "https://doi.org/10.3390/fire5050131",
+    "journalVolume": "Vol. 5,\n                                no. 131\n                                \n                                  p.\n                                  131",
+    "issn": "2571-6255 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/fire",
+    "abstract": "(1) Background: Federal land managers in the US are charged with risk-based decision-making which requires them to know the risk and to direct resources accordingly. Without understanding the specific factors that produce risk, it is difficult to identify strategies to reduce it. (2) Methods: Risk characterized by U.S. land managers during wildfires was evaluated from 2010–2017 to identify factors driving risk perceptions. Annotation from 282 wildfires in two regions with distinctive risk profiles, the Northwest and Southwest Geographic Areas, were qualitatively coded using the risk assessment framework of hazards, values, and probability from the Relative Risk Assessment in the Wildland Fire Decision Support System (WFDSS). (3) Results: The effects of climate on seasonal severity, fuel condition, and fire behavior emerged as the most influential factors driving risk perceptions and characterizations of risk in both regions. Monsoonal precipitation extended the longevity of landscape barriers, especially in the Southwest. The results suggest that a scarcity of values at risk and a mild fire environment produce low risk fires regardless of location, while high risk fires reflect specific local values and geography, under the umbrella of dry climate. (4) Conclusions: the climatic contrasts between the two regions highlight how influential climate change will be on future characterizations of wildfire risk.",
+    "readLink": "https://www.mdpi.com/2571-6255/5/5/131"
+  },
+  {
+    "title": "Hydraulic head change predictions in groundwater models using a probabilistic neural network",
+    "authors": [
+      "Mathias Busk Dahl,",
+      "Mathias Busk Dahl,",
+      "Troels Norvin Vilhelmsen,",
+      "Torben Bach,",
+      "Thomas Mejer Hansen"
+    ],
+    "doi": "https://doi.org/10.3389/frwa.2023.1028922",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-9375 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/water#",
+    "abstract": "Groundwater resource management is an increasingly complicated task that is expected to only get harder and more important with future climate change and increasing water demands resulting in an increasing need for fast and accurate decision support systems. Numerical flow simulations are accurate but slow, while response matrix methods are fast but only accurate in near-linear problems. This paper presents a method based on a probabilistic neural network that predicts hydraulic head changes from groundwater abstraction with uncertainty estimates, that is both fast and useful for non-linear problems. A generalized method of constructing and training such a network is demonstrated and applied to a groundwater model case of the San Pedro River Basin. The accuracy and speed of the neural network are compared to results using MODFLOW and a constructed response matrix of the model. The network has fast predictions with results similar to the full numerical solution. The network can adapt to non-linearities in the numerical model that the response matrix method fails at resolving. We discuss the application of the neural network in a decision support framework and describe how the uncertainty estimate accurately describes the uncertainty related to the construction of the training data set.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frwa.2023.1028922/full"
+  },
+  {
+    "title": "Glacier Change and Its Response to Climate Change in Western China",
+    "authors": [
+      "Jiahui Li,",
+      "Xinliang Xu"
+    ],
+    "doi": "https://doi.org/10.3390/land12030623",
+    "journalVolume": "Vol. 12,\n                                no. 623\n                                \n                                  p.\n                                  623",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Given that glaciers are good indicators of climate change, it is of great scientific significance to study glacier change for regional environmental protection and water resource development and utilization. Using the Google Earth Engine (GEE) platform, we obtained the distribution of glaciers in western China in 2000, 2005, 2010, 2015, and 2020. Then, we analyzed the temporal and spatial evolutions of the glacier areas and their responses to climate change. The results showed that there were 52,384 glaciers in western China in 2020, with an area of 42,903.57 km2, among which those belonging to the headwater of the Tarim River are the largest, accounting for 35.25% of the total area. From 2000 to 2020, the glaciers indicated an overall trend of retreat, with the total area decreasing by 15,575.94 km2 at a change rate of 1.46%/a. From 2000 to 2010, glaciers in the southeast Qinghai-Tibet Plateau (QTP) and Qilian Mountains saw the fastest area loss (>4%/a), followed by the Tianshan Mountains (3.31%/a), while those in the Pamir-Karakoram-West Kunlun regions and the Qiangtang Plateau had the slowest loss. From 2010 to 2020, the glacier retreat rate exhibited an accelerating trend in southeast QTP and the western Himalayas, while it slowed down in the Tianshan Mountains. The change in glaciers was greatly attributed to the combination of snowfall and summer temperature trends. The glaciers in southeast QTP showed an accelerated retreat tendency, probably due to the accelerating snowfall decrease and continuous temperature rise. The decreasing temperature mitigated the loss of glacier area in the Pamir-Karakoram-West Kunlun regions with continuously decreasing snowfall.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/3/623"
+  },
+  {
+    "title": "New Maritime Trade Routes in the Arctic Region: one of the Strongest Alternative to the Suez Canal",
+    "authors": [
+      "İrşad Bayırhan,",
+      "Cem Gazioğlu"
+    ],
+    "doi": "https://doi.org/10.30897/ijegeo.911179",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  pp.\n                                  397\n                                  – 401",
+    "issn": "2148-9173 (Online)",
+    "publisher": "IJEGEO",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://dergipark.gov.tr/ijegeo",
+    "abstract": "There have been some alternative consequences of global climate change in terms of sea routes. The loss of sea ice in the Arctic has opened up new possibilities for more economical and energy efficient transport. This region has the potential to significantly reduce the distance between the three industrialized areas in the, North America, Europe and East Asia. The fact that the Arctic routes, which are currently facing some obstacles due to environmental and political reasons, will allow regular passage in the future, may be accelerated not only by climate change but also due to heavy traffic on the current Suez Canal Route (SCR). The Suez Canal is one of the most important waterways in the world, providing sea transportation between Asia-Europe-America without the need to travel through Africa. However, over time, the credibility of the Canal in terms of meeting the global supply chain has started to be questioned and alternative solutions have started to be sought. In this study, the importance of Arctic routes, which is a new and alternative route in maritime trade, is emphasized and the preference it will create against SCR is emphasized.",
+    "readLink": "https://dergipark.org.tr/tr/download/article-file/1690491"
+  },
+  {
+    "title": "Energy Accounting for a Renewable Energy Future",
+    "authors": [
+      "Patrick Moriarty,",
+      "Damon Honnery"
+    ],
+    "doi": "https://doi.org/10.3390/en12224280",
+    "journalVolume": "Vol. 12,\n                                no. 22\n                                \n                                  p.\n                                  4280",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "For millennia, humans relied almost entirely on renewable energy (RE), largely biomass, for their energy needs. Over the past century, fossil fuels (FFs) have not only largely replaced RE, but have enabled a many-fold rise in total energy use. This FF dominance changed the way we think about and accounted for energy use. If (as at present) the world essentially continues to ignore climate change, eventual resource depletion will force conversion to RE and, perhaps, nuclear energy will once again have to provide most of the world’s energy use. However, the change is more likely to come about because of the urgent need for climate change mitigation. At present, primary RE electricity accounting is done by calculating the FF energy that would be needed to produce it. But as FFs disappear, this approach makes less sense. Instead, a new approach to energy accounting will be needed, one that allows for the intermittent nature of the two most abundant RE sources, wind and solar power. Surplus intermittent RE might be converted to H2, further complicating energy accounting. An additional complication will be the treatment of energy reductions, especially from passive solar energy, likely to be more important in the coming decades. This paper is a review of the evidence to try to determine the best approach to future energy accounting.",
+    "readLink": "https://www.mdpi.com/1996-1073/12/22/4280"
+  },
+  {
+    "title": "Distribuer la chaleur fatale des entreprises : la construction dynamique d’un réseau d’énergie décarbonée, entre flux et infrastructure",
+    "authors": [
+      "Zélia Hampikian"
+    ],
+    "doi": "https://doi.org/10.4000/developpementdurable.11736",
+    "issn": "1772-9971 (Online)",
+    "publisher": "Réseau Développement Durable et Territoires Fragiles",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences"
+    ],
+    "journalUrl": "http://developpementdurable.revues.org/",
+    "abstract": "The recovery of waste heat is increasingly promoted as an instrument for climate change mitigation and energy transition. However, when such a flow is distributed by a heat network, the stakeholders in charge of the network operation do not have control over the flow production. This article aims at understanding the consequences of this lack of control on the construction and running of a network through the analysis of two French case studies in Dunkirk and the Val d’Europe. It shows that the temporal evolution of the heat flow and the projections that the actors make of it lead the decisions taken regarding the network. Hence, the produced flow is put at the center of the network evolution rational and the infrastructure is built accordingly to distribute it. In that sense, the process is inverted from the classic rational of the construction of urban networks.",
+    "readLink": "http://journals.openedition.org/developpementdurable/11736"
+  },
+  {
+    "title": "Megabenthic biodiversity in culturally and ecologically important coastal regions of Northern Labrador",
+    "authors": [
+      "Robert Rangeley,",
+      "Bárbara de Moura Neves,",
+      "Neus Campanyà-Llovet,",
+      "Mary Denniston,",
+      "Rodd Laing,",
+      "Katrina Anthony,",
+      "Paul McCarney,",
+      "Reba McIver,",
+      "Jennifer Whyte,",
+      "Alexandra R Vance,",
+      "Isabelle Jubinville,",
+      "Jean Hodgson,",
+      "Andrew J Murphy,",
+      "David Cote"
+    ],
+    "doi": "https://doi.org/10.5751/ES-13637-270447",
+    "journalVolume": "Vol. 27,\n                                no. 4\n                                \n                                  p.\n                                  47",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Labrador Inuit have expressed concern about the impacts of climate change on their health and well-being and their future access to marine resources, including fisheries. This study filled important knowledge gaps identified by the Nunatsiavut Government and Inuit communities regarding benthic biodiversity and habitat structure within major geomorphology features. Marine benthic surveys were conducted in three areas of ecological, cultural, and historical significance: Hebron Fjord, Okak Fjard, and the Nain archipelago, inclusive of a polynya, using a camera sled and a baited remote underwater video system. We documented the spatial extent of megabenthic diversity components and the high densities of dominant taxa, notably tube-dwelling anemones (cerianthids), brittle stars (ophiuroids), soft corals ( Gersemia sp.), and bristle worms (polychaetes). Species accumulation curves indicated that new species records are likely to be discovered. Vulnerable marine ecosystem (VME) indicator species and other key taxa provide seafloor structure for mobile species and important ecosystem functions, such as energy cycling, especially in the deeper areas of the fjord and fjard that are dominated by soft sediment. The sites with the highest benthic diversity, including the greatest densities of scallops and fish fauna, were in the archipelago and polynya, areas frequently used by Inuit for traditional harvesting. These findings were suggestive of a more direct linkage between these areas and trophic levels of greatest importance to Labrador Inuit. Understanding these patterns from the combined perspectives of Inuit and Western science in Nunatsiavut marine waters will guide resource management and protected area decisions, including those in the Nunatsiavut Government’s Imappivut Marine Planning Initiative.",
+    "readLink": "https://www.ecologyandsociety.org/vol27/iss4/art47"
+  },
+  {
+    "title": "Phenology of Drosophila species across a temperate growing season and implications for behavior.",
+    "authors": [
+      "Jennifer M Gleason,",
+      "Paula R Roy,",
+      "Elizabeth R Everman,",
+      "Terry C Gleason,",
+      "Theodore J Morgan"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0216601",
+    "journalVolume": "Vol. 14,\n                                no. 5\n                                \n                                  p.\n                                  e0216601",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Drosophila community composition is complex in temperate regions with different abundance of flies and species across the growing season. Monitoring Drosophila populations provides insights into the phenology of both native and invasive species. Over a single growing season, we collected Drosophila at regular intervals and determined the number of individuals of the nine species we found in Kansas, USA. Species varied in their presence and abundance through the growing season with peak diversity occurring after the highest seasonal temperatures. We developed models for the abundance of the most common species, Drosophila melanogaster, D. simulans, D. algonquin, and the recent invasive species, D. suzukii. These models revealed that temperature played the largest role in abundance of each species across the season. For the two most commonly studied species, D. melanogaster and D. simulans, the best models indicate shifted thermal optima compared to laboratory studies, implying that fluctuating temperature may play a greater role in the physiology and ecology of these insects than indicated by laboratory studies, and should be considered in global climate change studies.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0216601"
+  },
+  {
+    "title": "Modelling the impacts of European emission and climate change scenarios on acid-sensitive catchments in Finland",
+    "authors": [
+      "M. Posch,",
+      "J. Aherne,",
+      "M. Forsius,",
+      "S. Fronzek,",
+      "N. Veijalainen"
+    ],
+    "doi": "Vol. 12,\n                                no. 2\n                                \n                                  pp.\n                                  449\n                                  – 463",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "The dynamic hydro-chemical Model of Acidification of Groundwater in Catchments (MAGIC) was used to predict the response of 163 Finnish lake catchments to future acidic deposition and climatic change scenarios. Future deposition was assumed to follow current European emission reduction policies and a scenario based on maximum (technologically) feasible reductions (MFR). Future climate (temperature and precipitation) was derived from the HadAM3 and ECHAM4/OPYC3 general circulation models under two global scenarios of the Intergovernmental Panel on Climate Change (IPCC: A2 and B2). The combinations resulting in the widest range of future changes were used for simulations, i.e., the A2 scenario results from ECHAM4/OPYC3 (highest predicted change) and B2 results from HadAM3 (lowest predicted change). Future scenarios for catchment runoff were obtained from the Finnish watershed simulation and forecasting system. The potential influence of future changes in surface water organic carbon concentrations was also explored using simple empirical relationships based on temperature and sulphate deposition. Surprisingly, current emission reduction policies hardly show any future recovery; however, significant chemical recovery of soil and surface water from acidification was predicted under the MFR emission scenario. The direct influence of climate change (temperate and precipitation) on recovery was negligible, as runoff hardly changed; greater precipitation is offset by increased evapotranspiration due to higher temperatures. However, two exploratory empirical DOC models indicated that changes in sulphur deposition or temperature could have a confounding influence on the recovery of surface waters from acidification, and that the corresponding increases in DOC concentrations may offset the recovery in pH due to reductions in acidifying depositions.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/12/449/2008/hess-12-449-2008.pdf"
+  }
+]

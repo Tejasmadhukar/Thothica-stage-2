@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Partitioning the contributions of dependent offshore forcing conditions in the probabilistic assessment of future coastal flooding",
+    "authors": [
+      "J. Rohmer,",
+      "D. Idier,",
+      "R. Thieblemont,",
+      "G. Le Cozannet,",
+      "F. Bachoc"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-22-3167-2022",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  3167\n                                  – 3182",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "Getting a deep insight into the role of coastal flooding drivers is of great interest for the planning of adaptation strategies for future climate conditions. Using global sensitivity analysis, we aim to measure the contributions of the offshore forcing conditions (wave–wind characteristics, still water level and sea level rise (SLR) projected up to 2200) to the occurrence of a flooding event at Gâvres town on the French Atlantic coast in a macrotidal environment. This procedure faces, however, two major difficulties, namely (1) the high computational time costs of the hydrodynamic numerical simulations and (2) the statistical dependence between the forcing conditions. By applying a Monte Carlo-based approach combined with multivariate extreme value analysis, our study proposes a procedure to overcome both difficulties by calculating sensitivity measures dedicated to dependent input variables (named Shapley effects) using Gaussian process (GP) metamodels. On this basis, our results show the increasing influence of SLR over time and a small-to-moderate contribution of wave–wind characteristics or even negligible importance in the very long term (beyond 2100). These results were discussed in relation to our modelling choices, in particular the climate change scenario, as well as the uncertainties of the estimation procedure (Monte Carlo sampling and GP error).",
+    "readLink": "https://nhess.copernicus.org/articles/22/3167/2022/nhess-22-3167-2022.pdf"
+  },
+  {
+    "title": "Trends in Mean Annual Minimum and Maximum Near Surface Temperature in Nairobi City, Kenya",
+    "authors": [
+      "George Lukoye Makokha,",
+      "Chris A. Shisanya"
+    ],
+    "doi": "https://doi.org/10.1155/2010/676041",
+    "journalVolume": "Vol. 2010",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "This paper examines the long-term urban modification of mean annual conditions of near surface temperature in Nairobi City. Data from four weather stations situated in Nairobi were collected from the Kenya Meteorological Department for the period from 1966 to 1999 inclusive. The data included mean annual maximum and minimum temperatures, and was first subjected to homogeneity test before analysis. Both linear regression and Mann-Kendall rank test were used to discern the mean annual trends. Results show that the change of temperature over the thirty-four years study period is higher for minimum temperature than maximum temperature. The warming trends began earlier and are more significant at the urban stations than is the case at the sub-urban stations, an indication of the spread of urbanisation from the built-up Central Business District (CBD) to the suburbs. The established significant warming trends in minimum temperature, which are likely to reach higher proportions in future, pose serious challenges on climate and urban planning of the city. In particular the effect of increased minimum temperature on human physiological comfort, building and urban design, wind circulation and air pollution needs to be incorporated in future urban planning programmes of the city.",
+    "readLink": "http://dx.doi.org/10.1155/2010/676041"
+  },
+  {
+    "title": "Fire hazard forecast by the regional climate change projection using the ETA model: a case study in Bahia, Brazil",
+    "authors": [
+      "Rodrigo Rudge Ramos Ribeiro,",
+      "Miguel,",
+      "Samia Nascimento Sulaiman"
+    ],
+    "doi": "https://doi.org/10.14195/1647-7723_29-1_5",
+    "journalVolume": "no. 29(I)",
+    "issn": "0872-8941 (Print)",
+    "publisher": "1647-7723 (Online)",
+    "countryOfPublisher": "Coimbra University Press",
+    "lcc": [
+      "Portugal",
+      "Technology: Engineering (General). Civil engineering (General): Disasters and engineering"
+    ],
+    "journalUrl": "http://impactum-journals.uc.pt/index.php/territorium/index",
+    "abstract": "This article proposes a method for predicting fire occurrence, considering regional climate change projection using the Eta model, with a 20 km resolution, for the RCP4.5 and RCP8.5 scenarios. Fire occurrence in the state of Bahia was calculated as a function of the three main sensitivity factors on a daily time-scale: days without precipitation, precipitation, and maximum temperature. Historical fire occurrences from 1998 to 2018 and meteorological data from 1960 to 2018 were obtained from official institutes, and weather forecast parameters from 2018 to 2050 were downscaled from the web platform PROJETA. The correlations between the meteorological factors and fire occurrence were calculated for the historical data and a weight factor corresponding to a control simulation. Afterwards, a correction factor was determined, based on the historical fire occurrence data used for the forecast in the two scenarios. The results indicate that between 2018 and 2050, risk of fire will have an average increase of 27% at the RCP4.5 and 38% at the RCP8.5 scenario.",
+    "readLink": "https://impactum-journals.uc.pt/territorium/article/view/8917"
+  },
+  {
+    "title": "The Risk of Emerging of Dengue Fever in Romania, in the Context of Global Warming",
+    "authors": [
+      "Larisa Maria Ivanescu,",
+      "Ilie Bodale,",
+      "Smaranda Grigore-Hristodorescu,",
+      "Gabriela Martinescu,",
+      "Bianca Andronic,",
+      "Simona Matiut,",
+      "Doina Azoicai,",
+      "Liviu Miron"
+    ],
+    "doi": "https://doi.org/10.3390/tropicalmed8010065",
+    "journalVolume": "Vol. 8,\n                                no. 65\n                                \n                                  p.\n                                  65",
+    "issn": "2414-6366 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/tropicalmed",
+    "abstract": "(1) Background: Few studies to date have assessed the influences induced by climate change on the spatial distribution and population abundance of Aedes albopictus using the latest climate scenarios. In this study, we updated the current distribution of Ae. albopictus mosquitoes and evaluated the changes in their distribution under future climate conditions, as well as the risk of dengue virus emergence in Romania. (2) Methods: Under the two scenarios: High scenario (HS) when no drastic measures to reduce the effects of global warming will be taken, or they are not effective and low scenario (LS) when very stringent greenhouse control measures will be implemented. (3) Results: The results estimate an increase in temperatures in Romania of up to 2.6 °C in HS and up to 0.4 °C in LS, with an increase in the period of virus replication within the vector from June to October in HS and from May to September in LS. Moreover, in 2022, Ae. albopictus was reported in a new county, where it was not identified at the last monitoring in 2020. (4) Conclusions: The rapid spread of this invasive species and the need to implement monitoring and control programs for the Aedes population in Romania are emphasized.",
+    "readLink": "https://www.mdpi.com/2414-6366/8/1/65"
+  },
+  {
+    "title": "Services écosystémiques et adaptation urbaine interscalaire au changement climatique : un essai d’articulation",
+    "authors": [
+      "Aleksandar Rankovic,",
+      "Chantal Pacteau,",
+      "Luc Abbadie"
+    ],
+    "doi": "https://doi.org/10.4000/vertigo.11851",
+    "journalVolume": "Vol. 12",
+    "issn": "1492-8442 (Online)",
+    "publisher": "Éditions en environnement VertigO",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://vertigo.revues.org/",
+    "abstract": "Interest in the links between vegetation and urban climate dates rather far back in the history of ideas, but it takes a whole new dimension when reframed as an \"ecosystem services and climate change adaptation\" problem. This new association calls for articulation and evaluation, and thus implies a review of the different issues encountered when exploring the link between ecosystems and urban adaptation to climate change. In this paper, we first give an overview of the concept of \"ecosystem services\". We suggest a framework to analyse the usefulness of this notion in the design of urban adaptation strategies. We then review ecosystem services and disservices in relation with urban adaptation, arguing that this requires an integrated approach. Last, we tackle cross-scale interactions that are inherent to urban sustainability design, and question the greenway concept regarding its relevance to cross-scale urban adaptation to climate change.",
+    "readLink": "http://journals.openedition.org/vertigo/11851"
+  },
+  {
+    "title": "Long-Term Impacts of Diurnal Temperature Range on Mortality and Cardiovascular Disease: A Nationwide Prospective Cohort Study",
+    "authors": [
+      "Haosu Tang,",
+      "Xin Wang,",
+      "Yuting Kang,",
+      "Congyi Zheng,",
+      "Xue Cao,",
+      "Yixin Tian,",
+      "Zhen Hu,",
+      "Linfeng Zhang,",
+      "Zuo Chen,",
+      "Yuxin Song,",
+      "Runqing Gu,",
+      "Jiayin Cai,",
+      "Gang Huang,",
+      "Zengwu Wang"
+    ],
+    "doi": "https://doi.org/10.3390/metabo12121287",
+    "journalVolume": "Vol. 12,\n                                no. 1287\n                                \n                                  p.\n                                  1287",
+    "issn": "2218-1989 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/metabolites",
+    "abstract": "Previous studies have documented the associations between short-term diurnal temperature range (DTR) exposure and cardiovascular disease (CVD) via time-series analyses. However, the long-term impacts of DTR through a population-based prospective cohort have not been elucidated thoroughly. This study aimed to quantify the longitudinal association of DTR exposure with all-cause mortality and CVD in a nationwide prospective cohort and, by extension, project future DTR changes across China under climate change. We included 22,702 adults (median age 56.1 years, 53.7% women) free of CVD at baseline from a nationwide cross-sectional study in China during 2012–2015, and examined three health outcomes during a follow-up survey in 2018–2019. We estimated the chronic DTR exposure as baseline annual mean daily maximum minus minimum temperature. The Cox proportional hazards regression was adopted to assess the multivariable-adjusted hazard ratio and its corresponding 95% confidence interval (95% CI). We employed 31 downscaled global climate models under two shared socioeconomic pathways for future projection. During the median follow-up period of ~5 years, 1096 subjects died due to all causes while 993 and 597 individuals developed fatal or nonfatal CVD and fatal or nonfatal stroke, respectively. The cumulative incidence rates of all-cause mortality, CVD, and stroke were 10.49, 9.45, and 5.64 per 1000 person-years, respectively. In the fully adjusted models, the risks for all-cause mortality, CVD, and stroke would increase by 13% (95% CI: 8–18%), 12% (95% CI: 7–18%), and 9% (95% CI: 2–16%) per 1 °C increment in DTR, respectively. Moreover, linear positive associations for the concentration–response curves between DTR and mortality and CVD were observed. We also found significantly greater DTR-related mortality risks among rural residents than their urban counterparts. The DTR changes featured a dipole pattern across China under a warming climate. The southern (northern) China would experience increased (decreased) DTR exposure by the end of 21st century. The present study indicates that chronic DTR exposure can exert long-term impacts on mortality and CVD risks, which may inform future public health policies on DTR-related susceptible population and regions.",
+    "readLink": "https://www.mdpi.com/2218-1989/12/12/1287"
+  },
+  {
+    "title": "River runoff in Switzerland in a changing climate –  runoff regime changes and their time of emergence",
+    "authors": [
+      "R. Muelchi,",
+      "O. Rössler,",
+      "O. Rössler,",
+      "J. Schwanbeck,",
+      "R. Weingartner,",
+      "R. Weingartner,",
+      "O. Martius,",
+      "O. Martius"
+    ],
+    "doi": "https://doi.org/10.5194/hess-25-3071-2021",
+    "journalVolume": "Vol. 25\n                                \n                                \n                                  pp.\n                                  3071\n                                  – 3086",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Assessments of climate change impacts on runoff regimes are essential to climate change adaptation and mitigation planning. Changing runoff regimes and thus changing seasonal patterns of water availability strongly influence various economic sectors such as agriculture, energy production, and fishery and also affect river ecology. In this study, we use new transient hydrological scenarios driven by the most up-to-date local climate projections for Switzerland, the Swiss Climate Change Scenarios. These provide detailed information on changes in runoff regimes and their time of emergence for 93 rivers in Switzerland under three Representative Concentration Pathways (RCPs): RCP2.6, RCP4.5, and RCP8.5. These transient scenarios also allow changes to be framed as a function of global mean temperature. The new projections for seasonal runoff changes largely confirm the sign of changes in runoff from previous hydrological scenarios with increasing winter runoff and decreasing summer and autumn runoff. Spring runoff is projected to increase in high-elevation catchments and to decrease in lower-lying catchments. Despite the increases in winter and some increases in spring, the annual mean runoff is projected to decrease in most catchments. Compared to lower-lying catchments, runoff changes in high-elevation catchments (above 1500 m a.s.l.) are larger in winter, spring, and summer due to the large influence of reduced snow accumulation and earlier snowmelt and glacier melt. The changes in runoff and the agreement between climate models on the sign of change both increase with increasing global mean temperatures and higher-emission scenarios. This amplification highlights the importance of climate change mitigation. The time of emergence is the time when the climate signal emerges significantly from natural variability. Under RCP8.5, times of emergence were found early, before the period 2036–2065, in winter and summer for catchments with mean altitudes above 1500 m a.s.l. Significant changes in catchments below 1500 m a.s.l. emerge later in the century. Not all catchments show significant changes in the distribution of seasonal means; thus, no time of emergence could be determined in these catchments. Furthermore, the significant changes of seasonal mean runoff are not persistent over time in some catchments due to nonlinear changes in runoff.",
+    "readLink": "https://hess.copernicus.org/articles/25/3071/2021/hess-25-3071-2021.pdf"
+  },
+  {
+    "title": "Wheat cultivar mixtures increase grain yield under varied climate conditions",
+    "authors": [
+      "Xiang Kong,",
+      "Li Li,",
+      "Peng Peng,",
+      "Kunpu Zhang,",
+      "Zhengjiang Hu,",
+      "Xijiu Wang,",
+      "Guishen Zhao"
+    ],
+    "doi": "Vol. 69\n                                \n                                \n                                  pp.\n                                  13\n                                  – 25",
+    "issn": "1439-1791 (Print)",
+    "publisher": "1618-0089 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/basic-and-applied-ecology",
+    "abstract": "Scaling current cereal production to meet the globally increasing food demand will be a challenge under climate change. Previous studies have shown that crop diversification, such as intercropping, can increase crop yield, stability, resource-use efficiency and resistance to both biotic and abiotic stresses in agroecosystems. However, more evidence is needed to explain the influence of inter-annual climate variations on crop yield in the context of genetic diversity. Here, we conducted a field experiment over four years in the North China Plain to test the effect of genetic diversity on yield under varied climate conditions. We compared the performance of eight winter wheat cultivars in monocropping with that of mixed cropping of two (mixture-2), four (mixture-4), and eight (mixture-8) cultivars. Our results showed that the yields of all cultivar mixtures were higher than those of their component cultivars in monocropping from 2017 to 2020. In particular, the grain yields of mixture-4 and mixture-8 were significantly increased by 7.37% and 5.94% in the drier years (2017 and 2019), compared with that of the highest yield of local cultivar (LY502). From 2017 to 2020, yield components in wheat mixed cropping had synergetic effects that could offset the tradeoffs among them and obtained an optimized combination at population level. Moreover, the yield stability of all mixtures was higher than the weighted means of monocultures averaged across the four years. The cultivation of mixtures of wheat cultivars effectively alleviated the negative effect of high temperature stress on 1000-grain weight, and improved grain water use efficiency in the drier years. Our findings showed that enhancing wheat genetic diversity at population level can effectively promote grain yield under drought and high temperature, which can be considered as an ecological approach to cope with global climate change towards food security.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1439179123000129"
+  },
+  {
+    "title": "Tree–Crop Ecological and Physiological Interactions Within Climate Change Contexts: A Mini-Review",
+    "authors": [
+      "Berta Gonçalves,",
+      "Maria Cristina Morais,",
+      "Sandra Pereira,",
+      "Maria Rosa Mosquera-Losada,",
+      "Mário Santos,",
+      "Mário Santos,",
+      "Mário Santos"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2021.661978",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "The effects of climate change are increasingly noticed worldwide, and crops are likely to be impacted in direct and indirect ways. Thus, it is urgent to adopt pliable strategies to reduce and/or mitigate possible adverse effects to meet the growing demand for sustainable and resilient food production. Monoculture cropping is globally the most common production system. However, adaptation to ongoing climate change, namely, to more extreme environmental conditions, has renewed the interest in other practices such as agroforestry, agroecology, and permaculture. This article provides an overview of ecological and physiological interactions between trees and crops in Mediterranean agroforestry systems and compares them with those from monocultures. The advantages and disadvantages of both systems are explored. The added value of modeling in understanding the complexity of interactions within agroforestry systems, supporting decision-making under current and future weather conditions, is also pinpointed. Several interactions between trees and crops might occur in agroforestry systems, leading to mutual positive and/or negative effects on growth, physiology, and yield. In this sense, selecting the most suitable combination of tree/crop species in mixtures may be best be indicated by complementary traits, which are crucial to maximizing trade-offs, improving productivity, ecosystem services, and environmental sustainability.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2021.661978/full"
+  },
+  null
+]

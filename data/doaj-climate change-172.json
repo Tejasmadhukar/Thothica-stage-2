@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Microclimatic Volatility and Elasticity of Glacier Skiing Demand",
+    "authors": [
+      "Marius Mayer,",
+      "O.  Cenk Demiroglu,",
+      "Oguzhan Ozcelebi"
+    ],
+    "doi": "https://doi.org/10.3390/su10103536",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  p.\n                                  3536",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The effects of climate conditions and weather on ski tourism have become a hot topic as the negative impacts of climate change on ski tourism become increasingly visible. This study aims at measuring the significance and magnitude of long-term diurnal and daily weather conditions on lift frequentation at an Austrian glacier ski area in terms of the winter and the summer skiing offers. In doing so, it utilizes an autoregressive conditional heteroskedasticity (ARCH) model to reveal and quantify any volatility associated with ski area visitation and then employs regression models to account for any microclimatic elasticity of glacier skiing demand. The main findings reveal a significant volatility in ski area visitation, especially during the summer seasons. While this study does not aim for an ultimate determination on the reasons for such volatility, skiing demand models illustrate the importance of thermal comfort, especially wind chill factor (WCF), as a major determinant of demand sensitivity for glacier skiing as well as non-skier visits during the summer season. Significant, albeit inelastic, relationships between other microclimatic characteristics, such as snow depth and relative humidity, with visitation and lift frequentation are also identified. Based on these findings, implications according to a changing climate and practical suggestions on the sustainability of winter and summer skiing activities are provided.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/10/3536"
+  },
+  {
+    "title": "Data-Driven, Short-Term Prediction of Charging Station Occupation",
+    "authors": [
+      "Roya Aghsaee,",
+      "Christopher Hecht,",
+      "Felix Schwinger,",
+      "Jan Figgener,",
+      "Matthias Jarke,",
+      "Dirk Uwe Sauer"
+    ],
+    "doi": "https://doi.org/10.3390/electricity4020009",
+    "journalVolume": "Vol. 4,\n                                no. 9\n                                \n                                  pp.\n                                  134\n                                  – 153",
+    "issn": "2673-4826 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Electricity and magnetism: Electricity"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/electricity",
+    "abstract": "Enhancing electric vehicle infrastructure by forecasting the availability of charging stations can boost the attractiveness of electric vehicles. The transportation sector plays a crucial role in battling climate change. The majority of available prediction algorithms either achieve poor accuracy or predict the availability at certain points in time in the future. Both of these situations are not ideal and may potentially hinder the model’s applicability to real-world situations. This paper provides a new model for estimating the charging duration of charging events in real time, which may be used to estimate the waiting time of users at fully occupied charging stations. First, the prediction is made using the random forest regressor (RF), and then the prediction is enhanced utilizing the findings of the RF model and real-time information of the currently occurring charging events. We compare the proposed method with the RF model, which is the approach’s foundational model, and the best-performing prediction model of the light gradient boosting machine (LightGBM). Here, we make use of historical information of charging events gathered from 2079 charging stations across Germany’s 4602 fast-charging connectors. To reduce data bias, we specifically simulate prediction requests for 30% of the charging events with various characteristics that were not trained with the model. Overall, the suggested method performs better than both the RF and the LightGBM. In addition, the model’s structure is adaptable and can incorporate real-time information on charging events.",
+    "readLink": "https://www.mdpi.com/2673-4826/4/2/9"
+  },
+  {
+    "title": "Climate change detection and attribution using observed and simulated tree-ring width",
+    "authors": [
+      "J. Franke,",
+      "J. Franke,",
+      "M. N. Evans,",
+      "M. N. Evans,",
+      "A. Schurer,",
+      "G. C. Hegerl"
+    ],
+    "doi": "https://doi.org/10.5194/cp-18-2583-2022",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  2583\n                                  – 2597",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "The detection and attribution (D&A) of paleoclimatic change to external radiative forcing relies on regression of statistical reconstructions on simulations. However, this procedure may be biased by assumptions of stationarity and univariate linear response of the underlying paleoclimatic observations. Here we perform a D&A study, modeling paleoclimate data observations as a function of paleoclimatic data simulations. Specifically, we detect and attribute tree-ring width (TRW) observations as a linear function of TRW simulations, which are themselves a nonlinear and multivariate TRW simulation driven with singly forced and cumulatively forced climate simulations for the period 1401–2000 CE. Temperature- and moisture-sensitive TRW simulations detect distinct patterns in time and space. Temperature-sensitive TRW observations and simulations are significantly correlated for Northern Hemisphere averages, and their variation is attributed to volcanic forcing. In decadally smoothed temporal fingerprints, we find the observed responses to be significantly larger and/or more persistent than the simulated responses. The pattern of simulated TRW of moisture-limited trees is consistent with the observed anomalies in the 2 years following major volcanic eruptions. We can for the first time attribute this spatiotemporal fingerprint in moisture-limited tree-ring records to volcanic forcing. These results suggest that the use of nonlinear and multivariate proxy system models in paleoclimatic detection and attribution studies may permit more realistic, spatially resolved and multivariate fingerprint detection studies and evaluation of the climate sensitivity to external radiative forcing than has previously been possible.",
+    "readLink": "https://cp.copernicus.org/articles/18/2583/2022/cp-18-2583-2022.pdf"
+  },
+  {
+    "title": "THE PREMISES OF FORMATION OF ECO-CONSCIOUS LITERATURE IN THE MEKONG DELTA IN SOUTHERN VIETNAM",
+    "authors": [
+      "Luong Thi Pham"
+    ],
+    "doi": "https://doi.org/10.35382/tvujs.12.49.2022.1396",
+    "journalVolume": "Vol. 12,\n                                no. 49\n                                \n                                  pp.\n                                  21\n                                  – 33",
+    "issn": "2815-6072 (Print)",
+    "publisher": "2815-6099 (Online)",
+    "countryOfPublisher": "AGRICULTURE PUBLISHING HOUSE (APH)",
+    "lcc": [
+      "Viet Nam",
+      "Science"
+    ],
+    "journalUrl": "http://journal.tvu.edu.vn/",
+    "abstract": "In the first twenty years of the twenty-first century, ecological literature in the Mekong Delta appeared in many works with typical genres such as poetry and short stories. Many writers and poets are concerned about the reality of the environment happening in the delta, so they have integrated and included issues with a clear ecological consciousness in their works. To answer the question of why eco-conscious literature appeared in the Mekong Delta, the article focuses on explaining the issues of natural, social, and cultural conditions and environmental changes. Ecology affects the sense and responsibility of the writer. Thereby, it shows that each region with different natural, cultural and social conditions has a more or less impact on the formation of literary characteristics in each region, especially for eco-conscious literature. A literary work expressing ecological consciousness often refers to environmental changes that have a negative impact on human life. The literary works relating to this issue mainly mention the consequences that people have suffered from climate change, soil, water, air, and flora or reveal people’s attitudes and feelings towards the situation they are witnessing. Therefore, the natural, cultural and social conditions and their changes directly affect the formation of a part of literature with ecological consciousness in this area.",
+    "readLink": "http://journal.tvu.edu.vn/index.php/journal/article/view/1396"
+  },
+  {
+    "title": "Summed Probability Distribution of 14C Dates Suggests Regional Divergences in the Population Dynamics of the Jomon Period in Eastern Japan.",
+    "authors": [
+      "Enrico R Crema,",
+      "Junko Habu,",
+      "Kenichi Kobayashi,",
+      "Marco Madella"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0154809",
+    "journalVolume": "Vol. 11,\n                                no. 4\n                                \n                                  p.\n                                  e0154809",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Recent advances in the use of summed probability distribution (SPD) of calibrated 14C dates have opened new possibilities for studying prehistoric demography. The degree of correlation between climate change and population dynamics can now be accurately quantified, and divergences in the demographic history of distinct geographic areas can be statistically assessed. Here we contribute to this research agenda by reconstructing the prehistoric population change of Jomon hunter-gatherers between 7,000 and 3,000 cal BP. We collected 1,433 14C dates from three different regions in Eastern Japan (Kanto, Aomori and Hokkaido) and established that the observed fluctuations in the SPDs were statistically significant. We also introduced a new non-parametric permutation test for comparing multiple sets of SPDs that highlights point of divergences in the population history of different geographic regions. Our analyses indicate a general rise-and-fall pattern shared by the three regions but also some key regional differences during the 6th millennium cal BP. The results confirm some of the patterns suggested by previous archaeological studies based on house and site counts but offer statistical significance and an absolute chronological framework that will enable future studies aiming to establish potential correlation with climatic changes.",
+    "readLink": "http://europepmc.org/articles/PMC4851332?pdf=render"
+  },
+  {
+    "title": "Performance Assessment of Two Different Phase Change Materials for Thermal Energy Storage in Building Envelopes",
+    "authors": [
+      "Ruta Vanaga,",
+      "Jānis Narbuts,",
+      "Ritvars Freimanis,",
+      "Zigmārs Zundāns,",
+      "Andra Blumberga"
+    ],
+    "doi": "https://doi.org/10.3390/en16135236",
+    "journalVolume": "Vol. 16,\n                                no. 5236\n                                \n                                  p.\n                                  5236",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "To meet the 2050 EU decarbonization goals, there is a need for new and innovative ideas to increase energy efficiency, which includes reducing the energy consumption of buildings and increasing the use of on-site renewable energy sources. One possible solution for achieving efficient thermal energy transition in the building sector is to assign new functionalities to the building envelope. The building envelope can function as a thermal energy storage system, which can help compensate for irregularities in solar energy availability. This can be accomplished by utilizing phase change materials as the energy storage medium in the building envelope. In this paper, two phase change materials with different melting temperatures of 21 °C and 28 °C are compared for their application in a dynamic solar building envelope. Both experimental and numerical studies were conducted within the scope of this study. The laboratory testing involved simulating the conditions of the four seasons through steady-state and dynamic experiments. The performance of the phase change materials was evaluated using a small-scale PASLINK test stand that imitates indoor and outdoor conditions. A numerical model of a small-scale building envelope was created using data from laboratory tests. The purpose of this model was to investigate how the tested phase change materials perform under different climate conditions. The experimental findings show that RT21HC is better at storing thermal energy in the PCM and releasing it into the indoor area than RT28HC. On the other hand, the numerical simulation results demonstrate that RT28HC has an advantage in terms of thermal storage capacity in climates found in Southern Europe, as it prevents overheating of the room.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/13/5236"
+  },
+  {
+    "title": "Glacier Ice Thickness Estimation and Future Lake Formation in Swiss Southwestern Alps—The Upper Rhône Catchment: A VOLTA Application",
+    "authors": [
+      "Saeideh Gharehchahi,",
+      "William  H. M. James,",
+      "Anshuman Bhardwaj,",
+      "Jennifer  L. R. Jensen,",
+      "Lydia Sam,",
+      "Thomas  J. Ballinger,",
+      "David  R. Butler"
+    ],
+    "doi": "https://doi.org/10.3390/rs12203443",
+    "journalVolume": "Vol. 12,\n                                no. 3443\n                                \n                                  p.\n                                  3443",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Glacial lake formations are currently being observed in the majority of glacierized mountains in the world. Given the ongoing climate change and population increase, studying glacier ice thickness and bed topography is a necessity for understanding the erosive power of glacier activity in the past and lake formation in the future. This study uses the available information to predict potential sites for future lake formation in the Upper Rhône catchment located in the Southwestern Swiss Alps. The study integrates the latest available glacier outlines and high-quality digital elevation models (DEMs) into the Volume and Topography Automation (VOLTA) model to estimate ice thickness within the extent of the glacier. Unlike the previous ice thickness models, VOLTA calculates ice thickness distribution based on automatically-derived centerlines, while optimizing the model by including the valley side drag parameter in the force equation. In this study, a total ice volume of 37.17 ± 12.26 km3 (1σ) was estimated for the Upper Rhône catchment. The comparison of VOLTA performance indicates a stronger relationship between measured and predicted bedrock, confirming the less variability in VOLTA’s results (r2 ≈ 0.92) versus Glacier Bed Topography (GlabTop) (r2 ≈ 0.82). Overall, the mean percentage of ice thickness error for all measured profiles in the Upper Rhône catchment is around ±22%, of which 28 out of 42 glaciers are underestimated. By incorporating the vertical accuracy of free-ice DEM, we could identify 171 overdeepenings. Among them, 100 sites have a high potential for future lake formation based on four morphological criteria. The visual evaluation of deglaciated areas also supports the robustness of the presented methodology, as 11 water bodies were already formed within the predicted overdeepenings. In the wake of changing global climate, such results highlight the importance of combined datasets and parameters for projecting the future glacial landscapes. The timely information on future glacial lake formation can equip planners with essential knowledge, not only for managing water resources and hazards, but also for understanding glacier dynamics, catchment ecology, and landscape evolution of high-mountain regions.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/20/3443"
+  },
+  {
+    "title": "A Scientometrics Review on Farmland Abandonment Research",
+    "authors": [
+      "Yingqian Huang,",
+      "Fengqin Li,",
+      "Hualin Xie"
+    ],
+    "doi": "https://doi.org/10.3390/land9080263",
+    "journalVolume": "Vol. 9,\n                                no. 263\n                                \n                                  p.\n                                  263",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Using the Web of Science database, 1498 research articles published between 1900 and 2019 on the subject of farmland abandonment were retrieved. With the help of the SciMAT tool, a theme strategic diagram, overlay map and evolution map represented by keywords were constructed, and the strategic coordinate analysis and data flow analysis methods were used to analyze the research themes, evolutionary states and paths of farmland abandonment in different research time periods. The results show the following: (1) Research on farmland abandonment has rapidly grown in the past ten years, the development of studies on farmland abandonment has become more mature, and the research topics and content have tended to solidify; (2) The research topics of studies on farmland abandonment are mostly centered on forests, patterns, landscapes, land use changes, climate change, etc. The research topics have had strong continuity and few new research hotspots; (3) The study of the ecological environment effect of farmland abandonment is the basic research direction in the field of farmland abandonment and will continue to become a research hotspot; (4) Farmland abandonment has become an important part of the research on land use change and ecosystem processes; (5) The driving force of farmland abandonment includes natural, social and economic factors, among which the socioeconomic factors are the most important driving force, and will continue to be a research hotspot. Finally, this study concludes that the research directions on farmland abandonment in future should strengthen the quantitative assessment of environmental effects of farmland abandonment, information extraction and multiscale simulation monitoring, trend prediction and risk assessment.",
+    "readLink": "https://www.mdpi.com/2073-445X/9/8/263"
+  },
+  {
+    "title": "MAIZE INDEX INSURANCE AND MANAGEMENT OF CLIMATE CHANGE IN A DEVELOPING ECONOMY",
+    "authors": [
+      "B. W. Mazviona"
+    ],
+    "doi": "https://doi.org/10.17747/2618-947X-2021-4-299-305",
+    "journalVolume": "Vol. 12,\n                                no. 4\n                                \n                                  pp.\n                                  299\n                                  – 305",
+    "issn": "2618-947X (Print)",
+    "publisher": "2618-9984 (Online)",
+    "countryOfPublisher": "Real Economics Publishing House",
+    "lcc": [
+      "Russian Federation",
+      "Social Sciences: Industries. Land use. Labor: Management. Industrial management: Risk in industry. Risk management"
+    ],
+    "journalUrl": "http://www.jsdrm.ru",
+    "abstract": "This study provides an evaluation of the effectiveness of the maize index insurance in reducing the risk exposure of small-scale farmers in Zimbabwe. Maize yields and rainfall data for the period 2010–2019 farming season were obtained from AGRITEXT and the NASA website. The Black-Scholes optional pricing framework was applied to estimate the prices of the maize index insurance. The mean root square loss (MRSL) was evaluated for the case where there is no insurance and where there is insurance. MRSL was compared for the two scenarios. The index insurance was found to be efficient in risk reduction as positive changes in MRSL were observed.",
+    "readLink": "https://www.jsdrm.ru/jour/article/view/979"
+  },
+  {
+    "title": "Characteristics of soil profile CO<sub>2</sub> concentrations in karst areas and their significance for global carbon  cycles and climate change",
+    "authors": [
+      "Q. Chen"
+    ],
+    "doi": "https://doi.org/10.5194/esd-10-525-2019",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  525\n                                  – 538",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "CO2 concentrations of 21 soil profiles were measured in Zhaotong City, Yunnan Province. The varying characteristics of soil profile CO2 concentrations are distinguishable between carbonate and noncarbonate areas. In noncarbonate areas, soil profile CO2 concentrations increase and show significant positive correlations with soil depth. In carbonate areas, however, deep-soil CO2 concentrations decrease and have no significant correlations with soil depth. Soil organic carbon is negatively correlated with soil CO2 concentrations in noncarbonate areas. In carbonate areas, such relationships are not clear. This means that the special geological process in carbonate areas – carbonate corrosion – absorbs part of the deep-soil-profile CO2. Isotope and soil pH data also support such a process. A mathematical model simulating soil profile CO2 concentration was proposed. In noncarbonate areas, the measured and the simulated values are almost equal, while the measured CO2 concentrations of deep soils are less than the simulated in carbonate areas. Such results also indicate the occurrence of carbonate corrosion and the consuming of deep-soil CO2 in carbonate areas. The decreased CO2 concentration was roughly evaluated based on stratigraphic unit and farming activities. Soil pH and the purity of CaCO3 in carbonate bedrock deeply affect the corrosion. The corrosion in carbonate areas decreases deep-soil CO2 greatly (accounting for 5.2 %–66.3 % with average of 36 %) and naturally affects the soil CO2 released into the atmosphere. Knowledge of this process is important for karst carbon cycles and global climate changes and it may be a part of the “missing carbon sink”.",
+    "readLink": "https://www.earth-syst-dynam.net/10/525/2019/esd-10-525-2019.pdf"
+  }
+]

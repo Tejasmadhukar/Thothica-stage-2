@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Exploring the Best-Matching Plant Traits and Environmental Factors for Vegetation Indices in Estimates of Global Gross Primary Productivity",
+    "authors": [
+      "Weiqing Zhao,",
+      "Zaichun Zhu"
+    ],
+    "doi": "https://doi.org/10.3390/rs14246316",
+    "journalVolume": "Vol. 14,\n                                no. 6316\n                                \n                                  p.\n                                  6316",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "As the largest source of uncertainty in carbon cycle studies, accurate quantification of gross primary productivity (GPP) is critical for the global carbon budget in the context of global climate change. Numerous vegetation indices (VIs) based on satellite data have participated in the construction of GPP models. However, the relative performance of various VIs in predicting GPP and what additional factors should be combined with them to reveal the photosynthetic capacity of vegetation mechanistically better are still poorly understood. We constructed two types of models (universal and plant functional type [PFT]-specific) for solar-induced chlorophyll fluorescence (SIF), near-infrared reflectance of vegetation (NIRv), and Leaf Area Index (LAI) based on two widely used machine learning algorithms, i.e., the random forest (RF) and back propagation neural network (BPNN) algorithms. A total of thirty plant traits and environmental factors with legacy effects are considered in the model. We then systematically investigated the ancillary variables that best match each vegetation index in estimating global GPP. Four types of models (universal and PFT-specific, RF and BPNN) consistently show that SIF performs best when modeled using a single vegetation index (R2 = 0.67, RMSE = 2.24 g C·m−2·d−1); however, NIRv combined with CO2, plant traits, and climatic factors can achieve the highest prediction accuracy (R2 = 0.87, RMSE = 1.40 g C·m−2·d−1). Plant traits effectively enhance all prediction models’ accuracy, and climatic variables are essential factors in improving the accuracy of NIRv- or LAI-based GPP models, but not the accuracy of SIF-based models. Our findings provide valuable information for the configuration of the data-driven models to improve the accuracy of predicting GPP and provide insights into the physiological and ecological mechanisms underpinning GPP prediction.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/24/6316"
+  },
+  {
+    "title": "Heat remains unaccounted for in thermal physiology and climate change research [version 2; referees: 2 approved]",
+    "authors": [
+      "Andreas D. Flouris,",
+      "Glen P. Kenny"
+    ],
+    "doi": "https://doi.org/10.12688/f1000research.10554.2",
+    "journalVolume": "Vol. 6",
+    "issn": "2046-1402 (Online)",
+    "publisher": "F1000 Research Ltd",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://f1000research.com",
+    "abstract": "In the aftermath of the Paris Agreement, there is a crucial need for scientists in both thermal physiology and climate change research to develop the integrated approaches necessary to evaluate the health, economic, technological, social, and cultural impacts of 1.5°C warming. Our aim was to explore the fidelity of remote temperature measurements for quantitatively identifying the continuous redistribution of heat within both the Earth and the human body. Not accounting for the regional distribution of warming and heat storage patterns can undermine the results of thermal physiology and climate change research. These concepts are discussed herein using two parallel examples: the so-called slowdown of the Earth’s surface temperature warming in the period 1998-2013; and the controversial results in thermal physiology, arising from relying heavily on core temperature measurements. In total, the concept of heat is of major importance for the integrity of systems, such as the Earth and human body. At present, our understanding about the interplay of key factors modulating the heat distribution on the surface of the Earth and in the human body remains incomplete. Identifying and accounting for the interconnections among these factors will be instrumental in improving the accuracy of both climate models and health guidelines.",
+    "readLink": "https://f1000research.com/articles/6-221/v2"
+  },
+  {
+    "title": "The Fundamental Contribution of Phytoplankton Spectral Scattering to Ocean Colour: Implications for Satellite Detection of Phytoplankton Community Structure",
+    "authors": [
+      "Lisl  Robertson Lain,",
+      "Stewart Bernard"
+    ],
+    "doi": "https://doi.org/10.3390/app8122681",
+    "journalVolume": "Vol. 8,\n                                no. 12\n                                \n                                  p.\n                                  2681",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "There is increasing interdisciplinary interest in phytoplankton community dynamics as the growing environmental problems of water quality (particularly eutrophication) and climate change demand attention. This has led to a pressing need for improved biophysical and causal understanding of Phytoplankton Functional Type (PFT) optical signals, in order for satellite radiometry to be used to detect ecologically relevant phytoplankton assemblage changes. Biophysically and biogeochemically consistent phytoplankton Inherent Optical Property (IOP) models play an important role in achieving this understanding, as the optical effects of phytoplankton assemblage changes can be examined systematically in relation to the bulk optical water-leaving signal. The Equivalent Algal Populations (EAP) model is used here to investigate the source and magnitude of size- and pigment- driven PFT signals in the water-leaving reflectance, as well as the potential to detect these using satellite radiometry. This model places emphasis on the determination of biophysically consistent phytoplankton IOPs, with both absorption and scattering determined by mathematically cogent relationships to the particle complex refractive indices. All IOPs are integrated over an entire size distribution. A distinctive attribute is the model’s comprehensive handling of the spectral and angular character of phytoplankton scattering. Selected case studies and sensitivity analyses reveal that phytoplankton spectral scattering is most useful and the least ambiguous driver of the PFT signal. Key findings are that there is the most sensitivity in phytoplankton backscatter ( b b ϕ ) in the 1⁻6 μ m size range; the backscattering-driven signal in the 520 to 570 nm region is the critical PFT identifier at marginal biomass, and that, while PFT information does appear at blue wavelengths, absorption-driven signals are compromised by ambiguity due to biomass and non-algal absorption. Low signal in the red, due primarily to absorption by water, inhibits PFT detection here. The study highlights the need to quantitatively understand the constraints imposed by phytoplankton biomass and the IOP budget on the assemblage-related signal. A proportional phytoplankton contribution of approximately 40% to the total b b appears to a reasonable minimum threshold in terms of yielding a detectable optical change in R r s . We hope these findings will provide considerable insight into the next generation of PFT algorithms.",
+    "readLink": "https://www.mdpi.com/2076-3417/8/12/2681"
+  },
+  {
+    "title": "The Typewriter Under the Bed: Introducing Digital Humanities through Banned Books and Endangered Knowledge",
+    "authors": [
+      "Alexandra Bolintineanu,",
+      "Jaya Thirugnanasampanthan"
+    ],
+    "doi": "https://doi.org/10.5334/kula.30",
+    "journalVolume": "Vol. 2,\n                                no. 1",
+    "issn": "2398-4112 (Online)",
+    "publisher": "University of Victoria Libraries",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Bibliography. Library science. Information resources"
+    ],
+    "journalUrl": "https://kula.uvic.ca/",
+    "abstract": "In 2017, I taught an Introduction to Digital Humanities course for undergraduate students at the University of Toronto. The course’s unifying theme was banned books. What moved me to focus the course in this way was the illegal typewriter that lived under my childhood bed: I grew up in formerly communist Eastern Europe, where typewriters were tightly controlled by the government. Yet my family owned an illegal, unregistered typewriter, hidden under my bed behind the off-season clothes, because they saw the ability to write and disseminate one’s thoughts as a technology of survival. In the Intro to DH course, students explored the intellectual landscape of the digital humanities by thinking about banned books throughout history. They examined early printed books of astronomy; early printed books of the lives of saints; illicitly typewritten and photographed Soviet 'samizdat'; endangered climate change research data rescued by the Internet Archive; and American Library Association data about banned and challenged books for children and young adults. This article reflects on using the lens of banned books and endangered knowledge to focus an Introduction to DH course and encourage students to interrogate critically how a variety of technologies—from codex to printing press to typewriter to the internet—create, transmit, preserve, and repress knowledge and cultural memory.",
+    "readLink": "httpss://kula.uvic.ca/articles/30"
+  },
+  {
+    "title": "How does bias correction of regional climate model precipitation affect modelled runoff?",
+    "authors": [
+      "J. Teng,",
+      "N. J. Potter,",
+      "F. H. S. Chiew,",
+      "L. Zhang,",
+      "B. Wang,",
+      "J. Vaze,",
+      "J. P. Evans"
+    ],
+    "doi": "https://doi.org/10.5194/hess-19-711-2015",
+    "journalVolume": "Vol. 19,\n                                no. 2\n                                \n                                  pp.\n                                  711\n                                  – 728",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Many studies bias correct daily precipitation from climate models to match the observed precipitation statistics, and the bias corrected data are then used for various modelling applications. This paper presents a review of recent methods used to bias correct precipitation from regional climate models (RCMs). The paper then assesses four bias correction methods applied to the weather research and forecasting (WRF) model simulated precipitation, and the follow-on impact on modelled runoff for eight catchments in southeast Australia. Overall, the best results are produced by either quantile mapping or a newly proposed two-state gamma distribution mapping method. However, the differences between the methods are small in the modelling experiments here (and as reported in the literature), mainly due to the substantial corrections required and inconsistent errors over time (non-stationarity). The errors in bias corrected precipitation are typically amplified in modelled runoff. The tested methods cannot overcome limitations of the RCM in simulating precipitation sequence, which affects runoff generation. Results further show that whereas bias correction does not seem to alter change signals in precipitation means, it can introduce additional uncertainty to change signals in high precipitation amounts and, consequently, in runoff. Future climate change impact studies need to take this into account when deciding whether to use raw or bias corrected RCM results. Nevertheless, RCMs will continue to improve and will become increasingly useful for hydrological applications as the bias in RCM simulations reduces.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/19/711/2015/hess-19-711-2015.pdf"
+  },
+  {
+    "title": "Biobased polymers from lignocellulosic sources",
+    "authors": [
+      "Rachele N. Carafa,",
+      "Daniel A. Foucher,",
+      "Guerino G. Sacripante"
+    ],
+    "doi": "https://doi.org/10.1080/17518253.2022.2153087",
+    "journalVolume": "Vol. 16,\n                                no. 1",
+    "issn": "1751-8253 (Print)",
+    "publisher": "1751-7192 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgcl",
+    "abstract": "ABSTRACTThe ongoing threat of global warming has resulted in numerous attempts to reduce greenhouse gas emissions and impede its ramifications. Replacing fossil fuels in products with renewable biobased materials is currently one approach to tackle the climate change crisis. Lignocellulose is the most abundant natural biomass source and is a potential candidate to replace the non-renewable resources currently made with petroleum-based products. Cellulose, hemicellulose, and lignin, which together make up lignocellulose, are all suitable choices for the creation of biobased materials. This review aims to highlight some of the recent efforts towards synthesizing renewable biobased polymers from raw lignocellulose, as well as refined cellulose, hemicellulose, and lignin sources while identifying some of the current applications to which they are suited.",
+    "readLink": "https://www.tandfonline.com/doi/10.1080/17518253.2022.2153087"
+  },
+  {
+    "title": "Incorporating protected areas into global fish biomass projections under climate change",
+    "authors": [
+      "Juliano Palacios-Abrantes,",
+      "Sarah M. Roberts,",
+      "Talya ten Brink,",
+      "Tim Cashion,",
+      "William W.L. Cheung,",
+      "Anne Mook,",
+      "Tu Nguyen"
+    ],
+    "doi": "https://doi.org/10.1139/facets-2022-0101",
+    "journalVolume": "Vol. 8\n                                \n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "2371-1671 (Online)",
+    "publisher": "Canadian Science Publishing",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Education",
+      "Science"
+    ],
+    "journalUrl": "http://www.facetsjournal.com/",
+    "abstract": "The world has set ambitious goals to protect marine biodiversity and improve ocean health in the face of anthropogenic threats. Yet, the efficiency of spatial tools such as marine reserves to protect biodiversity is threatened as climate change shifts species distributions globally. Here, we investigate the ability of global marine reserves to protect fish biomass under future climate change scenarios. Moreover, we explore regional patterns and compare worlds with and without marine reserves. We rely on computer modeling to simulate an utopian world where all marine reserves thrive and ocean governance is effective. Results suggest that climate change will affect fish biomass in most marine reserves and their surrounding waters throughout the 21st century. The biomass change varies among regions, with tropical reserves losing biomass, temperate ones gaining, and polar reserves having mixed effects. Overall, a world with marine reserves will still be better off in terms of fish biomass than a world without marine reserves. Our study highlights the need to promote climate resilient conservation methods if we are to maintain and recover biodiversity in the ocean under a changing world.",
+    "readLink": "https://facetsjournal.com/doi/10.1139/facets-2022-0101"
+  },
+  {
+    "title": "Tra Vinh University and strategies heading to green campus",
+    "authors": [
+      "Thi Mai Khanh Nguyen"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/20184805006",
+    "journalVolume": "Vol. 48\n                                \n                                \n                                  p.\n                                  05006",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Tra Vinh University (TVU), the only university in the province for developing labour force in Tra Vinh. This article is to share the strategies that Tra Vinh University used to make the university become green. Being aware that environtment and climate change are issues should be concern as its impact to human life, Tra Vinh University identidied green campus is one of the mission that have to be done along with the development of the university. Different strategies have been applied and bring Tra Vinh University significant affect in terms of energy saving and green activities through the university curriculum, green projects and environment tracking in different aspesct. One of the environment issues that has been carried out frequently is waste water from daily activities and laboratories. The waste water is check physically and via database from the labs in different time of the year. The positive result from the test gives good signals to TVU’s green target.",
+    "readLink": "https://doi.org/10.1051/e3sconf/20184805006"
+  },
+  {
+    "title": "Coupled modelling of hydrological processes and grassland production in two contrasting climates",
+    "authors": [
+      "N. Jarvis,",
+      "J. Groh,",
+      "J. Groh,",
+      "E. Lewan,",
+      "K. H. E. Meurer,",
+      "W. Durka,",
+      "C. Baessler,",
+      "T. Pütz,",
+      "E. Rufullayev,",
+      "H. Vereecken"
+    ],
+    "doi": "https://doi.org/10.5194/hess-26-2277-2022",
+    "journalVolume": "Vol. 26\n                                \n                                \n                                  pp.\n                                  2277\n                                  – 2299",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Projections of global climate models suggest that ongoing human-induced climate change will lead to an increase in the frequency of severe droughts in many important agricultural regions of the world. Eco-hydrological models that integrate current understanding of the interacting processes governing soil water balance and plant growth may be useful tools to predict the impacts of climate change on crop production. However, the validation status of these models for making predictions under climate change is still unclear, since few suitable datasets are available for model testing. One promising approach is to test models using data obtained in “space-for-time” substitution experiments, in which samples are transferred among locations with contrasting current climates in order to mimic future climatic conditions. An important advantage of this approach is that the soil type is the same, so that differences in soil properties are not confounded with the influence of climate on water balance and crop growth. In this study, we evaluate the capability of a relatively simple eco-hydrological model to reproduce 6 years (2013–2018) of measurements of soil water contents, water balance components and grass production made in weighing lysimeters located at two sites within the TERENO-SoilCan network in Germany. Three lysimeters are located at an upland site at Rollesbroich with a cool, wet climate, while three others had been moved from Rollesbroich to a warmer and drier climate on the lower Rhine valley floodplain at Selhausen. Four of the most sensitive parameters in the model were treated as uncertain within the framework of the GLUE (generalized likelihood uncertainty estimation) methodology, while the remaining parameters in the model were set according to site measurements or data in the literature. The model satisfactorily reproduced the measurements at both sites, and some significant differences in the posterior ranges of the four uncertain parameters were found. In particular, the results indicated greater stomatal conductance as well an increase in dry-matter allocation below ground and a significantly larger maximum root depth for the three lysimeters that had been moved to Selhausen. As a consequence, the apparent water use efficiency (above-ground harvest divided by evapotranspiration) was significantly smaller at Selhausen than Rollesbroich. Data on species abundance on the lysimeters provide one possible explanation for the differences in the plant traits at the two sites derived from model calibration. These observations showed that the plant community at Selhausen had changed significantly in response to the drier climate, with a significant decrease in the abundance of herbs and an increase in the proportion of grass species. The differences in root depth and leaf conductance may also be a consequence of plasticity or acclimation at the species level. Regardless of the reason, we may conclude that such adaptations introduce significant additional uncertainties into model predictions of water balance and plant growth in response to climate change.",
+    "readLink": "https://hess.copernicus.org/articles/26/2277/2022/hess-26-2277-2022.pdf"
+  },
+  {
+    "title": "Current trends of global economic development and features of the regionalization processes of investment policy in the countries with market economy",
+    "authors": [
+      "Yevhenii Kostyk"
+    ],
+    "doi": "no. 32/1\n                                \n                                  pp.\n                                  156\n                                  – 168",
+    "issn": "2306-546X (Print)",
+    "publisher": "2414-3774 (Online)",
+    "countryOfPublisher": "Hryhorii Skovoroda University in Pereiaslav",
+    "lcc": [
+      "Ukraine",
+      "Social Sciences: Industries. Land use. Labor: Economic growth, development, planning",
+      "Social Sciences: Economic theory. Demography: Economics as a science"
+    ],
+    "journalUrl": "https://economic-bulletin.com/index.php/journal",
+    "abstract": "The subject of research is global economic development and features of the regionalization processes of investment policy in the countries with market economy. The purpose of research is to study the current trends of global economic development and features of the regionalization processes of investment policy in the countries with market economy. Research methods. The methods of abstraction, analysis and synthesis, systematization and generalization were used for definition the conceptual apparatus and the content of the assessment, foundation criteria and indices, classification directions and methods of assessment. Methodology of scientific research is the main principles of the economic theory, world and regional economy in spere investment policy; the works of domestic and foreign scientists and practitioners in this field. The results of scientific research. In the context of the issue we have tried to show up the current trends of global economic development and features of the regionalization processes of investment policy in the countries with market economy. Practical implications. The results of this research can be applied in the study of issues of international and regional economy. Conclusions. Thus, we can assert that the basic projection for the global economy points to accelerate its growth, particularly in the countries with advanced economy. However, the projection can be unachieved, as a result of lowering its growth in recent years. This situation is also typical for the investments. Thus, despite the fact that global flows of foreign direct investment in recent years has increased, but this increase has not led to commensurate expansion of productive capacity in all countries. It is alarming the world’s needs for investments related to newly adopted Objectives of sustainable development and large-scale actions that are outlined in the Paris Agreement on Climate Change.",
+    "readLink": "https://economic-bulletin.com/index.php/journal/article/view/310"
+  }
+]

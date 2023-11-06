@@ -1,0 +1,245 @@
+[
+  {
+    "title": "Resistance strategies of Phragmites australis (common reed) to Pb pollution in flood and drought conditions",
+    "authors": [
+      "Na Zhang,",
+      "Jinwei Zhang,",
+      "Zhiqiang Li,",
+      "Jing Chen,",
+      "Zhenhua Zhang,",
+      "Chunsheng Mu"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.4188",
+    "journalVolume": "Vol. 6\n                                \n                                \n                                  p.\n                                  e4188",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Resistance strategies of clonal organs, and parent and offspring shoots of Phragmites australis (common reed) to heavy metal pollution in soils are not well known. To clarify the tolerance or resistance strategies in reeds, we conducted a pot experiment with five levels of Pb concentration (0∼4,500 mg kg−1) in flood and drought conditions. Lead toxicity had no inhibitory effect on the number of offspring shoots in flood environment; however, biomass accumulation, and photosynthetic and clonal growth parameters were inhibited in both water environment. At each treatment of Pb concentration, offspring shoots had greater biomass and higher photosynthesis indicators than parent shoots. The lowest Pb allocation was found in rhizomes. More of the Pb transported to above-ground parts tended to accumulate in parent shoots rather than in offspring shoots. Biomass and photosynthesis of offspring shoots, rhizome length, and the number of buds, rhizomes and offspring shoots in the flooded treatment were significantly greater than those in the drought treatment. Our results indicated that the tolerance strategies used by reeds, including higher biomass accumulation and photosynthesis in offspring shoots, low allocation of Pb in rhizomes and offspring shoots, and stable clonal growth, maintained the stability of population propagation and productivity, improving the resistance of reeds to Pb pollution in flood environment. However, the resistance or tolerance was significantly reduced by the synergistic effect of Pb and drought, which significantly inhibited biomass accumulation, photosynthesis, and clonal growth of reeds.",
+    "readLink": "https://peerj.com/articles/4188.pdf"
+  },
+  {
+    "title": "The DOE E3SM v1.1 Biogeochemistry Configuration: Description and Simulated Ecosystem‐Climate Responses to Historical Changes in Forcing",
+    "authors": [
+      "S. M. Burrows,",
+      "M. Maltrud,",
+      "X. Yang,",
+      "Q. Zhu,",
+      "N. Jeffery,",
+      "X. Shi,",
+      "D. Ricciuto,",
+      "S. Wang,",
+      "G. Bisht,",
+      "J. Tang,",
+      "J. Wolfe,",
+      "B. E. Harrop,",
+      "B. Singh,",
+      "L. Brent,",
+      "S. Baldwin,",
+      "T. Zhou,",
+      "P. Cameron‐Smith,",
+      "N. Keen,",
+      "N. Collier,",
+      "M. Xu,",
+      "E. C. Hunke,",
+      "S. M. Elliott,",
+      "A. K. Turner,",
+      "H. Li,",
+      "H. Wang,",
+      "J.‐C. Golaz,",
+      "B. Bond‐Lamberty,",
+      "F. M. Hoffman,",
+      "W. J. Riley,",
+      "P. E. Thornton,",
+      "K. Calvin,",
+      "L. R. Leung"
+    ],
+    "doi": "https://doi.org/10.1029/2019MS001766",
+    "journalVolume": "Vol. 12,\n                                no. 9\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "1942-2466 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1942-2466/",
+    "abstract": "Abstract This paper documents the biogeochemistry configuration of the Energy Exascale Earth System Model (E3SM), E3SMv1.1‐BGC. The model simulates historical carbon cycle dynamics, including carbon losses predicted in response to land use and land cover change, and the responses of the carbon cycle to changes in climate. In addition, we introduce several innovations in the treatment of soil nutrient limitation mechanisms, including explicit dependence on phosphorus availability. The suite of simulations described here includes E3SM contributions to the Coupled Climate‐Carbon Cycle Model Intercomparison Project and other projects, as well as simulations to explore the impacts of structural uncertainty in representations of nitrogen and phosphorus limitation. We describe the model spin‐up and evaluation procedures, provide an overview of results from the simulation campaign, and highlight key features of the simulations. Cumulative warming over the twentieth century is similar to observations, with a midcentury cold bias offset by stronger warming in recent decades. Ocean biomass production and carbon uptake are underpredicted, likely due to biases in ocean transport leading to widespread anoxia and undersupply of nutrients to surface waters. The inclusion of nutrient limitations in the land biogeochemistry results in weaker carbon fertilization and carbon‐climate feedbacks than exhibited by other Earth System Models that exclude those limitations. Finally, we compare with an alternative representation of terrestrial biogeochemistry, which differs in structure and in initialization of soil phosphorus. While both configurations agree well with observational benchmarks, they differ significantly in their distribution of carbon among different pools and in the strength of nutrient limitations.",
+    "readLink": "https://doi.org/10.1029/2019MS001766"
+  },
+  {
+    "title": "Evaluating methods to map burned area at 30-meter resolution in forests and agricultural areas of Central India",
+    "authors": [
+      "Abhinav Chandel,",
+      "Wajida Sarwat,",
+      "Abdul Najah,",
+      "Sujay Dhanagare,",
+      "Meghna Agarwala,",
+      "Meghna Agarwala"
+    ],
+    "doi": "https://doi.org/10.3389/ffgc.2022.933807",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-893X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Forestry",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/forests-and-global-change#",
+    "abstract": "Biomass burning is a major phenomenon that plays an important role in small-scale ecological processes such as vegetation dynamics and soil erosion, and global processes such as hydrological cycles and climate change. However, global fire databases have low accuracies for burned area detection in areas with small fires, low biomass and in woodlands and open forests that characterize Central India. The present study uses higher resolution (30 meter) Landsat imagery to test accuracies for burned area detection using spectral indices (SI), machine learning (ML) algorithms and supervised classification. We find that detection of burned area by global fire product Fire Information for Resource Management System (FIRMS) is very low (<20%). Accuracies are higher for Landsat-based classification of burned area using supervised classification, random forest (RF) and Support Vector Machines (SVM). Accuracies are higher in April–May than in February–March and vary by azimuth angle on the day of image acquisition. RF produced the most consistently high classification accuracies for April (>80%), but had a tendency to misclassify less frequently available land covers; SVM had similar classification accuracies but had a tendency to overfit the model. Both lead to the potential for increasing commission errors and need to be used carefully when predicting burned area. Inclusion of SI had high relative importance in predicting burned area and reduced commission errors. Given these caveats, we recommend using ML algorithms for mapping burned area in the future, as it requires less time investment than classification and can yield consistent results. Accurate mapping of high-resolution fires is important for more accurate inputs into carbon inventories and ecological understanding of land-use dynamics and drivers.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/ffgc.2022.933807/full"
+  },
+  {
+    "title": "Integrating Solar Energy and Nature-Based Solutions for Climate-Neutral Urban Environments",
+    "authors": [
+      "Hai-Ying Liu,",
+      "Nikolaos Skandalos,",
+      "Liga Braslina,",
+      "Vasileios Kapsalis,",
+      "Dimitris Karamanis"
+    ],
+    "doi": "https://doi.org/10.3390/solar3030022",
+    "journalVolume": "Vol. 3,\n                                no. 22\n                                \n                                  pp.\n                                  382\n                                  – 415",
+    "issn": "2673-9941 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Production of electric energy or power. Powerplants. Central stations"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/solar",
+    "abstract": "This study focuses on achieving climate neutrality in European cities by integrating solar energy technologies and nature-based solutions. Through an examination of current practices, emerging trends, and case examples, the study explores the benefits, challenges, and prospects associated with this integration in urban contexts. A pioneering approach is presented to assess the urban heat and climate change mitigation benefits of combining building-integrated photovoltaics and nature-based solutions within the European context. The results highlight the synergistic relationship between nature-based components and solar conversion technology, identifying effective combinations for different climatic zones. In Southern Europe, strategies such as rooftop photovoltaics on cool roofs, photovoltaic shadings, green walls, and urban trees have demonstrated effectiveness in warmer regions. Conversely, mid- and high-latitude European cities have seen positive impacts through the integration of rooftop photovoltaics and photovoltaic facades with green roofs and green spaces. As solar cell conversion efficiency improves, the environmental impact of photovoltaics is expected to decrease, facilitating their integration into urban environments. The study emphasizes the importance of incorporating water bodies, cool pavements, spaces with high sky-view factors, and effective planning in urban design to maximize resilience benefits. Additionally, the study highlights the significance of prioritizing mitigation actions in low-income regions and engaging citizens in the development of social photovoltaics-positive energy houses, resilient neighbourhoods, and green spaces. By adopting these recommendations, European cities can create climate-neutral urban environments that prioritize clean energy, nature-based solutions, and the overall wellbeing of residents. The findings underscore the need for a multidisciplinary approach combining technological innovation, urban planning strategies, and policy frameworks to effectively achieve climate neutrality.",
+    "readLink": "https://www.mdpi.com/2673-9941/3/3/22"
+  },
+  {
+    "title": "Using Land to Promote Refugee Self-Reliance in Uganda",
+    "authors": [
+      "Timothy Berke,",
+      "Larissa Larsen"
+    ],
+    "doi": "https://doi.org/10.3390/land11030410",
+    "journalVolume": "Vol. 11,\n                                no. 410\n                                \n                                  p.\n                                  410",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Around the world, the number of people displaced from their homes continues to increase due to political conflict and climate change. The Ugandan government’s policy for settling refugees shifts the focus from seeing refugees as humanitarian obligations to recognizing that refugee settlements bring improved services and infrastructure that can serve both refugees and residents of the host communities. A key aspect of this policy is to provide refugees with land use rights, so they are able to achieve “self-reliance”. This research investigates (1) the role of planning in establishing the physical layout of Bidi Bidi, Uganda’s largest integrated settlement, (2) the host community’s rationale for allowing refugees access to their land, and (3) how refugees used this land. Based on interviews, participant observation, GIS analysis, and document analysis, we learned how refugees altered the settlement’s layout to better meet their needs, the unintended consequences of large- scale deforestation on the most vulnerable, and the limitations of the land-based approach to achieve self-reliance. These findings suggest expanding the avenues to achieve self-reliance, improving “integration” of service provision between refugees and residents of the host community, and protecting the area’s environment to maintain needed resources.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/3/410"
+  },
+  {
+    "title": "Dead end for endemic plant species? A biodiversity hotspot under pressure",
+    "authors": [
+      "Yohannes O. Kidane,",
+      "Manuel Jonas Steinbauer,",
+      "Carl Beierkuhnlein"
+    ],
+    "doi": "Vol. 19",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Tropical high mountains are hosting important hot spots of biodiversity on small mostly remote areas. Recently, these precious ecosystems are under threat from land use change and climate change coupled with other local drivers of biodiversity loss. Along the East African Afroalpine ecosystems, area above the treeline have experienced long-term spatial isolation and extreme climatic conditions (climatic factors such as low mean temperature, diurnal freeze-thaw cycles and other energy-related factors) which lead to the formation of “Sky Island” like ecosystems that are rich in endemics and unique. The Bale Mountains of Ethiopia are home to the largest tropical alpine plateau in Africa, with no spacious high summits that provide space for upward shift of species. Here, we studied plant species diversity and distribution patterns and tested potential future impacts of climate change induced warming on those patterns. This study is based on distribution data acquired from nested circular plots along an elevational gradient ranging from 2000m asl to the highest elevation (4385 m asl). We find hump shaped species richness patterns on both aspects, i.e. the dry north-eastern and the wet monsoon exposed south-western escarpment. In addition, the proportion of endemic species increases monotonically towards the summit on all slopes. Based on our data and literature, we project future climate impact for three regional warming scenarios (+2 °C, + 3 °C and + 4 °C). We quantify the future range of 114 endemic plant species based on their current occurrence records applying a lapse rate of 0.6 °C per 100 m of elevation. We find that future climate change would significantly alter species distribution patterns with pronounced impact on the unique ecosystems and endemic species restricted to the afroalpine plateau. Very likely this will be leading to the extinction of many endemic species. Keywords: Elevational gradients, Tropical mountains, Sky islands, Range shifts, Endemism, Extinction",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989419300344"
+  },
+  {
+    "title": "Effects of Climate Change on Corn Yields: Spatiotemporal Evidence from Geographically and Temporally Weighted Regression Model",
+    "authors": [
+      "Bing Yang,",
+      "Sensen Wu,",
+      "Zhen Yan"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi11080433",
+    "journalVolume": "Vol. 11,\n                                no. 433\n                                \n                                  p.\n                                  433",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "Food security has been one of the greatest global concerns facing the current complicated situation. Among these, the impact of climate change on agricultural production is dynamic over time and space, making it a major challenge to food security. Taking the U.S. Corn Belt as an example, we introduce a geographically and temporally weighted regression (GTWR) model that can handle both temporal and spatial non-stationarity in the relationship between corn yield and meteorological variables. With a high fitting performance (adjusted R2 at 0.79), the GTWR model generates spatiotemporally varying coefficients to effectively capture the spatiotemporal heterogeneity without requiring completion of the unbalanced data. This model makes it possible to retain original data to the maximum possible extent and to estimate the results more reliably and realistically. Our regression results showed that climate change had a positive effect on corn yield over the past 40 years, from 1981 to 2020, with temperature having a stronger effect than precipitation. Furthermore, a fuzzy c-means algorithm was used to cluster regions based on spatiotemporally changing trends. We found that the production potential of regions at high latitudes was higher than that of regions at low latitudes, suggesting that the center of productive regions may migrate northward in the future.",
+    "readLink": "https://www.mdpi.com/2220-9964/11/8/433"
+  },
+  {
+    "title": "Pengaruh Pasang Surut terhadap Pengendapan Lumpur di Lahan Sawah Rawa Kawasan Sungai Barito Kalimantan Selatan",
+    "authors": [
+      "M Mawardi,",
+      "Putu Sudira,",
+      "Bambang Hendro Sunarminto,",
+      "Totok Gunawan,",
+      "Benito Hadi Purwanto"
+    ],
+    "doi": "https://doi.org/10.22146/agritech.33863",
+    "journalVolume": "Vol. 38,\n                                no. 3\n                                \n                                  pp.\n                                  273\n                                  – 281",
+    "issn": "0216-0455 (Print)",
+    "publisher": "2527-3825 (Online)",
+    "countryOfPublisher": "Universitas Gadjah Mada",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Agriculture (General)",
+      "Technology: Technology (General)"
+    ],
+    "journalUrl": "http://jurnal.ugm.ac.id/agritech/",
+    "abstract": "Swamp land has a great potential to be developed as a paddy field area. However it has many constraints such as-phyrite (FeS2) at the depth of 30–60 cm and lack of soil nutrition. On the other hand, supply of marine clay from the sea which contains a lot of smektit clay mineral can be used to netralize this condition. Mud clay is very important for the development of rice root because it contains much nutrition and to enlarge the top of soil reducing the oxidation of phyrite. This study was conducted from January 2016 to June 2017 in swamp land area of Barito River of South Kalimantan. Data was collected by measuring the difference between maximum and minimum sea tide (tidal amplitude) and the deposition of mud clay. The results indicated that the distribution of mud clay deposit vary depends on the geography and the tidal amplitude of the zone. Zone VII has higher concenration of mud clay than the other one. The distribution pattern of mud clay deposit follows the parabola type, verticaly and horizontaly type, as well. Increasing of mud clay at all of the zone areas are not significantly effected by the daily tidal amplitude, only depends on climate condition/the season change.",
+    "readLink": "https://jurnal.ugm.ac.id/agritech/article/view/33863"
+  },
+  {
+    "title": "Fires that matter: reconceptualizing fire risk to include interactions between humans and the natural environment",
+    "authors": [
+      "Virginia Iglesias,",
+      "Natasha Stavros,",
+      "Jennifer K Balch,",
+      "Kimiko Barrett,",
+      "Jeanette Cobian-Iñiguez,",
+      "Cyrus Hester,",
+      "Crystal A Kolden,",
+      "Stefan Leyk,",
+      "R Chelsea Nagy,",
+      "Colleen E Reid,",
+      "Christine Wiedinmyer,",
+      "Elizabeth Woolner,",
+      "William R Travis"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac5c0c",
+    "journalVolume": "Vol. 17,\n                                no. 4\n                                \n                                  p.\n                                  045014",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Increasing fire impacts across North America are associated with climate and vegetation change, greater exposure through development expansion, and less-well studied but salient social vulnerabilities. We are at a critical moment in the contemporary human-fire relationship, with an urgent need to transition from emergency response to proactive measures that build sustainable communities, protect human health, and restore the use of fire necessary for maintaining ecosystem processes. We propose an integrated risk factor that includes fire and smoke hazard, exposure, and vulnerability as a method to identify ‘fires that matter’, that is, fires that have potentially devastating impacts on our communities. This approach enables pathways to delineate and prioritise science-informed planning strategies most likely to increase community resilience to fires.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac5c0c"
+  },
+  {
+    "title": "Change, adaptation and culture:  Media communication in pandemic times",
+    "authors": [
+      "Khairiah A Rahman"
+    ],
+    "doi": "https://doi.org/10.24135/pjr.v28i1and2.1270",
+    "journalVolume": "Vol. 28,\n                                no. 1 & 2",
+    "issn": "1023-9499 (Print)",
+    "publisher": "2324-2035 (Online)",
+    "countryOfPublisher": "Asia Pacific Network",
+    "lcc": [
+      "New Zealand",
+      "Language and Literature: Philology. Linguistics: Communication. Mass media",
+      "Language and Literature: Literature (General): Journalism. The periodical press, etc."
+    ],
+    "journalUrl": "https://ojs.aut.ac.nz/pacific-journalism-review/",
+    "abstract": "Commentary: Global lockdowns and border closures during the COVID-19 pandemic has meant that educational institutions and international conferences have taken on a virtual existence for more than two years. Uncertainties surrounding the pandemic and the enormity of its impact became a focal point of academic scrutiny for communication sciences and media research. Themes from the Asian Congress for Media and Communication Conference 2021 (ACMC2021) centred around change, adaptation and culture in pandemic times with 12 streams including democracy and disinformation, media influence and impact, and climate change in the Asia-Pacific. This commentary presents an overview of the conference and introduces four of the presentations delivered at the ACMC2021; two keynotes and two paper presentations. The keynotes discussed information challenges such as control on social media, truth, hate rhetoric and the climate emergency in the Asia-Pacific region, while the papers focused on practitioner perceptions and the role of a higher order in securing media freedom and fair representation.",
+    "readLink": "https://ojs.aut.ac.nz/pacific-journalism-review/article/view/1270"
+  }
+]

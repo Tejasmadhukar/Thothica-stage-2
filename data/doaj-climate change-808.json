@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Global trends and research frontiers on heat stress in poultry from 2000 to 2021: A bibliometric analysis",
+    "authors": [
+      "Victoria Anthony Uyanga,",
+      "Taha H. Musa,",
+      "Oyegunle Emmanuel Oke,",
+      "Jingpeng Zhao,",
+      "Xiaojuan Wang,",
+      "Hongchao Jiao,",
+      "Okanlawon M. Onagbesan,",
+      "Hai Lin"
+    ],
+    "doi": "https://doi.org/10.3389/fphys.2023.1123582",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-042X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physiology"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/physiology",
+    "abstract": "Background: Heat stress remains a major environmental factor affecting poultry production. With growing concerns surrounding climate change and its antecedent of global warming, research on heat stress in poultry has gradually gained increased attention. Therefore, this study aimed to examine the current status, identify the research frontiers, and highlight the research trends on heat stress in poultry research using bibliometric analysis.Methods: The literature search was performed on the Web of Science Core Collection database for documents published from 2000 to 2021. The documents retrieved were analyzed for their publication counts, countries, institutions, keywords, sources, funding, and citation records using the bibliometric app on R software. Network analysis for co-authorship, co-occurrence, citation, co-citation, and bibliographic coupling was visualized using the VOSviewer software.Results: A total of 468 publications were retrieved, and over the past two decades, there was a gradual increase in the annual number of publications (average growth rate: 4.56%). China had the highest contribution with respect to the number of publications, top contributing authors, collaborations, funding agencies, and institutions. Nanjing Agricultural University, China was the most prolific institution. Kazim Sahin from Firat University, Turkey contributed the highest number of publications and citations to heat stress in poultry research, and Poultry Science was the most productive and the most cited journal. The top 10 globally cited documents mainly focused on the effects of heat stress, alleviation of heat stress, and the association between heat stress and oxidative stress in poultry. All keywords were grouped into six clusters which included studies on “growth performance”, “intestinal morphology”, “heat stress”, “immune response”, “meat quality”, and “oxidative stress” as current research hotspots. In addition, topics such as; “antioxidants”, “microflora”, “intestinal barrier”, “rna-seq”, “animal welfare”, “gene expression”, “probiotics”, “feed restriction”, and “inflammatory pathways” were identified for future research attention.Conclusion: This bibliometric study provides a detailed and comprehensive analysis of the global research trends on heat stress in poultry over the last two decades, and it is expected to serve as a useful reference for potential research that will help address the impacts of heat stress on poultry production globally.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fphys.2023.1123582/full"
+  },
+  {
+    "title": "Vulnerability of sorghum production to extreme, sub-seasonal weather under climate change",
+    "authors": [
+      "M Eggen,",
+      "M Ozdogan,",
+      "B Zaitchik,",
+      "D Ademe,",
+      "J Foltz,",
+      "B Simane"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aafe19",
+    "journalVolume": "Vol. 14,\n                                no. 4\n                                \n                                  p.\n                                  045005",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "In the tropics, extreme weather associated with global climate teleconnections can have an outsized impact on food security. In Ethiopia, the El Niño Southern Oscillation (ENSO) is frequently linked to drought-induced food insecurity. Many projections hold that El Niño events will become more frequent or more intense under climate change, suggesting that El Niño associated droughts may become more destructive. Agricultural vulnerability to extremes under climate change, however, is a function of exposure, sensitivity, and adaptive capacity. Sensitivity, in this context, can depend on sub-seasonal distribution of rainfall. This paper investigates crop sensitivity to sub-seasonal rainfall variability under climate change in a food insecure area of the Ethiopian highlands through analysis of process-oriented crop model results for the years 1981–2100 driven by 14 GCMs chosen for the ability to represent ENSO and rainfall characteristics of the study area. Further, adaptive capacity in the region is investigated with in-depth interviews and focus groups concerning the 2015 strong El Niño event. Crop model results for sorghum highlight that exposure and sensitivity to sub-seasonal extremes of low rainfall can diverge significantly from sorghum’s response to seasonal drought. Even though climate change will bring generally warmer and wetter seasons to the study area, there is an increased occurrence of sub-seasonal failure of rains early in the rainy season which will likely have negative impacts on sorghum yield. In-depth interviews show that biophysical constraints significantly reduce farmer adaptive capacity to this type of sub-seasonal extreme. This work highlights the need to consider sub-seasonal weather when assessing climate change threats to agriculture, particularly for subsistence farmers in the developing world.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aafe19"
+  },
+  {
+    "title": "Contrasting Gymnosperm Diversity Across an Elevation Gradient in the Ecoregion of China: The Role of Temperature and Productivity",
+    "authors": [
+      "Bikram Pandey,",
+      "Bikram Pandey,",
+      "Kaiwen Pan,",
+      "Mohammed A. Dakhil,",
+      "Ziyan Liao,",
+      "Ziyan Liao,",
+      "Arbindra Timilsina,",
+      "Manita Khanal,",
+      "Lin Zhang"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2021.679439",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "The species richness–climate relationship is a significant concept in determining the richness patterns and predicting the cause of its distribution. The distribution range of species and climatic variables along elevation have been used in evaluating the elevational diversity gradients (EDG). However, the species richness of gymnosperms along elevation and its driving factors in large geographic areas are still unknown. Here, we aimed at evaluating the EDG of gymnosperms in the ecoregions of China. We divided the geographical region of China into 34 ecoregions and determine the richness pattern of gymnosperm taxa along elevation gradients. We demonstrated the richness patterns of the 237-gymnosperm (219 threatened, 112 endemic, 189 trees, and 48 shrubs) taxa, roughly distributed between 0 and 5,300 m (above sea level) in China. As possible determinants of richness patterns, annual mean temperature (TEMP), annual precipitation (PPT), potential evapotranspiration (PET), net primary productivity (SNPP), aridity index (AI), temperature seasonality (TS), and precipitation seasonality (PS) are the major predictor variables driving the EDG in plants. We used the species interpolation method to determine the species richness at each elevation band. To evaluate the richness pattern of gymnosperms in an ecoregion, generalized additive modeling and structural equation modeling were performed. The ecoregions in the southern part of China are rich in gymnosperm species, where three distinct richness patterns—(i) hump-shaped, (ii) monotonic increase, and (iii) monotonic decline—were noticed in China. All climatic variables have a significant effect on the richness pattern of gymnosperms; however, TEMP, SNPP, TS, and PS explained the highest deviance in diversity-rich ecoregions of China. Our results suggests that the highest number of gymnosperms species was found in the southwestern and Taiwan regions of China distributed at the 1,600- and 2,800-m elevation bands. These regions could be under severe stress in the near future due to expected changes in precipitation pattern and increase of temperature due to climate change. Thus, our study provided evidence of the species–climate relationship that can support the understanding of future conservation planning of gymnosperms.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2021.679439/full"
+  },
+  {
+    "title": "Comparative Proteomic Analysis of Psychrophilic vs. Mesophilic Bacterial Species Reveals Different Strategies to Achieve Temperature Adaptation",
+    "authors": [
+      "Laura García-Descalzo,",
+      "Eva García-López,",
+      "Cristina Cid"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2022.841359",
+    "journalVolume": "Vol. 13",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "The old debate of nature (genes) vs. nurture (environmental variables) is once again topical concerning the effect of climate change on environmental microorganisms. Specifically, the Polar Regions are experiencing a drastic increase in temperature caused by the rise in greenhouse gas emissions. This study, in an attempt to mimic the molecular adaptation of polar microorganisms, combines proteomic approaches with a classical microbiological analysis in three bacterial species Shewanella oneidensis, Shewanella frigidimarina, and Psychrobacter frigidicola. Both shewanellas are members of the same genus but they live in different environments. On the other hand, Shewanella frigidimarina and Psychrobacter frigidicola share the same natural environment but belong to a different genus. The comparison of the strategies employed by each bacterial species estimates the contribution of genome vs. environmental variables in the adaptation to temperature. The results show a greater versatility of acclimatization for the genus Shewanella with respect to Psychrobacter. Besides, S. frigidimarina was the best-adapted species to thermal variations in the temperature range 4–30°C and displayed several adaptation mechanisms common with the other two species. Regarding the molecular machinery used by these bacteria to face the consequences of temperature changes, chaperones have a pivoting role. They form complexes with other proteins in the response to the environment, establishing cooperation with transmembrane proteins, elongation factors, and proteins for protection against oxidative damage.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.841359/full"
+  },
+  {
+    "title": "PERSISTENT ORGANIC POLLUTANTS IN THE LIVERS OF MOOSE HARVESTED IN THE SOUTHERN NORTHWEST TERRITORIES, CANADA",
+    "authors": [
+      "Nicholas C. Larter,",
+      "Derek Muir,",
+      "Xiaowa Wang,",
+      "Danny G. Allaire,",
+      "Allicia Kelly,",
+      "Karl Cox"
+    ],
+    "doi": "Vol. 53\n                                \n                                \n                                  pp.\n                                  65\n                                  – 83",
+    "issn": "0835-5851 (Print)",
+    "publisher": "2293-6629 (Online)",
+    "countryOfPublisher": "Lakehead University",
+    "lcc": [
+      "Canada",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://alcesjournal.org/index.php/alces/index",
+    "abstract": "Moose (Alces alces) are an important traditional and spiritual resource for residents of the southern Northwest Territories and local residents are concerned about contaminants that may be present in the country foods they consume. As part of a larger program looking at contaminants in moose organs, we collected liver samples from moose harvested in two separate but adjoining regions within the Mackenzie River drainage area, the Dehcho and South Slave. We analyzed liver samples for a wide range of persistent organic pollutants (POPs) including polychlorinated biphenyls (PCBs), DDT related compounds, toxaphene, brominated diphenyl ethers (PBDEs) and perfluorinated alkyl substances (PFASs). Overall concentrations of major groups of POPs (total (Σ) PCBs, ΣPBDEs, ΣPFASs were consistently low (generally < 2 ng/g wet weight) in all samples and comparable to the limited data available from moose in Scandinavia. PFASs were the most prominent group with geometric means (range) of 1.3 (0.81–2.5) ng/g ww in the Dehcho and 0.93 (0.63–1.2) ng/g ww in the South Slave region. Decabromodiphenyl ether (BDE-209) was the most prominent PBDE congener, similar to that found in other arctic/subarctic terrestrial herbivores. In general, BDE-209 and PFASs, which are particle-borne and relatively non-volatile, were the predominant organic contaminants.",
+    "readLink": "http://alcesjournal.org/index.php/alces/article/view/176/254"
+  },
+  {
+    "title": "FARMERS’ PERCEPTION OF CLIMATE CHANGE: EVIDENCE FROM POTATO FARMERS IN INDONESIA",
+    "authors": [
+      "Purwanti T.S.,",
+      "Huang W.-C."
+    ],
+    "doi": "Vol. 123,\n                                no. 3\n                                \n                                  pp.\n                                  73\n                                  – 82",
+    "issn": "2226-1184 (Online)",
+    "publisher": "iVolga Press",
+    "countryOfPublisher": "Russian Federation",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.rjoas.com",
+    "abstract": "This study aims to investigate the farmers’ perception of climate change and estimate the association between socio-demographic characteristics and climate change perception. Using cross-sectional data from 302 farmers in East Java of Indonesia employs a few quantitative methods including frequency mean and chi-square test. The climate perception was indicated by recalling the farmers’ experience with climate-related indicators during the last 10 years. The finding indicated that the majority of farmers perceive the rain intensity, temperature, vegetation, also pest and disease increased. However, the farmers perceive the drought events are the same. This study confirms that farmers in our research location have a correct perception compared with the climate change real-time data. Furthermore, this study also indicated that education, total harvested area, land status, social network, cooperative membership, farmers group, and climate information were significantly associated with their perception of climate change, such as rain intensity, temperature, drought, vegetation, also pest and disease. This study provides a significant contribution to agricultural development to improve farmers’ perception of climate change.",
+    "readLink": "https://rjoas.com/issue-2022-03/article_08.pdf"
+  },
+  {
+    "title": "Does Good ESG Lead to Better Financial Performances by Firms? Machine Learning and Logistic Regression Models of Public Enterprises in Europe",
+    "authors": [
+      "Caterina De Lucia,",
+      "Pasquale Pazienza,",
+      "Mark Bartlett"
+    ],
+    "doi": "https://doi.org/10.3390/su12135317",
+    "journalVolume": "Vol. 12,\n                                no. 5317\n                                \n                                  p.\n                                  5317",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The increasing awareness of climate change and human capital issues is shifting companies towards aspects other than traditional financial earnings. In particular, the changing behaviors towards sustainability issues of the global community and the availability of environmental, social and governance (ESG) indicators are attracting investors to socially responsible investment decisions. Furthermore, whereas the strategic importance of ESG metrics has been particularly studied for private enterprises, little attention have received public companies. To address this gap, the present work has three aims—1. To predict the accuracy of main financial indicators such as the expected Return of Equity (ROE) and Return of Assets (ROA) of public enterprises in Europe based on ESG indicators and other economic metrics; 2. To identify whether ESG initiatives affect the financial performance of public European enterprises; and 3. To discuss how ESG factors, based on the findings of aims #1 and #2, can contribute to the advancements of the current debate on Corporate Social Responsibility (CSR) policies and practices in public enterprises in Europe. To fulfil the above aims, we use a combined approach of machine learning (ML) techniques and inferential (i.e., ordered logistic regression) model. The former predicts the accuracy of ROE and ROA on several ESG and other economic metrics and fulfils aim #1. The latter is used to test whether any causal relationships between ESG investment decisions and ROA and ROE exist and, whether these relationships exist, to assess their magnitude. The inferential analysis fulfils aim #2. Main findings suggest that ML accurately predicts ROA and ROE and indicate, through the ordered logistic regression model, the existence of a positive relationship between ESG practices and the financial indicators. In addition, the existing relationship appears more evident when companies invest in environmental innovation, employment productivity and diversity and equal opportunity policies. As a result, to fulfil aim #3 useful policy insights are advised on these issues to strengthen CSR strategies and sustainable development practices in European public enterprises.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/13/5317"
+  },
+  {
+    "title": "The Role of Personal Experience and Prior Beliefs in Shaping Climate Change Perceptions: A Narrative Review",
+    "authors": [
+      "Kate Sambrook,",
+      "Emmanouil Konstantinidis,",
+      "Sally Russell,",
+      "Yasmina Okan"
+    ],
+    "doi": "https://doi.org/10.3389/fpsyg.2021.669911",
+    "journalVolume": "Vol. 12",
+    "issn": "1664-1078 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Psychology"
+    ],
+    "journalUrl": "http://frontiersin.org/psychology",
+    "abstract": "Global climate change is increasing the frequency and intensity of extreme weather events such as heatwaves, droughts, and flooding. This is the primary way many individuals experience climate change, which has led researchers to investigate the influence of personal experience on climate change concern and action. However, existing evidence is still limited and in some cases contradictory. At the same time, behavioral decision research has highlighted the importance of pre-existing values and beliefs in shaping how individuals experience changes in environmental conditions. This is in line with theories of motivated reasoning, which suggest that people interpret and process information in a biased manner to maintain their prior beliefs. Yet, the evidence for directional motivated reasoning in the context of climate change beliefs has recently been questioned. In the current paper, we critically review the literature on the interrelationships between personal experience of local weather anomalies, extreme weather events and climate change beliefs. Overall, our review shows that there is some evidence that local warming can generate climate change concern, but the capacity for personal experience to promote action may rely upon the experience first being attributed to climate change. Rare extreme weather events will likely have limited impact on judgments and decisions unless they have occurred recently. However, even recent events may have limited impact among individuals who hold strong pre-existing beliefs rejecting the reality of climate change. We identify limitations of existing research and suggest directions for future work.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.669911/full"
+  },
+  {
+    "title": "The Earth's view of climate change",
+    "authors": [
+      "Alan K Betts"
+    ],
+    "doi": "https://doi.org/10.3934/geosci.2022013",
+    "journalVolume": "Vol. 8,\n                                no. 2\n                                \n                                  pp.\n                                  224\n                                  – 232",
+    "issn": "2471-2132 (Online)",
+    "publisher": "AIMS Press",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.aimspress.com/journal/aimsgeo",
+    "abstract": "I review the Earth's perspective on the destruction of the planet driven by burning the fossil fuels, based on my personal perspective.",
+    "readLink": "https://www.aimspress.com/article/doi/10.3934/geosci.2022013?viewType=HTML"
+  },
+  {
+    "title": "Climate-driven expansion of blanket bogs in Britain during the Holocene",
+    "authors": [
+      "A. V. Gallego-Sala,",
+      "D. J. Charman,",
+      "S. P. Harrison,",
+      "G. Li,",
+      "I. C. Prentice"
+    ],
+    "doi": "https://doi.org/10.5194/cp-12-129-2016",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  129\n                                  – 136",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "Blanket bog occupies approximately 6 % of the area of the UK today. The Holocene expansion of this hyperoceanic biome has previously been explained as a consequence of Neolithic forest clearance. However, the present distribution of blanket bog in Great Britain can be predicted accurately with a simple model (PeatStash) based on summer temperature and moisture index thresholds, and the same model correctly predicts the highly disjunct distribution of blanket bog worldwide. This finding suggests that climate, rather than land-use history, controls blanket-bog distribution in the UK and everywhere else. We set out to test this hypothesis for blanket bogs in the UK using bioclimate envelope modelling compared with a database of peat initiation age estimates. We used both pollen-based reconstructions and climate model simulations of climate changes between the mid-Holocene (6000 yr BP, 6 ka) and modern climate to drive PeatStash and predict areas of blanket bog. We compiled data on the timing of blanket-bog initiation, based on 228 age determinations at sites where peat directly overlies mineral soil. The model predicts that large areas of northern Britain would have had blanket bog by 6000 yr BP, and the area suitable for peat growth extended to the south after this time. A similar pattern is shown by the basal peat ages and new blanket bog appeared over a larger area during the late Holocene, the greatest expansion being in Ireland, Wales, and southwest England, as the model predicts. The expansion was driven by a summer cooling of about 2 °C, shown by both pollen-based reconstructions and climate models. The data show early Holocene (pre-Neolithic) blanket-bog initiation at over half of the sites in the core areas of Scotland and northern England. The temporal patterns and concurrence of the bioclimate model predictions and initiation data suggest that climate change provides a parsimonious explanation for the early Holocene distribution and later expansion of blanket bogs in the UK, and it is not necessary to invoke anthropogenic activity as a driver of this major landscape change.",
+    "readLink": "http://www.clim-past.net/12/129/2016/cp-12-129-2016.pdf"
+  }
+]

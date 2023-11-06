@@ -1,0 +1,223 @@
+[
+  {
+    "title": "Automatic Supraglacial Lake Extraction in Greenland Using Sentinel-1 SAR Images and Attention-Based U-Net",
+    "authors": [
+      "Di Jiang,",
+      "Xinwu Li,",
+      "Ke Zhang,",
+      "Sebastián Marinsek,",
+      "Wen Hong,",
+      "Yirong Wu"
+    ],
+    "doi": "https://doi.org/10.3390/rs14194998",
+    "journalVolume": "Vol. 14,\n                                no. 4998\n                                \n                                  p.\n                                  4998",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "With global warming, supraglacial lakes play an important role in ice sheet stability and climate change. They are not only the main factors affecting mass balance and sea-level rise but also the key units of surface runoff storage and mass loss. To automatically map the spatiotemporal distribution of supraglacial lakes in Greenland, this paper proposes an attention-based U-Net model with Sentinel-1 SAR imagery. The extraction results show that compared with the traditional network, this method obtains a higher validation coefficient, with an F1 score of 0.971, and it is spatiotemporally transferable, able to realize the extraction of supraglacial lakes in complex areas without ignoring small lakes. In addition, we conducted a case study in the Jakobshavn region and found that the supraglacial lake area peaked in advance between spring and summer due to extreme melting events from 2017 to 2021. Meanwhile, the supraglacial lakes near the 79°N Glacier tended to expand inland during the melting season.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/19/4998"
+  },
+  {
+    "title": "Design of a low-cost active and sustainable autonomous system for heating agricultural greenhouses: A case study on strawberry (fragaria vulgaris) growth",
+    "authors": [
+      "Ilham Ihoume,",
+      "Rachid Tadili,",
+      "Nora Arbaoui,",
+      "Hind Krabch"
+    ],
+    "doi": "Vol. 9,\n                                no. 3\n                                \n                                  p.\n                                  e14582",
+    "issn": "2405-8440 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.cell.com/heliyon/home",
+    "abstract": "The utilization of solar energy is a vital strategy in the agricultural sector's efforts to address and reduce greenhouse gas emissions. This renewable resource can greatly decrease the industry's carbon footprint and play a significant role in combating climate change. In this context, this study examines an automatic solar system installed in a south-facing agricultural greenhouse and its effect on the growth of strawberry plants in winter. Heat is transferred from the environment during the day to the structure at night using this technology, which uses water flowing in a closed circuit that is put on the greenhouse roof. This system includes a battery, a photovoltaic solar panel to power some accessories, a copper coil placed within double glass on the greenhouse's roof, a water pump circulator, and storage tanks. Two greenhouses—one experimental with a solar heating system and the other reference without one—were used for the comparative experimental investigation. Both greenhouses are constructed on the terrace of Mohammed V University's Solar Energy and Environment Laboratory in Rabat, Morocco. An environmental monitoring system was built to automatically measure environmental parameters. Real-time data visualization and analysis may be done from any place via a website with the Internet of Things integrated into the system. The greenhouse's microclimate was improved by this low-cost technology, which also allowed for winter heating. Compared to the control greenhouse, this improvement allowed for a 17-day earlier harvest and a 30% reduction in irrigation water usage. The economic analysis findings show that the system is profitable for investments and energy savings.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405844023017899"
+  },
+  {
+    "title": "Hyperconcentrated floods cause extreme gravel transport through the sandy rivers of the Gangetic Plains",
+    "authors": [
+      "Laura Quick,",
+      "Maggie. J. Creed,",
+      "Hugh. D. Sinclair,",
+      "Mikaël Attal,",
+      "Alistair. G. L. Borthwick,",
+      "Rajiv Sinha"
+    ],
+    "doi": "https://doi.org/10.1038/s43247-023-00953-9",
+    "journalVolume": "Vol. 4,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2662-4435 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Geology",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.nature.com/commsenv/",
+    "abstract": "Abstract The Gangetic Plains comprise steep gravelly river channels that transition to low gradient sandy channels 10-40 km downstream of the mountain front. This “gravel-sand transition\" is characterized by an abrupt greater-than-one-order-of-magnitude drop in both gradient and sediment grain size, suggesting a degree of long-term stability. However, the stratigraphic record of the gravel-sand transition in the Miocene Siwalik Group demonstrates intermittent transport of coarse gravels tens of kilometres downstream of the transition; such events in contemporary channels would drive channel avulsion(s) and increase flood risk, devastating communities across the plains. We combine sedimentological analysis of Siwalik deposits with entrainment calculations which demonstrate that hyperconcentration is required to transport coarse bedload over low-gradient plains. Transport conditions are attainable when intense monsoon precipitation (a 200- to 1000-year event) is combined with increased suspended sediment concentrations in channels. Predicted climate change and ongoing seismicity increase the likelihood of such extreme events within this century.",
+    "readLink": "https://doi.org/10.1038/s43247-023-00953-9"
+  },
+  {
+    "title": "Measured and predicted freeze-thaw days frequencies in climate change conditions in central Poland",
+    "authors": [
+      "Arkadiusz Bartczak,",
+      "Halina Kaczmarek,",
+      "Michał Badocha,",
+      "Michał Krzemiński,",
+      "Sebastian Tyszkowski"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.12153",
+    "journalVolume": "Vol. 9\n                                \n                                \n                                  p.\n                                  e12153",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "The rate of progression of geomorphological phenomena is greatly influenced by freeze-thaw processes. In the face of air temperature increasing over the past few decades, a question of the future impact of these processes arises, notably in the temperate and cold climate zones. Using the mean, maximum and minimum daily air temperature data in the period 1951–2018 obtained from three weather stations located in the vicinity of Jeziorsko reservoir (central Poland), we have determined the mathematical correlation, described with a polynomial function, between the mean monthly air temperature and the monthly number of freeze-thaw days (FTD). A freeze-thaw day is a day when the maximum air temperature is above 0 °C while the minimum air temperature equals or is below this threshold. The number of FTDs within the study area averaged 64–71 and demonstrated a downward trend of 2–4 FTDs/10 years. The study period (1951–2018), includes a clearly marked distinct sub-period (1991–2018), when the reservoir was in operation, which experienced 58–68 FTDs. Considering the assumed rise in temperature, one should expect a further, though slightly slower, decline in the future number of FTDs. Depending on the accepted model of the temperature increase, which for the area of Poland (Central Europe) in the perspective of 30 years oscillates between +1.1 to +1.3 °C, the number of FTDs within the study area is expected to decline by −4.5 to −5.3 FTD, i.e. 6–7% and 5.4–5.5 FTD i.e. 8–9% respectively.",
+    "readLink": "https://peerj.com/articles/12153.pdf"
+  },
+  {
+    "title": "Aquatic insects dealing with dehydration: do desiccation resistance traits differ in species with contrasting habitat preferences?",
+    "authors": [
+      "Susana Pallarés,",
+      "Josefa Velasco,",
+      "Andrés Millán,",
+      "David T. Bilton,",
+      "Paula Arribas"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.2382",
+    "journalVolume": "Vol. 4\n                                \n                                \n                                  p.\n                                  e2382",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background Desiccation resistance shapes the distribution of terrestrial insects at multiple spatial scales. However, responses to drying stress have been poorly studied in aquatic groups, despite their potential role in constraining their distribution and diversification, particularly in arid and semi-arid regions. Methods We examined desiccation resistance in adults of four congeneric water beetle species (Enochrus, family Hydrophilidae) with contrasting habitat specificity (lentic vs. lotic systems and different salinity optima from fresh- to hypersaline waters). We measured survival, recovery capacity and key traits related to desiccation resistance (fresh mass, % water content, % cuticle content and water loss rate) under controlled exposure to desiccation, and explored their variability within and between species. Results Meso- and hypersaline species were more resistant to desiccation than freshwater and hyposaline ones, showing significantly lower water loss rates and higher water content. No clear patterns in desiccation resistance traits were observed between lotic and lentic species. Intraspecifically, water loss rate was positively related to specimens’ initial % water content, but not to fresh mass or % cuticle content, suggesting that the dynamic mechanism controlling water loss is mainly regulated by the amount of body water available. Discussion Our results support previous hypotheses suggesting that the evolution of desiccation resistance is associated with the colonization of saline habitats by aquatic beetles. The interespecific patterns observed in Enochrus also suggest that freshwater species may be more vulnerable than saline ones to drought intensification expected under climate change in semi-arid regions such as the Mediterranean Basin.",
+    "readLink": "https://peerj.com/articles/2382.pdf"
+  },
+  {
+    "title": "Identification of Suitable Land for Livestock Production Using GIS-Based Multicriteria Decision Analysis and Remote Sensing in the Bale Lowlands, Ethiopia",
+    "authors": [
+      "Abel Balew,",
+      "Behailu Legese,",
+      "Derara Kunbushu,",
+      "Worku Nega,",
+      "Wubshet Alebel,",
+      "Abebe Kerbesh,",
+      "Md. Mijanur Rahman"
+    ],
+    "doi": "https://doi.org/10.1155/2022/9585552",
+    "journalVolume": "Vol. 2022",
+    "issn": "1687-9708 (Print)",
+    "publisher": "1687-9716 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology",
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/ijecol/",
+    "abstract": "Rangeland resources of the Bale lowlands have been degraded due to climate change, human factors, lack of sufficient environmental and rangeland policies, disaster mitigation strategies, and good management. The study identified suitable rangeland for cattle, sheep, goat, and camel production in the Bale lowlands using GIS-Based Multicriteria Decision Analysis and remote sensing techniques. Land-use and land-cover, rainfall, water accessibility, slope, and soil types were used for the suitability analysis. The study showed that an area of 4112, 16311, 6643, and 9820 km2 was highly suitable for cattle, sheep, goats, and camels, respectively. The results of the study also indicated that an area of 40099, 30925, 41981, and 36802 km2 was moderately suitable for cattle, sheep, goats, and camels, respectively. In addition, an area of 7644, 4671, 3630, and 5632 km2 was marginally suitable for cattle, sheep, goats, and camels, respectively. On the other hand, an area of 399 and 346 km2 was not suitable for cattle and sheep, respectively. The study is important for improving livestock production and mitigating the impacts of traditional livestock mobility on local communities. The study can also provide insights for government authorities to formulate environmental and rangeland policies to identify rangeland types and separate the rangeland for each livestock category.",
+    "readLink": "http://dx.doi.org/10.1155/2022/9585552"
+  },
+  {
+    "title": "Spatio-temporal variation of rainfall over Bihar State, India",
+    "authors": [
+      "Warwade Pratibha,",
+      "Tiwari Shalini,",
+      "Ranjan Sunil,",
+      "Chandniha Surendra K.,",
+      "Adamowski Jan"
+    ],
+    "doi": "https://doi.org/10.2478/jwld-2018-0018",
+    "journalVolume": "Vol. 36,\n                                no. 1\n                                \n                                  pp.\n                                  183\n                                  – 197",
+    "issn": "2083-4535 (Online)",
+    "publisher": "Polish Academy of Sciences",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)",
+      "Technology: Hydraulic engineering: Irrigation engineering. Reclamation of wasteland. Drainage"
+    ],
+    "journalUrl": "https://journals.pan.pl/jwld",
+    "abstract": "This study detected, for the first time, the long term annual and seasonal rainfall trends over Bihar state, India, between 1901 and 2002. The shift change point was identified with the cumulative deviation test (cumulative sum – CUSUM), and linear regression. After the shift change point was detected, the time series was subdivided into two groups: before and after the change point. Arc-Map 10.3 was used to evaluate the spatial distribution of the trends. It was found that annual and monsoon rainfall trends decreased significantly; no significant trends were observed in pre-monsoon, monsoon, post-monsoon and winter rainfall. The average decline in rainfall rate was –2.17 mm·year−1 and –2.13 mm·year−1 for the annual and monsoon periods. The probable change point was 1956. The number of negative extreme events were higher in the later period (1957–2002) than the earlier period (1901–1956).",
+    "readLink": "http://www.degruyter.com/view/j/jwld.2018.36.issue-1/jwld-2018-0018/jwld-2018-0018.xml?format=INT"
+  },
+  {
+    "title": "Ten years of pluviometric analyses in Italy for civil protection purposes",
+    "authors": [
+      "Matteo Del Soldato,",
+      "Ascanio Rosi,",
+      "Luca Delli Passeri,",
+      "Carlo Cacciamani,",
+      "Filippo Catani,",
+      "Nicola Casagli"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-99874-w",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract The concept of climate change has grown in recent decades, influencing the scientific community to conduct research on meteorological parameters and their variabilities. Research on global warming, as well as on its possible economic and environmental consequences, has spread over the last 20 years. Diffused changes in trends have been stated by several authors throughout the world, with different developments observed depending on the continent. Following a period of approximately 40 days of almost continuous rain that occurred from October to November 2019 across the Italian territory and caused several hazards (e.g., floods and landslides), a relevant question for decision-makers and civil protection actors emerged regarding the relative frequencies of given rainfall events in the Warning Hazard Zones (WHZs) of Italy. The derived products of this work could answer this question for both weather and hydrogeological operators thanks to the frequency and spatio-temporal distribution analyses conducted on 10-year daily rainfall data over the entire Italian territory. This work aspires to be an additional tool used to analyse events that have occurred, providing further information for a better understanding of the probability of occurrence and distribution of future events.",
+    "readLink": "https://doi.org/10.1038/s41598-021-99874-w"
+  },
+  {
+    "title": "Spatiotemporal Analysis of Soil Moisture Variation in the Jiangsu Water Supply Area of the South-to-North Water Diversion Using ESA CCI Data",
+    "authors": [
+      "Yue Wang,",
+      "Jianjun Cao,",
+      "Yongjuan Liu,",
+      "Ying Zhu,",
+      "Xuan Fang,",
+      "Qing Huang,",
+      "Jian Chen"
+    ],
+    "doi": "https://doi.org/10.3390/rs14020256",
+    "journalVolume": "Vol. 14,\n                                no. 256\n                                \n                                  p.\n                                  256",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The South-to-North Water Transfer Jiangsu Water Supply Area (JWSA) is a mega inter-basin water transfer area (water source) that provides water resources from JiangHuai, combines drainage and flooding management, and regulates nearby rivers and lakes. Analyzing the spatiotemporal soil moisture dynamics in the area will be informative regarding agricultural drought along with flood disaster assessment and will provide early warning studies. Therefore, we evaluated the quality of European Space Agency Climate Change Initiative Soil Moisture (ESA CCI_SM) data in the South-North Water Transfer JWSA. Furthermore, we utilized ensemble empirical modal decomposition, Mann-Kendall tests, and regression analysis to study the spatiotemporal variation in soil moisture for the past 29 years. The CCI _SM data displayed a high correlation with local soil measurements at nine sites. We next analyzed the CCI_SM data from three pumping stations (the Gaogang, Hongze, and Liushan stations) in the South-North Water Transfer JWSA. These stations had similar periodic characteristics of soil moisture, with significant periodic fluctuations around 3.1 d. The overall soil moisture at the three typical pumping stations demonstrated an increasing trend. We further investigated whether abrupt soil moisture changes existed at each station or not. The spatial distribution of soil moisture in the South-North Water Transfer JWSA was characterized as “dry north and wet south”, with higher soil moisture in winter, followed by autumn, and low soil moisture in spring and summer. Although the linear trend of soil moisture in the South-North Water Transfer JWSA varied in significance, the overall soil moisture in the JWSA has increased over the past 29 years. The areas with significantly enhanced soil moisture are mostly distributed in the Yangzhou and Huai’an areas in the southeastern part of the study area. The areas with significantly decreased soil moisture are small in size and mostly located in northern Xuzhou.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/2/256"
+  },
+  {
+    "title": "Automatic detection to inventory road slopes using open LiDAR point clouds",
+    "authors": [
+      "Erik Rúa,",
+      "Antón Núñez-Seoane,",
+      "Pedro Arias,",
+      "Joaquín Martínez-Sánchez"
+    ],
+    "doi": "Vol. 118\n                                \n                                \n                                  p.\n                                  103225",
+    "issn": "1569-8432 (Print)",
+    "publisher": "1872-826X (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation",
+    "abstract": "The transport infrastructure of a country facilitates the development and growth of its economy and improves the quality of life of its inhabitants. Increasing its resilience to different types of risks to improve performance is becoming more important. In the current context of climate change, natural hazards are more severe and frequent. In this article, we focus on rockfall as a natural hazard for roads that occurs in small areas in the vicinity of natural or cut slopes, causing road safety problems by invading part of the road.This article aims to inventory the slopes along the road, identifying the area of the road which would be invaded in case of a rockfall. A methodology divided into two blocks is proposed. First, for slope detection and inventory, an algorithm is developed based on open LiDAR point clouds analysis. The second block consists of estimating the invaded road area if a rockfall occurs on each of the inventoried slopes, using a combination of RockGIS software and the Monte Carlo method. The methodology was applied in five case studies: three sections on motorways and two sections on national roads. The results obtained for slope detection show higher rates in the case studies analyzing motorways, with a precision of 100%, a recovery rate of greater than 93.4%, and an F1 score of greater than 0.96. The results in the invaded area of the road show that 11 slopes would cause a total cut of the motorway in one of the directions if a rockfall occurs.These results are useful for infrastructure managers to remotely obtain an inventory of road slopes and know which of them would affect road safety. Also, the results can serve as input for the Intelligent Transportation System and allow the exchange of information under the Building Information Model approach.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S156984322300047X"
+  }
+]

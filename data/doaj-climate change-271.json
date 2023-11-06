@@ -1,0 +1,259 @@
+[
+  {
+    "title": "Is there warming in the pipeline? A multi-model analysis of the Zero Emissions Commitment from CO<sub>2</sub>",
+    "authors": [
+      "A. H. MacDougall,",
+      "T. L. Frölicher,",
+      "T. L. Frölicher,",
+      "C. D. Jones,",
+      "J. Rogelj,",
+      "J. Rogelj,",
+      "H. D. Matthews,",
+      "K. Zickfeld,",
+      "V. K. Arora,",
+      "N. J. Barrett,",
+      "V. Brovkin,",
+      "V. Brovkin,",
+      "F. A. Burger,",
+      "F. A. Burger,",
+      "M. Eby,",
+      "A. V. Eliseev,",
+      "A. V. Eliseev,",
+      "T. Hajima,",
+      "P. B. Holden,",
+      "A. Jeltsch-Thömmes,",
+      "A. Jeltsch-Thömmes,",
+      "C. Koven,",
+      "N. Mengis,",
+      "L. Menviel,",
+      "M. Michou,",
+      "I. I. Mokhov,",
+      "I. I. Mokhov,",
+      "A. Oka,",
+      "J. Schwinger,",
+      "R. Séférian,",
+      "G. Shaffer,",
+      "G. Shaffer,",
+      "A. Sokolov,",
+      "K. Tachiiri,",
+      "J. Tjiputra,",
+      "A. Wiltshire,",
+      "T. Ziehn"
+    ],
+    "doi": "https://doi.org/10.5194/bg-17-2987-2020",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  2987\n                                  – 3016",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "The Zero Emissions Commitment (ZEC) is the change in global mean temperature expected to occur following the cessation of net CO2 emissions and as such is a critical parameter for calculating the remaining carbon budget. The Zero Emissions Commitment Model Intercomparison Project (ZECMIP) was established to gain a better understanding of the potential magnitude and sign of ZEC, in addition to the processes that underlie this metric. A total of 18 Earth system models of both full and intermediate complexity participated in ZECMIP. All models conducted an experiment where atmospheric CO2 concentration increases exponentially until 1000 PgC has been emitted. Thereafter emissions are set to zero and models are configured to allow free evolution of atmospheric CO2 concentration. Many models conducted additional second-priority simulations with different cumulative emission totals and an alternative idealized emissions pathway with a gradual transition to zero emissions. The inter-model range of ZEC 50 years after emissions cease for the 1000 PgC experiment is −0.36 to 0.29 ∘C, with a model ensemble mean of −0.07 ∘C, median of −0.05 ∘C, and standard deviation of 0.19 ∘C. Models exhibit a wide variety of behaviours after emissions cease, with some models continuing to warm for decades to millennia and others cooling substantially. Analysis shows that both the carbon uptake by the ocean and the terrestrial biosphere are important for counteracting the warming effect from the reduction in ocean heat uptake in the decades after emissions cease. This warming effect is difficult to constrain due to high uncertainty in the efficacy of ocean heat uptake. Overall, the most likely value of ZEC on multi-decadal timescales is close to zero, consistent with previous model experiments and simple theory.",
+    "readLink": "https://www.biogeosciences.net/17/2987/2020/bg-17-2987-2020.pdf"
+  },
+  {
+    "title": "Future Climate Forcings and Olive Yield in a  Mediterranean Orchard",
+    "authors": [
+      "Francesco Viola,",
+      "Domenico Caracciolo,",
+      "Dario Pumo,",
+      "Leonardo V. Noto,",
+      "Goffredo La Loggia"
+    ],
+    "doi": "https://doi.org/10.3390/w6061562",
+    "journalVolume": "Vol. 6,\n                                no. 6\n                                \n                                  pp.\n                                  1562\n                                  – 1580",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The olive tree is one of the most characteristic rainfed trees in the Mediterranean region. Observed and forecasted climate modifications in this region, such as the CO2 concentration and temperature increase and the net radiation, rainfall and wind speed decrease, will likely alter vegetation water stress and modify productivity. In order to simulate how climatic change could alter soil moisture dynamic, biomass growth and fruit productivity, a water-driven crop model has been used in this study. The numerical model, previously calibrated on an olive orchard located in Sicily (Italy) with a satisfactory reproduction of historical olive yield data, has been forced with future climate scenarios generated using a stochastic weather generator and a downscaling procedure of an ensemble of climate model outputs. The stochastic downscaling is carried out using simulations of some General Circulation Models adopted in the fourth Intergovernmental Panel on Climate Change (IPCC) assessment report (4AR) for future scenarios. The outcomes state that climatic forcings driving potential evapotranspiration compensate for each other, resulting in a slight increase of this water demand flux; moreover, the increase of CO2 concentration leads to a potential assimilation increase and, consequently, to an overall productivity increase in spite of the growth of water stress due to the rainfall reduction.",
+    "readLink": "http://www.mdpi.com/2073-4441/6/6/1562"
+  },
+  {
+    "title": "Runoff sensitivity to climate and land-use changes: A case study in the Longtan basin, Southwestern China",
+    "authors": [
+      "Guiyan Mo,",
+      "Ya Huang,",
+      "Qing Yang,",
+      "Dayang Wang,",
+      "Chongxun Mo"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2020.196",
+    "journalVolume": "Vol. 12,\n                                no. 4\n                                \n                                  pp.\n                                  1059\n                                  – 1070",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "Based on the scenario hypothesis method, this paper applied a Soil and Water Assessment Tool (SWAT) to analyze the sensitivity of runoff to climate and land-use changes in the Longtan basin, China. Results indicated that (1) for every 1 °C increase in temperature, the average annual runoff decreased by 9.9 mm, and the average annual evaporation increased by 9.3 mm. However, for every 10% increase in rainfall, the average annual runoff and evapotranspiration increased by 96.3 mm and 11.53 mm, respectively. Obviously, runoff was more sensitive to the change in rainfall than temperature in the Longtan basin. Meanwhile, (2) forestland could conserve water resources, but its water consumption was larger. Although grassland played a relatively small role in water conservation, it consumed less water. At the same time, increasing the area of forestland and grassland could weaken peak floods, and the water retention function of vegetation could prevent runoff from increasing and decreasing steeply. Therefore, it is worth improving vegetation coverage. HIGHLIGHTS Constructing 25 climate change scenarios based on CMIP5 simulation results and local temporal and spatial variation characteristics.; Constructing 4 land-use scenarios based on its variation characteristics and local development plan.; Simulating and quantifying runoff response to different climate and land-use change scenarios.; Identifying the major impact factors for runoff variability.; Experiment in the karstic basin, where there is a lack of related research.;",
+    "readLink": "http://jwcc.iwaponline.com/content/12/4/1059"
+  },
+  {
+    "title": "Farmers’ Intention to Climate Change Adaptation in Agriculture in the Red River Delta Biosphere Reserve (Vietnam): A Combination of Structural Equation Modeling (SEM) and Protection Motivation Theory (PMT)",
+    "authors": [
+      "The  Anh Luu,",
+      "An  Thinh Nguyen,",
+      "Quoc  Anh Trinh,",
+      "Van  Tuan Pham,",
+      "Ba  Bien Le,",
+      "Duc  Thanh Nguyen,",
+      "Quoc  Nam Hoang,",
+      "Ha  T.T. Pham,",
+      "The  Kien Nguyen,",
+      "Van  Nang Luu,",
+      "Luc Hens"
+    ],
+    "doi": "https://doi.org/10.3390/su11102993",
+    "journalVolume": "Vol. 11,\n                                no. 10\n                                \n                                  p.\n                                  2993",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Coastal communities living in the low delta areas of Vietnam are increasingly vulnerable to tropical storms and related natural hazards of global climate change. Particularly in the Red River Delta Biosphere Reserve (RRDBR), farmers change the crop structure and diversify agricultural systems to adapt to the changing climate. The paper deals with a quantitative approach combined with behavior theories and surveyed data to analyze farmers’ intention to climate change adaptation in agriculture. Based on the Protection Motivation Theory (PMT), seven constructs are developed to a questionnaire surveying 526 local farmers: risk perception, belief, habit, maladaptation, subjective norm, adaptation assessment, and adaptation intention. Structural Equation Modeling (SEM) is implemented to extract eight factors and to quantify the relationship between protective behavior factors with the adaptation intention of the surveyed farmers. Two bootstrap samples of sizes 800 and 1200 are generated to estimate the coefficients and standard errors. The SEM result suggests a regional and three local structural models for climate change adaptation intention of farmers living in the RRDBR. Farmers show a higher adaptation intention when they perceive higher climate risks threatening their physical health, finances, production, social relationships, and psychology. In contrast, farmers are less likely to intend to adapt when they are subject to wishful thinking, deny the climate risks, or believe in fatalism.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/10/2993"
+  },
+  {
+    "title": "Stable carbon isotopes of dissolved inorganic carbon in the Western North Pacific Ocean: Proxy for water mixing and dynamics",
+    "authors": [
+      "Tiantian Ge,",
+      "Chunle Luo,",
+      "Peng Ren,",
+      "Hongmei Zhang,",
+      "Di Fan,",
+      "Hongtao Chen,",
+      "Zhaohui Chen,",
+      "Jing Zhang,",
+      "Jing Zhang,",
+      "Xuchen Wang"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.998437",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The uptake of atmospheric CO2 and the cycle of dissolved inorganic carbon (DIC) in the ocean are the major mechanisms and pathways controlling global climate change and carbon cycling. The stable carbon isotope (δ13C) of DIC, therefore, provides an important tracer for processes such as air-sea exchange, photosynthesis, and water dynamics in the ocean. Here, we present new δ13C-DIC data on water samples collected from a north-south transect (13°N–40°N, 150°E) in the western North Pacific (NP) Ocean in November 2019 and compare the results with those previously reported for similar transects (149.3°E) during WOCE and CLIVAR projects over the past three decades. The values of δ13C-DIC, ranging from -0.83‰ to 0.86‰, were higher in the surface waters and decreased with depth. The high δ13C-DIC values in the surface waters were influenced primarily by isotopic fractionation during air-sea exchange and photosynthesis. With depth, the movement of different water masses and mixing, as well as bathypelagic respiration in the dark water of the ocean, all play important roles in influencing the distribution and isotopic signatures of δ13C-DIC in the western NP Ocean. The δ13C-DIC values of the 0–200 m water layer varied from -0.17‰ to 0.86‰, with lower values at high latitudes, affected by the low δ13C-DIC values carried by the Oyashio Current to the Kuroshio Extension (KE) region. A downward trend was present in the δ13C-DIC signature from north to south in the North Pacific Intermediate Water (NPIW) and Pacific Deep Water (PDW) in the western NP, which reflected the remineralization of organic matter with a horizontal transport of NPIW and PDW. We found a strong 13C Suess Effect in the upper 2,000 m in the western NP Ocean, and δ13C-DIC at the surface (<50 m) has decreased by 0.60‰-0.85‰ since 1993. The mean δ13C-DIC change in the surface ocean was estimated at 0.28‰ per decade between 1993 and 2019. The air-sea exchange and water mixing in the study area may have accelerated the absorption of anthropogenic CO2 in recent years, which likely caused a slightly faster rate of decrease in the δ13C-DIC from 2005–2019 than that observed from 1993–2005.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.998437/full"
+  },
+  {
+    "title": "Environmental Concerns of Russian Businesses: Top Company Missions and Climate Change Agenda",
+    "authors": [
+      "Tatyana  K. Molchanova,",
+      "Natalia  N. Yashalova,",
+      "Dmitry  A. Ruban"
+    ],
+    "doi": "https://doi.org/10.3390/cli8040056",
+    "journalVolume": "Vol. 8,\n                                no. 56\n                                \n                                  p.\n                                  56",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Climate change is on the national agenda of Russia due to this country’s contribution to greenhouse gas emissions and the expected degree of warming and precipitation increase in its territory. A content analysis of the mission statements of the 100 biggest Russian companies shows that 18.5% of them deal with environmental issues. About half of the companies that declare pro-environmental behavior belong to the energy production and transmission industry. It also is found that more than 30% of all leading hydrocarbon, chemical, and mining companies express environmental concerns in their mission statements. The main environmental priorities declared by the top Russian companies include caring for nature, production ecologization, energy efficiency, and ecological standards. These priorities are related to climate-friendly behavior, but the latter is not stated directly. Direct consideration of climate change in the mission statements of Russian companies is recommended.",
+    "readLink": "https://www.mdpi.com/2225-1154/8/4/56"
+  },
+  {
+    "title": "Bird communities of the arctic shrub tundra of Yamal: habitat specialists and generalists.",
+    "authors": [
+      "Vasiliy Sokolov,",
+      "Dorothée Ehrich,",
+      "Nigel G Yoccoz,",
+      "Alexander Sokolov,",
+      "Nicolas Lecomte"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0050335",
+    "journalVolume": "Vol. 7,\n                                no. 12\n                                \n                                  p.\n                                  e50335",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "BackgroundThe ratio of habitat generalists to specialists in birds has been suggested as a good indicator of ecosystem changes due to e.g. climate change and other anthropogenic perturbations. Most studies focusing on this functional component of biodiversity originate, however, from temperate regions. The Eurasian Arctic tundra is currently experiencing an unprecedented combination of climate change, change in grazing pressure by domestic reindeer and growing human activity.Methodology/principal findingsHere we monitored bird communities in a tundra landscape harbouring shrub and open habitats in order to analyse bird habitat relationships and quantify habitat specialization. We used ordination methods to analyse habitat associations and estimated the proportions of specialists in each of the main habitats. Correspondence Analysis identified three main bird communities, inhabiting upland, lowland and dense willow shrubs. We documented a stable structure of communities despite large multiannual variations of bird density (from 90 to 175 pairs/km(2)). Willow shrub thickets were a hotspot for bird density, but not for species richness. The thickets hosted many specialized species whose main distribution area was south of the tundra.Conclusion/significanceIf current arctic changes result in a shrubification of the landscape as many studies suggested, we would expect an increase in the overall bird abundance together with an increase of local specialists, since they are associated with willow thickets. The majority of these species have a southern origin and their increase in abundance would represent a strengthening of the boreal component in the southern tundra, perhaps at the expense of species typical of the subarctic zone, which appear to be generalists within this zone.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23239978/?tool=EBI"
+  },
+  {
+    "title": "Inverse double-C shaped square split ring resonator based metamaterial with multi-resonant frequencies for satellite band applications",
+    "authors": [
+      "Air Mohammad Siddiky,",
+      "Mohammad Rashed Iqbal Faruque,",
+      "Mohammad Tariqul Islam,",
+      "Sabirin Abdullah,",
+      "Mayeen Uddin Khandaker"
+    ],
+    "doi": "Vol. 19\n                                \n                                \n                                  p.\n                                  103454",
+    "issn": "2211-3797 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/results-in-physics/",
+    "abstract": "In this research article, horizontally placed inverse double-C shaped horizontally placed square split ring resonator (SSRR) based metamaterial with multi-resonant frequencies is presented for satellite band applications. The metamaterial has an artificially established structure on a dielectric substrate smaller than the wavelength of electromagnetic (EM) wave, which helps introduce new significant characteristics that can be achieved through a geometrical shape arrangement using external stimuli. The proposed metamaterial structure using a high-frequency structural simulator based on a finite integration technique to configure the electromagnetic properties. Five resonant frequencies with the different bandwidths for this unit cell are located between 2.47 and 2.75, 5.70–5.85, 7.04–8.09, 9.70–10.08 and 12.40–12.60 GHz respectively. This unit-cell structure are shown to better performance on effective parameters and size mitigation that make preferable to industrial collaboration for radar and satellite frequency applications with wider bandwidth and higher gain. The proposed SSRR structures were deployed to analyse the parametric studies using different substrate types, array designs and structural optimization.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S221137972031915X"
+  },
+  {
+    "title": "A dynamic monetary valuation perspective for carbon sequestration: Effect on biomass utilization strategy of Caragana plantation as an illustration",
+    "authors": [
+      "Yan Yan,",
+      "Wenzhen Liu,",
+      "Jinsong Wang,",
+      "Wen Yu,",
+      "Huming Luo,",
+      "Weiguo Liu"
+    ],
+    "doi": "Vol. 128\n                                \n                                \n                                  p.\n                                  107854",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Carbon sequestration plays an essential role in climate regulation, and its monetary value is critical for decision-making. To encourage carbon sequestration and avoid expensing the ecosystem services for future generations, a dynamic monetary valuation perspective was developed by integrating a carbon dynamics model of ecosystems and an atmospheric carbon cycle model. A case study of biomass utilization in Northern Shaanxi was conducted to illustrative the performance of this approach by comparing with the conventional approach. The carbon dynamics in the available lands were simulated by the CENTURY model under the RCP4.5 climate change scenario. The results suggested that the carbon storage was doubled without biomass utilization in the projected 25 years. When biomass was harvested, carbon storage decreased slightly. The monetary value without biomass harvesting in the dynamic approach was higher than that in the conventional approach. After analogizing the monetary values of carbon sequestration and biomass utilization, there was a lower likelihood of biomass harvesting in the dynamic approach than in the conventional approach.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X21005197"
+  },
+  {
+    "title": "Making Climate Risks Governable in Swedish Municipalities: Crisis Preparedness, Technical Measures, and Public Involvement",
+    "authors": [
+      "Rolf Lidskog,",
+      "Linn Rabe"
+    ],
+    "doi": "https://doi.org/10.3390/cli10070090",
+    "journalVolume": "Vol. 10,\n                                no. 90\n                                \n                                  p.\n                                  90",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Creating preparedness for climate change has become an increasingly important task for society. In Sweden, the responsibility for crisis preparedness rests to a large extent on the municipalities. Through an interview study of municipal officials, this paper examines municipalities’ crisis preparedness for climate change and the role they assign to citizens. The theoretical approach is that of risk governance, which adopts an inclusive approach to risk management, and that of risk sociology, which states that how a problem is defined determines how it should be handled and by whom. The empirical results show that the municipal officials mainly discuss technically defined risks, such as certain kinds of climate-related extreme events, the handling of which does not require any substantial involvement of citizens. Citizens’ responsibility is only to be individually prepared, and thereby they do not require municipal resources to protect their own properties in the case of an extreme event. The municipalities, however, feel that their citizens have not developed this individual preparedness and therefore they try to better inform them. This analysis finds five different views of citizens, all with their own problems, and to which the municipalities respond with different communicative measures. By way of conclusion, three crucial aspects are raised regarding the task of making societies better prepared for climate change.",
+    "readLink": "https://www.mdpi.com/2225-1154/10/7/90"
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Regional differences in global glacier retreat from 1980 to 2015",
+    "authors": [
+      "Yao-Jun Li,",
+      "Yong-Jian Ding,",
+      "Dong-Hui Shangguan,",
+      "Rong-Jun Wang"
+    ],
+    "doi": "Vol. 10,\n                                no. 4\n                                \n                                  pp.\n                                  203\n                                  – 213",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "Global warming triggers shrinking and thinning of glaciers worldwide, with potentially severe implications for human society. However, regional differences in glacier retreat and its relationship with climatic characteristics have not been conclusively demonstrated. In this study, regional changes in global glaciers based on two primary features, area change and mass balance, were investigated on the basis of data collected from published research on glacier changes. Results show that during the period 1980–2015, the rate of global glacier area shrinkage was 0.18% per year and that of global glacier mass loss was 0.25 m w.e. per year. Retreat of glaciers located at low and middle latitudes was characterized by severe area shrinkage and mass loss. Correspondingly, in the Arctic, deglaciation was characterized by ice thinning due to a low area reduction but relatively high mass loss rate. However, glaciers in high southern latitudes were in a relatively stable status. High Mountain Asia exhibited the lowest rate of area shrinkage and mass loss among glaciers located at low and middle latitudes, and a slower rate of mass loss compared with the global average. Glaciers in the Tropical Andes exhibited the fastest rate of glacier area shrinkage (−1.6% per year), whereas Antarctic and Subantarctic glaciers showed the lowest rate (−0.11% per year). For mass balance, the most negative occurred at Southern Andes (−0.81 m w.e. per year), followed by Alaska (−0.74 m w.e. per year). Only the Antarctic and Subantarctic experienced small mass gain (0.04 m w.e. per year). High levels of correlation are found between the rates of glacier retreat and annual average temperature and annual total precipitation instead of their trends. The variability of the surface climate conditions in the glacier environment plays a key role in driving these regional differences in global glacier retreat. Keywords: Glacier retreat, Regional differences, Climate change",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927820300058"
+  },
+  {
+    "title": "Field evaluation of a deep learning-based smart variable-rate sprayer for targeted application of agrochemicals",
+    "authors": [
+      "Aitazaz A. Farooque,",
+      "Nazar Hussain,",
+      "Arnold W. Schumann,",
+      "Farhat Abbas,",
+      "Hassan Afzaal,",
+      "Andrew McKenzie-Gopsill,",
+      "Travis Esau,",
+      "Qamar Zaman,",
+      "Xander Wang"
+    ],
+    "doi": "Vol. 3\n                                \n                                \n                                  p.\n                                  100073",
+    "issn": "2772-3755 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Agriculture: Agriculture (General)",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Agricultural industries"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/smart-agricultural-technology",
+    "abstract": "The field performance of a newly developed novel smart variable-rate sprayer was evaluated. The sprayer uses convolutional neural networks (CNNs) for target detection and spot-applications of agrochemicals within potato (Solanum tuberosum L.) fields attacked by lamb's quarters (Chenopodium album L.) and corn spurry (Spergula arvensis L.) weeds and the early blight potato disease caused by Alternaria solani Sorauer. There was a non-significant effect of treatment conditions (i.e., cloudy, partly cloudy, and sunny) on spray volume during weed and diseased plant detection experiments (p-value = 0.93 and 0.75, respectively) showing that the smart sprayer performed well during all treatment conditions. There was a significant effect of spraying application techniques on the use of spray volume (p-value ≤ 0.05) reflecting a significant saving of spraying liquid during variable-rate application (VA). On average, the sprayer reduced spray volume by 47 and 51% for weeds and diseased plant detection experiments as compared to the values of chemicals applied at constant-rate application (CA), respectively, under all treatment conditions. The analysis of water-sensitive papers (WSP) data resulted in non-significant differences between CA and VA under all field conditions. These results suggest that this sprayer has a great potential to get a suitable spot application of agrochemicals and reduce the use of plant protection products thereby ensuring farm profits and environmental stewardship.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2772375522000387"
+  },
+  {
+    "title": "Intangible and integrated responding",
+    "authors": [
+      "Gogić Nemanja"
+    ],
+    "doi": "https://doi.org/10.5937/etp2202088G",
+    "journalVolume": "Vol. 15,\n                                no. 2\n                                \n                                  pp.\n                                  88\n                                  – 104",
+    "issn": "2217-5458 (Print)",
+    "publisher": "2620-0228 (Online)",
+    "countryOfPublisher": "University Business Academy - Faculty of Economics and Engineering Management, Novi Sad, Serbia",
+    "lcc": [
+      "Serbia",
+      "Social Sciences: Commerce: Business"
+    ],
+    "journalUrl": "https://scindeks.ceon.rs/journaldetails.aspx?issn=2217-5458",
+    "abstract": "Compilation of non-financial and integrated reporting has arisen due to declining credibility and confidence in financial reporting, which have arisen due to the global economic crisis, blaming the growing number of accounting and company fraud in the last period, climate change, doubts about social and environmental implications globalization. The reaction to such an environment is the distrust of investors and other state holders in traditional financial reporting as well as the growing popularity of topics, corporate governance, sustainable development, corporate sustainability and integrated reporting. The paper presents the many advantages and limitations that companies face when compiling and presenting non-financial and integrated reporting, as the supreme framework for reporting.",
+    "readLink": "https://scindeks-clanci.ceon.rs/data/pdf/2217-5458/2022/2217-54582202088G.pdf"
+  },
+  {
+    "title": "Classifying forest inventory data into species-based forest community types at broad extents: exploring tradeoffs among supervised and unsupervised approaches",
+    "authors": [
+      "Jennifer K. Costanza,",
+      "Don Faber-Langendoen,",
+      "John W. Coulston,",
+      "David N. Wear"
+    ],
+    "doi": "https://doi.org/10.1186/s40663-017-0123-x",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 17",
+    "issn": "2095-6355 (Print)",
+    "publisher": "2197-5620 (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.keaipublishing.com/en/journals/forest-ecosystems/",
+    "abstract": "Abstract Background Knowledge of the different kinds of tree communities that currently exist can provide a baseline for assessing the ecological attributes of forests and monitoring future changes. Forest inventory data can facilitate the development of this baseline knowledge across broad extents, but they first must be classified into forest community types. Here, we compared three alternative classifications across the United States using data from over 117,000 U.S. Department of Agriculture Forest Service Forest Inventory and Analysis (FIA) plots. Methods Each plot had three forest community type labels: (1) “FIA” types were assigned by the FIA program using a supervised method; (2) “USNVC” types were assigned via a key based on the U.S. National Vegetation Classification; (3) “empirical” types resulted from unsupervised clustering of tree species information. We assessed the degree to which analog classes occurred among classifications, compared indicator species values, and used random forest models to determine how well the classifications could be predicted using environmental variables. Results The classifications generated groups of classes that had broadly similar distributions, but often there was no one-to-one analog across the classifications. The longleaf pine forest community type stood out as the exception: it was the only class with strong analogs across all classifications. Analogs were most lacking for forest community types with species that occurred across a range of geographic and environmental conditions, such as loblolly pine types. Indicator species metrics were generally high for the USNVC, suggesting that USNVC classes are floristically well-defined. The empirical classification was best predicted by environmental variables. The most important predictors differed slightly but were broadly similar across all classifications, and included slope, amount of forest in the surrounding landscape, average minimum temperature, and other climate variables. Conclusions The classifications have similarities and differences that reflect their differing approaches and objectives. They are most consistent for forest community types that occur in a relatively narrow range of environmental conditions, and differ most for types with wide-ranging tree species. Environmental variables at a variety of scales were important for predicting all classifications, though strongest for the empirical and FIA, suggesting that each is useful for studying how forest communities respond to of multi-scale environmental processes, including global change drivers.",
+    "readLink": "http://link.springer.com/article/10.1186/s40663-017-0123-x"
+  },
+  {
+    "title": "GHG Global Emission Prediction of Synthetic N Fertilizers Using Expectile Regression Techniques",
+    "authors": [
+      "Kaoutar Benghzial,",
+      "Hind Raki,",
+      "Sami Bamansour,",
+      "Mouad Elhamdi,",
+      "Yahya Aalaila,",
+      "Diego H. Peluffo-Ordóñez"
+    ],
+    "doi": "https://doi.org/10.3390/atmos14020283",
+    "journalVolume": "Vol. 14,\n                                no. 283\n                                \n                                  p.\n                                  283",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Agriculture accounts for a large percentage of nitrous oxide (N2O) emissions, mainly due to the misapplication of nitrogen-based fertilizers, leading to an increase in the greenhouse gas (GHG) footprint. These emissions are of a direct nature, released straight into the atmosphere through nitrification and denitrification, or of an indirect nature, mainly through nitrate leaching, runoff, and N2O volatilization processes. N2O emissions are largely ascribed to the agricultural sector, which represents a threat to sustainability and food production, subsequent to the radical contribution to climate change. In this connection, it is crucial to unveil the relationship between synthetic N fertilizer global use and N2O emissions. To this end, we worked on a dataset drawn from a recent study, which estimates direct and indirect N2O emissions according to each country, by the Intergovernmental Panel on Climate Change (IPCC) guidelines. Machine learning tools are considered great explainable techniques when dealing with air quality problems. Hence, our work focuses on expectile regression (ER) based-approaches to predict N2O emissions based on N fertilizer use. In contrast to classical linear regression (LR), this method allows for heteroscedasticity and omits a parametric specification of the underlying distribution. ER provides a complete picture of the target variable’s distribution, especially when the tails are of interest, or in dealing with heavy-tailed distributions. In this work, we applied expectile regression and the kernel expectile regression estimator (KERE) to predict direct and indirect N2O emissions. The results outline both the flexibility and competitiveness of ER-based techniques in regard to the state-of-the-art regression approaches.",
+    "readLink": "https://www.mdpi.com/2073-4433/14/2/283"
+  },
+  {
+    "title": "Contribution of green urban areas to the achievement of SDGs. Case study in Valencia (Spain)",
+    "authors": [
+      "Edgar Lorenzo-Sáez,",
+      "Victoria Lerma-Arce,",
+      "Eloina Coll-Aliaga,",
+      "Jose-Vicente Oliver-Villanueva"
+    ],
+    "doi": "Vol. 131\n                                \n                                \n                                  p.\n                                  108246",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "The Agenda for Sustainable Development 2030 of United Nations is made up of the 17 Sustainable Development Goals (SDGs) that humanity will have to meet by 2030. In achieving the SDGs, green urban areas (GUA) play a fundamental role at the local level as they provide recreational and bioclimatic regulatory functions and act as a carbon sink, as well. Specifically, the GUAs contribute directly to three SDGs: SDG 11 Sustainable cities and communities, SDG 13 Climate Action and SDG 15 Life on land.This paper evaluates direct contribution of GUA to this SDGs with high spatial resolution in the case study of the city of Valencia (Spain). The evaluation carried out has made it possible to make a diagnosis of the quantity and accessibility of GUA at sub-neighbourhood level. The results for SDG 11 show that only 9.23% of the population do not have desirable access to GUA and 2.73% live in areas without easy walking distance access to GUA. On the other hand, the evaluation of SDG 15 shows that each inhabitant has at their disposal 10 m2 of GUA, below the average of cities of more than 250,000 inhabitants in Spain. The high spatial resolution of the evaluation has also made it possible to identify the city areas with the worst access to GUA and the least amount of GUA per inhabitant. In consequence, the results allow determining zones with high potential to improve. Additionally, the quantification of the CO2 fixed by the GUA carried out for the evaluation of SDG 13, shows that the fixed carbon is equivalent to 0.04% of total gross GHG emissions of the city and is 36% higher than the total GHG emissions of the annual fuel consumption of the total fleet in the city. Finally, the monitoring of the indicators applied allows evaluating the evolution of the GUA to improve the sustainable development of the city.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X21009110"
+  },
+  {
+    "title": "A Dynamic Analysis of the Role of the Planetary- and Synoptic-Scale in the Summer of 2010 Blocking Episodes over the European Part of Russia",
+    "authors": [
+      "Anthony R. Lupo,",
+      "Igor I. Mokhov,",
+      "Merseid G. Akperov,",
+      "Alexander V. Chernokulsky,",
+      "H. Athar"
+    ],
+    "doi": "https://doi.org/10.1155/2012/584257",
+    "journalVolume": "Vol. 2012",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "During the summer of 2010, an unusually persistent blocking episode resulted in anomalously warm dry weather over the European part of Russia. The excessive heat resulted in forest and peat fires, impacted terrestrial ecosystems, greatly increased pollution in urban areas, and increased mortality rates in the region. Using the National Centers for Atmospheric Research (NCAR), National Centers for Environmental Prediction (NCEP) reanalysis datasets, the climatological and dynamic character of blocking events for summer 2010 and a precursor May blocking event were examined. We found that these events were stronger and longer lived than typical warm season events. Using dynamic methods, we demonstrate that the July 2010 event was a synoptic-scale dominant blocking event; unusual in the summer season. An analysis of phase diagrams demonstrated that the planetary-scale did not become stable until almost one week after block onset. For all other blocking events studied here and previously, the planetary-scale became stable around onset. Analysis using area integrated regional enstrophy (IRE) demonstrated that for the July 2010 event, synoptic-scale IRE increased at block onset. This was similar for the May 2010 event, but different from case studies examined previously that demonstrated the planetary-scale IRE was prominent at block onset.",
+    "readLink": "http://dx.doi.org/10.1155/2012/584257"
+  },
+  {
+    "title": "Risks and opportunities of assisted colonization: the perspectives of experts",
+    "authors": [
+      "Irma Kracke,",
+      "Franz Essl,",
+      "Klaus Peter Zulka,",
+      "Stefan Schindler"
+    ],
+    "doi": "https://doi.org/10.3897/natureconservation.45.72554",
+    "journalVolume": "Vol. 45\n                                \n                                \n                                  pp.\n                                  63\n                                  – 84",
+    "issn": "1314-6947 (Print)",
+    "publisher": "1314-3301 (Online)",
+    "countryOfPublisher": "Pensoft Publishers",
+    "lcc": [
+      "Bulgaria",
+      "Science: Biology (General): Ecology",
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://natureconservation.pensoft.net/",
+    "abstract": "Owing to climate change and other anthropogenic environmental changes, the suitability of locations is changing for many biota that consequently have to adapt in situ or to move to other areas. To mitigate the effects of such pressures, assisted colonization is a conservation tool developed to reduce extinction risks by intentionally moving and releasing an organism outside its native range, and thus, to facilitate tracking changing environmental conditions. This conservation tool has been proposed for threatened animals or plants that presumably cannot adapt in situ or follow environmental changes by dispersal or migration. However, there have been contentious debates about the shortcomings and risks of implementing assisted colonization. For this reason, we evaluated the specific opinions of global experts for assisted colonization on potential risks and opportunities that this approach offers. For this purpose, we used an online survey targeted at authors of scientific publications on assisted colonization. The majority (82%) of the 48 respondents were in favor of applying assisted colonization for species that are at risk of global extinction due to anthropogenic environmental change. Most respondents agreed that assisted colonization should be considered only when other conservation tools are not available and that certain preconditions must be met. Some of these were already highlighted in the IUCN guidelines for assisted colonization and include a completed risk assessment, clearly defined management plans and secured political as well as financial support. The advocacy of assisted colonization in response to anthropogenic global environmental changes was only weakly dependent on the geographic origin of the experts and their working background. Regarding possible risks, most of the respondents were concerned about consequences like failure of the long-term establishment of the translocated species and the transmission of diseases and invasiveness potentially endangering native biota. To keep these risks as low as possible most of the experts agreed that a target area must have a reasonable carrying capacity to sustain a minimum viable population and that adaptive management should be implemented. Careful evaluation of assisted colonization projects is required to generate further evidence that needs to be considered for further developing conservation tools for the Anthropocene.",
+    "readLink": "https://natureconservation.pensoft.net/article/72554/download/pdf/"
+  },
+  {
+    "title": "Data on terrestrial ferns species richness, abundance, and functional traits in Mashpi Rainforest Biodiversity Reserve in the Ecuadorian Chocó",
+    "authors": [
+      "Laura Salazar,",
+      "Paola Peña,",
+      "Renato Segura,",
+      "Mateo Roldán"
+    ],
+    "doi": "Vol. 46\n                                \n                                \n                                  p.\n                                  108784",
+    "issn": "2352-3409 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/data-in-brief/",
+    "abstract": "This data paper summarizes the data of a first survey of terrestrial ferns at Mashpi Biodiversity Reserve, an Ecuadorian Chocó forest relict, one of the most biodiverse areas in the world. We established 10 permanent plots of 400 m2 distributed in two elevational levels (800 and 1000 m a.s.l.) to register all species per plot and the abundance per species. In addition, we measured two morphological leaf functional traits of the species. We include a file with three tables, the first one includes a species list with scientific names and vouchers. The second one includes the abundance of each species per plot. The third one contains measurements of the leaf length and leaf thickness of several leaf samples of 28 species, representing the leaf functional traits of the species. This article also includes a table with coordinates and elevations of the plots and five figures with information about the number of genus and species per family, geographic location of plots and, the methodology for data collection. These data can be useful for plant ecologists to assess future changes of fern species composition and leaf functional traits of ferns caused by climate change and other threats at the study area.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352340922009878"
+  },
+  {
+    "title": "The role of cyclones and potential vorticity cutoffs for the  occurrence of unusually long wet spells in Europe",
+    "authors": [
+      "M. Röthlisberger,",
+      "B. Scherrer,",
+      "A. J. de Vries,",
+      "A. J. de Vries,",
+      "R. Portmann"
+    ],
+    "doi": "https://doi.org/10.5194/wcd-3-733-2022",
+    "journalVolume": "Vol. 3\n                                \n                                \n                                  pp.\n                                  733\n                                  – 754",
+    "issn": "2698-4016 (Online)",
+    "publisher": "Copernicus Publications",
+    "countryOfPublisher": "Germany",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.weather-climate-dynamics.net/",
+    "abstract": "The synoptic dynamics leading to the longest wet spells in Europe are so far poorly investigated despite these events' potentially large societal impacts. Here we examine the role of cyclones and potential vorticity (PV) cutoffs for unusually long wet spells in Europe, defined as the 20 longest uninterrupted periods with at least 5 mm daily accumulated precipitation at each ERA-Interim grid point in Europe (this set of spells is hereafter referred to as S20). The S20 occur predominantly in summer over the eastern continent, in winter over the North Atlantic, in winter or fall over the Atlantic coast, and in fall over the Mediterranean and European inland seas. Four case studies reveal distinct archetypal synoptic storylines for long wet spells: (a) a 7 d wet spell near Moscow, Russia, is associated with a single slow-moving cutoff–cyclone couple; (b) a 15 d wet spell in Norway features a total of nine rapidly passing extratropical cyclones and illustrates serial cyclone clustering as a second storyline; (c) a 12 d wet spell in Tuscany, Italy, is associated with a single but very large cutoff complex, which is replenished multiple times by a sequence of recurrent anticyclonic wave breaking events over the North Atlantic and western Europe; and (d) a 17 d wet spell in the Balkans features intermittent periods of diurnal convection in an environment of weak synoptic forcing and recurrent passages of cutoffs and thus also highlights the role of diurnal convection for long wet spells over land. A systematic analysis of cyclone and cutoff occurrences during the S20 across Europe reveals considerable spatial variability in their respective role for the S20. For instance, cyclones are present anywhere between 10 % and 90 % and cutoffs between 20 % and 70 % of the S20 time steps, depending on the geographical region. However, overall both cyclones and cutoffs appear in a larger number and at a higher rate during the S20 compared to climatology. Furthermore, in the Mediterranean, cutoffs and cyclones are significantly more persistent during the S20 compared to climatology. Our study thus documents for the first time the palette of synoptic storylines accompanying unusually long wet spells across Europe, which is a prerequisite for developing an understanding of how these events might change in a warming climate and for evaluating the ability of climate models to realistically simulate the synoptic processes relevant to these events.",
+    "readLink": "https://wcd.copernicus.org/articles/3/733/2022/wcd-3-733-2022.pdf"
+  }
+]

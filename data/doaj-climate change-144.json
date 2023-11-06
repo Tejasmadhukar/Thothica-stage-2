@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Impact of Spatial Soil Variability on Rainfed Maize Yield in Kansas under a Changing Climate",
+    "authors": [
+      "Rintu Sen,",
+      "Zachary T. Zambreski,",
+      "Vaishali Sharda"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy13030906",
+    "journalVolume": "Vol. 13,\n                                no. 906\n                                \n                                  p.\n                                  906",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "As the climate changes, a growing demand exists to identify and manage spatial variation in crop yield to ensure global food security. This study assesses spatial soil variability and its impact on maize yield under a future climate in eastern Kansas’ top ten maize-producing counties. A cropping system model, CERES-Maize of Decision Support System for Agrotechnology Transfer (DSSAT) was calibrated using observed maize yield. To account for the spatial variability of soils, the gSSURGO soil database was used. The model was run for a baseline and future climate change scenarios under two Representative Concentration Pathways (RCP4.5 and RCP8.5) to assess the impact of future climate change on rainfed maize yield. The simulation results showed that maize yield was impacted by spatial soil variability, and that using spatially distributed soils produces a better simulation of yield as compared to using the most dominant soil in a county. The projected increased temperature and lower precipitation patterns during the maize growing season resulted in a higher yield loss. Climate change scenarios projected 28% and 45% higher yield loss under RCP4.5 and RCP8.5 at the end of the century, respectively. The results indicate the uncertainties of growing maize in our study region under the changing climate, emphasizing the need for developing strategies to sustain maize production in the region.",
+    "readLink": "https://www.mdpi.com/2073-4395/13/3/906"
+  },
+  {
+    "title": "GMD perspective: The quest to improve the evaluation of groundwater representation in continental- to  global-scale models",
+    "authors": [
+      "T. Gleeson,",
+      "T. Wagener,",
+      "T. Wagener,",
+      "T. Wagener,",
+      "P. Döll,",
+      "S. C. Zipper,",
+      "S. C. Zipper,",
+      "C. West,",
+      "Y. Wada,",
+      "R. Taylor,",
+      "B. Scanlon,",
+      "R. Rosolem,",
+      "S. Rahman,",
+      "N. Oshinlaja,",
+      "R. Maxwell,",
+      "M.-H. Lo,",
+      "H. Kim,",
+      "H. Kim,",
+      "H. Kim,",
+      "M. Hill,",
+      "A. Hartmann,",
+      "A. Hartmann,",
+      "G. Fogg,",
+      "J. S. Famiglietti,",
+      "A. Ducharne,",
+      "I. de Graaf,",
+      "I. de Graaf,",
+      "M. Cuthbert,",
+      "M. Cuthbert,",
+      "L. Condon,",
+      "E. Bresciani,",
+      "M. F. P. Bierkens,",
+      "M. F. P. Bierkens"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-14-7545-2021",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  7545\n                                  – 7571",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Continental- to global-scale hydrologic and land surface models increasingly include representations of the groundwater system. Such large-scale models are essential for examining, communicating, and understanding the dynamic interactions between the Earth system above and below the land surface as well as the opportunities and limits of groundwater resources. We argue that both large-scale and regional-scale groundwater models have utility, strengths, and limitations, so continued modeling at both scales is essential and mutually beneficial. A crucial quest is how to evaluate the realism, capabilities, and performance of large-scale groundwater models given their modeling purpose of addressing large-scale science or sustainability questions as well as limitations in data availability and commensurability. Evaluation should identify if, when, or where large-scale models achieve their purpose or where opportunities for improvements exist so that such models better achieve their purpose. We suggest that reproducing the spatiotemporal details of regional-scale models and matching local data are not relevant goals. Instead, it is important to decide on reasonable model expectations regarding when a large-scale model is performing “well enough” in the context of its specific purpose. The decision of reasonable expectations is necessarily subjective even if the evaluation criteria are quantitative. Our objective is to provide recommendations for improving the evaluation of groundwater representation in continental- to global-scale models. We describe current modeling strategies and evaluation practices, and we subsequently discuss the value of three evaluation strategies: (1) comparing model outputs with available observations of groundwater levels or other state or flux variables (observation-based evaluation), (2) comparing several models with each other with or without reference to actual observations (model-based evaluation), and (3) comparing model behavior with expert expectations of hydrologic behaviors in particular regions or at particular times (expert-based evaluation). Based on evolving practices in model evaluation as well as innovations in observations, machine learning, and expert elicitation, we argue that combining observation-, model-, and expert-based model evaluation approaches, while accounting for commensurability issues, may significantly improve the realism of groundwater representation in large-scale models, thus advancing our ability for quantification, understanding, and prediction of crucial Earth science and sustainability problems. We encourage greater community-level communication and cooperation on this quest, including among global hydrology and land surface modelers, local to regional hydrogeologists, and hydrologists focused on model development and evaluation.",
+    "readLink": "https://gmd.copernicus.org/articles/14/7545/2021/gmd-14-7545-2021.pdf"
+  },
+  {
+    "title": "Uncovering Engagement Networks for Adaptation in Three Regional Communities: Empirical Examples from New South Wales, Australia",
+    "authors": [
+      "Rebecca Cunningham,",
+      "Brent Jacobs,",
+      "Thomas  G. Measham"
+    ],
+    "doi": "https://doi.org/10.3390/cli9020021",
+    "journalVolume": "Vol. 9,\n                                no. 21\n                                \n                                  p.\n                                  21",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Climate change is a significant challenge for policy makers, planners and communities. While adaptation responses are generally recognised to be place-based, policy processes on adaptation often reside with central (state or national) governments that may be remote from regional communities. In this paper, we contribute to the literature regarding how diverse regional communities engage with planning and policy for climate adaptation, which is important for successful implementation. We adopt a social network analysis (SNA) approach that enables an exploration of the interaction of community networks with policy information. There are limited empirical studies of information sharing about climate adaptation policy through community knowledge networks. One previous study, located in coastal New South Wales, Australia, mapped the community’s knowledge acquisition and diffusion to reveal the underlying network structures that influenced policy engagement pathways. However, further studies are needed to determine how the features of community networks may change with local context (e.g., coastal versus inland). This paper extends previous studies to compare and contrast adaptation knowledge networks in three NSW communities: Shoalhaven (the original coastal study site), Bega (coastal) and Orange (inland). Findings suggest that the presence of a natural resource-dependent industry, local geographies and boundary spanners acting as network knowledge brokers are factors influencing community knowledge flows. The work further demonstrates the utility of SNA to measure knowledge networks that can inform government engagement and communication with communities on climate adaptation policy.",
+    "readLink": "https://www.mdpi.com/2225-1154/9/2/21"
+  },
+  {
+    "title": "Optimal parameters of the SVM for temperature prediction",
+    "authors": [
+      "X. Shi,",
+      "Q. Huang,",
+      "J. Chang,",
+      "Y. Wang,",
+      "J. Lei,",
+      "J. Zhao"
+    ],
+    "doi": "https://doi.org/10.5194/piahs-368-162-2015",
+    "journalVolume": "Vol. 368\n                                \n                                \n                                  pp.\n                                  162\n                                  – 167",
+    "issn": "2199-8981 (Print)",
+    "publisher": "2199-899X (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.proceedings-international-association-of-hydrological-sciences.net/",
+    "abstract": "This paper established three different optimization models in order to predict the Foping station temperature value. The dimension was reduced to change multivariate climate factors into a few variables by principal component analysis (PCA). And the parameters of support vector machine (SVM) were optimized with genetic algorithm (GA), particle swarm optimization (PSO) and developed genetic algorithm. The most suitable method was applied for parameter optimization by comparing the results of three different models. The results are as follows: The developed genetic algorithm optimization parameters of the predicted values were closest to the measured value after the analog trend, and it is the most fitting measured value trends, and its homing speed is relatively fast.",
+    "readLink": "https://www.proc-iahs.net/368/162/2015/piahs-368-162-2015.pdf"
+  },
+  {
+    "title": "Characteristics of the Water Vapor Transport in the Canyon Area of the Southeastern Tibetan Plateau",
+    "authors": [
+      "Maoshan Li,",
+      "Lingzhi Wang,",
+      "Na Chang,",
+      "Ming Gong,",
+      "Yaoming Ma,",
+      "Yaoxian Yang,",
+      "Xuelong Chen,",
+      "Cunbo Han,",
+      "Fanglin Sun"
+    ],
+    "doi": "https://doi.org/10.3390/w13243620",
+    "journalVolume": "Vol. 13,\n                                no. 3620\n                                \n                                  p.\n                                  3620",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Changes in the surface fluxes cause changes in the annular flow field over a region, and they affect the transport of water vapor. To study the influence of the changes in the surface flux on the water vapor transport in the upper layer in the canyon area of southeastern Tibet, in this study, the water vapor transport characteristics were analyzed using the HYSPLIT_v4 backward trajectory model at Danka and Motuo stations in the canyons in the southeastern Tibetan Plateau from November 2018 to October 2019. Then, using ERA-5 reanalysis data from 1989 to 2019 and the characteristics of the high-altitude water vapor transportation, the impact of the surface flux changes on the water vapor transportation was analyzed using singular value decomposition (SVD). The results show that the main sources of the water vapor in the study area were from the west and southwest during the non-Asian monsoon (non-AMS), while there was mainly southwest air flow and a small amount of southeast air flow in the lower layer during the Asian monsoon (AMS) at the stations in southeastern Tibet. The water vapor transmission channel of the westward airflow is higher than 3000 m, and the water vapor transmission channel of the southwestward and southeastward airflow is about 2000 m. The sensible heat and latent heat are negatively correlated with water vapor flux divergence. The southwest boundary of southeastern Tibet is a key area affecting water vapor flux divergence. When the sensible heat and latent heat exhibit downward trends during the non-Asian monsoon season, the eastward water vapor flux exhibits an upward trend. During the Asian monsoon season, when the sensible heat and latent heat in southeastern Tibet increase as a whole, the eastward water vapor flux in the total-column of southeastern Tibet increases.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/24/3620"
+  },
+  {
+    "title": "Erratum: Nasonova, S. et al. Linking Regional Winter Sea Ice Thickness and Surface Roughness to Spring Melt Pond Fraction on Landfast Arctic Sea Ice. Remote Sens. 2018, 10, 37",
+    "authors": [
+      "Sasha Nasonova,",
+      "Randall  K. Scharien,",
+      "Christian Haas,",
+      "Stephen  E. L. Howell"
+    ],
+    "doi": "https://doi.org/10.3390/rs10050774",
+    "journalVolume": "Vol. 10,\n                                no. 5\n                                \n                                  p.\n                                  774",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "After publication of the research paper [1], the authors wish to make the following correction[...]",
+    "readLink": "http://www.mdpi.com/2072-4292/10/5/774"
+  },
+  {
+    "title": "Trend analysis of historical and future precipitation projections over a diverse topographic region of Khyber Pakhtunkhwa using SDSM",
+    "authors": [
+      "Ghani Rahman,",
+      "Atta-ur Rahman,",
+      "Saira Munawar,",
+      "Muhammad Farhan Ul Moazzam,",
+      "Muhammad Dawood,",
+      "Muhammad Miandad,",
+      "Sanaullah Panezai"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2022.160",
+    "journalVolume": "Vol. 13,\n                                no. 11\n                                \n                                  pp.\n                                  3792\n                                  – 3811",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "This study focuses on the spatio-temporal analysis of rainfall variability, trend patterns, and projected changes using GCM CCSM4 for RCP4.5 and RCP8.5 in Khyber Pakhtunkhwa. The historical rainfall variability (1971–2018), trend, and magnitude were assessed using Mann–Kendall and Spearman's Rho. In addition, to downscale GCMs data of precipitation at the regional level of Khyber Pakhtunkhwa, the SDSM conditional sub-model was applied. The monthly Mann–Kendall and Spearman's Rho trend test results revealed that most of the meteorological stations located in the northeastern mountains recorded a decreasing trend while Parachinar observed an increasing trend in almost all months except December. The trend results for seasonal rainfall showed a decreasing trend in winter, spring, and summer in the north and northeastern parts of Khyber Pakhtunkhwa whereas an increasing trend was observed in all seasons at Parachinar. The RCP4.5 projections depicted an increase in precipitation especially in the monsoon-dominating regions in comparison to the western disturbances, while decreasing rainfall projection was observed in RCP8.5. The projections for the summer and winter seasons depicted an increasing trend until the mid-century but in the latter half, a decline is registered. Such seasonal changes may initially cause flooding followed by drought, which calls for effective water management strategies. HIGHLIGHTS The manuscript focuses on the rainfall variability in Khyber Pakhtunkhwa.; The trend and magnitude of the trend have been detected in this study based on Mann–Kendall and Sen's Slope.; It projects the rainfall in the region using 4.5 and 8.5 RCPs.;",
+    "readLink": "http://jwcc.iwaponline.com/content/13/11/3792"
+  },
+  {
+    "title": "THE IMPACT OF DUBAI'S WORLD GREEN ECONOMY SUMMIT ON CHINA'S NEW THINKING OF GREEN ECONOMY",
+    "authors": [
+      "Xie Chunyu"
+    ],
+    "doi": "https://doi.org/10.31435/rsglobal_ijite/30062021/7601",
+    "journalVolume": "no. 2(34)",
+    "issn": "2412-8368 (Print)",
+    "publisher": "2414-1305 (Online)",
+    "countryOfPublisher": "RS Global Sp. z O.O.",
+    "lcc": [
+      "Poland",
+      "Social Sciences: Economic theory. Demography: Economics as a science"
+    ],
+    "journalUrl": "https://rsglobal.pl/index.php/ijite",
+    "abstract": "As the global epidemic continues to have an impact on the world economy and public health, the issue of climate change is still the core threat facing the world. The \"2020 Global Risk Report\" issued by the World Economic Forum (WEF) pointed out that the five major risks facing the world in the next 10 years are all related to the environment. A study on this pointed out: If governments adopt greener economic recovery plans, the world can reduce the temperature rise by 0.3°C by the middle of this century. In other words, accelerating green economic growth after the epidemic and promoting green transformation in all aspects have become the top issues facing countries. Some of the economic recovery plans proposed by Western Europe, South Korea, Canada and other countries may have a positive effect on the environment. Economic stimulus plans such as China, the United States, Australia, Italy, and Japan will invest most of the funds in non-green areas. Among them, the US economic stimulus plan may the negative environmental impact is the greatest. The Dubai's World Green Economy Summit held this year undoubtedly produced a revolutionary change in thinking for the largest developing country like China.",
+    "readLink": "https://rsglobal.pl/index.php/ijite/article/view/2037"
+  },
+  {
+    "title": "Colonial Forces of Environmental Violence on Deaf, Disabled, & Ill Indigenous People",
+    "authors": [
+      "Jen Deerinwater"
+    ],
+    "doi": "https://doi.org/10.18061/dsq.v41i4.8479",
+    "journalVolume": "Vol. 41,\n                                no. 4",
+    "issn": "1041-5718 (Print)",
+    "publisher": "2159-8371 (Online)",
+    "countryOfPublisher": "The Ohio State University Libraries",
+    "lcc": [
+      "United States",
+      "Social Sciences"
+    ],
+    "journalUrl": "http://dsq-sds.org",
+    "abstract": "No abstract available.",
+    "readLink": "https://dsq-sds.org/article/view/8479"
+  },
+  {
+    "title": "Climate change and health in Bangladesh: a baseline cross-sectional survey",
+    "authors": [
+      "Md Iqbal Kabir,",
+      "Md Bayzidur Rahman,",
+      "Wayne Smith,",
+      "Mirza Afreen Fatima Lusha,",
+      "Abul Hasnat Milton"
+    ],
+    "doi": "https://doi.org/10.3402/gha.v9.29609",
+    "journalVolume": "Vol. 9,\n                                no. 0\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "1654-9880 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/zgha",
+    "abstract": "Background: Bangladesh is facing the unavoidable challenge of adaptation to climate change. However, very little is known in relation to climate change and health. This article provides information on potential climate change impact on health, magnitude of climate-sensitive diseases, and baseline scenarios of health systems to climate variability and change. Design: A cross-sectional study using multistage cluster sampling framework was conducted in 2012 among 6,720 households of 224 rural villages in seven vulnerable districts of Bangladesh. Information was obtained from head of the households using a pretested, interviewer-administered, structured questionnaire. A total of 6,720 individuals participated in the study with written, informed consent. Results: The majority of the respondents were from the low-income vulnerable group (60% farmers or day labourers) with an average of 30 years’ stay in their locality. Most of them (96%) had faced extreme weather events, 45% of people had become homeless and displaced for a mean duration of 38 days in the past 10 years. Almost all of the respondents (97.8%) believe that health care expenditure increased after the extreme weather events. Mean annual total health care expenditure was 6,555 Bangladeshi Taka (BDT) (1 USD=77 BDT in 2015) and exclusively out of pocket of the respondents. Incidence of dengue was 1.29 (95% CI 0.65–2.56) and malaria 13.86 (95% CI 6.00–32.01) per 1,000 adult population for 12 months preceding the data collection. Incidence of diarrhoea and pneumonia among under-five children of the households for the preceding month was 10.3% (95% CI 9.16–11.66) and 7.3% (95% CI 6.35–8.46), respectively. Conclusions: The findings of this survey indicate that climate change has a potential adverse impact on human health in Bangladesh. The magnitude of malaria, dengue, childhood diarrhoea, and pneumonia was high among the vulnerable communities. Community-based adaptation strategy for health could be beneficial to minimise climate change attributed health burden of Bangladesh.",
+    "readLink": "http://www.globalhealthaction.net/index.php/gha/article/view/29609/pdf_137"
+  }
+]

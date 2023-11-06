@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Addressing gender in agricultural research for development in the face of a changing climate: where are we and where should we be going?",
+    "authors": [
+      "Patricia Kristjanson,",
+      "Elizabeth Bryan,",
+      "Quinn Bernier,",
+      "Jennifer Twyman,",
+      "Ruth Meinzen-Dick,",
+      "Caitlin Kieran,",
+      "Claudia Ringler,",
+      "Christine Jost,",
+      "Cheryl Doss"
+    ],
+    "doi": "https://doi.org/10.1080/14735903.2017.1336411",
+    "journalVolume": "Vol. 15,\n                                no. 5\n                                \n                                  pp.\n                                  482\n                                  – 500",
+    "issn": "1473-5903 (Print)",
+    "publisher": "1747-762X (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Agriculture"
+    ],
+    "journalUrl": "https://www.tandfonline.com/tags",
+    "abstract": "Agricultural development efforts that do not address persistent gender gaps miss opportunities for greater impact. This synthesis reflects on key findings from integrated quantitative and qualitative analyses at the nexus of gender, agricultural development, and climate change. Linked farm household-, intrahousehold-, community-, and institutional-level data highlight significant and nuanced gender differences in adaptive capacity of individuals and communities to respond to climate change. The gender gap is also substantial in exposure to climate change and its impacts, and uptake of new practices that lower vulnerability. Women in agriculture will remain largely neglected by information and service providers unless their differing needs, access to, and control over resources are considered at policy and project design stage. Yet clear guidelines for addressing the needs of both men and women in different environments and agricultural systems are still lacking. Participatory ‘action research’ approaches with a focus on co-learning, and using innovative cell phone or social media-based approaches offer exciting new opportunities. Agricultural development decision-makers and project designers need to ‘design with gender in mind’. Equipping them with tools and knowledge of innovative gender-transformative practices and intervention options and creating accountability for serving women and men will be key.",
+    "readLink": "http://dx.doi.org/10.1080/14735903.2017.1336411"
+  },
+  {
+    "title": "Combining point counts and autonomous recording units improves avian survey efficacy across elevational gradients on two continents",
+    "authors": [
+      "Anna Drake,",
+      "Devin R. deZwaan,",
+      "Tomás A. Altamirano,",
+      "Scott Wilson,",
+      "Kristina Hick,",
+      "Camila Bravo,",
+      "José Tomás Ibarra,",
+      "Kathy Martin"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.7678",
+    "journalVolume": "Vol. 11,\n                                no. 13\n                                \n                                  pp.\n                                  8654\n                                  – 8682",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Accurate biodiversity and population monitoring is a requirement for effective conservation decision making. Survey method bias is therefore a concern, particularly when research programs face logistical and cost limitations. We employed point counts (PCs) and autonomous recording units (ARUs) to survey avian biodiversity within comparable, high elevation, temperate mountain habitats at opposite ends of the Americas: nine mountains in British Columbia (BC), Canada, and 10 in southern Chile. We compared detected species richness against multiyear species inventories and examined method‐specific detection probability by family. By incorporating time costs, we assessed the performance and efficiency of single versus combined methods. Species accumulation curves indicate ARUs can capture ~93% of species present in BC but only ~58% in Chile, despite Chilean mountain communities being less diverse. The avian community, rather than landscape composition, appears to drive this dramatic difference. Chilean communities contain less‐vocal species, which ARUs missed. Further, 6/13 families in BC were better detected by ARUs, while 11/11 families in Chile were better detected by PCs. Where survey conditions differentially impacted method performance, PCs mostly varied over the morning and with canopy cover in BC, while ARUs mostly varied seasonally in Chile. Within a single year of monitoring, neither method alone was predicted to capture the full avian community, with the exception of ARUs in the alpine and subalpine of BC. PCs contributed little to detected diversity in BC, but including this method resulted in negligible increases in total time costs. Combining PCs with ARUs in Chile significantly increased species detections, again, for little cost. Combined methods were among the most efficient and accurate approaches to capturing diversity. We recommend conducting point counts, while ARUs are being deployed and retrieved in order to capture additional diversity with minimal additional effort and to flag methodological biases using a comparative framework.",
+    "readLink": "https://doi.org/10.1002/ece3.7678"
+  },
+  {
+    "title": "Roadmapping to Enhance Local Food Supply: Case Study of a City-Region in Austria",
+    "authors": [
+      "Simon Berner,",
+      "Hartmut Derler,",
+      "René Rehorska,",
+      "Stephan Pabst,",
+      "Ulrike Seebacher"
+    ],
+    "doi": "https://doi.org/10.3390/su11143876",
+    "journalVolume": "Vol. 11,\n                                no. 14\n                                \n                                  p.\n                                  3876",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Due to the current challenges of climate change, population growth in urban settlements and resource depletion, agri-food researchers have put an increasing emphasis on the sustainability transitions of food systems. In this regard, there has been an increasing interest in the local food supply of cities and their surrounding regions, as local food is considered to be a contributing factor toward more sustainable, resilient and just urban food systems. Based on this background, a roadmapping process was conducted to assess the status quo and to identify measures to enhance the local food supply in the city-region of Graz in Austria. We conducted semi-structured interviews with 47 stakeholders, analysed textual materials and calculated food carrying capacities. The obtained data served as input for a series of three workshops, where measures were derived. Our results suggest that cooperation among agri-food stakeholders should be facilitated by local decision makers in order to promote food from regional sources within the target area. Furthermore, smart technologies can help to scale-up local food supply schemes, and to track down food stocks and flows more efficiently. Besides, food policy councils and open food labs can help to incubate food product innovations and to support partnerships among agri-food stakeholders, including local small-scale farmers. In the future, engagement and empowerment processes with local food stakeholders should be addressed to enable transformational processes. Roadmaps can help to initiate such processes.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/14/3876"
+  },
+  {
+    "title": "A Cloud-Based Framework for Large-Scale Monitoring of Ocean Plastics Using Multi-Spectral Satellite Imagery and Generative Adversarial Network",
+    "authors": [
+      "Ali Jamali,",
+      "Masoud Mahdianpari"
+    ],
+    "doi": "https://doi.org/10.3390/w13182553",
+    "journalVolume": "Vol. 13,\n                                no. 2553\n                                \n                                  p.\n                                  2553",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Marine debris is considered a threat to the inhabitants, as well as the marine environments. Accumulation of marine debris, besides climate change factors, including warming water, sea-level rise, and changes in oceans’ chemistry, are causing the potential collapse of the marine environment’s health. Due to the increase of marine debris, including plastics in coastlines, ocean and sea surfaces, and even in deep ocean layers, there is a need for developing new advanced technology for the detection of large-sized marine pollution (with sizes larger than 1 m) using state-of-the-art remote sensing and machine learning tools. Therefore, we developed a cloud-based framework for large-scale marine pollution detection with the integration of Sentinel-2 satellite imagery and advanced machine learning tools on the Sentinel Hub cloud application programming interface (API). Moreover, we evaluated the performance of two shallow machine learning algorithms of random forest (RF) and support vector machine (SVM), as well as the deep learning method of the generative adversarial network-random forest (GAN-RF) for the detection of ocean plastics in the pilot site of Mytilene Island, Greece. Based on the obtained results, the shallow algorithms of RF and SVM achieved an overall accuracy of 88% and 84%, respectively, with available training data of plastic debris. The GAN-RF classifier improved the detection of ocean plastics of the RF method by 8%, achieving an overall accuracy of 96% by generating several synthetic ocean plastic samples.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/18/2553"
+  },
+  {
+    "title": "FIFA World Cup and climate change: correlation is not causation.  [Copa del Mundo FIFA y cambio climático: correlación no implica causalidad].",
+    "authors": [
+      "Aurelio Tobías,",
+      "Martí Casals,",
+      "Javier Peña,",
+      "Cristian Tebé"
+    ],
+    "doi": "https://doi.org/10.5232/ricyde2019.057ed",
+    "journalVolume": "Vol. 15,\n                                no. 57\n                                \n                                  pp.\n                                  280\n                                  – 283",
+    "issn": "1885-3137 (Online)",
+    "publisher": "Ramón Cantó Alcaraz",
+    "countryOfPublisher": "Spain",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Recreation. Leisure: Sports"
+    ],
+    "journalUrl": "http://www.ricyde.org",
+    "abstract": "Sports analytics is defined as the process that identifies and acquires knowledge and insight about players and teams’ performances. To do so, analysts use a wide variety of data sources coming from matches and individual players’ performances (O'Donoghue & Holmes 2014; Jayal, McRobert, Oatley & O’Donoghue, 2018). Nowadays, detailed data from different nature including technical skills, individual physiological performances, team formations, or injuries are analysed on a daily basis by the analytics departments belonging to sports clubs and professional franchises. Even private companies like STATS or OPTA generate important revenues offering their movement tracking values and advanced metrics to media and fans. In the emerging field of Sports Analytics, as in many others, analysts must be aware of spurious correlations. These can come up due to the size (not nature) of data, a common-causal variable or just due to serendipity. For this reason, we always must keep in mind the lessons of the statistician Stephen John Senn and his sharp quote on the matter: “Statistics is not just about merely warning that correlation is not causation. Sometimes correlation isn’t even correlation”. Thus, we will explain an example of how climate change can be affecting, or not, on the FIFA World Cup performance statistics.",
+    "readLink": "http://www.cafyd.com/REVISTA/057ed.pdf"
+  },
+  {
+    "title": "Cultural Heritage, Sustainable Development, and Climate Policy: Comparing the UNESCO World Heritage Cities of Potsdam and Bern",
+    "authors": [
+      "Kristine Kern,",
+      "Janne Irmisch,",
+      "Colette Odermatt,",
+      "Wolfgang Haupt,",
+      "Ingrid Kissling-Näf"
+    ],
+    "doi": "https://doi.org/10.3390/su13169131",
+    "journalVolume": "Vol. 13,\n                                no. 9131\n                                \n                                  p.\n                                  9131",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Developing sustainable, carbon-neutral, and climate-resilient districts seems to be particularly challenging with respect to historic city centers. However, barriers posed by legal requirements for historical buildings are counterbalanced by opportunities because historic cities have not undergone urban modernization and did not embrace the concept of functional cities, which nowadays impedes urban sustainability transformations. Thus, this paper focuses on the relationship between cultural heritage, urban sustainable development, and climate policy. We study continuity and change in the mid-sized UNESCO World Heritage cities Potsdam (Germany) and Bern (Switzerland). These matching forerunner cities share many characteristics, which enables them to transfer policies and jointly create new solutions for common problems. We find that national context matters, but we also identify functional equivalents like referenda and active citizen participation. Despite many similarities, Potsdam is ahead of Bern with respect to the institutionalization and integration of climate mitigation and adaptation. The comparative analysis (interviews and document analysis) identifies innovations that can be transferred between the two cities (e.g., Potsdam’s integrative climate policy or Bern’s efforts to become a role model for stakeholders and citizens). Moreover, the challenge to coordinate heritage management and climate governance offers chances for cooperation between matching cities like Bern and Potsdam.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/16/9131"
+  },
+  {
+    "title": "Simulation of river flow in the Thames over 120 years: Evidence of change in rainfall-runoff response?",
+    "authors": [
+      "S.M. Crooks,",
+      "A.L. Kay"
+    ],
+    "doi": "https://doi.org/10.1016/j.ejrh.2015.05.014",
+    "journalVolume": "Vol. 4,\n                                no. PB\n                                \n                                  pp.\n                                  172\n                                  – 195",
+    "issn": "2214-5818 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-hydrology-regional-studies/",
+    "abstract": "Study region: The Thames catchment in southern England, UK. Study focus: Modelling with 124 years of rainfall, potential evaporation (PE), temperature and naturalised flow data. Daily rainfall-runoff flow simulation using current and three historic land cover scenarios to determine the stationarity of catchment response examined through three time-frames of analysis – annual, seasonal and flow extremes. The criterion of response stationarity is often assumed in climate change impact studies. New hydrological insights: The generally close correspondence between observed and simulated flows using the same model parameter values for the whole period is indicative of the temporal stability of hydrological processes and catchment response, and the quality of the hydrometric data. Changes that have occurred are a decrease in flood peak response times, typically two to three days pre and post the early 1940s, from change in agricultural practices and channel conveyance, and an increase of about 15% in summer flow from increase in urban land cover between the first decade of the 20th and 21st centuries. The water balance was found to be sensitive to the PE data used, with care needed to avoid discontinuity between two parts of the data record using different methods for calculation. Long-term mean annual rainfall shows little change but contrasting patterns of variation in seasonal rainfall demonstrate a variable climate for which simulated flow is similar to observed flow.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214581815000592"
+  },
+  {
+    "title": "Some reflections on researches of Future Earth changes in air quality and climate",
+    "authors": [
+      "Xiao-Ye Zhang"
+    ],
+    "doi": "https://doi.org/10.1016/j.accre.2015.09.003",
+    "journalVolume": "Vol. 6,\n                                no. 2\n                                \n                                  pp.\n                                  126\n                                  – 130",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "Within the context of our current research and understanding of climate change, decisionmakers are particularly concerned with the extent of future climate change, its comprehensive impact, and the types of socioeconomic pathways available with respect to mitigation and adaptation. Among the factors contributing to these important issues, the role of air pollution in global and regional climate warming remains as one of the largest uncertainties. On the basis of understanding of the IPCC Fifth Assessment Report, specifically, in the role of air pollution in climate change, scenarios establishment, and relationship between the Shared Socioeconomic Pathways (SSPs) and Representative Concentration Pathways (RCPs). Weaknesses and reflections were discussed here especially in strengthening impact, adaptation and mitigation research that related with changes in air pollution and climate. In the future, there are needs to in-depth understand how and why the air pollution in China is so serious and changing; to understand the likely future changes in air pollution and climate; to strengthen comprehensive impact research and selective reduction strategies related to changes in air pollution and climate. Furthermore, this study outlines the needs to develop strategies to close the loop of differential impacts and costs; to establish co-benefits and sustainable development goals, to identify the crucial risks and options for synergies/trade-offs; to integrate sector-specific details with macro-economics, and to integrate the assessments of the various policy instruments. All these focus areas will help to facilitate the transition of economic development patterns towards green and low-carbon development.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927815000477"
+  },
+  {
+    "title": "Artificial Intelligence for Smart Renewable Energy Sector in Europe&#x2014;Smart Energy Infrastructures for Next Generation Smart Cities",
+    "authors": [
+      "Andreea Claudia Serban,",
+      "Miltiadis D. Lytras"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2020.2990123",
+    "journalVolume": "Vol. 8\n                                \n                                \n                                  pp.\n                                  77364\n                                  – 77377",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "One of the most challenging areas of Future Smart Cities Research is the Smart Energy domain. Critical issues related to optimization, provision of smart customizable networks and sophisticated computational techniques and methods enabled by artificial intelligence and machine learning need further investigation. The renewable energy (RE) is a powerful resource for the future global development in the context of climate change and resources depletion. Artificial intelligence (AI) implies new rules of organizing the activities in order to respond to these new requirements. It is necessary to improve the design of the energy infrastructure, the deployment and production of RE in order to face the multiple challenges that will affect the sector’s growth and resilience.. In this research work we exploit the recent developments on the AI adoption for RE sector in European Union (EU). In this respect, we analysed (i) the efficiency of the transformation processes of the RE within the energy chain from Gross Inland Consumption to Final Energy Consumption, (ii) its implications on the structure of renewable energy by source (solar, wind, biomass etc.), (iii) the labour productivity in RE sector compared to the economy as a whole and its correlation with investments level, (iv) the implication of the adoption of AI for RE towards Future Smart Cities Research. The main contribution of this research is the development of a framework for understanding the contribution of AI in the RE sector in Europe. Another bold contribution of this work is the discussion of the implications for Future Smart Cities Research and future research directions.",
+    "readLink": "https://ieeexplore.ieee.org/document/9076660/"
+  },
+  {
+    "title": "Analysis of the impact of climate change on groundwater related hydrological fluxes: a multi-model approach including different downscaling methods",
+    "authors": [
+      "S. Stoll,",
+      "H. J. Hendricks Franssen,",
+      "M. Butts,",
+      "W. Kinzelbach"
+    ],
+    "doi": "https://doi.org/10.5194/hess-15-21-2011",
+    "journalVolume": "Vol. 15,\n                                no. 1\n                                \n                                  pp.\n                                  21\n                                  – 38",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Climate change related modifications in the spatio-temporal distribution of precipitation and evapotranspiration will have an impact on groundwater resources. This study presents a modelling approach exploiting the advantages of integrated hydrological modelling and a broad climate model basis. We applied the integrated MIKE SHE model on a perialpine, small catchment in northern Switzerland near Zurich. To examine the impact of climate change we forced the hydrological model with data from eight GCM-RCM combinations showing systematic biases which are corrected by three different statistical downscaling methods, not only for precipitation but also for the variables that govern potential evapotranspiration. The downscaling methods are evaluated in a split sample test and the sensitivity of the downscaling procedure on the hydrological fluxes is analyzed. The RCMs resulted in very different projections of potential evapotranspiration and, especially, precipitation. All three downscaling methods reduced the differences between the predictions of the RCMs and all corrected predictions showed no future groundwater stress which can be related to an expected increase in precipitation during winter. It turned out that especially the timing of the precipitation and thus recharge is very important for the future development of the groundwater levels. However, the simulation experiments revealed the weaknesses of the downscaling methods which directly influence the predicted hydrological fluxes, and thus also the predicted groundwater levels. The downscaling process is identified as an important source of uncertainty in hydrological impact studies, which has to be accounted for. Therefore it is strongly recommended to test different downscaling methods by using verification data before applying them to climate model data.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/15/21/2011/hess-15-21-2011.pdf"
+  }
+]

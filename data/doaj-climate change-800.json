@@ -1,0 +1,232 @@
+[
+  {
+    "title": "A comprehensive framework for seasonal controls of leaf abscission and productivity in evergreen broadleaved tropical and subtropical forests",
+    "authors": [
+      "Xueqin Yang,",
+      "Jianping Wu,",
+      "Xiuzhi Chen,",
+      "Philippe Ciais,",
+      "Fabienne Maignan,",
+      "Wenping Yuan,",
+      "Shilong Piao,",
+      "Song Yang,",
+      "Fanxi Gong,",
+      "Yongxian Su,",
+      "Yuhang Dai,",
+      "Liyang Liu,",
+      "Haicheng Zhang,",
+      "Damien Bonal,",
+      "Hui Liu,",
+      "Guixing Chen,",
+      "Haibo Lu,",
+      "Shengbiao Wu,",
+      "Lei Fan,",
+      "Pierre Gentine,",
+      "S. Joseph Wright‬"
+    ],
+    "doi": "Vol. 2,\n                                no. 4\n                                \n                                  p.\n                                  100154",
+    "issn": "2666-6758 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Science (General)"
+    ],
+    "journalUrl": "https://www.cell.com/the-innovation",
+    "abstract": "Summary: Relationships among productivity, leaf phenology, and seasonal variation in moisture and light availability are poorly understood for evergreen broadleaved tropical/subtropical forests, which contribute 25% of terrestrial productivity. On the one hand, as moisture availability declines, trees shed leaves to reduce transpiration and the risk of hydraulic failure. On the other hand, increases in light availability promote the replacement of senescent leaves to increase productivity. Here, we provide a comprehensive framework that relates the seasonality of climate, leaf abscission, and leaf productivity across the evergreen broadleaved tropical/subtropical forest biome. The seasonal correlation between rainfall and light availability varies from strongly negative to strongly positive across the tropics and maps onto the seasonal correlation between litterfall mass and productivity for 68 forests. Where rainfall and light covary positively, litterfall and productivity also covary positively and are always greater in the wetter sunnier season. Where rainfall and light covary negatively, litterfall and productivity are always greater in the drier and sunnier season if moisture supplies remain adequate; otherwise productivity is smaller in the drier sunnier season. This framework will improve the representation of tropical/subtropical forests in Earth system models and suggests how phenology and productivity will change as climate change alters the seasonality of cloud cover and rainfall across tropical/subtropical forests. Public summary: • Three climate-phenology regimes are identified across tropical and subtropical forest biomes • Where light and water limit plant in dry season, litterfall and productivity peak in sunny wet season • Where light or water alternately limits plant, productivity peaks in wet season with low litterfall • Where water does not limit plant, litterfall and productivity peak in sunny dry season",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666675821000795"
+  },
+  {
+    "title": "A PUBLIC PLATFORM FOR GEOSPATIAL DATA SHARING FOR DISASTER RISK MANAGEMENT",
+    "authors": [
+      "S. Balbo,",
+      "P. Boccardo,",
+      "S. Dalmasso,",
+      "P. Pasquali"
+    ],
+    "doi": "https://doi.org/10.5194/isprsarchives-XL-5-W3-189-2013",
+    "journalVolume": "Vol. XL-5/W3\n                                \n                                \n                                  pp.\n                                  189\n                                  – 195",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Several studies have been conducted in Africa to assist local governments in addressing the risk situation related to natural hazards. Geospatial data containing information on vulnerability, impacts, climate change, disaster risk reduction is usually part of the output of such studies and is valuable to national and international organizations to reduce the risks and mitigate the impacts of disasters. Nevertheless this data isn't efficiently widely distributed and often resides in remote storage solutions hardly reachable. Spatial Data Infrastructures are technical solutions capable to solve this issue, by storing geospatial data and making them widely available through the internet. Among these solutions, GeoNode, an open source online platform for geospatial data sharing, has been developed in recent years. GeoNode is a platform for the management and publication of geospatial data. It brings together mature and stable open-source software projects under a consistent and easy-to-use interface allowing users, with little training, to quickly and easily share data and create interactive maps. GeoNode data management tools allow for integrated creation of data, metadata, and map visualizations. Each dataset in the system can be shared publicly or restricted to allow access to only specific users. Social features like user profiles and commenting and rating systems allow for the development of communities around each platform to facilitate the use, management, and quality control of the data the GeoNode instance contains (http://geonode.org/). This paper presents a case study scenario of setting up a Web platform based on GeoNode. It is a public platform called MASDAP and promoted by the Government of Malawi in order to support development of the country and build resilience against natural disasters. A substantial amount of geospatial data has already been collected about hydrogeological risk, as well as several other-disasters related information. Moreover this platform will help to ensure that the data created by a number of past or ongoing projects is maintained and that this information remains accessible and useful. An Integrated Flood Risk Management Plan for a river basin has already been included in the platform and other data from future disaster risk management projects will be added as well.",
+    "readLink": "http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-5-W3/189/2013/isprsarchives-XL-5-W3-189-2013.pdf"
+  },
+  {
+    "title": "Carbon Emissions in Transportation: A Synthesis Framework",
+    "authors": [
+      "Ana Luiza Carvalho Ferrer,",
+      "Antonio Márcio Tavares Thomé"
+    ],
+    "doi": "https://doi.org/10.3390/su15118475",
+    "journalVolume": "Vol. 15,\n                                no. 8475\n                                \n                                  p.\n                                  8475",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "With the growing concern worldwide regarding greenhouse gas (GHG) emissions and their impacts on human health and the environment, transportation has become a central theme in their mitigation, responsible for 15% of anthropogenic GHG, 23% of global energy-related, and 8.7 Gt CO2-eq emissions. This study’s objective was to comprehensively review the current state of carbon mitigation in the transportation sector. This was conducted through a systematic literature review based on the multi-level perspective of socio-technical transition theory and structural contingency theory. In total, 30 review papers covering 3561 original articles were selected for full-text examination. The main findings were related to the fact that in order to build resilience against climate change, transportation services must adapt to the current scenario and act quickly to avert future changes. Enablers, barriers, benefits, disadvantages, and metrics in carbon emission reduction were identified. A comprehensive framework and a dynamic co-word analysis emphasised the interrelationships among the dimensions of sustainability transition in transportation. Important trade-offs among the transition dimensions are context-dependent and should be adapted to different countries and transport modes to succeed. The study sheds light on the need to investigate mitigation’s often-neglected consequences and disadvantages.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/11/8475"
+  },
+  {
+    "title": "“From Dalarna to The Orient”: Falun Folk Music Festival",
+    "authors": [
+      "Daniel Fredriksson"
+    ],
+    "doi": "https://doi.org/10.5429/2079-3871(2019v9i1.3en",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  pp.\n                                  6\n                                  – 22",
+    "issn": "2079-3871 (Online)",
+    "publisher": "International Association for the Study of Popular Music",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Music and books on Music: Music"
+    ],
+    "journalUrl": "https://iaspmjournal.net",
+    "abstract": "This article discusses the Swedish festival Falun Folk Music Festival (FFF) and makes use of interviews with key organisers, readings of festival brochures, and other material. I begin with a look at the intentions, motivations and negotiations of the organisers leading up to the first festival in 1986, and from there I discuss the way FFF contributed to a change in Swedish folk music discourse towards logics of professionalisation and cosmopolitanism. FFF negotiated between professionals and amateurs, traditionalists and experimentalists. This paved the way for a vast palette of musical traditions, soon to be called “world music”, to reach a Swedish audience. I argue that the cosmopolitanism of FFF, rather than being the main ideological goal of the organisers, worked as a means to an end, namely the professionalisation and artistic recognition of Swedish folk traditions. It also seems to have made the festival relevant in the cultural policy climate of the time.",
+    "readLink": "https://iaspmjournal.net/index.php/IASPM_Journal/article/download/929/pdf_1"
+  },
+  {
+    "title": "Fundamental Study on the Development of an Inexpensive Velocity Meter for River Floods Using Stagnation Points",
+    "authors": [
+      "Akito Ouchi,",
+      "Yukihiro Shimatani,",
+      "Hiroshi Takata,",
+      "Tomoko Minagawa"
+    ],
+    "doi": "https://doi.org/10.3390/w15142625",
+    "journalVolume": "Vol. 15,\n                                no. 2625\n                                \n                                  p.\n                                  2625",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "In recent years, climate change has occurred on a global scale, causing frequent flooding in many regions. In response to this situation, watershed-wide flood management is attracting attention around the world as a promising approach. Under these situations, Japan has also made a policy shift to watershed-based flood management, which aims to manage floods and control runoff in the entire watershed. For this management, it is essential to obtain areal hydraulic information, especially flow information, from each location in the watershed. To measure river flow, it is necessary to measure water level and velocity. While it is becoming possible to make area-based observations of water levels using simple methods, various attempts have been made to measure the velocity, but continuous data cannot be obtained using simple methods. Low-cost flow velocity meters would facilitate the simultaneous and continuous accumulation of data at multiple points and enable the acquisition of areal flow information for watersheds, which is important for watershed-based flood management. This study aims to develop an inexpensive, simple velocity meter that can be used to make areal measurements within watersheds, and to make this velocity meter usable by residents, thereby contributing to citizen science. Therefore, experimental studies were conducted on a method of measuring flow velocity based on the simple physical phenomenon of rising water surface elevations due to increased pressure at the stagnation point. First, we placed the cylinders in the river or waterway, observed the afflux, and compared the velocities calculated using Bernoulli’s theorem with the velocities at the experimental site. By multiplying the calculated flow velocity by 0.9, the average flow velocity was found to be obtained. Then, by using a large pitot tube with a hole diameter of about 5 mm, the rise in water level in the pitot tube was measured using a pressure-type water level meter, and the flow velocity was calculated using the pitot tube theory and compared with the flow velocity at the location of the hole at the experimental site. By multiplying the calculated velocity by 1.04, the velocity at the location of the hole can be obtained. In addition, the same experiment was conducted using a pitot tube with a slit. The slit tube was placed vertically with the slit facing upstream. Measurements were taken in the same method as for the pitot tube velocity meter and compared to the velocity at that point. By multiplying the calculated flow velocity by 0.99, the average flow velocity at that location can be obtained. These results indicate that a flow velocity measurement method utilizing stagnation points can lead to the development of inexpensive velocity meters. Because of the simplicity of this meter, there is a possibility that citizens can participate in the observation to obtain information on the flow velocity during floods and areal information within a watershed.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/14/2625"
+  },
+  {
+    "title": "Climate Change Yields Groundwater Warming in Bavaria, Germany",
+    "authors": [
+      "Hannes Hemmerle,",
+      "Peter Bayer"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2020.575894",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "Thermodynamic coupling between atmosphere and ground yields increasing aquifer temperatures as a consequence of global warming. While this is expected to manifest as a gradual warming in groundwater temperature time series, such continuous long-term recordings are scarce. As an alternative, the present work examines the use of repeated temperature-depth profiles of 32 wells in southern Germany, that were logged during campaigns in the early 1990s and in 2019. It is revealed that the temperatures have increased in nearly all cases. We find a moderate to good depth-dependent correlation to trends in air temperature, which however is strongly influenced by local hydrogeological and climate conditions. While during the last three decades, air temperatures have increased by a rate of 0.35 K (10a)−1 on average, the temperature increase in the subsurface is decreasing with depth, with median values of 0.28 K (10a)−1 in 20 m and only of 0.09 K (10a)−1 in 60 m depth. Still, the slow and damped warming of the groundwater bodies are remarkable, especially considering naturally very minor temperature changes in pristine groundwater bodies and predictions of atmospheric temperatures. This entails implications for temperature-dependent ecological and hydro-chemical processes, and also for the heat stored in the shallow ground. Moreover, it is demonstrated that the annual heat gain in the groundwater bodies below 15 m due to climate change is in the range of one third of the state’s heat demand, which underlines the geothermal potential associated with the change in natural heat fluxes at the ground surface.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2020.575894/full"
+  },
+  {
+    "title": "Energy Management Practices’ Determinants in Greek Enterprises",
+    "authors": [
+      "Elpida  V. Tachmitzaki,",
+      "Eleni  A. Didaskalou,",
+      "Dimitrios  A. Georgakellos"
+    ],
+    "doi": "https://doi.org/10.3390/su12010133",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  p.\n                                  133",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The implementation of energy management over recent decades has been considered to be particularly important for companies wishing to save energy resources, to tackle the issue of climate change, and, at the same time, maintain their competitive edge in an ever-changing environment. The main objective of this article is to identify and analyse all of those critical factors that may affect the implementation of effective energy management practices by Greek enterprises. A questionnaire survey was conducted to investigate the implementation of energy management in Greek enterprises. The survey was conducted between May and September 2016. Out of the 649 questionnaires sent, 132 were collected (a response rate of 20.3%). The implementation of energy management in Greek enterprises is affected particularly positively by the implementation of a structured and integrated energy management system as far as the main findings of the survey are concerned. The use of modern technology, the involvement of the employees, and the commitment of the senior management proved to be additional critical determinants in the implementation of energy management in the operation of businesses.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/1/133"
+  },
+  {
+    "title": "Use of the SSiB4/TRIFFID model coupled with TOPMODEL to investigate the effects of vegetation and climate on evapotranspiration and runoff in a subalpine basin of southwestern China",
+    "authors": [
+      "Huiping Deng,",
+      "Li Dan,",
+      "Huanguang Deng,",
+      "Yan Xiao,",
+      "Qian Wang"
+    ],
+    "doi": "https://doi.org/10.3846/jeelm.2022.15227",
+    "journalVolume": "Vol. 30,\n                                no. 1\n                                \n                                  pp.\n                                  43\n                                  – 55",
+    "issn": "1648-6897 (Print)",
+    "publisher": "1822-4199 (Online)",
+    "countryOfPublisher": "Vilnius Gediminas Technical University",
+    "lcc": [
+      "Lithuania",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering"
+    ],
+    "journalUrl": "https://journals.vilniustech.lt/index.php/JEELM",
+    "abstract": "It is important to understand the response of vegetation dynamics and surface water budget to the changing climate. To investigate the effects of vegetation and climate change on evapotranspiration and runoff on a basin scale, the SSiB4T/TRIFFID (SSiB4/TRIFFID coupled with TOPMODEL) is used to perform long-term dynamic simulations of vegetation succession and the water balance under different climate scenarios for a subalpine basin. The results of all experiments show that fraction of vegetation changes from a dominance of C3 grasses to tundra shrubs and then gradually approaches equilibrium with a dominance of forests. Change to evapotranspiration is very sensitive to temperature changes but is not sensitive to precipitation changes when the temperature remains unchanged. Runoff is very sensitive to changes in both temperature and precipitation. In the increase of temperature, evapotranspiration of forests increases the most among the three vegetation types. From the control run to the [T+5, (1+40%)P] run (A temperature increase of 5 °C, an increase in precipitation of 40%), the role of forests in increasing runoff changes to a reduction in runoff.",
+    "readLink": "https://journals.vgtu.lt/index.php/JEELM/article/view/15227"
+  },
+  {
+    "title": "Analysing the vulnerability of buildings to climate change: Summer heat and flooding",
+    "authors": [
+      "Johannes Nikolowski,",
+      "Valeri Goldberg,",
+      "Jakob Zimm,",
+      "Thomas Naumann"
+    ],
+    "doi": "https://doi.org/10.1127/0941-2948/2013/0388",
+    "journalVolume": "Vol. 22,\n                                no. 2\n                                \n                                  pp.\n                                  145\n                                  – 153",
+    "issn": "0941-2948 (Print)",
+    "publisher": "1610-1227 (Online)",
+    "countryOfPublisher": "Borntraeger",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.schweizerbart.de/journals/metz/",
+    "abstract": "The REGKLAM project (Development and Testing of an Integrated Regional Climate Change Adaption Programme for the Model Region Dresden) forms part of the KLIMZUG programme (Managing Climate Change in the Regions for the Future) funded by the German Federal Ministry of Education and Research. It is concerned with the adaptation of important sectors of the Dresden region to climate change. One aim is to investigate and where necessary reduce the vulnerability of buildings and settlement structures to changing climatic conditions. This paper looks at flood damage as an example for the potential of climate change impacts on buildings. In ex-post analyses and projections, the article presents the results of regional climatological studies. Interfaces between meteorology and civil engineering are discussed. On the basis of a typology of building stock in the region, the vulnerability of given building types to given impacts was analysed in the form of impact models. The examples of environmental causes chosen were summer heat and flooding. The paper concludes with a discussion of how buildings can be adapted to cope with the impacts described.",
+    "readLink": "http://dx.doi.org/10.1127/0941-2948/2013/0388"
+  },
+  {
+    "title": "Archetype analysis in sustainability research: meanings, motivations, and evidence-based policy making",
+    "authors": [
+      "Christoph Oberlack,",
+      "Diana Sietz,",
+      "Elisabeth Bürgi Bonanomi,",
+      "Ariane de Bremond,",
+      "Jampel Dell'Angelo,",
+      "Klaus Eisenack,",
+      "Erle C. Ellis,",
+      "Graham Epstein,",
+      "Markus Giger,",
+      "Andreas Heinimann,",
+      "Christian Kimmich,",
+      "Marcel TJ. Kok,",
+      "David Manuel-Navarrete,",
+      "Peter Messerli,",
+      "Patrick Meyfroidt,",
+      "Tomá Václavík,",
+      "Sergio Villamayor-Tomas"
+    ],
+    "doi": "https://doi.org/10.5751/ES-10747-240226",
+    "journalVolume": "Vol. 24,\n                                no. 2\n                                \n                                  p.\n                                  26",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Archetypes are increasingly used as a methodological approach to understand recurrent patterns in variables and processes that shape the sustainability of social-ecological systems. The rapid growth and diversification of archetype analyses has generated variations, inconsistencies, and confusion about the meanings, potential, and limitations of archetypes. Based on a systematic review, a survey, and a workshop series, we provide a consolidated perspective on the core features and diverse meanings of archetype analysis in sustainability research, the motivations behind it, and its policy relevance. We identify three core features of archetype analysis: recurrent patterns, multiple models, and intermediate abstraction. Two gradients help to apprehend the variety of meanings of archetype analysis that sustainability researchers have developed: (1) understanding archetypes as building blocks or as case typologies and (2) using archetypes for pattern recognition, diagnosis, or scenario development. We demonstrate how archetype analysis has been used to synthesize results from case studies, bridge the gap between global narratives and local realities, foster methodological interplay, and transfer knowledge about sustainability strategies across cases. We also critically examine the potential and limitations of archetype analysis in supporting evidence-based policy making through context-sensitive generalizations with case-level empirical validity. Finally, we identify future priorities, with a view to leveraging the full potential of archetype analysis for supporting sustainable development.",
+    "readLink": "http://www.ecologyandsociety.org/vol24/iss2/art26/"
+  }
+]

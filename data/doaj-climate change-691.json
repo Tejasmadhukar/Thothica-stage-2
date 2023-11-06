@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Accurate prediction of electricity consumption using a hybrid CNN-LSTM model based on multivariable data.",
+    "authors": [
+      "Jaewon Chung,",
+      "Beakcheol Jang"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0278071",
+    "journalVolume": "Vol. 17,\n                                no. 11\n                                \n                                  p.\n                                  e0278071",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The stress placed on global power supply systems by the growing demand for electricity has been steadily increasing in recent years. Thus, accurate forecasting of energy demand and consumption is essential to maintain the lifestyle and economic standards of nations sustainably. However, multiple factors, including climate change, affect the energy demands of local, national, and global power grids. Therefore, effective analysis of multivariable data is required for the accurate estimation of energy demand and consumption. In this context, some studies have suggested that LSTM and CNN models can be used to model electricity demand accurately. However, existing works have utilized training based on either electricity loads and weather observations or national metrics e.g., gross domestic product, imports, and exports. This binary segregation has degraded forecasting performance. To resolve this shortcoming, we propose a CNN-LSTM model based on a multivariable augmentation approach. Based on previous studies, we adopt 1D convolution and pooling to extract undiscovered features from temporal sequences. LSTM outperforms RNN on vanishing gradient problems while retaining its benefits regarding time-series variables. The proposed model exhibits near-perfect forecasting of electricity consumption, outperforming existing models. Further, state-level analysis and training are performed, demonstrating the utility of the proposed methodology in forecasting regional energy consumption. The proposed model outperforms other models in most areas.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0278071"
+  },
+  {
+    "title": "The Climate Change-Road Safety-Economy Nexus: A System Dynamics Approach to Understanding Complex Interdependencies",
+    "authors": [
+      "Mehdi Alirezaei,",
+      "Nuri C. Onat,",
+      "Omer Tatari,",
+      "Mohamed Abdel-Aty"
+    ],
+    "doi": "https://doi.org/10.3390/systems5010006",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  p.\n                                  6",
+    "issn": "2079-8954 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General): Systems engineering",
+      "Technology: Technology (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/systems",
+    "abstract": "Road accidents have the highest externality costs to society and to the economy, even when compared to the externality damages associated with air emissions and oil dependency. Road safety is one of the most complicated topics, which involves many interdependencies, and so, a sufficiently thorough analysis of roadway safety will require a novel system-based approach in which the associated feedback relationships and causal effects are given appropriate consideration. The factors affecting accident frequency and severity are highly dependent on economic parameters, environmental factors and weather conditions. In this study, we try to use a system dynamics modeling approach to model the climate change-road safety-economy nexus, thereby investigating the complex interactions among these important areas by tracking how they affect each other over time. For this purpose, five sub-models are developed to model each aspect of the overall nexus and to interact with each other to simulate the overall system. As a result, this comprehensive model can provide a platform for policy makers to test the effectiveness of different policy scenarios to reduce the negative consequences of traffic accidents and improve road safety.",
+    "readLink": "http://www.mdpi.com/2079-8954/5/1/6"
+  },
+  {
+    "title": "Towards Climate Change Preparedness in the MENA’s Agricultural Sector",
+    "authors": [
+      "Ajit Govind"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy12020279",
+    "journalVolume": "Vol. 12,\n                                no. 279\n                                \n                                  p.\n                                  279",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "The Middle East and North Africa (MENA) represents a substantial area of the terrestrial landmass encompassing several countries and ecosystems. This area is generally drier and warmer compared to the rest of the world, and has extreme resource limitations that are highly vulnerable to a changing climate, geopolitical instability and land degradation. This paper will first identify the nature of climate change in the region by analyzing a downscaled climate data and identifying the hotspots of climate change in MENA. It was found that the climate vulnerability is quite high, with the mean annual temperature increasing by as much as 4–6 degrees towards the end of the century. The nature precipitation under climate change is quite speculative, with the Maghreb region showing the highest vulnerability. Based on these results, five action points are postulated that may be implemented to rapidly progress our understanding of climate vulnerability and enhance the climate change preparedness in MENA’s agri-food sector, to take necessary actions to adapt to a changing climate with a systemic resilience perspective. These include working towards: (1) enhancing the sustainability of the rainfed-desert transitional belt (Rangelands) in the MENA; (2) enhancing the sustainability of agri-food systems in the food baskets of MENA and (3) working towards fostering a collective intelligence to support climate change research in the MENA. (4) The need for foresight advice on resilient food systems under climate change and (5) the need for transformative policies for stabilization and reconstruction under climate change.",
+    "readLink": "https://www.mdpi.com/2073-4395/12/2/279"
+  },
+  {
+    "title": "The role bonds in financing climate resilient economy",
+    "authors": [
+      "Marcelina Więckowska"
+    ],
+    "doi": "https://doi.org/10.12775/CJFA.2013.011",
+    "journalVolume": "Vol. 2,\n                                no. 1\n                                \n                                  pp.\n                                  153\n                                  – 167",
+    "issn": "2300-1240 (Print)",
+    "publisher": "2300-3065 (Online)",
+    "countryOfPublisher": "Nicolaus Copernicus University in Toruń",
+    "lcc": [
+      "Poland",
+      "Social Sciences: Commerce: Business",
+      "Social Sciences: Finance"
+    ],
+    "journalUrl": "https://apcz.umk.pl/CJFA",
+    "abstract": "Climate bonds are a new category of climate-related financial products in environmental finance. The validity of the emergence of climate bond market seems reasonable to attract private capital to finance climate-resilient economy and to make the recognition of green investment easier for potential investors. Investments in low-carbon assets and technology to meet the Kyoto Protocol targets or investments to adopt to extreme weather conditions are just examples of sources of the capital needed. Developing the potential of green bond market has not been fully exploited so far. In the future, the most important determinants to stimulate the growth of the market will be green standardizations that are currently under construction. Positive outlook also results from existence of institutional investors represents tens of trillion USD and intends to incorporate climate change into investment strategies. Not without significance is the fact that green sukuk will enlarge the spectrum of climate-related financial products.",
+    "readLink": "https://apcz.umk.pl/czasopisma/index.php/CJFA/article/view/1804"
+  },
+  {
+    "title": "Spatial variability of summertime aragonite saturation states and its influencing factor in the Bering Sea",
+    "authors": [
+      "Heng Sun,",
+      "Zhong-Yong Gao,",
+      "De-Rong Zhao,",
+      "Xiu-Wu Sun,",
+      "Li-Qi Chen"
+    ],
+    "doi": "Vol. 12,\n                                no. 4\n                                \n                                  pp.\n                                  508\n                                  – 516",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "The Bering sea is susceptible to ocean acidification driven by both human activities (anthropogenic CO2) and distinctive natural processes. To assess the situation of ocean acidification, we investigated the spatial variability of aragonite saturation states (ΩAr) in July 2010 during the 4th Chinese National Arctic Research Expedition (CHINARE). The surface waters were all oversaturated with respect to aragonite (ΩAr > 1) due to high biological removal, and ΩAr ranged from 1.43 to 3.17. The relatively low ΩAr values were found in the western Bering Strait and eastern nearshore region of the Bering Sea Shelf, which were associated with the upwelling and riverine input, respectively. In the subsurface, the ΩAr decreased to generally low saturation states and were observed to be strongly undersaturated (ΩAr < 1) in the bottom waters with a lowest value of 0.45, which might be caused by remineralization. However, unlike prior studies, the low ΩAr values in the shallow nearshore region were still above the saturation horizon throughout the water column, which were probably counteracted by high local primary production. In the context of climate change and increasing anthropogenic CO2 absorption, the suppression and undersaturation of ΩAr in the Bering Sea are not only attributed to the natural processes but also the accumulation of anthropogenic CO2.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S167492782100054X"
+  },
+  {
+    "title": "Machine learning to optimize climate projection over China with multi-model ensemble simulations",
+    "authors": [
+      "Tong Li,",
+      "Zhihong Jiang,",
+      "Hervé Le Treut,",
+      "Laurent Li,",
+      "Lilong Zhao,",
+      "Lingling Ge"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac1d0c",
+    "journalVolume": "Vol. 16,\n                                no. 9\n                                \n                                  p.\n                                  094028",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The multi-model ensemble approach is generally considered as the best way to explore the advantage and to avoid the weakness of each individual model, and ultimately to achieve the best climate projection. But the design of an optimal strategy and its practical implementation still constitutes a challenge. Here we use the random forest (RF) algorithm (from the category of machine learning) to explore the information offered by the multi-model ensemble simulations within the Coupled Model Intercomparison Project Phase 6. Our objective is to achieve a more reliable climate projection (mean climate and extremes) over China. RF is furthermore compared to two other ensemble-processing strategies of different nature, one is the basic arithmetic mean (AM), and another is the linear regression across the ensemble members. Our results indicate that RF effectively enhances the capability in capturing spatial climate characteristics. Regions with complex topography, such as the Tibetan Plateau and its periphery, show the most significant improvements. RF projects less future warming but enhanced wet conditions across China. It also produces larger spatial variability and more small-scale features. The most obvious increase of precipitation is in the northern part and the periphery of the Tibetan Plateau. The projected changes in RF for strong precipitation are almost twice higher than in AM, while in the northwestern area, weaker increases of precipitation are projected by RF, which indicates larger spatial inhomogeneity of its projection.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac1d0c"
+  },
+  {
+    "title": "Evolutionary and plastic changes in a native annual plant after a historic drought",
+    "authors": [
+      "Susan C. Lambrecht,",
+      "Anjum K. Gujral,",
+      "Lani J. Renshaw,",
+      "Lars T. Rosengreen"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.6156",
+    "journalVolume": "Vol. 10,\n                                no. 11\n                                \n                                  pp.\n                                  4570\n                                  – 4582",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Severe droughts are forecast to increase with global change. Approaches that enable the study of contemporary evolution, such as resurrection studies, are valuable for providing insights into the responses of populations to global change. In this study, we used a resurrection approach to study the evolution of the California native Leptosiphon bicolor (true babystars, Polemoniaceae) across populations differing in precipitation in response to the state's recent prolonged drought (2011–2017). In the Mediterranean climate region in which L. bicolor grows, this historic drought effectively shortened its growing season. We used seeds collected both before and after this drought from three populations found along a moisture availability gradient to assess contemporary evolution in a common garden greenhouse study. We coupled this with a drought experiment to examine plasticity. We found evolution toward earlier flowering after the historic drought in the wettest of the three populations, while plasticity to experimental drought was observed across all three. We also observed trade‐offs associated with earlier flowering. In the driest population, plants that flowered earlier had lower intrinsic water‐use efficiency than those flowering later, which was an expected pattern. Unexpectedly, earlier flowering plants had larger flowers. Two populations exhibited evolution and plasticity toward smaller flowers with drought. The third exhibited evolution toward larger flowers, but displayed no plasticity. Our results provide valuable insights into differences among native plant populations in response to drought.",
+    "readLink": "https://doi.org/10.1002/ece3.6156"
+  },
+  {
+    "title": "Sustainability assessment of small dairy farms from the main cattle farming systems in the North of Tunisia",
+    "authors": [
+      "Khaoula Attia,",
+      "Cyrine Darej,",
+      "Naceur M'hamdi,",
+      "Frédéric Zahm,",
+      "Nizar Moujahed"
+    ],
+    "doi": "https://doi.org/10.30682/nm2103m",
+    "journalVolume": "Vol. 20,\n                                no. 3",
+    "issn": "1594-5685 (Print)",
+    "publisher": "2611-1128 (Online)",
+    "countryOfPublisher": "Bononia University Press",
+    "lcc": [
+      "Italy",
+      "Agriculture: Agriculture (General)",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Commerce: Commercial geography. Economic geography"
+    ],
+    "journalUrl": "https://newmedit.iamb.it",
+    "abstract": "Demand for animal products is expected to increase due to human population growth, resulting in a need for increased production. At the same time, climate change poses a major threat to the viability and sustainability of livestock production systems. This study aimed to evaluate and compare the sus-tainability of dairy cattle farms belonging to three farming systems (rainfed, irrigated, and mixed) at the northeast zone of Tunisia using the IDEA method (version 3). Collected data of 102 farms were subjected to an analysis of variance using the GLM procedure of SAS software (version 9.4). Results showed that the socio-territorial scale was the limiting factor for all systems and that the irrigated sys-tem had the lowest scores of agro-ecological and socio-territorial scales, compared to the other ones, but it recorded the highest score for the economic scale. The best agro-ecological and socio-territorial scores characterized the mixed system. However, it had the lowest score on the economic scale. Finally, the rain-fed system was exhibited medium performances of the three scales. It was concluded a differ-ence between the three farm systems, but there was no disassociation between the three sustainability dimensions; thus, improvements should proceed across all scales simultaneously.",
+    "readLink": "https://newmedit.iamb.it/2021/09/28/sustainability-assessment-of-small-dairy-farms-from-the-main-cattle-farming-systems-in-the-north-of-tunisia/"
+  },
+  {
+    "title": "Decelerating Atlantic meridional overturning circulation main cause of future west European summer atmospheric circulation changes",
+    "authors": [
+      "Reindert J Haarsma,",
+      "Frank M Selten,",
+      "Sybren S Drijfhout"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/10/9/094007",
+    "journalVolume": "Vol. 10,\n                                no. 9\n                                \n                                  p.\n                                  094007",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "We use state-of-the-art global climate models and observations to show that the projected higher pressures over the British Isles due to global warming are part of an atmospheric response to the decelerating Atlantic meridional overturning circulation (AMOC) causing a reduction in the associated northward heat transport, keeping the North Atlantic relatively cool. However, considerable inter-model differences in the projected weakening of the AMOC lead to a large spread in the projected wind changes. Hence, the uncertainty in the projected reduction of oceanic heat transport is a main source of uncertainty in projections of Western European climate change. Better-constrained projections of European summer climate thus rely heavily on a more realistic representation of ocean processes in climate models.",
+    "readLink": "https://doi.org/10.1088/1748-9326/10/9/094007"
+  },
+  {
+    "title": "Trends of Tropical Cyclone Translation Speed over the Western North Pacific during 1980−2018",
+    "authors": [
+      "Danyi Gong,",
+      "Xiaodong Tang,",
+      "Johnny C. L. Chan,",
+      "Qiuyun Wang"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13060896",
+    "journalVolume": "Vol. 13,\n                                no. 896\n                                \n                                  p.\n                                  896",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Tropical cyclone (TC) translation speed often affects the time of strong wind attacks and precipitation accumulation in the areas that TCs pass through. Therefore, the trend of TC translation speed has important implications for TC-related risks in the current and future climate. In this paper, the trends of TC translation speed over the Western North Pacific (WNP) from 1980 to 2018 are analyzed, and TC lifetime maximum intensity (LMI) is proposed as a factor related to the interdecadal change of translation speed. During the periods with accurate data, 1980–1997 shows a decreasing trend in TC translation speed while an increasing trend was found in 1998–2018. The main lifetime period contributing to a TC translation speed change is before the occurrence of the LMI. The change in the trend is related to both the TC’s characteristics itself and the environmental factors. For the period 1998–2018, an increasing trend of TC intensity has a significant influence on the trend of translation speed. For the environmental factors, a trend of east wind enhancement at and above 500 hPa as the steering flow is found mostly correlated in the active TC region of the WNP with westward translation before reaching LMI, accompanied by a weakening trend of 200–850 hPa vertical wind shear, and an increasing trend of potential intensity.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/6/896"
+  }
+]

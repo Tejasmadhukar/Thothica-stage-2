@@ -1,0 +1,225 @@
+[
+  {
+    "title": "The MADS-Box Gene MdDAM1 Controls Growth Cessation and Bud Dormancy in Apple",
+    "authors": [
+      "Mirko Moser,",
+      "Elisa Asquini,",
+      "Giulia Valentina Miolli,",
+      "Kathleen Weigl,",
+      "Magda-Viola Hanke,",
+      "Henryk Flachowsky,",
+      "Azeddine Si-Ammour"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2020.01003",
+    "journalVolume": "Vol. 11",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Apple trees require a long exposure to chilling temperature during winter to acquire competency to flower and grow in the following spring. Climate change or adverse meteorological conditions can impair release of dormancy and delay bud break, hence jeopardizing fruit production and causing substantial economic losses. In order to characterize the molecular mechanisms controlling bud dormancy in apple we focused our work on the MADS-box transcription factor gene MdDAM1. We show that MdDAM1 silencing is required for the release of dormancy and bud break in spring. MdDAM1 transcript levels are drastically reduced in the low-chill varieties ‘Anna’ and ‘Dorsett Golden’ compared to ‘Golden Delicious’ corroborating its role as a key genetic factor controlling the release of bud dormancy in Malus species. The functional characterization of MdDAM1 using RNA silencing resulted in trees unable to cease growth in winter and that displayed an evergrowing, or evergreen, phenotype several years after transgenesis. These trees lost their capacity to enter in dormancy and produced leaves and shoots regardless of the season. A transcriptome study revealed that apple evergrowing lines are a genocopy of ‘Golden Delicious’ trees at the onset of the bud break with the significant gene repression of the related MADS-box gene MdDAM4 as a major feature. We provide the first functional evidence that MADS-box transcriptional factors are key regulators of bud dormancy in pome fruit trees and demonstrate that their silencing results in a defect of growth cessation in autumn. Our findings will help producing low-chill apple variants from the elite commercial cultivars that will withstand climate change.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2020.01003/full"
+  },
+  {
+    "title": "World Spread of Tropical Soda Apple (<i>Solanum viarum</i>) under Global Change: Historical Reconstruction, Niche Shift, and Potential Geographic Distribution",
+    "authors": [
+      "Yuhan Qi,",
+      "Xiaoqing Xian,",
+      "Haoxiang Zhao,",
+      "Ming Yang,",
+      "Yu Zhang,",
+      "Wentao Yu,",
+      "Wanxue Liu"
+    ],
+    "doi": "https://doi.org/10.3390/biology12091179",
+    "journalVolume": "Vol. 12,\n                                no. 1179\n                                \n                                  p.\n                                  1179",
+    "issn": "2079-7737 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biology",
+    "abstract": "Solanum viarum has become extensively invasive owing to international trade, climate change, and land–use change. As it is classified as a quarantine weed by countries such as the U.S. and Mexico, it is critical to understand the prevailing historical dispersal, ecological niche dynamics, and distribution patterns. We reconstructed the historical invasion countries and analyzed the ecological niche shift of S. viarum. Using MaxEnt based on the conservativeness of ecological niches, we studied variations in the potential geographical distributions (PGDs) of S. viarum in ecosystems and variations in suitability probabilities along latitudinal gradients. The invasion history in six continents involved three phases: lag (before 1980), spread (1980–2010), and equilibrium (2010–present). The ecological niche remains conserved. The area of S. viarum PGDs had increased by 259 km2; the PGDs will expand to reach a maximum in the 2050s, SSP5–8.5. The PGDs of S. viarum will migrate to higher latitudes under the same future climate scenarios. The latitudes subject to high threats range from 20° to 30° in forest and cropland ecosystems, 15.5° to 27.5° (northern hemisphere) and 33.1° to 42.8° (southern hemisphere) in grassland ecosystems, and 20° to 35° in urban ecosystems. Global change has led to an increased threat of S. viarum at high latitudes. These findings provide a theoretical basis to monitor and control S. viarum.",
+    "readLink": "https://www.mdpi.com/2079-7737/12/9/1179"
+  },
+  {
+    "title": "Biogeophysical impacts of forestation in Europe: first results from the LUCAS (Land Use and Climate Across Scales)  regional climate  model intercomparison",
+    "authors": [
+      "E. L. Davin,",
+      "D. Rechid,",
+      "M. Breil,",
+      "R. M. Cardoso,",
+      "E. Coppola,",
+      "P. Hoffmann,",
+      "L. L. Jach,",
+      "E. Katragkou,",
+      "N. de Noblet-Ducoudré,",
+      "K. Radtke,",
+      "M. Raffa,",
+      "P. M. M. Soares,",
+      "G. Sofiadis,",
+      "S. Strada,",
+      "G. Strandberg,",
+      "M. H. Tölle,",
+      "K. Warrach-Sagi,",
+      "V. Wulfmeyer"
+    ],
+    "doi": "https://doi.org/10.5194/esd-11-183-2020",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  183\n                                  – 200",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "The Land Use and Climate Across Scales Flagship Pilot Study (LUCAS FPS) is a coordinated community effort to improve the integration of land use change (LUC) in regional climate models (RCMs) and to quantify the biogeophysical effects of LUC on local to regional climate in Europe. In the first phase of LUCAS, nine RCMs are used to explore the biogeophysical impacts of re-/afforestation over Europe: two idealized experiments representing respectively a non-forested and a maximally forested Europe are compared in order to quantify spatial and temporal variations in the regional climate sensitivity to forestation. We find some robust features in the simulated response to forestation. In particular, all models indicate a year-round decrease in surface albedo, which is most pronounced in winter and spring at high latitudes. This results in a winter warming effect, with values ranging from +0.2 to +1 K on average over Scandinavia depending on models. However, there are also a number of strongly diverging responses. For instance, there is no agreement on the sign of temperature changes in summer with some RCMs predicting a widespread cooling from forestation (well below −2 K in most regions), a widespread warming (around +2 K or above in most regions) or a mixed response. A large part of the inter-model spread is attributed to the representation of land processes. In particular, differences in the partitioning of sensible and latent heat are identified as a key source of uncertainty in summer. Atmospheric processes, such as changes in incoming radiation due to cloud cover feedbacks, also influence the simulated response in most seasons. In conclusion, the multi-model approach we use here has the potential to deliver more robust and reliable information to stakeholders involved in land use planning, as compared to results based on single models. However, given the contradictory responses identified, our results also show that there are still fundamental uncertainties that need to be tackled to better anticipate the possible intended or unintended consequences of LUC on regional climates.",
+    "readLink": "https://www.earth-syst-dynam.net/11/183/2020/esd-11-183-2020.pdf"
+  },
+  {
+    "title": "Climate Change Migration and the Economic Rebirth of Central Appalachia",
+    "authors": [
+      "Elizabeth C. Hirschman"
+    ],
+    "doi": "https://doi.org/10.3390/socsci11100462",
+    "journalVolume": "Vol. 11,\n                                no. 462\n                                \n                                  p.\n                                  462",
+    "issn": "2076-0760 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Social Sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/socsci",
+    "abstract": "This research examines the potential economic rebirth of the Central Appalachian Region as persons from the southwestern and southeastern parts of the United States seek a safe and livable environment for their families and businesses. Central Appalachia is projected to be the largest habitable area in the continental United States by the year 2050. However, mined land remediation, water control efforts, and hydro-electric energy generation units will be required to support the incoming population.",
+    "readLink": "https://www.mdpi.com/2076-0760/11/10/462"
+  },
+  {
+    "title": "Climate change projections for sustainable and healthy cities",
+    "authors": [
+      "Clare Goodess,",
+      "Sarah Berk,",
+      "Satyaban Bishoyi Ratna,",
+      "Oscar Brousse,",
+      "Mike Davies,",
+      "Clare Heaviside,",
+      "Gemma Moore,",
+      "Helen Pineo"
+    ],
+    "doi": "https://doi.org/10.5334/bc.111",
+    "journalVolume": "Vol. 2,\n                                no. 1",
+    "issn": "2632-6655 (Online)",
+    "publisher": "Ubiquity Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Building construction: Architectural engineering. Structural engineering of buildings"
+    ],
+    "journalUrl": "https://journal-buildingscities.org/",
+    "abstract": "The ambition to develop sustainable and healthy cities requires city-specific policy and practice founded on a multidisciplinary evidence base, including projections of human-induced climate change. A cascade of climate models of increasing complexity and resolution is reviewed, which provides the basis for constructing climate projections—from global climate models with a typical horizontal resolution of a few hundred kilometres, through regional climate models at 12–50 km to convection-permitting models at 1 km resolution that permit the representation of urban induced climates. Different approaches to modelling the urban heat island (UHI) are also reviewed—focusing on how climate model outputs can be adjusted and coupled with urban canopy models to better represent UHI intensity, its impacts and variability. The latter can be due to changes induced by urbanisation or to climate change itself. City interventions such as greater use of green infrastructure also have an effect on the UHI and can help to reduce adverse health impacts such as heat stress and the mortality associated with increasing heat. Examples for the Complex Urban Systems for Sustainability and Health (CUSSH) partner cities of London, Rennes, Kisumu, Nairobi, Beijing and Ningbo illustrate how cities could potentially make use of more detailed models and projections to develop and evaluate policies and practices targeted at their specific environmental and health priorities. 'Practice relevance' Large-scale climate projections for the coming decades show robust trends in rising air temperatures, including more warm days and nights, and longer/more intense warm spells and heatwaves. This paper describes how more complex and higher resolution regional climate and urban canopy models can be combined with the aim of better understanding and quantifying how these larger scale patterns of change may be modified at the city or finer scale. These modifications may arise due to urbanisation and effects such as the UHI, as well as city interventions such as the greater use of grey and green infrastructures. There is potential danger in generalising from one city to another—under certain conditions some cities may experience an urban cool island, or little future intensification of the UHI, for example. City-specific, tailored climate projections combined with tailored health impact models contribute to an evidence base that supports built environment professionals, urban planners and policymakers to ensure designs for buildings and urban areas are fit for future climates.",
+    "readLink": "https://journal-buildingscities.org/articles/111"
+  },
+  {
+    "title": "Artificial Intelligence-Based Regional Flood Frequency Analysis Methods: A Scoping Review",
+    "authors": [
+      "Amir Zalnezhad,",
+      "Ataur Rahman,",
+      "Nastaran Nasiri,",
+      "Khaled Haddad,",
+      "Muhammad Muhitur Rahman,",
+      "Mehdi Vafakhah,",
+      "Bijan Samali,",
+      "Farhad Ahamed"
+    ],
+    "doi": "https://doi.org/10.3390/w14172677",
+    "journalVolume": "Vol. 14,\n                                no. 2677\n                                \n                                  p.\n                                  2677",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Flood is one of the most destructive natural disasters, causing significant economic damage and loss of lives. Numerous methods have been introduced to estimate design floods, which include linear and non-linear techniques. Since flood generation is a non-linear process, the use of linear techniques has inherent weaknesses. To overcome these, artificial intelligence (AI)-based non-linear regional flood frequency analysis (RFFA) techniques have been introduced over the last two decades. There are limited articles available in the literature discussing the relative merits/demerits of these AI-based RFFA techniques. To fill this knowledge gap, a scoping review on the AI-based RFFA techniques is presented. Based on the Scopus database, more than 1000 articles were initially selected, which were then screened manually to select the most relevant articles. The accuracy and efficiency of the selected RFFA techniques based on a set of evaluation statistics were compared. Furthermore, the relationships among countries and researchers focusing on AI-based RFFA techniques are illustrated. In terms of performance, artificial neural networks (ANN) are found to be the best performing techniques among all the selected AI-based RFFA techniques. It is also found that Australia, Canada, and Iran have published the highest number of articles in this research field, followed by Turkey, the United Arab Emirates (UAE), India, and China. Future research should be directed towards identification of the impacts of data quantity and quality, model uncertainty and climate change on the AI-based RFFA techniques.",
+    "readLink": "https://www.mdpi.com/2073-4441/14/17/2677"
+  },
+  {
+    "title": "Adaptation, plasticity, and extinction in a changing environment: towards a predictive theory.",
+    "authors": [
+      "Luis-Miguel Chevin,",
+      "Russell Lande,",
+      "Georgina M Mace"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pbio.1000357",
+    "journalVolume": "Vol. 8,\n                                no. 4\n                                \n                                  p.\n                                  e1000357",
+    "issn": "1544-9173 (Print)",
+    "publisher": "1545-7885 (Online)",
+    "countryOfPublisher": "Public Library of Science (PLoS)",
+    "lcc": [
+      "United States",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://journals.plos.org/plosbiology/",
+    "abstract": "Many species are experiencing sustained environmental change mainly due to human activities. The unusual rate and extent of anthropogenic alterations of the environment may exceed the capacity of developmental, genetic, and demographic mechanisms that populations have evolved to deal with environmental change. To begin to understand the limits to population persistence, we present a simple evolutionary model for the critical rate of environmental change beyond which a population must decline and go extinct. We use this model to highlight the major determinants of extinction risk in a changing environment, and identify research needs for improved predictions based on projected changes in environmental variables. Two key parameters relating the environment to population biology have not yet received sufficient attention. Phenotypic plasticity, the direct influence of environment on the development of individual phenotypes, is increasingly considered an important component of phenotypic change in the wild and should be incorporated in models of population persistence. Environmental sensitivity of selection, the change in the optimum phenotype with the environment, still crucially needs empirical assessment. We use environmental tolerance curves and other examples of ecological and evolutionary responses to climate change to illustrate how these mechanistic approaches can be developed for predictive purposes.",
+    "readLink": "http://europepmc.org/articles/PMC2864732?pdf=render"
+  },
+  {
+    "title": "Impact of the climate change on the West coast of Algeria: Gulf of Oran, Arzew and Mostaganem.",
+    "authors": [
+      "Fatima Kies,",
+      "Ahmed Kerfouf"
+    ],
+    "doi": "Vol. 2,\n                                no. 3\n                                \n                                  pp.\n                                  1\n                                  – 15",
+    "issn": "0719-3726 (Online)",
+    "publisher": "Universidad Católica de Temuco",
+    "countryOfPublisher": "Chile",
+    "lcc": [
+      "Agriculture",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://portalrevistas.uct.cl/index.php/safer",
+    "abstract": "Different hydro climatic conditions at and above a continental shelf have significant effects on the ecology of the environment (temperature, nutrient richness and pelagic production). Indeed, bioclimatic changes defined clearly reflects the prevailing conditions imposed above the continental shelf. Based on contributions made to the sea (rainfall, temperature, wind ...) and those put together by the internal dynamics can be distinguished marine years that correspond to low enrichment in terms of any change in continental and marine conditions generally short and strong enrichment of years corresponding to eventful years and transformations of continental and marine conditions, strong shifts in time. Thus, a hot or cold but very fluctuating period influence the marine ecosystem and phytoplankton growth. Also, the impact of development on the coastal and marine environment is localized mainly in the coastal metropolitan areas characterized by high urbanization and concentration of activities.",
+    "readLink": "http://portalrevistas.uct.cl/index.php/safer/article/view/821/731"
+  },
+  {
+    "title": "Science Diplomacy in Ecuador: Political Discourse and Practices Between 2007 and 2017",
+    "authors": [
+      "Kleinsy Bonilla,",
+      "Kleinsy Bonilla,",
+      "Milena Serafim,",
+      "Efraín Bámaca-López,",
+      "Efraín Bámaca-López"
+    ],
+    "doi": "https://doi.org/10.3389/frma.2021.656969",
+    "journalVolume": "Vol. 6",
+    "issn": "2504-0537 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Bibliography. Library science. Information resources"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/research-metrics-and-analytics#about",
+    "abstract": "The decade 2007–2017 was a period in which the Republic of Ecuador experienced a series of economic, social, cultural, and political transformations. This research focused on science, technology, and innovation (STI) changes with implications for Ecuador's foreign policy. One of the core components incorporated was Ecuador's engagement with foreign governments and various regional and global actors to further scientific and technological advances. These far-reaching collaborations aimed to reduce gaps the country experienced in science and research. Moreover, to incorporate Ecuador into worldwide initiatives to tackle cross-border issues, such as climate change and environmental sustainability. These measures included academic and scientific mobility through an extensive scholarship program, the Prometeo Fellowship Program, the Yasuni ITT Initiative, the creation of emblematic research universities, and certain guidelines released by the Ministry of Foreign Affairs and Human Mobility of Ecuador related to these policies. This article reports on qualitative research in which President Rafael Vicente Correa Delgado's political discourse was analyzed, along with key STI policies promoted in his administrations. The objective of this study was to establish different implications from the Science Diplomacy perspective (SD); particularly, reflecting on the consistency between the political rhetoric and the policy implementation. Evidence suggests that the political discourse materialized into concrete STI policies that could partially explain positive transformations in various aspects of the STI context in Ecuador. Institutional strengthening, international mobility (inward and outward), increased scientific output, and foreign policy practices involving SD which can be traced in the studied period. SD strategies could have been more effective and lasting if they were not discontinued upon Correa's departure from the Presidency.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frma.2021.656969/full"
+  },
+  {
+    "title": "Long and Short-Term Coastal Changes Assessment Using Earth Observation Data and GIS Analysis: The Case of Sperchios River Delta",
+    "authors": [
+      "Emmanouil Psomiadis"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi11010061",
+    "journalVolume": "Vol. 11,\n                                no. 61\n                                \n                                  p.\n                                  61",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "The present study provides information about the evolution of the Sperchios River deltaic area over the last 6500 years. Coastal changes, due to natural phenomena and anthropogenic activities, were analyzed utilizing a variety of geospatial data such as historic records, topographic maps, aerial photos, and satellite images, covering a period from 4500 BC to 2020. A qualitative approach for the period, from 4500 BC to 1852, and a quantitative analysis, from 1852 to the present day, were employed. Considering their scale and overall quality, the data were processed and georeferenced in detail based on the very high-resolution orthophoto datasets of the area. Then, the multitemporal shorelines were delineated in a geographical information system platform. Two different methods were utilized for the estimation of the shoreline changes and trends, namely the coastal change area method and the cross-section analysis, by implementing the digital shoreline analysis system with two statistical approaches, the end point rate and the linear regression rate. Significant river flow and coastline changes were observed with the overall increase in the delta area throughout the study period reaching 135 km2 (mean annual growth of 0.02 km2/yr) and the higher accretion rates to be detected during the periods 1805–1852, 1908–1945 and 1960–1986, especially at the central and north part of the gulf. During the last three decades, the coastline has remained relatively stable with a decreasing tendency, which, along with the expected sea-level rise due to climate change, can infer significant threats for the coastal zone in the near future.",
+    "readLink": "https://www.mdpi.com/2220-9964/11/1/61"
+  }
+]

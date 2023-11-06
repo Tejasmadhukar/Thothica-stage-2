@@ -1,0 +1,213 @@
+[
+  {
+    "title": "A Framework for Analysis and Expansion of Public Charging Infrastructure under Fast Penetration of Electric Vehicles",
+    "authors": [
+      "Fabiano Pallonetto,",
+      "Marta Galvani,",
+      "Agostino Torti,",
+      "Simone Vantini"
+    ],
+    "doi": "https://doi.org/10.3390/wevj11010018",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  p.\n                                  18",
+    "issn": "2032-6653 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering",
+      "Technology: Engineering (General). Civil engineering (General): Transportation engineering"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/wevj",
+    "abstract": "The improvement commercial competitiveness of private electric vehicles supported by the European policy for the decarbonisation of transport and with the consumers awareness-raising about CO2 emissions and climate change, are driving the increase of electric vehicles on the roads. Therefore, public charging networks are facing the challenge of supply electricity to a fast increasing number of electric cars. The objective of this paper is to establish an assessment framework for analysis and monitor of existing charging networks. The developed methodology comprises modelling the charging infrastructure electricity profile, analysing the data by using machine learning models such as functional k-means clustering and defining a novel congestion metric. The described framework has been tested against Irish public charging network historical datasets. The analyses reveal a lack of reliability of the communication network infrastructure, frequent congestion events for commercial and shopping areas in specific clusters of charge points and the presence of power peaks caused by the high number of simultaneous charging events. Several recommendations for future network expansion have been highlighted.",
+    "readLink": "https://www.mdpi.com/2032-6653/11/1/18"
+  },
+  {
+    "title": "Bacterioplankton Associated with Toxic Cyanobacteria Promote <i>Pisum sativum</i> (Pea) Growth and Nutritional Value through Positive Interactions",
+    "authors": [
+      "Richard Mugani,",
+      "Fatima El Khalloufi,",
+      "El Mahdi Redouane,",
+      "Mohammed Haida,",
+      "Soukaina El Amrani Zerrifi,",
+      "Alexandre Campos,",
+      "Minoru Kasada,",
+      "Jason Woodhouse,",
+      "Hans-Peter Grossart,",
+      "Vitor Vasconcelos,",
+      "Brahim Oudra"
+    ],
+    "doi": "https://doi.org/10.3390/microorganisms10081511",
+    "journalVolume": "Vol. 10,\n                                no. 1511\n                                \n                                  p.\n                                  1511",
+    "issn": "2076-2607 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/microorganisms",
+    "abstract": "Research on Plant Growth-Promoting Bacteria (PGPB) has focused much more on rhizospheric bacteria. However, PGPB associated with toxic cyanobacterial bloom (TCB) could enter the rhizosphere through irrigation water, helping plants such as Pisum sativum L. (pea) overcome oxidative stress induced by microcystin (MC) and improve plant growth and nutritional value. This study aimed to isolate bacteria associated with toxic cyanobacteria, test PGPB properties, and inoculate them as a consortium to pea seedlings irrigated with MC to investigate their role in plant protection as well as in improving growth and nutritional value. Two bacterioplankton isolates and one rhizosphere isolate were isolated and purified on a mineral salt medium supplemented with 1000 μg/L MC and identified via their 16S rRNA gene. The mixed strains were inoculated to pea seedlings in pots irrigated with 0, 50, and 100 μg/L MC. We measured the morphological and physiological parameters of pea plants at maturity and evaluated the efficiency of the plant’s enzymatic and non-enzymatic antioxidant responses to assess the role and contribution of PGPB. Both bacterioplankton isolates were identified as Starkeya sp., and the rhizobacterium was identified as Brevundimonas aurantiaca. MC addition significantly (p < 0.05) reduced all the growth parameters of the pea, i.e., total chlorophyll content, leaf quantum yield, stomatal conductance, carotenoids, and polyphenol contents, in an MC concentration-dependent manner, while bacterial presence positively affected all the measured parameters. In the MC treatment, the levels of the pea’s antioxidant traits, including SOD, CAT, POD, PPO, GST, and ascorbic acid, were increased in the sterile pots. In contrast, these levels were reduced with double and triple PGPB addition. Additionally, nutritional values such as sugars, proteins, and minerals (Ca and K) in pea fruits were reduced under MC exposure but increased with PGPB addition. Overall, in the presence of MC, PGPB seem to positively interact with pea plants and thus may constitute a natural alternative for soil fertilization when irrigated with cyanotoxin-contaminated water, increasing the yield and nutritional value of crops.",
+    "readLink": "https://www.mdpi.com/2076-2607/10/8/1511"
+  },
+  {
+    "title": "Techno-Economic Analysis of Hybrid Renewable Energy Systems Designed for Electric Vehicle Charging: A Case Study from the United Arab Emirates",
+    "authors": [
+      "Alya AlHammadi,",
+      "Nasser Al-Saif,",
+      "Ameena Saad Al-Sumaiti,",
+      "Mousa Marzband,",
+      "Tareefa Alsumaiti,",
+      "Ehsan Heydarian-Forushani"
+    ],
+    "doi": "https://doi.org/10.3390/en15186621",
+    "journalVolume": "Vol. 15,\n                                no. 6621\n                                \n                                  p.\n                                  6621",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The United Arab Emirates is moving towards the use of renewable energy for many reasons, including the country’s high energy consumption, unstable oil prices, and increasing carbon dioxide emissions. The usage of electric vehicles can improve public health and reduce emissions that contribute to climate change. Thus, the usage of renewable energy resources to meet the demands of electric vehicles is the major challenge influencing the development of an optimal smart system that can satisfy energy requirements, enhance sustainability and reduce negative environmental impacts. The objective of this study was to examine different configurations of hybrid renewable energy systems for electric vehicle charging in Abu Dhabi city, UAE. A comprehensive study was conducted to investigate previous electric vehicle charging approaches and formulate the problem accordingly. Subsequently, methods for acquiring data with respect to the energy input and load profiles were determined, and a techno-economic analysis was performed using Hybrid Optimization of Multiple Energy Resources (HOMER) software. The results demonstrated that the optimal electric vehicle charging model comprising solar photovoltaics, wind turbines, batteries and a distribution grid was superior to the other studied configurations from the technical, economic and environmental perspectives. An optimal model could produce excess electricity of 22,006 kWh/year with an energy cost of 0.06743 USD/kWh. Furthermore, the proposed battery–grid–solar photovoltaics–wind turbine system had the highest renewable penetration and thus reduced carbon dioxide emissions by 384 tons/year. The results also indicated that the carbon credits associated with this system could result in savings of 8786.8 USD/year. This study provides new guidelines and identifies the best indicators for electric vehicle charging systems that will positively influence the trend in carbon dioxide emissions and achieve sustainable electricity generation. This study also provides a valid financial assessment for investors looking to encourage the use of renewable energy.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/18/6621"
+  },
+  {
+    "title": "People with Different Educational Attainment in Washington, DC, USA have Differential Knowledge and Perceptions about Environmental Issues",
+    "authors": [
+      "Matthew  L. Richardson,",
+      "Ashley  D. Milton,",
+      "Elgloria Harrison"
+    ],
+    "doi": "https://doi.org/10.3390/su12052063",
+    "journalVolume": "Vol. 12,\n                                no. 5\n                                \n                                  p.\n                                  2063",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "We predicted that people’s knowledge and perceptions about the interconnectedness of natural resources, climate change, economics, and socio-cultural well-being would differ among demographic groups in Washington, DC, USA, so we conducted surveys to test that prediction. We collected demographic data from 455 participants and asked them 26 questions/statements related to natural resources, climate change, economics, and health. We selected education as the focal demographic category and participants were categorized based on their level of educational attainment: (1) completion of high school or less (hereafter “high school”); (2) some trade school or university education beyond high school up to and including completion of a trade school, two-, or four-year degree (hereafter “post-high school”); and (3) completion of a Master’s, professional, or doctoral degree (hereafter “advanced education”). Participants with advanced education reported the highest connection with nature and were more likely to report that their personal welfare depended on the natural community. Participants with the least education were more likely to believe that humans do not have much influence on natural resources and placed more trust in technology and human achievements to control nature and ensure that earth will not become unlivable. Participants with the least education were also more likely to express an interest in local environmental concerns over global, jobs over natural resources, and effects of degraded local natural resources on income, health, and the environment instead of on cultural/social practices, neighborhood aesthetics, and recreation.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/5/2063"
+  },
+  {
+    "title": "Environment-friendly biodiesel production by transesterification of rapeseed oil: effect of reaction parameters",
+    "authors": [
+      "Vita Kiriliauskaitė,",
+      "Vida Bendikienė,",
+      "Benediktas Juodka"
+    ],
+    "doi": "https://doi.org/10.3846/16486897.2012.674037",
+    "journalVolume": "Vol. 21,\n                                no. 1",
+    "issn": "1648-6897 (Print)",
+    "publisher": "1822-4199 (Online)",
+    "countryOfPublisher": "Vilnius Gediminas Technical University",
+    "lcc": [
+      "Lithuania",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering"
+    ],
+    "journalUrl": "https://journals.vilniustech.lt/index.php/JEELM",
+    "abstract": "The huge energy demand in the industrialized world and the pollution problems caused due to the worldwide consumption of fossil fuels has made it necessary to develop alternative sources of energy. It is estimated that pure biodiesel provides over 90% reduction in unburned hydrocarbons and 75–90% reduction in aromatic hydrocarbons. This results in almost total reduction in sulphur dioxide (which causes acid rains), 40–60% reduction in soot particles, 80% and 10– 15% reduction in carbon dioxide and carbon monoxide emissions respectively. Reduction of poly-aromatic hydrocarbons is extremely important as many of these hydrocarbons are cancer causing and ozone-forming compounds. Biodiesel does not interfere with the carbon cycle or cause climate change (vegetables from which oils are extracted for biodiesel production remove carbon dioxide from the atmosphere to grow). Due to the global drive towards renewable, non-toxic and environmentally acceptable products the ability of the commercial lipolytic enzyme Lipoprime 50T to catalyze the biotechnologically important process of biodiesel (fatty acid methyl esters) production via rapeseed oil transesterification (methanolysis) was investigated. The optimal reaction conditions were determined using titrimetric and simple and accurate thin-layer chromatography and computer analysis methods that enable to follow the changes of all reaction mixture components simultaneously. The effects of molar ratio of substrates, reaction temperature and time, lipase dosage and water content in different organic medium on the composition of the reaction mixture were analyzed. The hydrolytic activity of lipase directly depends on the reaction solvent and the water content required for high yields of the product increases with increasing the reaction medium hydrophobicity. Under the optimal process conditions identified (n-hexane, 40 °C temperature, 66 mg/ml enzyme, water content of 26%, rapeseed oil to methanol molar ratio of 1:16 and reaction time 24 h) the highest biodiesel conversion yield of around 85% was obtained. First published online: 11 Oct 2012",
+    "readLink": "http://journals.vgtu.lt/index.php/JEELM/article/view/1909"
+  },
+  {
+    "title": "Spatiotemporal Evolution of Seasonal Crop-Specific Climatic Indices under Climate Change in Greece Based on EURO-CORDEX RCM Simulations",
+    "authors": [
+      "Theodoros Mavromatis,",
+      "Aristeidis K. Georgoulias,",
+      "Dimitris Akritidis,",
+      "Dimitris Melas,",
+      "Prodromos Zanis"
+    ],
+    "doi": "https://doi.org/10.3390/su142417048",
+    "journalVolume": "Vol. 14,\n                                no. 17048\n                                \n                                  p.\n                                  17048",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "This study presents an updated assessment of the projected climate change over Greece in the near future (2021–2050) and at the end of the 21st century (2071–2100) (EOC), relative to the reference period 1971–2000, and focusing on seasonal crop-specific climatic indices. The indices include days (d) with: a maximum daily near-surface temperature (TASMAX) > 30 °C in Spring, a TASMAX > 35 °C in Summer (hot days), a minimum daily near-surface temperature (TASMIN) 20 °C (tropical nights) in Spring–Summer and the daily precipitation (PR) > 1 mm (wet days) in Spring and Summer covering the critical periods in which wheat, tomatoes, cotton, potato, grapes, rice and olive are more sensitive to water and/or temperature stress. The analysis is based on an ensemble of 11 EURO-CORDEX regional climate model simulations under the influence of a strong, a moderate, and a no mitigation Representative Concentration Pathway (RCP2.6, RCP4.5 and RCP8.5, respectively). The indices related to TASMAX are expected to increase by up to 11 days in Spring and 40 days in Summer, tropical nights to rise by up to 50 days, frost days to decrease by up to 20 days, and wet days to decline by up to 9 days in Spring and Summer, at the EOC with an RCP8.5. The increased heat stress and water deficit are expected to have negative crop impacts, in contrast to the positive effects anticipated by the decrease in frost days. This study constitutes a further step towards identifying the commodities and/or regions in Greece which, under climate change, are or will be significantly impacted.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/24/17048"
+  },
+  {
+    "title": "Alternative approaches for estimating missing climate data: application to monthly precipitation records in South-Central Chile",
+    "authors": [
+      "Alonso Barrios,",
+      "Guillermo Trincado,",
+      "René Garreaud"
+    ],
+    "doi": "https://doi.org/10.1186/s40663-018-0147-x",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2095-6355 (Print)",
+    "publisher": "2197-5620 (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.keaipublishing.com/en/journals/forest-ecosystems/",
+    "abstract": "Abstract Background Over the last decades interest has grown on how climate change impacts forest resources. However, one of the main constraints is that meteorological stations are riddled with missing climatic data. This study compared five approaches for estimating monthly precipitation records: inverse distance weighting (IDW), a modification of IDW that includes elevation differences between target and neighboring stations (IDW m ), correlation coefficient weighting (CCW), multiple linear regression (MLR) and artificial neural networks (ANN). Methods A complete series of monthly precipitation records (1995–2012) from twenty meteorological stations located in central Chile were used. Two target stations were selected and their neighboring stations, located within a radius of 25 km (3 stations) and 50 km (9 stations), were identified. Cross-validation was used for evaluating the accuracy of the estimation approaches. The performance and predictive capability of the approaches were evaluated using the ratio of the root mean square error to the standard deviation of measured data (RSR), the percent bias (PBIAS), and the Nash-Sutcliffe efficiency (NSE). For testing the main and interactive effects of the radius of influence and estimation approaches, a two-level factorial design considering the target station as the blocking factor was used. Results ANN and MLR showed the best statistics for all the stations and radius of influence. However, these approaches were not significantly different with IDW m . Inclusion of elevation differences into IDW significantly improved IDW m estimates. In terms of precision, similar estimates were obtained when applying ANN, MLR or IDW m , and the radius of influence had a significant influence on their estimates, we conclude that estimates based on nine neighboring stations located within a radius of 50 km are needed for completing missing monthly precipitation data in regions with complex topography. Conclusions It is concluded that approaches based on ANN, MLR and IDW m had the best performance in two sectors located in south-central Chile with a complex topography. A radius of influence of 50 km (9 neighboring stations) is recommended for completing monthly precipitation data.",
+    "readLink": "http://link.springer.com/article/10.1186/s40663-018-0147-x"
+  },
+  {
+    "title": "Control and monitoring of the Znosko Glacier in Antarctica",
+    "authors": [
+      "Fabian Brondi Rueda,",
+      "Gabriele Garnero,",
+      "Giovanni Righetti,",
+      "Stefano Serafini"
+    ],
+    "doi": "https://doi.org/10.48258/geo.v1i3.1726",
+    "journalVolume": "Vol. 24,\n                                no. 3",
+    "issn": "1128-8132 (Print)",
+    "publisher": "2283-5687 (Online)",
+    "countryOfPublisher": "mediaGEO soc. coop.",
+    "lcc": [
+      "Italy",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography: Cartography: Cadastral mapping"
+    ],
+    "journalUrl": "http://mediageo.it/ojs/index.php/GEOmedia",
+    "abstract": "The study and analysis of climate change is a global challenge against which environmental, but also economic and social changes, will be measured. This memorandum illustrates the recent activities carried out by the IGN Peru in collaboration with European institutions.",
+    "readLink": "https://www.mediageo.it/ojs/index.php/GEOmedia/article/view/1726"
+  },
+  {
+    "title": "THE IMPACT OF CLIMATE CHANGE ON HUMAN HEALTH",
+    "authors": [
+      "Imerlije Alili"
+    ],
+    "doi": "Vol. 2,\n                                no. 6\n                                \n                                  pp.\n                                  85\n                                  – 93",
+    "issn": "1857-8179 (Print)",
+    "publisher": "1857-8187 (Online)",
+    "countryOfPublisher": "Association-Institute for English Language and American Studies",
+    "lcc": [
+      "North Macedonia",
+      "Social Sciences",
+      "Fine Arts: Arts in general"
+    ],
+    "journalUrl": "https://anglisticum.org.mk/index.php/IJLLIS",
+    "abstract": "Nowadays it is well known the fact that our health and wellbeing is impacted by climate change. Furthermore, climate changes it is claimed to be seen as one of the main critical public health problems from most of the international public health organizations of the world. Moreover, many existing diseases and conditions are getting worse as a result of climate change, but on the other side, it might help introduce new pests and pathogens to new communities or regions. Through climate change we understand that the planet gets warms and oceans expand, sea level rises, yet floods and droughts become more frequent and intense, while the heat waves and hurricanes become even more severe. On the other side, important target groups such as children, elderly, poor and especially those with underlying health conditions are more probably to face this risky health effects from climate change. It is worth mentioning that there exist some important steps that might be taken to decrease these climate change, a process known as the term mitigation and so we can reduce these impacts on our health and next generations – a known process called as an adaptation. All these processes are very helpful steps for our health, environment and society as well. Climate and weather can be seen as important factors that influence human health. In this context, we can say that the changes that appear in climate and climate variability, especially those weather extremes, they all affect the environment which on the other side provides us with clean air, food, water and security. Moreover, when they are combined together with certain other natural and health stressors caused by humans, threatens than it threatens the well-being and their health condition seriously. It is also important to mention that this situation it is also present in Europe as well, thus also present in the Republic of Macedonia. Finally, since projected impacts of climate change are supposed to increase over the next century there will also increase some existing health threats as well. That is why very important to understand how climate is changing as well as how those changes may affect human health, so when we can connect all these data, we can make decisions about mitigating or reducing the amount of future climate change, through suggesting main priorities for protecting public health, as well as to helping identify such research needs. Eventually, a useful approach in order to understand how climate change affects health is to consider specific exposure pathways and how they can lead to human disease.",
+    "readLink": "https://anglisticum.org.mk/index.php/IJLLIS/article/view/1262"
+  },
+  {
+    "title": "Visioneering futures: a way to boost regional awareness of the low-carbon future",
+    "authors": [
+      "Chiara Andreotta"
+    ],
+    "doi": "https://doi.org/10.1080/21681376.2018.1446844",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  117\n                                  – 124",
+    "issn": "2168-1376 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: Regional economics. Space in economics",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: Regional planning"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/rsrs",
+    "abstract": "The low-carbon future is a global challenge; it requires local answers that take into account the different conditions and specificities of individual regions. The Alps are one of the most sensitive areas to the transition to a low-carbon future owing to the effects of climate change, and the abundance of natural resources for the production of renewable energy. Generating and spreading awareness in this region is still a key issue for the implementation of a sustainable transition. This paper presents the application of a strategic planning approach (visioneering) to encourage a regional response in an alpine region (Cadore, Italy). The purpose of the empirical research is to improve the regional approach by stimulating social learning, by testing the visioneering approach and through use of related visual material. The conclusions show that visioneering can impact on a regional approach effectively by clarifying the individual’s role in the transition, and the actions that the region and individuals can effectively take.",
+    "readLink": "http://dx.doi.org/10.1080/21681376.2018.1446844"
+  }
+]

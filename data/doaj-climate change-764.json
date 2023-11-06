@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Performance Evaluation of Bias Correction Methods for Climate Change Monthly Precipitation Projections over Costa Rica",
+    "authors": [
+      "Maikel Mendez,",
+      "Ben Maathuis,",
+      "David Hein-Griggs,",
+      "Luis-Fernando Alvarado-Gamboa"
+    ],
+    "doi": "https://doi.org/10.3390/w12020482",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  p.\n                                  482",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Six bias correction (BC) methods; delta-method (DT), linear scaling (LS), power transformation of precipitation (PTR), empirical quantile mapping (EQM), gamma quantile mapping (GQM) and gamma-pareto quantile mapping (GPQM) were applied to adjust the biases of historical monthly precipitation outputs from five General Circulation Models (GCMs) dynamically downscaled by two Regional Climate Models (RCMs) for a total of seven different GCM-RCM pairs over Costa Rica. High-resolution gridded precipitation observations were used for the control period 1951−1980 and validated over the period 1981−1995. Results show that considerable biases exist between uncorrected GCM-RCM outputs and observations, which largely depend on GCM-RCM pair, seasonality, climatic region and spatial resolution. After the application of bias correction, substantial biases reductions and comparable performances among most BC methods were observed for most GCM-RCM pairs; with EQM and DT marginally outperforming the remaining methods. Consequently, EQM and DT were selectively applied to correct the biases of precipitation projections from each individual GCM-RCM pair for a near-future (2011−2040), mid-future (2041−2070) and far-future (2071−2100) period under Representative Concentration Pathways (RCPs) 2.6, 4.5 and 8.5 using the control period 1961−1990. Results from the bias-corrected future ensemble-mean anticipate a marked decreasing trend in precipitation from near to far-future periods during the dry season (December, January, February (DJF) and March, April, May (MAM)) for RCP4.5 and 8.5; with pronounced drier conditions for those climatic regions draining towards the Pacific Ocean. In contrast, mostly wetter conditions are expected during the dry season under RCP2.6, particularly for the Caribbean region. In most of the country, the greatest decrease in precipitation is projected at the beginning of the rainy season (June, July, August (JJA)) for the far-future period under RCP8.5, except for the Caribbean region where mostly wetter conditions are anticipated. Regardless of future period, slight increases in precipitation with higher radiative forcing are expected for SON excluding the Caribbean region, where precipitation is likely to increase with increasing radiative forcing and future period. This study demonstrates that bias correction should be considered before direct application of GCM-RCM precipitation projections over complex territories such as Costa Rica.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/2/482"
+  },
+  {
+    "title": "Flooding time nomograph for urban river flood prediction: Case study of Dorim stream basin, Seoul",
+    "authors": [
+      "Hyeontae Moon,",
+      "Sunkwon Yoon,",
+      "Junghwan Lee,",
+      "Jihyeok Choi,",
+      "Young‐Il Moon"
+    ],
+    "doi": "https://doi.org/10.1111/jfr3.12887",
+    "journalVolume": "Vol. 16,\n                                no. 2\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "1753-318X (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Hydraulic engineering: River protective works. Regulation. Flood control",
+      "Technology: Engineering (General). Civil engineering (General): Disasters and engineering"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/1753318x",
+    "abstract": "Abstract Global climate change is intensifying flood damage in urban rivers. Notably, most small and medium‐sized urban rivers have a brief concentration period and are highly vulnerable to sudden heavy rains that lead to a rapid increase in water levels. Therefore, rapid flood forecasting must be performed through accurate flood occurrence and timing prediction. In this study, a flooding time nomograph (FTN) was proposed to predict the flood occurrence time according to rainfall conditions, such as intensity, time distribution, and duration. In addition, rainfall–runoff simulations were performed by establishing different virtual rainfall scenarios using Huff's quartile rainfall time distribution. The simulation results were used to formulate the relationship between the rainfall intensity and flood occurrence time to generate the FTN. The applicability of this tool was verified through a comparison with the observed flood occurrence time for an actual rainfall event, which was highly accurate in the target watershed, with a correlation coefficient >0.8 and Nash–Sutcliffe efficiency >0.6. Therefore, the proposed FTN can be used to reasonably predict the occurrence of floods and the time of flood occurrence using only predicted rainfall information.",
+    "readLink": "https://doi.org/10.1111/jfr3.12887"
+  },
+  {
+    "title": "FORCCHN V2.0: an individual-based model for predicting multiscale forest carbon dynamics",
+    "authors": [
+      "J. Fang,",
+      "J. Fang,",
+      "H. H. Shugart,",
+      "F. Liu,",
+      "F. Liu,",
+      "X. Yan,",
+      "Y. Song,",
+      "F. Lv"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-15-6863-2022",
+    "journalVolume": "Vol. 15\n                                \n                                \n                                  pp.\n                                  6863\n                                  – 6872",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Process-based ecological models are essential tools to quantify and predict forest growth and carbon cycles under the background of climate change. The accurate description of phenology and tree growth processes enables an improved understanding and predictive modeling of forest dynamics. An individual tree-based carbon model, FORCCHN2 (Forest Ecosystem Carbon Budget Model for China version 2.0), used non-structural carbohydrate (NSC) pools to couple tree growth and phenology. This model performed well in reducing uncertainty when predicting forest carbon fluxes. Here, we describe the framework in detail and provide the source code of FORCCHN2. We also present a dynamic-link library (DLL) package containing the latest version of FORCCHN2. This package has the advantage of using Fortran as an interface to make the model run fast on a daily step, and the package also allows users to call it with their preferred computer tools (e.g., MATLAB, R, Python). FORCCHN2 can be used directly to predict spring and autumn phenological dates, daily carbon fluxes (including photosynthesis, aboveground and belowground autotrophic respiration, and soil heterotrophic respiration), and biomass on plot, regional, and hemispheric scales. As case studies, we provide an example of FORCCHN2 running model validations in 78 forest sites and an example model application for the carbon dynamics of Northern Hemisphere forests. We demonstrate that FORCCHN2 can produce a reasonable agreement with flux observations. Given the potential importance of the application of this ecological model in many studies, there is substantial scope for using FORCCHN2 in fields as diverse as forest ecology, climate change, and carbon estimations.",
+    "readLink": "https://gmd.copernicus.org/articles/15/6863/2022/gmd-15-6863-2022.pdf"
+  },
+  {
+    "title": "Coding Metamaterial Analysis Based on 1-Bit Conventional and Cuboid Design Structures for Microwave Applications",
+    "authors": [
+      "Tayaallen Ramachandran,",
+      "Mohammad Rashed Iqbal Faruque,",
+      "Mohammad Tariqul Islam,",
+      "Mayeen Uddin Khandaker,",
+      "Hamid Osman,",
+      "Imed Boukhris"
+    ],
+    "doi": "https://doi.org/10.3390/ma15217447",
+    "journalVolume": "Vol. 15,\n                                no. 7447\n                                \n                                  p.\n                                  7447",
+    "issn": "1996-1944 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering",
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Natural history (General): Microscopy",
+      "Science: Physics: Descriptive and experimental mechanics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/materials/",
+    "abstract": "This study aimed to investigate the compact 1-bit coding metamaterial design with various conventional and cuboid shapes by analysing the bistatic scattering patterns as well as the monostatic radar cross-section for microwave applications. The construction of this metamaterial design depends on binary elements. For example, 1-bit coding metamaterial comprises two kinds of unit cell to mimic both coding particles such as ‘0’ and ‘1’ with 0° and 180° phase responses. This study adopted a 1 mm × 1 mm of epoxy resin fibre (FR-4) substrate material, which possesses a dielectric constant of 4.3 and tangent loss of 0.025, to construct both elements for the 1-bit coding metamaterial. All simulations were performed using the well-known Computer Simulation Technology (CST) software. The elements were selected via a trial-and-error method based on the phase response properties of the designs. On the other hand, the phase response properties from CST software were validated through the comparison of the phase response properties of both elements with the analytical data from HFSS software. Clear closure was obtained from these findings, and it was concluded that the proposed conventional coding metamaterial manifested the lowest RCS values with an increasing number of lattices. However, the cuboid-shaped design with 20 lattices demonstrated an optimised bistatic scattering pattern of −8.49 dBm2. Additionally, the monostatic RCS values were successfully reduced within the 12 to 18 GHz frequency range with −30 to −10 dBm2 values. In short, the introduced designs were suitable for the proposed application field, and this unique phenomenon is described as the novelty of this study.",
+    "readLink": "https://www.mdpi.com/1996-1944/15/21/7447"
+  },
+  {
+    "title": "Projected Climate Change Impacts on Hurricane Storm Surge Inundation in the Coastal United States",
+    "authors": [
+      "Jeane Camelo,",
+      "Talea L. Mayo,",
+      "Ethan D. Gutmann"
+    ],
+    "doi": "https://doi.org/10.3389/fbuil.2020.588049",
+    "journalVolume": "Vol. 6",
+    "issn": "2297-3362 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: City planning"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/built-environment#",
+    "abstract": "The properties of hurricanes directly influence storm surges; however, the implications of projected changes to the climate are unclear. Here, we simulate the storm surges of historical storms under present day and end of century climate scenarios to assess the impact of climate change on storm surge inundation. We simulate 21 storms that impacted the Gulf of Mexico and Atlantic Coasts of the continental U.S. from 2000 to 2013. We find that the volume of inundation increases for 14 storms and the average change for all storms is +36%. The extent of inundation increases for 13 storms, and the average change for all storms is +25%. Notable increases in inundation occur near Texas, Louisiana, Mississippi, the west coast of Florida, the Carolinas, and New Jersey. Our calculations of inundation volume and extent suggest that at the end of the century, we can expect hurricanes to produce larger storm surge magnitudes in concentrated areas, as opposed to surges with lower magnitudes that are widespread. We examine changes in maximum wind speed, minimum central pressure, translation speed, and radius of the 33 ms−1 wind to assess the impacts of individual storm characteristics on storm surge. We find that there is no single storm characteristic that directly relates to storm surge inundation or its climate induced changes. Even when all the characteristics are considered together, the resulting influences are difficult to anticipate. This is likely due to the complexity of the hydrodynamics and interactions with local geography. This illustrates that even as climate change research advances and more is known about projected impacts to hurricanes, implications for storm surge will be difficult to predict without explicit numerical simulation.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fbuil.2020.588049/full"
+  },
+  {
+    "title": "Retrieval of land surface temperature, normalized difference moisture index, normalized difference water index of the Ravi basin using Landsat data",
+    "authors": [
+      "Ajay Kumar Taloor,",
+      "Drinder Singh Manhas,",
+      "Girish Chandra Kothyari"
+    ],
+    "doi": "Vol. 9\n                                \n                                \n                                  p.\n                                  100051",
+    "issn": "2590-1974 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation",
+      "Science: Geology",
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/applied-computing-and-geosciences",
+    "abstract": "Land surface temperature (LST) is an important parameter for the biosphere, cryosphere, and climate change studies. In this study, we estimate LST, NDMI, and NDWI over the Ravi basin, India, and parts of Pakistan, using Landsat-8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) data. The study develops an ERDAS IMAGINE image processing method by using the LANDSAT 8 band 3(Green), band 4(Red), band 5(NIR), band 6(SWIR 1), and band 10 (TIR) data for determining the various spectral indices. The LST results show that most of the areas experienced extreme anomalies ranging from −350Cand 36 ​°C. The normalized difference moisture index (NDMI) value ranges from 0.685 to - 0.154. The normalized difference water index (NDWI) value ranges from 0.146 to - 0.444. Further, the LST result validated with in situ temperature observations at six locations in the study area, providing excellent correlation.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2590197420300331"
+  },
+  {
+    "title": "Contrasting late Miocene to present weathering regimes across the Khangay Mountains, Mongolia",
+    "authors": [
+      "Gantulga Bayasgalan,",
+      "Karl W. Wegmann,",
+      "Amgalan Bayasgalan"
+    ],
+    "doi": "Vol. 8\n                                \n                                \n                                  p.\n                                  100113",
+    "issn": "2590-0560 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/journal-of-asian-earth-sciences-x",
+    "abstract": "Our understanding of climate change impacts on the geomorphology of terrestrial landscapes is often derived from proxy sedimentary records preserved in depositional fluvial and lacustrine basins that integrate landscape responses. At million-year time scales, most mountainous regions are characterized by net erosion and the export of chemically and physically weathered bedrock. For example, in the Khangay Mountains of central Mongolia, late Cenozoic valley-conforming lava flows preserve “snapshots” of hillslope weathering regimes in the headwaters of the Selenga-Baikal depositional system during the consequential climate transition from the late Miocene (ca. 12 Ma) into the Quaternary.This research aims to characterize the relative importance of chemical and physical weathering to landscape development in this upland intracontinental setting through an investigation of geochemical major and minor trace elemental composition of well-developed paleosols formed in metasediments (middle Orkhon), granite (upper Orkhon), and Miocene fluvial deposits (upper Chuluut) preserved beneath basaltic lavas at 11.9, 7.5 and 3.1 Ma, respectively.We used the Chemical Index of alteration (CIA), Plagioclase Index of Alteration (PIA), and Chemical Index of Weathering (CIW) to derive an integrated paleoclimate regime from the three lava flow-buried paleosol locations. Results reveal that from the late Miocene into the Pliocene, the climate was warmer and slightly more humid than today in the upland continental interior of west-central Mongolia. This result matches the long-term paleo records from Lake Baikal and late Cenozoic global cooling trends from other proxies.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2590056022000342"
+  },
+  {
+    "title": "A systematic review of hot weather impacts on infant feeding practices in low-and middle-income countries",
+    "authors": [
+      "Jessica M. Edney,",
+      "Sari Kovats,",
+      "Veronique Filippi,",
+      "Britt Nakstad,",
+      "Britt Nakstad"
+    ],
+    "doi": "https://doi.org/10.3389/fped.2022.930348",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-2360 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine: Pediatrics"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/pediatrics",
+    "abstract": "BackgroundIncreased rates of exclusive breastfeeding could significantly improve infant survival in low- and middle-income countries. There is a concern that increased hot weather due to climate change may increase rates of supplemental feeding due to infants requiring fluids, or the perception that infants are dehydrated.ObjectiveTo understand how hot weather conditions may impact infant feeding practices by identifying and appraising evidence that exclusively breastfed infants can maintain hydration levels under hot weather conditions, and by examining available literature on infant feeding practices in hot weather.MethodsSystematic review of published studies that met inclusion criteria in MEDLINE, EMBASE, Global Health and Web of Science databases. The quality of included studies was appraised against predetermined criteria and relevant data extracted to produce a narrative synthesis of results.ResultsEighteen studies were identified. There is no evidence among studies of infant hydration that infants under the age of 6months require supplementary food or fluids in hot weather conditions. In some settings, healthcare providers and relatives continue to advise water supplementation in hot weather or during the warm seasons. Cultural practices, socio-economic status, and other locally specific factors also affect infant feeding practices and may be affected by weather and seasonal changes themselves.ConclusionInterventions to discourage water/other fluid supplementation in breastfeeding infants below 6 months are needed, especially in low-middle income countries. Families and healthcare providers should be advised that exclusive breastfeeding (EBF) is recommended even in hot conditions.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fped.2022.930348/full"
+  },
+  {
+    "title": "Extreme event impacts on terrestrial and freshwater biota in the arctic: A synthesis of knowledge and opportunities",
+    "authors": [
+      "Floris M. van Beest,",
+      "Floris M. van Beest,",
+      "Tom Barry,",
+      "Tom Christensen,",
+      "Tom Christensen,",
+      "Starri Heiðmarsson,",
+      "Donald McLennan,",
+      "Niels M. Schmidt,",
+      "Niels M. Schmidt"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2022.983637",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "Extreme weather events are increasing in frequency and intensity across the Arctic, one of the planet’s most rapidly warming regions. Studies from southern latitudes have revealed that the ecological impacts of extreme events on living organisms can be severe and long-lasting, yet data and evidence from within the terrestrial Arctic biome appear underrepresented. By synthesizing a total of 48 research articles, published over the past 25 years, we highlight the occurrence of a wide variety of extreme events throughout the Arctic, with multiple and divergent impacts on local biota. Extreme event impacts were quantified using a myriad of approaches ranging from circumpolar modelling to fine-scale experimental studies. We also identified a research bias towards the quantification of impacts related to a few extreme event types in the same geographic location (e.g. rain-on-snow events in Svalbard). Moreover, research investigating extreme event impacts on the ecology of arthropods and especially freshwater biota were scant, highlighting important knowledge gaps. While current data allow for hypotheses development, many uncertainties about the long-term consequences of extreme events to Arctic ecosystems remain. To advance extreme event research in the terrestrial Arctic biome, we suggest that future studies i) objectively define what is extreme in terms of events and ecological impacts using long-term monitoring data, ii) move beyond single-impact studies and single spatial scales of observation by taking advantage of pan-Arctic science-based monitoring networks and iii) consider predictive and mechanistic modelling to estimate ecosystem-level impacts and recovery.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2022.983637/full"
+  },
+  {
+    "title": "Glacial history of Pyramid Trough, southern McMurdo Sound, Antarctica: Constraints on Koettlitz Glacier during the last glacial maximum and termination",
+    "authors": [
+      "Tess Walther,",
+      "Brenda Hall,",
+      "George Denton,",
+      "Chris Hendy"
+    ],
+    "doi": "Vol. 11\n                                \n                                \n                                  p.\n                                  100089",
+    "issn": "2666-0334 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation",
+      "Auxiliary sciences of history: Archaeology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/quaternary-science-advances",
+    "abstract": "Reconstructions of past glacier extent and timing afford perspective on the efficacy of mechanisms thought to control ice-sheet fluctuations. Here, we present data concerning the interactions between the Antarctic Ice Sheet and a local glacier (Koettlitz Glacier) in the McMurdo Sound region of the western Ross Embayment and use this information to gain insight into driving forces of ice expansion in this sector during the last glacial maximum (LGM; 24–18 ka) and termination (18–13 ka). Our data suggest that a grounded ice sheet in McMurdo Sound at the LGM resulted not from expansion of local glaciers, such as Koettlitz, from the continent but rather from flow of marine-based ice into the sound from the Ross Sea. We infer that the relative importance of different forcing mechanisms, such as sea-level rise, ocean-temperature change, and accumulation variations, explains the contrasting behavior of the grounded marine ice sheet in the Ross Sea and local glaciers adjacent to McMurdo Sound, with Ross Sea ice responding primarily to marine forcing and local glaciers influenced strongly by accumulation.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666033423000217"
+  }
+]

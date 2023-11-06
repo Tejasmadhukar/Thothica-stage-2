@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Spatiotemporal Variations of Global Terrestrial Typical Vegetation EVI and Their Responses to Climate Change from 2000 to 2021",
+    "authors": [
+      "Chenhao Li,",
+      "Yifan Song,",
+      "Tianling Qin,",
+      "Denghua Yan,",
+      "Xin Zhang,",
+      "Lin Zhu,",
+      "Batsuren Dorjsuren,",
+      "Hira Khalid"
+    ],
+    "doi": "https://doi.org/10.3390/rs15174245",
+    "journalVolume": "Vol. 15,\n                                no. 4245\n                                \n                                  p.\n                                  4245",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "With the increasing impact of climate change on ecosystems, it is crucial to analyze how changes in precipitation and temperature affect global ecosystems. Therefore, this study aims to investigate the spatiotemporal variation characteristics of the Enhanced Vegetation Index (EVI) in the global forest, grassland, shrubland, and tundra (FGST) from 2000 to 2021. We utilized partial correlation analysis and grey relation analysis to assess the responses of different vegetation types to precipitation, temperature, and extreme water and heat indicators. The result shows that, despite a “warmer and drier” trend in FGST (excluding tundra), global climate change has not adversely affected the ongoing vegetation growth. It presents a favorable implication for global carbon dioxide assimilation. Different vegetation types displayed different sensitivities to changes in precipitation and temperature. Shrubland proved to be the most sensitive, followed by grassland, forest, and tundra. As the impacts of global climate change intensify, it becomes crucial to direct our attention toward dynamics of vegetation types demonstrating heightened sensitivity to fluctuations in precipitation and temperature. Our study indicates that, except for forests, extreme precipitation indicators have a stronger impact on EVI than extreme temperature indicators. Forests and tundra have demonstrated heightened susceptibility to the intensity of extreme climatic events, while grasslands and shrublands have been more sensitive to the duration of such events. Understanding these responses can offer valuable insights for developing targeted strategies for adaptation and preservation. Our study enhances comprehension of the feedback relationship between global climate change and vegetation, offering scientific evidence for global climate change evaluation.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/17/4245"
+  },
+  {
+    "title": "An analytical method to evaluate the capacity of laterally loaded piles in unsaturated soils",
+    "authors": [
+      "Lalicata Leonardo Maria,",
+      "Bruno Agostino Walter,",
+      "Gallipoli Domenico"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202338207003",
+    "journalVolume": "Vol. 382\n                                \n                                \n                                  p.\n                                  07003",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The growing pressures of climate change, increased usage and unprecedented geo-hazards impose a modification in the way civil engineering structures are designed and constructed. This isparticularly true for geotechnical works, which are very sensitive to changes of environmental conditions. For instance, the response of a pile under lateral loading is strongly influenced by the stiffness and strength of the first few metres of soil below the surface, which are often partly saturated. To consider this effect, the present paper describes an analytical method, which extends the well-known Broms approach to predict thelateral capacity of piles in unsaturated soils. More specifically, the proposed method considers the combined effects of the position of the ground water table and the extra strength of the partially saturated soil above it. Compared to Broms approach, the solution introduces four additional non-dimensional parameters that relate the soil-water retention behaviour to the geometry of the pile. The method provides a direct evaluation of the lateral pile capacity in partly saturated soils, which can be used as a basis for more accurate design.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/19/e3sconf_unsat2023_07003.pdf"
+  },
+  {
+    "title": "Deaths attributable to anomalous temperature: A generalizable metric for the health impact of global warming",
+    "authors": [
+      "Hengyi Liu,",
+      "Mingkun Tong,",
+      "Fuyu Guo,",
+      "Qiyue Nie,",
+      "Jiwei Li,",
+      "Pengfei Li,",
+      "Tong Zhu,",
+      "Tao Xue"
+    ],
+    "doi": "Vol. 169\n                                \n                                \n                                  p.\n                                  107520",
+    "issn": "0160-4120 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environment-international",
+    "abstract": "The U-shaped association between health outcomes and ambient temperatures has been extensively investigated. However, such analyses cannot fully estimate the mortality burden of climate change because the features of the association (e.g., minimum mortality temperature) vary with human adaptation; thus, they are not generalizable to different locations. In this study, we assumed that humans could adapt to regular temperature variations; and thus examined the all-cause mortality attributable to temperature anomaly (TA), an indicator widely utilized in climate science to measure irregular temperature fluctuations, across 115 cities in the United States (US). We first used quasi-Poisson regressions to obtain the city-specific TA-mortality associations, then used meta-regression to pool these city-specific estimates. Finally, we calculated the number of TA-related deaths using the uniform pooled association, then compared it to the estimates from city-specific associations, which had been controlled for adaptation. Meta-regression showed a U-shaped TA-mortality association, centered at a TA near 0. According to the pooled association, 0.579 % (95 % confidence interval [CI]: 0.465–0.681 %), 0.394 % (95 % CI: 0.332–0.451 %), and 0.185 % (95 % CI: 0.107–0.254 %) of all-cause deaths were attributable to all anomalous temperatures (TA ≠ 0), anomalous heat (TA > 0), and anomalous cold (TA < 0), respectively. At the city level, heat-related deaths estimated from the pooled association were in good agreement with heat-related deaths estimated from the city-specific associations (R2 = 0.84). However, the cold-related deaths estimated from the two methods showed a weaker correlation (R2 = 0.07). Our findings suggest that TA constitutes a generalizable indicator that can uniformly evaluate deaths attributable to anomalous heat in distinct geographical locations.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0160412022004470"
+  },
+  {
+    "title": "A Multi-Criteria Analysis Approach to Identify Flood Risk Asset Damage Hotspots in Western Australia",
+    "authors": [
+      "Pornpit Wongthongtham,",
+      "Bilal Abu-Salih,",
+      "Jeff Huang,",
+      "Hemixa Patel,",
+      "Komsun Siripun"
+    ],
+    "doi": "https://doi.org/10.3390/su15075669",
+    "journalVolume": "Vol. 15,\n                                no. 5669\n                                \n                                  p.\n                                  5669",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Climate change is contributing to extreme weather conditions, which transform the scale and degree of flood events. Therefore, it is important for relevant government agencies to effectively respond to both extreme climate conditions and their impacts by providing more efficient asset management strategies. Although international research projects on water-sensitive urban design and rural drainage design have provided partial solutions to this problem, road networks commonly serve unique combinations of urban-rural residential and undeveloped areas; these areas often have diverse hydrology, geology, and climates. Resultantly, applying a one-size-fits-all solution to asset management is ineffective. This paper focuses on data-driven flood modelling that can be used to mitigate or prevent floodwater-related damage in Western Australia. In particular, a holistic and coherent view of data-driven asset management is presented and multi-criteria analysis (MCA) is used to define the high-risk hotspots for asset damage in Western Australia. These state-wide hotspots are validated using road closure data obtained from the relevant government agency. The proposed approach offers important insights with regard to factors influencing the risk of damage in the stormwater management system.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/7/5669"
+  },
+  {
+    "title": "Modelling dynamic interactions between soil structure and the storage and turnover of soil organic matter",
+    "authors": [
+      "K. H. E. Meurer,",
+      "C. Chenu,",
+      "E. Coucheney,",
+      "A. M. Herrmann,",
+      "T. Keller,",
+      "T. Keller,",
+      "T. Kätterer,",
+      "D. Nimblad Svensson,",
+      "N. Jarvis"
+    ],
+    "doi": "https://doi.org/10.5194/bg-17-5025-2020",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  5025\n                                  – 5042",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "Models of soil organic carbon (SOC) storage and turnover can be useful tools to analyse the effects of soil and crop management practices and climate change on soil organic carbon stocks. The aggregated structure of soil is known to protect SOC from decomposition and, thus, influence the potential for long-term sequestration. In turn, the turnover and storage of SOC affects soil aggregation, physical and hydraulic properties and the productive capacity of soil. These two-way interactions have not yet been explicitly considered in modelling approaches. In this study, we present and describe a new model of the dynamic feedbacks between soil organic matter (SOM) storage and soil physical properties (porosity, pore size distribution, bulk density and layer thickness). A sensitivity analysis was first performed to understand the behaviour of the model. The identifiability of model parameters was then investigated by calibrating the model against a synthetic data set. This analysis revealed that it would not be possible to unequivocally estimate all of the model parameters from the kind of data usually available in field trials. Based on this information, the model was tested against measurements of bulk density, SOC concentration and limited data on soil water retention and soil surface elevation made during 63 years in a field trial located near Uppsala (Sweden) in three treatments with different organic matter (OM) inputs (bare fallow, animal and green manure). The model was able to accurately reproduce the changes in SOC, soil bulk density and surface elevation observed in the field as well as soil water retention curves measured at the end of the experimental period in 2019 in two of the treatments. Treatment-specific variations in SOC dynamics caused by differences in OM input quality could be simulated very well by modifying the value for the OM retention coefficient ε (0.37 for animal manure and 0.14 for green manure). The model approach presented here may prove useful for management purposes, for example, in an analysis of carbon sequestration or soil degradation under land use and climate change.",
+    "readLink": "https://bg.copernicus.org/articles/17/5025/2020/bg-17-5025-2020.pdf"
+  },
+  {
+    "title": "The first use of morphologically isolated arbuscular mycorrhizal fungi single-species from Moroccan ecosystems to improve growth, nutrients uptake and photosynthesis in Ceratonia siliqua seedlings under nursery conditions.",
+    "authors": [
+      "Elmostapha Outamamat,",
+      "Hanane Dounas,",
+      "Faissal Aziz,",
+      "Adnane Barguaz,",
+      "Robin Duponnois,",
+      "Lahcen Ouahmane"
+    ],
+    "doi": "Vol. 29,\n                                no. 4\n                                \n                                  pp.\n                                  2121\n                                  – 2130",
+    "issn": "1319-562X (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Saudi Arabia",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/saudi-journal-of-biological-sciences/",
+    "abstract": "The carob tree (Ceratonia siliqua L.) is an important component in semi-arid Mediterranean ecosystems, particularly in Morocco where it plays a considerable socio-economic role. This species is widely used in the reforestation programmes and in the rehabilitation of degraded soils serving both environmental and socio-economic objectives. In spite of these assets, this species is suffering the particular climatic conditions, rare and irregular rains, long hot and dry summers, generally, leading to desertification processes. To withstand these contrasting conditions, selected arbuscular mycorrhizal fungi (AMF) were tested for their contribution to the growth, nutrient uptake and photosynthesis improvement of the carob tree C. siliqua under nursery conditions.The objective of this study was, to evaluate the effects of some arbuscular mycorrhizal fungi complexes isolated in different Mediterranean ecosystems compared to single-species isolates selected using morphological tools on the growth, mineral nutrition, and chlorophyll content of C. siliqua seedlings.The results indicate that all the used AMF inocula stimulated significantly the height of C. siliqua seedlings after eight months under nursery conditions. An increase in plant height between 33% and 70% compared to a control without inoculation was recorded. Similarly, the aerial dry weight recorded an increase of 62% to 124% comparing inoculated and non-inoculated seedlings. The root dry weight has shown an increase rate of 24% to 86% compared to the control. The analysis of mineral contents in plant tissues, showed a highly significant increase in P. N. K. Ca and Mg levels of the aerial parts compared to the control. A significant increase in chlorophyll contents was noticed when inoculated seedlings were compared to non-inoculated ones. This study had confirmed the importance of AMF improving the growth of C. siliqua seedlings; the AMF complexes remain to have the important growth and mineral nutrition responses. However some single- species have shown similar magnitude to the complexes for all analysed parameters. A large biofertilizer potential of the single-species isolates in the inoculation of C. siliqua is demonstrated for the first time.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1319562X21010147"
+  },
+  {
+    "title": "Paleoproductivity and climate evolution in the Kuroshio mainstream area over the past millennium",
+    "authors": [
+      "Yueqi Wang,",
+      "Jinming Song,",
+      "Liqin Duan,",
+      "Huamao Yuan,",
+      "Xuegang Li,",
+      "Ning Li,",
+      "Qidong Wang,",
+      "Qian Zhang"
+    ],
+    "doi": "Vol. 121\n                                \n                                \n                                  p.\n                                  107035",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "A variety of biomarkers of sediment core KET-1 were studied to reconstruct both paleoproductivity and phytoplankton community structure variations and to reflect the local climate change of Kuroshio mainstream of east Taiwan over the past millennium. The results showed that sterols in sediments derived from the mixed terrestrial and marine inputs, with the riverine input from eastern Taiwan as the main terrestrial sterol source. The upward increase of terrestrial organic matter over the past millennium suggested the increasing riverine input of eastern Taiwan. The variation of the marine primary productivity was mainly influenced by the nutrient supplements from the riverine input. The changes of brassicasterol to dinosterol ratio indicated a phytoplankton community shift from dinoflagellate-dominated to diatom-dominated since 1500 CE. The increasing terrestrial inputs and the change of phytoplankton community change over time were related to “dry-humid” climate change.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X20309742"
+  },
+  {
+    "title": "Remotely sensed assessment of increasing chronic and episodic drought effects on a Costa Rican tropical dry forest",
+    "authors": [
+      "Cho‐ying Huang,",
+      "Sandra M. Durán,",
+      "Kai‐ting Hu,",
+      "Hsin‐Ju Li,",
+      "Nathan G. Swenson,",
+      "Brian J. Enquist"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.3824",
+    "journalVolume": "Vol. 12,\n                                no. 11\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract Tropical dry forests (TDFs) have experienced pronounced droughts and increased temperatures for the last century. To assess whether these climatic shifts have influenced dry forest vegetation and ecosystem functioning, we integrated ground observations from a Costa Rican long‐term forest dynamics monitoring plot with remotely sensed measures of forest productivity and canopy functioning from a diverse set of satellite data. Previously reported long‐term climate data (1921–1997) show a reduction in annual rainfall, but since 1980 there has been no directional change in mean annual precipitation. However, the 2015 El Niño Southern Oscillation (ENSO)‐induced drought was unprecedented. Temperatures have increased by 1.1°C since 1931. However, the Landsat wet season (1987–2017) Enhanced Vegetation Index (EVI) (canopy greenness) and the dry season (1985–2017) fraction of non‐photosynthetic canopy cover all indicate that TDFs have become more deciduous but also more productive during the wet season. These changes are consistent with a shift in the functional composition observed in the long‐term plot as more drought‐deciduous tree species have increased in abundance. Nonetheless, more continuous 16‐d MODIS (the Moderate Resolution Imaging Spectroradiometer) measures of the EVI over the past 17 yr (2001–2017) showed no change in the total annual forest productivity. Further, while the 2015 ENSO event temporarily reduced forest EVI, it did not cause a longer‐term impact on forest productivity. Instead, high spatial resolution Worldview‐2 satellite imagery showed that forest phenology shifted in the subsequent years even though the region returned to normal precipitation. Our results indicate that while the species composition of TDFs may be sensitive to the long‐term trend of gradually increasing temperatures and aridity, the annual forest functioning has so far been resilient to long‐term drying and a large episodic extreme drought event. This study demonstrates the feasibility of synthesizing satellite images of different characteristics to study the vegetation dynamics of a long‐term forest dynamics plot. Our synoptically sensed results show that the longer‐term changing climate has been and is currently shifting the ecological functioning, and also provide a baseline to assess the impacts of an extreme drought year on TDFs.",
+    "readLink": "https://doi.org/10.1002/ecs2.3824"
+  },
+  {
+    "title": "The presence and influence of glacier surging around the Geladandong ice caps, North East Tibetan Plateau",
+    "authors": [
+      "Owen King,",
+      "Atanu Bhattacharya,",
+      "Tobias Bolch"
+    ],
+    "doi": "Vol. 12,\n                                no. 3\n                                \n                                  pp.\n                                  299\n                                  – 312",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "Many glaciers and ice caps on the Tibetan Plateau have retreated and lost mass in recent years in response to temperature increases, providing clear evidence of the impact of climate change on the region. There is increasing evidence that many of the glaciers on the Tibetan Plateau have also shown periodically dynamic behaviour in the form of glacier surging and some even catastrophic collapse events. In this study, we examine the prevalence of glacier surging at the Geladandong ice caps, North East Tibetan Plateau, to better understand the role of surge events in the evolution of glacier mass loss budgets. Using glacier surface elevation change data over the period 1969–2018 and glacier surface velocity data from the ITS_LIVE dataset, we find that 19 outlet glaciers of the ice caps are of surge-type. Our multi-temporal measurements of glacier mass balance show that surge-type glacier mass budgets vary depending on the portion of the surge-cycle captured by geodetic data. At the regional level, pre- and post-surge glacier mass loss variability does not bias regional mass budget estimates, but enhanced, or suppressed, mass loss estimates are likely when small groups of glaciers are examined. Our results emphasise the importance of accurate surge-type glacier inventories and the need to maximise geodetic data coverage over glacierised regions known to contain surge-type glaciers.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927821000721"
+  },
+  {
+    "title": "PROSPEK PARTISIPASI PETANI DALAM PROGRAM PEMBANGUNAN HUTAN RAKYAT UNTUK MITIGASI PERUBAHAAN IKLIM DI WONOSOBO",
+    "authors": [
+      "Evi Irawan"
+    ],
+    "doi": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  67\n                                  – 76",
+    "issn": "1411-6081 (Print)",
+    "publisher": "2460-9331 (Online)",
+    "countryOfPublisher": "Muhammadiyah University Press",
+    "lcc": [
+      "Indonesia",
+      "Social Sciences: Economic theory. Demography: Economics as a science"
+    ],
+    "journalUrl": "http://journals.ums.ac.id/index.php/JEP",
+    "abstract": "Past experiences indicate that the success of many farm forestry projects is mainly influenced by farmer’s participation. Ex ante estimation of the likelihood of farmers’ participation in a particular farm forestry project might reduce the risk of project failure. This study aims to analyze ex ante, farmer’s participation in a hypothetical farm forestry project for climate change mitigation based upon a survey data of 117 farm forestry farmers in Tempurejo Village, Wonosobo Regency. Logit estimation suggests that the likelihood of a farmer’s participation is likely affected by age of farmer, education, farm household size and farmer’s experience in farm forestry business. Two policies implication of these findings are that government should increase farmers’ knowledge of climate change through extension programs, such as climate field school, and align the design of farm forestry projects for climate change mitigation with the prevailing farm forestry management system practiced by farmers.",
+    "readLink": "http://journals.ums.ac.id/index.php/JEP/article/view/206"
+  }
+]

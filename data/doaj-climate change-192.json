@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Are Rainwater and Stormwater Part of the Urban CE Efficiency?",
+    "authors": [
+      "Carlos Novaes,",
+      "Rui Marques"
+    ],
+    "doi": "https://doi.org/10.3390/su151411168",
+    "journalVolume": "Vol. 15,\n                                no. 11168\n                                \n                                  p.\n                                  11168",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Circular economy (CE) means efficient resource use. It is a matter of better available resource management. Understanding the characteristics, potential, use advantages and disadvantages, and management systems, in each context, is the basis to construct a feasible CE framework to deal with climate change and economic scarcity challenges. Urban stormwater has potential importance in CE when addressed as a useful resource rather than as waste. Its use can replace part of the water supply (reduce principle), brought from distant sources using energy-consuming and emission-producing systems. Thus, it can be a source of energy savings and emission reduction since stormwater can be used and stored near the place where rainwater falls or infiltrates to supply groundwater (reuse principle). Urban agriculture can also gain benefits by using, e.g., green infrastructures (GIs) (recycling principle). The main gap still lies in the implementation of the efficiency mentality, reducing expenses and consequently improving revenues, profits, and environment issues, such as emissions. It is a big paradigm shift. The creation of policies, institutions, and regulations aligned with each other, together with urban planning and water cycle efficiency, from a CE perspective is fundamental. Urban stormwater as a CE component is a moving paradigm shift based on a change in mindset.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/14/11168"
+  },
+  {
+    "title": "A Guide to Using GitHub for Developing and Versioning Data Standards and Reporting Formats",
+    "authors": [
+      "Robert Crystal‐Ornelas,",
+      "Charuleka Varadharajan,",
+      "Ben Bond‐Lamberty,",
+      "Kristin Boye,",
+      "Madison Burrus,",
+      "Shreyas Cholia,",
+      "Michael Crow,",
+      "Joan Damerow,",
+      "Ranjeet Devarakonda,",
+      "Kim S. Ely,",
+      "Amy Goldman,",
+      "Susan Heinz,",
+      "Valerie Hendrix,",
+      "Zarine Kakalia,",
+      "Stephanie C. Pennington,",
+      "Emily Robles,",
+      "Alistair Rogers,",
+      "Maegen Simmonds,",
+      "Terri Velliquette,",
+      "Helen Weierbach,",
+      "Pamela Weisenhorn,",
+      "Jessica N. Welch,",
+      "Deborah A. Agarwal"
+    ],
+    "doi": "https://doi.org/10.1029/2021EA001797",
+    "journalVolume": "Vol. 8,\n                                no. 8\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2333-5084 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Astronomy",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)2333-5084/",
+    "abstract": "Abstract Data standardization combined with descriptive metadata facilitate data reuse, which is the ultimate goal of the Findable, Accessible, Interoperable, and Reusable (FAIR) principles. Community data or metadata standards are increasingly created through an approach that emphasizes collaboration between various stakeholders. Such an approach requires platforms for collaboration on the development process that centers on sharing information and receiving feedback. Our objective in this study was to conduct a systematic review to identify data standards and reporting formats that use version control for developing data standards and to summarize common practices, particularly in earth and environmental sciences. Out of 108 data standards and reporting formats identified in our review, 32 used GitHub as the version control platform, and no other platforms were used. We found no universally accepted methodology for developing and publishing data standards. Many GitHub repositories did not use key features that could help developers to gather user feedback, or to create and revise standards that build on previous work. We provide guidance for community‐driven standard development and associated documentation on GitHub based on a systematic review of existing practices.",
+    "readLink": "https://doi.org/10.1029/2021EA001797"
+  },
+  {
+    "title": "Temporal Variability of Temperature, Precipitation and Drought Indices in Hyper-Arid Region of Northwest China for the Past 60 Years",
+    "authors": [
+      "Jing He,",
+      "Boshan Li,",
+      "Yang Yu,",
+      "Lingxiao Sun,",
+      "Haiyan Zhang,",
+      "Ireneusz Malik,",
+      "Malgorzata Wistuba,",
+      "Ruide Yu"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13101561",
+    "journalVolume": "Vol. 13,\n                                no. 1561\n                                \n                                  p.\n                                  1561",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "The temporal variability and abrupt change analysis of temperature and precipitation in Turpan was investigated and examined based on a monthly data set of temperature, precipitation and drought indices (1960–2019) from three meteorological stations over the study area. The Yamamoto method, Mann–Kendall test, Standardized Precipitation Index (SPI), Standardized Precipitation Evaporation Index (SPEI), and Reconnaissance Drought Index (RDI) were applied to reveal temperature, precipitation and drought indices trends in their annual volumes. The conclusions were as follows: (1) in the past 60 years, the annual average temperature in the Turpan region has increased at a rate of 0.33 °C·(10a)−1. Whereas the temperature has accelerated since the 1980s, the annual average minimum temperature has increased more than the annual average maximum temperature, and the temperature difference between winter and summer has increased since the 1990s. (2) The inter-annual, inter-decadal and normal value changes in precipitation in the Turpan region and its three meteorological stations indicated a decreasing trend during 1960–2019. Though the normal value of summer and autumn precipitation decreased and increased as a whole, the normal values of spring, summer, winter and annual precipitation in the Turpan region displayed downward trends. (3) Abrupt changes in temperature were observed in the mid-1990s, and abrupt changes in precipitation were not obvious. (4) The SPI and RDI responded quickly to precipitation and temperature, and the overall characteristics of dry and wet trend changes were consistent. When the SPEI considered the combined effect of temperature and precipitation, the SPI and SPEI are better correlated, and the SPI and RDI are better correlated than the SPEI and RDI. On the whole, the occurrence of drought has obvious regional and seasonal characteristics. These conclusions not only provide scientific data for sustainable development in Turpan but also offer scientific information to further understand the trends and periodicity of climate change and drought conditions in hyper-arid regions around the world.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/10/1561"
+  },
+  {
+    "title": "Field application of silicon alleviates drought stress and improves water use efficiency in wheat",
+    "authors": [
+      "Scott N. Johnson,",
+      "Zhong-Hua Chen,",
+      "Zhong-Hua Chen,",
+      "Rhiannon C. Rowe,",
+      "David T. Tissue,",
+      "David T. Tissue"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2022.1030620",
+    "journalVolume": "Vol. 13",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Detrimental impacts of drought on crop yield have tripled in the last 50 years with climate models predicting that the frequency of such droughts will intensify in the future. Silicon (Si) accumulation, especially in Poaceae crops such as wheat (Triticum aestivum L.), may alleviate the adverse impacts of drought. We have very limited information, however, about whether Si supplementation could alleviate the impacts of drought under field conditions and no studies have specifically manipulated rainfall. Using field–based rain exclusion shelters, we determined whether Si supplementation (equivalent to 39, 78 and 117 kg ha-1) affected T. aestivum growth, elemental chemistry [Si, carbon (C) and nitrogen (N)], physiology (rates of photosynthesis, transpiration, stomatal conductance, and water use efficiency) and yield (grain production) under ambient and drought (50% of ambient) rainfall scenarios. Averaged across Si treatments, drought reduced shoot mass by 21% and grain production by 18%. Si supplementation increased shoot mass by up to 43% and 73% in ambient and drought water treatments, respectively, and restored grain production in droughted plants to levels comparable with plants supplied with ambient rainfall. Si supplementation increased leaf-level water use efficiency by 32–74%, depending on Si supplementation rates. Water supply and Si supplementation did not alter concentrations of C and N, but Si supplementation increased shoot C content by 39% and 83% under ambient and drought conditions, respectively. This equates to an increase from 6.4 to 8.9 tonnes C ha-1 and from 4.03 to 7.35 tonnes C ha-1 under ambient and drought conditions, respectively. We conclude that Si supplementation ameliorated the negative impacts of drought on T. aestivum growth and grain yield, potentially through its beneficial impacts on water use efficiency. Moreover, the beneficial impacts of Si on plant growth and C storage may render Si supplementation a useful tool for both drought mitigation and C sequestration.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2022.1030620/full"
+  },
+  {
+    "title": "The G20 debate on Environmental Issues: is minilateralism the solution?",
+    "authors": [
+      "Vinicius Tavares de Oliveira,",
+      "Mariana Balau Silveira"
+    ],
+    "doi": "Vol. 3,\n                                no. 6\n                                \n                                  pp.\n                                  254\n                                  – 275",
+    "issn": "2316-8323 (Online)",
+    "publisher": "Universidade Federal da Grande Dourados",
+    "countryOfPublisher": "Brazil",
+    "lcc": [
+      "Political science: International relations",
+      "Political science: Colonies and colonization. Emigration and immigration. International migration"
+    ],
+    "journalUrl": "http://ojs.ufgd.edu.br/index.php/moncoes/index",
+    "abstract": "Global range climate change institutions and conferences (e.g.: UNEP, COP etc.) have been part of international dynamics for decades. Many of them took place in international regimes that was specifically designed for environmental issues. G20 was created in 1999 with the goal to overcome the Asian crisis. In that moment little attention was given to environmental issues. This situation began to change in 2008 with the first G20 summit. In that occasion, only 2 paragraphs of the final declaration dealt with climate issues. In 2010, this number grew to 12.7. This shows a growing commitment of the forum to deal with climate issues. The purpose of this paper is to evaluate if and how G20 debate on climate change could help the world to achieve deeper environmental cooperation.",
+    "readLink": "http://ojs.ufgd.edu.br/index.php/moncoes/article/view/3540"
+  },
+  {
+    "title": "Spatial and Temporal Changes in Urban Green Space Ecosystem and Evapotranspiration Response Mechanism in Guangzhou during 2000-2020",
+    "authors": [
+      "Liu Haodong,",
+      "Yang Qiaomin,",
+      "Zang Chuanfu"
+    ],
+    "doi": "https://doi.org/10.13284/j.cnki.rddl.003646",
+    "journalVolume": "Vol. 43,\n                                no. 3\n                                \n                                  pp.\n                                  484\n                                  – 494",
+    "issn": "1001-5221 (Print)",
+    "publisher": "Editorial Committee of Tropical Geography",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.rddl.com.cn/CN/1001-5221/home.shtml",
+    "abstract": "Evapotranspiration is an important mechanism connecting earth surface and the atmosphere. One of the factors that affect regional transpiration include land cover type. With the speeding up of urbanization around the world, urban land cover change and its impact on surface evaporation have attracted extensive attention from academia. The change in land cover in Guangzhou China, which occupies the central area of the Pearl River Delta Urban Agglomeration, is more diverse and complex during a certain period. This can be attributed to the rapid urbanization of Guagnzhou since the reform and opening up of China. The urbanization process of Guangzhou is typical, and research findings from this study can be referred to ensure rational allocation of water resources and construction of sponge cities during the urbanization process of other large cities. The present study investigated the changes in land cover and urban green space structure in Guangzhou over the last two decades; this was based on the remote sensing interpretation of Landsat datasets for 2000, 2005, 2009, 2015, and 2020. Data were obtained from 38 meteorological stations in Guangzhou and its surrounding areas; thereafter, spatial interpolation of the data was conducted to assess the change in trends of precipitation, temperature, air pressure, wind speed, and relative humidity over the past 20 years. After the above two steps, the change of surface evapotranspiration in Guangzhou was investigated. The obtained results suggested are given below:1) The total area of urban green space in Guangzhou decreased during 2000-2020. The change in land cover was mainly characterized by a significant conversion of non-forest vegetation into construction land or unused land, such as urban residential, industrial, and commercial land. Some of the vegetation had also been converted into forest land. In the past 21 years, the proportion of forest land in the urban greenspace ecosystem of Guangzhou has shown an upward trend. 2) The proportion of forest land and annual average evapotranspiration in Guangzhou showed an overall upward trend during 2000-2020. The annual average evapotranspiration and proportion of forest land were positively correlated. Moreover, high spatial consistency was observed between the increase and decrease in evapotranspiration and the mutual transformation between land cover types with different evapotranspiration capacities. 3) During the study period, evapotranspiration in Guangzhou was positively correlated with precipitation, relative humidity, and temperature and negatively correlated with air pressure, sunshine hours, and wind speed. However, the area proportion of regions with significant or higher correlation between meteorological factors and surface evapotranspiration was too low to indicate that meteorological factors were the main driving factor behind increasing regional evapotranspiration. 4) The increase in surface evapotranspiration in Guangzhou from during the study period did not occur synchronously with the spatial changes of the urban green space ecosystem and showed a lag owing to different reasons, including forest growth cycle and climate conditions. In conclusion, the study summarized the land cover changes and achievements of urban green space ecological construction under the process of urbanization in Guangzhou and explored the comprehensive impact of land cover change on regional surface evapotranspiration in Guangzhou over the last 20 years. This study provides a theoretical basis and data reference for urban ecosystem management in Guangzhou.",
+    "readLink": "http://www.rddl.com.cn/CN/10.13284/j.cnki.rddl.003646"
+  },
+  null,
+  {
+    "title": "Governing the Nexus for Sustainability",
+    "authors": [
+      "Marx Sina"
+    ],
+    "doi": "https://doi.org/10.1515/cass-2015-0008",
+    "journalVolume": "Vol. 2,\n                                no. 1",
+    "issn": "2300-3669 (Online)",
+    "publisher": "De Gruyter",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.degruyter.com/view/j/cass",
+    "abstract": "This report summarizes the challenges of and requirements for effective governance of the water, energy and food nexus. With global dynamics such as climate change, urbanization and changing consumption patterns, governing resources in a coherent manner becomes both more complex and more relevant for sustainable development. Governance challenges include nexus economics (costs and benefits of different approaches to resource management), institutional design (like questions of how decision-making should be best distributed) and good governance (how to make sure that nexus governance adheres to certain agreed upon principles and values). In terms of economics, a balance between sector specific actions and nexus governance is required. For effective decision-making it is important that power among different institutions is both distributed and coordinated. Good nexus governance requires targets that can be monitored to make sure that basic principles are followed and to examine whether progress toward sustainable development is being made.",
+    "readLink": "http://www.degruyter.com/view/j/cass.2015.2.issue-1/cass-2015-0008/cass-2015-0008.xml?format=INT"
+  },
+  {
+    "title": "Domestic Filth Flies in New Haven, Connecticut: A Case Study on the Effects of Urbanization and Climate Change by Comparing Fly Populations after 78 Years",
+    "authors": [
+      "Julie Pinto,",
+      "Paola A. Magni,",
+      "R. Christopher O’Brien,",
+      "Ian R. Dadour"
+    ],
+    "doi": "https://doi.org/10.3390/insects12110972",
+    "journalVolume": "Vol. 12,\n                                no. 972\n                                \n                                  p.\n                                  972",
+    "issn": "2075-4450 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/insects/",
+    "abstract": "Changes in common and widespread insect populations such as the domestic filth fly in urban cities are useful and relevant bioindicators for overall changes in the insect biomass. The current study surveyed necrophagous flies by placing a weekly trap from June–September over a two-year period in the city of New Haven, Connecticut, to compare data on fly abundance and diversity with data collected 78 years earlier. Climate and land cover changes were also assessed in combination with the fly population for each period. The survey results suggest the domestic filth fly population is now less diverse with decreased species richness and changes in the relative abundance of species. In both surveys, 95–96% of the population was composed of only three species. The current survey data indicate the numerical dominance of Lucilia sericata has decreased, the abundance of several species, notably Lucilia coeruleiviridis, has increased, and Lucilia illustris is absent. Species that showed a significant interaction with temperature in the 1940s survey have now increased in abundance, with several of the trapped species continuing to show an interaction with temperature and rainfall. Analysis of the land cover and climate data characterizes the trap site as a region exposed to a prolonged period of industrialization and urbanization, with only 7% of the land cover remaining undeveloped and over 50% impervious, coupled with an increase in temperature and rainfall. This study serves as a model for changes in domestic filth fly populations and other insects in similarly highly urbanized established cities.",
+    "readLink": "https://www.mdpi.com/2075-4450/12/11/972"
+  },
+  {
+    "title": "A Review of Managed Aquifer Recharge Potential in the Middle East and North Africa Region with Examples from the Kingdom of Saudi Arabia and the United Arab Emirates",
+    "authors": [
+      "Mohsen Sherif,",
+      "Ahmed Sefelnasr,",
+      "Muhammad Al Rashed,",
+      "Dalal Alshamsi,",
+      "Faisal K. Zaidi,",
+      "Khaled Alghafli,",
+      "Faisal Baig,",
+      "Abdulaziz Al-Turbak,",
+      "Hussain Alfaifi,",
+      "Oumar Allafouza Loni,",
+      "Munaver Basheer Ahamed,",
+      "Abdel Azim Ebraheem"
+    ],
+    "doi": "https://doi.org/10.3390/w15040742",
+    "journalVolume": "Vol. 15,\n                                no. 742\n                                \n                                  p.\n                                  742",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Groundwater extraction in most Middle East and North Africa (MENA) countries far exceeds its renewability, which ranges from 6% to 100%. Freshwater resources to support food production are very limited in this region. Future climate predictions include more consistent and longer wet periods with increasing surplus rainfall, which will enhance flood and flash flood occurrences in the MENA. Demand management of groundwater resources and managed aquifer recharge (MAR, also called groundwater replenishment, water banking, and artificial recharge, is the purposeful recharge of water to aquifers for subsequent recovery or environmental benefits) represent essential strategies to overcome the challenges associated with groundwater depletion and climate change impacts. Such strategies would enable the development of groundwater resources in the MENA region by minimizing the stress placed on these resources, as well as reducing deterioration in groundwater quality. Groundwater augmentation through recharge dams is a common practice in different countries around the globe. Most dams in the MENA region were built to enhance groundwater recharge, and even the few protection dams also act as recharge dams in one way or another. However, the operating systems of these dams are mostly dependent on the natural infiltration of the accumulated water in the reservoir area, with limited application of MAR. This review presents analyses of groundwater renewability and the effectiveness of recharge dams on groundwater recharge, as well as the potential of MAR technology. This study indicates that the recharge efficiency of dam’s ranges between 15 to 47% and is clustered more around the lower limit. Efficiency is reduced by the clogging of the reservoir bed with fine materials. Therefore, there is a need to improve the operation of dams using MAR technology.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/4/742"
+  }
+]

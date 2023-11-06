@@ -1,0 +1,245 @@
+[
+  {
+    "title": "Decarbonization of the electricity generation sector and its effects on sustainability goals",
+    "authors": [
+      "Efstathios E. Michaelides"
+    ],
+    "doi": "https://doi.org/10.1186/s40807-023-00080-1",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "2731-9237 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "Singapore",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://sustainenergyres.springeropen.com/",
+    "abstract": "Abstract The substitution of fossil fuels, especially coal, with renewable energy is a crucial step for the CO2 emissions reduction and the avoidance of Global Climate Change. The electric power generation industry is the first economic sector that will have to transition to renewable energy. However, wind and solar energy, the two most abundant renewable energy forms, are not dispatchable. The high penetration of these renewables in the energy market will create a demand–supply mismatch, which can only be alleviated with large-scale energy storage. This paper uses the case of Texas—a state that generates and consumes more electricity than several large, industrialized nations—to quantitatively examine the required infrastructure for the decarbonization of the electricity generation industry, while satisfying the current electric power demand in the State. Among the parameters that are examined are: the additional solar and wind capacity; the necessary energy storage infrastructure; the energy dissipation in the storage/regeneration process; and the effect of decarbonization on the cost of electricity and the welfare of the citizens. The computations show that the technology is available for the transition to a decarbonized electric power sector but requires significant investment in new wind and photovoltaic units as well as substantial energy storage. This would increase the electricity prices by a factor between 2.9 and 3.7 and, would have a disproportionate impact on the citizens in the lower income brackets.",
+    "readLink": "https://doi.org/10.1186/s40807-023-00080-1"
+  },
+  {
+    "title": "Climate change assessment for Mediterranean agricultural areas by statistical downscaling",
+    "authors": [
+      "L. Palatella,",
+      "M. M. Miglietta,",
+      "P. Paradisi,",
+      "P. Lionello"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-10-1647-2010",
+    "journalVolume": "Vol. 10,\n                                no. 7\n                                \n                                  pp.\n                                  1647\n                                  – 1661",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "In this paper we produce projections of seasonal precipitation for four Mediterranean areas: Apulia region (Italy), Ebro river basin (Spain), Po valley (Italy) and Antalya province (Turkey). We performed the statistical downscaling using Canonical Correlation Analysis (CCA) in two versions: in one case Principal Component Analysis (PCA) filter is applied only to predictor and in the other to both predictor and predictand. After performing a validation test, CCA after PCA filter on both predictor and predictand has been chosen. Sea level pressure (SLP) is used as predictor. Downscaling has been carried out for the scenarios A2 and B2 on the basis of three GCM's: the CCCma-GCM2, the Csiro-MK2 and HadCM3. Three consecutive 30-year periods have been considered. For Summer precipitation in Apulia region we also use the 500 hPa temperature (T500) as predictor, obtaining comparable results. Results show different climate change signals in the four areas and confirm the need of an analysis that is capable of resolving internal differences within the Mediterranean region. The most robust signal is the reduction of Summer precipitation in the Ebro river basin. Other significative results are the increase of precipitation over Apulia in Summer, the reduction over the Po-valley in Spring and Autumn and the increase over the Antalya province in Summer and Autumn.",
+    "readLink": "http://www.nat-hazards-earth-syst-sci.net/10/1647/2010/nhess-10-1647-2010.pdf"
+  },
+  {
+    "title": "Wind and trophic status explain within and among‐lake variability of algal biomass",
+    "authors": [
+      "J. A. Rusak,",
+      "A. J. Tanentzap,",
+      "J. L. Klug,",
+      "K. C. Rose,",
+      "S. P. Hendricks,",
+      "E. Jennings,",
+      "A. Laas,",
+      "D. Pierson,",
+      "E. Ryder,",
+      "R. L. Smyth,",
+      "D. S. White,",
+      "L. A. Winslow,",
+      "R. Adrian,",
+      "L. Arvola,",
+      "E. de Eyto,",
+      "H. Feuchtmayr,",
+      "M. Honti,",
+      "V. Istvánovics,",
+      "I. D. Jones,",
+      "C. G. McBride,",
+      "S. R. Schmidt,",
+      "D. Seekell,",
+      "P. A. Staehr,",
+      "G. Zhu"
+    ],
+    "doi": "https://doi.org/10.1002/lol2.10093",
+    "journalVolume": "Vol. 3,\n                                no. 6\n                                \n                                  pp.\n                                  409\n                                  – 418",
+    "issn": "2378-2242 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2378-2242/",
+    "abstract": "Abstract Phytoplankton biomass and production regulates key aspects of freshwater ecosystems yet its variability and subsequent predictability is poorly understood. We estimated within‐lake variation in biomass using high‐frequency chlorophyll fluorescence data from 18 globally distributed lakes. We tested how variation in fluorescence at monthly, daily, and hourly scales was related to high‐frequency variability of wind, water temperature, and radiation within lakes as well as productivity and physical attributes among lakes. Within lakes, monthly variation dominated, but combined daily and hourly variation were equivalent to that expressed monthly. Among lakes, biomass variability increased with trophic status while, within‐lake biomass variation increased with increasing variability in wind speed. Our results highlight the benefits of high‐frequency chlorophyll monitoring and suggest that predicted changes associated with climate, as well as ongoing cultural eutrophication, are likely to substantially increase the temporal variability of algal biomass and thus the predictability of the services it provides.",
+    "readLink": "https://doi.org/10.1002/lol2.10093"
+  },
+  {
+    "title": "Global response of upper-level aviation turbulence from various sources to climate change",
+    "authors": [
+      "Soo-Hyun Kim,",
+      "Jung-Hoon Kim,",
+      "Hye-Yeong Chun,",
+      "Robert D. Sharman"
+    ],
+    "doi": "https://doi.org/10.1038/s41612-023-00421-3",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2397-3722 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.nature.com/npjclimatsci/",
+    "abstract": "Abstract Atmospheric turbulence at commercial aircraft cruising altitudes is a main threat to aviation safety worldwide. As the air transport industry expands and is continuously growing, investigating global response of aviation turbulence under climate change scenarios is required for preparing optimal and safe flying plans for the future. This study examines future frequencies of moderate-or-greater-intensity turbulence generated from various sources, viz., clear-air turbulence and mountain-wave turbulence that are concentrated in midlatitudes, and near-cloud turbulence that is concentrated in tropics and subtropics, using long-term climate model data of high-emissions scenario and historical condition. Here, we show that turbulence generated from all three sources is intensified with higher occurrences globally in changed climate compared to the historical period. Although previous studies have reported intensification of clear-air turbulence in changing climate, implying bumpier flights in the future, we show that intensification of mountain-wave turbulence and near-cloud turbulence can also be expected with changing climate.",
+    "readLink": "https://doi.org/10.1038/s41612-023-00421-3"
+  },
+  {
+    "title": "Climate and Management Factors Underlying Changes in Beech Forest Herbaceous Layer Plant Communities in the Polish Eastern Carpathians",
+    "authors": [
+      "Anna Bugno-Pogoda,",
+      "Tomasz Durak"
+    ],
+    "doi": "https://doi.org/10.3390/f12111446",
+    "journalVolume": "Vol. 12,\n                                no. 1446\n                                \n                                  p.\n                                  1446",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The herbaceous vegetation and forest stand characteristics in European beech forests growing in the Polish part of the Eastern Carpathians have changed over the last 40 years. This has been influenced by many factors, including land-use change, forest management and climate change. This study investigates changes in forest cover and structure and the associated changes in herbaceous layer plant communities and seeks to elucidate whether and how beech forest herbaceous layer communities have been affected by climate change. The study used information from archival and current land cover maps, semi-permanent sampling plots, forest management plans for the Forest Districts of Brzozów, Lesko and Ustrzyki Dolne and meteorological weather station data compiled for three study periods of herbaceous vegetation (1970s, 2000s, 2010s). In the study area, the regular shelterwood system was changed to an irregular shelterwood system that produces stands with a complex overstorey structure. The results revealed the important role of light availability in shaping the species composition of the herbaceous layer in semi-natural Carpathian beech forests, which was strongly related to the course of management activities. An overall decrease in the number of species during the 2010s is linked to the ageing of beech forests, increased intensity of management activities in ageing stands, competition from understorey vegetation and lower soil moisture that can be linked to climate change. Our study partially supports the existing findings that more manipulative forest management systems can play an important role in countering the current and expected effects of climate change on the forest ecosystem because of the low degree of spatial differentiation of the stand’s structure (developmental stages). Therefore, foresters managing the structure of stands should strive to create a forest structure with high variability of developmental stages on a regional scale.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/11/1446"
+  },
+  {
+    "title": "The effect of temperature increase on the development of Rhodnius prolixus and the course of Trypanosoma cruzi metacyclogenesis.",
+    "authors": [
+      "Laura D Tamayo,",
+      "Felipe Guhl,",
+      "Gustavo A Vallejo,",
+      "Juan David Ramírez"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pntd.0006735",
+    "journalVolume": "Vol. 12,\n                                no. 8\n                                \n                                  p.\n                                  e0006735",
+    "issn": "1935-2727 (Print)",
+    "publisher": "1935-2735 (Online)",
+    "countryOfPublisher": "Public Library of Science (PLoS)",
+    "lcc": [
+      "United States",
+      "Medicine: Internal medicine: Special situations and conditions: Arctic medicine. Tropical medicine",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://journals.plos.org/plosntds/",
+    "abstract": "The increase in the global land temperature, expected under predictions of climate change, can directly affect the transmission of some infectious diseases, including Chagas disease, an anthropozoonosis caused by Trypanosoma cruzi and transmitted by arthropod vectors of the subfamily Triatominae. This work seeks to study the effects of temperature on the development of the life cycle, fertility and fecundity of the insect vector Rhodnius prolixus and on the metacyclogenesis of T. cruzi. All of the variables were subjected to 3 temperatures: 26°C, 28°C and 30°C. Hatching time was evaluated, along with time to fifth instar, time to adult, fecundity studied using the e-value, and egg viability during the first 3 reproductive cycles. In addition, the amounts of metacyclic trypomastigotes of the TcI and TcII DTUs in R. prolixus were evaluated from days 2 to 20 at two-day intervals and from weeks 6 to 8 post-infection. Decreases were observed in time to hatching (15-10 days on average) and in time to fifth instar (70-60 days on average) and transition to adult (100-85 days on average). No significant differences in egg viability were observed in any of the reproductive cycles evaluated, but an increase in fecundity was observed at 30°C during the third reproductive cycle. At 30°C, there was also an increase in the number of infective forms and a decrease in the time at which metacyclic trypomastigotes were detected in the rectal ampulla of the insects for both TcI and TcII. According to these results, the expected temperature increase under climate change would cause an increase in the number of insects and a greater probability of infection of the parasite, which affects the transmission of Chagas disease.",
+    "readLink": "http://europepmc.org/articles/PMC6110519?pdf=render"
+  },
+  {
+    "title": "Visualizing changes to US federal environmental agency websites, 2016-2020.",
+    "authors": [
+      "Eric Nost,",
+      "Gretchen Gehrke,",
+      "Grace Poudrier,",
+      "Aaron Lemelin,",
+      "Marcy Beck,",
+      "Sara Wylie,",
+      "Environmental Data & Governance Initiative"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0246450",
+    "journalVolume": "Vol. 16,\n                                no. 2\n                                \n                                  p.\n                                  e0246450",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Websites have become the primary means by which the US federal government communicates about its operations and presents information for public consumption. However, the alteration or removal of critical information from these sites is often entirely legal and done without the public's awareness. Relative to paper records, websites enable governments to shape public understanding in quick, scalable, and permissible ways. During the Trump administration, website changes indicative of climate denial prompted civil society organizations to develop tools for tracking online government information sources. We in the Environmental Data & Governance Initiative (EDGI) illustrate how five data visualization techniques can be used to document and analyze changes to government websites. We examine a large sample of websites of US federal environmental agencies and show that between 2016 and 2020: 1) the use of the term \"climate change\" decreased by an estimated 38%; 2) access to as much as 20% of the Environmental Protection Agency's website was removed; 3) changes were made more to Cabinet agencies' websites and to highly visible pages. In formulating ways to visualize and assess the alteration of websites, our study lays important groundwork for both systematically tracking changes and holding officials more accountable for their web practices. Our techniques enable researchers and watchdog groups alike to operate at the scale necessary to understand the breadth of impact an administration can have on the online face of government.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0246450"
+  },
+  {
+    "title": "Genomic basis for drought resistance in European beech forests threatened by climate change",
+    "authors": [
+      "Markus Pfenninger,",
+      "Friederike Reuss,",
+      "Angelika Kiebler,",
+      "Philipp Schönnenbeck,",
+      "Cosima Caliendo,",
+      "Susanne Gerber,",
+      "Berardino Cocchiararo,",
+      "Sabrina Reuter,",
+      "Nico Blüthgen,",
+      "Karsten Mody,",
+      "Bagdevi Mishra,",
+      "Miklós Bálint,",
+      "Marco Thines,",
+      "Barbara Feldmeyer"
+    ],
+    "doi": "https://doi.org/10.7554/eLife.65532",
+    "journalVolume": "Vol. 10",
+    "issn": "2050-084X (Online)",
+    "publisher": "eLife Sciences Publications Ltd",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://elifesciences.org",
+    "abstract": "In the course of global climate change, Central Europe is experiencing more frequent and prolonged periods of drought. The drought years 2018 and 2019 affected European beeches (Fagus sylvatica L.) differently: even in the same stand, drought-damaged trees neighboured healthy trees, suggesting that the genotype rather than the environment was responsible for this conspicuous pattern. We used this natural experiment to study the genomic basis of drought resistance with Pool-GWAS. Contrasting the extreme phenotypes identified 106 significantly associated single-nucleotide polymorphisms (SNPs) throughout the genome. Most annotated genes with associated SNPs (>70%) were previously implicated in the drought reaction of plants. Non-synonymous substitutions led either to a functional amino acid exchange or premature termination. An SNP assay with 70 loci allowed predicting drought phenotype in 98.6% of a validation sample of 92 trees. Drought resistance in European beech is a moderately polygenic trait that should respond well to natural selection, selective management, and breeding.",
+    "readLink": "https://elifesciences.org/articles/65532"
+  },
+  {
+    "title": "Extending the global high-resolution downscaled projections dataset to include CMIP6 projections at increased resolution coherent with the ERA5-Land reanalysis",
+    "authors": [
+      "Thomas Noël,",
+      "Harilaos Loukos,",
+      "Dimitri Defrance,",
+      "Mathieu Vrac,",
+      "Guillaume Levavasseur"
+    ],
+    "doi": "Vol. 45\n                                \n                                \n                                  p.\n                                  108669",
+    "issn": "2352-3409 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/data-in-brief/",
+    "abstract": "This paper describes the extension of the previously CMIP5 based high-resolution climate projections with additional ones based on the more recent climate projections from the CMIP6 experiment. The downscaling method and data processing are the same but the reference dataset is now the ERA5-Land reanalysis (compared to ERA5 previously) allowing to increase the resolution of the new downscaled projections from 0.25° x 0.25° to 0.1°x 0.1°. The extension comprises 5 climate models and includes 2 surface variables at daily resolution: air temperature and precipitation. Three greenhouse gas emissions scenarios are available: Shared Socioeconomic Pathways with mitigation policy (SSP1-2.6), an intermediate one (SSP2-4.5), and one without mitigation (SSP5-8.5).",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352340922008745"
+  },
+  {
+    "title": "The oral vaccination with Paenibacillus larvae bacterin can decrease susceptibility to American Foulbrood infection in honey bees—A safety and efficacy study",
+    "authors": [
+      "Franziska Dickel,",
+      "Franziska Dickel,",
+      "Nick Maria Peter Bos,",
+      "Huw Hughes,",
+      "Raquel Martín-Hernández,",
+      "Mariano Higes,",
+      "Annette Kleiser,",
+      "Dalial Freitak,",
+      "Dalial Freitak"
+    ],
+    "doi": "https://doi.org/10.3389/fvets.2022.946237",
+    "journalVolume": "Vol. 9",
+    "issn": "2297-1769 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Animal culture: Veterinary medicine"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Veterinary_Science",
+    "abstract": "Pollination services to increase crop production are becoming more and more important, as we are facing both climate change and a growing world population. Both are predicted to impact food security worldwide. High-density, commercial beekeeping has become a key link in the food supply chain, and diseases have become a central issue in hive losses around the world. American Foulbrood (AFB) disease is a highly contagious bacterial brood disease in honey bees (Apis mellifera), leading to hive losses worldwide. The causative agent is the Gram+ bacterium Paenibacillus larvae, which is able to infect honey bee larvae during the first 3 days of their lives. It can be found in hives around the world with viable spores for decades. Antibiotics are largely ineffective in treating the disease as they are only efficient against the vegetative state. Once a hive shows the clinical manifestation of the disease, the only effective way to eradicate it and prevent the spread of the disease is by burning the hive, the equipment, and the colony. Because of its virulent nature and detrimental effects on honey bee colonies, AFB is classified as a notifiable disease worldwide. Effective, safe, and sustainable methods are needed to ensure the wellbeing of honey bee colonies. Even though insects lack antibodies, which are the main requisites for trans-generational immune priming (TGIP), they can prime their offspring against persisting pathogens. Here, we demonstrate an increased survival of infected honey bee larvae after their queen was vaccinated, compared to offspring of control queens (placebo vaccinated). These results indicate that TGIP in insects can be used to majorly enhance colony health, protect commercial pollinators from deadly diseases, and reduce high financial and material losses to beekeepers.Classificationbiological sciences, applied biological sciences",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fvets.2022.946237/full"
+  }
+]

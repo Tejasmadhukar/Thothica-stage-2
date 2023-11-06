@@ -1,0 +1,204 @@
+[
+  {
+    "title": "Analyses of periodic annual increment by diameter and volume in differently aged black locust (Robinia pseudoacacia L.) stands: Case study",
+    "authors": [
+      "Tamás Ábri,",
+      "Károly Rédei"
+    ],
+    "doi": "https://doi.org/10.17221/25/2022-JFS",
+    "journalVolume": "Vol. 68,\n                                no. 6\n                                \n                                  pp.\n                                  213\n                                  – 219",
+    "issn": "1212-4834 (Print)",
+    "publisher": "1805-935X (Online)",
+    "countryOfPublisher": "Czech Academy of Agricultural Sciences",
+    "lcc": [
+      "Czechia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://jfs.agriculturejournals.cz/",
+    "abstract": "Black locust is one of the most commonly planted exotic tree species in the world. It has a crucial role in mitigating the negative effects of climate change. Its increment analyses have a key role in forest planning. Increment is added to the wood stock of the forest over and over again, and only this continuous replenishment makes the sustainable forest management possible. This study presents the results of the analysis of periodic annual increment (PAI) by diameter (dbh) and volume (v) of two differently aged black locust (Robinia pseudoacacia L.) stands, growing under similar ecological conditions. The main correlations are as follows: PAIdbh and diameter at breast height: r = 0.601 and 0.704 (P = 0.01); PAIv and mean tree volume (v): r = 0.721 and 0.849 (P = 0.01). The presented correlations clearly demonstrate the importance of individual differentiation within a stand.",
+    "readLink": "https://jfs.agriculturejournals.cz/artkey/jfs-202206-0002_analyses-of-periodic-annual-increment-by-diameter-and-volume-in-differently-aged-black-locust-robinia-pseudoac.php"
+  },
+  {
+    "title": "Soil Organic Carbon Prediction Using Sentinel-2 Data and Environmental Variables in a Karst Trough Valley Area of Southwest China",
+    "authors": [
+      "Ting Wang,",
+      "Wei Zhou,",
+      "Jieyun Xiao,",
+      "Haoran Li,",
+      "Li Yao,",
+      "Lijuan Xie,",
+      "Keming Wang"
+    ],
+    "doi": "https://doi.org/10.3390/rs15082118",
+    "journalVolume": "Vol. 15,\n                                no. 2118\n                                \n                                  p.\n                                  2118",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Climate change is closely linked to changes in soil organic carbon (SOC) content, which affects the terrestrial carbon cycle. Consequently, it is essential for carbon accounting and sustainable soil management to predict SOC content accurately. Although there has been an extensive utilization of optical remote sensing data and environmental factors to predict SOC content, few studies have explored their applicability in karst areas. Therefore, it remains unclear how SOC content can be accurately simulated in these areas. In this study, 160 soil samples, 8 environmental covariates and 14 optical remote sensing variables were used to build SOC content prediction models. Three machine learning models, i.e., support vector machine (SVM), random forest (RF) and extreme gradient boosting (XGBoost), were applied for each of three land use classes, including the entire study area, as well as farmland and forest areas. The variables with the greatest influence were the optical remote sensing bands, derived indices, as well as precipitation and temperature for forest areas, and optical remote sensing band11 and Pop-density for farmland. The results from this study suggest that RF and XGBoost are superior to SVM in prediction accuracy. Additionally, the simulation accuracy of the RF model for the forest areas (R2 = 0.32, RMSE = 6.81, MAE = 5.63) and of the XGBoost model for farmland areas (R2 = 0.28, RMSE = 4.03, MAE = 3.27) was the greatest. The prediction model based on different land use types could obtain a higher simulation accuracy than that based on the whole study area. These findings provide new insights for the estimation of SOC content with high precision in karst areas.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/8/2118"
+  },
+  {
+    "title": "The onset of the Little Ice Age in Andalusia (southern Spain): detection and characterization from documentary sources",
+    "authors": [
+      "F. S. Rodrigo,",
+      "M. J. Esteban-Parra,",
+      "Y. Castro-Diez"
+    ],
+    "doi": "https://doi.org/10.1007/s00585-995-0330-6",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  330\n                                  – 338",
+    "issn": "0992-7689 (Print)",
+    "publisher": "1432-0576 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.annales-geophysicae.net",
+    "abstract": "In this work the onset of the \"Little Ice Age\" period in Andalusia (southern Spain) is analysed from documentary data, focusing attention on the evolution of the climate during the 16th and 17th centuries. It is shown that changes in the rainfall regime have been more important than those in the temperature in studying the Andalusian climate change. Analysis of the total annual precipitation is carried out by codifying the documentary data and establishing an ordinal index. Several statistical methods are used to detect and characterize climate changes in the region. The results suggest a fluctuating evolution, without trends or abrupt changes, with a prevailing wet period from 1550 to 1650 AD. Cycles of ~17, 3.5 and 2.1 years are detected. Some possible causal mechanisms are suggested.",
+    "readLink": "https://www.ann-geophys.net/13/330/1995/angeo-13-330-1995.pdf"
+  },
+  {
+    "title": "<i>Helianthus salicifolius</i> as a New Biomass Source for Biogas Production",
+    "authors": [
+      "Dumitru Peni,",
+      "Marcin Dębowski,",
+      "Mariusz J. Stolarski"
+    ],
+    "doi": "https://doi.org/10.3390/en15082921",
+    "journalVolume": "Vol. 15,\n                                no. 2921\n                                \n                                  p.\n                                  2921",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Renewable energy is becoming a widely discussed topic in the European Union (EU), due to a desire to reduce the negative effects of fossil fuels on climate change and biodiversity. About 60% of the total renewable energy produced in the EU is derived from biomass. Anaerobic digestion (AD) is an important pathway to convert biomass into biogas and then into bioenergy. Helianthus salicifolius is a perennial plant, whose biomass can serve as a co-substrate in biogas plants. Biomass composition, in addition to the biomethane and biogas potential, were investigated in raw green biomass and silage obtained from Helianthus salicifolius plants grown under different types (mineral and organic) and doses (0, 85, 170 kg N ha−1) of nitrogen fertilization. The biomethane production efficiency from Helianthus salicifolius was recorded for 25 days and found to range on average between 169.4 NL kg−1 VS for raw biomass and 193.2 NL kg−1 VS for silage. It follows from the current study that ensiling increases substrate digestibility and has a positive impact on methane concentration, but the biomethane and biogas production outputs from those substrates did not differ significantly at the end of the process.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/8/2921"
+  },
+  {
+    "title": "A Blockchain-Supported Framework for Charging Management of Electric Vehicles",
+    "authors": [
+      "Marina Dorokhova,",
+      "Jérémie Vianin,",
+      "Jean-Marie Alder,",
+      "Christophe Ballif,",
+      "Nicolas Wyrsch,",
+      "David Wannier"
+    ],
+    "doi": "https://doi.org/10.3390/en14217144",
+    "journalVolume": "Vol. 14,\n                                no. 7144\n                                \n                                  p.\n                                  7144",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Profound changes driven by decarbonization, decentralization, and digitalization are disrupting the energy industry, bringing new challenges to its key stakeholders. In the attempt to address the climate change issue, increasing penetration of renewables and mobility electrification augment the complexity of the electric grid, thus calling for new management approaches to govern energy exchanges while ensuring reliable and secure operations. The emerging blockchain technology is regarded as one of the most promising solutions to respond to the matter in a decentralized, efficient, fast, and secure way. In this work, we propose an Ethereum-based charging management framework for electric vehicles (EVs), tightly interlinked with physical and software infrastructure and implemented in a real-world demonstration site. With a specifically designed solidity-based smart contract governing the charging process, the proposed framework enables secure and reliable accounting of energy exchanges in a network of trustless peers, thus facilitating the EVs’ deployment and encouraging the adoption of blockchain technology for everyday tasks such as EV charging through private and semi-private charging infrastructure. The results of a multi-actor implementation case study in Switzerland demonstrate the feasibility of the proposed blockchain framework and highlight its potential to reduce costs in a typical EV charging business model. Moreover, the study shows that the suggested framework can speed up the charging and billing processes for EV users, simplify the access to energy markets for charging station owners, and facilitate the interaction between the two through specifically designed mobile and web applications. The implementation presented in this paper can be used as a guideline for future blockchain applications for EV charging and other smart grid projects.",
+    "readLink": "https://www.mdpi.com/1996-1073/14/21/7144"
+  },
+  {
+    "title": "Current Socio-Economic Challenges. Approaching Sustainability and Social Economy.  Guest Editor’s Note",
+    "authors": [
+      "Cristina BARNA"
+    ],
+    "doi": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  7\n                                  – 9",
+    "issn": "2286-2668 (Print)",
+    "publisher": "2392-8042 (Online)",
+    "countryOfPublisher": "Sciendo",
+    "lcc": [
+      "Poland",
+      "Social Sciences: Commerce: Business"
+    ],
+    "journalUrl": "https://sciendo.com/journal/MDKE",
+    "abstract": "Starting with 2015, The 2030 Agenda for Sustainable Development (United Nations, 2015), the global new plan of action for people, planet, and prosperity has raised debates in the academic and research environments, and not only. The 2030 Agenda for Sustainable Development is a broad and universal policy agenda, with 17 Sustainable Development Goals (SDGs), with 169 associated targets that are integrated and indivisible. Building on the Millennium Development Goals (MDGs), the 2030 Agenda seeks to guide the Member States to transform their approach to achieve inclusive, people-centered, and sustainable development with no one left behind. This Agenda is recognizing that eradicating poverty in all its forms and dimensions, including extreme poverty, is the most significant global challenge and a requirement for sustainable development. We are still facing and debating on many economic, social, and environmental challenges. For example, in 2020, at the end of the Europe 2020 strategy, we still discuss in Europe about some dimensions of the Horizon 2020 societal challenges such as health, demographic change, and wellbeing; sustainable agriculture and forestry, marine and maritime and inland water research, and the bioeconomy; secure, clean and efficient energy; smart, green and integrated transport; climate action, environment, resource efficiency, and raw materials; Europe in a changing world - inclusive, innovative and reflective societies, or secure societies… Trying to respond to such challenges and not only, Europe is implementing Circular Economy Package, and at the same time is strengthening the social economy sector, which can have a substantial contribution to economic development, social inclusion, as well as green and digital transitions. Consequently, approaching Sustainability, Sustainable Development concept, and (or) Social Economy and various types of social economy entities, is becoming more and more imperative and frequently met in academia. This Special Issue of the Management Dynamics and Knowledge Economy journal on the topic of \"Current socio-economic challenges. Approaching Sustainability and Social Economy” provides a venue for high-quality research works of academics and researchers in these actual challenging topics.",
+    "readLink": "http://www.managementdynamics.ro/index.php/journal/article/view/345"
+  },
+  {
+    "title": "Climate Change Projections of Extreme Temperatures for the Iberian Peninsula",
+    "authors": [
+      "Carolina Viceto,",
+      "Susana Cardoso Pereira,",
+      "Alfredo Rocha"
+    ],
+    "doi": "https://doi.org/10.3390/atmos10050229",
+    "journalVolume": "Vol. 10,\n                                no. 5\n                                \n                                  p.\n                                  229",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "The comprehensive characterization of heat waves and extreme hot days is fundamental for policymakers due to its vast implications for human health. This study evaluates extreme temperature changes over the Iberian Peninsula for the present climate and future projections, considering extreme temperature indices, cold/heat waves, and a recovery factor, using the Weather Research and Forecasting model. The projected temperatures show an increase of over 6 °C. An increase in the number of summer days and tropical nights and a decrease in frost days is expected. The number of heat waves and their duration and intensity are expected to increase. The number of heat wave days are expected to increase, with much of the average summer season being under heat wave conditions. The recovery factor is expected to decrease. Cold spells are projected to decrease in terms of number, intensity, duration, and number of spell days, whereas the recovery factor is expected to increase. Heat wave analysis was combined with maximum temperature thresholds to isolate extreme heat waves. The results show an increase in extreme heat wave days, with regions experiencing over 10 heat wave days with maximum temperature surpassing 45 °C for the long-term future.",
+    "readLink": "https://www.mdpi.com/2073-4433/10/5/229"
+  },
+  {
+    "title": "Which Meteorological and Climatological Information Is Requested for Better Surfing Experiences? A Survey-Based Analysis",
+    "authors": [
+      "Anna  Boqué Ciurana,",
+      "Enric Aguilar"
+    ],
+    "doi": "https://doi.org/10.3390/atmos12030293",
+    "journalVolume": "Vol. 12,\n                                no. 293\n                                \n                                  p.\n                                  293",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "This paper extends the work of previous research by investigating surfing practices and surf-recreation companies from a behavioral perspective. The study’s main aim is to gain insights into the role of meteorological/climatological information in decision-making related to the surf-tourism activities market. This information was gathered employing an online survey that asked respondents about where they surf and how they check forecasts for surfing. Climate services (CS) are promoted to support the decision-making process to better prepare for and adapt to the risks and opportunities of climate variability and change. The current market for CS is still in its early stages. In this paper, we report the findings from our recent investigation into the actual and potential market for CS for the Iberian Peninsula surf-tourism sector. Based on surfers’ and surf companies’ demands, it was found that an improved surfing climate service (herein, SCS) will have clear implications in the management of these tourism areas and provide insights into whether surfing activities may be successful. At the same time, such services can help to manage adaptive actions in regard to the impacts of climate change in surfing areas.",
+    "readLink": "https://www.mdpi.com/2073-4433/12/3/293"
+  },
+  {
+    "title": "The industrial dynamics of water innovation: A comparison between China and Europe",
+    "authors": [
+      "Mariú Abritta Moro,",
+      "Ursula S. McKnight,",
+      "Barth F. Smets,",
+      "Yang Min,",
+      "Maj Munch Andersen"
+    ],
+    "doi": "Vol. 2,\n                                no. 1\n                                \n                                  pp.\n                                  14\n                                  – 32",
+    "issn": "2096-2487 (Print)",
+    "publisher": "2589-2975 (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Social Sciences: Commerce: Business"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/international-journal-of-innovation-studies/",
+    "abstract": "The expansion of the green economy agenda has increased the attention on eco-innovations globally, with issues related to water stress identified as one of the major bottlenecks for sustainable economic growth. Using evolutionary economic theory, this study investigates the industrial dynamics of the water sector, comparing China and Europe using patent data. This comparison feeds into the “catching up” literature, addressing the challenges of the “green economy” agenda in different regions in various stages of development. We highlight the neglected micro-dynamics of water innovation, investigating the roles of different innovators in the development of water technological trajectories, with a special focus on water innovations closely related to climate change adaptation and mitigation technologies. Public water innovators (universities) were found to be more important in China than in Europe. Similarities were also identified between Europe and China; big companies were found to be the main innovative leaders with no substantial changes documented over the timeframe investigated. Overall, the finding implies a rapid Chinese technological catching up of water technologies in the last three decades, where our research has pointed towards the role of redirection of Chinese policies with a stronger focus on sustainable development. The analysis, overall, sheds light on the state and nature of the globalizing green growth agenda. Keywords: Water innovation, Eco-innovation, Evolutionary economics, Knowledge institutions, Business demography",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2096248718300109"
+  },
+  {
+    "title": "Association between temperature variability and global meningitis incidence",
+    "authors": [
+      "Junjun Chen,",
+      "Zhihua Jiao,",
+      "Zhisheng Liang,",
+      "Junxiong Ma,",
+      "Ming Xu,",
+      "Shyam Biswal,",
+      "Murugappan Ramanathan,",
+      "Shengzhi Sun,",
+      "Zhenyu Zhang"
+    ],
+    "doi": "Vol. 171\n                                \n                                \n                                  p.\n                                  107649",
+    "issn": "0160-4120 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environment-international",
+    "abstract": "Background: Meningitis can cause devastating epidemics and is susceptible to climate change. It is unclear how temperature variability, an indicator of climate change, is associated with meningitis incidence. Methods: We used global meningitis incidence data along with meteorological and demographic data over 1990–2019 to identify the association between temperature variability and meningitis. We also employed future (2020–2100) climate data to predict meningitis incidence under different emission levels (SSPs: Shared Socioeconomic Pathways). Results: We found that the mean temperature variability increased by almost 3 folds in the past 30 years. The largest changes occurred in Australasia, Tropical Latin America, and Central Sub-Saharan Africa. With a logarithmic unit increase in temperature variability, the overall global meningitis risk increases by 4.8 %. Australasia, Central Sub-Saharan Africa, and High-income North America are the most at-risk regions. Higher statistical differences were identified in males, children, and the elderly population. Compared to high-emission (SSP585) scenario, we predicted a median reduction of 85.8 % in meningitis incidence globally under the low-emission (SSP126) climate change scenario by 2100. Conclusion: Our study provides evidence for temperature variability being in association with meningitis incidence, which suggests that global actions are urgently needed to address climate change and to prevent meningitis occurrence.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0160412022005761"
+  }
+]

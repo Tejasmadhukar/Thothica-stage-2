@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Latitudes and land use: Global biome shifts in vegetation persistence across three decades",
+    "authors": [
+      "Jane Southworth,",
+      "Sadie J. Ryan,",
+      "Hannah V. Herrero,",
+      "Reza Khatami,",
+      "Erin L. Bunting,",
+      "Mehedy Hassan,",
+      "Carly S. Muir,",
+      "Peter Waylen"
+    ],
+    "doi": "https://doi.org/10.3389/frsen.2023.1063188",
+    "journalVolume": "Vol. 4",
+    "issn": "2673-6187 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Geophysics. Cosmic physics",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/remote-sensing",
+    "abstract": "Introduction: The dynamics of terrestrial vegetation are shifting globally due to environmental changes, with potential repercussions for the proper functioning of the Earth system. However, the response of global vegetation, and the variability of the responses to their changing environment, is highly variable. In addition, the study of such changes and the methods used to monitor them, have in of themselves, been found to significantly impact the findings.Methods: This research builds on a recently developed vegetation persistence metric, which is simple to use, is user‐controlled to assess levels of statistical significance, and is readily reproducible, all designed to avoid these potential pitfalls. This study uses this vegetation persistence metric to present a global exploration of vegetation responses to climatic, latitudinal, and land‐use changes at a biomes level across three decades (1982–2010) of seasonal vegetation activity via the Normalized Difference Vegetation Index (NDVI).Results: Results demonstrated that positive vegetation persistence was found to be greater in June, July, August (JJA), and September, October, November (SON), with an increasing vegetation persistence found in the Northern Hemisphere (NH) over the Southern Hemisphere (SH). While vegetation showed positive persistence overall, this was not constant across all studied biomes. Overall forested biomes along with mangroves showed positive responses towards enhanced vegetation persistence in both the northern hemisphere and southern hemisphere. Contrastingly, desert, xeric shrubs, and savannas exhibited no significant persistence patterns, but the grassland biomes showed more negative persistence patterns and much higher variability over seasons, compared to the other biomes. The main drivers of changes appear to relate to climate, with tropical biomes linking to the availability of seasonal moisture, whereas the northern hemisphere forested biomes are driven more by temperature. Grasslands respond to moisture also, with high precipitation seasonality driving the persistence patterns. Land-use change also affected biomes and their responses, with many biomes having been significantly impacted by humans such that the vegetation response matched land use and not biome type.Discussion: The use here of a novel statistical time series analysis of NDVI at a pixel level, and looking historically back in time, highlights the utility and power of such techniques within global change studies. Overall, the findings match greening trends of other research but within a finer scale both temporally and spatially which is a critical new development in understanding global vegetation shifts.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frsen.2023.1063188/full"
+  },
+  {
+    "title": "Challenges and opportunities in crop simulation modelling under seasonal and projected climate change scenarios for crop production in South Africa",
+    "authors": [
+      "Priscilla Ntuchu Kephe,",
+      "Kingsley Kwabena Ayisi,",
+      "Brilliant Mareme Petja"
+    ],
+    "doi": "https://doi.org/10.1186/s40066-020-00283-5",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 24",
+    "issn": "2048-7010 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Agriculture",
+      "Technology: Home economics: Nutrition. Foods and food supply"
+    ],
+    "journalUrl": "https://agricultureandfoodsecurity.biomedcentral.com/",
+    "abstract": "Abstract A broad scope of crop models with varying demands on data inputs is being used for several purposes, such as possible adaptation strategies to control climate change impacts on future crop production, management decisions, and adaptation policies. A constant challenge to crop model simulation, especially for future crop performance projections and impact studies under varied conditions, is the unavailability of reliable historical data for model calibrations. In some cases, available input data may not be in the quantity and quality needed to drive most crop models. Even when a suitable choice of a crop simulation model is selected, data limitations hamper some of the models’ effective role for projections. To date, no review has looked at factors inhibiting the effective use of crop simulation models and complementary sources for input data in South Africa. This review looked at the barriers to crop simulation, relevant sources from which input data for crop models can be sourced, and proposed a framework for collecting input data. Results showed that barriers to effective simulations exist because, in most instances, the input data, like climate, soil, farm management practices, and cultivar characteristics, were generally incomplete, poor in quality, and not easily accessible or usable. We advocate a hybrid approach for obtaining input data for model calibration and validation. Recommended methods depending on the intended outputs and end use of model results include remote sensing, field, and greenhouse experiments, secondary data, engaging with farmers to model actual on-farm conditions. Thus, employing more than one method of data collection for input data for models can reduce the challenges faced by crop modellers due to the unavailability of data. The future of modelling depends on the goodness and availability of the input data, the readiness of modellers to cooperate on modularity and standardization, and potential user groups’ ability to communicate.",
+    "readLink": "https://doi.org/10.1186/s40066-020-00283-5"
+  },
+  {
+    "title": "Drivers of Cereal Production Efficiency Improvement in Kazakhstan (The Case of the Kostanay Region)",
+    "authors": [
+      "Valentin Uteulin,",
+      "Sansyzbay Zhientaev"
+    ],
+    "doi": "https://doi.org/10.12911/22998993/150624",
+    "journalVolume": "Vol. 23,\n                                no. 10\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2299-8993 (Online)",
+    "publisher": "Polish Society of Ecological Engineering (PTIE)",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.jeeng.net",
+    "abstract": "The COVID-19 outbreak has seriously affected the global food security at a time when it was significantly compromised by the effects of climate change and armed conflicts. Aims: The impact of the pandemic and quarantine restrictions imposed in response to the deadly virus brought humanity face-to-face with a new threat - that of food insecurity - which contributed to a high social demand for state-of-the-art methods of improving the cereal production efficiency. The aim of the study is to develop and implement a methodological approach to enhancing the cereal production efficiency. The methodology of the study relies on time series that made it possible to determine the main trends in regional cereal production and make projections. Application of the suggested approach in the Kostanay region revealed that this region was among the key cereal producers in the country. In 2019, the region was affected by extreme weather, which caused a sharp decline in cereal production. The present study, however, projects large opportunities for cereal production growth in the region and a significant increase in cereal production in the future. In addition, the paper suggests the following action plan to improve efficiency of the cereal production sector in the Kostanay region: streamlining of state support arrangements for cereal producers; development of affordable crop insurance products; systemic steps to increase cereal yields; development of logistic infrastructure; comprehensive monitoring of cereal production to develop a system of rapid response to changes in the external environment.",
+    "readLink": "http://www.jeeng.net/Drivers-of-Cereal-Production-Efficiency-Improvement-in-Kazakhstan-The-Case-of-the,150624,0,2.html"
+  },
+  {
+    "title": "Young People Are Changing Their Socio-Ecological Reality to Face Climate Change: Contrasting Transformative Youth Commitment with Division and Inertia of Governments",
+    "authors": [
+      "Alfredo Pena-Vega,",
+      "Marianne Cohen,",
+      "Luis Manuel Flores,",
+      "Hervé Le Treut,",
+      "Marcelo Lagos,",
+      "Juan Carlos Castilla,",
+      "Aurora Gaxiola,",
+      "Pablo Marquet"
+    ],
+    "doi": "https://doi.org/10.3390/su142215116",
+    "journalVolume": "Vol. 14,\n                                no. 15116\n                                \n                                  p.\n                                  15116",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "This paper contributes to a critical re-reading of the notion of climate services. It does so by problematizing the discontinuity between young people’s commitment to climate change, and the lack of a common vision regarding climate policy among governments. In this essay, youth commitment is characterized in terms of participation in the Global Youth Climate Pact (GYCP, 2015–2022). Here, young people share projects from their own high schools and communities and participate in a citizen consultation. Most projects have achieved a good success score, increasing over the years, especially for those carried out in emerging and developing countries. Some of them were presented at the COPs. In contrast, a textual analysis of intended nationally determined contributions (INDC) illustrates divergent understandings of the Paris Agreement and exemplifies the poor results of governmental climate diplomacy. This study establishes the need to closely monitor early warning signs of climate change in conjunction with high schools and school communities. The initiatives of young people are building a civic and planetary awareness for climate change in contrast with governmental division and inertia. In this sense, climate services, directed to young people, could contribute to design a sustainable future. We approach the practices, attitudes, and commitments of young people from the angle of cooperation rather than a moral vision of responsibility. Particularly, we propose a dialogical link between the treatment of climate issues and its effects on the constitution of networks, notably as they relate to practices of action, that is, the way in which distinct groups of young people develop relationships with their environments, organize themselves, and act and transform reality.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/22/15116"
+  },
+  {
+    "title": "WegenerNet high-resolution weather and climate data from 2007 to 2020",
+    "authors": [
+      "J. Fuchsberger,",
+      "G. Kirchengast,",
+      "G. Kirchengast,",
+      "T. Kabas"
+    ],
+    "doi": "https://doi.org/10.5194/essd-13-1307-2021",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  1307\n                                  – 1334",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "This paper describes the latest reprocessed data record (version 7.1) over 2007 to 2020 from the WegenerNet climate station networks, which since 2007 have been providing measurements with very high spatial and temporal resolution of hydrometeorological variables for two regions in the state of Styria, southeastern Austria: (1) the WegenerNet Feldbach Region, in the Alpine forelands of southeastern Styria, which extends over an area of about 22 km × 16 km and comprises 155 meteorological stations placed on a tightly spaced grid with an average spatial density of 1 station per ∼ 2 km2 and a temporal sampling of 5 min, and (2) the WegenerNet Johnsbachtal, which is a smaller “sister network” of the WegenerNet Feldbach Region in the mountainous Alpine region of upper Styria that extends over an area of about 16 km × 17 km and comprises 13 meteorological stations and 1 hydrographic station at altitudes ranging from below 600 m to over 2100 m and with a temporal sampling of 10 min. These networks operate on a long-term basis and continuously provide quality-controlled station time series for a multitude of hydrometeorological near-surface and surface variables, including air temperature, relative humidity, precipitation, wind speed and direction, wind gust speed and direction, soil moisture, soil temperature, and others like pressure and radiation variables at a few reference stations. In addition, gridded data are available at a resolution of 200 m × 200 m for air temperature, relative humidity, precipitation, and heat index for the Feldbach region and at a resolution of 100 m × 100 m for the wind parameters for both regions. Here we describe this dataset (the most recent reprocessing version 7.1) in terms of the measurement site and station characteristics as well as the data processing, from raw data (level 0) via quality-controlled basic station data (level 1) to weather and climate data products (level 2). In order to showcase the practical utility of the data, we also include two illustrative example applications, briefly summarize and refer to scientific uses in a range of previous studies, and briefly inform about the most recent WegenerNet advancements in 2020 towards a 3D open-air laboratory for climate change research. The dataset is published as part of the University of Graz Wegener Center's WegenerNet data repository under the DOI https://doi.org/10.25364/WEGC/WPS7.1:2021.1 (Fuchsberger et al., 2021) and is continuously extended.",
+    "readLink": "https://essd.copernicus.org/articles/13/1307/2021/essd-13-1307-2021.pdf"
+  },
+  {
+    "title": "Creating the Conditions for Climate Resilience: A Community-Based Approach in Canumay East, Philippines",
+    "authors": [
+      "Corrine Cash"
+    ],
+    "doi": "https://doi.org/10.17645/up.v6i4.4536",
+    "journalVolume": "Vol. 6,\n                                no. 4",
+    "issn": "2183-7635 (Online)",
+    "publisher": "Cogitatio",
+    "countryOfPublisher": "Portugal",
+    "lcc": [
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: City planning"
+    ],
+    "journalUrl": "http://www.cogitatiopress.com/urbanplanning",
+    "abstract": "People who reside in informal settlements in the Global South are most vulnerable to extreme weather events and their consequences, such as flooding, landslides, and fires. Those located in coastal areas face severe challenges from seasonal and typhoon-induced flooding. Research shows that uncertain land rights exacerbate community vulnerability because residents are under constant threat of eviction by private sector actors or the state. Individual and community upgrading is rarely possible in such a situation. This article focuses on the efforts to secure tenure and upgrade their community by the residents of Sitio Libis, located in Canumay East, City of Valenzuela, Philippines. The study demonstrates that while community-based approaches require skills and capacities of community members, enabling conditions created by government and/or NGOs are required for transformational outcomes. While the people of Sitio Libis did not conceptualize their efforts in terms of climate change adaptation, their success suggests the possibility for smart partnerships among state-civil society/private sector actors to emerge in support of small-scale climate action.",
+    "readLink": "https://www.cogitatiopress.com/urbanplanning/article/view/4536"
+  },
+  {
+    "title": "Biogeochemical response of the Mediterranean Sea to the transient SRES-A2 climate change scenario",
+    "authors": [
+      "C. Richon,",
+      "C. Richon,",
+      "J.-C. Dutay,",
+      "L. Bopp,",
+      "B. Le Vu,",
+      "J. C. Orr,",
+      "S. Somot,",
+      "F. Dulac"
+    ],
+    "doi": "https://doi.org/10.5194/bg-16-135-2019",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  135\n                                  – 165",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "The Mediterranean region is a climate change hotspot. Increasing greenhouse gas emissions are projected to lead to a substantial warming of the Mediterranean Sea as well as major changes in its circulation, but the subsequent effects of such changes on marine biogeochemistry are poorly understood. Here, our aim is to investigate how climate change will affect nutrient concentrations and biological productivity in the Mediterranean Sea. To do so, we perform transient simulations with the coupled high-resolution model NEMOMED8-PISCES using the high-emission IPCC Special Report on Emissions Scenarios (SRES) A2 socioeconomic scenario and corresponding Atlantic, Black Sea, and riverine nutrient inputs. Our results indicate that nitrate is accumulating in the Mediterranean Sea over the 21st century, while phosphorus shows no tendency. These contrasting changes result from an unbalanced nitrogen-to-phosphorus input from riverine discharge and fluxes via the Strait of Gibraltar, which lead to an expansion of phosphorus-limited regions across the Mediterranean. In addition, phytoplankton net primary productivity is reduced by 10 % in the 2090s in comparison to the present state, with reductions of up to 50 % in some regions such as the Aegean Sea as a result of nutrient limitation and vertical stratification. We also perform sensitivity tests to separately study the effects of climate and biogeochemical input changes on the future state of the Mediterranean Sea. Our results show that changes in nutrient supply from the Strait of Gibraltar and from rivers and circulation changes linked to climate change may have antagonistic or synergistic effects on nutrient concentrations and surface primary productivity. In some regions such as the Adriatic Sea, half of the biogeochemical changes simulated during the 21st century are linked with external changes in nutrient input, while the other half are linked to climate change. This study is the first to simulate future transient climate change effects on Mediterranean Sea biogeochemistry but calls for further work to characterize effects from atmospheric deposition and to assess the various sources of uncertainty.",
+    "readLink": "https://www.biogeosciences.net/16/135/2019/bg-16-135-2019.pdf"
+  },
+  {
+    "title": "Fibropapillomatosis on Sea Turtles, a Sentinel of Ecosystem Health?",
+    "authors": [
+      "Andreia Garcês,",
+      "Isabel Pires"
+    ],
+    "doi": "https://doi.org/10.3390/ECERPH-4-13096",
+    "journalVolume": "Vol. 24,\n                                no. 1\n                                \n                                  p.\n                                  1",
+    "issn": "2673-4931 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/environsciproc",
+    "abstract": "Cutaneous fibropapillomatosis, first reported in green turtles (Chelona mydas) in 1930, is considered a global epizootic that affects up to 97% of sea turtles, with major consequences for threatened populations. Although this is a benign tumour that arises on the skin or internal organs, it can have serious and potentially fatal consequences when it compromises critical functions such as swimming, feeding, or breathing. The aetiology of this tumour is not yet well defined, but it has been primarily associated with Chelonide herpesvirus 5. Some studies also highlight exogenous environmental factors such as water temperature and pollutants, which may have caused a host-virus–host imbalance and the onset of the disease. Climate change seems to have a role in the dissemination of this pathology among sea turtle populations. Although not fully understood, the relationship between fibropapilomatosis and the state of environmental health is well recognized. Further research is needed to better understand this disease, which silently devastates entire populations of marine turtles. Daily human activities may have a greater impact on wildlife populations than can be expected. There is an urgent need to reverse human threats to wildlife.",
+    "readLink": "https://www.mdpi.com/2673-4931/24/1/1"
+  },
+  {
+    "title": "Relative Importance of Climatic and Anthropogenic Drivers on the Dynamics of Aboveground Biomass across Agro-Ecological Zones on the Mongolian Plateau",
+    "authors": [
+      "Xiang Zhou,",
+      "Yasushi Yamaguchi"
+    ],
+    "doi": "https://doi.org/10.3390/su10103435",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  p.\n                                  3435",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The dynamics of aboveground biomass (AGB) are driven by both climate variation and anthropogenic modification, however, few studies have evaluated the relative importance of these two drivers, especially in a heterogeneous landscape. Taking the Mongolian Plateau as a case study and employing the vegetation optical depth retrieval as a proxy of AGB, this study aimed to determine the relative importance of climatic and anthropogenic drivers on the dynamics of AGB in Mongolia (ML) and the Inner Mongolia Autonomous Region (IM), China. Spatial panel data model specific to each agro-ecological zone was employed to fulfill the task. The results revealed that: (1) Since the socio-institutional transition in the early 1990s, AGB declined in most parts of the grazing zone of Mongolia. The reduction of precipitation, the rise of temperature and the intensification of livestock grazing were the major drivers behind it. Ranked by their relative importance, the order in the grazing zone with relatively humid climate was: Precipitation ≈ temperature > livestock grazing; the order in the grazing zone with relatively arid climate was: Precipitation > temperature > livestock grazing; (2) Since the implementation of a series of ecological restoration programs in the early 2000s, AGB increased in most parts of the grazing zone of IM, and the increase of precipitation was the dominant driver behind it; (3) Since the early 2000s, AGB increased in most parts of the grazing-farming zone of IM. The increase of precipitation, the decline of temperature and the intensification of grain production were the major drivers behind it. Ranked by their relative importance, the order was: Precipitation > grain production > temperature; (4) Since the early 2000s, AGB increased in most parts of the farming zone of IM. The increase of precipitation and the intensification of grain production were the major drivers behind it. Ranked by their relative importance, the order was: Grain production > precipitation.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/10/3435"
+  },
+  {
+    "title": "Global climate change and cryospheric evolution in China",
+    "authors": [
+      "Qin D.,",
+      "Xiao C."
+    ],
+    "doi": "https://doi.org/10.1140/epjconf/e2009-00907-x",
+    "journalVolume": "Vol. 1\n                                \n                                \n                                  pp.\n                                  19\n                                  – 28",
+    "issn": "2100-014X (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Science: Physics"
+    ],
+    "journalUrl": "http://www.epj-conferences.org/",
+    "abstract": "Major outcomes of Working Group I, IPCC AR4 (2007), as well as the recent understandings from our regional climatic assessments in China were summarized. Changes of cryosphere in China, one of the major components in regional climate system, is speciﬁcally reviewed. Under the global/regional warming, all components of cryosphere in China (Tibetan Plateau and surroundings) including glaciers, frozen ground (including permafrost) and snow cover show rapid decay in the last decades. These changes have big socioeconomic impacts in west China, thus encourages both government and scientists pay more and more attention to this ﬁeld.",
+    "readLink": "dx.doi.org/10.1140/epjconf/e2009-00907-x"
+  }
+]

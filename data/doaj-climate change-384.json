@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Diverging Responses of Two Subtropical Tree Species (<i>Schima superba</i> and <i>Cunninghamia lanceolata</i>) to Heat Waves",
+    "authors": [
+      "Luping Qu,",
+      "Hans J. De Boeck,",
+      "Huihua Fan,",
+      "Gang Dong,",
+      "Jiquan Chen,",
+      "Wenbin Xu,",
+      "Zhiqiang Ge,",
+      "Zijing Huang,",
+      "Changliang Shao,",
+      "Yalin Hu"
+    ],
+    "doi": "https://doi.org/10.3390/f11050513",
+    "journalVolume": "Vol. 11,\n                                no. 513\n                                \n                                  p.\n                                  513",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": ": The frequency and intensity of heat waves (HWs) has increased in subtropical regions in recent years. The mechanism underlying the HW response of subtropical trees remains unclear. In this study, we conducted an experiment with broad-leaved Schima superba (S. superba) and coniferous Cunninghamia lanceolata (C. lanceolata) seedlings to examine HW (5-day long) effects on stem water transport, leaf water use efficiency (WUE), morphology and growth, and to elucidate differences in the responses of both species. Our results indicated that HWs can significantly reduce hydraulic conductivity in both species. C. lanceolata experienced significant xylem embolism, with the percentage loss of conductivity (PLC) increasing by 40%, while S. superba showed a non-significant increase in PLC (+25%). Furthermore, HW also caused a reduction in photosynthesis rates (An), but transpiration rates (Tr) increased on the 5th day of the HW, together leading to a significant decrease in leaf WUE. From diurnal dynamics, we observed that the HW caused significant decrease of S. superba An only in the morning, but nearly the all day for C. lanceolata. During the morning, with a high vapor pressure deficit (VPD) environment, the HW increased Tr, which contributed a lot to latently cooling the foliage. In comparing the two tree species, we found that HW effects on S. superba were mostly short-term, with leaf senescence but limited or no xylem embolism. The surviving S. superba recovered rapidly, forming new branches and leaves, aided by their extensive root systems. For C. lanceolata, continued seedling growth initially but with subsequent xylem embolism and withering of shoots, led to stunted recovery and regrowth. In conclusion, apart from the direct thermal impacts caused by HW, drought stress was the main cause of significant negative effects on plant water transport and the photosynthetic system. Furthermore, S. superba and C. lanceolata showed clearly different responses to HW, which implies that the response mechanisms of broad-leaved and coniferous tree species to climate change can differ.",
+    "readLink": "https://www.mdpi.com/1999-4907/11/5/513"
+  },
+  {
+    "title": "Exploring the ability of the variable-resolution Community Earth System Model to simulate cryospheric–hydrological variables in High Mountain Asia",
+    "authors": [
+      "R. R. Wijngaard,",
+      "R. R. Wijngaard,",
+      "A. R. Herrington,",
+      "W. H. Lipscomb,",
+      "G. R. Leguy,",
+      "S.-I. An,",
+      "S.-I. An"
+    ],
+    "doi": "https://doi.org/10.5194/tc-17-3803-2023",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  3803\n                                  – 3828",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Earth system models (ESMs) can help to improve the understanding of climate-induced cryospheric–hydrological impacts in complex mountain regions, such as High Mountain Asia (HMA). Coarse ESM grids, however, have difficulties in representing cryospheric–hydrological processes that vary over short distances in complex mountainous environments. Variable-resolution (VR) ESMs can help to overcome these limitations through targeted grid refinement. This study investigates the ability of the VR Community Earth System Model (VR-CESM) to simulate cryospheric–hydrological variables such as the glacier surface mass balance (SMB) over HMA. To this end, a new VR grid is generated, with a regional grid refinement up to 7 km over HMA. Two coupled atmosphere–land simulations are run for the period 1979–1998. The second simulation is performed with an updated glacier cover dataset and includes snow and glacier model modifications. Comparisons are made to gridded outputs derived from a globally uniform 1∘ CESM grid, observation-, reanalysis-, and satellite-based datasets, and a glacier model forced by a regional climate model (RCM). Climatological biases are generally reduced compared to the coarse-resolution CESM grid, but the glacier SMB is too negative relative to observation-based glaciological and geodetic mass balances, as well as the RCM-forced glacier model output. In the second simulation, the SMB is improved but is still underestimated due to cloud cover and temperature biases, missing model physics, and incomplete land–atmosphere coupling. The outcomes suggest that VR-CESM could be a useful tool to simulate cryospheric–hydrological variables and to study climate change in mountainous environments, but further developments are needed to better simulate the SMB of mountain glaciers.",
+    "readLink": "https://tc.copernicus.org/articles/17/3803/2023/tc-17-3803-2023.pdf"
+  },
+  {
+    "title": "Impacts of climate change and human activities on runoff change in a typical arid watershed, NW China",
+    "authors": [
+      "Dongxiang Xue,",
+      "Junju Zhou,",
+      "Xi Zhao,",
+      "Chunfang Liu,",
+      "Wei Wei,",
+      "Xuemei Yang,",
+      "Qiaoqiao Li,",
+      "Yaru Zhao"
+    ],
+    "doi": "Vol. 121\n                                \n                                \n                                  p.\n                                  107013",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "The Shiyang River Basin is a typical arid watershed in Northwest China. Scientific understanding of the driving mechanism of runoff change is the basis of scientific utilization of water resources and regional sustainable development. In this study, runoff changes at different time scales were analyzed for the period 1960–2018, and the impacts of climate variability and human activities on runoff were investigated in the middle and lower reaches of the Shiyang River Basin (SRB). A combination of mutation analysis and human-designed analysis was adopted to divide the study period into the baseline period and the variation period. The Mann–Kendall test (M−K) and Double Mass Curve method (DMC) were used to detect abrupt changes and quantify the relative effects of climate change and human activities on runoff. The results reveal a significant declining trend in annual runoff on the whole in the middle and lower reaches of the SRB, and there was an obvious recovery trend after the implementation of the Comprehensive Treatment Program of the SRB (CTSRB) in 2007. Abrupt changes occurred in 1976, 1991 and 2007, which divided the study period into the baseline period (1960–1975), the Variation Ⅰ period (1976–1990), the Variation Ⅱ period (1991–2006) and the Variation III period (2007–2018). The contribution of human activities to runoff reduction was 88.72%, whereas the contribution of climate change to runoff reduction was only 11.28%. Furthermore, the contribution of human activities to runoff reduction in the Variation Ⅰ period, Variation Ⅱ period and Variation III period was 89.44%, 93.02% and 83.69%, respectively. Therefore, human activities played the most dominant role in the variation of runoff, followed by climate change and upstream runoff. Further analysis of the impact of human activities on runoff indicated that agricultural irrigation was the dominant factor of runoff reduction. This study can provide detailed information on water resources and a scientific basis for the development and utilization of water resources in the future.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X20309523"
+  },
+  {
+    "title": "Effect of urbanization on East African climate as simulated by coupled urban-climate model",
+    "authors": [
+      "T.T. Zeleke,",
+      "F. Giorgi,",
+      "G.T. Diro,",
+      "B.F. Zaitchik,",
+      "G. Giuliani,",
+      "D. Ayal,",
+      "T. Kassahun,",
+      "W.D. Sintayehu,",
+      "T. Demissie"
+    ],
+    "doi": "Vol. 31\n                                \n                                \n                                  p.\n                                  100398",
+    "issn": "2405-8807 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-services/",
+    "abstract": "This study examines the effect of urbanization on climate variability over East Africa. Seasonal trend of rainfall and temperature was analyzed using Mann-Kendall trend test and statistically significant rainfall trend is observed during spring (February-May) and summer (June-September) over northeast and spring/“bega”(October-January) seasons in southeastern regions of Ethiopia, thereby suggesting a seasonal shift of rainfall distribution. The temperature trend showed significant warming in the simulated field, except in central East Sudan, where there has been a significant decline. A numbers of idealized sensitivity experiments have been conducted with the Regional Climate Model (RegCM4.6) to investigate the contribution of urbanization to the East African region climate variability and trend. Model assessment against observed climate variables showed good performance in the simulation of spatial and temporal variability of regional climate variables. The results of the sensitivity experiment by prescribing different urban environments (tall building district (TBD), high density (HD), medium density (MD) and original land use) for the surface scheme (CLM4.5) reveal statistically significant impacts of urbanized surfaces on surface temperatures and precipitation due to variations in energy budget, local circulation and disturbance of hydro meteorological variables. It is noted that TBD urban environment has a higher impact on the local climate than other urban environments. Patterns of seasonal rainfall variability simulated using artificially urbanized land cover suggests involvement of complex interactions and is less similar to the observed rainfall trend, while surface temperature variability is significantly affected by local land-cover change and is very similar to the observed surface temperature trend.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405880723000596"
+  },
+  {
+    "title": "Climate Change Effects on River Flow in Eastern Europe: Arctic Rivers vs. Southern Rivers",
+    "authors": [
+      "Andrey Kalugin"
+    ],
+    "doi": "https://doi.org/10.3390/cli11050103",
+    "journalVolume": "Vol. 11,\n                                no. 103\n                                \n                                  p.\n                                  103",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "The hydrological model ECOMAG was used to calculate runoff characteristics in the main arctic (Northern Dvina and Pechora) and southern (Don and Kuban) river basins of Eastern Europe using the data from the ensemble of global climate models under the scenario of 1.5 and 2 °C global warming in the 21st century relative to pre-industrial values. Flow generation models were calibrated and validated based on runoff measurements at gauging stations using meteorological observation data. According to the results of numerical experiments, the relative change in river runoff in European Russia increases from north to south and from east to west under global warming of 1.5 to 2 °C. As a result, hydrological systems in milder climate were found to be more vulnerable to climate change. The assessment of flow anomalies in European Russia under the selected climate scenarios revealed the following general features: winter runoff in arctic rivers would increase, spring melt runoff in the Northern Dvina and Don would decrease, and summer–autumn runoff in all studied rivers would decrease to varying degrees. The most negative runoff anomalies are characterized in the southwestern part of the Northern Dvina basin, the middle part of the Don basin, and the lowland part of the Kuban basin, whereas positive runoff anomalies are characterized in the northern and eastern parts of the Pechora basin. Global warming of 1.5 to 2 °C would have the greatest impact on the rate of reduction of Kuban summer–autumn runoff and Don runoff during the spring flood, as well as the increase in Northern Dvina and Pechora winter runoff.",
+    "readLink": "https://www.mdpi.com/2225-1154/11/5/103"
+  },
+  {
+    "title": "Climate Change Ethics: Navigating the Perfect Moral Storm, by Donald A. Brown. London and New York: Earthscann from Routledge, 2013",
+    "authors": [
+      "Małgorzata Dereniowska"
+    ],
+    "doi": "https://doi.org/10.14746/eip.2014.1.8",
+    "journalVolume": "Vol. 5,\n                                no. 1",
+    "issn": "2084-9257 (Online)",
+    "publisher": "Adam Mickiewicz University",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Ethics"
+    ],
+    "journalUrl": "https://pressto.amu.edu.pl/index.php/eip",
+    "abstract": "Review article",
+    "readLink": "https://150.254.65.4/index.php/eip/article/view/9392"
+  },
+  {
+    "title": "Vulnerability Visualization to Support Adaptation to Heat and Floods: Towards the EXTRA Interactive Tool in Norrköping, Sweden",
+    "authors": [
+      "Tomasz Opach,",
+      "Erik Glaas,",
+      "Mattias Hjerpe,",
+      "Carlo Navarra"
+    ],
+    "doi": "https://doi.org/10.3390/su12031179",
+    "journalVolume": "Vol. 12,\n                                no. 3\n                                \n                                  p.\n                                  1179",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Municipal actors are increasingly expected to consider climate adaptation in operative and strategic work. Here, digital environments can support strategic decisions and planning through visual representations of local climate risks and vulnerabilities. This study targets visualization of vulnerability to heat and floods as a means of supporting adaptation action in preschools, primary schools, caring units, and municipal residential buildings in Norrköping, Sweden. Workshops with sector leaders identified vulnerability indicators used as a basis for collecting, calculating and representing self-assessed vulnerability of individual units and buildings. Informed by user inputs, a map-based interactive visual tool representing resulting vulnerability scores and risk maps was developed to support (1) planners and sector leaders in strategic prioritization and investments, and (2) unit heads in identifying adaptation measures to reduce local flood and heat risks. The tool was tested with adaptation coordinators from targeted sectors. The study finds that the tool made it possible to overview climate risks and adaptation measures, which arguably increases general governance capacity Allowing yearly updates of set scores, the tool was also found to be useful for monitoring how vulnerability in the municipality evolves over time, and for evaluating how adaptive efforts influence calculated risks.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/3/1179"
+  },
+  {
+    "title": "Non-Farm Employment Experience, Risk Preferences, and Low-Carbon Agricultural Technology Adoption: Evidence from 1843 Grain Farmers in 14 Provinces in China",
+    "authors": [
+      "Chaozhu Li,",
+      "Xiaoliang Li,",
+      "Wei Jia"
+    ],
+    "doi": "https://doi.org/10.3390/agriculture13010024",
+    "journalVolume": "Vol. 13,\n                                no. 24\n                                \n                                  p.\n                                  24",
+    "issn": "2077-0472 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agriculture",
+    "abstract": "Guiding and encouraging farmers to adopt low-carbon agricultural technologies is highly significant for reducing greenhouse gas emissions, mitigating climate change, and achieving agricultural production development and food security. This study used survey data from 1843 grain farmers in 14 provinces of China to empirically analyze the impact of non-farm employment experience and risk preferences on grain farmers’ low-carbon agricultural technology (LCAT) adoption. The results show that for grain farmers: (1) non-farm employment experience significantly promoted the adopting of LCAT. The probability of adopting LCAT by those with non-farm experience is 23.5% higher than those without. (2) Non-farm employment experience reinforced their risk preferences and promoted the adoption of LCAT. The adoption probability of LCAT of those with high-risk preferences was 6.1% higher than those with low-risk preferences. (3) The impact of non-farm employment experience on adopting LCAT was more significant for those with high education and training. Non-farm employment experience outside the province and employment experience in the tertiary sector while working outside significantly affect grain farmers’ LCAT adoption.",
+    "readLink": "https://www.mdpi.com/2077-0472/13/1/24"
+  },
+  {
+    "title": "Protecting, promoting and supporting breastfeeding in all policies: reframing the narrative",
+    "authors": [
+      "Cecília Tomori"
+    ],
+    "doi": "https://doi.org/10.3389/fpubh.2023.1149384",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-2565 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/public-health",
+    "abstract": "Recent research highlights the importance of breastfeeding to health across the lifecourse, yet inadequate investment to facilitate breastfeeding according to World Health Organization recommendations threatens to undermine breastfeeding’s protective effects. Western media narratives often fail to convey the significance of breastfeeding, and such narratives can hinder efforts to direct sufficient resources to scaling up effective systems and generating policy change. Delayed action disproportionately harms poor and marginalized communities. The urgency of making these investments in an era of rapidly intensifying climate change and other crises is clear. Reframing the narrative is needed to better appreciate the significance of breastfeeding as well as to recognize and address extensive efforts of undermine it. Evidence-based scientific, health professional and media discussions are necessary to recognize breastfeeding as foundational to food and health security and to enact change so that protecting, promoting and supporting breastfeeding is integrated across all policies.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpubh.2023.1149384/full"
+  },
+  {
+    "title": "Lake Area Analysis Using Exponential Smoothing Model and Long Time-Series Landsat Images in Wuhan, China",
+    "authors": [
+      "Gonghao Duan,",
+      "Ruiqing Niu"
+    ],
+    "doi": "https://doi.org/10.3390/su10010149",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  p.\n                                  149",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The loss of lake area significantly influences the climate change in a region, and this loss represents a serious and unavoidable challenge to maintaining ecological sustainability under the circumstances of lakes that are being filled. Therefore, mapping and forecasting changes in the lake is critical for protecting the environment and mitigating ecological problems in the urban district. We created an accessible map displaying area changes for 82 lakes in the Wuhan city using remote sensing data in conjunction with visual interpretation by combining field data with Landsat 2/5/7/8 Thematic Mapper (TM) time-series images for the period 1987–2013. In addition, we applied a quadratic exponential smoothing model to forecast lake area changes in Wuhan city. The map provides, for the first time, estimates of lake development in Wuhan using data required for local-scale studies. The model predicted a lake area reduction of 18.494 km2 in 2015. The average error reached 0.23 with a correlation coefficient of 0.98, indicating that the model is reliable. The paper provided a numerical analysis and forecasting method to provide a better understanding of lake area changes. The modeling and mapping results can help assess aquatic habitat suitability and property planning for Wuhan lakes.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/1/149"
+  }
+]

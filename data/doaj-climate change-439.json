@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Reconstruction of late spring phenophases in Poland and their response to climate change, 1951–2014",
+    "authors": [
+      "Bartosz Czernecki,",
+      "Katarzyna Jabłońska"
+    ],
+    "doi": "https://doi.org/10.5586/aa.1671",
+    "journalVolume": "Vol. 69,\n                                no. 2",
+    "issn": "0065-0951 (Print)",
+    "publisher": "2300-357X (Online)",
+    "countryOfPublisher": "Polish Botanical Society",
+    "lcc": [
+      "Poland",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://pbsociety.org.pl/journals/index.php/aa/index",
+    "abstract": "Phenology is primarily seen as an indicator of the impacts of climate change. The strongest biological signal of climatic change is revealed by phenological data from the period after 1990. Unfortunately, the Polish nationwide network of phenological monitoring was terminated in 1992, and was only reactivated in 2005. Here, we attempt to reconstruct late spring phenophases of flowering of Syringa vulgaris L. and Aesculus hippocastanum L. across several sites in Poland from 1951 to 2014 using the GIS-based approach (if observations from neighboring stations were available) and multiple regression modeling with stepwise screening and bootstrap resampling. It was found that the air temperature and its indices explain over 60% of the variance, giving an accuracy of 3.0–3.4 days (mean absolute error) and correlation coefficients of 0.83 and 0.78 for lilac and horse chestnut, respectively. Altogether, both plant species showed a statistically significant advancement in the onset of flowering with an average rate of 1.7 days per decade. We also found that the final trend is the result of rapid acceleration of the increase in air temperature after the 1990s, while most of the trends for late spring were ambiguous before that period.",
+    "readLink": "https://pbsociety.org.pl/journals/index.php/aa/article/view/6605"
+  },
+  {
+    "title": "Survival of overwintering nymphs of the small brown planthopper and its contribution to emergence timing",
+    "authors": [
+      "Keiichiro Matsukura,",
+      "Sachiyo Sanada‐Morimura,",
+      "Tomohisa Fujii,",
+      "Masaya Matsumura,",
+      "Takuya Shiba"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.4544",
+    "journalVolume": "Vol. 14,\n                                no. 6\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract This study developed a model for predicting the emergence timing of the first generation of the small brown planthopper, Laodelphax striatellus, by clarifying the effects of low temperature on survival and development of overwintering nymphs. In laboratory experiments, only temperatures below 0°C decreased nymph survival, although indirect chilling injury began to occur at about 4°C. No nymphs survived for longer than 7 days at −4°C. The developmental zero of overwintering nymphs was estimated to be 5.18°C. A model developed based on these survival and development parameters accurately predicted the distribution and emergence timing of the first generation of L. striatellus in the Kyushu region of Japan. Under future climate conditions predicted by the HadGEM2‐ES and MRI‐CGCM3 climate models under the RCP2.6 and RCP8.5 projections, L. striatellus is expected to show range expansion and advancement of emergence timing, although the degree of change varies among models and projections. Gaining a precise understanding of the overwintering biology of insect pests such as L. striatellus will help us accurately evaluate and predict future risks to crops under climate change.",
+    "readLink": "https://doi.org/10.1002/ecs2.4544"
+  },
+  {
+    "title": "Changes in Climate Factors and Catches of Fisheries in the Republic of Korea over the Three Decades",
+    "authors": [
+      "Jong-Gyu Kim,",
+      "Jeong-Gyoo Kim"
+    ],
+    "doi": "https://doi.org/10.3390/w15101952",
+    "journalVolume": "Vol. 15,\n                                no. 1952\n                                \n                                  p.\n                                  1952",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "We investigated the changes of main climate factors and their relationships with the catches of offshore fisheries of the Republic of Korea over the past 30 years (1981 to 2010), using a trend analysis and Pearson’s correlation analysis. This study focused on seven fish species that have been preferred in Korean cuisine for centuries. Not only the air temperature, but also the sea surface temperature (SST) on the coast of Korea has risen (p p p < 0.01). The analysis of this study indicates that cold water fish species have decreased or disappeared in Korean fisheries and have been replaced by warm water fish species. Our findings suggest that the fish species caught in Korean offshore fisheries have changed due to climate change, especially global warming. These results also suggest that there may be a threat to the food security of Koreans, so it is necessary to take measures to protect this food resource.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/10/1952"
+  },
+  {
+    "title": "High-Resolution Remote-Sensing Image-Change Detection Based on Morphological Attribute Profiles and Decision Fusion",
+    "authors": [
+      "Chao Wang,",
+      "Hui Liu,",
+      "Yi Shen,",
+      "Kaiguang Zhao,",
+      "Hongyan Xing,",
+      "Haotian Wu"
+    ],
+    "doi": "https://doi.org/10.1155/2020/8360361",
+    "journalVolume": "Vol. 2020",
+    "issn": "1076-2787 (Print)",
+    "publisher": "1099-0526 (Online)",
+    "countryOfPublisher": "Hindawi-Wiley",
+    "lcc": [
+      "United Kingdom",
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/complexity/",
+    "abstract": "Change detection (CD) is essential for accurate understanding of land surface changes with multitemporal Earth observation data. Due to the great advantages in spatial information modeling, Morphological Attribute Profiles (MAPs) are becoming increasingly popular for improving the recognition ability in CD applications. However, most of the MAPs-based CD methods are implemented by setting the scale parameters of Attribute Profiles (APs) manually and ignoring the uncertainty of change information from different sources. To address these issues, a novel method for CD in high-resolution remote sensing (HRRS) images based on morphological attribute profiles and decision fusion is proposed in this study. By establishing the objective function based on the minimum of average interscale correlation, a morphological attribute profile with adaptive scale parameters (ASP-MAPs) is presented to exploit the spatial structure information. On this basis, a multifeature decision fusion framework based on the Dempster–Shafer (D-S) theory is constructed for obtaining the CD map. Experiments of multitemporal HRRS images from different sensors have shown that the proposed method outperforms the other advanced comparison CD methods, and the overall accuracy (OA) can reach more than 83.9%.",
+    "readLink": "http://dx.doi.org/10.1155/2020/8360361"
+  },
+  {
+    "title": "The Capabilities of Dedicated Small Satellite Infrared Missions for the Quantitative Characterization of Wildfires",
+    "authors": [
+      "Winfried Halle,",
+      "Christian Fischer,",
+      "Dieter Oertel,",
+      "Boris Zhukov"
+    ],
+    "doi": "https://doi.org/10.3390/jimaging8030078",
+    "journalVolume": "Vol. 8,\n                                no. 78\n                                \n                                  p.\n                                  78",
+    "issn": "2313-433X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Photography",
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/jimaging",
+    "abstract": "The main objective of this paper was to demonstrate the capability of dedicated small satellite infrared sensors with cooled quantum detectors, such as those successfully utilized three times in Germany’s pioneering BIRD and FireBIRD small satellite infrared missions, in the quantitative characterization of high-temperature events such as wildfires. The Bi-spectral Infrared Detection (BIRD) mission was launched in October 2001. The space segment of FireBIRD consists of the small satellites Technologie Erprobungs-Träger (TET-1), launched in July 2012, and Bi-spectral InfraRed Optical System (BIROS), launched in June 2016. These missions also significantly improved the scientific understanding of space-borne fire monitoring with regard to climate change. The selected examples compare the evaluation of quantitative characteristics using data from BIRD or FireBIRD and from the operational polar orbiting IR sensor systems MODIS, SLSTR and VIIRS. Data from the geostationary satellite “Himawari-8” were compared with FireBIRD data, obtained simultaneously. The geostationary Meteosat Third Generation-Imager (MTG-I) is foreseen to be launched at the end of 2022. In its application to fire, the MTG-I’s Flexible Combined Imager (FCI) will provide related spectral bands at ground sampling distances (GSD) of 3.8 µm and 10.5 µm at the sub-satellite point (SSP) of 1 km or 2 km, depending on the used FCI imaging mode. BIRD wildfire data, obtained over Africa and Portugal, were used to simulate the fire detection and monitoring capability of MTG-I/FCI. A new quality of fire monitoring is predicted, if the 1 km resolution wildfire data from MTG-1/FCI are used together with the co-located fire data acquired by the polar orbiting Visible Infrared Imaging Radiometer Suite (VIIRS), and possibly prospective FireBIRD-type compact IR sensors flying on several small satellites in various low Earth orbits (LEOs).",
+    "readLink": "https://www.mdpi.com/2313-433X/8/3/78"
+  },
+  null,
+  {
+    "title": "Carbon foot printing school meals: data linkage and engagement activity",
+    "authors": [
+      "Alexandra Dalton,",
+      "Emily Ennis,",
+      "Melinda Green,",
+      "Michelle A Morris"
+    ],
+    "doi": "https://doi.org/10.23889/ijpds.v8i3.2294",
+    "journalVolume": "Vol. 8,\n                                no. 3",
+    "issn": "2399-4908 (Online)",
+    "publisher": "Swansea University",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Social Sciences: Economic theory. Demography: Demography. Population. Vital events"
+    ],
+    "journalUrl": "https://ijpds.org",
+    "abstract": "Introduction & Background Food production is a substantial contributor to greenhouse gas emissions and climate change. A more sustainable diet is often a healthier one, so making lower carbon food choices serves to benefit the planet and person. In order to understand the carbon footprint of food choices, linkage of recipe information to carbon footprint data and transaction records is required. To inform positive change insights from data linkage must be communicated to the target audience, in this case schoolchildren. Objectives & Approach School dinner recipe information and transaction records for school meals at five schools for a six week period were acquired. Carbon footprint estimates were calculated for each recipe, using published data. An automated dashboard was created in order that these calculations could be replicated by catering teams. Carbon footprints were appended to the school transaction records for meal choices. An interactive web game was created in ‘top trump’s' style using a selection of the recipes, with carbon footprint and popularity ranking, generated from the transaction records. Relevance to Digital Footprints Transactional meal sales data from schools are digital footprint data. In this work we link these digital footprint data to detailed recipe information with estimated carbon footprints from an open data source. Results The Consumer Data Research Centre Carbon Calculator and The Planet Plates game were created. The Carbon Calculator is being used in a number of settings to support food procurement and recipe development. The Planet Plates game has been used in Leeds Schools to empower schoolchildren to make positive changes to lower the carbon footprint of their meal choices. The children were engaged with all the activities and not only learned about sustainability of their food choices, but about how data they generate can be used anonymously for public good. Conclusions & Implications Data linkage of digital footprint data is a powerful tool for behaviour change to tackle some of the world’s most pressing challenges. Methods and insights should be shared widely and made accessible to a range of stakeholders wherever possible.",
+    "readLink": "https://ijpds.org/article/view/2294"
+  },
+  {
+    "title": "Identification and Evaluation of New Surface Water Reserves as Part of Urban and Water Resources Planning in Guarda Municipality, Portugal",
+    "authors": [
+      "Alfeu Sá-Marques,",
+      "Helena-Maria Simão,",
+      "José-Paulo de Almeida,",
+      "Nuno-Eduardo Simões"
+    ],
+    "doi": "https://doi.org/10.3390/environsciproc2022021053",
+    "journalVolume": "Vol. 21,\n                                no. 53\n                                \n                                  p.\n                                  53",
+    "issn": "2673-4931 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/environsciproc",
+    "abstract": "With climate change, dry periods are more frequent, and intense short rainfall events are increasing in Mediterranean areas. It is essential to have better and more accurate territorial planning that does not expose the population to risks. The feasibility of small dams’ construction was studied in the municipality of Guarda to improve and include the information in the respective Master Plan. This paper presents the methodologies implemented and results obtained in the identification of sites for the possible construction of hydraulic structures of less than 15 m height to retain and store water.",
+    "readLink": "https://www.mdpi.com/2673-4931/21/1/53"
+  },
+  {
+    "title": "A Unique Benthic Microbial Community Underlying the Phaeocystis antarctica-Dominated Amundsen Sea Polynya, Antarctica: A Proxy for Assessing the Impact of Global Changes",
+    "authors": [
+      "Hyeyoun Cho,",
+      "Chung Yeon Hwang,",
+      "Jong-Geol Kim,",
+      "Sanghoon Kang,",
+      "Katrin Knittel,",
+      "Ayeon Choi,",
+      "Sung-Han Kim,",
+      "Sung-Han Kim,",
+      "Sung-Keun Rhee,",
+      "Eun Jin Yang,",
+      "SangHoon Lee,",
+      "Jung-Ho Hyun"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2019.00797",
+    "journalVolume": "Vol. 6",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Polynyas in the polar seas are regarded as windows through which ecosystem responses associated with global climate changes are to be noticed. However, little information is available on benthic microbial communities in the Amundsen Sea polynya (ASP), where environmental changes due to global warming are occurring rapidly, from which future climate change-induced ecosystem responses could be assessed. We performed high-throughput sequencing of 16S rRNA genes and quantitative PCR in combination with biogeochemical analyses and metabolic rate measurements to determine the composition, diversity and controls of major microbial communities in sediments of the ASP. A large fraction of the sequenced benthic microbial community (40% on average) in the polynya was uniquely affiliated with the phylum Planctomycetes, whereas Thaumarchaeota (51% on average) predominated in non-polynya areas. The relative abundance of Planctomycetes correlated significantly with organic carbon (Corg) content in the polynya sediment underlying the Phaeocystis-dominated water column. These results suggest that Planctomycetes comprise a major bacterial group utilizing relatively recalcitrant Corg produced primarily by Phaeocystis blooms. In contrast, the predominance of chemolithoautotrohic Thaumarchaeota in the sea-ice zone was attributed to low Corg supply due to low primary productivity in the ice-covered water column. The Planctomycetes-dominated microbial communities in the ASP is in stark contrast to that Proteobacteria (Delta- and Gamma-proteobacteria) occupy ecological niches as primary mineralizers of organic materials in most benthic systems in the Southern Ocean, where organic materials in the sediments mostly originate from diatom blooms. Given that microbial communities respond quickly to environmental changes, and that global climate change is proceeding rapidly in the ASP, our results suggest that any modifications in the Planctomycetes-dominated microbial communities will provide valuable insight into changes in organic matter transport to the seafloor that may result from shifts in planktonic communities from Phaeocystis to diatoms associated with climate change.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmars.2019.00797/full"
+  },
+  {
+    "title": "KAJIAN JENIS POHON POTENSIAL UNTUK HUTAN KOTA DI BANDUNG, JAWA BARAT",
+    "authors": [
+      "Soleh Mulyana"
+    ],
+    "doi": "https://doi.org/10.20886/jakk.2013.10.1.58-71",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  58\n                                  – 71",
+    "issn": "0216-0897 (Print)",
+    "publisher": "2502-6267 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/",
+    "abstract": "Pembangunan dan perkembangan ekonomi di suatu perkotaan cenderung dapat meminimalkan ruang terbuka hijau (RTH) yang berdampak terganggunya keseimbangan ekosistem seperti: perubahan suhu, polusi udara, pencemaran air, permukaan tanah menurun dan bahaya banjir. Upaya dalam mengurangi dampak negatif tersebut dapat dilakukan dengan cara pembangunan atau pengembangan hutan kota dengan memilih jenis pohon potensial yang sesuai dengan tipe kawasan dan peruntukannya. Penelitian ini dimaksudkan untuk mengkaji sejauhmana PP No. 63 Tahun 2002 tentang hutan kota dilaksanakan oleh pemerintah daerah. Lokasi penelitian kajian jenis pohon Potensial untuk Pengembangan Hutan Kota ditetapkan adalah kota Bandung yang telah memiliki Perda No. 25 tahun 2009 tentang hutan kota. Berdasarkan Perda tersebut Kota Bandung telah menetapkan 9 lokasi kawasan hutan kota, yaitu Taman Tegalega, Taman Pramuka, Taman Lantas, Taman Cilaki, Taman Maluku, EksTPA Cicabe, Eks-TPA Pasir Impun, Kebun Binatang Tamansari dan kawasan hutan PT Pindad. Metode yang digunakan adalah sensus melalui pengukuran luas kawasan, pengamatan struktur, pencacahan populasi, pengukuran dimensi pohon (diameter, tinggi total, tinggi bebas cabang, lebar dan tinggi tajuk) dan mengidentifikasi ( jenis, genera dan suku setiap pohon). Hasil penelitian menunjukkan bahwa hutan kota terdiri dari 8 lokasi hutan kota digunakan sebagai sarana olah raga dan rekreasi/wisata untuk umum dan 1 lokasi merupakan tempat industri persenjataan sehingga tertutup bagi umum. Keanekaragaman jenis tertinggi terdapat di Kebun Binatang Tamansari dan terendah di kawasan Eks-TPA Pasir Impun, sedangkan untuk populasi terbanyak terdapat di PT Pindad, dan yang paling sedikit di kawasan Eks-TPA Pasir Impun. Jenis pohon yang ada sebagai vegetasi hutan kota umumnya merupakan jenis eksotik, dari hasil kegiatan penelitian ini disusun suatu matriks kesesuaian jenis pohon berdasarkan deskripsi (karakteristik dan fungsi) dari setiap jenis pohon yang sesuai dengan peruntukannya untuk setiap tipe kawasan hutan kota. Matriks kesesuaian jenis pohon potensial ini dapat digunakan sebagai acuan para pihak pengguna (Dinas instansi terkait dan swasta) dalam memilih suatu jenis pohon sebagai vegetasi hutan kota sesuai tipe kawasan dan peruntukannya. Meskipun demikian pemilihan jenis pohon sebaiknya mempertimbangkan kearifan lokal dengan memperhatikan jenis lokal (endemic ) yang langka atau hampir punah untuk dipertahankan.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/article/view/319"
+  }
+]

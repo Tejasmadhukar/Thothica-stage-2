@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Climate change in two Mediterranean climate areas (Spain and Chile): evidences and projections",
+    "authors": [
+      "Oliver Meseguer-Ruiz,",
+      "Jorge Olcina Cantos"
+    ],
+    "doi": "https://doi.org/10.14198/INGEO.24093",
+    "journalVolume": "no. 79\n                                \n                                  p.\n                                  9",
+    "issn": "0213-4691 (Print)",
+    "publisher": "1989-9890 (Online)",
+    "countryOfPublisher": "Instituto Interuniversitario de Geografía (Universidad de Alicante)",
+    "lcc": [
+      "Spain",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://www.investigacionesgeograficas.com",
+    "abstract": "Climate change is the most important environmental problem facing humanity in this century. And it has become the great axis of public policies and private actions in developed societies. The effects of altering the planetary energy balance due to anthropogenic greenhouse gas emissions are already becoming evident in some regions of the planet. Among them, the evidence is already significant in the areas with a Mediterranean climate. This paper collects, as a review paper, the evidence and trends that are being recorded in two areas with a Mediterranean climate (the Spanish Mediterranean coast and the central sector of Chile) to assess the effect of the global warming process. The impact that the current climate change is having on the main elements of the climate and on specific environmental processes in both of these geographical spaces has been analysed. The study seeks to update, through an evaluative summary, the state of the issue of climate change in Mediterranean areas, indicating its future impact on elements of the natural environment and on the functioning of the societies that exist in these regions.",
+    "readLink": "https://www.investigacionesgeograficas.com/article/view/24093"
+  },
+  {
+    "title": "Innovative Characterization and Comparative Analysis of Water Level Sensors for Enhanced Early Detection and Warning of Floods",
+    "authors": [
+      "Rula Tawalbeh,",
+      "Feras Alasali,",
+      "Zahra Ghanem,",
+      "Mohammad Alghazzawi,",
+      "Ahmad Abu-Raideh,",
+      "William Holderbaum"
+    ],
+    "doi": "https://doi.org/10.3390/jlpea13020026",
+    "journalVolume": "Vol. 13,\n                                no. 26\n                                \n                                  p.\n                                  26",
+    "issn": "2079-9268 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Applications of electric power"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/jlpea",
+    "abstract": "In considering projections that flooding will increase in the future years due to factors such as climate change and urbanization, the need for dependable and accurate water sensors systems is greater than ever. In this study, the performance of four different water level sensors, including ultrasonic, infrared (IR), and pressure sensors, is analyzed based on innovative characterization and comparative analysis, to determine whether or not these sensors have the ability to detect rising water levels and flash floods at an earlier stage under different conditions. During our exhaustive tests, we subjected the device to a variety of conditions, including clean and contaminated water, light and darkness, and an analogue connection to a display. When it came to monitoring water levels, the ultrasonic sensors stood out because of their remarkable precision and consistency. To address this issue, this study provides a novel and comparative examination of four water level sensors to determine which is the most effective and cost-effective in detecting floods and water level fluctuations. The IR sensor delivered accurate findings; however, it demonstrated some degree of variability throughout the course of the experiment. In addition, the results of our research show that the pressure sensor is a legitimate alternative to ultrasonic sensors. This presents a possibility that is more advantageous financially when it comes to the development of effective water level monitoring systems. The findings of this study are extremely helpful in improving the dependability and accuracy of flood detection systems and, eventually, in lessening the devastation caused by natural catastrophes.",
+    "readLink": "https://www.mdpi.com/2079-9268/13/2/26"
+  },
+  {
+    "title": "Soil Geochemical Properties Influencing the Diversity of Bacteria and Archaea in Soils of the Kitezh Lake Area, Antarctica",
+    "authors": [
+      "Qinxin Li,",
+      "Nengfei Wang,",
+      "Wenbing Han,",
+      "Botao Zhang,",
+      "Jiaye Zang,",
+      "Yiling Qin,",
+      "Long Wang,",
+      "Jie Liu,",
+      "Tao Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/biology11121855",
+    "journalVolume": "Vol. 11,\n                                no. 1855\n                                \n                                  p.\n                                  1855",
+    "issn": "2079-7737 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biology",
+    "abstract": "It is believed that polar regions are influenced by global warming more significantly, and because polar regions are less affected by human activities, they have certain reference values for future predictions. This study aimed to investigate the effects of climate warming on soil microbial communities in lake areas, taking Kitezh Lake, Antarctica as the research area. Below-peak soil, intertidal soil, and sediment were taken at the sampling sites, and we hypothesized that the diversity and composition of the bacterial and archaeal communities were different among the three sampling sites. Through 16S rDNA sequencing and analysis, bacteria and archaea with high abundance were obtained. Based on canonical correspondence analysis and redundancy analysis, pH and phosphate had a great influence on the bacterial community whereas pH and nitrite had a great influence on the archaeal community. Weighted gene coexpression network analysis was used to find the hub bacteria and archaea related to geochemical factors. The results showed that in addition to pH, phosphate, and nitrite, moisture content, ammonium, nitrate, and total carbon content also play important roles in microbial diversity and structure at different sites by changing the abundance of some key microbiota.",
+    "readLink": "https://www.mdpi.com/2079-7737/11/12/1855"
+  },
+  {
+    "title": "Integrating uncertainty propagation in GNSS radio occultation retrieval: from excess phase to atmospheric bending angle profiles",
+    "authors": [
+      "J. Schwarz,",
+      "J. Schwarz,",
+      "G. Kirchengast,",
+      "G. Kirchengast,",
+      "M. Schwaerz,",
+      "M. Schwaerz"
+    ],
+    "doi": "https://doi.org/10.5194/amt-11-2601-2018",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  2601\n                                  – 2631",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "Global Navigation Satellite System (GNSS) radio occultation (RO) observations are highly accurate, long-term stable data sets and are globally available as a continuous record from 2001. Essential climate variables for the thermodynamic state of the free atmosphere – such as pressure, temperature, and tropospheric water vapor profiles (involving background information) – can be derived from these records, which therefore have the potential to serve as climate benchmark data. However, to exploit this potential, atmospheric profile retrievals need to be very accurate and the remaining uncertainties quantified and traced throughout the retrieval chain from raw observations to essential climate variables. The new Reference Occultation Processing System (rOPS) at the Wegener Center aims to deliver such an accurate RO retrieval chain with integrated uncertainty propagation. Here we introduce and demonstrate the algorithms implemented in the rOPS for uncertainty propagation from excess phase to atmospheric bending angle profiles, for estimated systematic and random uncertainties, including vertical error correlations and resolution estimates. We estimated systematic uncertainty profiles with the same operators as used for the basic state profiles retrieval. The random uncertainty is traced through covariance propagation and validated using Monte Carlo ensemble methods. The algorithm performance is demonstrated using test day ensembles of simulated data as well as real RO event data from the satellite missions CHAllenging Minisatellite Payload (CHAMP); Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC); and Meteorological Operational Satellite A (MetOp). The results of the Monte Carlo validation show that our covariance propagation delivers correct uncertainty quantification from excess phase to bending angle profiles. The results from the real RO event ensembles demonstrate that the new uncertainty estimation chain performs robustly. Together with the other parts of the rOPS processing chain this part is thus ready to provide integrated uncertainty propagation through the whole RO retrieval chain for the benefit of climate monitoring and other applications.",
+    "readLink": "https://www.atmos-meas-tech.net/11/2601/2018/amt-11-2601-2018.pdf"
+  },
+  {
+    "title": "Assessment of Agricultural Drought Considering the Hydrological Cycle and Crop Phenology in the Korean Peninsula",
+    "authors": [
+      "Chul-Hee Lim,",
+      "Seung  Hee Kim,",
+      "Jong  Ahn Chun,",
+      "Menas  C. Kafatos,",
+      "Woo-Kyun Lee"
+    ],
+    "doi": "https://doi.org/10.3390/w11051105",
+    "journalVolume": "Vol. 11,\n                                no. 5\n                                \n                                  p.\n                                  1105",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Hydrological changes attributable to global warming increase the severity and frequency of droughts, which in turn affect agriculture. Hence, we proposed the Standardized Agricultural Drought Index (SADI), which is a new drought index specialized for agriculture and crops, and evaluated current and expected droughts in the Korean Peninsula. The SADI applies crop phenology to the hydrological cycle, which is a basic element that assesses drought. The SADI of rice and maize was calculated using representative hydrological variables (precipitation, evapotranspiration, and runoff) of the crop growing season. In order to evaluate the effectiveness of SADI, the three-month Standardized Precipitation Index, which is a representative drought index, and rainfed crop yield were estimated together. The performance evaluation of SADI showed that the correlation between rainfed crop yield and SADI was very high compared with that of existing drought index. The results of the assessment of drought over the past three decades provided a good indication of a major drought period and differentiated the results for crops and regions. The results of two future scenarios showed common drought risks in the western plains of North Korea. Successfully validated SADIs could be effectively applied to agricultural drought assessments in light of future climate change, and would be a good example of the water-food nexus approach.",
+    "readLink": "https://www.mdpi.com/2073-4441/11/5/1105"
+  },
+  {
+    "title": "Industrial revolution 4.0: Universiti Malaysia Sabah perspective",
+    "authors": [
+      "Mudin D Kamarudin D,",
+      "How Siew Eng,",
+      "Rahman Md Mizanur,",
+      "Ibrahim Pungut,",
+      "Jopony Marcus"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/20184803005",
+    "journalVolume": "Vol. 48\n                                \n                                \n                                  p.\n                                  03005",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Industrial Revolution 4.0 or IR 4.0 is getting the attention of Higher Learning Institutions throughout the world. In the case of Universiti Malaysia Sabah (UMS), “transformation towards University/Industry 4.0” has been identified as one of the nine key result areas (KRAs) in the Strategic Plan 2018-2020. The transformation framework focusses on three areas namely Teaching and Learning 4.0, Smart Eco-UMS 4.0 and Research 4.0. Various initiatives have been planned for each area, some of which are currently being implemented. Previously, under the Strategic Plan 2013-2017, UMS gave great attention on developing and promoting UMS as an eco-campus in line with UMS aspiration to be the reference of eco-campus or green campus in the region. This will be further enhanced under Smart Eco-UMS 4.0 in line with the United Nation sustainable development goals. One of the related initiatives is Smart Energy. Through the initiatives under the UMS Ecocampus Plan 2013-2017, a total reduction of 44.50 % in energy consumption was recorded between 2014-2017 compared to 2013 and with 29 % reduction in carbon footprint from 2014-2017. The commitment towards an ecocampus has significant impacts on lowering energy usage and reducing carbon footprint. We believe that the smart energy initiative will further contribute to another level of energy saving and carbon footprint reduction towards reducing the impacts of climate change.",
+    "readLink": "https://doi.org/10.1051/e3sconf/20184803005"
+  },
+  {
+    "title": "Twinning SENAMHI and MeteoSwiss to co-develop climate services for the agricultural sector in Peru",
+    "authors": [
+      "Stefanie Gubler,",
+      "Andrea Rossa,",
+      "Grinia Avalos,",
+      "Stefan Brönnimann,",
+      "Katy Cristobal,",
+      "Mischa Croci-Maspoli,",
+      "Marlene Dapozzo,",
+      "Andrea van der Elst,",
+      "Yury Escajadillo,",
+      "Moritz Flubacher,",
+      "Teresa Garcia,",
+      "Noemi Imfeld,",
+      "Thomas Konzelmann,",
+      "Filippo Lechthaler,",
+      "Mark Liniger,",
+      "Karim Quevedo,",
+      "Hugo Ramos,",
+      "Mario Rohrer,",
+      "Cornelia Schwierz,",
+      "Katrin Sedlmeier,",
+      "Christoph Spirig,",
+      "Sara de Ventura,",
+      "Brigitte Wüthrich"
+    ],
+    "doi": "Vol. 20\n                                \n                                \n                                  p.\n                                  100195",
+    "issn": "2405-8807 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-services/",
+    "abstract": "The development and dissemination of weather and climate information is crucial to improve people’s resilience and adaptability to climate variability and change. The impacts of climate variability and change are generally stronger for disadvantaged population groups due to their limited adaptive and coping capacities. For instance, smallholder farmers living in remote areas such as the southern Peruvian Andes suffer strongly from adverse weather and climatic events such as droughts or frost. The project Climandes aimed at providing high-quality climate services in support of the agricultural sector in southern Peru by implementing the guidelines of the Global Framework for Climate Services (GFCS).In Climandes, a two-fold challenge was tackled: the co-development of climate services by building up a continuous dialogue between the information provider (in this case the Peruvian national meteorological and hydrological service (NMHS)) and potential users; and the production of climate services through international cooperation. To this end, the NMHSs of Peru (SENAMHI) and Switzerland (MeteoSwiss) worked closely together to tackle issues ranging from the treatment of climate data to ensure the provision of reliable information to establishing continuous interaction with different user groups. In this paper, we postulate that this approach of close collaboration, the so-called twinning of the two NMHSs, was key for the projects’ success and contributed to strengthening the Peruvian NMHS institutionally and procedurally. This project overview guides its reader through the approach, main achievements, and conclusions regarding successes and challenges of the project, and reflects on some potential improvements for future initiatives.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405880720300479"
+  },
+  {
+    "title": "The missing link: the quality of UK local and national online media coverage of research",
+    "authors": [
+      "Andy Tattersall,",
+      "Christopher Carroll"
+    ],
+    "doi": "https://doi.org/10.1629/uksg.624",
+    "journalVolume": "Vol. 36\n                                \n                                \n                                  pp.\n                                  15\n                                  – 15",
+    "issn": "2048-7754 (Online)",
+    "publisher": "Ubiquity Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Bibliography. Library science. Information resources"
+    ],
+    "journalUrl": "http://insights.uksg.org/",
+    "abstract": "Local and national media have always played an instrumental role in the communication of academic research to the public. In recent years, this has proved even more important due to the extensive online national and international coverage of topics such as climate change and the Covid-19 pandemic. Given that the media represent the public’s first point of contact with, and key source of information about, science and research, then, as academics, we need to know, firstly, whether the media make this research easily identifiable for the public and, secondly, whether the research itself is accessible. Our study examined coverage of University of Sheffield published research in UK local and national media to explore how far it is identifiable and accessible; using data from Altmetric.com we investigated what proportion of research covered provided sufficient details to identify research, including links to the published articles and explored how much of the research was accessible via open access. A large proportion of research that featured in local media cited the journal, academic institution and author, but did not link to the article. By contrast, national media cited the author, institution or funder much less than local news websites, but often linked to the actual research article. Most articles featured were open access. The implications of this and potential reasons for the national and local differences are discussed.",
+    "readLink": "https://account.insights.uksg.org/index.php/up-j-i/article/view/624"
+  },
+  {
+    "title": "Country-level land carbon sink and its causing components by the middle of the twenty-first century",
+    "authors": [
+      "Lifen Jiang,",
+      "Junyi Liang,",
+      "Xingjie Lu,",
+      "Enqing Hou,",
+      "Forrest M. Hoffman,",
+      "Yiqi Luo"
+    ],
+    "doi": "https://doi.org/10.1186/s13717-021-00328-y",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2192-1709 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologicalprocesses.com/",
+    "abstract": "Abstract Background Countries have long been making efforts by reducing greenhouse-gas emissions to mitigate climate change. In the agreements of the United Nations Framework Convention on Climate Change, involved countries have committed to reduction targets. However, carbon (C) sink and its involving processes by natural ecosystems remain difficult to quantify. Methods Using a transient traceability framework, we estimated country-level land C sink and its causing components by 2050 simulated by 12 Earth System Models involved in the Coupled Model Intercomparison Project Phase 5 (CMIP5) under RCP8.5. Results The top 20 countries with highest C sink have the potential to sequester 62 Pg C in total, among which, Russia, Canada, USA, China, and Brazil sequester the most. This C sink consists of four components: production-driven change, turnover-driven change, change in instantaneous C storage potential, and interaction between production-driven change and turnover-driven change. The four components account for 49.5%, 28.1%, 14.5%, and 7.9% of the land C sink, respectively. Conclusion The model-based estimates highlight that land C sink potentially offsets a substantial proportion of greenhouse-gas emissions, especially for countries where net primary production (NPP) likely increases substantially and inherent residence time elongates.",
+    "readLink": "https://doi.org/10.1186/s13717-021-00328-y"
+  },
+  {
+    "title": "Seasonal Aspects of Radiative and Advective Air Temperature Populations: A Canadian Perspective",
+    "authors": [
+      "Ana Žaknić-Ćatović,",
+      "William A. Gough"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13071017",
+    "journalVolume": "Vol. 13,\n                                no. 1017\n                                \n                                  p.\n                                  1017",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Canadian high-frequency temperature time series exhibit physical heterogeneity in the coexistence of radiative and advective populations in the total air temperature sample. This work examines forty-five Canadian hourly air temperature records to study seasonal characteristics and variability of radiative and advective population counts and their corresponding temperature biases and trends. The Linear Pattern Discrimination algorithm, conceptualized in a previous study, was adjusted to seasonal analysis on the equinox-to-equinox time scale. Count analysis of radiative and advective days supports the existence of two distinct thermal regimes, Spring–Summer and Fall–Winter. Further, seasonal advective counts for the majority of examined stations typically decrease in numbers. The consistently warmer winter radiative temperature extrema points to the critical role of the advective population in control of the overall temperature magnitude. Canadian northwest warming trends are found to be the highest, indicating the amplifying effect of decreasing advective counts with rapidly increasing temperatures that weaken the advective population’s moderating ability to control the magnitude of the total temperature population.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/7/1017"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Ozone Trends from Two Decades of Ground Level Observation in Malaysia",
+    "authors": [
+      "Fatimah Ahamad,",
+      "Paul  T. Griffiths,",
+      "Mohd  Talib Latif,",
+      "Liew Juneng,",
+      "Chung  Jing Xiang"
+    ],
+    "doi": "https://doi.org/10.3390/atmos11070755",
+    "journalVolume": "Vol. 11,\n                                no. 755\n                                \n                                  p.\n                                  755",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "We examine the change in surface ozone and its precursor behavior over 20 years at four locations in western Peninsular Malaysia which have undergone urban-commercial development. Trend and correlation analyses were carried out on ozone and oxides of nitrogen observation data over the periods of 1997–2016 as well as the decadal intervals of 1997–2006 and 2007–2016. Diurnal variation composites for decadal intervals were also plotted. Significant increasing ozone concentrations were observed at all locations for the 20-year period, with a range between 0.09 and 0.21 ppb yr−1. The most urbanized location (S3) showed the highest ozone trend. Decadal intervals show that not all stations record significant increasing trends of ozone, with S1 recording decreasing ozone at a rate of −0.44 ppb yr−1 during the latter decade. Correlation analysis showed that only oxides of nitrogen ratios (NO/NO2) had significant inverse relationships with ozone at all stations corresponding to control of ozone by photostationary state reactions. The diurnal composites show that decadal difference in NO/NO2 is mostly influenced by change in nitric oxide concentrations.",
+    "readLink": "https://www.mdpi.com/2073-4433/11/7/755"
+  },
+  {
+    "title": "Seasonal precipitation forecasting for water management in the Kosi Basin, India using large-scale climate predictors",
+    "authors": [
+      "Manjeet Singh Dhillon,",
+      "Mohammed Sharif,",
+      "Henrik Madsen,",
+      "Flemming Jakobsen"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2023.479",
+    "journalVolume": "Vol. 14,\n                                no. 6\n                                \n                                  pp.\n                                  1868\n                                  – 1880",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "A novel approach for qualitative seasonal forecast of precipitation at a basin scale is presented as significant enhancement in seasonal forecast at regional and country scales in India. The process utilizes empirical and typically lagged relationships between target variables of interest, namely precipitation at the basin level and various large-scale climate predictors (LSCPs). A total of 14 LSCPs have been considered for the seasonal forecast of precipitation with lead times of 1, 2, and 3 months in the Kosi Basin, India. Random split training and testing were conducted on seven machine-learning (ML) models using a potential predictor dataset for model selection. The Logistic Regression (LR) model was adopted since it had the highest mean accuracy score compared to the remaining six ML models. The LR model has been optimized by testing it on all possible combinations of potential predictors using Leave-One-Out Cross-Validation (CV) scheme. The resulting Seasonal Prediction Model (SPM) provides the probability of each tercile categorized as Above Normal (AN), Normal (N), and Below Normal (BN). The model has been evaluated using various metrics. HIGHLIGHTS A basin-scale approach is presented instead of a larger country scale.; Use of large number of large-scale climate predictors for the development of an ML -based categorical forecast model.; The methodology is generic in nature and can be applied to any other basins.; Directions for further research are suggested for the generation of weather ensembles, automatic climate predictors, and for model operationalization.;",
+    "readLink": "http://jwcc.iwaponline.com/content/14/6/1868"
+  },
+  {
+    "title": "Increasing Trends in Air and Sea Surface Temperature in the Central Adriatic Sea (Croatia)",
+    "authors": [
+      "Ognjen Bonacci,",
+      "Duje Bonacci,",
+      "Matko Patekar,",
+      "Marco Pola"
+    ],
+    "doi": "https://doi.org/10.3390/jmse9040358",
+    "journalVolume": "Vol. 9,\n                                no. 358\n                                \n                                  p.\n                                  358",
+    "issn": "2077-1312 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Naval Science: Naval architecture. Shipbuilding. Marine engineering",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/jmse",
+    "abstract": "The Adriatic Sea and its coastal region have experienced significant environmental changes in recent decades, aggravated by climate change. The most prominent effects of climate change (namely, an increase in sea surface and air temperature together with changes in the precipitation regime) could have an adverse effect on social and environmental processes. In this study, we analyzed the time series of sea surface temperature and air temperature measured at three meteorological stations in the Croatian part of the Adriatic Sea. To assess the trends and variations in the time series of sea surface and air temperature, different statistical methods were employed, i.e., linear and quadratic regressions, Mann–Kendall test, Rescaled Adjusted Partial Sums method, and autocorrelation. The results evidenced increasing trends in the mean annual sea surface temperature and air temperature; furthermore, sudden variations in values were observed in 1998 and 1992, respectively. Increasing trends in the mean monthly sea surface temperature and air temperature occurred in the warmer parts of the year (from March to August). The results of this study could provide a foundation for stakeholders, decision–makers, and other scientists for developing effective measures to mitigate the negative effects of climate change in the scattered environment of the Adriatic islands and coastal region.",
+    "readLink": "https://www.mdpi.com/2077-1312/9/4/358"
+  },
+  {
+    "title": "Increasing impacts by Antarctica’s most widespread invasive plant species as result of direct competition with native vascular plants",
+    "authors": [
+      "Marco A. Molina-Montenegro,",
+      "Dana M. Bergstrom,",
+      "Katarzyna J. Chwedorzewska,",
+      "Peter Convey,",
+      "Steven L. Chown"
+    ],
+    "doi": "https://doi.org/10.3897/neobiota.51.37250",
+    "journalVolume": "Vol. 51\n                                \n                                \n                                  pp.\n                                  19\n                                  – 40",
+    "issn": "1619-0033 (Print)",
+    "publisher": "1314-2488 (Online)",
+    "countryOfPublisher": "Pensoft Publishers",
+    "lcc": [
+      "Bulgaria",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://neobiota.pensoft.net/",
+    "abstract": "Biological invasions represent significant economic and conservation challenges, though it is widely acknowledged that their impacts are often poorly documented and difficult to predict. In the Antarctic, one non-native vascular plant species is widespread and studies have shown negative impacts on native flora. Using field “common garden” experiments, we evaluate the competitive impact of the increasingly widespread invasive grass Poa annua on the only two native vascular species of Antarctica, the forb Colobanthus quitensis and the grass Deschampsia antarctica. We focus on interactions between these three plant species under current and a future, wetter, climate scenario, in terms of density of individuals. Our analysis demonstrates Poa annua has the potential to have negative impacts on the survival and growth of the native Antarctic vascular species. Under predicted future wetter conditions, C. quitensis communities will become more resistant to invasion, while those dominated by D. antarctica will become less resistant. Under a recently developed unified scheme for non-native species impacts, P. annua can be considered a species that can cause potentially moderate to major impacts in Antarctica. If current patterns of increased human pressure and regional climate change persist and mitigation action is not taken (i.e. reduction of propagule pressure and eradication or control measures), P. annua is likely to spread in Antarctica, especially in the Antarctic Peninsula region, with significant negative consequences for some of the most remote and pristine ecosystems worldwide. Tighter biosecurity across all operators in the region, improved surveillance for the species, and prompt, effective control actions will reduce these risks.",
+    "readLink": "https://neobiota.pensoft.net/article/37250/download/pdf/"
+  },
+  {
+    "title": "Book Review: Mertens, E. <i>Resilient City Landscape Architecture for Climate Change</i>; Birkhäuser: Basel, Switzerland, 2022; ISBN: 978-3035622348",
+    "authors": [
+      "Majid Amani-Beni,",
+      "Mohammad Reza Khalilnezhad"
+    ],
+    "doi": "https://doi.org/10.3390/land12051082",
+    "journalVolume": "Vol. 12,\n                                no. 1082\n                                \n                                  p.\n                                  1082",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Today, a majority of the global populace resides in urban areas and requires healthy surroundings to prosper and fulfill their potential [...]",
+    "readLink": "https://www.mdpi.com/2073-445X/12/5/1082"
+  },
+  {
+    "title": "Assessment of spatiotemporal distribution pattern of land surface temperature with incessant urban sprawl over Khulna and Rajshahi City Corporations",
+    "authors": [
+      "G.N. Tanjina Hasnat"
+    ],
+    "doi": "Vol. 9\n                                \n                                \n                                  p.\n                                  100644",
+    "issn": "2667-0100 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environmental-challenges/",
+    "abstract": "Urban sprawl and urban forest fragmentation are the dominating driving factors of land use land cover changes in city areas and changes in land surface temperature subsequently. Khulna and Rajshahi City Corporations, the major divisional city corporations of Bangladesh, were purposively selected in this study because of their difference in geography and demographic pattern. Khulna is the southwestern city of the country and is near to the Sundarbans, whereas Rajshahi is situated at the northwestern side. The population trend of Khulna has been decreasing day by day after 2001, but an increasing trend is observed in Rajshahi. The present study investigates the urban sprawl, change in urban greenspace, and spatiotemporal pattern of land surface temperature over these two cities from 1989 to 2021 at an interval of 16 years. Based on season, having the least cloud cover and shade-free images of Landsat 4–5 Thematic Mapper (TM), and 8 Operational Land Imager (OLI) and Thermal Infrared Sensor (TIRS) were collected from USGS Earth Explorer. Images of November and April, which had closer dates along with the required criteria, were downloaded for analysis. Land use land cover change was detected by using images from November, and land surface temperatures were retrieved from images of November and April to compare the temperature variation in winter and summer. The result of the study revealed that in 1989, urban green coverage was 21.07% in Khulna City Corporation (KCC) and 21.29% in Rajshahi City Corporation (RCC). The percentage was more than the threshold level of green coverage (20% of total land) required by plain lands. But these proportions reduced severely by 2021, to 11.86% and 8.56%, respectively. Urban sprawl was found as the major driver for destroying greenspace, which increased land surface temperature in both cities, but in Rajshahi City Corporation, it is comparatively more rapid than in Khulna City Corporation. The urban land cover increased by 32.40% in Khulna and by 71.92% in Rajshahi City Corporations during 1989–2021. The Kappa coefficients were found satisfactory for the years 1989, 2005, and 2021 in both cities – 93.03%, 86.3%, 93.15% for KCC, and 92.48%, 78.87%, 92.83% for RCC, respectively. In the time between 1989 and 2021, the overall land surface temperature increased by 2.72 °C in Khulna and 4.76 °C in Rajshahi City Corporations. In KCC and RCC, the total temperature decreased in winter season by 2.14 °C and 0.90 °C, correspondingly. The year 2005 was the warmest year in both cities among all the studied years. The summer season is getting warmer, and the winter is getting colder with the passing of decades. This significant change in temperature must be a sign of global warming. The results of the study will be scientific evidence to the policymakers, planners, city developers, city dwellers, as well as researchers.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2667010022002001"
+  },
+  {
+    "title": "Twelve Action Lines For a Better World",
+    "authors": [
+      "F. J. Radermacher"
+    ],
+    "doi": "Vol. 2,\n                                no. 6\n                                \n                                  pp.\n                                  60\n                                  – 64",
+    "issn": "2038-5242 (Print)",
+    "publisher": "2038-5250 (Online)",
+    "countryOfPublisher": "Risk Institute, Trieste- Geneva",
+    "lcc": [
+      "Italy",
+      "Political science: International relations",
+      "Social Sciences: Industries. Land use. Labor: Economic growth, development, planning"
+    ],
+    "journalUrl": "http://www.cadmusjournal.org/",
+    "abstract": "This article describes a global governance system that—from the author’s point of view—would lead to sustainability and allow the implementation of the Sustainable Development Goals (SDGs), which have just been adopted at the UN level. Major elements are (1) the integration of existing international regimes in the area of the UN, WTO and the world financial system into an integrated “Global Governance Body”. (2) This institution would, among other functions, be responsible for the major global commons and put a fee on their usage with two aims: (i) to protect them and (ii) to generate money for financing global development and the SDGs. (3) To monitor the income and property distribution by politics with the political mandate, to keep it in the so-called “efficient inequality range”. This may need international co-financing. (4) It will, if done properly, prevent two-class societies, it will furthermore allow the building-up of social systems everywhere in the world with the aim to have a reasonable balance of wealth in all states, and also between states. (5) It will also be of help if artificial intelligence systems took over hundreds of millions of jobs for highly qualified people in the next decade. (6) This global institution would also be able to pay in defense of cultural diversity and for the protection of the environment, e.g. rainforests. (7) This would also allow us to do what is needed for avoiding uncontrolled climate change, e.g. improve the recent Paris accord concerning climate.",
+    "readLink": "http://cadmusjournal.org/article/volume-2/issue-6/twelve-action-lines-better-world"
+  },
+  {
+    "title": "Intra-Seasonal Features of Winter Extreme Cold Events in Northeast–North China and Synergistic Effects of Circulation Systems in Mid-High Latitude",
+    "authors": [
+      "Qingjiu Gao,",
+      "Li Wang,",
+      "Yan Li,",
+      "Yafei Wang"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13091425",
+    "journalVolume": "Vol. 13,\n                                no. 1425\n                                \n                                  p.\n                                  1425",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Based on the daily minimum air temperature (Tmin) data from the China Meteorological Data Network and the NCEP/DOE reanalysis data, the intra-seasonal circulation characteristics and evolution of extreme cold events (ECEs) in Northeast–North China (NE-N) during the winter of 1979–2018 are explored, and the synergistic effects of key circulation systems in the mid-high latitude on ECEs are discussed. The results show that: (1) the winter daily Tmin in the NE-N region presents a significant low-frequency period of 10–30 d; during the cooling phases, a pair of cyclone–anticyclone in the lower troposphere moves southeastward, accompanying the intensifying Siberian High, and leads to the abnormal northerly; the developing wave trains in the middle troposphere result in enhancing and maintaining cold air; furthermore, the situation of the upper tropospheric jet weakening in the north and strengthening in the south is favorable for cold air to move southward and accumulate in the NE-N region. (2) There are two wave trains in the Eurasian at 200 hPa level. The north one moves southeastward through the Ural Mountains to the coast of East Asia, with the upstream wave activity flux dispersing to NE-N region, causing the northeast cold vortex to develop. The south one with relatively weak intensity disperses the wave flux northward, and enhances the cold vortex. (3) The key circulation systems of ECEs are the Siberian High, the Ural Mountain Blocking High, the Northeast Cold Vortex, and the East Asian Subtropical Jet. The Ural Mountains Blocking High leads four phases earlier than low temperature, and the rest of the systems are basically in phase with low temperature. The synergistic effect of circulation systems will lead to extended-range cold in the NE-N region.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/9/1425"
+  },
+  {
+    "title": "Combating the effects of climatic change on forests by mitigation strategies",
+    "authors": [
+      "Dieter Matthias,",
+      "Köthke Margret,",
+      "Pretzsch Hans,",
+      "Mette Tobias,",
+      "Rötzer Thomas,",
+      "Köhler Raul,",
+      "Olschofksy Konstantin,",
+      "Hildebrandt Rüdiger,",
+      "Köhl Michael,",
+      "Abiy Mengistu,",
+      "Makeschin Franz,",
+      "Kenter Bernhard"
+    ],
+    "doi": "https://doi.org/10.1186/1750-0680-5-8",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  p.\n                                  8",
+    "issn": "1750-0680 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://cbmjournal.biomedcentral.com/",
+    "abstract": "Abstract Background Forests occur across diverse biomes, each of which shows a specific composition of plant communities associated with the particular climate regimes. Predicted future climate change will have impacts on the vulnerability and productivity of forests; in some regions higher temperatures will extend the growing season and thus improve forest productivity, while changed annual precipitation patterns may show disadvantageous effects in areas, where water availability is restricted. While adaptation of forests to predicted future climate scenarios has been intensively studied, less attention was paid to mitigation strategies such as the introduction of tree species well adapted to changing environmental conditions. Results We simulated the development of managed forest ecosystems in Germany for the time period between 2000 and 2100 under different forest management regimes and climate change scenarios. The management regimes reflect different rotation periods, harvesting intensities and species selection for reforestations. The climate change scenarios were taken from the IPCC's Special Report on Emission Scenarios (SRES). We used the scenarios A1B (rapid and successful economic development) and B1 (high level of environmental and social consciousness combined with a globally coherent approach to a more sustainable development). Our results indicate that the effects of different climate change scenarios on the future productivity and species composition of German forests are minor compared to the effects of forest management. Conclusions The inherent natural adaptive capacity of forest ecosystems to changing environmental conditions is limited by the long life time of trees. Planting of adapted species and forest management will reduce the impact of predicted future climate change on forests.",
+    "readLink": "http://www.cbmjournal.com/content/5/1/8"
+  },
+  {
+    "title": "Survival and Migration of Rock Ptarmigan in Central Scandinavia",
+    "authors": [
+      "Erlend B. Nilsen,",
+      "Pål F. Moa,",
+      "Henrik Brøseth,",
+      "Hans Chr. Pedersen,",
+      "Bjørn R. Hagen"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2020.00034",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "In a world undergoing massive declines in the distribution and abundance of many wildlife species, documenting basic ecological characteristics is often needed to be able to understand and potentially mitigate current and future pressures. Species living in alpine areas might be particularly vulnerable to climate change, in part because they are less likely to be able to migrate to new suitable areas. Here we report from a two year case study of rock ptarmigan (Lagopus muta) in central Scandinavia. Ptarmigan were captured in winter (n = 84), and fitted with radio collars. We estimated the natural survival from mid-winter to late summer to be 0.55 (SE: 0.07), with no distinct differences between juveniles and adults, sex, or between the two years. Natural survival through late winter (February–April) was estimated at 0.77 (SE: 0.05), survival trough breeding season May–July at 0.65 (SE: 0.08), and harvest mortality through the February winter harvest at 9% (SE: 3%). Moreover, we documented large scale movement from the wintering grounds before the breeding season in the spring. The longest recorded movement was 79.5 km, and the mean distance from the capture site for birds still in the sample in May–July was 20.3 (SD: 18) km. We discuss the implications of the results in terms of ongoing climate change.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fevo.2020.00034/full"
+  }
+]

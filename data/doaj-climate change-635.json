@@ -1,0 +1,224 @@
+[
+  {
+    "title": "Climate-induced cyclical properties of regional wine production using a time-frequency approach in Douro and Minho Wine Regions",
+    "authors": [
+      "Cunha Mario,",
+      "Richter Christian"
+    ],
+    "doi": "https://doi.org/10.1051/ctv/20203501016",
+    "journalVolume": "Vol. 35,\n                                no. 1\n                                \n                                  pp.\n                                  16\n                                  – 29",
+    "issn": "0254-0223 (Print)",
+    "publisher": "2416-3953 (Online)",
+    "countryOfPublisher": "EDP Sciences",
+    "lcc": [
+      "France",
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "https://www.ctv-jve-journal.org/",
+    "abstract": "The impact of climate on wine production (WP) temporal cycles in Douro (DR) and Vinhos Verdes (VVR) wine regions for a period of about 80 years, characterized by strong technological trend and climate variability, was modelled. The cyclical properties of WP, and which cycles are determined by spring temperature (ST) and soil water during summer (SW), were identified. It was achieved by applying a time-frequency approach, which is based on Kalman filter in the time domain. The time-varying autoregressive model can explain more than 67% (DR) and 95% (VVR) of the WP’ variability and the integration of the ST and mainly SW increase the models’ reliability. The results were then transferred into the frequency domain, and can show that WP in both regions is characterized by two cycles close to 5-6 and 2.5 years around the long run trend. The ST and SW showed great capacity to explain the cyclicality of WP in the studied regions being the coherence temporarily much more stable in VVR than in the DR, where a shift of the relative importance away from ST to SW can be recognized. This could be an indicator of lower impact of the foreseen hot and dry climate scenarios on WP in the regions with a maritime climate, such as the VVR, compared with hot and dry wine regions. Despite the marked differences in the two studied regions on ecological, viticulture practices and technological trend, the modelling approach based on time-frequency proved to be an efficient tool to infer the impact of climate on the dynamics of cyclical properties of regional WP, foreseeing its generalized use in other regions. This modelling approach can be an important tool for planning in the wine industry as well as for mitigation strategies facing the scenarios that combine technological progress and climate change.",
+    "readLink": "https://www.ctv-jve-journal.org/articles/ctv/pdf/2020/01/ctv20203501ap16.pdf"
+  },
+  {
+    "title": "Dissecting the Mutual Response of Potential Evapotranspiration with Vegetation Cover/Land Use over Heilongjiang River Basin, China",
+    "authors": [
+      "Yezhi Zhou,",
+      "Juanle Wang,",
+      "Elena Grigorieva,",
+      "Kai Li"
+    ],
+    "doi": "https://doi.org/10.3390/w14050814",
+    "journalVolume": "Vol. 14,\n                                no. 814\n                                \n                                  p.\n                                  814",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Spatiotemporal changes in potential evapotranspiration (PET) are important referential data for monitoring the variation in ecohydrology under climate change. As the key area of agricultural/forestry reserves and trade, research on the interactions between vegetation cover and land use with accurate PET among the Heilongjiang River basin, China is vital for the sustainability of this cross-border region. To obtain high-suitability PET estimation based on the proven Penman–Monteith (PM) principle, two schemes were adopted using 36-year in situ meteorological data (1984–2019) and derived remote-sensing product MOD16A2 from 2001 to 2019. At meteorological sites with heterogeneous underlying surfaces, the coefficients of the evaluation factors between MOD_PET and the referrable observations were better. This suggests that remotely sensed estimation was preferentially chosen as the input to study the mutual responses. The results indicated that the annual PET and fractional vegetation cover (FVC) changes differed significantly depending on the land use. The proportions of PET according to equal intervals initially increased and then decreased with increasing vegetation coverage, and changing trends indicated a negative correlation. The strongest correlations appeared in the middle to northern sub-basins, which were affected by their distinctive climatic characteristics. The response of PET was reverse-related with changes in the area of each selected land type, but could change with the expected climatic conditions.",
+    "readLink": "https://www.mdpi.com/2073-4441/14/5/814"
+  },
+  {
+    "title": "A Summary of China’s Water Security Status and Issues from a Special Issue",
+    "authors": [
+      "Qiting Zuo,",
+      "Fuqiang Wang,",
+      "Jiaqi Zhai,",
+      "Xiuyu Zhang,",
+      "Dunxian She,",
+      "Lei Zou,",
+      "Rong Gan,",
+      "Zengliang Luo"
+    ],
+    "doi": "https://doi.org/10.3390/w15081628",
+    "journalVolume": "Vol. 15,\n                                no. 1628\n                                \n                                  p.\n                                  1628",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Affected by global climate change and rapid socio-economic development, China faces serious water security issues, especially in terms of water shortages, flood disasters, and water-related ecological and environmental problems [...]",
+    "readLink": "https://www.mdpi.com/2073-4441/15/8/1628"
+  },
+  {
+    "title": "Trend analysis of climate change compound indices in Iran",
+    "authors": [
+      "Ahmad Roshani,",
+      "Fatemeh Parak,",
+      "Hossein Esmaili"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2020.213",
+    "journalVolume": "Vol. 12,\n                                no. 3\n                                \n                                  pp.\n                                  801\n                                  – 816",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "The time-placement scheme of climate extreme changes is important. In this regard, a set of a compound indices derived using daily resolution climatic time series data is examined to assess climate change in Iran. The compound indices were examined for 47 synoptic meteorological stations during 1981–2015. The results show that most stations experienced a negative trend for the cool/dry (CD) and cool/wet (CW) index and a positive trend in CW was observed in some dispersed small areas. Both warm/dry (WD) and warm/wet (WW) indices have similar behavior, but the magnitude and spatial consistency of WW days were much less than WD days. The results show that more than 80% of stations experienced a decrease in the annual occurrence of the cold modes and an increase in the annual occurrence of the warm modes. On the other hand, universal thermal climate index (UTCI) change demonstrated a significant increase in the annual occurrence of strong heat stress (32–38 °C) and significant decrease in the annual occurrence of no thermal stress class (9–26 °C). Moreover, trends in tourism climate index (TCI), including TCI ≥ 60 and TCI ≥ 80, showed similar changes but with weak spatial coherence.",
+    "readLink": "http://jwcc.iwaponline.com/content/12/3/801"
+  },
+  {
+    "title": "Controls on the spatial distribution of oceanic &delta;<sup>13</sup>C<sub>DIC</sub>",
+    "authors": [
+      "P. B. Holden,",
+      "N. R. Edwards,",
+      "S. A. Müller,",
+      "K. I. C. Oliver,",
+      "R. M. Death,",
+      "A. Ridgwell"
+    ],
+    "doi": "https://doi.org/10.5194/bg-10-1815-2013",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  pp.\n                                  1815\n                                  – 1833",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "We describe the design and evaluation of a large ensemble of coupled climate–carbon cycle simulations with the Earth system model of intermediate complexity GENIE. This ensemble has been designed for application to a range of carbon cycle questions, including the causes of late-Quaternary fluctuations in atmospheric CO2. Here we evaluate the ensemble by applying it to a transient experiment over the recent industrial era (1858 to 2008 AD). We employ singular vector decomposition and principal component emulation to investigate the spatial modes of ensemble variability of oceanic dissolved inorganic carbon (DIC) δ13C, considering both the spun-up pre-industrial state and the transient change. These analyses allow us to separate the natural (pre-industrial) and anthropogenic controls on the δ13CDIC distribution. We apply the same dimensionally-reduced emulation techniques to consider the drivers of the spatial uncertainty in anthropogenic DIC. We show that the sources of uncertainty related to the uptake of anthropogenic δ13CDIC and DIC are quite distinct. Uncertainty in anthropogenic δ13C uptake is controlled by air–sea gas exchange, which explains 63% of modelled variance. This mode of variability is largely absent from the ensemble variability in CO2 uptake, which is rather driven by uncertainties in thermocline ventilation rates. Although the need to account for air–sea gas exchange is well known, these results suggest that, to leading order, uncertainties in the ocean uptake of anthropogenic 13C and CO2 are governed by very different processes. This illustrates the difficulties in reconstructing one from the other, and furthermore highlights the need for careful targeting of both δ13CDIC and DIC observations to better constrain the ocean sink of anthropogenic CO2.",
+    "readLink": "http://www.biogeosciences.net/10/1815/2013/bg-10-1815-2013.pdf"
+  },
+  {
+    "title": "The short-term effect of heat waves on mortality and its modifiers in China: An analysis from 66 communities",
+    "authors": [
+      "Wenjun Ma,",
+      "Weilin Zeng,",
+      "Maigeng Zhou,",
+      "Lijun Wang,",
+      "Shannon Rutherford,",
+      "Hualiang Lin,",
+      "Tao Liu,",
+      "Yonghui Zhang,",
+      "Jianpeng Xiao,",
+      "Yewu Zhang,",
+      "Xiaofeng Wang,",
+      "Xin Gu,",
+      "Cordia Chu"
+    ],
+    "doi": "Vol. 75\n                                \n                                \n                                  pp.\n                                  103\n                                  – 109",
+    "issn": "0160-4120 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environment-international",
+    "abstract": "Background: Many studies have reported increased mortality risk associated with heat waves. However, few have assessed the health impacts at a nation scale in a developing country. This study examines the mortality effects of heat waves in China and explores whether the effects are modified by individual-level and community-level characteristics. Methods: Daily mortality and meteorological variables from 66 Chinese communities were collected for the period 2006–2011. Heat waves were defined as ≥2 consecutive days with mean temperature ≥95th percentile of the year-round community-specific distribution. The community-specific mortality effects of heat waves were first estimated using a Distributed Lag Non-linear Model (DLNM), adjusting for potential confounders. To investigate effect modification by individual characteristics (age, gender, cause of death, education level or place of death), separate DLNM models were further fitted. Potential effect modification by community characteristics was examined using a meta-regression analysis. Results: A total of 5.0% (95% confidence intervals (CI): 2.9%–7.2%) excess deaths were associated with heat waves in 66 Chinese communities, with the highest excess deaths in north China (6.0%, 95% CI: 1%–11.3%), followed by east China (5.2%, 95% CI: 0.4%–10.2%) and south China (4.5%, 95% CI: 1.4%–7.6%). Our results indicate that individual characteristics significantly modified heat waves effects in China, with greater effects on cardiovascular mortality, cerebrovascular mortality, respiratory mortality, the elderly, females, the population dying outside of a hospital and those with a higher education attainment. Heat wave mortality effects were also more pronounced for those living in urban cities or densely populated communities. Conclusion: Heat waves significantly increased mortality risk in China with apparent spatial heterogeneity, which was modified by some individual-level and community-level factors. Our findings suggest adaptation plans that target vulnerable populations in susceptible communities during heat wave events should be developed to reduce health risks. Keywords: China, Climate change, Extreme temperature, Heat waves, Mortality",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0160412014003262"
+  },
+  {
+    "title": "Energy transition. The role of smart grids and digital technologies",
+    "authors": [
+      "Alessandro Claudi de Saint Mihiel"
+    ],
+    "doi": "https://doi.org/10.13128/techne-10513",
+    "journalVolume": "no. 21",
+    "issn": "2239-0243 (Online)",
+    "publisher": "Firenze University Press",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Fine Arts: Architecture: Aesthetics of cities. City planning and beautifying",
+      "Fine Arts: Architecture: Architectural drawing and design"
+    ],
+    "journalUrl": "http://www.fupress.net/index.php/techne",
+    "abstract": "The gradual transition from fossil fuels to a carbon neutral economy is one of the greatest challenges of our time. The European Union has undertaken numerous initiatives aimed at what is called the energy – and at the same time digital – transition, in order to create growth, jobs, to improve the quality of life of citizens, and to fight climate change. The EU renewed its climate commitment by launching a regulatory process that led in 2019 to the final approval of a package of directives known as the “Clean Energy for all Europeans Package”1 aimed at ensuring a 40% reduction of greenhouse gas emissions compared to 1990 levels, a 32% increase in the use of renewable sources for final energy consumption, a 32,5% reduction in primary energy consumption compared to the trend scenario, an increase of 15% of cross-border electricity interconnection capacity on installed electricity generation capacity. In Italy, the Integrated National Plan for Energy and Climate 2021-2030, drawn up by the Ministry of Economic Development, the Ministry of the Environment, Land and Sea and the Ministry of Infrastructure and Transport, identifies objectives, trajectories and measures that represent our country’s commitment to achieving the European targets by 2030. In this reference framework, the energy transition, that is the transformation of the electricity system, implies a series of challenges to be faced while maintaining the current high levels of service quality and avoiding an excessive increase in costs for the community. Among the enabling factors of this transformation we can identify on the one hand the new digital technologies, which allow to collect information at low cost (IoT, smart meter), to transfer large data streams with reliable connectivity solutions (optical fiber, 5G) and to store and analyze data effectively (advanced analytics), on the other hand investments in innovation projects that bring together new digital solutions allowing to face the challenges of the energy context through a transition based on the integration of renewable sources, strengthening of transmission capacity, resilience of infrastructures. «We are witnessing a rethinking of the methods of managing networks, especially distribution networks, which must pass from passive to active. This direction of evolution is identified, at an international level, with the term Smart Grid2, implying highly innovative structures and operating methods that are also able to cope with the numerous problems related to the management of Diffused Generation, the promotion of energy efficiency and greater involvement of end users […]. Now it is no longer enough just to satisfy the growing demand for electricity, but we must respond to new needs that can only be solved thanks to the use of ICT» (Delfanti, 2011; Silvestri, 2011). The current centralized and top-down distribution of energy will become more and more obsolete and will eventually disappear. In the new era, companies, administrations, homeowners will be able to become producers as much as consumers of their own energy (prosumers), the so-called “distributed generation”, by aggregating and collecting renewable energy generated locally and distributing it through smart grids (Mazzari, 2011). Smart grids use wireless sensors, software and utility computing that allow to observe and control how much energy is consumed, to increase the generation and storage capacity of RES energy, to improve the quality and operational safety of the entire electricity distribution system, to allow the active participation of users in the market through the integration of all users connected to the grid. In this regard, analyst Jesse Berst affirmed that smart meters can be considered as an invention equal to the telephone system, the transcontinental railway, the internet (Palma, 2011). These preliminary considerations are useful for understanding the role played by COGEPA Telecommunication S.p.A., an engineering, design, construction and maintenance company of telecommunications networks, technological systems, networking and low, medium and high voltage energy transport systems. The number of the Address Book has identified the Company as a qualified interlocutor whose reference market is represented by telephone operators, large infrastructures and Public Administrations. In the following pages, through a dialogue with Eng. Luca Palermo, Commercial Director of COGEPA Telecommunication S.p.A., we will develop some reasoning on Smart Grids and the role of digital technologies, and on how the company’s know-how has allowed to anticipate the opportunities offered by technological innovations while respecting the environment in an energy saving and efficiency optics. In questo quadro di riferimento la transizione energetica, nella fattispecie la trasformazione del sistema elettrico, implica una serie di sfide da affrontare mantenendo gli attuali elevati livelli di qualità del servizio ed evitando un aumento eccessivo dei costi per la collettività. Tra i fattori abilitanti di questa trasformazione si possono individuare da un lato le nuove tecnologie digitali, che consentono di raccogliere informazioni a basso costo (IoT, smart meter), di trasferire grandi flussi di dati con soluzioni affidabili di connettività (fibra ottica, 5G) e di stoccare e analizzare i dati in maniera efficace (advanced analytics), dall’altro gli investimenti in progetti di innovazione che mettono insieme le nuove soluzioni digitali permettendo di affrontare le sfide del contesto energetico attraverso una transizione basata sull’integrazione delle fonti rinnovabili, il rafforzamento della capacità di trasmissione, la resilienza delle infrastrutture. «Si assiste a un ripensamento delle modalità di gestione delle reti, soprattutto di distribuzione, che devono passare da passive ad attive. Questa direzione di evoluzione è identificata, a livello internazionale, con il termine smart grid2, sottintendendo strutture e modalità operative fortemente innovative che siano anche in grado di far fronte ai numerosi problemi legati alla gestione della Generazione Diffusa, alla promozione della efficienza energetica e a un maggiore coinvolgimento degli utenti finali […]. Adesso non basta più solo soddisfare la crescente domanda di energia elettrica ma bisogna rispondere a nuove esigenze risolvibili solo grazie al ricorso alle ICT» (Delfanti, 2011; Silvestri, 2011). L’attuale distribuzione centralizzata e dall’alto verso il basso di energia, diverrà sempre più obsoleta fino a scomparire. Nella nuova era le aziende, le Amministrazioni, i proprietari di casa potranno diventare produttori tanto quanto consumatori della loro stessa energia, la cosiddetta “generazione distribuita”, aggregando e raccogliendo l’energia rinnovabile generata localmente e distribuendola per mezzo delle smart grid (Mazzari, 2011). Le reti intelligenti utilizzano sensori wireless, software e utility computing che permettono di osservare e controllare quanta energia viene consumata, di aumentare la capacità di generazione e stoccaggio dell’energia da FER, di migliorare la qualità e la sicurezza di funzionamento dell’intero sistema di distribuzione di energia elettrica, di consentire la partecipazione attiva dell’utenza nel mercato attraverso l’integrazione di tutti gli attori connessi alla rete. A tal proposito l’analista Jesse Berst ha affermato, riguardo ai contatori intelligenti, che possono essere considerati come un’invenzione pari al sistema telefonico, alla ferrovia transcontinentale, ad internet (Palma, 2011).",
+    "readLink": "https://oaj.fupress.net/index.php/techne/article/view/10513"
+  },
+  {
+    "title": "Coherent movement patterns of female northern elephant seals across the NE Pacific Ocean",
+    "authors": [
+      "Shichao Pei,",
+      "Xiangliang Zhang,",
+      "Víctor M. Eguíluz,",
+      "Sarah S. Kienle,",
+      "Sarah S. Kienle,",
+      "Patrick W. Robinson,",
+      "Daniel P. Costa,",
+      "Carlos M. Duarte"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2023.689953",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Northern elephant seals engage in large-scale foraging migrations traveling up to 15,000 Km over 8 months in the northeast Pacific. While traditionally considered solitary migrants, we demonstrate here that female seals migrate in a surprisingly coherent manner, for individual northern elephant seals traveling in over such a large region of the ocean. Animal movement remained coherent, in terms of the direction of individual swimming relative to group movement, throughout much of their migrations. Movement coherence remained well above the value expected if the movement was independent until the migrating seals were further than 1,000 Km from the colony, beyond which movement coherence declined. Migrating seals presented regional aggregations consisting of female seals traveling within the center of the aggregation, closely following the main migration pathway, with individuals isolated on the extremes of the aggregation. These formations were preserved in the out-and-return migration trips. Animals at the edges of the group show an absence of correlation in their movement with the rest of animals. The observed movements exhibited a lag in the group movement patterns that was greater for female animals > 1,000 Km apart. A model that reproduced movement based on the average individual movement properties failed to reproduce the observed movement patterns. In turn, when a parameter was introduced that reflected group behavior, the resulting modelled movement conformed to the observed patterns, thereby demonstrating the presence of coherent, or synchronized, movement. Whereas the duration of female migration is ultimately constrained by reproductive biology, the coherent movement may involve both endogenous and exogenous cues determining the timing of the initiation of return across 25 million Km2 in the northeast Pacific.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2023.689953/full"
+  },
+  {
+    "title": "Creation of a Global Vaccine Risk Index.",
+    "authors": [
+      "Tasmiah Nuzhath,",
+      "Peter J Hotez,",
+      "Ashish Damania,",
+      "P Shuling Liu,",
+      "Brian Colwell"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0272784",
+    "journalVolume": "Vol. 17,\n                                no. 8\n                                \n                                  p.\n                                  e0272784",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The World Health Organization has identified vaccine hesitancy as one of its top ten global health threats for 2019. Efforts are underway to define the factors responsible for reductions in vaccine confidence. However, as global measles cases accelerated beginning in 2018, it became evident that additional factors were promoting measles re-emergence, including war, political and socio-economic collapse, shifting poverty, and vulnerability to weather events and climate change. Accordingly, we propose a Global Vaccine Risk Index (VRI) to consider these variables as a more comprehensive means to identify vulnerable nations where we might expect measles and other vaccine-preventable diseases to emerge or re-emerge. In Sub-Saharan African and Middle Eastern nations, conflict and political instability predominated as the basis for high vaccine risk scores, whereas in Southeast Asian countries, the major reasons included climate variability, current levels of measles vaccination coverage, and economic and educational disparities. In Europe, low vaccine confidence and refugee movements predominated, while in the Americas, economic disparities and vaccine confidence were important. The VRI may serve as a useful indicator and predictor for international agencies committed to childhood immunizations and might find relevance for accelerating future COVID19 vaccination programs.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0272784"
+  },
+  {
+    "title": "Electric Mobility Emission Reduction Policies: A Multi-Objective Optimization Assessment Approach",
+    "authors": [
+      "Anastasia Soukhov,",
+      "Ahmed Foda,",
+      "Moataz Mohamed"
+    ],
+    "doi": "https://doi.org/10.3390/en15196905",
+    "journalVolume": "Vol. 15,\n                                no. 6905\n                                \n                                  p.\n                                  6905",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The passenger transportation sector is notoriously sticky to decarbonize because it is interlinked with urban form, individual choice, and economic growth. As the urgency to respond to climate change increases and the transport sector disproportionally increases its contributions to global GHG emissions, there is a need for a more meaningful and transparent application of tools to cost GHG emission reduction. This study presents a multi-objective integer optimization (MIO) model to support the costing and GHG reduction estimation of electric mobility road passenger transportation policies. The model considers both cost and GHG emission minimization under resource constraints and background changes in policy interventions within interval ranges for the province of Ontario’s (Canada) in year 2030. All Pareto optimal solutions are included but results that indicate the optimal policy allocation for two discrete targets are discussed in detail; one scenario where $3 billion spending over ten years is the target and another scenario where the target is 40% GHG reduction in year 2030 (relative to 2005 levels). The MIO approach offers an out-of-the-box solution to support the GHG-reducing decision-making process at all levels of government by implementing optimal policy combinations to achieve GHG emission reductions under a target GHG emission reduction target and/or budget.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/19/6905"
+  }
+]

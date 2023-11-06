@@ -1,0 +1,241 @@
+[
+  {
+    "title": "EVALUATING THE POTENTIAL OF MULTISPECTRAL AIRBORNE LIDAR FOR TOPOGRAPHIC MAPPING AND LAND COVER CLASSIFICATION",
+    "authors": [
+      "V. Wichmann,",
+      "M. Bremer,",
+      "J. Lindenberger,",
+      "M. Rutzinger,",
+      "C. Georges,",
+      "F. Petrini-Monteferri"
+    ],
+    "doi": "https://doi.org/10.5194/isprsannals-II-3-W5-113-2015",
+    "journalVolume": "Vol. II-3-W5\n                                \n                                \n                                  pp.\n                                  113\n                                  – 119",
+    "issn": "2194-9042 (Print)",
+    "publisher": "2194-9050 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/annals.aspx",
+    "abstract": "Recently multispectral LiDAR became a promising research field for enhanced LiDAR classification workflows and e.g. the assessment of vegetation health. Current analyses on multispectral LiDAR are mainly based on experimental setups, which are often limited transferable to operational tasks. In late 2014 Optech Inc. announced the first commercially available multispectral LiDAR system for airborne topographic mapping. The combined system makes synchronic multispectral LiDAR measurements possible, solving time shift problems of experimental acquisitions. This paper presents an explorative analysis of the first airborne collected data with focus on class specific spectral signatures. Spectral patterns are used for a classification approach, which is evaluated in comparison to a manual reference classification. Typical spectral patterns comparable to optical imagery could be observed for homogeneous and planar surfaces. For rough and volumetric objects such as trees, the spectral signature becomes biased by signal modification due to multi return effects. However, we show that this first flight data set is suitable for conventional geometrical classification and mapping procedures. Additional classes such as sealed and unsealed ground can be separated with high classification accuracies. For vegetation classification the distinction of species and health classes is possible.",
+    "readLink": "http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-3-W5/113/2015/isprsannals-II-3-W5-113-2015.pdf"
+  },
+  {
+    "title": "Ecological vulnerability indicators to drought: Case of communal farmers in Eastern Cape, South Africa",
+    "authors": [
+      "Andries Jordaan,",
+      "Yonas T. Bahta,",
+      "Boitumelo Phatudi-Mphahlele"
+    ],
+    "doi": "https://doi.org/10.4102/jamba.v11i1.591",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  e1\n                                  – e11",
+    "issn": "2072-845X (Print)",
+    "publisher": "1996-1421 (Online)",
+    "countryOfPublisher": "AOSIS",
+    "lcc": [
+      "South Africa",
+      "Social Sciences: Industries. Land use. Labor: Management. Industrial management: Risk in industry. Risk management"
+    ],
+    "journalUrl": "https://www.jamba.org.za",
+    "abstract": "Estimation of ecological drought vulnerability indicators is the important step for drought mitigation management. This article identified and estimated ecological drought vulnerability indicators among communal farmers in the Eastern Cape province of South Africa, using an ecological vulnerability index based on a household survey of 121 communal farmers. The results identified overgrazing, soil erosion, land degradation, surface and groundwater supply, and land use management as the main ecological vulnerability variables. The results showed that climate is not necessarily linked to ecological vulnerability. High rainfall districts in this study showed higher ecological vulnerability to drought because of poor planning and management of water supply, poor grazing practices and land management that leads to serious land degradation. The identification and analysis of ecological vulnerability indicators to drought would aid in reconsidering priorities for the government to implement appropriate policy measures in response to drought and suggest strategies to reduce drought vulnerability. Such policies and strategies will strengthen climate change adaptation and ensure ecological and climate sustainability that comply with the Millennium Development Goals set out by the United Nations in 2000 and the subsequent 2030 development agenda for the Sustainable Development Goals.",
+    "readLink": "https://jamba.org.za/index.php/jamba/article/view/591"
+  },
+  {
+    "title": "Mapping the spatial distribution of the invasive Mexican Sunflower Tithonia diversifolia (Asteraceae) in South East Asia",
+    "authors": [
+      "Debasruti Boral,",
+      "Saurav Moktan"
+    ],
+    "doi": "Vol. 15,\n                                no. 3\n                                \n                                  pp.\n                                  425\n                                  – 434",
+    "issn": "2287-884X (Print)",
+    "publisher": "2287-9544 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-asia-pacific-biodiversity/",
+    "abstract": "Invasive species and climate change act in tandem as a threat to local and regional biodiversity. Tithonia diversifolia (Hemsl.) A.Gray (Asteraceae) is a known invasive plant in South East Asia. However, there has been no exploration regarding the invasion potential of T. diversifolia in the aforementioned region. Here, we modeled the current potential habitat and also compared three general circulation models in the year 2050 and 2070 using MaxEnt modeling. Since there was a significant change in future potential habitat from current habitat with future potential ranges being in the Himalayas for GFDL-CM3 and Indonesia for HadGEM2-ES and MIROC5. Due to the resultant discrepancy in future habitat range, ensemble approach was used. While the future potential habitat decreases, current habitat covers 7.99% of the total study area concentrated in the biodiversity hotspot regions.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2287884X22000371"
+  },
+  {
+    "title": "Towards pragmatism in climate risk analysis and adaptation",
+    "authors": [
+      "Robert Leonard Wilby,",
+      "Xianfu Lu,",
+      "Paul Watkiss,",
+      "Charles Andrew Rodgers"
+    ],
+    "doi": "https://doi.org/10.2166/wp.2021.232",
+    "journalVolume": "Vol. 23,\n                                no. S1\n                                \n                                  pp.\n                                  10\n                                  – 30",
+    "issn": "1366-7017 (Print)",
+    "publisher": "1996-9759 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)"
+    ],
+    "journalUrl": "https://iwaponline.com/wp",
+    "abstract": "The Asia-Pacific region is extremely vulnerable to climate variability and change. This reflects high exposure to hydroclimatic hazards such as tropical cyclones, floods, droughts, and heatwaves. Rapidly growing cities and low-lying coastal zones/estuaries also face threats from sea level rise and storm surges. However, climate model projections remain very uncertain about most of these risks, so water infrastructure and operations need to consider a range of plausible futures. Against this background, the Asian Development Bank (ADB) has been developing frameworks, tools, and capacities in climate risk and adaptation assessment and management. Project teams are often operating in data-scarce situations and under significant time constraints, so the emphasis has been on creating pragmatic guidance and training resources. This paper charts the transition of climate risk management (CRM) within the ADB from a predominantly scenario-led to decision-led approach to adaptation. Examples are given of light-touch procedures for screening climate risks, strengthening the transparency and rigour of scenario analysis, raising awareness of a broad range of adaptation options, streamlining identification of CRM options, and embedding allowances for climate change in detailed engineering designs. Such practical innovations would benefit communities of practice beyond the Asia-Pacific region. HIGHLIGHTS Water infrastructure and operating rules must be adapted such that they continue to deliver intended benefits despite climate change.; The Asian Development Bank has been developing frameworks, tools, and capacity for climate risk assessment and adaptation investments.; Pragmatic procedures for screening climate risk are particularly helpful in information- and resource-constrained situations.;",
+    "readLink": "http://wp.iwaponline.com/content/23/S1/10"
+  },
+  {
+    "title": "Negative emissions—Part 1: Research landscape and synthesis",
+    "authors": [
+      "Jan C Minx,",
+      "William F Lamb,",
+      "Max W Callaghan,",
+      "Sabine Fuss,",
+      "Jérôme Hilaire,",
+      "Felix Creutzig,",
+      "Thorben Amann,",
+      "Tim Beringer,",
+      "Wagner de Oliveira Garcia,",
+      "Jens Hartmann,",
+      "Tarun Khanna,",
+      "Dominic Lenzi,",
+      "Gunnar Luderer,",
+      "Gregory F Nemet,",
+      "Joeri Rogelj,",
+      "Pete Smith,",
+      "Jose Luis Vicente Vicente,",
+      "Jennifer Wilcox,",
+      "Maria del Mar Zamora Dominguez"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aabf9b",
+    "journalVolume": "Vol. 13,\n                                no. 6\n                                \n                                  p.\n                                  063001",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "With the Paris Agreement’s ambition of limiting climate change to well below 2 °C, negative emission technologies (NETs) have moved into the limelight of discussions in climate science and policy. Despite several assessments, the current knowledge on NETs is still diffuse and incomplete, but also growing fast. Here, we synthesize a comprehensive body of NETs literature, using scientometric tools and performing an in-depth assessment of the quantitative and qualitative evidence therein. We clarify the role of NETs in climate change mitigation scenarios, their ethical implications, as well as the challenges involved in bringing the various NETs to the market and scaling them up in time. There are six major findings arising from our assessment: first, keeping warming below 1.5 °C requires the large-scale deployment of NETs, but this dependency can still be kept to a minimum for the 2 °C warming limit. Second, accounting for economic and biophysical limits, we identify relevant potentials for all NETs except ocean fertilization. Third, any single NET is unlikely to sustainably achieve the large NETs deployment observed in many 1.5 °C and 2 °C mitigation scenarios. Yet, portfolios of multiple NETs, each deployed at modest scales, could be invaluable for reaching the climate goals. Fourth, a substantial gap exists between the upscaling and rapid diffusion of NETs implied in scenarios and progress in actual innovation and deployment. If NETs are required at the scales currently discussed, the resulting urgency of implementation is currently neither reflected in science nor policy. Fifth, NETs face severe barriers to implementation and are only weakly incentivized so far. Finally, we identify distinct ethical discourses relevant for NETs, but highlight the need to root them firmly in the available evidence in order to render such discussions relevant in practice.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aabf9b"
+  },
+  {
+    "title": "Glocalization: Self-Referential Remembrances",
+    "authors": [
+      "Roland Robertson"
+    ],
+    "doi": "https://doi.org/10.12893/gjcpi.2020.3.17",
+    "journalVolume": "Vol. 2020,\n                                no. 3",
+    "issn": "2283-7949 (Online)",
+    "publisher": "Globus et Locus",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://glocalismjournal.org",
+    "abstract": "This intervention is comprised of a sketch of the ways in which I have encountered the concept of glocalization, as well as glocality, during the past thirty-forty years. In one sense this means that it is extra-autobiographical. In saying this I have strongly in mind the not infrequent maxim that all good sociology, as well as anthropology and other social sciences, are at the same time extra-autobiographical. As will be seen in what follows this relationship between the autobiographical and the extra-autobiographical is part and parcel of the intellectual image that is presented here. My first conscious encounter with the word and idea of glocalization was an indirect result of the intellectual concern that I developed with globalization in the 1980s or, perhaps, even before then. It should be said in this respect that there were a number of binaries that were prominent in social scientific discourse in the 1960s and 1970s that undoubtedly had a strong bearing on my thinking about globalization and later glocalization. These included such conceptions as cosmopolitanism-localism and various others of that nature. Even less obvious were such distinctions as transcendence-immanence and sacred-profane. The genealogy inspired by such binaries were undoubtedly in my mind as I began explicitly to enter what might well be called the “glocal fray”. Moreover, I was to learn after I first used the concept of glocalization in 1992 that an anthropologist, Eric Swyngedouw, had used this concept around the same time as myself; both of us inspired by Japanese business discourse. As the 1990s wore on more and more people joined in the debate with varying degrees of hostility and enthusiasm, more frequently the former than the latter. In tracing this history, I shall obviously speak about the changes in, and fortunes of, the better-known concept of globalization as well as the “lesser” concept of localization. Being a sociologist – more appropriately now, a transdisciplinarian – I shall also focus upon the increasingly significant branch of social/natural science that addresses such issues as climate change, biodiversity and the debate about the Anthropocene. This paper is being composed during the tragic and global phenomenon of the Covid-19 pandemic. The latter surely exhibits glocal characteristics in the large.",
+    "readLink": "https://glocalismjournal.org/glocalization-self-referential-remembrances/"
+  },
+  {
+    "title": "Soil drying weakens the positive effect of climate factors on global gross primary production",
+    "authors": [
+      "Huan Chen,",
+      "Xiaoyong Bai,",
+      "Yangbing Li,",
+      "Qin Li,",
+      "Luhua Wu,",
+      "Fei Chen,",
+      "Chaojun Li,",
+      "Yuanhong Deng,",
+      "Huipeng Xi,",
+      "Chen Ran,",
+      "Xuling Luo,",
+      "Min Liu"
+    ],
+    "doi": "Vol. 129\n                                \n                                \n                                  p.\n                                  107953",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Global warming and the fertilization effect of carbon dioxide (CO2) have led to a general increase in gross primary production (GPP). Although soil drying (SD) may limit this increase, its limiting effect has not been confirmed and quantified. Hence, we evaluated the impact of SD and climate factors on GPP. From 1997 to 2017, GPP showed a slight downward trend but began to rise after 2011. In SD zones, 19% of the GPP change was attributed to SD, and CO2 concentration in climate factors was the climate factor that contributed the most (24%) and accounted for the main control area (9%). Surprisingly, the negative contribution of SD to GPP offset 35% of the positive contribution area of the climate factors. In addition, SD and climate factors explained 1% and 23% of the GPP increase, respectively, but in areas where GPP decreased, the SD area exceeded that of climate factors by 1.2 times, further highlighting the importance of SD in the GPP drive mechanism. Compared with previous studies, we further quantified the contribution of SD and climate factors to GPP, which improved our understanding of the global pattern of total carbon absorption and its response to SD and climate factors.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X2100618X"
+  },
+  {
+    "title": "Large-Scale Experiments to Improve Monopile Scour Protection Design Adapted to Climate Change—The PROTEUS Project",
+    "authors": [
+      "Carlos  Emilio Arboleda Chavez,",
+      "Vasiliki Stratigaki,",
+      "Minghao Wu,",
+      "Peter Troch,",
+      "Alexander Schendel,",
+      "Mario Welzel,",
+      "Raúl Villanueva,",
+      "Torsten Schlurmann,",
+      "Leen De Vos,",
+      "Dogan Kisacik,",
+      "Francisco Taveira Pinto,",
+      "Tiago Fazeres-Ferradosa,",
+      "Paulo Rosa Santos,",
+      "Leen Baelus,",
+      "Viktoria Szengel,",
+      "Annelies Bolle,",
+      "Richard Whitehouse,",
+      "David Todd"
+    ],
+    "doi": "https://doi.org/10.3390/en12091709",
+    "journalVolume": "Vol. 12,\n                                no. 9\n                                \n                                  p.\n                                  1709",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "This study aims to improve the design of scour protection around offshore wind turbine monopiles, as well as future-proofing them against the impacts of climate change. A series of large-scale experiments have been performed in the context of the European HYDRALAB-PLUS PROTEUS (Protection of offshore wind turbine monopiles against scouring) project in the Fast Flow Facility in HR Wallingford. These experiments make use of state of the art optical and acoustic measurement techniques to assess the damage of scour protections under the combined action of waves and currents. These novel PROTEUS tests focus on the study of the grading of the scour protection material as a stabilizing parameter, which has never been done under the combined action of waves and currents at a large scale. Scale effects are reduced and, thus, design risks are minimized. Moreover, the generated data will support the development of future scour protection designs and the validation of numerical models used by researchers worldwide. The testing program objectives are: (i) to compare the performance of single-layer wide-graded material used against scouring with current design practices; (ii) to verify the stability of the scour protection designs under extreme flow conditions; (iii) to provide a benchmark dataset for scour protection stability at large scale; and (iv) to investigate the scale effects on scour protection stability.",
+    "readLink": "https://www.mdpi.com/1996-1073/12/9/1709"
+  },
+  {
+    "title": "Sea Will Rise, Barbuda Will Survive: Environment and Time Consciousness",
+    "authors": [
+      "Sophia Perdikaris,",
+      "Katie Rose  Hejtmanek"
+    ],
+    "doi": "https://doi.org/10.46863/ecocene.6",
+    "journalVolume": "Vol. 1,\n                                no. 2\n                                \n                                  pp.\n                                  92\n                                  – 108",
+    "issn": "2717-8943 (Online)",
+    "publisher": "Cappadocia University",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Technology: Environmental technology. Sanitary engineering: Special types of environment"
+    ],
+    "journalUrl": "http://ecocene.kapadokya.edu.tr",
+    "abstract": "In this article, we examine the link between environmental consciousnesses and time consciousness. We argue that the way people think about time shapes their experience of climate change threats. We contrast western hegemonic concepts of time—the Gregorian Calendar, the Dooms Day Clock, linear time—with the way Barbudans of Antigua and Barbuda, an island nation in the Caribbean experience time—cyclical, through boom and bust cycles. We found that this boom and bust framework was indeed supported by climate change and weather experiences on the island—hurricanes, droughts, changes in the lagoons—as well as economic experiences—cargo boat delays bringing supplies, paycheck delays. By understanding local explanatory models of time, especially those that contrast to western climate science frameworks of time, better solution-driven work can be achieved in the face of climate change realities.",
+    "readLink": "https://ecocene.kapadokya.edu.tr/index.php/ecocene/article/view/27"
+  },
+  {
+    "title": "Changes in Thornthwaite Moisture Index and Reactive Soil Movements under Current and Future Climate Scenarios—A Case Study",
+    "authors": [
+      "Md Rajibul Karim,",
+      "Md Mizanur Rahman,",
+      "Khoi Nguyen,",
+      "Donald Cameron,",
+      "Asif Iqbal,",
+      "Isaac Ahenkorah"
+    ],
+    "doi": "https://doi.org/10.3390/en14206760",
+    "journalVolume": "Vol. 14,\n                                no. 6760\n                                \n                                  p.\n                                  6760",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Expansive soils go through significant volume changes due to seasonal moisture variations resulting in ground movements. The ground movement related problems are likely to worsen in the future due to climate change. It is important to understand and incorporate likely future changes in design to ensure the resilience of structures built on such soils. However, there has been a limited amount of work quantifying the effect of climate change on expansive soils movement and related behaviour of structures. The Thornthwaite Moisture Index (TMI) is one of the commonly used climate classifiers in quantifying the effect of atmospheric boundary on soil behaviour. Using the long-term weather data and predicted future changes under different emission scenarios, a series of TMI maps are developed for South Australia. Potential changes in ground movement are then estimated for a selected area using a simplified methodology where the effect of future climate is captured through changes in TMI. Results indicate that South Australia is likely to face a significant reduction in TMI under all emission scenarios considered in this study. The changes in TMI will lead to a considerable increase in potential ground movement which will influence the behaviour of structures built on them and in some areas may lead to premature failure if not considered in the design.",
+    "readLink": "https://www.mdpi.com/1996-1073/14/20/6760"
+  }
+]

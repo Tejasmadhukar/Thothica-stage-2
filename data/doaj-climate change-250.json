@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Spatiotemporal Variations of Glacier Mass Balance in the Tomur Peak Region Based on Multi-Source Altimetry Remote Sensing Data",
+    "authors": [
+      "Chaoying Cheng,",
+      "Weibing Du,",
+      "Junli Li,",
+      "Anming Bao,",
+      "Wen Ge,",
+      "Shuangting Wang,",
+      "Dandan Ma,",
+      "Yaming Pan"
+    ],
+    "doi": "https://doi.org/10.3390/rs15174143",
+    "journalVolume": "Vol. 15,\n                                no. 4143\n                                \n                                  p.\n                                  4143",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Alpine glaciers are sensitive indicators of regional climate change, which can affect regional ecological stability and social development. Variations in glacier mass balance (GMB) are an important parameter in studying glacier change. In this study, data from the Ice, Cloud, and Land Elevation Satellite-1 (ICESat-1), the Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2), and CryoSat-2 (Ku-band) were combined, and high-resolution ALOS DEM was employed to denoise. After that, the polynomial fitting method was used to analyze the characteristics of glacier surface elevation (GSE) variations from 2003–2020 in the Tomur Peak Region of the Central Asian Tianshan Mountains and the regional GMB was calculated. Research results showed that: (1) From 2003–2020, the GSE of the Tomur Peak Region had an overall −8.95 ± 4.48 m variation, the average rate of which was −0.53 ± 0.26 m/yr (/yr is /year). Overall, elevations of most glaciers in the Tomur Peak Region had downward trends, with a rate of change of −0.5 to 0 m/yr. The fastest rate of elevation decline in the Koxkar Glacier Tongue was −1.5 m/yr. The elevation of some altimetric points in the Eastern Tomur Peak Region showed a rising state, with a maximum rate of variation of 1.0 m/yr. (2) From 2003–2020, the average GMB in the Tomur Peak Region was −1.51 ± 0.04 Gt/yr. In the region of elevation below 4000 m, small glaciers dominated, with a GMB of −0.61 ± 0.04 Gt/yr. With increasing elevation, the melting rate of glaciers gradually slowed down, but overall, the mass balance remained in a state of decline. (3) Climate was the main driving factor of GMB change in the study area. From 2003–2020, in the Tomur Peak Region, the average annual temperature continued to increase at a rate of 0.04 ± 0.02 °C/yr, and this was the main influencing factor for the negative GMB in the Tomur Peak Region. In the same period, the annual precipitation showed a rising trend with a linear variation rate of 0.12 ± 0.06 mm/yr, and the rising precipitation was the influencing factor for the gradually slowing change in the GMB in the study area.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/17/4143"
+  },
+  {
+    "title": "Micro-Pulse Lidar Cruising Measurements in Northern South China Sea",
+    "authors": [
+      "Yuan Li,",
+      "Baomin Wang,",
+      "Shao-Yi Lee,",
+      "Zhijie Zhang,",
+      "Ye Wang,",
+      "Wenjie Dong"
+    ],
+    "doi": "https://doi.org/10.3390/rs12101695",
+    "journalVolume": "Vol. 12,\n                                no. 1695\n                                \n                                  p.\n                                  1695",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "A shipborne micro-pulse lidar (Sigma Space Mini-MPL) was used to measure aerosol extinction coefficient over the northern region of the South China Sea from 9 August to 7 September 2016, the first time a mini-MPL was used for aerosol observation over the cruise region. The goal of the experiment was to investigate if the compact and affordable mini-MPL was usable for aerosol observation over this region. The measurements were used to calculate vertical profiles of volume extinction coefficient, depolarization ratio, and atmospheric boundary layer height. Aerosol optical depth (AOD) was lower over the southwest side of the cruise region, compared to the northeast side. Most attenuation occurred below 3.5 km, and maximum extinction values over coastal areas were generally about double of values offshore. The extinction coefficients at 532 nm (aerosol and molecular combined) over coastal and offshore areas were on average 0.04 km-1 and 0.02 km-1, respectively. Maximum values reached 0.2 km−1 and 0.14 km−1, respectively. Vertical profiles and back-trajectory calculations indicated vertical and horizontal layering of aerosols from different terrestrial sources. The mean volume depolarization ratio of the aerosols along the cruise was 0.04. The mean atmospheric boundary layer height along the cruise was 653 m, with a diurnal cycle reaching its mean maximum of 1041 m at 12:00 local time, and its mean minimum of 450 m at 20:00 local time. Unfortunately, only 11% of the measurements were usable. This was due to ship instability in rough cruise conditions, lack of stabilization rig, water condensation attached to the eye lens, and high humidity attenuating the echo signal. We recommend against the use of the mini-MPL in this cruise region unless substantial improvements are made to the default setup, e.g., instrument stabilization, instrument protection cover, and more theoretical work taking into account atmospheric gas scattering or absorption.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/10/1695"
+  },
+  {
+    "title": "Analysis of Olive Grove Destruction by <i>Xylella fastidiosa</i> Bacterium on the Land Surface Temperature in Salento Detected Using Satellite Images",
+    "authors": [
+      "Teodoro Semeraro,",
+      "Riccardo Buccolieri,",
+      "Marzia Vergine,",
+      "Luigi De Bellis,",
+      "Andrea Luvisi,",
+      "Rohinton Emmanuel,",
+      "Norbert Marwan"
+    ],
+    "doi": "https://doi.org/10.3390/f12091266",
+    "journalVolume": "Vol. 12,\n                                no. 1266\n                                \n                                  p.\n                                  1266",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Agricultural activity replaces natural vegetation with cultivated land and it is a major cause of local and global climate change. Highly specialized agricultural production leads to extensive monoculture farming with a low biodiversity that may cause low landscape resilience. This is the case on the Salento peninsula, in the Apulia Region of Italy, where the Xylella fastidiosa bacterium has caused the mass destruction of olive trees, many of them in monumental groves. The historical land cover that characterized the landscape is currently in a transition phase and can strongly affect climate conditions. This study aims to analyze how the destruction of olive groves by X. fastidiosa affects local climate change. Land surface temperature (LST) data detected by Landsat 8 and MODIS satellites are used as a proxies for microclimate mitigation ecosystem services linked to the evolution of the land cover. Moreover, recurrence quantification analysis was applied to the study of LST evolution. The results showed that olive groves are the least capable forest type for mitigating LST, but they are more capable than farmland, above all in the summer when the air temperature is the highest. The differences in the average LST from 2014 to 2020 between olive groves and farmland ranges from 2.8 °C to 0.8 °C. Furthermore, the recurrence analysis showed that X. fastidiosa was rapidly changing the LST of the olive groves into values to those of farmland, with a difference in LST reduced to less than a third from the time when the bacterium was identified in Apulia six years ago. The change generated by X. fastidiosa started in 2009 and showed more or less constant behavior after 2010 without substantial variation; therefore, this can serve as the index of a static situation, which can indicate non-recovery or non-transformation of the dying olive groves. Failure to restore the initial environmental conditions can be connected with the slow progress of the uprooting and replacing infected plants, probably due to attempts to save the historic aspect of the landscape by looking for solutions that avoid uprooting the diseased plants. This suggests that social-ecological systems have to be more responsive to phytosanitary epidemics and adapt to ecological processes, which cannot always be easily controlled, to produce more resilient landscapes and avoid unwanted transformations.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/9/1266"
+  },
+  {
+    "title": "Utility-specific projections of electricity sector greenhouse gas emissions: a committed emissions model-based case study of California through 2050",
+    "authors": [
+      "Emily Grubert,",
+      "Jennifer Stokes-Draut,",
+      "Arpad Horvath,",
+      "William Eisenstein"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/abb7ad",
+    "journalVolume": "Vol. 15,\n                                no. 10\n                                \n                                  p.\n                                  1040a4",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The environmental profile of electricity is changing rapidly, motivating a need for provider- and time-specific estimates for accurate environmental assessment. This work shows that defensible, provider- and time-specific emissions projections can be derived from two major factors: committed emissions from existing power plants and policy restrictions on future system characteristics. This letter introduces a bottom–up, power plant-based model that projects utility-specific annual average greenhouse gas (GHG) intensity of electricity in the U.S. state of California for 2018–2050, believed to be the first openly available GHG emissions model with utility-specific projections. California is a useful case study for testing in part because of its strict regulatory GHG targets and the complexity of its electricity system, including limited asset ownership by utilities and substantial reliance on imported electricity. This plant-based approach to emissions projections bounds uncertainty in a way that less infrastructurally grounded approaches cannot. For example, emissions from unspecified sources of power can be estimated based on available plants. Based on historical power plant lifetimes, existing policy, and default model assumptions, the CO _2 intensity of Californian electricity is projected to drop from 175 kg CO _2 /MWh (sales + losses, 2020) to 95 kg CO _2 /MWh by 2030, operationally decarbonizing by 2047. Upstream methane leakage increases GHG intensity of natural gas-fired power plants by about 30%, assuming a 100 year time horizon and national average estimates for leakage (which likely underestimate leakage for California). Although drivers like market conditions also affect future outcomes, California’s current policy targets do not appear to require early retirement for utility generation assets, though up to about two gigawatts of extant in-state merchant capacity might be affected. Under current policy, new generating assets must either comply with the 100% clean electricity standard by 2045 or stop selling in California before the end of their expected useful life.",
+    "readLink": "https://doi.org/10.1088/1748-9326/abb7ad"
+  },
+  {
+    "title": "Snowmelt Runoff Analysis under Generated Climate Change Scenarios for the Juntanghu River Basin, in Xinjiang, China",
+    "authors": [
+      "Yue-Jian Wang,",
+      "Xian-Yong Meng,",
+      "Zhi-Hui Liu"
+    ],
+    "doi": "Vol. 7,\n                                no. 4\n                                \n                                  pp.\n                                  41\n                                  – 54",
+    "issn": "0187-8336 (Print)",
+    "publisher": "2007-2422 (Online)",
+    "countryOfPublisher": "Instituto Mexicano de Tecnología del Agua",
+    "lcc": [
+      "Mexico",
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.revistatyca.org.mx/",
+    "abstract": "Assessing snowmelt runoff in catchments without conducting intensive observations for water resource management is very important. This paper presents the modeling results of meltwater runoff in the Juntanghu River basin, where the river flow is dominated by glacier and snow meltwater from above the mid-altitude of the north central Tian Shan Mountains in Northwest China. The soil and water assessment tool (SWAT) model is used to assess the effects of potential climate change on the Juntanghu River basin. The model uses meteorological data, which include precipitation, temperature, wind, and solar radiation, to depict the impact of climate change on the river discharge in the Juntanghu watershed. The SWAT model is validated and verified against the observed discharge at the Hongshan reservoir at the outlet of the watershed from 1995 to 2010. The SWAT model can well differentiate between meltwater runoff from snow and that from glaciers in the basin. The R2 and Nash–Sutcliffe simulation efficiency values computed for the daily comparisons are 0.92 and 0.85 for the calibration period and 0.83 and 0.81 for the validation period, respectively. Experiments show that the hydrological cycle in the Juntanghu River basin may be altered under changing climatic scenarios. The mean annual stream flow changes in response to climate change projections are simulated using SWAT model. A rising mean temperature (T + 1 °C) in early spring results in a 2.14 times increase in the average daily stream flow (on February 27), whereas a higher rising temperature (T + 3 °C) results in an earlier snowmelt phenomenon. However, the snowmelt runoff from the preliminary to interim stages has less influence in relation to changes in the precipitation. The average daily flow changes of 1.07 times are predicted for precipitation change scenarios of 10%. The climate change scenarios show a large degree of uncertainty in terms of current climate change forecasts for the Juntanghu basin. The simulated Juntanghu hydrological cycle is also very sensitive to current forecasted climate changes under climate change conditions.",
+    "readLink": "http://www.revistatyca.org.mx/ojs/index.php/tyca/article/view/1258"
+  },
+  {
+    "title": "Comparison of Explicitly Simulated and Downscaled Tropical Cyclone Activity in a High-Resolution Global Climate Model",
+    "authors": [
+      "Hirofumi Tomita,",
+      "Masaki Satoh,",
+      "Yohei Yamada,",
+      "Kazuyoshi Oouchi,",
+      "Kerry Emanuel"
+    ],
+    "doi": "https://doi.org/10.3894/JAMES.2010.2.9",
+    "journalVolume": "Vol. 2\n                                \n                                \n                                  pp.\n                                  Art. # 9\n                                  – 9 pp.",
+    "issn": "1942-2466 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1942-2466/",
+    "abstract": "The response of tropical cyclone activity to climate change is a matter of great inherent interest and practical importance. Most current global climate models are not, however, capable of adequately resolving tropical cyclones; this has led to the development of downscaling techniques designed to infer tropical cyclone activity from the large-scale fields produced by climate models. Here we compare the statistics of tropical cyclones simulated explicitly in a very high resolution (~14 km grid mesh) global climate model to the results of one such downscaling technique driven by the same global model. This is done for a simulation of the current climate and also for a simulation of a climate warmed by the addition of carbon dioxide. The explicitly simulated and downscaled storms are similarly distributed in space, but the intensity distribution of the downscaled events has a somewhat longer high-intensity tail, owing to the higher resolution of the downscaling model. Both explicitly simulated and downscaled events show large increases in the frequency of events at the high-intensity ends of their respective intensity distributions, but the downscaled storms also show increases in low-intensity events, whereas the explicitly simulated weaker events decline in number. On the regional scale, there are large differences in the responses of the explicitly simulated and downscaled events to global warming. In particular, the power dissipation of downscaled events shows a 175% increase in the Atlantic, while the power dissipation of explicitly simulated events declines there.",
+    "readLink": "http://james.agu.org/index.php/JAMES/article/view/v2n9"
+  },
+  {
+    "title": "A decadal (2002-2014) analysis for dynamics of heterotrophic bacteria in an Antarctic coastal ecosystem: variability and physical and biogeochemical forcings",
+    "authors": [
+      "Hyewon Kim,",
+      "Hyewon Kim,",
+      "Hugh Ducklow,",
+      "Hugh Ducklow"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2016.00214",
+    "journalVolume": "Vol. 3",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "We investigated the dynamics of heterotrophic bacteria in the coastal western Antarctic Peninsula (WAP), using decadal (2002-2014) time series of two bacterial variables, bacterial production (BP) via 3H-leucine incorporation rates and bacterial biomass (BB) via bacterial abundance, collected at Palmer Antarctica Long Term Ecological Research (LTER) Station B (64.8°S, 64.1°W) over a full austral growing season (October-March). Strong seasonal and interannual variability in the degree of bacterial coupling with phytoplankton processes were observed with varying lags. On average, BP was only 4% of primary production (PP), consistent with low BP:PP ratios observed in polar waters. BP was more strongly correlated with chlorophyll (Chl), than with PP, implying that bacteria feed on DOC produced from a variety of trophic levels (e.g. zooplankton sloppy feeding and excretion) as well as directly on phytoplankton-derived DOC. The degree of bottom-up control on bacterial abundance was moderate and relatively consistent across entire growing seasons, suggesting that bacteria in the coastal WAP are under consistent DOC limitation. Temperature also influenced BP rates, though its effect was weaker than DOC. We established generalized linear models (GLMs) for monthly composites of BP and BB via stepwise regression to explore a set of physical and biogeochemical predictors. Physically, high BP and large BB were shaped by a stratified water-column, similar to forcing mechanisms favoring phytoplankton blooms, but high sea surface temperature (SST) also significantly promoted bacterial processes. High BP and large BB were influenced by high PP and bulk DOC concentrations. Based on these findings, we suggest an increasingly important role of marine heterotrophic bacteria in the coastal WAP food-web as climate change introduces a more favorable environmental setting for promoting BP, with increased DOC from retreating glaciers, a more stabilized upper water-column from ice-melt, and a baseline shift of water temperature due to more frequent delivery of warming Upper Circumpolar Deep Water (UCDW) onto the WAP shelf.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fmars.2016.00214/full"
+  },
+  {
+    "title": "Indigenous knowledge and community-based risk assessment of climate change among the Fulani Herder Community of Kpongu, North-Western Ghana",
+    "authors": [
+      "Lambert Abatanie Napogbong,",
+      "Maximillian Kolbe Domapielle,",
+      "Emmanuel Kanchebe Derbile"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2020.236",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  pp.\n                                  484\n                                  – 501",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "Given rising concerns about climate change and development in Africa, this paper draws on Community Risk Assessment for mapping the risks of Fulani Herders to climate change in North-Western Ghana. Herder communities are seldom explored in climate change related studies although their livelihoods largely depend on the natural environment. Thus, a case study of the Fulani Herder Community of Kpongu in the Wa Municipality was conducted. The design employed Participatory Rural Appraisal instruments for data collection and analysis. The results reveal multiple indicators of climate change, including longer dry seasons and dry spells, shrinking sizes of water bodies, formation of iron pans on top soils, stunted growth of grass species, smaller grass stalks and less concentration of grasses. These have culminated into scarcity of fodder and water and increased distances of cattle herding under excruciating sunshine and temperatures in search of feed and water as an adaptive mechanism. The paper underscores that herder knowledge of climate change reveals a drying trend in climate and de-concentration in vegetation, especially grass species. The paper advocates climate change adaptation planning and policy attention to providing supplementary sources of water and feed in support of cattle herding and herder communities for climate change adaptation.",
+    "readLink": "http://jwcc.iwaponline.com/content/12/2/484"
+  },
+  {
+    "title": "Vulnerability to climate change in smallholder farming households: a case study of Eritrea",
+    "authors": [
+      "Ghebreselassie Debesai,",
+      "Makeev Vlad,",
+      "Kushnarenko Tatyana"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202021011005",
+    "journalVolume": "Vol. 210\n                                \n                                \n                                  p.\n                                  11005",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Climate change is adversely affecting smallholder farming households in Eritrea mainly due to the dependence their livelihood to the climate-regulated activity. This study examines the degree of vulnerability of smallholder farming households in Eritrea using a Vulnerability Livelihood Index (VLI). Major components of vulnerability to climate change were identified as Exposure, Sensitivity and Adaptive Capacity. More than 88% of the farming households were found to be vulnerable or highly vulnerable to climate change as a result of the combined effect of their exposure to external factors, sensitivity to internal factors, and lower adaptive capacity. Female-headed households and those belonging to disadvantaged low-income groups were more vulnerable and in need of being preferentially targeted by policy measures. Improving human resource development by focusing on education and health, and enhancing adaptive capacity by focusing on access to food and water can develop the resilience of the farming households.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/70/e3sconf_itse2020_11005.pdf"
+  },
+  {
+    "title": "Communicating science to motivate action: A case study of birds and climate change",
+    "authors": [
+      "Chad B. Wilsey,",
+      "Brooke Bateman,",
+      "Liz Pomper,",
+      "Jennifer Bogo,",
+      "Robyn Shepherd"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2022.918948",
+    "journalVolume": "Vol. 4",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "Climate change is an existential threat to biodiversity and people, but building political will for action on climate change remains elusive. Research on climate change communications to increase effectiveness at motivating action include these recommendations: pairing risk and opportunity in message framing, localizing information, and appealing to a sense of place. Here, we present a case study on mobilizing bird enthusiasts to take action on climate change. The science communicated found that over two-thirds of North American birds are moderately or highly vulnerable to climate change under a 3.0°C warming scenario. Of these climate-vulnerable species, 76% would have reduced vulnerability if warming were stabilized at 1.5°C. These findings were summarized and communicated with the public in an award-winning interactive website, the “Birds and Climate Visualizer,” that allowed individuals to look up any location by postal ZIP code and learn what birds would be impacted by climate. Also included was a Climate Action Handbook providing sample personal actions. The communications rollout earned 2.5 billion media impressions, the visualizer has been used at least 42,000 times, and handbook circulated to 250,000 households. More than 33,000 people read headlines from the report or explored the visualizer and then completed an online action in support of clean energy policies. The message frame combined with the visualizer and handbook as tools to deliver the frame have contributed to climate legislative wins in four states. These early successes suggest that message and visual online tools that localize and personalize a message are effective to motivate action.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2022.918948/full"
+  }
+]

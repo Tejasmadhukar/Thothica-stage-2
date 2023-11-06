@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Paleolimnology as a Tool to Achieve Environmental Sustainability in the Anthropocene: An Overview",
+    "authors": [
+      "Émilie Saulnier-Talbot"
+    ],
+    "doi": "https://doi.org/10.3390/geosciences6020026",
+    "journalVolume": "Vol. 6,\n                                no. 2\n                                \n                                  p.\n                                  26",
+    "issn": "2076-3263 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/geosciences",
+    "abstract": "Lacustrine sediment accumulation provides meaningful and diverse long-term records of environmental change. This overview highlights the usefulness of the paleolimnological approach in evaluating the magnitude and direction of human-induced environmental change in lakes and their catchments. Because of the services they provide, freshwater ecosystems have always been significantly affected by human activities. However, the rate and extent of human-induced change in continental freshwaters and their catchments has considerably increased since the beginning of industrialization (mid-18th century), and are even more pronounced since the advent of the “Great Acceleration” (since the mid-20th century). Global change, including climate and landscape changes, loss of biodiversity, species introductions and the spread of pollutants, leave traces in lake sediment archives that provide valuable long-term information with which to evaluate and quantify past environmental changes. This paper outlines how the knowledge gleaned from an interdisciplinary paleolimnological approach can benefit the development of mitigation and adaptation measures to current global change at various latitudes.",
+    "readLink": "http://www.mdpi.com/2076-3263/6/2/26"
+  },
+  {
+    "title": "RNA-Seq of the Caribbean reef-building coral Orbicella faveolata (Scleractinia-Merulinidae) under bleaching and disease stress expands models of coral innate immunity",
+    "authors": [
+      "David A. Anderson,",
+      "Marcus E. Walz,",
+      "Ernesto Weil,",
+      "Peter Tonellato,",
+      "Matthew C. Smith"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.1616",
+    "journalVolume": "Vol. 4\n                                \n                                \n                                  p.\n                                  e1616",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Climate change-driven coral disease outbreaks have led to widespread declines in coral populations. Early work on coral genomics established that corals have a complex innate immune system, and whole-transcriptome gene expression studies have revealed mechanisms by which the coral immune system responds to stress and disease. The present investigation expands bioinformatic data available to study coral molecular physiology through the assembly and annotation of a reference transcriptome of the Caribbean reef-building coral, Orbicella faveolata. Samples were collected during a warm water thermal anomaly, coral bleaching event and Caribbean yellow band disease outbreak in 2010 in Puerto Rico. Multiplex sequencing of RNA on the Illumina GAIIx platform and de novo transcriptome assembly by Trinity produced 70,745,177 raw short-sequence reads and 32,463 O. faveolata transcripts, respectively. The reference transcriptome was annotated with gene ontologies, mapped to KEGG pathways, and a predicted proteome of 20,488 sequences was generated. Protein families and signaling pathways that are essential in the regulation of innate immunity across Phyla were investigated in-depth. Results were used to develop models of evolutionarily conserved Wnt, Notch, Rig-like receptor, Nod-like receptor, and Dicer signaling. O. faveolata is a coral species that has been studied widely under climate-driven stress and disease, and the present investigation provides new data on the genes that putatively regulate its immune system.",
+    "readLink": "https://peerj.com/articles/1616.pdf"
+  },
+  {
+    "title": "The Role of Micro-Hydropower Energy Recovery in the Water-Energy-Food Nexus",
+    "authors": [
+      "Aonghus McNabola,",
+      "Aida Mérida García,",
+      "Juan Antonio Rodríguez Díaz"
+    ],
+    "doi": "https://doi.org/10.3390/environsciproc2022021027",
+    "journalVolume": "Vol. 21,\n                                no. 27\n                                \n                                  p.\n                                  27",
+    "issn": "2673-4931 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/environsciproc",
+    "abstract": "The potential for the generation of pico- and micro-hydropower through hydraulic energy recovery has been demonstrated across many sectors of the water-energy-food nexus, often termed hidden hydropower. The potential to recover energy from hidden hydropower in water supply, crop production, food processing, and energy production has been demonstrated via numerous in-depth case studies, regional assessments, and physical experiments. This paper presents a holistic overview of the potential role and impacts of micro-hydropower energy recovery on the water-energy-food nexus in the context of climate change. The paper comprises a review and synthesis of the available literature. The paper outlines the potential impacts of hidden hydropower on cost of water supply, energy and food production, considering also the potential impacts on crop yield and food supply. Policy and technological barriers to the exploitation of hidden hydropower resources within the nexus are outlined and recommendations to overcome these are provided. The results of this investigation highlight the potential of micro-hydropower energy recovery in water systems to reduce energy consumption by 0.005–3.7% across various sectors and regions, with consequent impacts in the operating and consumer costs of food, water and energy, as well as on the CO2 emissions of these activities. This hidden hydropower has the potential to ease the pressures of the water-energy-food nexus and is an important element of the route towards sustainability within the nexus.",
+    "readLink": "https://www.mdpi.com/2673-4931/21/1/27"
+  },
+  {
+    "title": "The Use of Remote Sensing Data to Estimate Land Area with Forest Vegetation Cover in the Context of Selected Forest Definitions",
+    "authors": [
+      "Tomasz Hycza,",
+      "Agnieszka Kamińska,",
+      "Krzysztof Stereńczak"
+    ],
+    "doi": "https://doi.org/10.3390/f12111489",
+    "journalVolume": "Vol. 12,\n                                no. 1489\n                                \n                                  p.\n                                  1489",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "(1) Background: Like many other countries, Poland is obliged to report forest area to the Climate Convention (UNFCCC Kyoto Protocol) and the Food and Agriculture Organization of the United Nations (FAO/UN). Differences between national and international forest definitions lead to differences between actual and reported forest area. Remote sensing is a useful tool for estimating forest area for reporting purposes. One of the most important parts of the estimation is the choice of a basal area to calculate the percentage of vegetation cover. (2) Methods: Height, crown projection area, and minimum complex area were used to classify the area with forest vegetation. Percentage canopy cover was determined using three different methods based on segmentation polygons, triangular grid and canopy height model pixels. The accuracy of the above methods was verified by manual vectorization performed on a selected set of test plots in the Milicz study area according to the international definitions. The differences were examined using three statistical metrics. (3) Conclusions: This paper compares for the first time methods for determining the area for which canopy cover is calculated (using data from (ALS) and discusses the differences between them in the context of accuracy (the correspondence between the results and the reference data) and the complexity of the process (time and effort required to perform the analysis). This is important in the context of reporting, estimating carbon stocks and biodiversity to mitigate the effects of climate change. Method 2 proved to be the most accurate method, Method 1 was found to be the worst option. Accuracy was better in the case of the Kyoto Protocol definition.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/11/1489"
+  },
+  {
+    "title": "A regime shift in North Pacific annual mean sea surface temperature in 2013/14",
+    "authors": [
+      "Dong Xiao,",
+      "Dong Xiao,",
+      "Hong-Li Ren"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2022.987349",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "This study revealed a new regime shift in the North Pacific annual mean sea surface temperature (SST) in 2013/14, robust in multiple SST data sets. This regime shift shows a horseshoe pattern with warming SST along the North American western coast and toward the Central Pacific. It suggests a phase reversal of the Victoria Mode (VM) and it seems unrelated to the shift in the Pacific Decadal Oscillation (PDO) and Interdecadal Pacific Oscillation (IPO). Associated with this regime shift, the annual surface air temperature significantly enhanced over the high-latitude landmass after 2014, whereas it declined over northeastern Canada and southwestern Greenland. The annual precipitation generally increased (decreased) in the Northern (Southern) Hemisphere landmass monsoon regions. There are no regime shifts in Equatorial Central-East Pacific SST and the intensity and locations of the Aleutian Low around 2013/14. These facts suggest the regime shift of North Pacific SST in 2013/14 may not originate from the decadal variations of the midlatitude atmosphere and tropical ocean. The extensive influence of this regime shift in 2013/14 on the atmospheric, oceanic and ecological systems warrants further investigation.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2022.987349/full"
+  },
+  {
+    "title": "Is the Life History Flexibility of Cold Desert Annuals Broad Enough to Cope with Predicted Climate Change? The Case of <i>Erodium oxyrhinchum</i> in Central Asia",
+    "authors": [
+      "Huiliang Liu,",
+      "Yanfeng Chen,",
+      "Lingwei Zhang,",
+      "Jerry M. Baskin,",
+      "Carol C. Baskin,",
+      "Lan Zhang,",
+      "Yan Liu,",
+      "Daoyuan Zhang,",
+      "Yuanming Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/biology10080780",
+    "journalVolume": "Vol. 10,\n                                no. 780\n                                \n                                  p.\n                                  780",
+    "issn": "2079-7737 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biology",
+    "abstract": "Interannual seasonal variability in precipitation may strongly affect the life history and growth of desert annual plants. We compared the effects of dry and wet springs and dry and wet autumns on growth and F2 seed dormancy of plants from spring (SG)- and autumn (AG)-germinated seeds of the cold desert annual Erodium oxyrhinchum. Vegetative and reproductive growth and F2 seed dormancy and germination were monitored from September 2016 to November 2020 in the sandy Gurbantunggut Desert in NW China in Central Asia. Dry autumns decreased the density of AG plants, and dry springs decreased the density of SG plants and growth of SG and AG plants. In dry springs, SG plants were more sensitive to precipitation than AG plants, while in wet springs SG and AG plants had similar responses to precipitation. During growth in both dry and wet springs, most morphological characters of SG and AG plants initially increased rapidly in size/number and then plateaued or decreased, except for SG plants in dry springs. In dry springs, most morphological characters of AG plants were larger or more numerous than those of SG plants, and they were larger/more numerous for SG plants in wet than in dry springs. The percentage biomass allocated to reproduction in SG plants was slightly higher in a wet than in a dry spring. A much higher proportion of dormant seeds was produced by AG plants in a wet spring than in a dry spring. Projected changes in precipitation due to climate change in NW China are not likely to have much of an effect on the biology of this common desert annual plant.",
+    "readLink": "https://www.mdpi.com/2079-7737/10/8/780"
+  },
+  {
+    "title": "The Use Of Standardized Indicators (SPI And SPEI) In Predicting Droughts Over The Republic Of Moldova Territory",
+    "authors": [
+      "Nedealcov M.,",
+      "Răileanu V.,",
+      "Sîrbu R.,",
+      "Cojocari R."
+    ],
+    "doi": "https://doi.org/10.1515/pesd-2015-0032",
+    "journalVolume": "Vol. 9,\n                                no. 2\n                                \n                                  pp.\n                                  149\n                                  – 158",
+    "issn": "2284-7820 (Online)",
+    "publisher": "Alexandru Ioan Cuza University Press, Iasi, Romania",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.pesd.ro/",
+    "abstract": "The drought events frequent manifestation over the Republic of Moldova territory, in the context of climate change requires a scientific monitoring adjusted to international researchers. In recent years, internationally, the estimation of this phenomenon occurs through standardized indexes. The most used of these, being the Standardized Precipitation Index (SPI) and the Standardized Precipitation Evapotranspiration Index (SPEI). Since there is no a unified definition of drought, the World Meteorological Organization proposes to calculate the indexes, through developed calculation software. Thus, based on multi-annual data (1980-2014) a regional spatio-temporal estimation concerning drought in the Republic of Moldova was performed, thereby realizing the regional investigations framing in the international ones.",
+    "readLink": "http://www.degruyter.com/view/j/pesd.2015.9.issue-2/pesd-2015-0032/pesd-2015-0032.xml?format=INT"
+  },
+  {
+    "title": "Contrasting holm oak provenances show different field performance but similar resilience to drought events eight years after planting in a Mediterranean environment",
+    "authors": [
+      "Andivia E,",
+      "Natalini F,",
+      "Fernández M,",
+      "Alejano R,",
+      "Vázquez-Piqué J"
+    ],
+    "doi": "https://doi.org/10.3832/ifor2573-011",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  259\n                                  – 266",
+    "issn": "1971-7458 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://iforest.sisef.org",
+    "abstract": "Diversification of genetic plant material in forest plantations is viewed as a promising strategy to promote forest adaptation and resilience to ongoing climate change. However, there is an intense debate about whether foreign populations might outperform local ones under new climatic conditions. Unfortunately, long-term experiments using contrasting provenances are scarce, especially in the Mediterranean region. In this context, the evaluation of the resistance and resilience of individuals from different provenances to drought can help to forecast their performance under different climate change scenarios, and therefore to establish guideline regarding plant material selection in reforestation projects. We evaluated the performance (survival and drought) and drought sensitivity of Quercus ilex saplings from two contrasting provenances growing during eight years in a common garden experiment. For this, we used a combination of dendroecological methods and water-relation measurements, such as leaf water potential (Ψpd), cuticular transpiration (Ec), relative water content at the point of stomatal closure (RWCc) and specific leaf area (SLA). We also compared the resilience and resistance, in terms of radial growth to the intense drought event of 2012 between saplings from both provenances. Our results suggest a lack of idiosyncratic physiological response and growth sensitivity to drought between provenances. However, saplings from the drier provenance showed a superior performance in terms of survival and growth. Survival was greater in saplings from the dry provenance (100 vs. 91 %). Mean annual basal area increment was also greater in saplings from the dry provenance (158.8 ± 13.5 vs. 96.2 ± 8.4 mm2), which resulted in greater diameter eight year after planting (47.5 ± 2.8 vs. 38.3 ± 2.3 mm). The lower values of Ψpd, Ec and SLA in the summer of the first two years after planting suggest that climatic conditions after planting rather than isolated drought events was the most critical period for the success of these saplings. In view of our results, the selection of plant material for forest plantation should be carefully evaluated in forest restoration projects, while priority should be given to those actions oriented to increase the early survival of local Q. ilex seedlings.",
+    "readLink": "https://iforest.sisef.org/contents/?id=ifor2573-011"
+  },
+  {
+    "title": "Climate-Smart Agriculture in African Countries: A Review of Strategies and Impacts on Smallholder Farmers",
+    "authors": [
+      "Thaddaeus Obaji Ariom,",
+      "Elodie Dimon,",
+      "Eva Nambeye,",
+      "Ndèye Seynabou Diouf,",
+      "Oludotun Olusegun Adelusi,",
+      "Sofiane Boudalia"
+    ],
+    "doi": "https://doi.org/10.3390/su141811370",
+    "journalVolume": "Vol. 14,\n                                no. 11370\n                                \n                                  p.\n                                  11370",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The agricultural sector contributes approximately 10–20% of the total anthropogenic greenhouse gas (GHGs) emissions. Consequently, climate change can negatively affect crop yields and livestock production thus threatening food security, especially in a vulnerable continent like Africa. This review provides an overview of climate-smart agriculture (CSA) practices and their impacts on smallholder farmers in five African countries (Algeria, Senegal, Benin, Nigeria and Zambia). A total of 164 published articles on CSA practices were reviewed. Analysis of extracted data showed that CSA practices are classified as follows: agricultural practices, restoration practices of degraded lands, forest and cropland regeneration practices, practices in the livestock sub-sector, water resources and use of weather and climate information services. Moreover, climate change effects differed alongside strategies adapted from one country to another. Adoption of these strategies was often influenced by financial means put in place by governments, the role of policy legislation, access to climate information and farmers’ intellectual level. To address this deficiency, scientific-outcome-based research should be used to increase the effectiveness of climate adaptation management programs. In conclusion, to enhance the uptake of climate-smart agricultural practices in Africa, this review recommends the use of scientific-research-driven adaptation measures and prioritization of climate change in governments’ agendas.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/18/11370"
+  },
+  {
+    "title": "From glacial erosion to basin overfill: a 240&thinsp;m-thick overdeepening–fill sequence in Bern, Switzerland",
+    "authors": [
+      "M. A. Schwenk,",
+      "P. Schläfli,",
+      "P. Schläfli,",
+      "P. Schläfli,",
+      "D. Bandou,",
+      "N. Gribenski,",
+      "G. A. Douillet,",
+      "F. Schlunegger"
+    ],
+    "doi": "https://doi.org/10.5194/sd-30-17-2022",
+    "journalVolume": "Vol. 30\n                                \n                                \n                                  pp.\n                                  17\n                                  – 42",
+    "issn": "1816-8957 (Print)",
+    "publisher": "1816-3459 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.scientific-drilling.net/",
+    "abstract": "We drilled a 210 m-thick succession of Quaternary sediments and extended it 30 m upsection with information that we collected from an adjacent outcrop. In the 240 m-thick succession we identified 12 different lithofacies, grouped them into five facies assemblages, and distinguished two major sedimentary sequences. A sharp contact at 103 m depth cuts off cross-beds in sequence A and separates them from the overlying horizontal beds in sequence B. Although the lowermost facies assemblage of each sequence includes a till deposited during a period of ice cover, the two tills differ from each other. In particular, the till at the base of sequence A is dominated by large clasts derived from the underlying Molasse bedrock, whereas the till at the base of sequence B has no such Molasse components. Furthermore, the till in sequence A bears evidence of glaciotectonic deformation. Both tills are overlain by thick assemblages of subaqueous, most likely glaciolacustrine and lacustrine facies elements. The cross-bedded and steeply inclined sand, gravel, and diamictic beds of sequence A are interpreted as deposits of density currents in a subaqueous ice-contact fan system within a proglacial lake. In contrast, the lacustrine sediments in sequence B are considered to record a less energetic environment where the material was most likely deposited in a prodelta setting that gradually developed into a delta plain. Towards the top, sequence B evolves into a fluvial system recorded in sequence C, when large sediment fluxes of a possibly advancing glacier resulted in a widespread cover of the region by a thick gravel unit. Feldspar luminescence dating on two samples from a sand layer at the top of sequence B provided uncorrected ages of 250.3 ± 80.2 and 251.3 ± 59.8 ka. The combination of these ages with lithostratigraphic correlations of sedimentary sequences encountered in neighboring scientific drillings suggests that sequence B was deposited between Marine Isotope Stage 8 (MIS 8; 300–243 ka) and MIS 7 (243–191 ka). This depositional age marks the end of one stage of overdeepening–fill in the perialpine Aare Valley near Bern.",
+    "readLink": "https://sd.copernicus.org/articles/30/17/2022/sd-30-17-2022.pdf"
+  }
+]

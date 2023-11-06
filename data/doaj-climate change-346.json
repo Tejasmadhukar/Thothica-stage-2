@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Reforestation or Genetic Disturbance: A Case Study of <i>Pinus thunbergii</i> in the Iki-no-Mastubara Coastal Forest (Japan)",
+    "authors": [
+      "Aziz  Akbar Mukasyaf,",
+      "Koji Matsunaga,",
+      "Miho Tamura,",
+      "Taiichi Iki,",
+      "Atsushi Watanabe,",
+      "Masakazu  G. Iwaizumi"
+    ],
+    "doi": "https://doi.org/10.3390/f12010072",
+    "journalVolume": "Vol. 12,\n                                no. 72\n                                \n                                  p.\n                                  72",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "In the twentieth century, a substantial decline in Pinus thunbergii populations in Japan occurred due to the outbreak of pine wood nematode (PWN), Burshaphelencus xylophilus. A PWN-P. thunbergii resistant trees-breeding project was developed in the 1980s to provide reforestation materials to minimalize the pest damage within the population. Since climate change can also contribute to PWN outbreaks, an intensive reforestation plan instated without much consideration can impact on the genetic diversity of P. thunbergii populations. The usage and deployment of PWN-P. thunbergii resistant trees to a given site without genetic management can lead to a genetic disturbance. The Iki-no-Matsubara population was used as a model to design an approach for the deployment management. This research aimed to preserve local genetic diversity, genetic structure, and relatedness by developing a method for deploying Kyushu PWN-P. thunbergii resistant trees as reforestation-material plants into Iki-no-Matsubara. The local genotypes of the Iki-no-Matsubara population and the Kyushu PWN-P. thunbergii resistant trees were analyzed using six microsatellite markers. Genotype origins, relatedness, diversity, and structure of both were investigated and compared with the genetic results previously obtained for old populations of P. thunbergii throughout Japan. A sufficient number of Kyushu PWN-P. thunbergii resistant trees, as mother trees, within seed orchards and sufficient status number of the seedlings to deploy are needed when deploying the Kyushu PWN-P. thunbergii resistant trees as reforestation material planting into Iki-no-Matsubara population. This approach not only be used to preserve Iki-no-Matsubara population (genetic diversity, genetic structure, relatedness, and resilience of the forests) but can also be applied to minimize PWN damage. These results provide a baseline for further seed sourcing as well as develop genetic management strategies within P. thunbergii populations, including Kyushu PWN-P. thunbergii resistant trees.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/1/72"
+  },
+  null,
+  {
+    "title": "Ultraviolet radiation modelling from ground-based and satellite measurements on Reunion Island, southern tropics",
+    "authors": [
+      "K. Lamy,",
+      "T. Portafaix,",
+      "C. Brogniez,",
+      "S. Godin-Beekmann,",
+      "H. Bencherif,",
+      "H. Bencherif,",
+      "B. Morel,",
+      "A. Pazmino,",
+      "J. M. Metzger,",
+      "F. Auriol,",
+      "C. Deroo,",
+      "V. Duflot,",
+      "P. Goloub,",
+      "C. N. Long"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-227-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  227\n                                  – 246",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Surface ultraviolet radiation (SUR) is not an increasing concern after the implementation of the Montreal Protocol and the recovery of the ozone layer Morgenstern et al.(2008). However, large uncertainties remain in the prediction of future changes of SUR Bais et al.(2015). Several studies pointed out that UV-B impacts the biosphere Erickson et al.(2015), especially the aquatic system, which plays a central part in the biogeochemical cycle Hader et al.(2007). It can affect phytoplankton productivity Smith and Cullen(1995). This influence can result in either positive or negative feedback on climate (Zepp et al., 2007). Global circulation model simulations predict an acceleration of the Brewer-Dobson circulation over the next century (Butchart, 2014), which would lead to a decrease in ozone levels in the tropics and an enhancement at higher latitudes (Hegglin and Shepherd, 2009). Reunion Island is located in the tropics (21° S, 55° E), in a part of the world where the amount of ozone in the ozone column is naturally low. In addition, this island is mountainous and the marine atmosphere is often clean with low aerosol concentrations. Thus, measurements show much higher SUR than at other sites at the same latitude or at midlatitudes. Ground-based measurements of SUR have been taken on Reunion Island by a Bentham DTMc300 spectroradiometer since 2009. This instrument is affiliated with the Network for the Detection of Atmospheric Composition Change (NDACC). In order to quantify the future evolution of SUR in the tropics, it is necessary to validate a model against present observations. This study is designed to be a preliminary parametric and sensitivity study of SUR modelling in the tropics. We developed a local parameterisation using the Tropospheric Ultraviolet and Visible Model (TUV; Madronich, 1993) and compared the output of TUV to multiple years of Bentham spectral measurements. This comparison started in early 2009 and continued until 2016. Only clear-sky SUR was modelled, so we needed to sort out the clear-sky measurements. We used two methods to detect cloudy conditions: the first was based on an observer's hourly report on the sky cover, while the second was based on applying Long and Ackerman(2000)'s algorithm to broadband pyranometer data to obtain the cloud fraction and then discriminating clear-sky windows on SUR measurements. Long et al. (2006)'s algorithm, with the co-located pyranometer data, gave better results for clear-sky filtering than the observer's report. Multiple model inputs were tested to evaluate the model sensitivity to different parameters such as total ozone column, aerosol optical properties, extraterrestrial spectrum or ozone cross section. For total column ozone, we used ground-based measurements from the SAOZ (Système d'Analyse par Observation Zénithale) spectrometer and satellite measurements from the OMI and SBUV instruments, while ozone profiles were derived from radio-soundings and the MLS ozone product. Aerosol optical properties came from a local aerosol climatology established using a Cimel photometer. Since the mean difference between various inputs of total ozone column was small, the corresponding response on UVI modelling was also quite small, at about 1 %. The radiative amplification factor of total ozone column on UVI was also compared for observations and the model. Finally, we were able to estimate UVI on Reunion Island with, at best, a mean relative difference of about 0.5 %, compared to clear-sky observations.",
+    "readLink": "https://www.atmos-chem-phys.net/18/227/2018/acp-18-227-2018.pdf"
+  },
+  null,
+  {
+    "title": "A 17-year time-series of diatom populations‘ flux and composition in the Mauritanian coastal upwelling",
+    "authors": [
+      "Oscar E. Romero,",
+      "Oscar E. Romero,",
+      "Simon Ramondenc,",
+      "Simon Ramondenc"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.1006345",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Understanding seasonal and multiyear variability of primary producers’ populations in the Mauritanian coastal upwelling system along the northwestern African margin may help to predict future impact of climate change (e.g., nutrient availability, productivity, and phyto- and zooplankton dynamics). For this, continuous, long time-series are required. A major challenge in obtaining these time-series is the logistics associated with the uninterrupted, in-situ sampling over several years. Sediment traps represent a reliable alternative. In this study, we assess the variations of the diatom community in samples almost continuously collected between June 2003 and March 2020 with 17 sediment traps deployed at site CBeu (=Cape Blanc eutrophic), located at c. 20°N-18°45’W, offshore Mauritania in the Canary Current Eastern Boundary Upwelling Ecosystems (CC-EBUE). In addition to describing the multiyear dynamics of the total diatom flux and major shifts in the species-specific composition of the populations, our study addresses questions such as (i) how constant is the intrannual pattern of populations’ occurrence, (ii) what the amplitude of annual changes is, and (iii) how populations’ shifts relate to physical setting dynamics. Matching the occurrence of most intense seasonal upwelling, highest diatom flux maxima mainly occur in spring and summer between 2003 and 2020. The diverse diatom community (e.g., benthic, coastal upwelling, coastal planktonic, and open-ocean diatoms) closely follows the annual cycle of atmospheric and hydrologic conditions. Benthic diatoms dominate during spring and summer (e.g., upwelling season), while open-ocean diatoms contribute the most in fall and winter when the upper water column stratifies. As no persistent –either decreasing or increasing trend of diatom productivity over the 17 sampled years, our results are at odds with Bakun’s hypothesis of upwelling intensification. Anchoring temporal changes of diatoms in a wider environmental frame allows for insights into the complex dynamics of the Mauritanian upwelling ecosystem and the populations’ response to climate forcing. This helps in establishing the scientific basis for modeling future states of the CC-EBUE and/or comparable environments.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.1006345/full"
+  },
+  {
+    "title": "Turning energy around: an interactive exhibition experience",
+    "authors": [
+      "Sarah Kellberg,",
+      "Christina Newinger"
+    ],
+    "doi": "https://doi.org/10.15180/180909",
+    "journalVolume": "no. 09",
+    "issn": "2054-5770 (Online)",
+    "publisher": "Science Museum, London",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "General Works: History of scholarship and learning. The humanities",
+      "General Works: Museums. Collectors and collecting"
+    ],
+    "journalUrl": "http://journal.sciencemuseum.org.uk/",
+    "abstract": "A transition from the fossil-fuel driven to a sustainable energy system is an enormous global challenge: climate change and finite resources require countries all over the world to change their way of producing, transporting and using energy. The Energiewende (energy transition) will require major changes in the current energy supply system in Germany – but also worldwide. These changes will not only affect the technical sector but will also include ecological questions, social issues and political matters. Whether any transition is going to favour large scale solutions or decentralised technologies depends on local situations and global interconnections, and above all on a democratic process. Hence energy transition succeeds or fails with the acceptance and participation of society. To deal with this overwhelmingly complex topic and its multi-layered dependencies, the Deutsches Museum has designed an exhibition providing visitors with background knowledge about the necessities and challenges of energy transition, unpicking the links between the different technical, economic and social challenges. The exhibition accomplishes the task with an engaging and facilitating approach while taking into account the highly emotive aspects of energy transition as a societal issue. This paper presents the concept of the travelling exhibition energie.wenden, relating it to the Deutsches Museum´s tradition of exhibitions as well as to the challenge of how to deal with socio-scientific topics in scientific exhibitions.",
+    "readLink": "http://journal.sciencemuseum.org.uk/browse/issue-09/turning-energy-around/"
+  },
+  {
+    "title": "Between Drought and Disparity: American Indian Farmers, Resource Bureaucracy, and Climate Vulnerability in the Southern Plains",
+    "authors": [
+      "Tony VanWinkle,",
+      "Jack Friedman"
+    ],
+    "doi": "https://doi.org/10.5304/10.5304/jafscd.2019.09B.022",
+    "journalVolume": "Vol. 9,\n                                no. B",
+    "issn": "2152-0798 (Print)",
+    "publisher": "2152-0801 (Online)",
+    "countryOfPublisher": "Lyson Center for Civic Agriculture and Food Systems",
+    "lcc": [
+      "United States",
+      "Agriculture",
+      "Social Sciences: Communities. Classes. Races: Human settlements. Communities"
+    ],
+    "journalUrl": "https://www.foodsystemsjournal.org",
+    "abstract": "Based on research conducted with American Indian farmers and ranchers in southwestern Oklahoma, this paper interrogates how agricultural resource bureaucracies differentially constrain or enable resilience to climate variability. We demon­strate that while extreme weather events have been a persistent impediment to agriculture in the region, for American Indian farmers and ranchers, such efforts have been equally impeded by a his­tory of negative interaction with opaque and fre­quently indifferent systems of overlapping, yet dis­junctive, bureaucracy. Thus we are concerned with precisely how structural vulnerability and climate vulnerability are reproduced in tandem and how such structural constraints have circumscribed nas­cent food sovereignty efforts. Drawing on our research into how farmers in southwest Oklahoma understand the interaction between the impacts—potential and/or experienced—of climate change and different relationships to agriculture and nature, we demonstrate how demoralization and social defeat emerge from the failures of local resource bureaucracies. Those agencies have, ironi­cally, contributed to the vulnerability of the very population they have been established to serve. What we will show is that, caught between the opacity and bureaucratic posturing of two federal resource agencies, many American Indian land­owners simply give up.",
+    "readLink": "https://www.foodsystemsjournal.org/index.php/fsj/article/view/766"
+  },
+  {
+    "title": "Findings on the atmospheric humidity balance over Europe on the basis of aerological measurements.",
+    "authors": [
+      "L. NYITRAI,",
+      "R. TÓTH"
+    ],
+    "doi": "https://doi.org/10.24193/AWC2017_05",
+    "journalVolume": "Vol. 2017,\n                                no. 2017\n                                \n                                  pp.\n                                  34\n                                  – 41",
+    "issn": "2067-743X (Print)",
+    "publisher": "Cluj University Press",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://aerapa.conference.ubbcluj.ro/",
+    "abstract": "There are countries suffering water shortages in all continents and lack of water can be potential cause of political conflicts in the near future. The Water Summit organised in Budapest both in 2013 and 2016 tried to promote the effective and sustainable water management and sanitation. On this occasion we want to give an overview on changes in the humidity climate of the atmosphere over Europe in the last four decades. An imaginary screen, a vertical wall was drawn around Europe and we examined how much moisture flux passed through it. We focused on the relative change of that parameter paying attention also to other variables of climate change, especially the temperature. We surround the central core of our continent – that is most exposed to drought – as a possible closed curve by a series of upper air stations, e.g.: Lerwick (UK), Brest (FR), Santiago de Compostella and Madrid (ES), Ajaccio (FR), Milan (IT), Thessaloniki (GR), Istanbul (TR), Bucharest (RO), Odessa (UA), Leba (PL), Schlezwig (GE). We want to know to what extent the changes in detected moisture level could be caused by the changes in evaporation pattern over the oceans playing decisive role in the atmospheric moisture content. There is a simplistic concept that, if the sea surface warms, it can grow the evaporation and so the water content in the atmosphere, which reduces rainfall deficit over the lands as a result of the general atmospheric circulation. But this is not such a simple process, because the stability of the vertical structure of the atmosphere over the seas that are predominantly involved in the moisture emission is important fact. On the other hand changes in wind that is the horizontal transport should be taken into account. First we expected the stability over the seas to increase and for this reason there is a lack of precipitation on a global scale. Contrarily, the measurements indicate that rather just decrease in stability occurred in the vicinity of sea stations, which in turn increases the number and extent of unstable atmospheric condition leading to showers and thunderstorms. We face the difficult task of measurement or estimation of the precipitation falling into the seas. In case of increase in this rainfall the precipitation falling over the continent should be reduced.",
+    "readLink": "http://aerapa.conference.ubbcluj.ro/2017/PDF/5_NYITRAI_etal_34_41.pdf"
+  },
+  {
+    "title": "Metabolic engineering of Clostridium ljungdahlii for the production of hexanol and butanol from CO2 and H2",
+    "authors": [
+      "Ira Lauer,",
+      "Gabriele Philipps,",
+      "Stefan Jennewein"
+    ],
+    "doi": "https://doi.org/10.1186/s12934-022-01802-8",
+    "journalVolume": "Vol. 21,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 18",
+    "issn": "1475-2859 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "https://microbialcellfactories.biomedcentral.com/",
+    "abstract": "Abstract Background The replacement of fossil fuels and petrochemicals with sustainable alternatives is necessary to mitigate the effects of climate change and also to counteract diminishing fossil resources. Acetogenic microorganisms such as Clostridium spp. are promising sources of fuels and basic chemical precursors because they efficiently utilize CO and CO2 as carbon source. However the conversion into high titers of butanol and hexanol is challenging. Results Using a metabolic engineering approach we transferred a 17.9-kb gene cluster via conjugation, containing 13 genes from C. kluyveri and C. acetobutylicum for butanol and hexanol biosynthesis, into C. ljungdahlii. Plasmid-based expression resulted in 1075 mg L−1 butanol and 133 mg L−1 hexanol from fructose in complex medium, and 174 mg L−1 butanol and 15 mg L−1 hexanol from gaseous substrate (20% CO2 and 80% H2) in minimal medium. Product formation was increased by the genomic integration of the heterologous gene cluster. We confirmed the expression of all 13 enzymes by targeted proteomics and identified potential rate-limiting steps. Then, we removed the first-round selection marker using CRISPR/Cas9 and integrated an additional 7.8 kb gene cluster comprising 6 genes from C. carboxidivorans. This led to a significant increase in the hexanol titer (251 mg L−1) at the expense of butanol (158 mg L−1), when grown on CO2 and H2 in serum bottles. Fermentation of this strain at 2-L scale produced 109 mg L−1 butanol and 393 mg L−1 hexanol. Conclusions We thus confirmed the function of the butanol/hexanol biosynthesis genes and achieved hexanol biosynthesis in the syngas-fermenting species C. ljungdahlii for the first time, reaching the levels produced naturally by C. carboxidivorans. The genomic integration strain produced hexanol without selection and is therefore suitable for continuous fermentation processes.",
+    "readLink": "https://doi.org/10.1186/s12934-022-01802-8"
+  },
+  {
+    "title": "What does resilience mean for urban water services?",
+    "authors": [
+      "Åse Johannessen,",
+      "Christine Wamsler"
+    ],
+    "doi": "https://doi.org/10.5751/ES-08870-220101",
+    "journalVolume": "Vol. 22,\n                                no. 1\n                                \n                                  p.\n                                  1",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Disasters and climate change impacts, as well as increased water demand, pose serious risks to the provision of sustainable urban water services, e.g., drinking water, sanitation, and safe drainage, especially in cities. These challenges call for a transition toward improved water management, including considerations of \"resilience.\" However, because the resilience concept has multidisciplinary origins it is open to multiple interpretations, which poses a challenge to understanding and operationalizing the concept. We explore how resilience thinking can be translated into urban water practice to develop the conceptual understanding of transitions toward sustainability. The study is based on a literature review, interviews with water experts, as well as four case studies in South Africa, India, Sweden, and the Philippines. We identify seven key principles or attributes of urban water resilience and the related transition process. We find that resilience building needs to discern between and manage three levels (i.e., socioeconomic, external hazard considerations, and larger social-ecological systems) to be sustainable. In addition, we find that human agency is a strong driver of transition processes, with a certain level of risk awareness and risk perception providing one threshold and a certain capacity for action to implement measures and reorganize in response to risks being another. The difficulty of achieving \"knowledge to action\" derives from the multiple challenges of crossing these two types of identified thresholds. To address long-term trends or stressors, we find an important role for social learning to ensure that the carrying capacity of urban water services is not exceeded or unwanted consequences are created (e.g., long-term trends like salinization and water depletion). We conclude that the resilience term and related concepts add value to understanding and addressing the dynamic dimension of urban water transitions if the key principles identified in this study are considered.",
+    "readLink": "http://www.ecologyandsociety.org/vol22/iss1/art1/"
+  }
+]

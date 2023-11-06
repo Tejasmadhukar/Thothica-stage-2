@@ -1,0 +1,229 @@
+[
+  {
+    "title": "Climate Change Litigation in the Global South: Filling in Gaps",
+    "authors": [
+      "Joana Setzer,",
+      "Lisa Benjamin"
+    ],
+    "doi": "https://doi.org/10.1017/aju.2020.6",
+    "journalVolume": "Vol. 114\n                                \n                                \n                                  pp.\n                                  56\n                                  – 60",
+    "issn": "2398-7723 (Online)",
+    "publisher": "Cambridge University Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Law: Law in general. Comparative and uniform law. Jurisprudence: Comparative law. International uniform law",
+      "Law: Law in general. Comparative and uniform law. Jurisprudence: Private international law. Conflict of laws"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/american-journal-of-international-law/ajil-unbound",
+    "abstract": "New scholarship has identified trends, constraints, and opportunities for climate litigation in the Global South. While countries in the Global South tend to experience a lack of capacity within government agencies, civil society, and the judiciary, the Global South is not a homogenous group. Where climate litigation has been identified, the judiciary is often implementing government policy prescriptions in the absence of detailed climate legislation or filling enforcement gaps. But there are also a number of countries where climate litigation is not taking place or where gaps exist between ongoing litigation and traditional definitions of climate litigation. The scholarship is yet to further explore the relationship between climate legislation and litigation in the Global South, in particular in circumstances where ripe policy and legislative conditions for climate litigation exist. Taking into account different regional and national experiences, this essay explores that relationship.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S2398772320000069/type/journal_article"
+  },
+  {
+    "title": "Breaking the Cycle: Women’s Experience in Postsecondary Agricultural and Extension Education",
+    "authors": [
+      "Lauren L. Cline ,",
+      "Haley Rosson ,",
+      "Penny Pennington Weeks"
+    ],
+    "doi": "https://doi.org/10.55533/2325-5226.1453",
+    "journalVolume": "Vol. 11,\n                                no. 1",
+    "issn": "2325-5226 (Online)",
+    "publisher": "Mississippi State University",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Education: Special aspects of education"
+    ],
+    "journalUrl": "https://scholarsjunction.msstate.edu/jhse/",
+    "abstract": "The “leaky educational pipeline” metaphor refers to the steady tapering off of women obtaining graduate degrees and reaching the level of a tenured faculty member, although the number of women earning college degrees has surpassed males since the 1980s. Women are disproportionately represented among faculty and leadership at land-grant institutions and in the agricultural education profession. The purpose of this study was to provide a synthesis of women’s experience in postsecondary agricultural and extension education (AEE) by describing the common and diverging challenges, opportunities, and mentoring experiences of women faculty and graduate students in the profession. The study was a textual narrative synthesis of two preliminary studies which provided an updated profile of the current organizational climate and mentoring experiences of women faculty and women graduate students in AEE. Three overarching themes with 11 categories emerged to summarize the experiences of women in AEE: (a) navigating a traditional academic system, (b) operating in a male-dominated discipline, and (c) influencing change in the profession. These findings challenge the AEE profession to critically acknowledge women’s experiences and begin looking outside academia for solutions to create a more inclusive organizational culture that values gender diversity.",
+    "readLink": "https://scholarsjunction.msstate.edu/jhse/vol11/iss1/3/"
+  },
+  {
+    "title": "An optimal estimation-based retrieval of upper atmospheric oxygen airglow and temperature from SCIAMACHY limb observations",
+    "authors": [
+      "K. Sun,",
+      "K. Sun,",
+      "M. Yousefi,",
+      "C. Chan Miller,",
+      "C. Chan Miller,",
+      "C. Chan Miller,",
+      "K. Chance,",
+      "G. González Abad,",
+      "I. E. Gordon,",
+      "X. Liu,",
+      "E. O'Sullivan,",
+      "C. E. Sioris,",
+      "S. C. Wofsy,",
+      "S. C. Wofsy"
+    ],
+    "doi": "https://doi.org/10.5194/amt-15-3721-2022",
+    "journalVolume": "Vol. 15\n                                \n                                \n                                  pp.\n                                  3721\n                                  – 3745",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "An optimal estimation-based algorithm is developed to retrieve the number density of excited oxygen (O2) molecules that generate airglow emissions near 0.76 µm (b1Σg+ or A band) and 1.27 µm (a1Δg or 1Δ band) in the upper atmosphere. Both oxygen bands are important for the remote sensing of greenhouse gases. The algorithm is applied to the limb spectra observed by the SCanning Imaging Absorption spectroMeter for Atmospheric CHartographY (SCIAMACHY) instrument in both the nominal (tangent heights below ∼ 90 km) and mesosphere–lower thermosphere (MLT) modes (tangent heights spanning 50–150 km). The number densities of emitting O2 in the a1Δg band are retrieved in an altitude range of 25–100 km near-daily in 2010, providing a climatology of O2 a1Δg-band airglow emission. This climatology will help disentangle the airglow from backscattered light in nadir remote sensing of the a1Δg band. The global monthly distributions of the vertical column density of emitting O2 in a1Δg state show mainly latitudinal dependence without other discernible geographical patterns. Temperature profiles are retrieved simultaneously from the spectral shapes of the a1Δg-band airglow emission in the nominal limb mode (valid altitude range of 40–100 km) and from both a1Δg- and b1Σg+-band airglow emissions in the MLT mode (valid range of 60–105 km). The temperature retrievals from both airglow bands are consistent internally and in agreement with independent observations from the Atmospheric Chemistry Experiment Fourier transform spectrometer (ACE-FTS) and the Michelson Interferometer for Passive Atmospheric Sounding (MIPAS), with the absolute mean bias near or below 5 K and root mean squared error (RMSE) near or below 10 K. The retrieved emitting O2 number density and temperature provide a unique dataset for the remote sensing of greenhouse gases and constraining the chemical and physical processes in the upper atmosphere.",
+    "readLink": "https://amt.copernicus.org/articles/15/3721/2022/amt-15-3721-2022.pdf"
+  },
+  {
+    "title": "A Cloud Classification Method Based on a Convolutional Neural Network for FY-4A Satellites",
+    "authors": [
+      "Yuhang Jiang,",
+      "Wei Cheng,",
+      "Feng Gao,",
+      "Shaoqing Zhang,",
+      "Shudong Wang,",
+      "Chang Liu,",
+      "Juanjuan Liu"
+    ],
+    "doi": "https://doi.org/10.3390/rs14102314",
+    "journalVolume": "Vol. 14,\n                                no. 2314\n                                \n                                  p.\n                                  2314",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The study of cloud types is critical for understanding atmospheric motions and climate predictions; for example, accurately classified cloud products help improve meteorological predicting accuracies. However, the current satellite cloud classification methods generally analyze the threshold change in a single pixel and do not consider the relationship between the surrounding pixels. The classification development relies heavily on human recourses and does not fully utilize the data-driven advantages of computer models. Here, a new intelligent cloud classification method based on the U-Net network (CLP-CNN) is developed to obtain more accurate, higher frequency, and larger coverage cloud classification products. The experimental results show that the CLP-CNN network can complete a cloud classification task of 800 × 800 pixels in 0.9 s. The classification area covers most of China, and the classification task only needs to use the original L1-level data, which can meet the requirements of a real-time operation. With the Himawari-8 CLTYPE product and the CloudSat 2B-CLDCLASS product as the test comparison target, the CLP-CNN network results match the Himawari-8 product highly, by 84.4%. The probability of detection (POD) is greater than 0.83 for clear skies, deep-convection, and Cirrus–Stratus type clouds. The probability of detection (POD) and accuracy are improved compared with other deep learning methods.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/10/2314"
+  },
+  {
+    "title": "Enhancing climate governance through indigenous knowledge: Case in sustainability science",
+    "authors": [
+      "Nelson Chanza,",
+      "Anton de Wit"
+    ],
+    "doi": "https://doi.org/10.17159/sajs.2016/20140286",
+    "journalVolume": "Vol. 112,\n                                no. 3/4\n                                \n                                  pp.\n                                  7\n                                  – 7",
+    "issn": "0038-2353 (Print)",
+    "publisher": "1996-7489 (Online)",
+    "countryOfPublisher": "Academy of Science of South Africa",
+    "lcc": [
+      "South Africa",
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.sajs.co.za",
+    "abstract": "The current tempo of climate change strategies puts the notion of sustainability in question. In this philosophy, mitigation and adaptation strategies ought to be appropriate to the sectors and communities that are targeted. There is a growing realisation that the effectiveness of both strategies hinges on climate governance, which also informs their sustainability. The application of the climate governance concept by the technocratic divide (policymakers and climate practitioners) to communities facing climate change impacts, however, is still a poorly developed field, despite extensive treatment by academia. By drawing heavily from conceptual and analytical review of scholarship on the utility of indigenous knowledge (IK) in climate science, these authors argue that IK can be deployed in the practice of climate governance. It reveals that the merits of such a deployment lie in the understanding that the tenets of IK and climate governance overlap and are complementary. This is exhibited by examining the conceptual, empirical and sustainability strands of the climate governance-IK nexus. In the milieu of climate change problems, it is argued that the basic elements of climate governance, where actions are informed by the principles of decentralisation and autonomy; accountability and transparency; responsiveness and flexibility; and participation and inclusion, can be pragmatic particularly to communities who have been religiously observing changes in their environment. Therefore, it becomes necessary to invigorate the participation of communities, with their IK, in designing climate change interventions, which in this view can be a means to attain the objectives of climate governance.",
+    "readLink": "https://www.sajs.co.za/article/view/4058"
+  },
+  {
+    "title": "Assessment of Green Practices in Residential Buildings: A Survey-Based Empirical Study of Residents in Kazakhstan",
+    "authors": [
+      "Serik Tokbolat,",
+      "Ferhat Karaca,",
+      "Serdar Durdyev,",
+      "Farnush Nazipov,",
+      "Ilyas Aidyngaliyev"
+    ],
+    "doi": "https://doi.org/10.3390/su10124383",
+    "journalVolume": "Vol. 10,\n                                no. 12\n                                \n                                  p.\n                                  4383",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "In the lead-up to the Paris climate change conference, the majority of the UN Member States submitted their Intended Nationally Determined Contributions on carbon emissions reduction to be met by 2030. Kazakhstan is no exception. The government made pledges and, therefore, has to adapt its national policies and regulations to meet the set ambitious goals. In this regard, the role of residential building sector is of the utmost importance due to its significant share in the country’s energy consumption and carbon emissions profile. Thus, this study presents the types of residential buildings available and assesses how far they are from meeting the green building (GB) indicators set in various certification schemes and standards. This would help in suggesting practical steps to improve the sustainability levels of the residential building stock of Kazakhstan. This study collected a robust set of data on existing residential buildings in Astana, chosen as a case study location, classified them and, based on a developed checklist, evaluated their performance compared to GB standards. The study has found that old buildings tend to have a rather poor level of sustainability, whereas the sustainability of new buildings depends on the class of the building—steadily increasing from economy to premium class in all categories of the checklist. A detailed analysis of the results has led to the development of recommendations on how each type of building should be improved to meet the GB standards.",
+    "readLink": "https://www.mdpi.com/2071-1050/10/12/4383"
+  },
+  {
+    "title": "Groundwater age of spring discharges under changing permafrost conditions: the Khangai Mountains in central Mongolia",
+    "authors": [
+      "Tetsuya Hiyama,",
+      "Avirmed Dashtseren,",
+      "Kazuyoshi Asai,",
+      "Hironari Kanamori,",
+      "Yoshihiro Iijima,",
+      "Mamoru Ishikawa"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/abd1a1",
+    "journalVolume": "Vol. 16,\n                                no. 1\n                                \n                                  p.\n                                  015008",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Obtaining a better understanding of groundwater dynamics in permafrost zones is a critical issue in permafrost hydrology. This includes assessing the impacts of climate change on permafrost thaw and ground ice-melt. Both permafrost thaw and ground ice-melt can be related to groundwater discharges (i.e. spring discharges), and spring water is an important local water resource; accordingly, changes in these processes can have large impacts on local people and their subsistence activities. To detect permafrost thaw and ground ice-melt in the permafrost zone of Mongolia, groundwater ages of several spring discharges were determined using two transient tracers: tritium ( ^3 H) and chlorofluorocarbons (CFCs). Spring water samples were collected seasonally from 2015 to 2019 at seven spring sites around the Khangai Mountains in central Mongolia. The sites included two thermokarst landscapes on the northern and southern sides of the mountains. The ^3 H and CFC concentrations in the spring water in the thermokarst landscapes were very low, especially on the southern side of the mountains, and the estimated mean groundwater age for these sites was older than that for the other sampled springs. Consequently, the young water ratios of the thermokarst sites were lower than those for the other springs. This ratio, however, showed a gradual increase with time, which indicates that recently recharged rainwater began to contribute to the spring discharge at the thermokarst sites. An atmospheric water budget analysis indicated that net recharge from modern and recent precipitation to shallow groundwater in the summer season was almost zero on the southern side of the mountains. Thus, we inferred that the spring water at the thermokarst sites on the southern side of the mountains contained large amounts of ground ice-melt water.",
+    "readLink": "https://doi.org/10.1088/1748-9326/abd1a1"
+  },
+  {
+    "title": "Green Campus Audit Procedures and Implementation to Educational Institutions and Industries",
+    "authors": [
+      "S. Rajalakshmi, B. Mythili Gnanamangai, D. Vinoth Kumar, V. Sri Santhya, M. Priya, R. Mary Josephine, Ashutosh Kumar Srivastava, R. Sudhakaran and M. A. Deepa"
+    ],
+    "doi": "https://doi.org/10.46488/NEPT.2022.v21i04.047",
+    "journalVolume": "Vol. 21,\n                                no. 4\n                                \n                                  pp.\n                                  1921\n                                  – 1932",
+    "issn": "0972-6268 (Print)",
+    "publisher": "2395-3454 (Online)",
+    "countryOfPublisher": "Technoscience Publications",
+    "lcc": [
+      "India",
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://neptjournal.com",
+    "abstract": "Nature provides a free lunch, but only if we control our appetites. As we are in the twenty-first century, modernization and industrialization are the two important outputs that have made human life more luxurious and comfortable. Simultaneously, they are responsible for several uses of exploitation of forests, natural resources, and wildlife, polluting the scarce, producing massive solid waste and sacred water resources, and finally making our planet Earth ugly and inhospitable. Today, people are getting more familiar with global issues like global warming, the greenhouse effect, ozone depletion, climate change, etc. Now, it is considered a final call by Mother Earth to walk on the path of sustainable development. The time has come to wake up, unite and combat together for a sustainable environment. The present study focuses on the concept of green audit and its importance with respect to the conservation of nature for future generations. Every organization should have its own green campus and environment policy with respect to nature conservation and environmental protection and should maintain a sizable amount of green cover area after building construction along with natural and planted vegetation. A maximum number of more oxygen-producing and carbon-di-oxide-absorbing plants should be maintained to provide a pure atmosphere to the stakeholders. The installation of a rainwater harvesting system, percolation, ponds, check dam, and drip irrigation system to conserve rainwater and groundwater should be noteworthy on the campus.",
+    "readLink": "https://neptjournal.com/upload-images/(47)B-3912.pdf"
+  },
+  {
+    "title": "Combining CMIP data with a regional convection-permitting model and observations to project extreme rainfall under climate change",
+    "authors": [
+      "Cornelia Klein,",
+      "Lawrence S Jackson,",
+      "Douglas J Parker,",
+      "John H Marsham,",
+      "Christopher M Taylor,",
+      "David P Rowell,",
+      "Françoise Guichard,",
+      "Théo Vischel,",
+      "Adjoua Moïse Famien,",
+      "Arona Diedhiou"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac26f1",
+    "journalVolume": "Vol. 16,\n                                no. 10\n                                \n                                  p.\n                                  104023",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Due to associated hydrological risks, there is an urgent need to provide plausible quantified changes in future extreme rainfall rates. Convection-permitting (CP) climate simulations represent a major advance in capturing extreme rainfall and its sensitivities to atmospheric changes under global warming. However, they are computationally costly, limiting uncertainty evaluation in ensembles and covered time periods. This is in contrast to the Climate Model Intercomparison Project (CMIP) 5 and 6 ensembles, which cannot capture relevant convective processes, but provide a range of plausible projections for atmospheric drivers of rainfall change. Here, we quantify the sensitivity of extreme rainfall within West African storms to changes in atmospheric rainfall drivers, using both observations and a CP projection representing a decade under the Representative Concentration Pathway 8.5 around 2100. We illustrate how these physical relationships can then be used to reconstruct better-informed extreme rainfall changes from CMIP, including for time periods not covered by the CP model. We find reconstructed hourly extreme rainfall over the Sahel increases across all CMIP models, with a plausible range of 37%–75% for 2070–2100 (mean 55%, and 18%–30% for 2030–2060). This is considerably higher than the +0–60% (mean +30%) we obtain from a traditional extreme rainfall metric based on raw daily CMIP rainfall, suggesting such analyses can underestimate extreme rainfall intensification. We conclude that process-based rainfall scaling is a useful approach for creating time-evolving rainfall projections in line with CP model behaviour, reconstructing important information for medium-term decision making. This approach also better enables the communication of uncertainties in extreme rainfall projections that reflect our current state of knowledge on its response to global warming, away from the limitations of coarse-scale climate models alone.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac26f1"
+  },
+  {
+    "title": "Expanding Poly(lactic acid) (PLA) and Polyhydroxyalkanoates (PHAs) Applications: A Review on Modifications and Effects",
+    "authors": [
+      "Ahmed Z. Naser,",
+      "Ibrahim Deiab,",
+      "Fantahun Defersha,",
+      "Sheng Yang"
+    ],
+    "doi": "https://doi.org/10.3390/polym13234271",
+    "journalVolume": "Vol. 13,\n                                no. 4271\n                                \n                                  p.\n                                  4271",
+    "issn": "2073-4360 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Chemistry: Organic chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/polymers/",
+    "abstract": "The high price of petroleum, overconsumption of plastic products, recent climate change regulations, the lack of landfill spaces in addition to the ever-growing population are considered the driving forces for introducing sustainable biodegradable solutions for greener environment. Due to the harmful impact of petroleum waste plastics on human health, environment and ecosystems, societies have been moving towards the adoption of biodegradable natural based polymers whose conversion and consumption are environmentally friendly. Therefore, biodegradable biobased polymers such as poly(lactic acid) (PLA) and polyhydroxyalkanoates (PHAs) have gained a significant amount of attention in recent years. Nonetheless, some of the vital limitations to the broader use of these biopolymers are that they are less flexible and have less impact resistance when compared to petroleum-based plastics (e.g., polypropylene (PP), high-density polyethylene (HDPE) and polystyrene (PS)). Recent advances have shown that with appropriate modification methods—plasticizers and fillers, polymer blends and nanocomposites, such limitations of both polymers can be overcome. This work is meant to widen the applicability of both polymers by reviewing the available materials on these methods and their impacts with a focus on the mechanical properties. This literature investigation leads to the conclusion that both PLA and PHAs show strong candidacy in expanding their utilizations to potentially substitute petroleum-based plastics in various applications, including but not limited to, food, active packaging, surgical implants, dental, drug delivery, biomedical as well as antistatic and flame retardants applications.",
+    "readLink": "https://www.mdpi.com/2073-4360/13/23/4271"
+  }
+]

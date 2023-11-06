@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Climate Change Will Lead to a Significant Reduction in the Global Cultivation of <i>Panicum milliaceum</i>",
+    "authors": [
+      "Pan Jiang,",
+      "Junyi Jiang,",
+      "Cong Yang,",
+      "Xinchen Gu,",
+      "Yi Huang,",
+      "Liang Liu"
+    ],
+    "doi": "https://doi.org/10.3390/atmos14081297",
+    "journalVolume": "Vol. 14,\n                                no. 1297\n                                \n                                  p.\n                                  1297",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Panicum milliaceum is a specialty crop that maintains the economic stability of agriculture in arid and barren regions of the world. Predicting the potential geographic distribution of Panicum milliaceum globally and clarifying the ecological needs of Panicum milliaceum will help to advance the development of agriculture, which is important for the maintenance of human life and health. In this study, based on 5637 global distribution records of Panicum milliaceum, we used the MaxEnt model and ArcGIS software, the Beijing Climate Center Climate System Model (BCC-CSM2-MR) was selected to predict the potential global geographic distribution of Panicum milliaceum in the present and future in combination with the environmental factor variables; we evaluated the significant factors constraining the potential geographic distribution of Panicum milliaceum by combining the contributions of environmental factor variables; and we assessed the accuracy of the MaxEnt model by using AUC values and Kappa statistics. The results showed that the MaxEnt model was highly accurate, the simulation results were credible, and the total suitable area of Panicum milliaceum in the world is 4563.82 × 104 km2. The high habitat area of Panicum milliaceum is 484.95 × 104 km2, accounting for 10.63% of the total habitat area, and is mainly distributed in the United States, the Russian Federation, France, Ukraine, Australia, Germany, etc. The soil factor (hswd) was the most important environmental factor limiting the potential geographic distribution of Panicum milliaceum, followed by the precipitation factor (Precipitation of the Driest Month, bio14) and temperature factor (Mean Temperature of the Wettest Quarter, bio8). Under four future climate change scenarios, the area of the potential geographic distribution of Panicum milliaceum decreased to different extents at different levels compared to the contemporary period. Therefore, climate change may significantly affect the global distribution pattern of Panicum milliaceum cultivation in the future and thus reshape global Panicum milliaceum production and trade patterns.",
+    "readLink": "https://www.mdpi.com/2073-4433/14/8/1297"
+  },
+  {
+    "title": "Runoff response to climate change and human activities in a typical karst watershed, SW China.",
+    "authors": [
+      "Yan Xu,",
+      "Shijie Wang,",
+      "Xiaoyong Bai,",
+      "Xiaoyong Bai,",
+      "Dongcai Shu,",
+      "Yichao Tian"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0193073",
+    "journalVolume": "Vol. 13,\n                                no. 3\n                                \n                                  p.\n                                  e0193073",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "This study aims to reveal the runoff variation characteristics of long time series in a karst region, analyse comprehensively its different driving factors, and estimate quantitatively the contribution rates of climate change and human activities to net runoff variation. Liudong river basin, a typical karst watershed in southwest China, is the study site. Statistical methods, such as linear fitting, the Morlet wavelet analysis, normalized curve and double mass curve, are applied to analyse the runoff of the watershed. Results show that the runoff in the karst watershed during the research period exhibits a three-stage change and the abrupt change points are the years 1981 and 2007: (1) 1968-1980, the runoff initially exhibited a trend of sustained decreasing and then an abrupt fluctuation. The runoff was obviously destroyed through precipitation-producing processes. Improper land utilisation and serious forest and grass destruction intensified the fluctuation variation amplitude of the runoff. (2) 1981-2006, the changing processes of runoff and precipitation exhibited good synchronism. Precipitation significantly affected runoff variation and human activities had a slight interference degree. (3) 2007-2013, the fluctuation range of runoff was considerably smaller than that of precipitation. The significant growth of forest and grassland areas and the increase in water consumption mitigated runoff fluctuation and greatly diminished runoff variation amplitude. According to calculation, the relative contribution rates of precipitation and human activities to net runoff variation with 1981-2007 as the reference period were -81% and 181% in average, respectively, during 1968-1980, and -117% and 217% in average, respectively, during 2007-2013. In general, the analysis of runoff variation trend and of the contribution rate of its main influencing factors in the typical karst watershed for nearly half a century may be significant to solve the drought problem in the karst region and for the sustainable development of the drainage basin.",
+    "readLink": "http://europepmc.org/articles/PMC5832221?pdf=render"
+  },
+  {
+    "title": "Coping with climate change and China's wind energy sustainable development",
+    "authors": [
+      "De-Xin He"
+    ],
+    "doi": "https://doi.org/10.1016/j.accre.2016.06.003",
+    "journalVolume": "Vol. 7,\n                                no. 1\n                                \n                                  pp.\n                                  3\n                                  – 9",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "Greenhouse gas emissions are the main cause of today's climate change. To address this problem, the world is in an era of new round energy transformation, and the existing energy structure is being reformed. In this paper, according to the Chinese government's action plan for coping with climate change, the China's wind energy sustainable development goals and development route are discussed, and the countermeasures and suggestions are put forward. Wind energy is currently a kind of important renewable energy with matured technology which can be scale-up developed and put into commercial application, and in this transformation, wind energy will play a key role with other non-fossil energy sources. The development and utilization of wind energy is a systematic project, which needs to be solved from the aspects of policy, technology and management. At present, China is in the stage of transferring from “large wind power country” to “strong wind power country”, opportunities and challenges coexist, and the advantages of China's socialist system could be fully used, which can concentrate power to do big things and make contribution in the process of realizing global energy transformation.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927816300272"
+  },
+  {
+    "title": "Effects of a Heat Wave on Nocturnal Stomatal Conductance in Eucalyptus camaldulensis",
+    "authors": [
+      "Víctor Resco de Dios,",
+      "Michael  E. Loik,",
+      "Renee  A. Smith,",
+      "David  T. Tissue"
+    ],
+    "doi": "https://doi.org/10.3390/f9060319",
+    "journalVolume": "Vol. 9,\n                                no. 6\n                                \n                                  p.\n                                  319",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Nocturnal transpiration constitutes a significant yet poorly understood component of the global water cycle. Modeling nocturnal transpiration has been complicated by recent findings showing that stomata respond differently to environmental drivers over day- vs. night-time periods. Here, we propose that nocturnal stomatal conductance depends on antecedent daytime conditions. We tested this hypothesis across six genotypes of Eucalyptus camaldulensis Dehnh. growing under different CO2 concentrations (ambient vs. elevated) and exposed to contrasting temperatures (ambient vs. heat wave) for four days prior to the night of measurements, when all plants experienced ambient temperature conditions. We observed significant effects after the heat wave that led to 36% reductions in nocturnal stomatal conductance. The response was partly driven by changes in daytime stomatal behavior but additional factors may have come into play. We also observed significant differences in response to the heat wave across genotypes, likely driven by local adaptation to their climate of origin, but CO2 played no effect. Stomatal models may need to incorporate the role of antecedent effects to improve projections particularly after drastic changes in the environment such as heat waves.",
+    "readLink": "http://www.mdpi.com/1999-4907/9/6/319"
+  },
+  {
+    "title": "Classification of Defoliated Trees Using Tree-Level Airborne Laser Scanning Data Combined with Aerial Images",
+    "authors": [
+      "Juha Hyyppa,",
+      "Svein Solberg,",
+      "Mervi Talvitie,",
+      "Sanna Kaasalainen,",
+      "Paivi Lyytikainen-Saarenmaa,",
+      "Markus Holopainen,",
+      "Xiaowei Yu,",
+      "Tuula Kantola,",
+      "Mikko Vastaranta"
+    ],
+    "doi": "https://doi.org/10.3390/rs2122665",
+    "journalVolume": "Vol. 2,\n                                no. 12\n                                \n                                  pp.\n                                  2665\n                                  – 2679",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Climate change and rising temperatures have been observed to be related to the increase of forest insect damage in the boreal zone. The common pine sawfly (Diprion pini L.) (Hymenoptera, Diprionidae) is regarded as a significant threat to boreal pine forests. Defoliation by D. pini can cause severe growth loss and tree mortality in Scots pine (Pinus sylvestris L.) (Pinaceae). In this study, logistic LASSO regression, Random Forest (RF) and Most Similar Neighbor method (MSN) were investigated for predicting the defoliation level of individual Scots pines using the features derived from airborne laser scanning (ALS) data and aerial images. Classification accuracies from 83.7% (kappa 0.67) to 88.1% (kappa 0.76) were obtained depending on the method. The most accurate result was produced using RF with a combination of data from the two sensors, while the accuracies when using ALS and image features separately were 80.7% and 87.4%, respectively. Evidently, the combination of ALS and aerial images in detecting needle losses is capable of providing satisfactory estimates for individual trees.",
+    "readLink": "http://www.mdpi.com/2072-4292/2/12/2665/"
+  },
+  {
+    "title": "Exogenous Salicylic Acid Modulates the Response to Combined Salinity-Temperature Stress in Pepper Plants (<em>Capsicum annuum</em> L. var. Tamarin)",
+    "authors": [
+      "Ginés Otálora,",
+      "María Carmen Piñero,",
+      "Jacinta Collado-González,",
+      "Josefa López-Marín,",
+      "Francisco M. del Amor"
+    ],
+    "doi": "https://doi.org/10.3390/plants9121790",
+    "journalVolume": "Vol. 9,\n                                no. 1790\n                                \n                                  p.\n                                  1790",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "Growers in the cultivated areas where the climate change threatens the agricultural productivity and livelihoods are aware that the current constraints for good quality water are being worsened by heatwaves. We studied the combination of salinity (60 mM NaCl) and heat shock stress (43 °C) in pepper plants (Capsicum annuum L. var. Tamarin) since this can affect physiological and biochemical processes distinctly when compared to separate effects. Moreover, the exogenous application of 0.5 mM salicylic acid (SA) was studied to determine its impacts and the SA-mediated processes that confer tolerance of the combined or stand-alone stresses. Plant growth, leaf Cl− and NO3− concentrations, carbohydrates, and polyamines were analyzed. Our results show that both salinity stress (SS) and heat stress (HS) reduced plant fresh weight, and SA only increased it for HS, with no effect for the combined stress (CS). While SA increased the concentration of Cl− for SS or CS, it had no effect on NO3−. The carbohydrates concentrations were, in general, increased by HS, and were decreased by CS, and for glucose and fructose, by SA. Additionally, when CS was imposed, SA significantly increased the spermine and spermidine concentrations. Thus, SA did not always alleviate the CS and the plant response to CS cannot be directly attributed to the full or partial sum of the individual responses to each stress.",
+    "readLink": "https://www.mdpi.com/2223-7747/9/12/1790"
+  },
+  {
+    "title": "Ecological niche modelling for the conservation of endemic threatened squamates (lizards and snakes) in the Western Ghats",
+    "authors": [
+      "Aditya Srinivasulu,",
+      "Bhargavi Srinivasulu,",
+      "Chelmala Srinivasulu"
+    ],
+    "doi": "Vol. 28\n                                \n                                \n                                  p.\n                                  e01700",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Squamates are especially sensitive to habitat loss and fragmentation caused due to changing climatic conditions, and as such make excellent focal species for modelling conservation areas and diversity under climate change scenarios. The Western Ghats are a biodiversity hotspot with the highest prevalence of endemic lizards and snakes in India, and are of significant conservation concern. Our niche modelling analysis of 22 endemic threatened squamates of conservation concern in the Western Ghats shows that the study species are majorly affected by future climate change scenarios. A decrease in climatic suitability in both RCP4.5 and RCP8.5 future climatic scenarios for the majority of the study species is seen. Hotspots of species diversity in changing climatic scenarios were also modelled based on the ecological niche models, and were seen to be concentrated in the North Central and Southern Western Ghats. The existing protected area network on the site was used as the framework for the generation of a novel conservation area network for the representation of 10% and 30% of the study species on the site, and it was seen that 10.43–52.28% novel areas outside the existing network has to be designated. These novel conservation areas provide necessary contiguity between the existing protected areas for the progression of natural processes and free dispersal of various elements. The results of this paper motivate a thorough appraisal of the protected areas and species diversity in the study region, and the establishment of novel protected areas with a multi-taxon approach to conservation.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S235198942100250X"
+  },
+  {
+    "title": "Prolonged exposure weakens risk perception and behavioral mobility response: Empirical evidence from Covid-19",
+    "authors": [
+      "A. Stechemesser,",
+      "M. Kotz,",
+      "M. Auffhammer,",
+      "L. Wenz"
+    ],
+    "doi": "Vol. 22\n                                \n                                \n                                  p.\n                                  100906",
+    "issn": "2590-1982 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Social Sciences: Transportation and communications"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/transportation-research-interdisciplinary-perspectives",
+    "abstract": "Understanding the behavioral response dynamics to risks is important for informed policy-making at times of crises. Here we elucidate two response channels to Covid-19 risk and show that they weakened over time, prior to the availability of vaccines. We employ fixed-effects panel regression models to empirically assess the relationship between actual Covid-19 risk (daily case numbers), the perceived risk (attention paid to the pandemic via related Google search requests) and the resulting behavioral response (personal mobility choices) over two pandemic phases for 113 cities in eight countries, while accounting for government interventions. Prolonged exposure to Covid-19 reduces risk perception which in turn leads to a weakened behavioral response. Attention responses and mobility reductions across all three mobility types are weaker in the second phase, given the same levels of actual and perceived risk, respectively. Our results provide evidence that the risk response attenuates over time with implications for other crises evolving over long timescales.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2590198223001537"
+  },
+  {
+    "title": "Variable effects of temperature on insect herbivory",
+    "authors": [
+      "Nathan P. Lemoine,",
+      "Deron E. Burkepile,",
+      "John D. Parker"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.376",
+    "journalVolume": "Vol. 2\n                                \n                                \n                                  p.\n                                  e376",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Rising temperatures can influence the top-down control of plant biomass by increasing herbivore metabolic demands. Unfortunately, we know relatively little about the effects of temperature on herbivory rates for most insect herbivores in a given community. Evolutionary history, adaptation to local environments, and dietary factors may lead to variable thermal response curves across different species. Here we characterized the effect of temperature on herbivory rates for 21 herbivore-plant pairs, encompassing 14 herbivore and 12 plant species. We show that overall consumption rates increase with temperature between 20 and 30 °C but do not increase further with increasing temperature. However, there is substantial variation in thermal responses among individual herbivore-plant pairs at the highest temperatures. Over one third of the herbivore-plant pairs showed declining consumption rates at high temperatures, while an approximately equal number showed increasing consumption rates. Such variation existed even within herbivore species, as some species exhibited idiosyncratic thermal response curves on different host plants. Thus, rising temperatures, particularly with respect to climate change, may have highly variable effects on plant-herbivore interactions and, ultimately, top-down control of plant biomass.",
+    "readLink": "https://peerj.com/articles/376.pdf"
+  },
+  {
+    "title": "Stability of Woodchips Biochar and Impact on Soil Carbon Stocks: Results from a Two-Year Field Experiment",
+    "authors": [
+      "Irene Criscuoli,",
+      "Maurizio Ventura,",
+      "Katja Wiedner,",
+      "Bruno Glaser,",
+      "Pietro Panzacchi,",
+      "Christian Ceccon,",
+      "Maximilian Loesch,",
+      "Barbara Raifer,",
+      "Giustino Tonon"
+    ],
+    "doi": "https://doi.org/10.3390/f12101350",
+    "journalVolume": "Vol. 12,\n                                no. 1350\n                                \n                                  p.\n                                  1350",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Biochar has been shown to improve soil quality and crop yields. Furthermore, thanks to its high carbon content (C) and stable chemical structure, biochar can sequester C in the soil for a long time, mitigating climate change. However, the variability in published biochar stability in the soil makes verifying this trait under different environmental and agricultural conditions necessary. Moreover, most of the published literature refers to short-term incubation experiments, which are considered to not adequately represent long-term dynamics under field conditions. This article reports the results of a field experiment carried out in a vineyard near Merano, northern Italy, where the stability of woodchips biochar in soil, its impact on the total soil C stocks as well as on the original soil organic C (priming effect) were studied over two years. Vineyard soil (Dystric Eutrochrept) was amended with biochar (25 and 50 t ha−1) alone or together with compost (45 t ha−1) and compared with unamended control soil. Two methods assessed the stability of biochar in soil: the isotopic mass balance approach and the quantification of Benzene PolyCarboxylic Acids (BPCAs), molecular markers of biochar. The amount of C in the soil organic matter (SOM-C) was determined in the amended plots by subtracting the amount of biochar-C from the total soil organic C stock, and the occurrence of priming effect was verified by comparing SOM-C values at the beginning and at the end of the experiment. Results did not show any significant biochar degradation for both application rates, but results were characterized by a high variation. The application of 50 t ha−1 of biochar significantly increased soil C stock while no effect of biochar on the degradation of SOM-C was observed. Results were confirmed in the case of biochar application together with compost. It can be concluded that the use of woodchips biochar as a soil amendment can increase soil C content in the medium term. However, further analyses are recommended to evaluate the impact of biochar on climate change mitigation in the long term.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/10/1350"
+  }
+]

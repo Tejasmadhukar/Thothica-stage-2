@@ -1,0 +1,234 @@
+[
+  {
+    "title": "Decision-Making of LID-BMPs for Adaptive Water Management at the Boise River Watershed in a Changing Global Environment",
+    "authors": [
+      "JungJin Kim,",
+      "Jae Hyeon Ryu"
+    ],
+    "doi": "https://doi.org/10.3390/w12092436",
+    "journalVolume": "Vol. 12,\n                                no. 2436\n                                \n                                  p.\n                                  2436",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "We conducted a study on water management at the Boise River Watershed in a changing global environment potentially induced by climate variability and urbanization. Environmental ‘hotspots’ associated with water quality and quantity were first identified to select suitable management options, such as Low Impact Development (LID is commonly used for urban storm water management to reduce impacts induced by flash flood in urban environment while improving water quality standard by filtering non-point source pollutants from predominant, impervious land segments in urban settings.) and Best Management Practices (BMPs) for urban and rural land segments, respectively. A decision-making process was employed to evaluate the cost-effectiveness for each management option based on multiple criteria, including water quality, financial challenges, and other environmental concerns. The results show that LID/BMPs were useful to control water quality in the watershed. The effectiveness of LID/BMPs implementation was subject to change with the placement location and consideration objectives associated with economic or environmental aspects. It appears that about 10% of the study area is required to implement water management options (LID/BMP) to improve water quality potentially driven by climate variability and urbanization. We anticipate that this study will make a case toward developing a sustainable water management plan in a changing global environment, especially for the urban–rural interface settings.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/9/2436"
+  },
+  {
+    "title": "Genomic, transcriptomic, and proteomic approaches towards understanding the molecular mechanisms of salt tolerance in Frankia strains isolated from Casuarina trees",
+    "authors": [
+      "Rediet Oshone,",
+      "Mariama Ngom,",
+      "Feixia Chu,",
+      "Samira Mansour,",
+      "Mame Ourèye Sy,",
+      "Antony Champion,",
+      "Louis S. Tisa"
+    ],
+    "doi": "https://doi.org/10.1186/s12864-017-4056-0",
+    "journalVolume": "Vol. 18,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 21",
+    "issn": "1471-2164 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Chemical technology: Biotechnology",
+      "Science: Biology (General): Genetics"
+    ],
+    "journalUrl": "http://bmcgenomics.biomedcentral.com",
+    "abstract": "Abstract Background Soil salinization is a worldwide problem that is intensifying because of the effects of climate change. An effective method for the reclamation of salt-affected soils involves initiating plant succession using fast growing, nitrogen fixing actinorhizal trees such as the Casuarina. The salt tolerance of Casuarina is enhanced by the nitrogen-fixing symbiosis that they form with the actinobacterium Frankia. Identification and molecular characterization of salt-tolerant Casuarina species and associated Frankia is imperative for the successful utilization of Casuarina trees in saline soil reclamation efforts. In this study, salt-tolerant and salt-sensitive Casuarina associated Frankia strains were identified and comparative genomics, transcriptome profiling, and proteomics were employed to elucidate the molecular mechanisms of salt and osmotic stress tolerance. Results Salt-tolerant Frankia strains (CcI6 and Allo2) that could withstand up to 1000 mM NaCl and a salt-sensitive Frankia strain (CcI3) which could withstand only up to 475 mM NaCl were identified. The remaining isolates had intermediate levels of salt tolerance with MIC values ranging from 650 mM to 750 mM. Comparative genomic analysis showed that all of the Frankia isolates from Casuarina belonged to the same species (Frankia casuarinae). Pangenome analysis revealed a high abundance of singletons among all Casuarina isolates. The two salt-tolerant strains contained 153 shared single copy genes (most of which code for hypothetical proteins) that were not found in the salt-sensitive(CcI3) and moderately salt-tolerant (CeD) strains. RNA-seq analysis of one of the two salt-tolerant strains (Frankia sp. strain CcI6) revealed hundreds of genes differentially expressed under salt and/or osmotic stress. Among the 153 genes, 7 and 7 were responsive to salt and osmotic stress, respectively. Proteomic profiling confirmed the transcriptome results and identified 19 and 8 salt and/or osmotic stress-responsive proteins in the salt-tolerant (CcI6) and the salt-sensitive (CcI3) strains, respectively. Conclusion Genetic differences between salt-tolerant and salt-sensitive Frankia strains isolated from Casuarina were identified. Transcriptome and proteome profiling of a salt-tolerant strain was used to determine molecular differences correlated with differential salt-tolerance and several candidate genes were identified. Mechanisms involving transcriptional and translational regulation, cell envelop remodeling, and previously uncharacterized proteins appear to be important for salt tolerance. Physiological and mutational analyses will further shed light on the molecular mechanism of salt tolerance in Casuarina associated Frankia isolates.",
+    "readLink": "http://link.springer.com/article/10.1186/s12864-017-4056-0"
+  },
+  {
+    "title": "Rare species support vulnerable functions in high-diversity ecosystems.",
+    "authors": [
+      "David Mouillot,",
+      "David R Bellwood,",
+      "Christopher Baraloto,",
+      "Jerome Chave,",
+      "Rene Galzin,",
+      "Mireille Harmelin-Vivien,",
+      "Michel Kulbicki,",
+      "Sebastien Lavergne,",
+      "Sandra Lavorel,",
+      "Nicolas Mouquet,",
+      "C E Timothy Paine,",
+      "Julien Renaud,",
+      "Wilfried Thuiller"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pbio.1001569",
+    "journalVolume": "Vol. 11,\n                                no. 5\n                                \n                                  p.\n                                  e1001569",
+    "issn": "1544-9173 (Print)",
+    "publisher": "1545-7885 (Online)",
+    "countryOfPublisher": "Public Library of Science (PLoS)",
+    "lcc": [
+      "United States",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://journals.plos.org/plosbiology/",
+    "abstract": "Around the world, the human-induced collapses of populations and species have triggered a sixth mass extinction crisis, with rare species often being the first to disappear. Although the role of species diversity in the maintenance of ecosystem processes has been widely investigated, the role of rare species remains controversial. A critical issue is whether common species insure against the loss of functions supported by rare species. This issue is even more critical in species-rich ecosystems where high functional redundancy among species is likely and where it is thus often assumed that ecosystem functioning is buffered against species loss. Here, using extensive datasets of species occurrences and functional traits from three highly diverse ecosystems (846 coral reef fishes, 2,979 alpine plants, and 662 tropical trees), we demonstrate that the most distinct combinations of traits are supported predominantly by rare species both in terms of local abundance and regional occupancy. Moreover, species that have low functional redundancy and are likely to support the most vulnerable functions, with no other species carrying similar combinations of traits, are rarer than expected by chance in all three ecosystems. For instance, 63% and 98% of fish species that are likely to support highly vulnerable functions in coral reef ecosystems are locally and regionally rare, respectively. For alpine plants, 32% and 89% of such species are locally and regionally rare, respectively. Remarkably, 47% of fish species and 55% of tropical tree species that are likely to support highly vulnerable functions have only one individual per sample on average. Our results emphasize the importance of rare species conservation, even in highly diverse ecosystems, which are thought to exhibit high functional redundancy. Rare species offer more than aesthetic, cultural, or taxonomic diversity value; they disproportionately increase the potential breadth of functions provided by ecosystems across spatial scales. As such, they are likely to insure against future uncertainty arising from climate change and the ever-increasing anthropogenic pressures on ecosystems. Our results call for a more detailed understanding of the role of rarity and functional vulnerability in ecosystem functioning.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23723735/pdf/?tool=EBI"
+  },
+  {
+    "title": "Integrated Analysis of Energy Saving and Thermal Comfort of Retrofits in Social Housing under Climate Change Influence in Uruguay",
+    "authors": [
+      "Lucía Pereira-Ruchansky,",
+      "Alexis Pérez-Fargallo"
+    ],
+    "doi": "https://doi.org/10.3390/su12114636",
+    "journalVolume": "Vol. 12,\n                                no. 4636\n                                \n                                  p.\n                                  4636",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Energy improvement studies normally use energy demand reduction as an indicator, disregarding dwellings that do not use air-conditioning systems or do so only under extreme weather conditions. They also do not quantify the impact of climate change on results. This research seeks to evaluate and prioritize energy improvements for existing Uruguayan dwellings, assessing energy demand and thermal comfort in both the current and future climate. A social dwelling was monitored and calibrated to assess energy efficiency measures simulating the current climate and for 2050 (IPCC Scenario A2). The results show that improvements must be linked to the use of air-conditioning in dwellings. When air-conditioning use is unknown, for example, in public policy, thermal transmittance in walls should be between 0.50–0.61 W/m2 K, in roofs between 0.32–0.47 W/m2 K, in openings 2.7W/m2 K, airtightness under 5 ACH n50 and with solar protections. However, when the use under free running is certain, thermal transmittance in walls and roofs should be 0.85 W/m2 K with an airtightness of 9.2 ACH n50 and solar protection used to avoid overheating. The operational ventilation and solar protection parameters were helpful to guarantee comfort, underlining the need for their inclusion and to train those who use them.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/11/4636"
+  },
+  {
+    "title": "Sensitivity Analysis of a Groundwater Infiltration Model and Sea-Level Rise Applications for Coastal Sewers",
+    "authors": [
+      "Elise Budd,",
+      "Roger  W Babcock,",
+      "Daniele Spirandelli,",
+      "Suwan Shen,",
+      "Adrienne Fung"
+    ],
+    "doi": "https://doi.org/10.3390/w12030923",
+    "journalVolume": "Vol. 12,\n                                no. 3\n                                \n                                  p.\n                                  923",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Groundwater elevations in coastal cities will be affected by climate-change-induced sea level rise (SLR) and wastewater collection systems will experience increased groundwater infiltration (GWI) due to greater submergence of sewer pipes. Commercial sewer hydraulics models consider GWI to be a constant quantity estimated via a low-flow monitoring campaign and are incapable of predicting future flows due to changes in GW elevations. A global sensitivity analyses conducted for a two-dimensional GWI pipe flow model found the most important input parameters are groundwater head and surrounding soil hydraulic conductivity. Two case studies were conducted considering a range of pipe defect severity to estimate increases in GWI associated with predictions of future SLR. The findings are that SLR will begin to have noticeable impacts in terms of increased average dry weather flow (ADWF) as soon as 2030 (3−10%) and will increase dramatically in the future (10−29% by 2050, and 50% or more by 2100). Daily and seasonal tide ranges affect the normal diurnal flow variations by between 3% and 10%. The estimation methodology and case studies described here illustrate the coming future importance of SLR effects on GWI in coastal collection systems that should be included in facilities planning and design.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/3/923"
+  },
+  {
+    "title": "BugTalk: Online Prediction for the Life of Spodoptera Litura (Common Cutworm)",
+    "authors": [
+      "Li-Xian Chen,",
+      "Wen-Liang Chen,",
+      "Ming-Yao Chiang,",
+      "Yi-Bing Lin,",
+      "Yun-Wei Lin,",
+      "Fung-Ling Ng"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2022.3199072",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  87157\n                                  – 87167",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "Due to climate change, Spodoptera litura has the potential to become an increasingly severe pest because of increased habitat suitability. To support precision agriculture, it is essential to accurately predict the life cycle of Spodoptera litura, and use the information for pest control. This paper proposes BugTalk to predict the life of Spodoptera litura (Common Cutworm). Based on the Internet of Things (IoT) technology, BugTalk is a real-time prediction version of modified Insect Life Cycle Modeling software (ILCYM), an open-source software package that implements the functions used in the four models of the four life stages of Spodoptera litura. In this paper, we significantly improve the ILCYM functions and several models of the previous studies to improve the accuracy of the prediction. We develop the first real-time prediction system that can predict the number of Spodoptera litura for the farm fields in real-time. The results are compared with the measurements during 2014-2020. We extend the temperature-based ILCYM model to accommodate humidity for the larvae emergence stage, which further improves the accuracy of the model. The Mean Arctangent Absolute Percentage Error (MAAPE) between the measurements and the BugTalk prediction is 24.593%. This result has been practically utilized in farm management.",
+    "readLink": "https://ieeexplore.ieee.org/document/9857879/"
+  },
+  {
+    "title": "Urbanity and Urbanization: An Interdisciplinary Review Combining Cultural and Physical Approaches",
+    "authors": [
+      "Christoph Schneider,",
+      "Bianca Achilles,",
+      "Hendrik Merbitz"
+    ],
+    "doi": "https://doi.org/10.3390/land3010105",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  105\n                                  – 130",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "This review paper focuses on research schemes regarding urbanity and urbanization, and brings together both cultural and physical approaches. First, we review the cultural and social construction of urbanity (as related to urbanization) in Germany. In the early 20th century, urbanity was mainly the result of identity derived from a historical perspective in cities. This has changed profoundly in recent decades as urbanity stems more and more from various urban lifestyles and the staging of societal experiences, as summarized in the German term, “Erlebnisgesellschaft” (thrill-seeking society). The discussion is extended by an assessment of the recent state of the art regarding physical urban research. The focus lies on different fields of research; we address topics such as biodiversity, urban climate, air pollution, and resilience, as well as their impact on urban planning and governance. In conclusion, in order to tackle recent developments and future challenges regarding social and environmental issues, an integrative approach urges novel cross- and inter-disciplinary research efforts in urban studies, including urban-rural linkages. A newly constituted assessment of urbanization and city quarter development is proposed; the assessment focuses on the conjoint analysis of mobility, “Energiewende” (energy transition), cultural drivers, demographic development, and environmental issues.",
+    "readLink": "http://www.mdpi.com/2073-445X/3/1/105"
+  },
+  {
+    "title": "Recent applications and potential of near-term (interannual to decadal) climate predictions",
+    "authors": [
+      "Terence J. O'Kane,",
+      "Adam A. Scaife,",
+      "Adam A. Scaife,",
+      "Yochanan Kushnir,",
+      "Anca Brookshaw,",
+      "Carlo Buontempo,",
+      "David Carlin,",
+      "Richenda K. Connell,",
+      "Francisco Doblas-Reyes,",
+      "Francisco Doblas-Reyes,",
+      "Nick Dunstone,",
+      "Kristian Förster,",
+      "Kristian Förster,",
+      "Antonio Graça,",
+      "Alistair J. Hobday,",
+      "Vassili Kitsios,",
+      "Larissa van der Laan,",
+      "Julia Lockwood,",
+      "William J. Merryfield,",
+      "Andreas Paxian,",
+      "Mark R. Payne,",
+      "M. Catherine Reader,",
+      "Geoffrey R. Saville,",
+      "Geoffrey R. Saville,",
+      "Doug Smith,",
+      "Balakrishnan Solaraju-Murali,",
+      "Nico Caltabiano,",
+      "Jessie Carman,",
+      "Ed Hawkins,",
+      "Noel Keenlyside,",
+      "Arun Kumar,",
+      "Daniela Matei,",
+      "Holger Pohlmann,",
+      "Scott Power,",
+      "Scott Power,",
+      "Marilyn Raphael,",
+      "Michael Sparrow,",
+      "Bo Wu"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2023.1121626",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "Following efforts from leading centres for climate forecasting, sustained routine operational near-term climate predictions (NTCP) are now produced that bridge the gap between seasonal forecasts and climate change projections offering the prospect of seamless climate services. Though NTCP is a new area of climate science and active research is taking place to increase understanding of the processes and mechanisms required to produce skillful predictions, this significant technical achievement combines advances in initialisation with ensemble prediction of future climate up to a decade ahead. With a growing NTCP database, the predictability of the evolving externally-forced and internally-generated components of the climate system can now be quantified. Decision-makers in key sectors of the economy can now begin to assess the utility of these products for informing climate risk and for planning adaptation and resilience strategies up to a decade into the future. Here, case studies are presented from finance and economics, water management, agriculture and fisheries management demonstrating the emerging utility and potential of operational NTCP to inform strategic planning across a broad range of applications in key sectors of the global economy.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2023.1121626/full"
+  },
+  {
+    "title": "24-h movement behaviour, thermal perception, thirst, and heat management strategies of children and adults during heat alerts: a pilot study",
+    "authors": [
+      "Nicholas Ravanelli,",
+      "Nicholas Ravanelli,",
+      "Nathan Morris,",
+      "Shawnda A. Morrison,",
+      "Shawnda A. Morrison"
+    ],
+    "doi": "https://doi.org/10.3389/fphys.2023.1179844",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-042X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physiology"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/physiology",
+    "abstract": "Background: Heat waves caused by climate change are increasingly challenging the wellbeing of individuals across the lifespan. Current efforts to understand the thermal perceptions and behaviours of people throughout the lifespan during heat waves are limited.Methods: Since June 2021, the Active Heatwave project has been recruiting households to better understand how individuals perceive, cope, and behave during heat waves. Using our novel web platform, participants were prompted to answer our Heat Alert Survey on days when a participants geolocation corresponded to a broadcasted local heat alert. Participants provided 24-h movement behaviour, thirst, thermal perception, and cooling strategies via validated questionnaires.Results: A total of 285 participants (118 children) from 60 distinct weather station locations globally participated between June and September 2021 and 2022. At least 1 heat alert (834 total) were identified from 95% (57/60) of the weather stations. Children reported spending more time performing vigorous intensity exercise compared to adults (p < 0.05), but no differences in thermal sensation, thermal comfort, or thirst sensation (all p > 0.31) were observed. For thirst management, 88% of respondents used water to relieve thirst, although notably, 15% of adults reported using alcohol. Regardless of age, staying indoors was the most common heat management strategy, whereas visiting cooling centres was the least.Conclusion: The present study presents a proof-of-concept combining local heat alert notifications with e-questionnaires for collecting near-real-time perceptual and behavioural data for both children and adults during heat waves. The observed patterns of behaviour suggest that present public heat-health guidelines are often ignored, children engage in fewer heat management strategies compared to adults, and these disparities highlight the need to improve public health communication and knowledge dissemination around promoting effective and accessible cooling solutions for children and adults.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fphys.2023.1179844/full"
+  },
+  null
+]

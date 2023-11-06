@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Using Multilayer Perceptron to Predict Forest Fires in Jiangxi Province, Southeast China",
+    "authors": [
+      "Keke Gao,",
+      "Zhongke Feng,",
+      "Shan Wang"
+    ],
+    "doi": "https://doi.org/10.1155/2022/6930812",
+    "journalVolume": "Vol. 2022",
+    "issn": "1026-0226 (Print)",
+    "publisher": "1607-887X (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Mathematics"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/ddns/",
+    "abstract": "The forest fire occurrence prediction model is a very useful tool for preventing and extinguishing forest fires. The determination of forest fire drivers is important for establishing a high-precision forest fire prediction model. In this paper, we studied the relative influence of different types of factors on forest fire occurrence in forest areas of Jiangxi Province. Several models, i.e., Multilayer perceptron (MLP), Logistic, and Support vector machine (SVM), are used to predict the occurrence of forest fires. Through modeling and analysis of forest fire data from 2010 to 2016 years, we found that climatic and topographic are influential factors in the model of forest fire occurrence in Jiangxi Province. Subsequently, we established the MLP occurrence model based on the significant factors after the variable screening. Using ROC plots to compare the effects of the three models, MLP scored 0.984, which was higher than Logistic of 0.933 and SVM of 0.974. For the independent validation set of 2017-2018, an accuracy of 91.73% was also achieved. Therefore, the multilayer perceptron is well suited for the prediction of forest fires in Jiangxi Province. Based on the prediction results, a fire risk level map of Jiangxi Province was produced. Finally, we analyzed the changes in forest fire quantity under climate change, which can be helpful for fire prevention and suppression of forest fires.",
+    "readLink": "http://dx.doi.org/10.1155/2022/6930812"
+  },
+  {
+    "title": "Regional Conservation Assessment of the Threatened Species: A Case Study of Twelve Plant Species in the Farasan Archipelago",
+    "authors": [
+      "Rahmah N. Al-Qthanin,",
+      "Samah A. Alharbi"
+    ],
+    "doi": "https://doi.org/10.3390/conservation3010011",
+    "journalVolume": "Vol. 3,\n                                no. 11\n                                \n                                  pp.\n                                  127\n                                  – 152",
+    "issn": "2673-7159 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/conservation",
+    "abstract": "Assessing species at the regional level for their conservation is a vital first step in identifying and prioritizing species for both ex situ and in situ conservation actions. The complex coastal geomorphology of the Farasan Archipelago gives rise to promontories and bays that fragment the coastal flora. Climate change studies, combined with a case study of anthropogenic land use changes such as urbanization, tourism, and fishing, highlight the threat to the fragmented plant populations. In this study, the regional IUCN categories and criteria have been used to assess the conservation status of twelve targeted taxa of the Farasan Archipelago based on the data collected during field surveys and a literature review. According to our results, six species have been categorized as endangered (EN), four species as vulnerable (VU), and two species as near threatened (NT). Compared to an earlier assessment at the global level, Avicennia marina and Rhizophora mucronata have been re-categorized with a high degree of threat and ten species have been assessed for the first time. An effective action plan for the protection of the coastal zone and inland area biodiversity of the Archipelago is crucial to reduce threats to the islands’ plants.",
+    "readLink": "https://www.mdpi.com/2673-7159/3/1/11"
+  },
+  {
+    "title": "“The International Conservation Collection of Coffee Varieties” at Wilhelma, Stuttgart, Germany—A First Step towards Preserving the Diversity of Coffee Cultivars",
+    "authors": [
+      "Björn Schäfer"
+    ],
+    "doi": "https://doi.org/10.3390/ICC2023-14843",
+    "journalVolume": "Vol. 89,\n                                no. 26\n                                \n                                  p.\n                                  26",
+    "issn": "2504-3900 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "General Works"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/proceedings",
+    "abstract": "The coffee world is changing. Farmers and industry are facing major challenges, largely driven by climate change, changing consumer habits, sustainability and digitalization. One major way to solve these challenges is the coffee cultivars themselves. The coffee farmer might not be able to stop the effects of our changing climate or the habits of consumers, but by growing the right plant at the right place, they might be able to withstand at least harsh weather conditions like heavy rain or long-lasting dry periods. Moreover, the production of single-estate high-quality coffee of pure cultivars guarantees a higher income for the farmer and increased enjoyment for the consumer. For this reason, in 2016, the Zoological-Botanical Garden Wilhelma started to build up a living collection of coffee cultivars. The so called “International conservation collection of Coffee varieties” contains 115 accessions of Coffea arabica L., Coffea benghalensis B. Heyne ex Schult., Coffea canephora Pierre ex A. Froehner and Coffea liberica Hiern. The aim of the collection is to preserve as many different coffee cultivars for following generations as possible. The scientific collection is based on the trust and support of coffee farmers from all over the world. Currently, there are project partners in Brazil, China, Columbia, El Salvador, India, Malaysia, Mexico and Thailand. All of them are able to exchange knowledge about their different cultivars and have a backup of living specimens if their own plants are lost due to plant pests or natural disaster. They might even try new cultivars from foreign origins that might be better suited for changing local climate conditions. From every accession, four plants are grown, from which one is cultivated as a big, mostly natural-looking shrub used for exhibitions and cherry harvest. The three remaining plants are kept at a smaller size of up to 120 m to guarantee the preservation of the genetic resource. In addition, the “International conservation collection of Coffee varieties” might be the ultimate resource for all studies dealing with sensorial and aroma profiles of different coffee cultivars because all plants are grown under similar conditions, for instance, similar soil conditions, temperature and water quality. Another advantage is the permanent availability of 115 genetically different coffee varieties for genetic studies. This includes the possibility of generating a family tree of coffee varieties, and in reverse, this offers the opportunity to identify every cultivar by its genetic fingerprint. To be able to realize further projects, it is necessary to obtain an exemption from the Nagoya Protocol to access genetic resources and for the fair and equitable sharing of benefits arising from their utilization for all coffee cultivars. We are working on this, supported by the Federal Office for Agriculture and Food. Finally, to be able to conserve the diversity of existing coffee varieties, more effort will be necessary in traditionally coffee-growing countries on the African continent and the Arabian peninsula.",
+    "readLink": "https://www.mdpi.com/2504-3900/89/1/26"
+  },
+  null,
+  {
+    "title": "Radon metrology for use in climate change observation and radiation protection at the environmental level",
+    "authors": [
+      "S. Röttger,",
+      "A. Röttger,",
+      "C. Grossi,",
+      "A. Vargas,",
+      "U. Karstens,",
+      "G. Cinelli,",
+      "E. Chung,",
+      "E. Chung,",
+      "D. Kikaj,",
+      "C. Rennick,",
+      "F. Mertes,",
+      "I. Radulescu"
+    ],
+    "doi": "https://doi.org/10.5194/adgeo-57-37-2022",
+    "journalVolume": "Vol. 57\n                                \n                                \n                                  pp.\n                                  37\n                                  – 47",
+    "issn": "1680-7340 (Print)",
+    "publisher": "1680-7359 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.advances-in-geosciences.net",
+    "abstract": "Radon (222Rn) gas is the largest source of public exposure to naturally occurring radioactivity and the identification of radon priority areas is required by the Council Directive 2013/59/Euratom. Radon is also used as a tracer to improve atmospheric transport models and to indirectly estimate greenhouse gas (GHG) fluxes using the Radon Tracer Method (RTM). This method is based on the correlation between atmospheric concentrations of radon and GHG, together with information on the radon flux data. For radiological data, all European countries have installed networks of automatic gamma dose rate monitoring stations and report the real-time information gathered to the European Radiological Data Exchange Platform (EURDEP). So far, atmospheric radon activity concentrations and radon fluxes are not yet reported in EURDEP, nor routinely measured within the European radiological networks although these observations could help to avoid false positives results. Due to above applications, there is a need of building a metrological chain to ensure high quality radon activity concentrations and radon flux measurements. Both climate and radiation protection research communities underline the need for improved traceability in low-level atmospheric radon measurements (Khanbabaee et al., 2021). The EMPIR project 19ENV01 traceRadon1 is aimed towards providing the necessary measurement infrastructure and transfer standards to fulfil this need. Results of this project are particularly important for improving independent GHG emission estimates that support national reporting under the Paris Agreement on climate change and for the Council Directive 2013/59/Euratom, thus benefitting two large scientific communities. In this paper, early results, such as new activity standard developments and an overview of commercial and research radon monitors are presented and discussed. These results will feed into the traceRadon project with respect to radionuclide metrology in air and its potential for the improvement of the RTM.",
+    "readLink": "https://adgeo.copernicus.org/articles/57/37/2022/adgeo-57-37-2022.pdf"
+  },
+  {
+    "title": "Electromagnetic Interference in Cardiac Implantable Electronic Devices Due to Dynamic Wireless Power Systems for Electric Vehicles",
+    "authors": [
+      "Tommaso Campi,",
+      "Silvano Cruciani,",
+      "Francesca Maradei,",
+      "Mauro Feliziani"
+    ],
+    "doi": "https://doi.org/10.3390/en16093822",
+    "journalVolume": "Vol. 16,\n                                no. 3822\n                                \n                                  p.\n                                  3822",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Electric vehicles (EV) are now considered the present and future of road transportation to reduce the emission of CO2 into the environment and thus progressively reduce global warming and climate change. However, EVs currently have some weaknesses such as the available range of battery-powered EVs and the recharging time of the batteries. To overcome these problems, some electrification projects have been proposed for road transportation such as the dynamic wireless power transfer (DWPT), where an EV charges as it moves along an electrified lane using magneto-resonant coupling between short tracks mounted on the road pavement and the vehicle’s onboard pickup coils. While the results are encouraging from an electrical point of view, there is concern regarding the magnetic field in the environment produced by the DWPT coils, which can produce adverse health effects in humans and electromagnetic interference (EMI) in electronic devices. The latter also includes implantable medical devices (IMDs) and in particular cardiac implantable electronic devices (CIEDs), which may be present among vehicle passengers and pedestrians in areas surrounding the vehicle. The aim of this study is the numerical analysis of the EMI produced by a DWPT system in CIEDs with leads such as pacemakers, implantable cardioverter defibrillators (ICDs), etc. EMI is mainly produced by the incident magnetic field and the induced voltage at the input port of a CIED; therefore, in this work the magnetic field levels produced by a DWPT system operating at 85 kHz are calculated first, then the voltage at the input port of a pacemaker is evaluated as that produced by the magnetic field incident on the loop surface formed by a lead implanted in the venous system. According to ISO 14117 standard, it is assumed that the lead loop is planar, semicircular in shape and with an area equal to 225 cm2. Since the lead can be placed anywhere where a human can be and with any orientation, an innovative and sophisticated roto-translation algorithm is proposed to find the maximum value of the peak-to-peak induced loop voltage in the most critical regions inside the vehicle cabin and beside the vehicle near the DWPT coils. The preliminary results obtained show that there is no EMI risk inside the vehicle for the passengers with CIEDs, while some concern for pedestrians is due to the induced voltage at the input port of a CIED with unipolar leads which can exceed the ISO 14117 limit in the region next to the vehicle.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/9/3822"
+  },
+  {
+    "title": "Influence of Temperature on the Interaction for Resource Utilization between Fall Armyworm, <i>Spodoptera frugiperda</i> (Lepidoptera: Noctuidae), and a Community of Lepidopteran Maize Stemborers Larvae",
+    "authors": [
+      "Bonoukpoè  Mawuko Sokame,",
+      "François Rebaudo,",
+      "Peter Malusi,",
+      "Sevgan Subramanian,",
+      "Dora  Chao Kilalo,",
+      "Gerald Juma,",
+      "Paul-André Calatayud"
+    ],
+    "doi": "https://doi.org/10.3390/insects11020073",
+    "journalVolume": "Vol. 11,\n                                no. 2\n                                \n                                  p.\n                                  73",
+    "issn": "2075-4450 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/insects/",
+    "abstract": "Intra- and interspecific interactions within communities of species that utilize the same resources are characterized by competition or facilitation. The noctuid stemborers, Busseola fusca and Sesamia calamistis, and the crambid stemborer, Chilo partellus were the most important pests of maize in sub-Saharan Africa before the recent “invasion” of fall armyworm (FAW), Spodoptera frugiperda, which currently seriously limits maize yields in Africa. This new pest is interacting with the stemborer community at the larval stage in the use of maize resources. From previous works on the influence of temperature on the larval intra- and interspecific resources utilization within the community of Lepidoptera stemborers involving B. fusca, S. calamistis, and C. partellus, there is a need to update these studies by adding the new pest, S. frugiperda, in order to understand the effect of temperature on the larval interactions of all these four species under the context of climate change. The influence of temperature on intra- and interspecific larval interactions was studied using artificial stems kept at different constant temperatures (15 °C, 20 °C, 25 °C, and 30 °C) in an incubator and assessing survival and relative growth rates of each species in single and multi-species experiments. After the inclusion of FAW into the experiments, with regard to relative growth rates, both intra- and interspecific competition was observed among all four species. With regard to survival rates, cannibalism can also explain the intra- and interspecific interactions observed among all four species. Interspecific competition was stronger between the stemborers than between the FAW and the stemborers. Similar to lepidopteran stemborers, temperature affected both survival and relative growth rates of the FAW as well. Regardless of the temperature, C. partellus was superior in interspecific interactions shown by higher relative growth and survival rates. The results suggest that the FAW will co-exist with stemborer species along entire temperature gradient, though competition and/or cannibalism with them is weak. In addition, temperature increases caused by climate change is likely to confer an advantage to C. partellus over the fall armyworm and the other noctuids.",
+    "readLink": "https://www.mdpi.com/2075-4450/11/2/73"
+  },
+  {
+    "title": "A Review of Climate Change Impacts on the USA-Mexico Transboundary Santa Cruz River Basin",
+    "authors": [
+      "Eylon Shamir,",
+      "Elia  M. Tapia-Villaseñor,",
+      "Mary-Belle Cruz-Ayala,",
+      "Sharon  B. Megdal"
+    ],
+    "doi": "https://doi.org/10.3390/w13101390",
+    "journalVolume": "Vol. 13,\n                                no. 1390\n                                \n                                  p.\n                                  1390",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "In the parched Upper Santa Cruz River Basin (USCRB), a binational USA–Mexico basin, the water resources depend on rainfall-triggered infrequent flow events in ephemeral channels to recharge its storage-limited aquifers. In-situ data from the basin highlight a year-round warming trend since the 1980s and a concerning decline in average precipitation (streamflow) from 1955–2000 to 2001–2020 by 50% (87.6%) and 17% (63%) during the winter and summer, respectively. Binational sustainable management of the basins water resources requires a careful consideration of prospective climatic changes. In this article we review relevant studies with climate projections for the mid-21st century of four weather systems that affect the region’s precipitation. First, the North American Monsoon (NAM) weather system accounts for ~60% of the region’s annual rainfall. The total NAM precipitation is projected to decline while heavy rainfall events are expected to intensify. Second, the frequency of the pacific cold fronts, the region’s prevalent source of winter precipitation, is projected to decline. Third, the frequency and intensity of future atmospheric rivers, a weather system that brings winter rainfall to the region, are projected to increase. Fourth, the frequency and intensity of large eastern pacific tropical cyclones (TC) are expected to increase. On rare occasions, remnants of TC make their way to the USCRB to cause storms with considerable impact on the region’s water resources. In contrast to the high confidence projections for the warming trend to persist throughout the mid-21st century, the precipitation projections of these four weather systems affecting the region encompass large uncertainties and studies have often reported contradicting trends. An added source of uncertainty is that the USCRB is located at the periphery of the four rain-bearing weather systems and small mesoscale changes in these weather systems may have accentuated impacts on their edges. Despite the high uncertainty in the projections of future precipitation, the early 21st century drying trend and the projected mid-21st century decline in precipitation events serve as a pressing call for planning and actions to attain sustainable water resources management that reliably satisfies future demands.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/10/1390"
+  },
+  {
+    "title": "Methane and Dissolved Organic Matter in the Ground Ice Samples from Central Yamal: Implications to Biogeochemical Cycling and Greenhouse Gas Emission",
+    "authors": [
+      "Petr  B. Semenov,",
+      "Anfisa  A. Pismeniuk,",
+      "Sergei  A. Malyshev,",
+      "Marina  O. Leibman,",
+      "Irina  D. Streletskaya,",
+      "Elizaveta  V. Shatrova,",
+      "Alexander  I. Kizyakov,",
+      "Boris  G. Vanshtein"
+    ],
+    "doi": "https://doi.org/10.3390/geosciences10110450",
+    "journalVolume": "Vol. 10,\n                                no. 450\n                                \n                                  p.\n                                  450",
+    "issn": "2076-3263 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/geosciences",
+    "abstract": "Permafrost thawing leads to mobilization of the vast carbon pool into modern biogeochemical cycling through the enhanced release of dissolved organic matter (DOM) and production of greenhouse gases (CO2 and CH4). In this work, we focus on the study of methane and DOM distribution and genesis in the ground ice samples of thermodenudational exposure in the Central Yamal (Russian Arctic). We propose that the liberation of the ice-trapped CH4 and generation of CO2 by DOM mineralization are the earliest factors of atmospheric greenhouse gases emission as a result of permafrost thawing. The observed enormously “light ” isotope signatures of methane (δ13C 88%) by biochemically refractory humic acids. Distribution of the labile protein-like DOM reflects the specific features of carbon and nitrogen cycles in the tabular ground ice and ice wedge samples. Tabular ground ice units are shown to be a significant source of methane and high quality organic matter as well as dissolved inorganic nitrogen (DIN). Ice wedges express a high variation in DOM composition and lability.",
+    "readLink": "https://www.mdpi.com/2076-3263/10/11/450"
+  },
+  {
+    "title": "Forest soil respiration response to increasing nitrogen deposition along an urban–rural gradient",
+    "authors": [
+      "Ruoxian Fu,",
+      "Xiaoniu Xu,",
+      "Yuanchun Yu,",
+      "Yunbin Zhang,",
+      "Zhaolin Sun,",
+      "Xiao Tao"
+    ],
+    "doi": "Vol. 27\n                                \n                                \n                                  p.\n                                  e01575",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Forest soil respiration is an important part of the terrestrial ecosystem carbon (C) cycle and controlled by multiple factors, especially atmospheric nitrogen (N) deposition and environmental change. However, it remains unclear how soil respiration responds to N deposition in forests along an urban–rural gradient, as most studies have only been conducted in single environmental areas, especially in natural forests. Here, in order to explore how N deposition influences soil respiration, a field experiment with different levels of N deposition (50 and 100 kg N·ha−1·yr−1) was conducted in forests along an urban–rural gradient of Hefei (31°52′N, 117°17′ E). Soil temperature (T), soil water content (SW), soil physiochemical properties, and soil microbes were simultaneously measured to investigate the underlying mechanisms of N deposition effects on soil respiration. The results showed that the soil respiration and cumulative emission flux of CO2 (RCUM) were increased by N deposition in all forests. Nitrogen addition treatments significantly enhanced the mean RCUM by approximately 6.04%, 11.02%, and 3.62%, respectively, in urban, suburban, and rural forests. The positive effects of N deposition on soil respiration had different temporal variations in different forests, and the strongest positive effects occurred with the shortest time was found in the urban forest. Temperature sensitivities of soil (Q10) were significantly different in the three forests, showing higher Q10 values in forests more near to the urban. In all forests, the total interpretation rates of climate factors, soil physicochemical properties and soil microbes to soil respiration were over 80%. Climate factors were the primary factor for explaining the variation of soil respiration under N deposition. The interpretations of the climate factors, soil physiochemical properties, and soil microbes to soil respiration were changed by N deposition, and the combined effects of these factors were much higher than those of the individual factors. Our findings provide novel insights for studying the response of soil respiration to N deposition under different environmental factors.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989421001256"
+  }
+]

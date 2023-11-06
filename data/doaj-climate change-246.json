@@ -1,0 +1,250 @@
+[
+  {
+    "title": "Foreword",
+    "authors": [
+      "Sally Kift"
+    ],
+    "doi": "https://doi.org/10.21153/jtlge2021vol12no1art1015",
+    "journalVolume": "Vol. 12,\n                                no. 1",
+    "issn": "1838-3815 (Online)",
+    "publisher": "Deakin University",
+    "countryOfPublisher": "Australia",
+    "lcc": [
+      "Education: Special aspects of education"
+    ],
+    "journalUrl": "https://ojs.deakin.edu.au/index.php/jtlge/index",
+    "abstract": "This Special Issue, devoted to micro-credentials and qualifications for future work and learning in a disrupted world, is a welcome and critically timed contribution to educational theorising and practice internationally. COVID-19 has accelerated Industry 4.0’s pervasive labour market disruption. Digitisation’s efficiencies have been rapidly embraced and broadly up-scaled as a matter of necessity. Many industries and professions have fast tracked digitalisation to transform pre-pandemic business models for current and future sustainability. We have seen all education sectors – Kindergarten to Year 12 (K-12), vocational education and training/ further education (VET/FE) and higher education (HE) – digitise and digitalise to varying degrees in their rapid move to emergency remote teaching (Hodges et al., 2020). Robust evaluation will be needed to assess the efficacy of that pedagogical triaging – our well-intentioned ‘panic-gogy’ (Kamenetz, 2020) – to inform the quality and fitness-for-future-purpose of that online pivot. In the meantime, HE’s students and graduates emerge from 2020 wanting to support and apply their studies in a challenging job market that was already weakening pre-pandemic and has now worsened (for example in the Australian context, Social Research Centre, 2020), especially for young people. If that was not enough, significant and underlying issues of climate change, reconciliation with First Nations, demographic change and globalisation continue to have implications for equal and equitable participation in the full range of life opportunities, including in meaningful paid work. In brief, the context for this Special Issue is an international grand challenge writ very large.",
+    "readLink": "https://ojs.deakin.edu.au/index.php/jtlge/article/view/1015"
+  },
+  {
+    "title": "Genetic Analysis of Flooding Tolerance in an Andean Diversity Panel of Dry Bean (Phaseolus vulgaris L.)",
+    "authors": [
+      "Ali Soltani,",
+      "Ali Soltani,",
+      "Samira MafiMoghaddam,",
+      "Samira MafiMoghaddam,",
+      "Atena Oladzad-Abbasabadi,",
+      "Katelynn Walter,",
+      "Patrick J. Kearns,",
+      "Patrick J. Kearns,",
+      "Jose Vasquez-Guzman,",
+      "Sujan Mamidi,",
+      "Rian Lee,",
+      "Ashley L. Shade,",
+      "Ashley L. Shade,",
+      "Ashley L. Shade,",
+      "Janette L. Jacobs,",
+      "Martin I. Chilivers,",
+      "David B. Lowry,",
+      "David B. Lowry,",
+      "Phillip McClean,",
+      "Juan M. Osorno"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2018.00767",
+    "journalVolume": "Vol. 9",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Climate change models predict temporal and spatial shifts in precipitation resulting in more frequent incidents of flooding, particularly in regions with poor soil drainage. In these flooding conditions, crop losses are inevitable due to exposure of plants to hypoxia and the spread of root rot diseases. Improving the tolerance of bean cultivars to flooding is crucial to minimize crop losses. In this experiment, we evaluated the phenotypic responses of 277 genotypes from the Andean Diversity Panel to flooding at germination and seedling stages. A randomized complete block design, with a split plot arrangement, was employed for phenotyping germination rate, total weight, shoot weight, root weight, hypocotyl length, SPAD index, adventitious root rate, and survival score. A subset of genotypes (n = 20) were further evaluated under field conditions to assess correlations between field and greenhouse data and to identify the most tolerant genotypes. A genome-wide association study (GWAS) was performed using ~203 K SNP markers to understand the genetic architecture of flooding tolerance in this panel. Survival scores between field and greenhouse data were significantly correlated (r = 0.55, P = 0.01). Subsequently, a subset of the most tolerant and susceptible genotypes were evaluated under pathogenic Pythium spp. pressure. This experiment revealed a potential link between flooding tolerance and Pythium spp. resistance. Several tolerant genotypes were identified that could be used as donor parents in breeding pipelines, especially ADP-429 and ADP-604. Based on the population structure analysis, a subpopulation consisting of 20 genotypes from the Middle American gene pool was detected that also possessed the highest root weight, hypocotyl length, and adventitious root development under flooding conditions. Genomic regions associated with flooding tolerance were identified including a region on Pv08/3.2 Mb, which is associated with germination rate and resides in vicinity of SnRK1.1, a central gene involved in response of plants to hypoxia. Furthermore, a QTL at Pv07/4.7 Mb was detected that controls survival score of seedlings under flooding conditions. The association of these QTL with the survivability traits including germination rate and survival score, indicates that these loci can be used in marker-assisted selection breeding to improve flooding tolerance in the Andean germplasm.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2018.00767/full"
+  },
+  {
+    "title": "Reduced Complexity Model Intercomparison Project Phase 1: introduction and evaluation of global-mean temperature response",
+    "authors": [
+      "Z. R. J. Nicholls,",
+      "Z. R. J. Nicholls,",
+      "M. Meinshausen,",
+      "M. Meinshausen,",
+      "M. Meinshausen,",
+      "J. Lewis,",
+      "R. Gieseke,",
+      "D. Dommenget,",
+      "K. Dorheim,",
+      "C.-S. Fan,",
+      "J. S. Fuglestvedt,",
+      "T. Gasser,",
+      "U. Golüke,",
+      "P. Goodwin,",
+      "C. Hartin,",
+      "A. P. Hope,",
+      "E. Kriegler,",
+      "N. J. Leach,",
+      "D. Marchegiani,",
+      "L. A. McBride,",
+      "Y. Quilcaille,",
+      "J. Rogelj,",
+      "J. Rogelj,",
+      "R. J. Salawitch,",
+      "R. J. Salawitch,",
+      "R. J. Salawitch,",
+      "B. H. Samset,",
+      "M. Sandstad,",
+      "A. N. Shiklomanov,",
+      "R. B. Skeie,",
+      "C. J. Smith,",
+      "C. J. Smith,",
+      "S. Smith,",
+      "K. Tanaka,",
+      "K. Tanaka,",
+      "J. Tsutsui,",
+      "Z. Xie"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-13-5175-2020",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  5175\n                                  – 5190",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Reduced-complexity climate models (RCMs) are critical in the policy and decision making space, and are directly used within multiple Intergovernmental Panel on Climate Change (IPCC) reports to complement the results of more comprehensive Earth system models. To date, evaluation of RCMs has been limited to a few independent studies. Here we introduce a systematic evaluation of RCMs in the form of the Reduced Complexity Model Intercomparison Project (RCMIP). We expect RCMIP will extend over multiple phases, with Phase 1 being the first. In Phase 1, we focus on the RCMs' global-mean temperature responses, comparing them to observations, exploring the extent to which they emulate more complex models and considering how the relationship between temperature and cumulative emissions of CO2 varies across the RCMs. Our work uses experiments which mirror those found in the Coupled Model Intercomparison Project (CMIP), which focuses on complex Earth system and atmosphere–ocean general circulation models. Using both scenario-based and idealised experiments, we examine RCMs' global-mean temperature response under a range of forcings. We find that the RCMs can all reproduce the approximately 1 ∘C of warming since pre-industrial times, with varying representations of natural variability, volcanic eruptions and aerosols. We also find that RCMs can emulate the global-mean temperature response of CMIP models to within a root-mean-square error of 0.2 ∘C over a range of experiments. Furthermore, we find that, for the Representative Concentration Pathway (RCP) and Shared Socioeconomic Pathway (SSP)-based scenario pairs that share the same IPCC Fifth Assessment Report (AR5)-consistent stratospheric-adjusted radiative forcing, the RCMs indicate higher effective radiative forcings for the SSP-based scenarios and correspondingly higher temperatures when run with the same climate settings. In our idealised setup of RCMs with a climate sensitivity of 3 ∘C, the difference for the ssp585–rcp85 pair by 2100 is around 0.23∘C(±0.12 ∘C) due to a difference in effective radiative forcings between the two scenarios. Phase 1 demonstrates the utility of RCMIP's open-source infrastructure, paving the way for further phases of RCMIP to build on the research presented here and deepen our understanding of RCMs.",
+    "readLink": "https://gmd.copernicus.org/articles/13/5175/2020/gmd-13-5175-2020.pdf"
+  },
+  {
+    "title": "Spatiotemporal variation of net primary productivity and its response to drought in Inner Mongolian desert steppe",
+    "authors": [
+      "Dongsheng Yu,",
+      "Yonghong Li,",
+      "Binglu Yin,",
+      "Nitu Wu,",
+      "Ruhan Ye,",
+      "Guixiang Liu"
+    ],
+    "doi": "Vol. 33\n                                \n                                \n                                  p.\n                                  e01991",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "The desert steppe in Inner Mongolia is an important part of the temperate grasslands in Central Asia and plays a key role in sustaining the regional pastoral livelihood and securing the ecological environment in northern China. Grassland net primary productivity (NPP) is an important indicator to ecosystem health, and is largely affected by the variation of precipitation, especially the frequent droughts in the desert steppe region. Monitoring the spatiotemporal changes of the NPP in relation with climate variation, especially with the drought events, is of great significance for assessing the total amount of grassland resources and predicting its future change trend, which is critically important for the development of grassland management regimes with the consideration of current and future climate changes. In the present study, we estimated the spatiotemporal variation of the NPP of the desert steppe in Inner Mongolia for the period from 2000 to 2019. We calculated the standardized precipitation evapotranspiration index (SPEI) of the study area, and analyzed its effects on vegetation NPP, especially for the drought effects. We found that the temporal trend line and Mann-Kendall statistical curve of vegetation NPP were basically consistent. Over the 20-year period, the NPP showed an overall downward trend during the plant growing season, or in summer and autumn period, but a slight upward trend in spring. Spatially, the plant growing season NPP slightly decreased on the 74.89% of the studied desert steppe area, the NPP in summer slightly decreased on the 72.25% of the area, while the NPP in spring slightly increased on the 61.8% of the area, and NPP in autumn significantly decreased on the 25.9% of the area. From the perspective of the persistence on different time scales, the proportion of moderate persistence-slight increase area covered 11.72% of the study area, and weak persistence-slight increase in spring covered 50.10% of the study area. The proportion of weak persistence-slight decrease in summer was 59.68%. The proportion of moderate persistence-slight decrease covered 18.83% in autumn. In the growing season, a positive correlation between NPP and SPEI accounted for 91.18% of the desert steppe area. Over 8% of the area showed a highly significant positive correlation, and 25.21% showed a significant positive correlation. Overall, 92.56% of the area showed a positive correlation in spring, and 87.26% showed a positive correlation in summer. A positive correlation was observed over 60.71% of the area in autumn. The research results show that the NPP results of CASA model simulating desert vegetation in Inner Mongolia are reliable. The SPEI drought index has good applicability in the study area. On the whole, the dynamic changes of NPP are closely related to drought. This research has important reference significance for regional ecosystem management and construction.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989421005412"
+  },
+  {
+    "title": "GHGs emission reductions and economic saving by enhancing switching to natural gas vehicles in Egypt",
+    "authors": [
+      "Sayed I. Shaarawi,",
+      "Khaled Abutaleb,",
+      "Ashraf R. Aboelmagd,",
+      "Tarek Temraz"
+    ],
+    "doi": "https://doi.org/10.1186/s42269-023-01082-1",
+    "journalVolume": "Vol. 47,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 18",
+    "issn": "2522-8307 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://bnrc.springeropen.com",
+    "abstract": "Abstract Background Transportation and Climate change are inextricably linked. As the transport sector is the primary consumer of petroleum products and therefore, contributes a significant share of greenhouse gases (GHGs). Mobile sources share ranges between 25 and 30% of total Egypt’s GHG emissions. So, Egypt is giving a great concern for natural gas vehicles (NGVs) as low-carbon alternative to gasoline/diesel vehicles. This study aims to analyze the economic and the environmental impact of the NGV fleet growth in Egypt with future prospective scenarios, concurrently with governmental strategy based on expansion of compressed natural gas fueling stations infrastructure and incentives for NGV transformation. Results Egypt’s NGV program led to about 5 Mt CO2 emissions reductions and about 21.57 billion EGP (US$1.4 billion) economic saving since starting up to end of 2021. And implementing of presidential initiative in 2021 to accelerate NGVs led to jumping in CO2 emissions reductions and economic saving by about 40% and 49% of pervious year, respectively. Conclusions It is observed that scenario no. 1, of NGV adopting percent 15%, is the most fitted business as usual scenario to the presidential initiative and will lead to emissions reduction by about 30 Mt CO2 and economic saving by about 278 billion EGP (US$17.6 billion).",
+    "readLink": "https://doi.org/10.1186/s42269-023-01082-1"
+  },
+  {
+    "title": "Gender and climate change as new development tropes of vulnerability for the Global South: essentializing gender discourses in Maasailand, Tanzania",
+    "authors": [
+      "Sara de Wit"
+    ],
+    "doi": "https://doi.org/10.1080/25729861.2021.1984638",
+    "journalVolume": "Vol. 4,\n                                no. 1",
+    "issn": "2572-9861 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Technology (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/ttap",
+    "abstract": "This article explores how international discourses on gender and climate change currently unfold for the Global South, and compares this with earlier gender discourses that traveled to Maasailand (Tanzania). By tracing the genealogy of older gender imaginaries, striking similarities emerge between the traveling discourses which position (African) women as vulnerable. This article argues against the feminization of climate change: the simplistic and historical reproduction of vulnerability along gender binaries. Gender and climate change discourses repeat historical productions of vulnerability and development that lead to a tendency to speak for rather than listen to the very women the discourses seek to support. I argue that more research is needed to understand what women do to live with climate change and its emergent discourses instead of focusing merely on what “climate change does to women.” Discourses on gender and climate change need critical insight from de- and post-colonial critiques of development and (eco)feminist scholarship that foregrounds gender’s intersectional, productive dimensions and agentive qualities. Essentializing categories like the “feminization of poverty” and women as “victims of culture” should serve as cautionary tales for climate change, which can be used by those in power to obscure more urgent problems, such as increasing land dispossession.",
+    "readLink": "http://dx.doi.org/10.1080/25729861.2021.1984638"
+  },
+  null,
+  {
+    "title": "Ecological niche transferability using invasive species as a case study.",
+    "authors": [
+      "Miguel Fernández,",
+      "Healy Hamilton"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0119891",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  p.\n                                  e0119891",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Species distribution modeling is widely applied to predict invasive species distributions and species range shifts under climate change. Accurate predictions depend upon meeting the assumption that ecological niches are conserved, i.e., spatially or temporally transferable. Here we present a multi-taxon comparative analysis of niche conservatism using biological invasion events well documented in natural history museum collections. Our goal is to assess spatial transferability of the climatic niche of a range of noxious terrestrial invasive species using two complementary approaches. First we compare species' native versus invasive ranges in environmental space using two distinct methods, Principal Components Analysis and Mahalanobis distance. Second we compare species' native versus invaded ranges in geographic space as estimated using the species distribution modeling technique Maxent and the comparative index Hellinger's I. We find that species exhibit a range of responses, from almost complete transferability, in which the invaded niches completely overlap with the native niches, to a complete dissociation between native and invaded ranges. Intermediate responses included expansion of dimension attributable to either temperature or precipitation derived variables, as well as niche expansion in multiple dimensions. We conclude that the ecological niche in the native range is generally a poor predictor of invaded range and, by analogy, the ecological niche may be a poor predictor of range shifts under climate change. We suggest that assessing dimensions of niche transferability prior to standard species distribution modeling may improve the understanding of species' dynamics in the invaded range.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0119891"
+  },
+  {
+    "title": "Geographical characteristics of contemporary international migration in and into Europe",
+    "authors": [
+      "Károly Kocsis,",
+      "Judit Molnár Sansum,",
+      "Lea Kreinin,",
+      "Gábor Michalkó,",
+      "Zsolt Bottlik,",
+      "Balázs Szabó,",
+      "Dániel Balizs,",
+      "György Varga"
+    ],
+    "doi": "https://doi.org/10.15201/hungeobull.65.4.6",
+    "journalVolume": "Vol. 65,\n                                no. 4\n                                \n                                  pp.\n                                  369\n                                  – 390",
+    "issn": "2064-5031 (Print)",
+    "publisher": "2064-5147 (Online)",
+    "countryOfPublisher": "Research Centre for Astronomy and Earth Sciences, Hungarian Academy of Sciences",
+    "lcc": [
+      "Hungary",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://ojs3.mtak.hu/index.php/hungeobull/index",
+    "abstract": "The study offers a short geographical overview of migration studies and theories, doing so in the context of the European migration crisis of 2015–2016. It outlines the history of international migrations affecting Europe (immigration, emigration, migration within Europe and between countries) and the demographic effects of such migration on the present European population. It then analyses and examines the global and regional causes of recent migration to Europe (the European Economic Area, EEA), the countries of origin of the migrants, the main routes of migration, and the destination areas in Europe. As far as intercontinental migration is concerned, Europe was characterised by emigration between the 16th and mid-20th centuries (partly in consequence of colonisation) and mainly by immigration thereafter. Immigration has principally affected Western Europe, the more developed part of the continent. In consequence of post-World War II reconstruction, dynamic economic development, local labour shortages, and the decolonisation process, Western Europe received many migrants, initially from the Mediterranean region and subsequently (i.e. after the collapse of communism in 1989–1990) from the post communist European countries. Meanwhile, the core areas of the EEA became the main destination for migrants coming from predominantly Muslim regions in Asia and Africa (SW Asia, Muslim Africa). This decades-old process has recently accelerated and now constitutes mass migration. The global and regional causes of such intercontinental migration in the sending areas are as follows: the population boom, economic backwardness, unemployment, growing poverty, climate change, desertification, negative ecological changes, global political rivalries and local power changes (e.g. the Arab Spring, 2011), growing political instability, wartime destruction, multiple and cumulative crises, general hopelessness and despair.",
+    "readLink": "http://ojs3.mtak.hu/index.php/hungeobull/article/view/599"
+  },
+  {
+    "title": "Voluntary Restoration: Mitigation's Silent Partner in the Quest to Reverse Coastal Wetland Loss in the USA",
+    "authors": [
+      "Rachel K. Gittman,",
+      "Christopher J. Baillie,",
+      "Katie K. Arkema,",
+      "Katie K. Arkema,",
+      "Richard O. Bennett,",
+      "Jeff Benoit,",
+      "Seth Blitch,",
+      "Julien Brun,",
+      "Anthony Chatwin,",
+      "Allison Colden,",
+      "Alyssa Dausman,",
+      "Bryan DeAngelis,",
+      "Nathaniel Herold,",
+      "Jessica Henkel,",
+      "Rachel Houge,",
+      "Ronald Howard,",
+      "A. Randall Hughes,",
+      "Steven B. Scyphers,",
+      "Tisa Shostik,",
+      "Ariana Sutton-Grier,",
+      "Jonathan H. Grabowski"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2019.00511",
+    "journalVolume": "Vol. 6",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Coastal ecosystems are under pressure from a vast array of anthropogenic stressors, including development and climate change, resulting in significant habitat losses globally. Conservation policies are often implemented with the intent of reducing habitat loss. However, losses already incurred will require restoration if ecosystem functions and services are to be recovered. The United States has a long history of wetland loss and recognizes that averting loss requires a multi-pronged approach including mitigation for regulated activities and non-mitigation (voluntary herein) restoration. The 1989 “No Net Loss” (NNL) policy stated the Federal government's intent that losses of wetlands would be offset by at least as many gains of wetlands. However, coastal wetlands losses result from both regulated and non-regulated activities. We examined the effectiveness of Federally funded, voluntary restoration efforts in helping avert losses of coastal wetlands by assessing: (1) What are the current and past trends in coastal wetland change in the U.S.?; and (2) How much and where are voluntary restoration efforts occurring? First, we calculated palustrine and estuarine wetland change in U.S. coastal shoreline counties using data from NOAA's Coastal Change Analysis Program, which integrates both types of potential losses and gains. We then synthesized available data on Federally funded, voluntary restoration of coastal wetlands. We found that from 1996 to 2010, the U.S. lost 139,552 acres (~565 km2) of estuarine wetlands (2.5% of 1996 area) and 336,922 acres (~1,363 km2) of palustrine wetlands (1.4%). From 2006 to 2015, restoration of 145,442 acres (~589 km2) of estuarine wetlands and 154,772 acres (~626 km2) of palustrine wetlands occurred. Further, wetland losses and restoration were not always geographically aligned, resulting in local and regional “winners” and “losers.” While these restoration efforts have been considerable, restoration and mitigation collectively have not been able to keep pace with wetland losses; thus, reversing this trend will likely require greater investment in coastal habitat conservation and restoration efforts. We further conclude that “area restored,” the most prevalent metric used to assess progress, is inadequate, as it does not necessarily equate to restoration of functions. Assessing the effectiveness of wetland restoration not just in the U.S., but globally, will require allocation of sufficient funding for long-term monitoring of restored wetland functions, as well as implementation of standardized methods for monitoring data collection, synthesis, interpretation, and application.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmars.2019.00511/full"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Emissions databases for polycyclic aromatic compounds in the Canadian Athabasca oil sands region – development using  current knowledge and evaluation with passive sampling   and   air dispersion modelling data",
+    "authors": [
+      "X. Qiu,",
+      "I. Cheng,",
+      "F. Yang,",
+      "E. Horb,",
+      "L. Zhang,",
+      "T. Harner"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-3457-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  3457\n                                  – 3467",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Two speciated and spatially resolved emissions databases for polycyclic aromatic compounds (PACs) in the Athabasca oil sands region (AOSR) were developed. The first database was derived from volatile organic compound (VOC) emissions data provided by the Cumulative Environmental Management Association (CEMA) and the second database was derived from additional data collected within the Joint Canada–Alberta Oil Sands Monitoring (JOSM) program. CALPUFF modelling results for atmospheric polycyclic aromatic hydrocarbons (PAHs), alkylated PAHs, and dibenzothiophenes (DBTs), obtained using each of the emissions databases, are presented and compared with measurements from a passive air monitoring network. The JOSM-derived emissions resulted in better model–measurement agreement in the total PAH concentrations and for most PAH species concentrations compared to results using CEMA-derived emissions. At local sites near oil sands mines, the percent error of the model compared to observations decreased from 30 % using the CEMA-derived emissions to 17 % using the JOSM-derived emissions. The improvement at local sites was likely attributed to the inclusion of updated tailings pond emissions estimated from JOSM activities. In either the CEMA-derived or JOSM-derived emissions scenario, the model underestimated PAH concentrations by a factor of 3 at remote locations. Potential reasons for the disagreement include forest fire emissions, re-emissions of previously deposited PAHs, and long-range transport not considered in the model. Alkylated PAH and DBT concentrations were also significantly underestimated. The CALPUFF model is expected to predict higher concentrations because of the limited chemistry and deposition modelling. Thus the model underestimation of PACs is likely due to gaps in the emissions database for these compounds and uncertainties in the methodology for estimating the emissions. Future work is required that focuses on improving the PAC emissions estimation and speciation methodologies and reducing the uncertainties in VOC emissions which are subsequently used in PAC emissions estimation.",
+    "readLink": "https://www.atmos-chem-phys.net/18/3457/2018/acp-18-3457-2018.pdf"
+  },
+  {
+    "title": "Hydrometry data rescue, a stake for the future",
+    "authors": [
+      "Pons Frédéric,",
+      "Laroche Christophe,",
+      "Trmal Céline,",
+      "Puechberty Rachel,",
+      "Baillon Martine"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/20160704021",
+    "journalVolume": "Vol. 7\n                                \n                                \n                                  p.\n                                  04021",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The knowledge of past events and long-term series is a base to understand phenomena, analyze climate change and forecast future events. To increase long term series and their accuracy, NUNIEAU software, sort of “Digitizing Table”, was developed and distributed freely since 2006 by Cerema. It is an international reference in tide gauge record, but has been improved to widespread its used for river and rainfall record. The SCHAPI (the French national service for hydrometeorology and support to flood forecasting) launched a tender to rescue the old data on rainfall and rivers available. Many improvements have been done to manage different types of rainfall charts. NUNIEAU was developed in French and is also available in English and Spanish version with collaboration of foreign institutes. Main challenge is not only to digitize old data but also assess the quality of digitized data. Protocol has been done to control the digitizing process and after to allows assessing the final quality of data.",
+    "readLink": "http://dx.doi.org/10.1051/e3sconf/20160704021"
+  },
+  {
+    "title": "Effects of Recent Climate Change on Hourly Weather Data for HVAC Design: A Case Study of Osaka",
+    "authors": [
+      "Jihui Yuan,",
+      "Kazuo Emura,",
+      "Craig Farnham"
+    ],
+    "doi": "https://doi.org/10.3390/su10030861",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  p.\n                                  861",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The current design weather data used for heating, ventilation, and air conditioning (HVAC) design in Japan was created using an old data period. New design weather data should be created to reflect recent local climate change. Based on our previous proposal of creating design weather data with two weather indices (dry-bulb temperature and enthalpy) for HVAC design, design weather data for Osaka was created using more recently-measured weather data (period: 2001~2015) from the Japan Meteorological Agency (JMA) in this study. The effect of recent climate change on the design weather data created with eight proposed methods was found. It showed the change in weather elements for cooling design clearly trends to warmer and drier weather, with more solar radiation and lower enthalpy, while the trends in heating design are less clear, mainly showing higher enthalpy. Furthermore, the difference in the peak load for the heating and cooling designs using the new and old design weather data was compared. The comparison showed that the minimum difference in peak load for the heating design was found using the mean daily dry-bulb temperature as the first and second indices; for the cooling design, the minimum difference in peak load was found using mean daily enthalpy as both the first and second indices.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/3/861"
+  },
+  {
+    "title": "Land cover and its transformation in the backward trajectory footprint region of the Amazon Tall Tower Observatory",
+    "authors": [
+      "C. Pöhlker,",
+      "C. Pöhlker,",
+      "D. Walter,",
+      "D. Walter,",
+      "H. Paulsen,",
+      "H. Paulsen,",
+      "T. Könemann,",
+      "T. Könemann,",
+      "E. Rodríguez-Caballero,",
+      "E. Rodríguez-Caballero,",
+      "D. Moran-Zuloaga,",
+      "D. Moran-Zuloaga,",
+      "J. Brito,",
+      "J. Brito,",
+      "S. Carbone,",
+      "S. Carbone,",
+      "C. Degrendele,",
+      "V. R. Després,",
+      "F. Ditas,",
+      "F. Ditas,",
+      "B. A. Holanda,",
+      "B. A. Holanda,",
+      "J. W. Kaiser,",
+      "J. W. Kaiser,",
+      "G. Lammel,",
+      "G. Lammel,",
+      "J. V. Lavrič,",
+      "J. Ming,",
+      "J. Ming,",
+      "D. Pickersgill,",
+      "D. Pickersgill,",
+      "M. L. Pöhlker,",
+      "M. Praß,",
+      "M. Praß,",
+      "N. Löbs,",
+      "J. Saturno,",
+      "J. Saturno,",
+      "J. Saturno,",
+      "M. Sörgel,",
+      "M. Sörgel,",
+      "Q. Wang,",
+      "Q. Wang,",
+      "B. Weber,",
+      "B. Weber,",
+      "S. Wolff,",
+      "S. Wolff,",
+      "P. Artaxo,",
+      "U. Pöschl,",
+      "M. O. Andreae,",
+      "M. O. Andreae"
+    ],
+    "doi": "https://doi.org/10.5194/acp-19-8425-2019",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  8425\n                                  – 8470",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "The Amazon rain forest experiences the combined pressures from human-made deforestation and progressing climate change, causing severe and potentially disruptive perturbations of the ecosystem's integrity and stability. To intensify research on critical aspects of Amazonian biosphere–atmosphere exchange, the Amazon Tall Tower Observatory (ATTO) has been established in the central Amazon Basin. Here we present a multi-year analysis of backward trajectories to derive an effective footprint region of the observatory, which spans large parts of the particularly vulnerable eastern basin. Further, we characterize geospatial properties of the footprint regions, such as climatic conditions, distribution of ecoregions, land cover categories, deforestation dynamics, agricultural expansion, fire regimes, infrastructural development, protected areas, and future deforestation scenarios. This study is meant to be a resource and reference work, helping to embed the ATTO observations into the larger context of human-caused transformations of Amazonia. We conclude that the chances to observe an unperturbed rain forest–atmosphere exchange at the ATTO site will likely decrease in the future, whereas the atmospheric signals from human-made and climate-change-related forest perturbations will increase in frequency and intensity.",
+    "readLink": "https://www.atmos-chem-phys.net/19/8425/2019/acp-19-8425-2019.pdf"
+  },
+  {
+    "title": "The identification of suitable areas for afforestation in order to reduce the potential for surface runoff in the upper and middle sectors of Buzãu catchment",
+    "authors": [
+      "ROMULUS COSTACHE"
+    ],
+    "doi": "Vol. 11",
+    "issn": "2247-2290 (Online)",
+    "publisher": "University of Bucharest",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://cinqcontinents.geo.unibuc.ro/",
+    "abstract": "Deforestations, besides the global climate change, are the main cause of the intensification of f loods and flash - floods in the latest years. Since surface runoff is the main phenomenon leading to floods or flash - floods, afforestation is necessary, forest coverage being the element that retains most of the water from precipitation. The study area, repr esented by the upper and middle sectors of Buzau River basin, is one of the most affected regions of Romania by torrential phenomena. Also, the study area was chosen due to its considerable deforestation. This paper proposes a methodology created exclusive ly by GIS techniques in order to identify the areas suitable for afforestation. Thus, land cover and slope relief were taken into account when running the GIS model. Database processing and obtaining the final results were possible by implementing a workfl ow in Model Builder from ArcGIS 10.3, which can be later used as a tool for other study areas. The results of the study highlight Balaneasa, Bâsca Chiojdului and Sărăţel river basins, which record the highest shares of areas suitable for afforestation.",
+    "readLink": "http://cinqcontinents.geo.unibuc.ro/5/5_11_Costache.pdf"
+  },
+  {
+    "title": "The relationship between canopy cover and colony size of the wood ant Formica lugubris--implications for the thermal effects on a keystone ant species.",
+    "authors": [
+      "Yi-Huei Chen,",
+      "Elva J H Robinson"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0116113",
+    "journalVolume": "Vol. 9,\n                                no. 12\n                                \n                                  p.\n                                  e116113",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Climate change may affect ecosystems and biodiversity through the impacts of rising temperature on species' body size. In terms of physiology and genetics, the colony is the unit of selection for ants so colony size can be considered the body size of a colony. For polydomous ant species, a colony is spread across several nests. This study aims to clarify how climate change may influence an ecologically significant ant species group by investigating thermal effects on wood ant colony size. The strong link between canopy cover and the local temperatures of wood ant's nesting location provides a feasible approach for our study. Our results showed that nests were larger in shadier areas where the thermal environment was colder and more stable compared to open areas. Colonies (sum of nests in a polydomous colony) also tended to be larger in shadier areas than in open areas. In addition to temperature, our results supported that food resource availability may be an additional factor mediating the relationship between canopy cover and nest size. The effects of canopy cover on total colony size may act at the nest level because of the positive relationship between total colony size and mean nest size, rather than at the colony level due to lack of link between canopy cover and number of nests per colony. Causal relationships between the environment and the life-history characteristics may suggest possible future impacts of climate change on these species.",
+    "readLink": "http://europepmc.org/articles/PMC4281126?pdf=render"
+  },
+  {
+    "title": "Introduction of Smart Grid Station Configuration and Application in Guri Branch Office of KEPCO",
+    "authors": [
+      "Jaehong Whang,",
+      "Woohyun Hwang,",
+      "Yeuntae Yoo,",
+      "Gilsoo Jang"
+    ],
+    "doi": "https://doi.org/10.3390/su10103512",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  p.\n                                  3512",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Climate change and global warming are becoming important problems around the globe. To prevent these environmental problems, many countries try to reduce their emissions of greenhouse gases (GHGs) and manage the consumption of energy. The Korea Electric Power Corporation (KEPCO) introduced smart grid (SG) technologies to its branch office in 2014. This was the first demonstration of a smart grid on a building, called the Smart Grid Station (SGS). However, the smart grid industry is stagnant despite of the efforts of KEPCO. The authors analyzed the achievements to date, and proved the effects of the SGS by comparing its early targets to its performance. To evaluate the performance, we analyzed the data of 2015 with the data of 2014 in three aspects: peak reduction, power consumption reduction, and electricity fee savings. Furthermore, we studied the economic analysis including photovoltaic (PV) and energy storage system (ESS) electricity fee savings, as well as running cost savings by electric vehicles. Through the evaluation, the authors proved that the performance surpassed the early targets and that the system is economical. With the advantages of the SGS, we suggested directions to expand the system.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/10/3512"
+  },
+  {
+    "title": "A greener future for the Galapagos: forecasting ecosystem productivity by finding climate analogs in time",
+    "authors": [
+      "Noah D. Charney,",
+      "Guillaume Bastille‐Rousseau,",
+      "Charles B. Yackulic,",
+      "Stephen Blake,",
+      "James P. Gibbs"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.3753",
+    "journalVolume": "Vol. 12,\n                                no. 10\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract Forecasting ecosystem response to climate change is critical for guiding policymaking but challenging due to: complicated relationships between microclimates and regional climates; species’ responses that are driven by extremes rather than averages; the multifaceted nature of species’ interactions; and the lack of historical analogs to future climates. Given these challenges, even model systems such as the Galapagos Islands, a world‐famous biodiversity hotspot and World Heritage Site, lack clear forecasts for future environmental change. Here, we developed a novel nonparametric method for simulating the ecosystem futures based on observed vegetation productivity (NDVI) during analogous weather observed historically. Using satellite images taken from the past to piece together a simulated future, we projected that productivity of terrestrial vegetation of the Galapagos will increase over the next century by approximately one standard deviation archipelago‐wide, with largest increases during the wet season (January to June) and in the arid zones. Such greening would impact a variety of ecological and evolutionary processes, species of conservation concern, and agricultural practices. Our straightforward approach can be applied to many other regions, particularly those with rapid ecosystem responses to stochastic inter‐annual climatic fluctuations that provide appropriate climate analogs for forecasting.",
+    "readLink": "https://doi.org/10.1002/ecs2.3753"
+  },
+  {
+    "title": "Effects of Soil Water Shortage on Seedling Shoot and Root Growth of Saragolle Lucana Tetraploid Wheat (<i>Triticum durum</i> Desf.) Landrace",
+    "authors": [
+      "Rocco Bochicchio,",
+      "Rosanna Labella,",
+      "Roberta Rossi,",
+      "Michele Perniola,",
+      "Mariana Amato"
+    ],
+    "doi": "https://doi.org/10.3390/plants11243492",
+    "journalVolume": "Vol. 11,\n                                no. 3492\n                                \n                                  p.\n                                  3492",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "Ancient wheats may be a source of traits that are useful for the tolerance of climate change foreseen conditions of raising temperatures and low water availability. Previous research has shown a fine root system and a high mass of rhizosheath per unit root mass in the italian durum wheat (Triticum durum Desf) landrace Saragolle Lucana, and this may be relevant for successfully facing adverse conditions during seedling establishment. We investigated the effect of soil water shortage in Saragolle seedlings on root architecture, rhizosheath formation and biomass allocation. Pot experiments were conducted by comparing two levels of soil available water content (AWC): WW (100% of AWC) and DS (50% of AWC). Phenology was delayed by eight days in DS and above and belowground traits were measured at Zadoks 1.3 for each treatment. Biometric data collected at the same phenological stage show that DS plants did not reach the levels of biomass, surface area and space occupation of WW even after attaining the same developmental stage. Namely, plant dimensions were lower at low soil water availability, with the exception of rhizosheath production: DS yielded a 50% increase in rhizosheath mass and 32% increase in rhizosheath mass per unit root mass. The proportion of plant mass reduction in DS was 29.7% for aboveground parts and 34.7% for roots, while reductions in leaf and root surface areas exceeded 43%. The root/shoot mass and area ratios were not significantly different between treatments, and a higher impact on aboveground than on belowground traits at reduced available water was shown only by a lower ratio of shoot height to root depth in DS than in WW. Increases in rhizosheath in absolute and relative terms, which were observed in our experiment in spite of smaller root systems in the ancient durum wheat variety Saragolle lucana at DS, may provide an interesting trait for plant performance in conditions of low soil water availability both for water-related issue and for other effects on plant nutrition and relations with the rhizosphere.",
+    "readLink": "https://www.mdpi.com/2223-7747/11/24/3492"
+  },
+  {
+    "title": "White Identity and Climate Change Skepticism: Assessing the Mediating Roles of Social Dominance Orientation and Conspiratorial Ideation",
+    "authors": [
+      "Matthew Grindal,",
+      "Dilshani Sarathchandra,",
+      "Kristin Haltinner"
+    ],
+    "doi": "https://doi.org/10.3390/cli11020026",
+    "journalVolume": "Vol. 11,\n                                no. 26\n                                \n                                  p.\n                                  26",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Prior research has found that white people are more likely to be climate change skeptics. In much of this prior work, white identity is treated as a categorical label, limiting the theoretical and empirical understanding of this relationship. Drawing on survey data from a US national sample of 933 white young adults, we theorize that white identity is a developmental process where people explore the meanings of their racial identity and commit to a white identity marked by enhanced levels of social dominance orientation and conspiratorial ideation, two social-psychological constructs consistently associated with climate change skepticism. Using regression analyses, we tested a mediation model that a strong white identity would increase climate change skepticism by enhancing one’s social dominance orientation and conspiratorial ideation. We found partial support for our model. While a strong white identity was positively associated with social dominance orientation and conspiratorial ideation, only social dominance orientation increased climate change skepticism. Conspiratorial ideation reduced climate change skepticism. We discuss the implications of our findings for the climate change literature as well as how our findings can inform policies that could reduce climate change skepticism among white people.",
+    "readLink": "https://www.mdpi.com/2225-1154/11/2/26"
+  }
+]

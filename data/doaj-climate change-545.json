@@ -1,0 +1,227 @@
+[
+  {
+    "title": "DEEP LEARNING-BASED ANALYSIS OF THE RELATIONSHIPS BETWEEN CLIMATE CHANGE AND CROP YIELD IN CHINA",
+    "authors": [
+      "S. Cho,",
+      "Y.-W. Lee"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLII-3-W8-93-2019",
+    "journalVolume": "Vol. XLII-3-W8\n                                \n                                \n                                  pp.\n                                  93\n                                  – 95",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Climate change is an important factor in vegetation growth, and it is very significant to understand the relationship between climate change and rice yield. China is a food-importing country whose grain consumption is higher than grain production, and which relies on imports of rice, soybean, wheat and other grains. Therefore, in order to secure food security for 1.6 billion people in China, it is necessary to grasp the relationship between climate change and rice yield. In this study, 16 administrative districts in China were selected and designated as study area. This study used annual rice production from the USDA (United States Department of Agriculture) for each of China’s major administrative regions from 1979 to 2009, as well as average climate data from July to August, which were meteorological observations collected from the CRU (Climate Research Unit). Using this data, the rice crop was increased in 10 administrative regions in China and the reduction in rice harvest in 6 administrative areas was confirmed. The relationship between selected rice production and climate change was nonlinear and modelled using a deep neural network, and the validation statistics showed that the performance of DNN was 32-33% better than that of MLR (multiple linear regression). Therefore, a more quantitative analysis of the relationship between climate change and rice yield changes has been made possible through our prediction model. This study is expected to contribute to better food self-sufficiency in China and forecast future grain yields.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W8/93/2019/isprs-archives-XLII-3-W8-93-2019.pdf"
+  },
+  {
+    "title": "Impacts of the world’s largest afforestation program (Three-North Afforestation Program) on desertification control in sandy land of China",
+    "authors": [
+      "Ke Qi,",
+      "Jiaojun Zhu,",
+      "Xiao Zheng,",
+      "G. Geoff Wang,",
+      "Mingcai Li"
+    ],
+    "doi": "https://doi.org/10.1080/15481603.2023.2167574",
+    "journalVolume": "Vol. 60,\n                                no. 1",
+    "issn": "1548-1603 (Print)",
+    "publisher": "1943-7226 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgrs",
+    "abstract": "In order to control the desertification, large-scale afforestation programs have been attempted worldwide. Among them, China initiated the world’s largest afforestation program, Three-North Afforestation Program (TNAP, 1978–2050), in which the afforestation in sandy land has been questioned during the first 40 years. In fact, the contribution of the TNAP to vegetation establishment and its effectiveness in desertification control still remain unclear, which limited the further construction of the program. To answer the questions, we detected the dynamics of vegetation distribution (forest, shrubland, and grassland) and desertification status (slight, moderate, severe, and extremely severe) during 1978–2017 in the sandy land (45.5 million ha), by visual interpretation of 5-period remote sensing images with validation based on 3,100 sample plots from field surveys and 15,175 sample plots from the National Forest Resource Inventory. Vegetation degradation was identified by analysis combining the trends of net primary productivity and precipitation use efficiency. By Geographical Detector model, the driving forces of vegetation degradation (climate change, human activities, vegetation type, and sandy land type) were ranked and the contributions of the influential factors (climate change, human activities, and vegetation dynamics) to desertification changes were estimated. The results showed that for the 40 years, vegetation coverage increased by 0.5%, with increasing 113.8% and 338.8% of forest and shrubland, but decreasing 9.0% of grassland. Desertification area had little change while the overall intensity decreased. The TNAP contributed to desertification dynamics by 10.3%, which is lower than expected. Vegetation type was the dominant factor of vegetation degradation in general. Forest is less suitable for afforestation in sandy land than shrubland and grassland because of its lower stand establishment rate, higher degradation rate, and less contribution to desertification control. Thus, adjusting vegetation type to match local conditions (e.g., use shrub-land, grassland, and native species) and improving the vegetation resistance (e.g., transform monoculture forests into mixed forests, and make proper proportion for forest, shrubland, and grassland) was suggested. Our study provided specific and feasible strategies for further planning and implementation of TNAP, and references for vegetation restoration of sandy lands worldwide.",
+    "readLink": "http://dx.doi.org/10.1080/15481603.2023.2167574"
+  },
+  {
+    "title": "How do Indigenous and local knowledge systems respond to climate change?",
+    "authors": [
+      "Ruxandra Popovici,",
+      "Andre G. de L. Moraes,",
+      "Zhao Ma,",
+      "Laura Zanotti,",
+      "Keith A. Cherkauer,",
+      "Anna E. Erwin,",
+      "Katy E. Mazer,",
+      "Edwin F. Bocardo Delgado,",
+      "José P. Pinto Cáceres,",
+      "Pranay Ranjan,",
+      "Linda S. Prokopy"
+    ],
+    "doi": "https://doi.org/10.5751/ES-12481-260327",
+    "journalVolume": "Vol. 26,\n                                no. 3\n                                \n                                  p.\n                                  27",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Indigenous and local knowledge (ILK) systems are critical for achieving biodiversity conservation, climate change adaptation, and other environmental goals. However, ILK systems around the world are increasingly threatened by multiple stressors. Our study assesses the effect of climate change on ILK held by crop farmers in Peru's Colca Valley. We collected qualitative data on farmers' ILK through semi-structured interviews, which we supplemented with climatological trend analysis in four Colca Valley districts. We found that shifts in the rainy season together with warmer weather affected farmers' ILK, which was less effective for informing crop planting and irrigation practices in the context of climate uncertainty and unpredictability. Changing and uncertain ILK poses obstacles to adaptation strategies that require long-term institution building from local resource users, who may prioritize short-term solutions addressing urgent needs.",
+    "readLink": "https://www.ecologyandsociety.org/vol26/iss3/art27/"
+  },
+  {
+    "title": "Investigating the Recycling Potential of Glass Based Dye-Sensitized Solar Cells—Melting Experiment",
+    "authors": [
+      "Fabian Schoden,",
+      "Anna Katharina Schnatmann,",
+      "Emma Davies,",
+      "Dirk Diederich,",
+      "Jan Lukas Storck,",
+      "Dörthe Knefelkamp,",
+      "Tomasz Blachowicz,",
+      "Eva Schwenzfeier-Hellkamp"
+    ],
+    "doi": "https://doi.org/10.3390/ma14216622",
+    "journalVolume": "Vol. 14,\n                                no. 6622\n                                \n                                  p.\n                                  6622",
+    "issn": "1996-1944 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering",
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Natural history (General): Microscopy",
+      "Science: Physics: Descriptive and experimental mechanics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/materials/",
+    "abstract": "The effects of climate change are becoming increasingly clear, and the urgency of solving the energy and resource crisis has been recognized by politicians and society. One of the most important solutions is sustainable energy technologies. The problem with the state of the art, however, is that production is energy-intensive and non-recyclable waste remains after the useful life. For monocrystalline photovoltaics, for example, there are recycling processes for glass and aluminum, but these must rather be described as downcycling. The semiconductor material is not recycled at all. Another promising technology for sustainable energy generation is dye-sensitized solar cells (DSSCs). Although efficiency and long-term stability still need to be improved, the technology has high potential to complement the state of the art. DSSCs have comparatively low production costs and can be manufactured without toxic components. In this work, we present the world’ s first experiment to test the recycling potential of non-toxic glass-based DSSCs in a melting test. The glass constituents were analyzed by optical emission spectrometry with inductively coupled plasma (ICP-OES), and the surface was examined by scanning electron microscopy energy dispersive X-ray (SEM-EDX). The glass was melted in a furnace and compared to a standard glass recycling process. The results show that the described DSSCs are suitable for glass recycling and thus can potentially circulate in a circular economy without a downcycling process. However, material properties such as chemical resistance, transparency or viscosity are not investigated in this work and need further research.",
+    "readLink": "https://www.mdpi.com/1996-1944/14/21/6622"
+  },
+  {
+    "title": "The Effect of Solar Activity on Stratospheric Temperature Over Iraq for Period 1948-2014",
+    "authors": [
+      "Muthanna A.  Al-Tameemi,",
+      "Baidaa J.  Hassan,",
+      "Aqeel G.  Mutar"
+    ],
+    "doi": "https://doi.org/10.23851/mjs.v33i2.1174",
+    "journalVolume": "Vol. 33,\n                                no. 2\n                                \n                                  pp.\n                                  8\n                                  – 13",
+    "issn": "1814-635X (Print)",
+    "publisher": "2521-3520 (Online)",
+    "countryOfPublisher": "Al-Mustansiriyah University",
+    "lcc": [
+      "Iraq",
+      "Science"
+    ],
+    "journalUrl": "http://mjs.uomustansiriyah.edu.iq/",
+    "abstract": "Stratospheric temperature changes are very important for climate systems through atmospheric circulation and stratosphere-troposphere coupling. The relationship between solar modulation potential SMP as a measure of solar activity and variation of temperature in upper, middle and lower stratosphere over Iraq for the period 1948-2014 (for about five solar cycles) has been presented in this study. For upper, middle and lower stratosphere we found that stratospheric temperatures decreased, this descending trend is offset by obviously descending trend in solar activity for the same period. The correlation coefficients between annual solar modulation potential SMP and stratospheric temperature have been examined at pressure levels (10,20,30,50,70 mb) that represent the upper, middle and lower stratosphere over 67 years (1948 to 2014). All levels have positive correlation. The correlation coefficient (R) in upper stratosphere at level 10 mb has been 0.4, in middle stratosphere at level (20, 30 mb) the correlation coefficient (R) has been 5.3 and 0.6 respectively. For lower stratosphere at level (50, 70 mb) R has been 0.57 and 0.68 respectively.",
+    "readLink": "https://mjs.uomustansiriyah.edu.iq/index.php/MJS/article/view/1174"
+  },
+  {
+    "title": "Genome-Wide Identification of Candidate Genes Associated with Heat Stress in Mulberry (<i>Morus alba</i> L.)",
+    "authors": [
+      "Xin Jin,",
+      "Michael Ackah,",
+      "Adolf Acheampong,",
+      "Qiaonan Zhang,",
+      "Lei Wang,",
+      "Qiang Lin,",
+      "Changyu Qiu,",
+      "Weiguo Zhao"
+    ],
+    "doi": "https://doi.org/10.3390/cimb45050264",
+    "journalVolume": "Vol. 45,\n                                no. 264\n                                \n                                  pp.\n                                  4151\n                                  – 4167",
+    "issn": "1467-3037 (Print)",
+    "publisher": "1467-3045 (Online)",
+    "countryOfPublisher": "MDPI AG",
+    "lcc": [
+      "Switzerland",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/cimb",
+    "abstract": "Mulberry (Morus alba L.) is an economically important plant for the silk industry and has the possibility of contributing immensely to Chinese pharmacopeia because of its health benefits. Domesticated silkworms feed only on mulberry leaves, meaning that the worms’ survival depends on the mulberry tree. Mulberry production is threatened by climate change and global warming. However, the regulatory mechanisms of mulberry responses to heat are poorly understood. We performed transcriptome analysis of high-temperature-stressed (42 °C) M. alba seedlings using RNA-Seq technologies. A total of 703 differentially expressed genes (DEGs) were discovered from 18,989 unigenes. Among these, 356 were up-regulated, and 347 were down-regulated. KEGG analysis revealed that most DEGs were enriched in valine, leucine and isoleucine degradation, and in starch and sucrose metabolism, alpha-linolenic acid metabolism, carotenoid biosynthesis and galactose metabolism, among others. In addition, TFs such as the NAC, HSF, IAA1, MYB, AP2, GATA, WRKY, HLH and TCP families were actively involved in response to high temperatures. Moreover, we used RT-qPCR to confirm the expression changes of eight genes under heat stress observed in the RNA-Seq analysis. This study provides M. alba transcriptome profiles under heat stress and provides theoretical bases to researchers for better understanding mulberry heat response mechanisms and breeding heat-tolerant mulberry plants.",
+    "readLink": "https://www.mdpi.com/1467-3045/45/5/264"
+  },
+  {
+    "title": "High-resolution CMIP6 climate projections for Ethiopia using the gridded statistical downscaling method",
+    "authors": [
+      "Fasil M. Rettie,",
+      "Sebastian Gayler,",
+      "Tobias K. D. Weber,",
+      "Kindie Tesfaye,",
+      "Thilo Streck"
+    ],
+    "doi": "https://doi.org/10.1038/s41597-023-02337-2",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 18",
+    "issn": "2052-4463 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/sdata/",
+    "abstract": "Abstract High-resolution climate model projections for a range of emission scenarios are needed for designing regional and local adaptation strategies and planning in the context of climate change. To this end, the future climate simulations of global circulation models (GCMs) are the main sources of critical information. However, these simulations are not only coarse in resolution but also associated with biases and high uncertainty. To make the simulations useful for impact modeling at regional and local level, we utilized the bias correction constructed analogues with quantile mapping reordering (BCCAQ) statistical downscaling technique to produce a 10 km spatial resolution climate change projections database based on 16 CMIP6 GCMs under three emission scenarios (SSP2-4.5, SSP3-7.0, and SSP5-8.5). The downscaling strategy was evaluated using a perfect sibling approach and detailed results are presented by taking two contrasting (the worst and best performing models) GCMs as a showcase. The evaluation results demonstrate that the downscaling approach substantially reduced model biases and generated higher resolution daily data compared to the original GCM outputs.",
+    "readLink": "https://doi.org/10.1038/s41597-023-02337-2"
+  },
+  {
+    "title": "Identification of coral spawn source areas around Sekisei Lagoon for recovery and poleward habitat migration by using a particle-tracking model",
+    "authors": [
+      "Naoya Takeda,",
+      "Motohiko Kashima,",
+      "Sachika Odani,",
+      "Yusuke Uchiyama,",
+      "Yuki Kamidaira,",
+      "Satoshi Mitarai"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-86167-5",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract A massive coral bleaching event occurred in 2016 in the interior of Japan’s largest coral lagoon, the Sekisei Lagoon, located in the Kuroshio upstream region in southwestern Japan. Recovery of the coral lagoon will require the influx of coral spawn and larvae; therefore, it is important to identify and conserve source sites. A surface-particle-tracking simulation of coral spawn and larvae was used to identify source areas of coral spawn outside of the Sekisei Lagoon for potential recovery of the interior lagoon. The northern coastal zone of Iriomote Island, including Hatoma Island, was identified as a major source area. Hatoma Island was also identified as a key source for the Kuroshio downstream region and for aiding the poleward migration of coral habitat under ongoing global climate change, making it one of the most important source areas in the Nansei Archipelago.",
+    "readLink": "https://doi.org/10.1038/s41598-021-86167-5"
+  },
+  {
+    "title": "Using Landsat Time-Series to Monitor and Inform Seagrass Dynamics: A Case Study in the Tabusintac Estuary, New Brunswick, Canada",
+    "authors": [
+      "Melanie-Louise Leblanc,",
+      "Armand LaRocque,",
+      "Brigitte Leblon,",
+      "Al Hanson,",
+      "Murray M. Humphries"
+    ],
+    "doi": "https://doi.org/10.1080/07038992.2021.1893672",
+    "journalVolume": "Vol. 47,\n                                no. 1\n                                \n                                  pp.\n                                  65\n                                  – 82",
+    "issn": "1712-7971 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/ujrs20",
+    "abstract": "The recent world-wide loss of seagrasses, which are critical components of coastal ecosystems, has ignited an effort among scientists and resource managers to develop effective monitoring tools. Although Landsat time-series is considered one of the most cost-effective options for monitoring landscapes, its application to monitor seagrasses remains scarce due to many factors including difficulties obtaining accurate ground-truth data and perceived limitations in mapping nearshore marine ecosystems. Here, we report on the use of archived Landsat multispectral imagery and the automatic adaptive signature generalization (AASG) to evaluate eelgrass (Zostera marina) distribution and abundance between 1984 and 2017, in an estuary located in northeastern New Brunswick, Canada. The AASG algorithm, a novel cost-efficient approach for satellite imagery time-series analysis that requires limited ground truth data, was used to produce fourteen maps, four of which had accuracies ranging from 75 to 85%. The results indicated that eelgrass meadows near the beach barrier were highly dynamic, exhibiting high abundance fluctuations between years and a conversion of dense eelgrass to medium-low eelgrass near the main coastline. This study demonstrates the feasibility of using the AASG algorithm to map seagrass and advantages of including satellite time-series in monitoring programmes to investigate seagrass dynamics and long-term trends.",
+    "readLink": "http://dx.doi.org/10.1080/07038992.2021.1893672"
+  },
+  {
+    "title": "Efficient Procedure for Induction Somatic Embryogenesis in Holm Oak: Roles of Explant Type, Auxin Type, and Exposure Duration to Auxin",
+    "authors": [
+      "María Teresa Martínez,",
+      "Elena Corredoira"
+    ],
+    "doi": "https://doi.org/10.3390/f14020430",
+    "journalVolume": "Vol. 14,\n                                no. 430\n                                \n                                  p.\n                                  430",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Holm oak is the dominant tree species in the Mediterranean climate. Currently, worrisome degradation of its ecosystems has been observed, produced, among other factors, by changes in land use, extreme weather events, forest fires, climate change, and especially the increasingly frequent episodes of high tree mortality caused by “oak decline”, which has brought with it a social concern that transcends the productive interest. Breeding and conservation programs for this species are necessary to ensure the prevalence of these ecosystems for future generations. Biotechnological tools such as somatic embryogenesis (SE) have great potential value for tree improvement and have been shown to be highly efficient in the propagation and conservation of woody species. One challenge to this approach is that SE induction in holm oak has not yet been optimized. Here, we present a new reproducible procedure to induce SE in holm oak; we evaluated the responsiveness of different initial explants exposed to different types, concentrations, and durations of auxin. SE rates were significantly improved (37%) by culturing nodal segments for two weeks in induction medium. In addition, a significant auxin–genotype interaction was observed.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/2/430"
+  }
+]

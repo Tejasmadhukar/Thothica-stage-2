@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Global Change and Helminth Infections in Grazing Ruminants in Europe: Impacts, Trends and Sustainable Solutions",
+    "authors": [
+      "Hubertus Hertzberg,",
+      "Giuseppe Cringoli,",
+      "Laura Rinaldi,",
+      "Bonny van Ranst,",
+      "Theo de Waal,",
+      "Padraig O&#039;Kiely,",
+      "Johan Höglund,",
+      "Philip Skuce,",
+      "Fiona Kenyon,",
+      "Elizabeth Müller,",
+      "Jan van Dijk,",
+      "Janina Demeler,",
+      "Georg von Samson-Himmelstjerna,",
+      "Dolores Catalan,",
+      "Annibale Biggeri,",
+      "Guy Hendrickx,",
+      "Johannes Charlier,",
+      "Eric R. Morgan,",
+      "Paul Torgerson,",
+      "Adrian Wolstenholme,",
+      "Jozef Vercruysse"
+    ],
+    "doi": "https://doi.org/10.3390/agriculture3030484",
+    "journalVolume": "Vol. 3,\n                                no. 3\n                                \n                                  pp.\n                                  484\n                                  – 502",
+    "issn": "2077-0472 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agriculture",
+    "abstract": "Infections with parasitic helminths (nematodes and trematodes) represent a significant economic and welfare burden to the global ruminant livestock industry. The increasing prevalence of anthelmintic resistance means that current control programmes are costly and unsustainable in the long term. Recent changes in the epidemiology, seasonality and geographic distribution of helminth infections have been attributed to climate change. However, other changes in environment (e.g., land use) and in livestock farming, such as intensification and altered management practices, will also have an impact on helminth infections. Sustainable control of helminth infections in a changing world requires detailed knowledge of these interactions. In particular, there is a need to devise new, sustainable strategies for the effective control of ruminant helminthoses in the face of global change. In this paper, we consider the impact of helminth infections in grazing ruminants, taking a European perspective, and identify scientific and applied priorities to mitigate these impacts. These include the development and deployment of efficient, high-throughput diagnostic tests to support targeted intervention, modelling of geographic and seasonal trends in infection, more thorough economic data and analysis of the impact of helminth infections and greater translation and involvement of end-users in devising and disseminating best practices. Complex changes in helminth epidemiology will require innovative solutions. By developing and using new technologies and models, the use of anthelmintics can be optimised to limit the development and spread of drug resistance and to reduce the overall economic impact of helminth infections. This will be essential to the continued productivity and profitability of livestock farming in Europe and its contribution to regional and global food security.",
+    "readLink": "http://www.mdpi.com/2077-0472/3/3/484"
+  },
+  {
+    "title": "Optimal Estimation of Sea Surface Temperature from AMSR-E",
+    "authors": [
+      "Pia Nielsen-Englyst,",
+      "Jacob L. Høyer,",
+      "Leif Toudal Pedersen,",
+      "Chelle L. Gentemann,",
+      "Emy Alerskans,",
+      "Tom Block,",
+      "Craig Donlon"
+    ],
+    "doi": "https://doi.org/10.3390/rs10020229",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  p.\n                                  229",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The Optimal Estimation (OE) technique is developed within the European Space Agency Climate Change Initiative (ESA-CCI) to retrieve subskin Sea Surface Temperature (SST) from AQUA’s Advanced Microwave Scanning Radiometer—Earth Observing System (AMSR-E). A comprehensive matchup database with drifting buoy observations is used to develop and test the OE setup. It is shown that it is essential to update the first guess atmospheric and oceanic state variables and to perform several iterations to reach an optimal retrieval. The optimal number of iterations is typically three to four in the current setup. In addition, updating the forward model, using a multivariate regression model is shown to improve the capability of the forward model to reproduce the observations. The average sensitivity of the OE retrieval is 0.5 and shows a latitudinal dependency with smaller sensitivity for cold waters and larger sensitivity for warmer waters. The OE SSTs are evaluated against drifting buoy measurements during 2010. The results show an average difference of 0.02 K with a standard deviation of 0.47 K when considering the 64% matchups, where the simulated and observed brightness temperatures are most consistent. The corresponding mean uncertainty is estimated to 0.48 K including the in situ and sampling uncertainties. An independent validation against Argo observations from 2009 to 2011 shows an average difference of 0.01 K, a standard deviation of 0.50 K and a mean uncertainty of 0.47 K, when considering the best 62% of retrievals. The satellite versus in situ discrepancies are highest in the dynamic oceanic regions due to the large satellite footprint size and the associated sampling effects. Uncertainty estimates are available for all retrievals and have been validated to be accurate. They can thus be used to obtain very good retrieval results. In general, the results from the OE retrieval are very encouraging and demonstrate that passive microwave observations provide a valuable alternative to infrared satellite observations for retrieving SST.",
+    "readLink": "http://www.mdpi.com/2072-4292/10/2/229"
+  },
+  {
+    "title": "Vibrio parahaemolyticus and Vibrio vulnificus in vitro biofilm dispersal from microplastics influenced by simulated human environment",
+    "authors": [
+      "Ryan E. Leighton,",
+      "Ryan E. Leighton,",
+      "Liyan Xiong,",
+      "Gracie K. Anderson,",
+      "Grace M. Astarita,",
+      "Guoshuai Cai,",
+      "Robert Sean Norman,",
+      "Robert Sean Norman,",
+      "Alan W. Decho,",
+      "Alan W. Decho"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2023.1236471",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "Growing concerns exist regarding human ingestion of contaminated seafood that contains Vibrio biofilms on microplastics (MPs). One of the mechanisms enhancing biofilm related infections in humans is due to biofilm dispersion, a process that triggers release of bacteria from biofilms into the surrounding environment, such as the gastrointestinal tract of human hosts. Dispersal of cells from biofilms can occur in response to environmental conditions such as sudden changes in temperature, pH and nutrient conditions, as the bacteria leave the biofilm to find a more stable environment to colonize. This study evaluated how brief exposures to nutrient starvation, elevated temperature, different pH levels and simulated human media affect Vibrio parahaemolyticus and Vibrio vulnificus biofilm dispersal and processes on and from low-density polyethylene (LDPE), polypropylene (PP), and polystyrene (PS) MPs. Both species were able to adequately disperse from all types of plastics under most exposure conditions. V. parahaemolyticus was able to tolerate and survive the low pH that resembles the gastric environment compared to V. vulnificus. pH had a significantly (p ≤ 0.05) positive effect on overall V. parahaemolyticus biofilm biomass in microplates and cell colonization from PP and PS. pH also had a positive effect on V. vulnificus cell colonization from LDPE and PP. However, most biofilm biomass, biofilm cell and dispersal cell densities of both species greatly varied after exposure to elevated temperature, pH, and nutrient starvation. It was also found that certain exposures to simulated human media affected both V. parahaemolyticus and V. vulnificus biofilm biomass and biofilm cell densities on LDPE, PP and PS compared to exposure to traditional media of similar pH. Cyclic-di-GMP was higher in biofilm cells compared to dispersal cells, but exposure to more stressful conditions significantly increased signal concentrations in both biofilm and dispersal states. Taken together, this study suggests that human pathogenic strains of V. parahaemolyticus and V. vulnificus can rapidly disperse with high cell densities from different plastic types in vitro. However, the biofilm dispersal process is highly variable, species specific and dependent on plastic type, especially under different human body related environmental exposures.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmicb.2023.1236471/full"
+  },
+  {
+    "title": "Study of fiscal decentralization, macroeconomic stability and regional growth in Indonesia",
+    "authors": [
+      "Joko Tri Haryanto,",
+      "Rita Helbra Tenrini"
+    ],
+    "doi": "https://doi.org/10.22437/ppd.v9i3.12157",
+    "journalVolume": "Vol. 9,\n                                no. 3",
+    "issn": "2338-4603 (Print)",
+    "publisher": "2355-8520 (Online)",
+    "countryOfPublisher": "Master Program in Economics, Graduate Program of Universitas Jambi",
+    "lcc": [
+      "Indonesia",
+      "Social Sciences: Industries. Land use. Labor: Economic growth, development, planning",
+      "Social Sciences: Finance"
+    ],
+    "journalUrl": "http://online-journal.unja.ac.id/index.php/JES",
+    "abstract": "Indonesia has been implementing fiscal decentralization since 2001. In theory, fiscal decentralization affected macroeconomic stability and economic growth—this study using data panels at the provincial level from 2010 to 2013. In the relationship between fiscal decentralization and macroeconomic stability with control variable income, significant variables are income to GRDP, GRDP per capita, and population. If control variable expenditure, significant variables are expenditure to GRDP, GRDP per capita, and population. In the model that analyzes fiscal decentralization and economic growth with control variable income, significant variables are income to GRDP, consumption to GRDP, and population. Meanwhile, if control variable expenditure, significant variables are expenditure to GRDP, consumption to GRDP, and population. By using sensitivity analysis, the population variable is a high priority. Therefore stakeholders should treat population variables carefully.",
+    "readLink": "https://online-journal.unja.ac.id/JES/article/view/12157"
+  },
+  {
+    "title": "Hydrological Characteristics Change of Hala Lake and Its Response to Climate Change, 1987–2018",
+    "authors": [
+      "Zhiyong Jiang,",
+      "Jianru Wang,",
+      "Xiaobin Cai,",
+      "Junli Zhao,",
+      "Huawei Zhang,",
+      "Yi Zhang,",
+      "Chongshan Wang"
+    ],
+    "doi": "https://doi.org/10.3390/rs14122886",
+    "journalVolume": "Vol. 14,\n                                no. 2886\n                                \n                                  p.\n                                  2886",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Lakes on the Tibetan Plateau (TP) are an indicator of global climate change. The study on the factors driving lake change on the TP can help us understand its response to climate change. In this study, Landsat and ICESat data were used to obtain the variations of area, water level, and storage of Hala Lake and the area of glaciers in the Hala Lake Basin during 1987–2018. Combined with meteorological data, climate change trends and the factors driving Hala Lake change in the last 30 years were analyzed. The contribution of glacier mass loss to lake recharge was estimated by the water balance of Hala Lake. The results showed that Hala Lake has experienced three stages: slight expansion (1987–1994), shrinkage (1995–2001) and rapid expansion (2002–2018) during the study period. The rate of glacial melting continued to decline during the study period. Precipitation was the main factor that drove the hydrological characteristic changes in Hala Lake. The step change points of annual precipitation and temperature occurred in 2001, almost the same time that Hala Lake began expanding rapidly.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/12/2886"
+  },
+  null,
+  {
+    "title": "The Gulf toadfish goes south: assessing the potential habitat suitability of Opsanus beta in response to climate change",
+    "authors": [
+      "João Henrique Alliprandini da Costa ,",
+      "Ursulla Pereira Souza"
+    ],
+    "doi": "https://doi.org/10.4025/actascibiolsci.v45i1.68519",
+    "journalVolume": "Vol. 45,\n                                no. 1",
+    "issn": "1679-9283 (Print)",
+    "publisher": "1807-863X (Online)",
+    "countryOfPublisher": "Universidade Estadual de Maringá",
+    "lcc": [
+      "Brazil",
+      "Science: Biology (General)",
+      "Science: Microbiology"
+    ],
+    "journalUrl": "https://periodicos.uem.br/ojs/index.php/ActaSciBiolSci/index",
+    "abstract": "Climate change can directly influence invasive species range, and may reflect in greater habitat suitability, consequently increasing losses in native biodiversity. Habitat suitability modelling can help identify priority areas for conservation and rapid response for invasive taxa. This study aimed to model the habitat suitability of Opsanus beta, an invasive fish species, in South America under current and future climate change scenarios. Three modelling techniques, Generalized Linear Model (GLM), Maximum Entropy Algorithm (Maxent), and Random Forest (RF), were applied, and their results were compared and then put together in an Ensemble model to visualize habitat suitability. We found that the current habitat suitability of O. beta in South America is relatively low, with its occurrences mostly related to coastal port areas, suggesting that the species was introduced from ballast water. The increase in mean temperature at mean depth and temperature range were the most relevant variables influencing the species habitat suitability. The gradual increase in habitat suitability for the 2100 climate change scenarios, particularly in more severe climate change scenarios, such as the RCP 8.5, was also observed. The study highlights the critical need to use habitat suitability models to mitigate the impact of future climate change scenarios on invasive species. The findings call for preventive measures to be taken in time to prepare areas that may become the target of dispersal and establishment of O. beta.",
+    "readLink": "https://periodicos.uem.br/ojs/index.php/ActaSciBiolSci/article/view/68519"
+  },
+  {
+    "title": "Remote sensing analysis to map inter-regional spatio-temporal variations of the vegetation in Iceland during 2001–2018",
+    "authors": [
+      "Haraldur Olafsson,",
+      "Iman Rousta"
+    ],
+    "doi": "https://doi.org/10.3986/AGS.10390",
+    "journalVolume": "Vol. 62,\n                                no. 1\n                                \n                                  pp.\n                                  105\n                                  – 124",
+    "issn": "1581-6613 (Print)",
+    "publisher": "1581-8314 (Online)",
+    "countryOfPublisher": "ZRC SAZU, Založba ZRC",
+    "lcc": [
+      "Slovenia",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://ojs.zrc-sazu.si/ags",
+    "abstract": "Changes in the vegetation of the Arctic and sub-Arctic regions have been used as indicators of the impact and seriousness of climate change. In this study, 342 MODIS NDVI images were used to monitor and assess the variability and long-term changes in the vegetation in Iceland in the period 2001–2018. An insignificant trend in the changes of the vegetation coverage (R = 0.16, p-value = 0.05) was obtained, however, it also resulted that the area with the low values of the NDVI ( 0.6, mostly forests) is increasing. The NDVI index during the study period rose for the area of about 3260 km2, while it declined for 1635 km2. The results of this study can be used for organizing the strategies preventing climate change and global warming.",
+    "readLink": "https://ojs.zrc-sazu.si/ags/article/view/10390"
+  },
+  {
+    "title": "Spatiotemporal characteristics of arsenic and lead with seasonal freeze-thaw cycles in the source area of the Yellow River Tibet Plateau, China",
+    "authors": [
+      "Congrong Yu,",
+      "Kun Hua,",
+      "Ching-Sheng Huang,",
+      "Huijun Jin,",
+      "Yufeng Sun,",
+      "Zhongbo Yu"
+    ],
+    "doi": "Vol. 44\n                                \n                                \n                                  p.\n                                  101210",
+    "issn": "2214-5818 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-hydrology-regional-studies/",
+    "abstract": "Study region: The source region of the Yellow River, China (SAYR) Study focus: This study focuses on demonstrating the impact of seasonal freeze-thaw process on the seasonally arsenic (As) and lead (Pb) concentration in the water bodies, such as river, lake, and spring. 113 surface water samples in April (freeze permafrost), 164 in July (active layer in permafrost thawed), and 86 soil samples at various depths in July were collected. Statistical correlation and principle analysis were applied to find the connection between tracer metals in water bodies and the various environmental factors. The percentage of soil particle size (5–50 µm), which can reflect the intensity of the freeze-thaw process in the permafrost soil, influenced the soil and water As and Pb trace metal concentrations differently in the permafrost area. New hydrological insights for the region: In April, the average As concentrations were 23.4 ± 16.7, 39.4 ± 32.6, 26.5 ± 24.4 μg/L, respectively in river, lake and spring water samples, and Pb concentrations were 34.9 ± 27.1, 47.4 ± 38 and 48.9 ± 33.4 μg/L. While the As concentrations in waters in July all decreased by 2 or 3 times compared with those in April, Pb concentrations slightly increased. Permafrost thawing enhanced the weathering of As and Pb, but the high As adsorption on fine soil particles, resulting from the seasonal freeze-thaw cycles, leaded to the significant decrease in the water As concentration in July, in addition to the rainfall dilution. The slight increase in Pb water concentration in July suggesting the effects of enhanced weathering and dilution were equally important. The higher As and Pb concentrations around the large Gyaring and Ngoring lakes than other SAYR area, shaping the spatial distribution of As and Pb, might be due to evaporative enrichment and the high phosphate content in the lakes. Results are helpful in assessing the ecological impact of trace metals in the permafrost area with climate change.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214581822002233"
+  },
+  {
+    "title": "Intercomparing the robustness of machine learning models in simulation and forecasting of streamflow",
+    "authors": [
+      "Parthiban Loganathan,",
+      "Amit Baburao Mahindrakar"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2020.365",
+    "journalVolume": "Vol. 12,\n                                no. 5\n                                \n                                  pp.\n                                  1824\n                                  – 1837",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "The intercomparison of streamflow simulation and the prediction of discharge using various renowned machine learning techniques were performed. The daily streamflow discharge model was developed for 35 observation stations located in a large-scale river basin named Cauvery. Various hydrological indices were calculated for observed and predicted discharges for comparing and evaluating the replicability of local hydrological conditions. The model variance and bias observed from the proposed extreme gradient boosting decision tree model were less than 15%, which is compared with other machine learning techniques considered in this study. The model Nash–Sutcliffe efficiency and coefficient of determination values are above 0.7 for both the training and testing phases which demonstrate the effectiveness of model performance. The comparison of monthly observed and model-predicted discharges during the validation period illustrates the model's ability in representing the peaks and fall in high-, medium-, and low-flow zones. The assessment and comparison of hydrological indices between observed and predicted discharges illustrate the model's ability in representing the baseflow, high-spell, and low-spell statistics. Simulating streamflow and predicting discharge are essential for water resource planning and management, especially in large-scale river basins. The proposed machine learning technique demonstrates significant improvement in model efficiency by dropping variance and bias which, in turn, improves the replicability of local-scale hydrology. HIGHLIGHTS The credibility of machine learning models in representing the regional-scale hydrology is performed.; Evaluation to prioritize model selection for river basin management.; Season-based approach in evaluating model performance in local hydrology.; Hydrological indices were inter-compared for high-, medium-, and low-flow zones.; Outcome delivers valuable suggestions to decision-makers in the planning of future water resources.;",
+    "readLink": "http://jwcc.iwaponline.com/content/12/5/1824"
+  }
+]

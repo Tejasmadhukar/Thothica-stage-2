@@ -1,0 +1,228 @@
+[
+  {
+    "title": "The PRIMAP-hist national historical emissions time series",
+    "authors": [
+      "J. Gütschow,",
+      "M. L. Jeffery,",
+      "R. Gieseke,",
+      "R. Gebel,",
+      "D. Stevens,",
+      "M. Krapp,",
+      "M. Rocha"
+    ],
+    "doi": "https://doi.org/10.5194/essd-8-571-2016",
+    "journalVolume": "Vol. 8,\n                                no. 2\n                                \n                                  pp.\n                                  571\n                                  – 603",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "To assess the history of greenhouse gas emissions and individual countries' contributions to emissions and climate change, detailed historical data are needed. We combine several published datasets to create a comprehensive set of emissions pathways for each country and Kyoto gas, covering the years 1850 to 2014 with yearly values, for all UNFCCC member states and most non-UNFCCC territories. The sectoral resolution is that of the main IPCC 1996 categories. Additional time series of CO2 are available for energy and industry subsectors. Country-resolved data are combined from different sources and supplemented using year-to-year growth rates from regionally resolved sources and numerical extrapolations to complete the dataset. Regional deforestation emissions are downscaled to country level using estimates of the deforested area obtained from potential vegetation and simulations of agricultural land. In this paper, we discuss the data sources and methods used and present the resulting dataset, including its limitations and uncertainties. The dataset is available from doi:10.5880/PIK.2016.003 and can be viewed on the website accompanying this paper (http://www.pik-potsdam.de/primap-live/primap-hist/).",
+    "readLink": "http://www.earth-syst-sci-data.net/8/571/2016/essd-8-571-2016.pdf"
+  },
+  {
+    "title": "Desalination and the reproduction of water injustices in the San Andrés island water crisis",
+    "authors": [
+      "Carolina Velásquez,",
+      "Tricia Wachtendorf"
+    ],
+    "doi": "Vol. 16,\n                                no. 2\n                                \n                                  pp.\n                                  632\n                                  – 658",
+    "issn": "1965-0175 (Online)",
+    "publisher": "Water Alternatives Association",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Technology: Hydraulic engineering"
+    ],
+    "journalUrl": "http://www.water-alternatives.org/index.php",
+    "abstract": "Caribbean islands are particularly vulnerable to extreme events like droughts, co-occurring with groundwater pollution, water inequalities, and weak governance. Consequently, many island communities that rely on tourism are experiencing ongoing and deepening water crises. Technical solutions like desalination are regularly employed throughout the Caribbean, yet water crises persist despite these mitigation strategies. This research focuses on San Andrés, a Colombian Caribbean Island. Following the 2016 water crisis, residents saw the crisis as social: pre-existing social inequalities led to differential water access, quantity, and distribution during the crisis. In contrast, organisational leaders attributed the water crisis to a natural hazard (drought or, more broadly, climate change), even if they recognised disproportional distribution. Interviews revealed strong support from all participants for the use of desalination to address the crisis, despite the inequities that characterise the implementation of this strategy. We argue that San Andrés is moving towards technological water dependence, disconnected from traditional local forms of collecting water and rendering islanders less able to control the resource. We posit that there is a connection between injustice, desalination, and water crises. When a water crisis occurs, it often reveals pre-existing injustices in the social system. Instead of resolving the injustices, desalination, which is often seen as the main solution to the crisis, perpetuates and reinforces them. The result is a cycle of crises that persist over time.",
+    "readLink": "https://www.water-alternatives.org/index.php/alldoc/articles/vol16/v16issue2/715-a16-2-16/file"
+  },
+  {
+    "title": "Biophysics and vegetation cover change: a process-based evaluation framework for confronting land surface models with satellite observations",
+    "authors": [
+      "G. Duveiller,",
+      "G. Forzieri,",
+      "E. Robertson,",
+      "W. Li,",
+      "G. Georgievski,",
+      "P. Lawrence,",
+      "A. Wiltshire,",
+      "P. Ciais,",
+      "J. Pongratz,",
+      "S. Sitch,",
+      "A. Arneth,",
+      "A. Cescatti"
+    ],
+    "doi": "https://doi.org/10.5194/essd-10-1265-2018",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  1265\n                                  – 1279",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "Land use and land cover change (LULCC) alter the biophysical properties of the Earth's surface. The associated changes in vegetation cover can perturb the local surface energy balance, which in turn can affect the local climate. The sign and magnitude of this change in climate depends on the specific vegetation transition, its timing and its location, as well as on the background climate. Land surface models (LSMs) can be used to simulate such land–climate interactions and study their impact in past and future climates, but their capacity to model biophysical effects accurately across the globe remain unclear due to the complexity of the phenomena. Here we present a framework to evaluate the performance of such models with respect to a dedicated dataset derived from satellite remote sensing observations. Idealized simulations from four LSMs (JULES, ORCHIDEE, JSBACH and CLM) are combined with satellite observations to analyse the changes in radiative and turbulent fluxes caused by 15 specific vegetation cover transitions across geographic, seasonal and climatic gradients. The seasonal variation in net radiation associated with land cover change is the process that models capture best, whereas LSMs perform poorly when simulating spatial and climatic gradients of variation in latent, sensible and ground heat fluxes induced by land cover transitions. We expect that this analysis will help identify model limitations and prioritize efforts in model development as well as inform where consensus between model and observations is already met, ultimately helping to improve the robustness and consistency of model simulations to better inform land-based mitigation and adaptation policies. The dataset consisting of both harmonized model simulation and remote sensing estimations is available at https://doi.org/10.5281/zenodo.1182145.",
+    "readLink": "https://www.earth-syst-sci-data.net/10/1265/2018/essd-10-1265-2018.pdf"
+  },
+  {
+    "title": "Effects of Leaf Age and Exogenous Hormones on Callus Initiation, Rooting Formation, Bud Germination, and Plantlet Formation in Chinese Fir Leaf Cuttings",
+    "authors": [
+      "Lili Zhou,",
+      "Shubin Li,",
+      "Peng Huang,",
+      "Sizu Lin,",
+      "Shalom  Daniel Addo-Danso,",
+      "Zhihui Ma,",
+      "Guochang Ding"
+    ],
+    "doi": "https://doi.org/10.3390/f9080478",
+    "journalVolume": "Vol. 9,\n                                no. 8\n                                \n                                  p.\n                                  478",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "To guide the cultivation of superior Chinese fir plantlets, we designed an L16(4)4 orthogonal experiment to determine how leaf age and exogenous hormones influence key growth processes in leaf cuttings. Hormone concentration and treatment duration significantly affected leaf cuttings in all three age categories; 6-benzylaminopurine (6-BA), 1-naphthaleneacetic acid (NAA), and treatment time exerted the strongest effects on callus initiation rates. Additionally, NAA had the largest effect on the rooting rate across all cuttings, and all three hormones significantly influenced the bud germination rate. Based on our experimental results, expected optimal treatments for callus initiation were 10 mg∙L−1 indole-3-butyric acid (IBA) for 10 min, 30 mg∙L−1 NAA for 15 min, and 10 mg∙L−1 NAA plus 30 mg∙L−1 IBA for 10 min. For the rooting rate, the expected optimal treatment was 50 mg∙L−1 NAA and 40 mg∙L−1 IBA for 5–20 min. Finally, for bud germination, optimal treatments were 20 min of immersion in water, 30 mg∙L−1 6-BA plus 50 mg∙L−1 NAA for 15 min, and 30 mg∙L−1 6-BA for 5 min. Plantlet formation only occurred in the <one-year-old leaves, and at very low rates (maximum 5.8%); this outcome is likely attributable to the mother plant’s relatively old age (five years). Plantlet formation from cuttings is dependent on ensuring the rooting rate after callus initiation. Therefore, to promote rooting rates and bud germination, we recommend leaving more xylem at the base of leaf cuttings.",
+    "readLink": "http://www.mdpi.com/1999-4907/9/8/478"
+  },
+  {
+    "title": "Scaling Global Warming Impacts on Ocean Ecosystems: Lessons From a Suite of Earth System Models",
+    "authors": [
+      "Alexis Bahl,",
+      "Anand Gnanadesikan,",
+      "Marie-Aude S. Pradal"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2020.00698",
+    "journalVolume": "Vol. 7",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "An important technique used by climate modelers to isolate the impacts of increasing greenhouse gasses on Earth System processes is to simulate the impact of an abrupt increase in carbon dioxide. The spatial pattern of change provides a “fingerprint” that is generally much larger than natural variability. Insofar as the response to radiative forcing is linear (the impact of quadrupling CO2 is twice the impact of doubling CO2) this fingerprint can then be used to estimate the impact of historical greenhouse gas forcing. However, the degree to which biogeochemical cycles respond linearly to radiative forcing has rarely been tested. In this paper, we evaluate which ocean biogeochemical fields are likely to respond linearly to changing radiative forcing, which ones do not, and where linearity breaks down. We also demonstrate that the representation of lateral mixing by mesoscale eddies, which varies significantly across climate models, plays an important role in modulating the breakdown of linearity. Globally integrated surface rates of biogeochemical cycling (primary productivity, particulate export) respond in a relatively linear fashion and are only moderately sensitive to mixing. By contrast, the habitability of the interior ocean (as determined by hypoxia and calcite supersaturation) behaves non-linearly and is very sensitive to mixing. This is because the deep ocean, as well as certain regions in the surface ocean, are very sensitive to the magnitude of deep wintertime convection. The cessation of convection under global warming is strongly modulated by the representation of eddy mixing.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmars.2020.00698/full"
+  },
+  {
+    "title": "Climate and human impacts inferred from a 1500-year multi-proxy record of an alpine peatland in the South-Eastern Alps",
+    "authors": [
+      "Ilaria Fracasso,",
+      "Anna Dinella,",
+      "Francesco Giammarchi,",
+      "Nadia Marinchel,",
+      "Piotr Kołaczek,",
+      "Mariusz Lamentowicz,",
+      "Katarzyna Marcisz,",
+      "Edyta Łokas,",
+      "Magdalena Miecznik,",
+      "Luca Bragazza,",
+      "Matteo Girardi,",
+      "Maurizio Ventura,",
+      "Luigimaria Borruso,",
+      "Giustino Tonon,",
+      "Cristiano Vernesi"
+    ],
+    "doi": "Vol. 145\n                                \n                                \n                                  p.\n                                  109737",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "In the last decades, climate and human activities significantly affected ecosystems, particularly in mountain areas. Whereas the Alps have been extensively studied for palaeoclimatic reconstructions, little information is available about ecological changes, especially in the Southeastern Alps. This study presents a palaeoclimatic and palaeoecological reconstruction from a 1500-years-old mountain peatland record: Wölflmoor, Bozen (Italy).Through Physico-chemical proxies, testate amoeba, pollen, plant macro-fossils, and environmental DNA (eDNA) analyses, we pursued a twofold objective: 1) reconstructing the palaeoenvironmental variations of the peatland and the surrounding environment to identify the main dry/wet periods, and their correlations with climate and human activities; 2) testing the use of eDNA from a peatland in palaeoecological reconstructions. The dating highlighted a distinct change of age at a depth of 55.5–50.5 cm (ca. 800–930 calibrated years), which suggests a depositional gap (hiatus), at least in this section, occurred during the Medieval Warm Period, due to the increase in air temperature. However, the possible exploitation of the peatland by humans cannot be excluded. Indeed, the increase of Poaceae, Cerealia type, and Secale cereale, and the reduction of Fagus sylvatica and Quercus presented a high human pressure starting around 720 cal. CE. Environmental DNA metabarcoding results showed similar trends. However, it gave limitations such as the preferential amplification of the most abundant species, leading to a relatively small number of detected taxa. This is one of the first studies of eDNA metabarcoding from peatland; thus, we argue that ample room for improvement is expected in a short time, making eDNA metabarcoding a valuable complementary approach, primarily when both flora and fauna taxa are targeted.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X22012109"
+  },
+  {
+    "title": "Sustainable Water Resources Management in Small Greek Islands under Changing Climate",
+    "authors": [
+      "Ioannis  M. Kourtis,",
+      "Konstantinos  G. Kotsifakis,",
+      "Elissavet  G. Feloni,",
+      "Evangelos  A. Baltas"
+    ],
+    "doi": "https://doi.org/10.3390/w11081694",
+    "journalVolume": "Vol. 11,\n                                no. 8\n                                \n                                  p.\n                                  1694",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Five different water resource management scenarios are examined on eight dry islands of the Aegean Sea in Greece, pitting the current practice of water hauling via ship against alternative water supply schemes in delivering a sustainable solution for meeting water demand. The first scenario employs current water supply practices along with the operation of domestic rainwater harvesting systems. Desalinated water, provided through the operation of wind-powered desalination plants, is considered the main source of potable water in the rest of scenarios. Wind-powered desalination may be combined with rainwater harvesting as a supplementary source of water and/or seawater pumping and an additional source of energy that is supplied to the system. All different alternatives are evaluated for a 30-year lifespan, and an optimal solution is proposed for each island, based on a life cycle cost (LCC) analysis. The performance of this solution is then assessed under six climate change (CC) scenarios in terms of the rate of on-grid versus off-grid renewable energy that is required in order to achieve a certain reliability level. Overall, the examined scenarios show a decreasing performance in terms of reliability under CC for the eight islands.",
+    "readLink": "https://www.mdpi.com/2073-4441/11/8/1694"
+  },
+  {
+    "title": "Advancing flood resilience: the nexus between flood risk management, green infrastructure, and resilience",
+    "authors": [
+      "Mehrafarin Takin,",
+      "Elizelle Juanee' Cilliers,",
+      "Elizelle Juanee' Cilliers,",
+      "Sumita Ghosh"
+    ],
+    "doi": "https://doi.org/10.3389/frsc.2023.1186885",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-9634 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-cities#about",
+    "abstract": "IntroductionClimate change and the fast pace of urbanization are two major factors contributing to the exacerbated risk of flooding in urban areas. Flood resilience strategies, underpinned by the principles of green infrastructure, are gaining importance as within broader spatial planning approaches, and various global cities are adopting revised policies and frameworks to improve flood risk management. Yet, such responsive approaches are still limited and context-specific.MethodsIn this article, thematic analysis using NVivo was employed to analyse 49 documents related to flood risk management, resilience, and green infrastructure planning.ResultsThis paper reflects on the concepts of flood risk management, flood resilience and green infrastructure planning to identify the synergies between these concepts, and identify challenges that are prohibiting global flood resilience.DiscussionEnhancing flood resilience requires coordinated efforts, effective communication, and collaborative governance among stakeholders. The paper also draws planning recommendations for advancing flood resilience through governance and an integrated planning approach, in support of the global goals toward flood resilience.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frsc.2023.1186885/full"
+  },
+  {
+    "title": "Observational Evidence of the Need for Gender-Sensitive Approaches to Wildfires Locally and Globally: Case Study of 2018 Wildfire in Mati, Greece",
+    "authors": [
+      "Anastasia Zabaniotou,",
+      "Anastasia Pritsa,",
+      "E-A Kyriakou"
+    ],
+    "doi": "https://doi.org/10.3390/su13031556",
+    "journalVolume": "Vol. 13,\n                                no. 1556\n                                \n                                  p.\n                                  1556",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The study takes an equality justice perspective to compare resilience against the controlled management of wildfires, for an effective preparedness, which is a prerequisite for equitable mitigation. The objectives were (a) conceptualizing wildfire mitigation by exploring the ties with gender equality to wildfire hazards, (b) taking the case of wildfire 2018 in Mati, Greece, to contribute reducing the country’s gender inequality, and (c) increasing resilience to climate change hazards by considering lessons learnt. The authors underscore the benefits of a workshop-based and instrumental case study methodology for unravelling evidence on the need for gender-sensitive approaches and tools for future planning at local, regional, and global scales. The case study unravels women’s lack of preparedness to wildfires in Greece, their absence in decision-making for fire management, and the need for capacity building to transform communities’ resilience. The literature research and the specific interviews conducted helped bring awareness to the wildfire’s dynamics, in alignment with the fundamental aspect of gender equality, and to ground recommendations for socio-ecological resilience transition and gender-sensitive approaches in fire management, from reactive fire-fighting to proactive integration. Although in the geographical-context, the study can bring widespread geographical awareness, bringing insights for relevance to similar areas worldwide.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/3/1556"
+  },
+  {
+    "title": "Human Rights Discourse in the Sustainable Development Agenda Avoids Obligations and Entitlements Comment on “Rights Language in the Sustainable Development Agenda: Has Right to Health Discourse and Norms Shaped Health Goals?”",
+    "authors": [
+      "Carmel Williams,",
+      "Alison Blaiklock"
+    ],
+    "doi": "https://doi.org/10.15171/ijhpm.2016.29",
+    "journalVolume": "Vol. 5,\n                                no. 6\n                                \n                                  pp.\n                                  387\n                                  – 390",
+    "issn": "2322-5939 (Online)",
+    "publisher": "Kerman University of Medical Sciences",
+    "countryOfPublisher": "Iran, Islamic Republic of",
+    "lcc": [
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.ijhpm.com",
+    "abstract": "Our commentary on Forman et al paper explores their thesis that right to health language can frame global health policy responses. We examined human rights discourse in the outcome documents from three 2015 United Nations (UN) summits and found rights-related terms are used in all three. However, a deeper examination of the discourse finds the documents do not convey the obligations and entitlements of human rights and international human rights law. The documents contain little that can be used to empower the participation of those already left behind and to hold States and the private sector to account for their human rights duties. This is especially worrying in a neoliberal era.",
+    "readLink": "http://www.ijhpm.com/pdf_3173_9e8b81489449e8eebe66c5be15b60e34.html"
+  }
+]

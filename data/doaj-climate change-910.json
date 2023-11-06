@@ -1,0 +1,224 @@
+[
+  {
+    "title": "Chickpeas’ Tolerance of Drought and Heat: Current Knowledge and Next Steps",
+    "authors": [
+      "Erna Karalija,",
+      "Chiara Vergata,",
+      "Marcos Fernando Basso,",
+      "Miriam Negussu,",
+      "Michele Zaccai,",
+      "Maria Fatima Grossi-de-Sa,",
+      "Federico Martinelli"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy12102248",
+    "journalVolume": "Vol. 12,\n                                no. 2248\n                                \n                                  p.\n                                  2248",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "The global increase in temperature and associated meteorological disruptions, such as the earlier onset of high temperatures and disruptions in precipitation, are becoming severely limiting factors in crop cultivation. Chickpea, as a cool season crop, is under the direct influence of heat and drought stress that is not only affecting this crop in its podding stage but, with current climate trends, the drought and heat are now also affecting earlier stages, such as flowering. The deteriorating effects of heat and droughts include reduced flowering, abortion of flowers and absence of podding; thus, this is severely affecting crop yield. Further research has been conducted to identify the genes correlated to higher stress tolerance and to utilize them in developing more tolerant varieties. Different alleviation approaches have been also tested and it has been determined that some positive effects can be seen in supplementation with Zn through melioration of water relations, seed priming and some transgenic and genome editing approaches. Breeding strategies for future chickpea varieties have been focused on the identification of varieties with more tolerant traits for an improved yield under stressed conditions. In this review, we have reviewed recent strategies and biotechnological approaches that have been used with chickpea crops to address the two major abiotic stresses (heat and drought) linked to future climate change.",
+    "readLink": "https://www.mdpi.com/2073-4395/12/10/2248"
+  },
+  {
+    "title": "OmbriaNet&#x2014;Supervised Flood Mapping via Convolutional Neural Networks Using Multitemporal Sentinel-1 and Sentinel-2 Data Fusion",
+    "authors": [
+      "Georgios I. Drakonakis,",
+      "Grigorios Tsagkatakis,",
+      "Konstantina Fotiadou,",
+      "Panagiotis Tsakalides"
+    ],
+    "doi": "https://doi.org/10.1109/JSTARS.2022.3155559",
+    "journalVolume": "Vol. 15\n                                \n                                \n                                  pp.\n                                  2341\n                                  – 2356",
+    "issn": "1939-1404 (Print)",
+    "publisher": "2151-1535 (Online)",
+    "countryOfPublisher": "IEEE",
+    "lcc": [
+      "United States",
+      "Technology: Ocean engineering",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443",
+    "abstract": "Regions around the world experience adverse climate-change-induced conditions that pose severe risks to the normal and sustainable operations of modern societies. Extreme weather events, such as floods, rising sea levels, and storms, stand as characteristic examples that impair the core services of the global ecosystem. Especially floods have a severe impact on human activities, hence, early and accurate delineation of the disaster is of top priority since it provides environmental, economic, and societal benefits and eases relief efforts. In this article, we introduce OmbriaNet, a deep neural network architecture, based on convolutional neural networks, that detects changes between permanent and flooded water areas by exploiting the temporal differences among flood events extracted by different sensors. To demonstrate the potential of the proposed approach, we generated OMBRIA, a bitemporal and multimodal satellite imagery dataset for image segmentation through supervised binary classification. It consists of a total number of 3.376 images, synthetic aperture radar imagery from Sentinel-1, and multispectral imagery from Sentinel-2, accompanied with ground-truth binary images produced from data derived by experts and provided from the Emergency Management Service of the European Space Agency Copernicus Program. The dataset covers 23 flood events around the globe, from 2017 to 2021. We collected, co-registrated and preprocessed the data in Google Earth Engine. To validate the performance of our method, we performed different benchmarking experiments on the OMBRIA dataset and we compared with several competitive state-of-the-art techniques. The experimental analysis demonstrated that the proposed formulation is able to produce high-quality flood maps, achieving a superior performance over the state-of-the-art. We provide OMBRIA dataset, as well as OmbriaNet code at: https://github.com/geodrak/OMBRIA.",
+    "readLink": "https://ieeexplore.ieee.org/document/9723593/"
+  },
+  {
+    "title": "HIGH-RESOLUTION SOLAR ENERGY PARAMETERS UNDER THE CLIMATE CHANGE SCENARIO FOR JAMMU AND KASHMIR AND LADAKH REGION",
+    "authors": [
+      "S. Verma,",
+      "C. Singh"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLIII-B4-2022-183-2022",
+    "journalVolume": "Vol. XLIII-B4-2022\n                                \n                                \n                                  pp.\n                                  183\n                                  – 188",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Solar technologies are viewed as feasible options for reducing greenhouse gas emissions and encouraging long-term adaptation in the context of climate change and rising energy demand. Solar energy is India's second-largest Renewable Energy (RE) source, and playing increasingly important role in the country's low-carbon energy portfolio. Jammu and Kashmir and Ladakh are the northernmost states of India, with elevations ranging from 205 to 8564 meters above the mean sea level. Both states are located just south of the Karakorum and have a subtropical and cold-arid environment with scarce renewable energy resources. This study is performed to identify the annual and monthly variation of solar energy potentials for the recent climatological future over the western Himalayan region. The long-term annual average demonstrated the high efficiency of GHI over Leh and Kargil and low over the Jammu and Kashmir region. The monthly variation shows greater GHI values between March and October, varying from 225 to 375 W m−2, and lower from November to February, less than 220 W m−2. The mean ambient 2-m temperature indicates December and January months are bad for solar energy installations, while June and July are excellent. Overall, the findings show that Ladakh has a remarkable solar energy potential and is recommendable for further investigation.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B4-2022/183/2022/isprs-archives-XLIII-B4-2022-183-2022.pdf"
+  },
+  {
+    "title": "Energy Flexibility and towards Resilience in New and Old Residential Houses in Cold Climates: A Techno-Economic Analysis",
+    "authors": [
+      "Hassam ur Rehman,",
+      "Ala Hasan"
+    ],
+    "doi": "https://doi.org/10.3390/en16145506",
+    "journalVolume": "Vol. 16,\n                                no. 5506\n                                \n                                  p.\n                                  5506",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "One of the main sectors that contribute to climate change is the buildings sector. While nearly zero-energy buildings are becoming a new norm in many countries in the world, research is advancing towards energy flexibility and resilience to reach energy efficiency and sustainability goals. Combining the energy flexibility and energy resilience concept is rare. In this article, we aim to investigate the effect of energy efficiency in a new single-family building on the energy flexibility potential and resilience characteristics and compare these with those for an old building in the cold climate of Finland. These two objectives are dependent on the buildings’ respective thermal mass. The heat demands of the two buildings are compared. Their technical and economic performance are calculated to compare their flexibility and resilience characteristics. Dynamic simulation software is used to model the buildings. The results show that the old building has better flexibility and higher energy cost savings when including the energy conservation activation strategy. In the old building, savings can be around EUR 400 and flexibility factor can be around 24–52% depending on the activation duration and strategy. The new building, due to higher efficiency, may not provide higher energy cost savings, and the energy conservation activation strategy is better. In the new building, savings can be around EUR 70 and the flexibility factor reaches around 7–14% depending on the activation duration and strategy. The shifting efficiency of the new house is better compared to that of the old house due to its higher storage capacity. For energy resilience, the new building is shown to be better during power outages. The new building can be habitable for 17 h, while the old building can provide the same conditions for 3 h only. Therefore, it is essential to consider both energy flexibility and resilience as this can impact performance during the energy crisis.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/14/5506"
+  },
+  {
+    "title": "Do Value Orientations and Beliefs Play a Positive Role in Shaping Personal Norms for Urban Green Space Conservation?",
+    "authors": [
+      "Kaiwen Su,",
+      "Jie Ren,",
+      "Chuyun Cui,",
+      "Yilei Hou,",
+      "Yali Wen"
+    ],
+    "doi": "https://doi.org/10.3390/land11020262",
+    "journalVolume": "Vol. 11,\n                                no. 262\n                                \n                                  p.\n                                  262",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Urban Green Spaces (UGS) have a huge contribution to the health of urban ecosystems. However, they are threatened by numerous factors such as rapid urbanization, resource depletion, and climate change. These factors are inextricably linked to human behaviors, guided by the values and beliefs of people. According to value-belief-norm theory and norm activation model, personal norms are defined as self-expectations of pro-environmental behavior influenced by the ascription of responsibility and awareness of consequences in values and beliefs. When the conditions of responsibility and consequence awareness are met, individuals are more likely to experience a sense of moral obligation to exhibit environmentally responsible behavior. To address conservation and better enable UGS to have a positive function, we must explore how to promote the development of personal norms that are beneficial to UGS conservation. This study explored the influence that UGS values and beliefs have on personal norms. A questionnaire was administered to 1641 urban residents in Beijing, China, and Partial Least Square Structural Modeling was used to assess the causal relationship in the formation of personal norms on UGS conservation. The results showed that intrinsic, instrumental, and relational UGS value orientations contribute directly or indirectly to the formation of personal norms for the conservation of UGS through environmental beliefs as mediators, with the most significant effect being the relational value orientations. The results of the study can provide scientific guidance for future public participation in UGS conservation.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/2/262"
+  },
+  {
+    "title": "The genome and sex-dependent responses to temperature in the common yellow butterfly, Eurema hecabe",
+    "authors": [
+      "Ivy H. T. Lee,",
+      "Wenyan Nong,",
+      "Wai Lok So,",
+      "Chris K. H. Cheung,",
+      "Yichun Xie,",
+      "Toby Baril,",
+      "Ho Yin Yip,",
+      "Thomas Swale,",
+      "Simon K. F. Chan,",
+      "Yingying Wei,",
+      "Nathan Lo,",
+      "Alexander Hayward,",
+      "Ting Fung Chan,",
+      "Hon-ming Lam,",
+      "Jerome H. L. Hui"
+    ],
+    "doi": "https://doi.org/10.1186/s12915-023-01703-1",
+    "journalVolume": "Vol. 21,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 15",
+    "issn": "1741-7007 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.biomedcentral.com/bmcbiol/",
+    "abstract": "Abstract Background Lepidoptera (butterflies and moths) is one of the most geographically widespread insect orders in the world, and its species play important and diverse ecological and applied roles. Climate change is one of the biggest challenges to biodiversity this century, and lepidopterans are vulnerable to climate change. Temperature-dependent gene expression differences are of relevance under the ongoing climate crisis. However, little is known about how climate affects gene expression in lepidopterans and the ecological consequences of this, particularly with respect to genes with biased expression in one of the sexes. The common yellow butterfly, Eurema hecabe (Family Pieridae), is one of the most geographically widespread lepidopterans that can be found in Asia, Africa, and Australia. Nevertheless, what temperature-dependent effects there may be and whether the effects differ between the sexes remain largely unexplored. Results Here, we generated high-quality genomic resources for E. hecabe along with transcriptomes from eight developmental stages. Male and female butterflies were subjected to varying temperatures to assess sex-specific gene expression responses through mRNA and microRNA transcriptomics. We find that there are more temperature-dependent sex-biased genes in females than males, including genes that are involved in a range of biologically important functions, highlighting potential ecological impacts of increased temperatures. Further, by considering available butterfly data on sex-biased gene expression in a comparative genomic framework, we find that the pattern of sex-biased gene expression identified in E. hecabe is highly species-specific, rather than conserved across butterfly species, suggesting that sex-biased gene expression responses to climate change are complex in butterflies. Conclusions Our study lays the foundation for further understanding of differential responses to environmental stress in a widespread lepidopteran model and demonstrates the potential complexity of sex-specific responses of lepidopterans to climate change.",
+    "readLink": "https://doi.org/10.1186/s12915-023-01703-1"
+  },
+  {
+    "title": "Comparison of temperature indices for three IPCC SRES scenarios based on RegCM simulations for Poland in 2011–2030 period",
+    "authors": [
+      "Adam Jaczewski,",
+      "Barbara Brzoska,",
+      "Joanna Wibig"
+    ],
+    "doi": "https://doi.org/10.1127/metz/2014/0457",
+    "journalVolume": "Vol. 24,\n                                no. 1\n                                \n                                  pp.\n                                  99\n                                  – 106",
+    "issn": "0941-2948 (Print)",
+    "publisher": "1610-1227 (Online)",
+    "countryOfPublisher": "Borntraeger",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.schweizerbart.de/journals/metz/",
+    "abstract": "The regional climate model RegCM3 is used to investigate potential future changes of temperature indices in Poland for the period 2011–2030. The model is forced by ECHAM5/MPI-OM GCM data from World Data Centre (WDCC) database for the 1971–1990 reference period and 2011–2030 projection period under SRES B1, A1B and A2 emission scenarios. Model output statistics methods are used to transform simulated minimum and maximum temperature data into realistic data. Selected indices of temperature extremes and their differences between the scenario simulations and the reference were calculated, for all scenarios, for the entire period and for each season. Results show a mean yearly increase in the number of summer and hot days and a decrease in the number of frost and ice days. Highest decline in the number of frost and ice days in autumn and an increase in spring is noticed. An highest increase in the number of summer and hot days is seen in summer. Future projections of these indices are relevant for studies on climate change impact in agriculture, tourism, health, transportation, road and building infrastructure.",
+    "readLink": "http://dx.doi.org/10.1127/metz/2014/0457"
+  },
+  {
+    "title": "Ozone ProfilE Retrieval Algorithm (OPERA) for nadir-looking satellite         instruments in the UV–VIS",
+    "authors": [
+      "J. C. A. van Peet,",
+      "R. J. van der A,",
+      "O. N. E. Tuinder,",
+      "E. Wolfram,",
+      "J. Salvador,",
+      "P. F. Levelt,",
+      "H. M. Kelder"
+    ],
+    "doi": "https://doi.org/10.5194/amt-7-859-2014",
+    "journalVolume": "Vol. 7,\n                                no. 3\n                                \n                                  pp.\n                                  859\n                                  – 876",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "For the retrieval of the vertical distribution of ozone in the atmosphere the Ozone ProfilE Retrieval Algorithm (OPERA) has been further developed. The new version (1.26) of OPERA is capable of retrieving ozone profiles from UV–VIS observations of most nadir-looking satellite instruments like GOME, SCIAMACHY, OMI and GOME-2. The setup of OPERA is described and results are presented for GOME and GOME-2 observations. The retrieved ozone profiles are globally compared to ozone sondes for the years 1997 and 2008. Relative differences between GOME/GOME-2 and ozone sondes are within the limits as specified by the user requirements from the Climate Change Initiative (CCI) programme of ESA (20% in the troposphere, 15% in the stratosphere). To demonstrate the performance of the algorithm under extreme circumstances, the 2009 Antarctic ozone hole season was investigated in more detail using GOME-2 ozone profiles and lidar data, which showed an unusual persistence of the vortex over the Río Gallegos observing station (51° S, 69.3° W). By applying OPERA to multiple instruments, a time series of ozone profiles from 1996 to 2013 from a single robust algorithm can be created.",
+    "readLink": "http://www.atmos-meas-tech.net/7/859/2014/amt-7-859-2014.pdf"
+  },
+  {
+    "title": "Enabling Environments? Examining Social Co-Benefits of Ecosystem-Based Adaptation to Climate Change in Sri Lanka",
+    "authors": [
+      "Stephen Woroniecki"
+    ],
+    "doi": "https://doi.org/10.3390/su11030772",
+    "journalVolume": "Vol. 11,\n                                no. 3\n                                \n                                  p.\n                                  772",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Climate change vulnerability and social marginalisation are often interrelated in and through environments. Variations in climate change adaptation practice and research account for such social-ecological relations to varying degrees. Advocates of ecosystem-based approaches to climate change adaptation (EbA) claim that it delivers social co-benefits to marginalised groups, although scant empirical evidence supports such claims. I investigate these claims in two EbA interventions in Sri Lanka, interpreting social benefits through an empowerment lens. I use qualitative methods such as focus groups and narrative interviews to study the conduct and context of the interventions. In both cases, marginalised people’s own empowered adaptive strategies reflect how power relations and vulnerabilities relate to dynamic ecologies. The findings show that EbA enabled social benefits for marginalised groups, especially through support to common-pool resource management institutions and the gendered practices of home gardens. Such conduct was embedded within, but mostly peripheral to, broader and deeper contestations of power. Nevertheless, projects acted as platforms for renegotiating these power relations, including through acts of resistance. The results call for greater recognition of the ways that marginalised groups relate to ecology within empowered adaptive strategies, whilst also highlighting the need to recognise the diverse interests and power relations that cut across the conduct and contexts of these nominally ecosystem-based interventions.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/3/772"
+  },
+  {
+    "title": "Combined RIS and EBG Surfaces Inspired Meta-Wearable Textile MIMO Antenna Using Viscose-Wool Felt",
+    "authors": [
+      "Amira Nur Suraya Shamsuri Agus,",
+      "Thennarasan Sabapathy,",
+      "Muzammil Jusoh,",
+      "Mahmoud A. Abdelghany,",
+      "Kabir Hossain,",
+      "Surentiran Padmanathan,",
+      "Samir Salem Al-Bawri,",
+      "Ping Jack Soh"
+    ],
+    "doi": "https://doi.org/10.3390/polym14101989",
+    "journalVolume": "Vol. 14,\n                                no. 1989\n                                \n                                  p.\n                                  1989",
+    "issn": "2073-4360 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Chemistry: Organic chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/polymers/",
+    "abstract": "In this paper, we present a textile multiple-input–multiple-output (MIMO) antenna designed with a metamaterial inspired reactive impedance surface (RIS) and electromagnetic bandgap (EBG) using viscose-wool felt. Rectangular RIS was used as a reflector to improve the antenna gain and bandwidth to address well known crucial challenges—maintaining gain while reducing mutual coupling in MIMO antennas. The RIS unit cell was designed to achieve inductive impedance at the center frequency of 2.45 GHz with a reflection phase of 177.6°. The improved bandwidth of 170 MHz was achieved by using a square shaped RIS under a rectangular patch antenna, and this also helped to attain an additional gain of 1.29 dBi. When the antenna was implemented as MIMO, a split ring resonator backed by strip line type EBG was used to minimize the mutual coupling between the antenna elements. The EBG offered a sufficient band gap region from 2.37 GHz to 2.63 GHz. Prior to fabrication, bending analysis was carried out to validate the performance of the reflection coefficient (S11) and transmission coefficient (S21). The results of the analysis show that bending conditions have very little impact on antenna performance in terms of S-parameters. The effect of strip line supported SRR-based EBG was further analyzed with the fabricated prototype to clearly show the advantage of the designed EBG towards the mutual coupling reduction. The designed MIMO-RIS-EBG array-based antenna revealed an S21 reduction of −9.8 dB at 2.45 GHz frequency with overall S21 of <−40 dB. The results also indicated that the proposed SRR-EBG minimized the mutual coupling while keeping the mean effective gain (MEG) variations of <3 dB at the desired operating band. The specific absorption rate (SAR) analysis showed that the proposed design is not harmful to human body as the values are less than the regulated SAR. Overall, the findings in this study indicate the potential of the proposed MIMO antenna for microwave applications in a wearable format.",
+    "readLink": "https://www.mdpi.com/2073-4360/14/10/1989"
+  }
+]

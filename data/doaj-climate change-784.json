@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Analysis of Climate Variability and Climate Change in Sub-Daily Maximum Intensities: A Case Study in Cartagena, Colombia",
+    "authors": [
+      "Alfonso Arrieta-Pastrana,",
+      "Manuel Saba,",
+      "Adriana Puello Alcázar"
+    ],
+    "doi": "https://doi.org/10.3390/atmos14010146",
+    "journalVolume": "Vol. 14,\n                                no. 146\n                                \n                                  p.\n                                  146",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "The present work analyses a time series of maximum intensities for sub-daily durations of 10 min, 20 min, up to 100 min, and their relationship with the maximum rainfall observations in twenty-four hours (P24), the total annual rainfall (PT), and the maximum, average, and minimum temperatures, using the records of the Rafael Núñez Airport station in the city of Cartagena de Indias, recorded from 1970 to 2015. The series of maximum intensities were obtained from the pluviographic records existing in the station. The analysis seeks to find evidence of climate change and climate variability. The series were tested for homogeneity, stationarity, trend, and periodicity. The degree of cross-correlation and temporal correlation between the different series were determined. Temperature series show homogeneity problems, while no correlation was found between the temperatures and the maximum sub-daily intensities, with the maximum rainfall observations in twenty-four hours and the total annual rainfall. The presence of marked periodicities was found in all the series, with a greater signal in the maximum. No significant trends were found in any of the series. Intensities and maximum rainfall observations in 24 h were found. In general, the series are stationary and do not show trends. Non-homogeneities in the series and the presence of periodicities can lead to an interpretation of non-stationarity and trend.",
+    "readLink": "https://www.mdpi.com/2073-4433/14/1/146"
+  },
+  {
+    "title": "Financial Impacts of Liver Fluke on Livestock Farms Under Climate Change–A Farm Level Assessment",
+    "authors": [
+      "Shailesh Shrestha,",
+      "Alyson Barratt,",
+      "Naomi J. Fox,",
+      "Bouda Vosough Ahmadi,",
+      "Mike R. Hutchings"
+    ],
+    "doi": "https://doi.org/10.3389/fvets.2020.564795",
+    "journalVolume": "Vol. 7",
+    "issn": "2297-1769 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Animal culture: Veterinary medicine"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Veterinary_Science",
+    "abstract": "Liver fluke infection (fascioliasis) is a parasitic disease which affects the health and welfare of ruminants. It is a concern for the livestock industry and is considered as a growing threat to the industry because changing climatic conditions are projected to be more favorable to increased frequency and intensity of liver fluke outbreaks. Recent reports highlighted that the incidence and geographic range of liver fluke has increased in the UK over the last decade and estimated to increase the average risk of liver fluke in the UK due to increasing temperature and rainfall. This paper explores financial impacts of the disease with and without climate change effects on Scottish livestock farms using a farm-level economic model. The model is based on farming system analysis and uses linear programming technique to maximize farm net profit within farm resources. Farm level data from a sample of 160 Scottish livestock farms is used under a no disease baseline scenario and two disease scenarios (with and without climate change). These two disease scenarios are compared with the baseline scenario to estimate the financial impact of the disease at farm levels. The results suggest a 12% reduction in net profit on an average dairy farm compared to 6% reduction on an average beef farm under standard disease conditions. The losses increase by 2-fold on a dairy farm and 6-fold on a beef farm when climate change effects are included with disease conditions on farms. There is a large variability within farm groups with profitable farms incurring relatively lesser economic losses than non-profitable farms. There is a substantial increase in number of vulnerable farms both in dairy (+20%) and beef farms (+27%) under the disease alongside climate change conditions.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fvets.2020.564795/full"
+  },
+  {
+    "title": "Linear and Non-Linear Vegetation Trend Analysis throughout Iran Using Two Decades of MODIS NDVI Imagery",
+    "authors": [
+      "Arsalan Ghorbanian,",
+      "Ali Mohammadzadeh,",
+      "Sadegh Jamali"
+    ],
+    "doi": "https://doi.org/10.3390/rs14153683",
+    "journalVolume": "Vol. 14,\n                                no. 3683\n                                \n                                  p.\n                                  3683",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Vegetation is the main component of the terrestrial Earth, and it plays an imperative role in carbon cycle regulation and surface water/energy exchange/balance. The coupled effects of climate change and anthropogenic forcing have undoubtfully impacted the vegetation cover in linear/non-linear manners. Considering the essential benefits of vegetation to the environment, it is vital to investigate the vegetation dynamics through spatially and temporally consistent workflows. In this regard, remote sensing, especially Normalized Difference Vegetation Index (NDVI), has offered a reliable data source for vegetation monitoring and trend analysis. In this paper, two decades (2000 to 2020) of Moderate Resolution Imaging Spectroradiometer (MODIS) NDVI datasets (MOD13Q1) were used for vegetation trend analysis throughout Iran. First, the per-pixel annual NDVI dataset was prepared using the Google Earth Engine (GEE) by averaging all available NDVI values within the growing season and was then fed into the PolyTrend algorithm for linear/non-linear trend identification. In total, nearly 14 million pixels (44% of Iran) were subjected to trend analysis, and the results indicated a higher rate of greening than browning across the country. Regarding the trend types, linear was the dominant trend type with 14%, followed by concealed (11%), cubic (8%), and quadratic (2%), while 9% of the vegetation area remained stable (no trend). Both positive and negative directions were observed in all trend types, with the slope magnitudes ranging between −0.048 and 0.047 (NDVI units) per year. Later, precipitation and land cover datasets were employed to further investigate the vegetation dynamics. The correlation coefficient between precipitation and vegetation (NDVI) was 0.54 based on all corresponding observations (n = 1785). The comparison between vegetation and precipitation trends revealed matched trend directions in 60% of cases, suggesting the potential impact of precipitation dynamics on vegetation covers. Further incorporation of land cover data showed that grassland areas experienced significant dynamics with the highest proportion compared to other vegetation land cover types. Moreover, forest and cropland had the highest positive and negative trend direction proportions. Finally, independent (from trend analysis) sources were used to examine the vegetation dynamics (greening/browning) from other perspectives, confirming Iran’s greening process and agreeing with the trend analysis results. It is believed that the results could support achieving Sustainable Development Goals (SDGs) by serving as an initial stage study for establishing conservation and restoration practices.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/15/3683"
+  },
+  {
+    "title": "There is still time to reconcile forest management with climate-driven declines in habitat suitability for boreal caribou",
+    "authors": [
+      "Mathieu Leblond,",
+      "Yan Boulanger,",
+      "Jesus Pascual Puigdevall,",
+      "Martin-Hugues St-Laurent"
+    ],
+    "doi": "Vol. 39\n                                \n                                \n                                  p.\n                                  e02294",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Many boreal populations of woodland caribou in Canada are declining, mainly due to the prevalence of anthropogenic disturbances which alter predator-prey dynamics. Climate change is expected to exert an additional negative influence on caribou populations in coming decades, but it is unclear whether or how human activities and climate change will interact to influence habitat suitability for caribou, and how important these agents of change will be relative to each other. In this study, we used the LANDIS-II forest landscape model to forecast boreal caribou habitat suitability across its distribution within the harvestable boreal forest in Québec for the period 2020–2100, under three increasing anthropogenic radiative forcing scenarios (baseline, Representative Concentration Pathways [RCP] 4.5 and 8.5), and two contrasting harvest scenarios (with and without harvest). Our simulations revealed that harvesting was the dominant agent explaining future variations in caribou habitat suitability, although climate change also decreased habitat suitability, especially under RCP 8.5. Climate-induced decreases in habitat suitability mostly originated from increases in wildfires that burned mature conifer-dominated forests, i.e., high-quality habitat for caribou. Habitat suitability by 2100 was also predicted to vary spatially, with the northeastern and northwestern parts of the study area supporting better caribou habitat conditions regardless of scenarios. We show that reducing harvest activities in areas where habitat suitability is currently high could help maintain high-quality caribou habitat even under the most intense climate change scenario. Our results also suggest that highly-disturbed regions which currently provide low-quality habitat may not improve in the future unless active habitat restoration is performed. Our study helps disentangle the potential future effects of forest management and climate change as threats to caribou habitat, emphasizing the urgency of reconciling forest management with the conservation of this species at risk in Canada.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989422002967"
+  },
+  {
+    "title": "Extreme temperature exposure increases the risk of preterm birth in women with abnormal pre-pregnancy body mass index: a cohort study in a southern province of China",
+    "authors": [
+      "Jialing Qiu,",
+      "Zhijiang Liang,",
+      "Jing Yi,",
+      "Lulu Xie,",
+      "Qianqian Xiang,",
+      "Xianqiong Luo,",
+      "Qingguo Zhao,",
+      "Qingguo Zhao"
+    ],
+    "doi": "https://doi.org/10.3389/fpubh.2023.1156880",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-2565 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/public-health",
+    "abstract": "BackgroundPrior literature has found that extreme temperature exposure is associated with preterm birth (PTB). However, current evidence provides heterogeneous conclusions, and data on extreme cold and across different pre-pregnancy body mass index (BMI) statuses are limited.MethodsWe conducted a population-based retrospective cohort of 251,257 women between 2014 and 2017 in Guangdong, China, to evaluate whether the association between extreme temperature exposure and PTB varied in pre-pregnancy BMI status. Participants were divided into three categories based on pre-pregnancy BMI: underweight (BMI < 18.5 kg/m2), normal weight (18.5–23.9 kg/m2), overweight or obesity (≥ 24.0 kg/m2). We fitted Cox proportional hazards models to assess the association between daily mean temperature and PTB at each trimester for each BMI category separately. The hazard ratios (HRs) at the 5th and 95th percentiles of temperature (defined as low and high temperatures respectively) were provided using the median temperature at each trimester as a reference.Results58,220 (23.2%) were underweight, and 27,865 (11.1%) were overweight or obese. Of the 251,257 women, 18,612 (7.41%) had PTB delivery. Both low-and high-temperature exposure increased the risk of PTB in the third trimester, while cold exposure mostly mitigated the risk for the first and second trimesters. The association with low temperature was the strongest in the third trimester, especially for underweight women (HR: 1.825; 95%CI: 1.529 ~ 2.179), while the association with high temperature was the strongest also in the third trimester, especially for obese or overweight women (HR:1.825; 95%CI:1.502 ~ 2.218). Furthermore, the attributable fractions of PTB risk in the third trimester were estimated as 5.59% (95% CI: 3.58, 7.98%) for cold exposure among underweight women and 3.31% (95% CI: 2.01, 4.88%) for hot exposure among overweight or obese women.ConclusionExposure to either low temperature in the third trimester or high temperature during pregnancy was associated with a higher risk of PTB. Moreover, pre-pregnancy BMI status might affect the susceptibility of pregnant women. Such findings would be useful to develop targeted measures for vulnerable populations.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpubh.2023.1156880/full"
+  },
+  {
+    "title": "Projected changes of rainfall event characteristics for the Czech Republic",
+    "authors": [
+      "Svoboda Vojtěch,",
+      "Hanel Martin,",
+      "Máca Petr,",
+      "Kyselý Jan"
+    ],
+    "doi": "https://doi.org/10.1515/johh-2016-0036",
+    "journalVolume": "Vol. 64,\n                                no. 4\n                                \n                                  pp.\n                                  415\n                                  – 425",
+    "issn": "0042-790X (Print)",
+    "publisher": "1338-4333 (Online)",
+    "countryOfPublisher": "Sciendo",
+    "lcc": [
+      "Poland",
+      "Technology: Hydraulic engineering"
+    ],
+    "journalUrl": "https://sciendo.com/journal/JOHH",
+    "abstract": "Projected changes of warm season (May–September) rainfall events in an ensemble of 30 regional climate model (RCM) simulations are assessed for the Czech Republic. Individual rainfall events are identified using the concept of minimum inter-event time and only heavy events are considered. The changes of rainfall event characteristics are evaluated between the control (1981–2000) and two scenario (2020–2049 and 2070–2099) periods. Despite a consistent decrease in the number of heavy rainfall events, there is a large uncertainty in projected changes in seasonal precipitation total due to heavy events. Most considered characteristics (rainfall event depth, mean rainfall rate, maximum 60-min rainfall intensity and indicators of rainfall event erosivity) are projected to increase and larger increases appear for more extreme values. Only rainfall event duration slightly decreases in the more distant scenario period according to the RCM simulations. As a consequence, the number of less extreme heavy rainfall events as well as the number of long events decreases in majority of the RCM simulations. Changes in most event characteristics (and especially in characteristics related to the rainfall intensity) depend on changes in radiative forcing and temperature for the future periods. Only changes in the number of events and seasonal total due to heavy events depend significantly on altitude.",
+    "readLink": "https://doi.org/10.1515/johh-2016-0036"
+  },
+  {
+    "title": "The Response of Southwest Atlantic Storm Tracks to Climate Change in the Brazilian Earth System Model",
+    "authors": [
+      "Juliana Damasceno Dos Santos,",
+      "Jeferson Prietsch Machado,",
+      "Jaci Maria Bilhalva Saraiva"
+    ],
+    "doi": "https://doi.org/10.3390/atmos14071055",
+    "journalVolume": "Vol. 14,\n                                no. 1055\n                                \n                                  p.\n                                  1055",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "The Earth’s weather and climate are strongly influenced by synoptic-scale systems such as extratropical cyclones. From this point of view, extratropical cyclones are very important for Equator–Pole heat exchange, and their positions are relevant to the understanding of the behavior of this system under current conditions and in the context of climate change. Baroclinic instability (BI), meridional heat flux (MHF), and kinetic energy (KE) are among the ways of calculating storm tracks (the regions in which extratropical cyclones most often occur). Forecasting is important for predicting the evolution of these phenomena and preparing future political decisions. In this study, we used ERA5 reanalysis data and BESM model forecasts to calculate BI, MHF, and KE. Overestimation of the BESM BI at lower and higher latitudes and underestimation of BI at medium latitudes were observed. In general, KE and MHF were underestimated and were displaced southward in the BESM. The analyses show a tendency towards poleward displacement of these tracks for all variables studied in in this paper. The scenarios show the same bias, with RCP8.5 having more extreme changes in all situations.",
+    "readLink": "https://www.mdpi.com/2073-4433/14/7/1055"
+  },
+  {
+    "title": "Assessment of impacts on ground water resources in Libya and vulnerability to climate change",
+    "authors": [
+      "S. P. Bindra,",
+      "A. Hamid,",
+      "S. Abulifa,",
+      "H.S. Al Reiani,",
+      "Hammuda Khalifa Abdalla"
+    ],
+    "doi": "Vol. 10 (XXVII),\n                                no. 2 (December 2013)\n                                \n                                  pp.\n                                  63\n                                  – 69",
+    "issn": "1841-9267 (Print)",
+    "publisher": "2285-438X (Online)",
+    "countryOfPublisher": "Editura Universităţii \"Petru Maior\"",
+    "lcc": [
+      "Romania",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://scientificbulletin.upm.ro/",
+    "abstract": "This paper is designed to present the likely impact of climate change on groundwater resources in general and Libya in particular. State of the art reviews on recent research studies, and methodology to assess the impact of climate change on groundwater resources shows that climate change poses uncertainties to the supply and management of water resources. It outlines to demonstrate that how climate change impact assessment plays a vital role in forming the sensitive water balance rarely achieved in most area owing to precipitation variability’s and seasonality. It demonstrates that how large increases in water demand with very little recharge from precipitation have strained Libya’s groundwater resources resulting in declines of groundwater levels and its quality, especially on Libyan coastal areas where most of the agriculture, domestic and industrial activities are concentrated. Based on several research studies it demonstrates that how policy and decision making process using best practices for monitoring, analyzing and forecasting variation of climate is a way forward to cope with the impact of sea level rise, and combat some water supplies in vulnerable areas that are becoming unusable due to the penetration of salt water into coastal aquifers (Jifara Plain, Sirt, Jebal El-Akhdar).Finally, a number of Global Climate Models (GCM) are reviewed to demonstrate that how better understanding of climate and climate change forecasting helps in devising appropriate adaptation strategies due to the impact of climate change.",
+    "readLink": "http://scientificbulletin.upm.ro/papers/2013-2/11_Bindra_S.P.,%20%20Abulifa_S.,%20%20Hamid_A.,%20%20Reiani_H.S.%20Al,%20Khalifa_H.%20-%20Assessment.pdf"
+  },
+  {
+    "title": "Activity of the prophenoloxidase system and survival of triatomines infected with different Trypanosoma cruzi strains under different temperatures: understanding Chagas disease in the face of climate change",
+    "authors": [
+      "Berenice González-Rete,",
+      "Paz María Salazar-Schettino,",
+      "Martha I. Bucio-Torres,",
+      "Alex Córdoba-Aguilar,",
+      "Margarita Cabrera-Bravo"
+    ],
+    "doi": "https://doi.org/10.1186/s13071-019-3477-9",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "1756-3305 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "https://parasitesandvectors.biomedcentral.com/",
+    "abstract": "Abstract Background Little is known about how human disease vectors will modify their life history patterns and survival capacity as a result of climate change. One case is that of Chagas disease, which has triatomine bugs and Trypanosoma cruzi as vectors and parasite, respectively. This work aimed to determine: (i) the activity of the prophenoloxidase system (prophenoloxidase and phenoloxidase activity, two indicators of immune ability) in three intestine regions (anterior midgut, posterior midgutand rectum) of the triatomine bug Meccus pallidipennis under three temperature conditions (20 °C, 30 °C and 34 °C) against two T. cruzi strains [ITRI/MX/14/CHIL (Chilpancingo) and ITRI/MX/12/MOR (Morelos)], and (ii) whether vector survival varies under these three temperatures after infection by these T. cruzi strains. Results Our results indicate that prophenoloxidase activity was lower at higher temperatures, that the level of prophenoloxidase activity elicited by each strain was different (higher in Chilpancingo than in Morelos strains), and that prophenoloxidase activity was more intense in the anterior midgut than in the posterior midgut or rectum. Survival rates were lower in insects maintained at higher temperatures and infected by Chilpancingo strains. Conclusions These results indicate that climate change could lead to lower prophenoloxidase activity and survival rates in triatomines when infected with different T. cruzi strains, which could reduce the vector capacity of M. pallidipennis.",
+    "readLink": "http://link.springer.com/article/10.1186/s13071-019-3477-9"
+  },
+  {
+    "title": "Long-Term Fire Regime Modifies Carbon and Nutrient Dynamics in Decomposing Eucalyptus pilularis Leaf Litter",
+    "authors": [
+      "Orpheus M. Butler,",
+      "Orpheus M. Butler,",
+      "Tom Lewis,",
+      "Mehran Rezaei Rashti,",
+      "Chengrong Chen"
+    ],
+    "doi": "https://doi.org/10.3389/ffgc.2020.00022",
+    "journalVolume": "Vol. 3",
+    "issn": "2624-893X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Forestry",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/forests-and-global-change#",
+    "abstract": "The changes in fire regimes expected under climate change are likely to disrupt the biogeochemical cycling of carbon (C) and nutrients in forest ecosystems. Plant litter decomposition is a critical step in the terrestrial biogeochemical cycle, and is an important determinant of fire fuel load and forest C balance. We conducted a 277-day leaf litter decomposition experiment in an Australian eucalypt forest to test whether three contrasting, long-term fire regimes (no burning [NB], 4-yearly burning, and 2-yearly burning) were associated with different C and nutrient dynamics during litter decomposition. Fire regime had strong effects on many litter properties, including overall rates of decomposition and C loss, which were greatest in the NB treatment, suggesting that fire regime can modify the rate at which C is returned from litter to soil or the atmosphere. This has potentially important implications for soil C storage and atmospheric CO2 concentrations under a changing climate. High-frequency fire was associated with litter nutrient depletion and high microbial nutrient demand, but did not affect nutrient loss rates from decomposing litter, suggesting conservative use and retention of nutrients by the litter microbial biomass. These effects differed qualitatively between 2- and 4-yearly burning regimes, and they show how decadal-scale increases in fire frequency might contribute to soil nutrient depletion by disrupting decomposition. Many effects of fire regime on litter properties throughout decomposition were sensitive to litter bag re-collection date, suggesting that seasonal factors moderate the effects of fire regime, and that the role of fire regime-altered litter chemistry in shaping decomposition may be secondary to that of fire regime-altered environmental variables. Together, our findings highlight the potential consequences of long-term increases in prescribed fire frequency for litter decomposition and the storage and cycling of C and nutrients in eucalypt forests, and reveal the specific importance of average burn frequency in this context.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/ffgc.2020.00022/full"
+  }
+]

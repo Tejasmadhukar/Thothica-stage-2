@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Land Use and Land Coverage Analysis with Google Earth Engine and Change Detection in the Sonipat District of the Haryana State in India",
+    "authors": [
+      "Diksha Rana,",
+      "Maya Kumari,",
+      "Rina Kumari"
+    ],
+    "doi": "https://doi.org/10.3390/ecsa-9-13366",
+    "journalVolume": "Vol. 27,\n                                no. 85\n                                \n                                  p.\n                                  85",
+    "issn": "2673-4591 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General): Engineering machinery, tools, and implements"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/engproc",
+    "abstract": "The natural environment is of the utmost significance not only for a particular location but also for the entire world. This is because the natural environment provides essential environmental services to the human population. However, the environment is being negatively impacted by human activity as well as population growth. The most significant impact is felt in the national capital region. Using the Google Earth Engine (GEE) cloud platform and the QGIS desktop, the purpose of this research was to analyze the changes in land use and land cover (LULC) transformations that have taken place in the Sonipat district of India over the past ten years (2011–2021). Change detection (CD) of an LULC map is a method that examines shifts in LULC throughout time. Landsat 7 and the Sentinel 2 satellite image collections were utilized in this study. The study area was divided into four LULC categories using the most likely classified approach to quantify the changes over the aforementioned period. The results indicated that between 2011 and 2021, cropland in the study area decreased by about 11%. Built-up and urban areas increased by 3%. With the help of this study, decision-makers will be able to make choices that are appropriate in the given situation. The findings emphasize the value of satellite monitoring in reducing the rate of environmental degradation in the Sonipat district.",
+    "readLink": "https://www.mdpi.com/2673-4591/27/1/85"
+  },
+  {
+    "title": "Trait Selection for Yield Improvement in Foxtail Millet (<i>Setaria italica</i> Beauv.) under Climate Change in the North China Plain",
+    "authors": [
+      "Wenying Zhang,",
+      "Bianyin Wang,",
+      "Binhui Liu,",
+      "Zhaoyang Chen,",
+      "Guanli Lu,",
+      "Yaoxiang Ge,",
+      "Caihong Bai"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy12071500",
+    "journalVolume": "Vol. 12,\n                                no. 1500\n                                \n                                  p.\n                                  1500",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "Weather factors and drought could impact the yield of foxtail millet, and varieties with traits that could alleviate the negative effects of deteriorating weather factors in the future should be developed. A total of 25 foxtail millet varieties were evaluated in experiments from 2016 to 2020 under well-watered (WW) and water-stressed (WS) treatments. Future climate change might favor an increased temperature that impedes grain yield, so varieties with characters that are less sensitive to temperature change are preferred. Varieties with a high panicle dry-weight per plant, thousand grain weight, leaf area and water productivity in deep soil layer usually gave better grain production under both water treatments. Under the WW treatment, low grain abortion rate, optimal chlorophyll and canopy temperature and more roots in the upper soil layer could favor a high yield and drought resistance. Under the WS treatment, varieties with a high harvest index, low rate of water loss and more roots in the upper soil layer usually produced a high yield.",
+    "readLink": "https://www.mdpi.com/2073-4395/12/7/1500"
+  },
+  {
+    "title": "Multi-time scale analysis of hydrogen and oxygen isotope characteristics and influence factors in precipitation in Vienna",
+    "authors": [
+      "Hu Yue,",
+      "Liu Guo-dong,",
+      "Xia Cheng-cheng"
+    ],
+    "doi": "https://doi.org/10.1051/matecconf/201824602011",
+    "journalVolume": "Vol. 246\n                                \n                                \n                                  p.\n                                  02011",
+    "issn": "2261-236X (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.matec-conferences.org",
+    "abstract": "Based on isotope and meteorology data at Vienna station from 1972 to 2014 provided by GNIP, the average monthly and annual hydrogen and oxygen stable isotopic compositions and main factors were analyzed by using various trend analysis, periodic analysis and correlation analysis methods. The monthly mean isotopic compositions change slightly, reflecting the fact that although Vienna is affected by the maritime climate and the continental climate, the former impact is more significant. The slope and intercept of the LMWL in Vienna changed significantly from October to March, indicating that it was affected by alternating effects of the two climates. The annual mean isotopes show a trend of enrichment, and it has an obvious temperature effect, but the rainfall amount effect does not exist, and no simple linear relationship was found between isotopes and vapor pressure. The annual mean isotopes also show the periodic variation characteristics with scales such as 9-16 years and 18~29 years, and it is concluded that the isotope values will be enriched after 2011 at the scale 22 years. The multivariate regression relationship established by δD and δ18O with three climate parameters of temperature, precipitation and vapor pressure can quantitatively estimate the missing value in isotopic data.",
+    "readLink": "https://doi.org/10.1051/matecconf/201824602011"
+  },
+  {
+    "title": "Impacts of soil erosion and climate change on the built heritage of the Pambamarca Fortress Complex in northern Ecuador.",
+    "authors": [
+      "Fabián Santos,",
+      "Nora Calle,",
+      "Santiago Bonilla,",
+      "Fausto Sarmiento,",
+      "Mathew Herrnegger"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0281869",
+    "journalVolume": "Vol. 18,\n                                no. 2\n                                \n                                  p.\n                                  e0281869",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The Pambamarca fortress complex in northern Ecuador is a cultural and built heritage with 18 prehispanic fortresses known as Pucaras. They are mostly located on the ridge of the Pambamarca volcano, which is severely affected by erosion. In this research, we implemented a multiscale methodology to identify sheet, rill and gully erosion in the context of climate change for the prehistoric sites. In a first phase, we coupled the Revised Universal Soil Loss Equation (RUSLE) and four CMIP6 climate models to evaluate and prioritize which Pucaras are prone to sheet and rill erosion, after comparing historical and future climate scenarios. Then, we conducted field visits to collect geophotos and soil samples for validation purposes, as well as drone flight campaigns to derive high resolution digital elevation models and identify gully erosion with the stream power index. Our erosion maps achieved an overall accuracy of 0.75 when compared with geophotos and correlated positively with soil samples sand fraction. The Pucaras evaluated with the historical climate scenario obtained erosion rates ranging between 0 and 20 ton*ha-1*yr-1. These rates also varied from -15.7% to 39.1% for four future climate change models that reported extreme conditions. In addition, after identifying and overflying six Pucaras that showed the highest erosion rates in the future climate models, we mapped their gully-prone areas that represented between 0.9% and 3.2% of their analyzed areas. The proposed methodology allowed us to observe how the design of the Pucaras and their concentric terraces have managed to reduce gully erosion, but also to notice the pressures they suffer due to their susceptibility to erosion, anthropic pressures and climate change. To address this, we suggest management strategies to guide the protection of this cultural and built heritage landscapes.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0281869"
+  },
+  {
+    "title": "From California dreaming to California data: Challenging historic models for landfill CH4 emissions",
+    "authors": [
+      "Kurt Spokas,",
+      "Jean Bogner,",
+      "Meg Corcoran,",
+      "Scott Walker"
+    ],
+    "doi": "https://doi.org/10.12952/journal.elementa.000051",
+    "issn": "2325-1026 (Online)",
+    "publisher": "BioOne",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.elementascience.org",
+    "abstract": "Abstract Improved quantification of diverse CH4 sources at the urban scale is needed to guide local GHG mitigation strategies in the Anthropocene. Herein, we focus on landfill CH4 emissions in California, challenging the current IPCC methodology which focuses on a climate dependency for landfill CH4 generation (methanogenesis), but does not explicitly consider climate or soil dependencies for emissions. Relying on a comprehensive California landfill database, a field-validated process-based model for landfill CH4 emissions (CALMIM), and select field measurements at 10 California sites with a variety of methods, we support the contrary position: Limited climate dependency for methanogenesis, but strong climate dependency for landfill CH4 emissions. Contrary to the historic IPCC empirical model for methanogenesis with kinetic constants related to climate, we demonstrate a simpler and more robust linear empirical relationship (r2 = 0.85; n=128) between waste mass and landfill biogas recovery [126 × 10-6 Nm3 CH4 hr-1 Mgwaste-1]. More interestingly, there are no statistically significant relationships with climate, site age, or status (open/closed) for landfill biogas recovery. The current IPCC methodology does not consider soil or climate drivers for gaseous transport or seasonal methanotrophy in different cover soils. On the other hand, we illustrate strong climate and soil dependencies for landfill emissions—e.g., average intermediate cover emissions below 20 g CH4 m-2 d-1 when the site’s mean annual precipitation is >500 mm y-1. Thereby, for the California landfill CH4 inventory, the highest-emitting sites shift from landfills containing the largest mass of waste to sites dominated by intermediate cover types having a reduced rate of soil CH4 oxidation during the annual cycle. These differences have profound implications for developing more realistic, science-based urban and regional scale GHG inventories for landfill CH4 while reducing uncertainties for this important anthropogenic source.",
+    "readLink": "http://elementascience.org/article/info:doi/10.12952/journal.elementa.000051"
+  },
+  {
+    "title": "Fostering Awareness on Environmentally Sustainable Technological Solutions for the Post-Harvest Food Supply Chain",
+    "authors": [
+      "Carlos M. Fernandez,",
+      "Joel Alves,",
+      "Pedro Dinis Gaspar,",
+      "Tânia M. Lima"
+    ],
+    "doi": "https://doi.org/10.3390/pr9091611",
+    "journalVolume": "Vol. 9,\n                                no. 1611\n                                \n                                  p.\n                                  1611",
+    "issn": "2227-9717 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/processes",
+    "abstract": "This study presents a current status and future trends of innovative and environmentally sustainable technological solutions for the post-harvest food supply chain and the food industry, in terms of ecological packaging, active, and/or intelligent packaging. All these concerns are currently highlighted due to the strong increase in the purchase/sale of products on online platforms, as well as the requirements for stricter food security and safety. Thus, this study aims to increase the global awareness of agro-industrial micro, small, and medium size enterprises for the adoption of innovative food solutions though industry digitalization (Industry 4.0), associated logistics and circular economy, with a concern for cybersecurity and products information, communication and shelf-life extension. The adoption of these guidelines will certainly foster along the complete food chain (from producer to consumer, with all intermediary parties) the awareness on environmentally sustainable technological solutions for the post-harvest food supply chain, and thus, promoting the future food sustainability required by the population increase, the climate change, the exodus of rural population to urban areas, and food loss and waste.",
+    "readLink": "https://www.mdpi.com/2227-9717/9/9/1611"
+  },
+  {
+    "title": "ANALYSIS OF RAINFALL PATTERN AND FLOOD INCIDENCES IN WARRI METROPOLIS, NIGERIA",
+    "authors": [
+      "R. Olanrewaju,",
+      "B. Ekiotuasinghan,",
+      "G. Akpan"
+    ],
+    "doi": "https://doi.org/10.24057/2071-9388-2017-10-4-83-97",
+    "journalVolume": "Vol. 10,\n                                no. 4\n                                \n                                  pp.\n                                  83\n                                  – 97",
+    "issn": "2071-9388 (Print)",
+    "publisher": "2542-1565 (Online)",
+    "countryOfPublisher": "Lomonosov Moscow State University",
+    "lcc": [
+      "Russian Federation",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://ges.rgo.ru",
+    "abstract": "Climate change has led to changes in the known patterns of rainfall and other climatic variables as well as increase in the frequency and magnitude of natural disasters including floods in different parts of the world; and flood is indeed a global environmental issue that had destroyed lives and property amidst other untold hardships. The study examined rainfall characteristics in Warri metropolis for the past 30 years (1986-2015) vis-à-vis the flood situation in the metropolis; as well as the factors responsible and adaptation strategies to flood in the area. Dividing the study area into four zones after Sada (1977), the researchers collected rainfall data from the archives of Nigerian Meteorological Agency; 268 copies of questionnaire and oral interview were used. The result of the correlation analysis performed showed a negative relationship of -0.156 between rainfall and time (years), this implies that rainfall is decreasing over time. The trend line regression equation Y=243.75-0.4572X, confirms that rainfall in Warri Metropolis is decreasing at the rate of -0.45 per year. However, the p-value 0.412 is greater than 0.05, hence, the trend is not statistically significant at 95% level of confidence. It was discovered that rainfall, absence of drainage and poor urban planning practices (as factor 1) contributed 51.09% while overflowing of rivers, blocked/ poor drainage and untarred roads (as factor 2) contributed 44.10% variance to flood occurrence in the metropolis. Recommendations given included continual monitoring and study of rainfall characteristics and other climatic data and dissemination of such information for planning purposes; construction of integrated drainage system and river rechannelisation, legislation against dumping of refuse on roads and drainages; proper urban planning including implementation of the metropolitan urban drainage master plan.",
+    "readLink": "https://ges.rgo.ru/jour/article/view/348"
+  },
+  {
+    "title": "Comparing CMIP-3 and CMIP-5 climate projections on flooding estimation of Devils Lake of North Dakota, USA",
+    "authors": [
+      "Gehendra Kharel,",
+      "Andrei Kirilenko"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.4711",
+    "journalVolume": "Vol. 6\n                                \n                                \n                                  p.\n                                  e4711",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background Water level fluctuations in endorheic lakes are highly susceptible to even slight changes in climate and land use. Devils Lake (DL) in North Dakota, USA is an endorheic system that has undergone multi-decade flooding driven by changes in regional climate. Flooding mitigation strategies have centered on the release of lake water to a nearby river system through artificial outlets, resulting in legal challenges and environmental concerns related to water quality, downstream flooding, species migration, stakeholder opposition, and transboundary water conflicts between the US and Canada. Despite these drawbacks, running outlets would result in low overspill risks in the next 30 years. Methods In this study we evaluated the efficacy of this outlet-based mitigation strategy under scenarios based on the latest IPCC future climate projections. We used the Coupled Model Intercomparison Project CMIP-5 weather patterns from 17 general circulation models (GCMs) obtained under four representative concentration pathways (RCP) scenarios and downscaled to the DL region. Then, we simulated the changes in lake water levels using the soil and water assessment tool based hydrological model of the watershed. We estimated the probability of future flood risks under those scenarios and compared those with previously estimated overspill risks under the CMIP-3 climate. Results The CMIP-5 ensemble projected a mean annual temperature of 5.78 °C and mean daily precipitation of 1.42 mm/day; both are higher than the existing CMIP-3 future estimates of 4.98 °C and 1.40 mm/day, respectively. The increased precipitation and higher temperature resulted in a significant increase of DL’s overspill risks: 24.4–47.1% without release from outlets and 3.5–14.4% even if the outlets are operated at their combined full 17 m3/s capacity. Discussion The modeled increases in overspill risks indicate a greater frequency of water releases through the artificial outlets. Future risk mitigation management should include providing a flood warning signal to local resource managers, and tasking policy makers to identify additional solution measures such as land use management in the upper watershed to mitigate DL’s flooding.",
+    "readLink": "https://peerj.com/articles/4711.pdf"
+  },
+  {
+    "title": "Forest effects on runoff under climate change in the Upper Dongjiang River Basin: insights from annual to intra-annual scales",
+    "authors": [
+      "Zehua Li,",
+      "Ping Zhou,",
+      "Xiaogang Shi,",
+      "Yongkun Li"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/abd066",
+    "journalVolume": "Vol. 16,\n                                no. 1\n                                \n                                  p.\n                                  014032",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Climate change and large-scale afforestation characterize the conditions in the Upper Dongjiang River Basin (UDRB), which is one of the most important headwater basins in southern China. It is important to understand whether, and to what extent, the observed runoff change can be attributed to forest and/or climate change. Using process- and relation-based methods, we found precipitation in spring (March–May) decreased notably, while precipitation in summer (June–August) showed an increase from the reference period (1961–1990) to the afforestation period (1991–2010). In comparison, annual averaged potential evapotranspiration did not change much. Both of the methods indicated forest had a positive effect while climate change exerted a negative impact on annual averaged runoff in the UDRB. As a result, the observed annual averaged runoff only showed a little decrease from the reference period to the afforestation period. The climate change impact on monthly averaged runoff basically followed the pattern of precipitation change. Except in July and August, climate change exerted negative or little impact on runoff in most of other months. In comparison, the forest effects on monthly averaged runoff change showed a totally different pattern. Except in May and June, forest exerted positive impact on runoff in other months. As a result, the observed monthly averaged runoff in May and June experienced notable reduction, while those in other months experienced increase or no change. The UDRB provides evidence that additional forest cover would not injure but even increase runoff, especially dry season runoff. The study has important implications for sustainable water management and afforestation in this subtropical region and for similar river basins.",
+    "readLink": "https://doi.org/10.1088/1748-9326/abd066"
+  },
+  {
+    "title": "KELEMBAGAAN KEMITRAAN INDUSTRI PENGOLAHAN KAYU BERSAMA RAKYAT UNTUK MEMBANGUN HUTAN DI PULAU JAWA",
+    "authors": [
+      "Nandang Prihadi,",
+      "Dudung Darusman,",
+      "Bramasto Nugroho,",
+      "Nurheni Wijayanto"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2010.7.2.127-138",
+    "journalVolume": "Vol. 7,\n                                no. 2\n                                \n                                  pp.\n                                  127\n                                  – 138",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "Penelitian ini bertujuan untuk menganalisis efisiensi dan efektifitas kelembagaan kemitraan antara industri pengolahan kayu dan rakyat dalam rangka pembangunan hutan (Kibarhut) di Pulau Jawa. Penelitan dilakukan di 3 Kecamatan (Sukaraja, Bawang, dan Krucil) pada April–October 2008. Sampai dengan tahun 2008, ketiga industri telah melakukan pembangunan hutan Kibarhut seluas 14.537,12 ha tersebar di 4 provinsi di Pulau Jawa. Hubungan kemitraan dilakukan di lahan milik (Tipe 1 dan 2) dan lahan Negara (Tipe 3) dengan kontrak non-formal (Tipe 1) dan formal (Tipe 2 dan 3). Kelembagaan Kibarhut ditegakkan dengan aturan formal dalam kontrak, dan secara informal dengan didukung keterlibatan tokoh informal (elite desa). Hasil studi menunjukkan bahwa kelembagaan Kibarhut mempunyai kelayakan finansial bagi semua pelaku yang terlibat, dan memiliki keunggulan kompetitif dan komparatif. Kontrak non-formal memiliki indikasi perilaku oportunis dan resiko ingkar janji yang sangat tinggi sehingga dapat mengancam keberlangsungan kontrak non-formal. Kontrak formal tidak hanya memberikan manfaat (insentif positif) untuk pelakunya tetapi juga penegakan kontrak dapat dilakukan, sehingga keberlanjutan pembangunan hutan Kibarhut di Pulau Jawa dapat terwujud.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/256"
+  }
+]

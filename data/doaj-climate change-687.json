@@ -1,0 +1,209 @@
+[
+  {
+    "title": "DINAMIKA KEBIJAKAN PENGGUNAAN KAWASAN HUTAN: SEBUAH ANALISA ISI PERUBAHAN KEBIJAKAN PENGGUNAAN KAWASAN HUTAN",
+    "authors": [
+      "Kushartati Budiningsih,",
+      "Sulistya Ekawati,",
+      "Handoyo Handoyo"
+    ],
+    "doi": "https://doi.org/10.20886/jakk.2016.13.1.13-28",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  13\n                                  – 28",
+    "issn": "0216-0897 (Print)",
+    "publisher": "2502-6267 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/",
+    "abstract": "Penetapan kawasan hutan untuk kepentingan di luar sektor kehutanan dilakukan melalui mekanisme tukar menukar dan pinjam pakai kawasan hutan. Kedua kebijakan ini senantiasa mengalami perubahan. Penelitian ini mengkaji perubahan isi dari kedua kebijakan tersebut, faktor apa yang mendorongnya serta bagaimana implementasinya. Pendekatan penelitian ini adalah analisis dokumen peraturan terkait penggunaan kawasan hutan dilengkapi dengan analisis deskriptif. Hasil penelitian menunjukkan bahwa perubahan isi kebijakan penggunaan kawasan hutan meliputi kepentingan yang diakomodasi meluas pada kepentingan komersil, kriteria kawasan hutan yang ditukar, masa berlaku ijin pinjam pakai, kriteria lahan pengganti/lahan kompensasi, rasio lahan pengganti dan kegiatan pemantauan dan evaluasi. Beberapa faktor pendorong terjadinya perubahan meliputi fakor ekonomi, politik dan sosial. Pelaksanaan kegiatan pemantauan dan evaluasi yang optimal menjadi salah satu kunci untuk mengatasi masalah implementasi kebijakan tukar menukar kawasan huhtan maupun pinjam pakai kawasan hutan.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/article/view/1633"
+  },
+  {
+    "title": "Spatial Prediction of Wildfire Susceptibility Using Field Survey GPS Data and Machine Learning Approaches",
+    "authors": [
+      "Omid Ghorbanzadeh,",
+      "Khalil Valizadeh Kamran,",
+      "Thomas Blaschke,",
+      "Jagannath Aryal,",
+      "Amin Naboureh,",
+      "Jamshid Einali,",
+      "Jinhu Bian"
+    ],
+    "doi": "https://doi.org/10.3390/fire2030043",
+    "journalVolume": "Vol. 2,\n                                no. 3\n                                \n                                  p.\n                                  43",
+    "issn": "2571-6255 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/fire",
+    "abstract": "Recently, global climate change discussions have become more prominent, and forests are considered as the ecosystems most at risk by the consequences of climate change. Wildfires are among one of the main drivers leading to losses in forested areas. The increasing availability of free remotely sensed data has enabled the precise locations of wildfires to be reliably monitored. A wildfire data inventory was created by integrating global positioning system (GPS) polygons with data collected from the moderate resolution imaging spectroradiometer (MODIS) thermal anomalies product between 2012 and 2017 for Amol County, northern Iran. The GPS polygon dataset from the state wildlife organization was gathered through extensive field surveys. The integrated inventory dataset, along with sixteen conditioning factors (topographic, meteorological, vegetation, anthropological, and hydrological factors), was used to evaluate the potential of different machine learning (ML) approaches for the spatial prediction of wildfire susceptibility. The applied ML approaches included an artificial neural network (ANN), support vector machines (SVM), and random forest (RF). All ML approaches were trained using 75% of the wildfire inventory dataset and tested using the remaining 25% of the dataset in the four-fold cross-validation (CV) procedure. The CV method is used for dealing with the randomness effects of the training and testing dataset selection on the performance of applied ML approaches. To validate the resulting wildfire susceptibility maps based on three different ML approaches and four different folds of inventory datasets, the true positive and false positive rates were calculated. In the following, the accuracy of each of the twelve resulting maps was assessed through the receiver operating characteristics (ROC) curve. The resulting CV accuracies were 74%, 79% and 88% for the ANN, SVM and RF, respectively.",
+    "readLink": "https://www.mdpi.com/2571-6255/2/3/43"
+  },
+  {
+    "title": "Contribution of the European Bioeconomy Strategy to the Green Deal Policy: Challenges and Opportunities in Implementing These Policies",
+    "authors": [
+      "Genovaitė Liobikienė,",
+      "Astrida Miceikienė"
+    ],
+    "doi": "https://doi.org/10.3390/su15097139",
+    "journalVolume": "Vol. 15,\n                                no. 7139\n                                \n                                  p.\n                                  7139",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The Green Deal is an ambitious European development strategy that aims to create a carbon-neutral and environmentally friendly economy. This strategy encompasses key environmental policies such as climate change, circular economy, and sustainable development. Due to its broad and comprehensive definition and sectoral coverage, the European Union’s Bioeconomy Strategy, which is linked to the supply and demand of natural resources, is also crucial to the implementation of the Green Deal. However, there has been very little evaluation of the role of bioeconomy development in the European Green Deal. Therefore, by comparing the documents of these policies, the aim of this paper is to identify the main roles of the bioeconomy in the European Green Deal and overlaps, highlighting the opportunities and challenges of the implementation of these policies. The bioeconomy goals overlap with the European Green Deal targets. Looking at the eight main goals of the European Green Deal, all of them are related to the implementation of the bioeconomy. Preserving biodiversity and Farm to Fork actions are directly linked to the development of the bioeconomy, while the residual actions are partly linked to this development. In order to implement the Bioeconomy Strategy and the European Green Deal policy, it is essential to evaluate the vulnerability of biomass to the effects of climate change and the growing food crisis caused by the war in Ukraine. Furthermore, the sustainable use of biomass and the promotion of biomass consumption in the energy, building, and transport sectors need to be examined.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/9/7139"
+  },
+  {
+    "title": "Accessing future crop yield and crop water productivity over the Heihe River basin in northwest China under a changing climate",
+    "authors": [
+      "Qi Liu,",
+      "Jun Niu,",
+      "Bellie Sivakumar,",
+      "Risheng Ding,",
+      "Sien Li"
+    ],
+    "doi": "https://doi.org/10.1186/s40562-020-00172-6",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "2196-4092 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.geoscienceletters.com/",
+    "abstract": "Abstract Quantitative evaluation of the response of crop yield and crop water productivity (CWP) to future climate change is important to prevent or mitigate the adverse effects of climate change. This study made such an evaluation for the agricultural land over the Heihe River basin in northwest China. The ability of 31 climate models for simulating the precipitation, maximum temperature, and minimum temperature was evaluated for the studied area, and a multi-model ensemble was employed. Using the previously well-established Soil and Water Assessment Tool (SWAT), crop yield and crop water productivity of four major crops (corn, wheat, barley, and spring canola-Polish) in the Heihe River basin were simulated for three future time periods (2025–2049, 2050–2074, and 2075–2099) under two Representative Concentration Pathways (RCP4.5 and RCP8.5). The results revealed that the impacts of future climate change on crop yield and CWP of wheat, barley, and canola would all be negative, whereas the impact on corn in the eastern part of the middle reaches of the Heihe River basin would be positive. On the whole, climate change under RCP8.5 scenario would be more harmful to crops, while the corn crops in the Minle and Shandan counties have better ability to cope with climate change.",
+    "readLink": "https://doi.org/10.1186/s40562-020-00172-6"
+  },
+  {
+    "title": "Trophic Interactions, Management Trade-Offs and Climate Change: The Need for Adaptive Thresholds to Operationalize Ecosystem Indicators",
+    "authors": [
+      "Martina Kadin,",
+      "Thorsten Blenckner,",
+      "Michele Casini,",
+      "Anna Gårdmark,",
+      "Maria Angeles Torres,",
+      "Saskia A. Otto,",
+      "Saskia A. Otto"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2019.00249",
+    "journalVolume": "Vol. 6",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Ecosystem-based management (EBM) is commonly applied to achieve sustainable use of marine resources. For EBM, regular ecosystem-wide assessments of changes in environmental or ecological status are essential components, as well as assessments of the effects of management measures. Assessments are typically carried out using indicators. A major challenge for the usage of indicators in EBM is trophic interactions as these may influence indicator responses. Trophic interactions can also shape trade-offs between management targets, because they modify and mediate the effects of pressures on ecosystems. Characterization of such interactions is in turn a challenge when testing the usability of indicators. Climate variability and climate change may also impact indicators directly, as well as indirectly through trophic interactions. Together, these effects may alter interpretation of indicators in assessments and evaluation of management measures. We developed indicator networks – statistical models of coupled indicators – to identify links representing trophic interactions between proposed food-web indicators, under multiple anthropogenic pressures and climate variables, using two basins in the Baltic Sea as a case study. We used the networks to simulate future indicator responses under different fishing, eutrophication and climate change scenarios. Responsiveness to fishing and eutrophication differed between indicators and across basins. Almost all indicators were highly dependent on climatic conditions, and differences in indicator trajectories >10% were found only in comparisons of future climates. In some cases, effects of nutrient load and climate scenarios counteracted each other, altering how management measures manifested in the indicators. Incorporating climate change, or other regionally non-manageable drivers, is thus necessary for an accurate interpretation of indicators and thereby of EBM measure effects. Quantification of linkages between indicators across trophic levels is similarly a prerequisite for tracking effects propagating through the food web, and, consequently, for indicator interpretation. Developing meaningful indicators under climate change calls for iterative indicator validations, accounting for natural processes such as trophic interactions and for trade-offs between management objectives, to enable learning as well as setting target levels or thresholds triggering actions in an adaptive manner. Such flexible strategies make a set of indicators operational over the long-term and facilitate success of EBM.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmars.2019.00249/full"
+  },
+  {
+    "title": "Regenerative Agriculture—A Literature Review on the Practices and Mechanisms Used to Improve Soil Health",
+    "authors": [
+      "Ravjit Khangura,",
+      "David Ferris,",
+      "Cameron Wagg,",
+      "Jamie Bowyer"
+    ],
+    "doi": "https://doi.org/10.3390/su15032338",
+    "journalVolume": "Vol. 15,\n                                no. 2338\n                                \n                                  p.\n                                  2338",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Conventional farming practices can lead to soil degradation and a decline in productivity. Regenerative agriculture (RA) is purported by advocates as a solution to these issues that focuses on soil health and carbon sequestration. The fundamental principles of RA are to keep the soil covered, minimise soil disturbance, preserve living roots in the soil year round, increase species diversity, integrate livestock, and limit or eliminate the use of synthetic compounds (such as herbicides and fertilisers). The overall objectives are to rejuvenate the soil and land and provide environmental, economic, and social benefits to the wider community. Despite the purported benefits of RA, a vast majority of growers are reluctant to adopt these practices due to a lack of empirical evidence on the claimed benefits and profitability. We examined the reported benefits and mechanisms associated with RA against available scientific data. The literature suggests that agricultural practices such as minimum tillage, residue retention, and cover cropping can improve soil carbon, crop yield, and soil health in certain climatic zones and soil types. Excessive use of synthetic chemicals can lead to biodiversity loss and ecosystem degradation. Combining livestock with cropping and agroforestry in the same landscape can increase soil carbon and provide several co-benefits. However, the benefits of RA practices can vary among different agroecosystems and may not necessarily be applicable across multiple agroecological regions. Our recommendation is to implement rigorous long-term farming system trials to compare conventional and RA practices in order to build knowledge on the benefits and mechanisms associated with RA on regional scales. This will provide growers and policy-makers with an evidence base from which to make informed decisions about adopting RA practices to realise their social and economic benefits and achieve resilience against climate change.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/3/2338"
+  },
+  {
+    "title": "Global water shortage and potable water safety; Today’s concern and tomorrow’s crisis",
+    "authors": [
+      "Maryam Salehi"
+    ],
+    "doi": "Vol. 158\n                                \n                                \n                                  p.\n                                  106936",
+    "issn": "0160-4120 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environment-international",
+    "abstract": "Climate change, severe droughts, population growth, demand increase, and poor management during the recent decades have further stressed the scarce freshwater resources worldwide and resulted in severe water shortages in many regions. The water utilities address the water shortage by providing alternative source of water, augment the supplied water, supply intermittently, and even bulk water delivery under severe water shortage conditions. On the other hand, many households store water in building storage tanks to cope with insufficient delivery of potable water due to frequent interruptions. All these practices could pose crucial risks to the chemical and microbiological quality of the water. However, consistent monitoring and implementation of mitigation strategies could lower the potential risks associated with these practices. It is critical to identify the potential hazards resulting from the alternative water supplies and distribution practices to develop temporary and long-term monitoring and mitigation plans and reduce the microbial and chemical contamination of potable water delivered to the consumers. This paper provides a holistic review of the significant hazards associated with the practices employed by the water utilities and water consumers to alleviate the potable water shortage and discusses the required monitoring and mitigation practices.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0160412021005614"
+  },
+  {
+    "title": "Knowledge appreciates your generosity: exploring a meeting point between knowledge and wisdom",
+    "authors": [
+      "David Rooney"
+    ],
+    "doi": "https://doi.org/10.1080/08109028.2016.1229851",
+    "journalVolume": "Vol. 33,\n                                no. 4\n                                \n                                  pp.\n                                  395\n                                  – 410",
+    "issn": "0810-9028 (Print)",
+    "publisher": "1470-1030 (Online)",
+    "countryOfPublisher": "Pluto Journals",
+    "lcc": [
+      "United Kingdom",
+      "Social Sciences: Industries. Land use. Labor: Management. Industrial management: Technological innovations. Automation"
+    ],
+    "journalUrl": "https://www.plutojournals.com/prometheus/",
+    "abstract": "I pay tribute to Don Lamberton in this paper by exploring the importance of generosity in knowledge systems. The purpose of this paper is to show that a range of important dynamics in knowledge systems are enhanced by generosity. I also argue that generosity is one of the meeting points between knowledge and wisdom, and that it should become an important consideration in the knowledge policy development process. It is important that we move knowledge systems closer to wisdom if we are to respond in the best ways to such major global challenges as climate change, a fragile global financial system, the emergence of new technologies, poverty, endemic military and paramilitary conflict, and global food and water security.",
+    "readLink": "https://www.scienceopen.com/hosted-document?doi=10.1080/08109028.2016.1229851"
+  },
+  {
+    "title": "Carbon Communities and Hotspots for Carbon Emissions Reduction in China",
+    "authors": [
+      "Li Huang,",
+      "Scott Kelly,",
+      "Xuan Lu,",
+      "Kangjuan Lv,",
+      "Xunpeng Shi,",
+      "Damien Giurco"
+    ],
+    "doi": "https://doi.org/10.3390/su11195508",
+    "journalVolume": "Vol. 11,\n                                no. 19\n                                \n                                  p.\n                                  5508",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "With China’s commitment to peak its emissions by 2030, sectoral emissions are under the spotlight due to the rolling out of the national emission trading scheme (ETS). However, the current sector policies focus either on the production side or consumption while the majority of sectors along the transmission were overlooked. This research combines input−output modelling and network analysis to track the embodied carbon emissions among thirty sectors of thirty provinces in China. Based on the large-data resolution network, a two-step network reduction algorithm is used to extract the backbone of the network. In addition, network centrality metrics and community detection algorithms are used to assess each individual sector’s roles, and to reveal the carbon communities where sectors have intensive emission links. The research results suggest that the sectors with high out-degree, in-degree or betweenness can act as leverage points for carbon emissions mitigation. In addition to the electricity sector, which is included in the national ETS, the study also found that the metallurgy and construction sectors should be prioritized for emissions reduction from national and local levels. However, the hotpots are different across provinces and thus provincial specific targeted policies should be formed. Moreover, there are nineteen carbon communities in China with different features, which provides direction for provincial governments’ external collaboration for synergistic effects.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/19/5508"
+  },
+  {
+    "title": "Climate Change Beliefs Count: Relationships With Voting Outcomes at the 2010 Australian Federal Election",
+    "authors": [
+      "Rod McCrea,",
+      "Zoe Leviston,",
+      "Iain Walker,",
+      "Tung-Kai Shyy"
+    ],
+    "doi": "https://doi.org/10.5964/jspp.v3i1.376",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  124\n                                  – 141",
+    "issn": "2195-3325 (Online)",
+    "publisher": "PsychOpen GOLD/ Leibniz Institute for Psychology",
+    "countryOfPublisher": "Germany",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Psychology"
+    ],
+    "journalUrl": "http://jspp.psychopen.eu/",
+    "abstract": "Climate change is a political as well as an environmental issue. Climate change beliefs are commonly associated with voting behaviour, but are they associated with swings in voting behaviour? The latter are arguably more important for election outcomes. This paper investigates the predictive power of these beliefs on voting swings at the 2010 Australian federal election after controlling for a range of other related factors (demographic characteristics of voters, different worldviews about nature and the role of government, and the perceived opportunity cost of addressing climate change). Drawing on data from two nationally representative surveys of voters and data from the Australian Electoral Commission, this paper investigates relationships between climate change beliefs and voting swings at both the individual and electorate levels. At an individual level, a hypothetical 10% change in climate change beliefs was associated with a 2.6% swing from a conservative Coalition and a 2.0% swing toward Labor and 1.7% toward the Greens party, both left on the political spectrum. At the electorate level, this equates to a shift of 21 seats between the two main political parties (the Coalition and Labor) in Australia’s 150 seat parliament, after allocating Green preferences. Given many seats are marginal, even modest shifts in climate change beliefs can be associated with changes in electoral outcomes. Thus, climate change is expected to remain a politically contested issue in countries like Australia where political parties seek to distinguish themselves, in part, by their responses to climate change.",
+    "readLink": "http://jspp.psychopen.eu/article/view/376"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Short term electricity load forecasting for institutional buildings",
+    "authors": [
+      "Yunsun Kim,",
+      "Heung-gu Son,",
+      "Sahm Kim"
+    ],
+    "doi": "Vol. 5\n                                \n                                \n                                  pp.\n                                  1270\n                                  – 1280",
+    "issn": "2352-4847 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/energy-reports/",
+    "abstract": "Peak load demand forecasting is important in building unit sectors, as climate change, technological development, and energy policies are causing an increase in peak demand. Thus, accurate peak load forecasting is a critical role in preventing a blackout or loss of energy. This paper presents a study forecasting peak load demand for an institutional building in Seoul. The dataset were collected from campus area consisting of 23 buildings. ARIMA models, ARIMA-GARCH models, multiple seasonal exponential smoothing, and ANN models are used. We find an optimal model with moving window simulations and step-ahead forecasts. Also, including weather and holiday variables is crucial to predict peak load demand. The ANN model with external variables (NARX) worked best for 1-h to 1-d ahead forecasting. Keywords: Peak load demand forecasting, Institutional building, Time series, ARIMA, GARCH, ANN",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352484719300435"
+  },
+  {
+    "title": "Water vapor isotopes indicating rapid shift among multiple moisture sources for the 2018–2019 winter extreme precipitation events in southeastern China",
+    "authors": [
+      "T. Xu,",
+      "H. Pang,",
+      "H. Pang,",
+      "Z. Zhan,",
+      "W. Zhang,",
+      "H. Guo,",
+      "S. Wu,",
+      "S. Hou,",
+      "S. Hou"
+    ],
+    "doi": "https://doi.org/10.5194/hess-26-117-2022",
+    "journalVolume": "Vol. 26\n                                \n                                \n                                  pp.\n                                  117\n                                  – 127",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "In the East Asian monsoon region, winter extreme precipitation events occasionally occur and bring great social and economic losses. From December 2018 to February 2019, southeastern China experienced a record-breaking number of extreme precipitation events. In this study, we analyzed the variation in water vapor isotopes and their controlling factors during the extreme precipitation events in Nanjing, southeastern China. The results show that the variations in water vapor isotopes are closely linked to the change in moisture sources. Using a water vapor d-excess-weighted trajectory model, we identified the following five most important moisture source regions: South China, the East China Sea, the South China Sea, the Bay of Bengal, and continental regions (northwestern China and Mongolia). Moreover, the variations in water vapor d excess during a precipitation event reflect rapid shifts in the moisture source regions. These results indicate that rapid shifts among multiple moisture sources are important conditions for sustaining wintertime extreme precipitation events over extended periods.",
+    "readLink": "https://hess.copernicus.org/articles/26/117/2022/hess-26-117-2022.pdf"
+  },
+  {
+    "title": "Radial Growth–Climate Relationship Varies with Spatial Distribution of <i>Schima superba</i> Stands in Southeast China’s Subtropical Forests",
+    "authors": [
+      "Shaowei Jiang,",
+      "Xiali Guo,",
+      "Ping Zhao,",
+      "Hanxue Liang"
+    ],
+    "doi": "https://doi.org/10.3390/f14071291",
+    "journalVolume": "Vol. 14,\n                                no. 1291\n                                \n                                  p.\n                                  1291",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "To understand the impact of climate change on the tree radial growth in Southeast China’s subtropical evergreen broadleaved forest, comparative research on the radial growth–climate associations of Schima superba was conducted. This dominant evergreen broadleaved tree species was examined at both its southern and northern distribution margins through dendroclimatology. The results showed that the radial growth of S. superba stands at a high elevation in the southern margin and stands in the northern margin were positively correlated with springtime temperatures, mostly in April (e.g., mean temperature: r = 0.630, p r = 0.335, p S. superba stands in the southern margin, including high-elevation stands (e.g., the mean temperature in previous and current September: r = −0.437 and −0.383, p r = −0.577 and −0.348, p S. superba, and the response of radial growth to temperature had obvious spatial differences. The findings indicate that the radial growth of S. superba stands in warm growth environments will be negatively impacted by future climate warming. On the contrary, the radial growth of S. superba stands growing in relatively cold growth environments may benefit from warmer spring. The results enhance the understanding of tree growth responses to climate change in the subtropical forests of China.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/7/1291"
+  },
+  {
+    "title": "Why Novel Sanitary Systems are Hardly Introduced?",
+    "authors": [
+      "Micha Blanken,",
+      "Cees Verweij,",
+      "Karel Mulder"
+    ],
+    "doi": "https://doi.org/10.13044/j.sdewes.d6.0214",
+    "journalVolume": "Vol. 7,\n                                no. 1\n                                \n                                  pp.\n                                  13\n                                  – 27",
+    "issn": "1848-9257 (Online)",
+    "publisher": "SDEWES Centre",
+    "countryOfPublisher": "Croatia",
+    "lcc": [
+      "Technology",
+      "Social Sciences: Industries. Land use. Labor: Economic growth, development, planning"
+    ],
+    "journalUrl": "http://www.sdewes.org/jsdewes",
+    "abstract": "Innovations are required in urban infrastructures due to the pressing needs for mitigating climate change and prevent resource depletion. In order to address the slow pace of innovation in urban systems, this paper analyses factors involved in attempts to introduce novel sanitary systems. Today new requirements are important: sanitary systems should have an optimal energy/climate performance, with recovery of resources, and with fewer emissions. Anaerobic digestion has been suggested as an alternative to current aerobic waste water treatment processes. This paper presents an overview of attempts to introduce novel anaerobic sanitation systems for domestic sanitation. The paper identifies main factors that contributed to a premature termination of such attempts. Especially smaller scale anaerobic sanitation systems will probably not be able to compete economically with traditional sewage treatment. However, anaerobic treatment has various advantages for mitigating climate change, removing persistent chemicals, and for the transition to a circular economy. The paper concludes that loss avoidance, both in the sewage system and in the waste water treatment plants, should play a key role in determining experiments that could lead to a transition in sanitation.",
+    "readLink": "\n      http://www.sdewes.org/jsdewes/pid6.0214\n    "
+  },
+  {
+    "title": "Sustainability of Aquifer and Ground Water Condition in Erbil Basin/ Iraq",
+    "authors": [
+      "dana khider mawlood"
+    ],
+    "doi": "https://doi.org/10.21271/zjpas.31.6.6",
+    "journalVolume": "Vol. 31,\n                                no. 6\n                                \n                                  pp.\n                                  51\n                                  – 60",
+    "issn": "2218-0230 (Print)",
+    "publisher": "2412-3986 (Online)",
+    "countryOfPublisher": "Salahaddin University-Erbil",
+    "lcc": [
+      "Iraq",
+      "Technology",
+      "Science"
+    ],
+    "journalUrl": "https://zancojournal.su.edu.krd/index.php/JPAS",
+    "abstract": "Groundwater is the main source of water in Erbil province, Iraq. The change in climate and the rapid development in the city, generally, increases the rate of GW depletion. The study aims to investigate the effects of the current exploitation of groundwater on the sustainability of the aquifer. Data like climate, soil, number of wells, and the hydrogeology of Erbil aquifer are compiled to recognize the current and future conditions of the aquifer. The results show that there is an irresponsible use of GW. The water table has been found to decrease around 1.24 meters annually. This comes due to excessive use, lack of awareness and absence of clear and strict policy towards GW sustainability in the region. The challenges facing the Department of Groundwater Resources, which is responsible for managing and developing GW sources are indicated. A set of recommendations are then presented for improving the GW management and sustainability.",
+    "readLink": "https://zancojournals.su.edu.krd/index.php/JPAS/article/view/2990"
+  },
+  {
+    "title": "An Innovative Agro-Forestry Supply Chain for Residual Biomass: Physicochemical Characterisation of Biochar from Olive and Hazelnut Pellets",
+    "authors": [
+      "Ilaria Zambon,",
+      "Fabrizio Colosimo,",
+      "Danilo Monarca,",
+      "Massimo Cecchini,",
+      "Francesco Gallucci,",
+      "Andrea Rosario Proto,",
+      "Richard Lord,",
+      "Andrea Colantoni"
+    ],
+    "doi": "https://doi.org/10.3390/en9070526",
+    "journalVolume": "Vol. 9,\n                                no. 7\n                                \n                                  p.\n                                  526",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Concerns about climate change and food productivity have spurred interest in biochar, a form of charred organic material typically used in agriculture to improve soil productivity and as a means of carbon sequestration. An innovative approach in agriculture is the use of agro-forestry waste for the production of soil fertilisers for agricultural purposes and as a source of energy. A common agricultural practice is to burn crop residues in the field to produce ashes that can be used as soil fertilisers. This approach is able to supply plants with certain nutrients, such as Ca, K, Mg, Na, B, S, and Mo. However, the low concentration of N and P in the ashes, together with the occasional presence of heavy metals (Ni, Pb, Cd, Se, Al, etc.), has a negative effect on soil and, therefore, crop productivity. This work describes the opportunity to create an innovative supply chain from agricultural waste biomass. Olive (Olea europaea) and hazelnut (Corylus avellana) pruning residues represent a major component of biomass waste in the area of Viterbo (Italy). In this study, we evaluated the production of biochar from these residues. Furthermore, a physicochemical characterisation of the produced biochar was performed to assess the quality of the two biochars according to the standards of the European Biochar Certificate (EBC). The results of this study indicate the cost-effective production of high-quality biochar from olive and hazelnut biomass residues.",
+    "readLink": "http://www.mdpi.com/1996-1073/9/7/526"
+  },
+  {
+    "title": "Use of Carbon and Basalt Fibers with Adhesives to Improve Physical and Mechanical Properties of Plywood",
+    "authors": [
+      "Mario Núñez-Decap,",
+      "Yasna Barra-Rodríguez,",
+      "Camila Opazo-Carlsson,",
+      "Boris Moya-Rojas,",
+      "Marcela Vidal-Vega,",
+      "Alexander Opazo-Vega"
+    ],
+    "doi": "https://doi.org/10.3390/app12105114",
+    "journalVolume": "Vol. 12,\n                                no. 5114\n                                \n                                  p.\n                                  5114",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "Currently, wood is presented as an alternative to traditional building materials and to mitigate climate change. Chile is one of the eight largest wood producers in the world; therefore, wood-based products are an easily accessible resource. The aim of this research is to reinforce at laboratory scale plywood panels with basalt and carbon engineer fibers using epoxy resin and polyvinyl acetate as an adhesive system to improve their physical and mechanical properties. Three-point static bending and Janka hardness tests were carried out. The results showed a better performance in the reinforced boards, which showed an increase in Modulus of Elasticity (MOE) and Modulus of Rupture (MOR) properties in the parallel direction of about 48.2% and 52.8%, respectively. Additionally, for the perpendicular direction, there was an increase of 52.0% and 102.9%, respectively. On the other hand, the Fiber Reinforced Polymer (FRP) plywood panels showed an increase of at least 37% on the Janka hardness property, obtaining higher results with the polyvinyl acetate (PVA) adhesive. Finally, FRP–plywood, PVA–BF and PVA–CF may be a new option for composite wood materials, with their ductile behavior and superior mechanical properties, especially in the perpendicular direction, where the increases were greater than those shown in unreinforced plywood.",
+    "readLink": "https://www.mdpi.com/2076-3417/12/10/5114"
+  },
+  {
+    "title": "Assessment of climatically suitable area for Syrmaticus reevesii under climate change",
+    "authors": [
+      "X Feng,",
+      "C Lin,",
+      "H Qiao,",
+      "L Ji"
+    ],
+    "doi": "https://doi.org/10.3354/esr00668",
+    "journalVolume": "Vol. 28,\n                                no. 1\n                                \n                                  pp.\n                                  19\n                                  – 31",
+    "issn": "1863-5407 (Print)",
+    "publisher": "1613-4796 (Online)",
+    "countryOfPublisher": "Inter-Research",
+    "lcc": [
+      "Germany",
+      "Science: Zoology",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.int-res.com/journals/esr/esr-home/",
+    "abstract": "Global climate change is one of the major threats to biodiversity. Global warming caused by the excess emission of greenhouse gases affects the distribution and physiology of species, and threatens their survival. Thus, predicting and evaluating the consequences of changing climates on species’ distributions is important for biodiversity conservation. The goal of our study was to assess the influence of future climate scenarios on the extent and geographic location of climatically suitable areas for Reeves’s pheasant Syrmaticus reevesii, a species endemic to China, using geographic information systems and ecological niche modeling techniques. We compared model prediction under present climate with the species’ historical range and land-cover data, both of which enable a plausible assessment of present-day climatically suitable areas for the species. The areas predicted suitable under future climates showed differences among emission scenarios, but several common trends emerged. Specifically, our results indicated that future climatically suitable area for S. reevesii would decrease and shift to higher altitudes, and the geographic centroids of the climatically suitable areas would mainly move northwest. Additionally, we assessed future changes of climatically suitable areas in the nature reserves where S. reevesii is known to occur, and provided suggestions for conserving the species under climate change scenarios.",
+    "readLink": "https://www.int-res.com/abstracts/esr/v28/n1/p19-31/"
+  },
+  {
+    "title": "Analysis of VIA and EbA in a River Bank Erosion Prone Area of Bangladesh Applying DPSIR Framework",
+    "authors": [
+      "Syed Hafizur Rahman,",
+      "B. M. Refat Faisal,",
+      "Md. Towfiqur Rahman,",
+      "Toiaba Binta Taher"
+    ],
+    "doi": "https://doi.org/10.3390/cli4040052",
+    "journalVolume": "Vol. 4,\n                                no. 4\n                                \n                                  p.\n                                  52",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "This study aims to set up a comprehensive approach to the Vulnerability and Impact Assessment (VIA) of river erosion and to suggest Ecosystem-based Adaptation (EbA) practices. Based on the analysis of vulnerability using the Driver-Pressure-State-Impact-Response (DPSIR) framework, this paper discusses some of the significant climatic (rainfall pattern, temperature, seasonal drift, cold wave and heat wave) and non-climatic (river erosion, repetitive death of field crops and agrochemicals) forces in the Kazipur Upazila (Sirajganj District)—a river erosion-prone area of Bangladesh. Both primary (Key Informants Interview, Household Survey, and Focus Group Discussion) and secondary (climatic, literature review) data have been used in revealing the scenario of climatic stress. The analysis revealed a slightly increasing trend of mean annual temperature, and a decreasing trend of total annual rainfall from 1981 to 2015, which have been supported by people’s perception. This study found that river erosion, the increase of temperature and the late arrival of monsoon rain, excessive monsoon rainfall, high use of agrochemicals, and flow alterations are major drivers in the riverine ecosystem. These drivers are creating pressures on agricultural land, soil fertility, water availability and livelihood patterns of affected communities. Hence, floating bed cultivation, integrated pest management, use of cover crops, reforestation, the introduction of an agro-weather forecasting system, and a new variety of flood tolerant species have been suggested as potential EbA to cope with river bank erosion and to increase the capacity of the affected ecosystem.",
+    "readLink": "http://www.mdpi.com/2225-1154/4/4/52"
+  },
+  {
+    "title": "Niche Analysis of the Main Fish in the Lhasa River Basin",
+    "authors": [
+      "He Gao,",
+      "Haiping Liu,",
+      "Qiming Wang,",
+      "Fei Liu,",
+      "Junting Li,",
+      "Yuting Duan,",
+      "Luowu Zeren,",
+      "Suxing Fu,",
+      "Jingsen Zhang,",
+      "Yan Zhou,",
+      "Yan Li,",
+      "Chaowei Zhou"
+    ],
+    "doi": "https://doi.org/10.3390/w15050860",
+    "journalVolume": "Vol. 15,\n                                no. 860\n                                \n                                  p.\n                                  860",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Lhasa River is one of the five tributaries of the Yarlung Zangbo River. It is the main industrial, agricultural and animal husbandry area in Tibet. It plays an important ecological security barrier role in regulating regional climate and maintaining biodiversity. In order to understand the resource utilization ability and relationship of fish in Lhasa River, and provide basic data for the protection and sustainable utilization of fish diversity in Lhasa River, the fishery resources in September 2019 (autumn), June 2020 (summer), November 2020 (winter) and March 2021 (spring) were investigated for the first time. The main fish in the catch were determined by the Index of Relative Importance (IRI). Shannon index and Pianka’s index were used to analyze the niche breadth and overlap values of the main fish caught in Lhasa River Basin from three dimensions of time, space and space–time. The results show that a total of 1399 fish of 3 orders and 4 families were collected. Among them, there is one dominant species, Schizopygopsis younghusbandi, and five common species, Schizothorax waltoni, Schizothorax oconnori, Ptychobarbus dipogon, Triplophysa stenura and Carassius auratus. The spatial–temporal niche breadth ranges from 1.395 to 3.628. They are Schizopygopsis younghusbandi, Carassius auratus, Ptychobarbus dipogon, Schizothorax oconnori, Triplophysa stenura and Schizothorax waltoni in a declining order. The temporal niche breadth is generally small, indicating that the survival activities of the main fish are greatly affected by seasonal changes. The fluctuation range of spatial–temporal overlap value is 0–0.535, and only 20% of the total logarithm is meaningful. The species pairs with temporal niche overlap values exceeding 0.300 reached 80%, while the spatial niche overlap value is generally low. The results show that the spatial and temporal distributions of the main fish in Lhasa River were quite different, and the spatial and temporal niche overlap value of the relationship between species is obviously affected by the change in spatial distribution. This demonstrates that the competition relationship and intensity of the main fish are quite different in different spatial positions.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/5/860"
+  }
+]

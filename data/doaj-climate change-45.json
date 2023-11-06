@@ -1,0 +1,186 @@
+[
+  null,
+  {
+    "title": "Monitoring of Performance-Based Environmental Impacts of Substituting Soybean Meal with Rapeseed Meal in the Rye-Based Diet of Weaned Pigs",
+    "authors": [
+      "Volker Wilke,",
+      "Julia Gickel,",
+      "Christian Visscher"
+    ],
+    "doi": "https://doi.org/10.3390/su15032210",
+    "journalVolume": "Vol. 15,\n                                no. 2210\n                                \n                                  p.\n                                  2210",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Due to its favorable properties, soybean meal (SBM) is used especially in young growing animals. In terms of sustainability, there are various efforts to reduce the amounts of SBM in compound feeds and to increase the use of regional protein sources. This paper focuses on the effects of a partial to total substitution of SBM by regionally produced rapeseed meal (RSM) in different piglet diets regarding 10 important factors having an impact on the environment. Four diets, characterized by different shares (%) of both protein-rich ingredients (SBM/RSM: 18.1/0; 13.6/6.70; 8.10/16.1; 0/28.0), were fed to four groups of 10 piglets each in two runs. The impact was calculated related to feed (per t) and was performance-based for every piglet (impact·kg weight gain−1) for each factor using methods according to life-cycle-analyses (LCA). Although feed intake and weight gains were not affected negatively, higher feed conversion ratios occurred, with high amounts of rapeseed inclusion. Nevertheless, the performance-based negative influence on climate change (kg CO2 eq·kg weight gain−1) was nearly halved when SBM was replaced by RSM. Since performance was not negatively affected, the use of RSM instead of SBM in piglet diets could be a viable tool for markedly reducing the negative impact on climate change.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/3/2210"
+  },
+  {
+    "title": "Assessment of the Urban Extreme Precipitation by Satellite Estimates over Mainland China",
+    "authors": [
+      "Yu Li,",
+      "Bo Pang,",
+      "Ziqi Zheng,",
+      "Haoming Chen,",
+      "Dingzhi Peng,",
+      "Zhongfan Zhu,",
+      "Depeng Zuo"
+    ],
+    "doi": "https://doi.org/10.3390/rs15071805",
+    "journalVolume": "Vol. 15,\n                                no. 1805\n                                \n                                  p.\n                                  1805",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The accurate estimation of urban extreme precipitation is essential for urban design and risk management, which is hard for developing countries, due to the fast urbanization and sparse rain gauges. Satellite precipitation products (SPPs) have emerged as a promising solution. Not only near real-time SPPs can provide critical information for decision making, but post-processed SPPs can also offer essential information for climate change adaption, risk management strategy development, and related fields. However, their ability in urban extreme precipitation estimation has not been examined in detail. This study presents a comprehensive evaluation of four recent SPPs that are post-processed, including IMERG, GSMaP_Gauge, MSWEP, and CMFD, for their ability to capture urban extreme precipitation in mainland China at the national, city, and inner-city scales. The performance of the four SPPs was assessed using daily observations from the 821 urban gauges from 2001 to 2018. The assessment includes: (1) the extreme precipitation estimates from the four SPPs in the total urbanized areas of mainland China were evaluated using correlation coefficients (CC), absolute deviation (AD), relative deviation (RB), and five extreme precipitation indices; (2) The extreme precipitation estimates over 21 Chinese major cities were assessed with the two most important extreme indices, namely the 99th percentile of daily precipitation on wet days (R99) and total precipitation when daily precipitation exceeding R99 (R99TOT); and (3) Bivariate Moran’s I (BMI) was adopted to assess the inner-city spatial correlation of R99 and R99TOT between SPPs and gauge observations in four major cities with most gauges. The results indicate that MSWEP has the highest CC of 0.79 and the lowest AD of 1.61 mm at the national scale. However, it tends to underestimate urban precipitation, with an RB of −8.5%. GSMaP_Gauge and IMERG performed better in estimating extreme values, with close extreme indices with gauge observations. According to the 21 major cities, GSMaP_Gauge also shows high accuracy in estimating R99 and R99TOT values, with the best RB and AD in these cities, while CMFD and MSWEP exhibit the highest CC values for R99 and R99TOT, respectively, indicating a strong correlation between their estimates and those obtained from gauge observations. At the inner-city scale, MSWEP shows advantages in monitoring the spatial distribution of urban extreme precipitation in most of cities. The study firstly provided the multiscale assessment of urban extreme precipitation by SPPs over mainland China, which is useful for their applications.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/7/1805"
+  },
+  {
+    "title": "The Environmental Profile of Clinker, Cement, and Concrete: A Life Cycle Perspective Study Based on Ecuadorian Data",
+    "authors": [
+      "Daniel M. Petroche,",
+      "Angel D. Ramirez"
+    ],
+    "doi": "https://doi.org/10.3390/buildings12030311",
+    "journalVolume": "Vol. 12,\n                                no. 311\n                                \n                                  p.\n                                  311",
+    "issn": "2075-5309 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Building construction"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/buildings",
+    "abstract": "Concrete is the most-used material in the construction industry, and the second most-used after water. Cement is the main component of concrete. A total of 8% of global CO2 emissions correspond to the cement industry; CO2 is the main greenhouse gas contributing to global warming. To mitigate climate change, it is necessary to design buildings with a lower environmental impact, and therefore, it is crucial to assess the environmental profile of the local production of construction materials. This study uses the life cycle assessment methodological framework to evaluate the environmental sustainability of the cement and concrete industry in Ecuador. The inventory accounts for 62.8% of national cement production, with data corresponding to 2019. The OpenLCA software was used to perform the life cycle inventory and impact assessment calculations. Eight impact categories were assessed, including Global Warming Potential (GWP). Clinker has a GWP result of 897.04 kg CO2-Eq/ton. Hydraulic cement types MH, GU, and HE have GWPs ranging from 465.89 to 696.81 kg CO2-Eq/ton. Results of ready-mixed concrete range from 126.02 to 442.14 kg CO2-Eq/m3. Reducing the content of clinker in cement and concrete should be the aim so as to improve their environmental profiles. This study contributes to the development of regional life cycle inventory data for Latin America. This research is the first to be developed regarding construction materials in Ecuador and contributes to the sustainable design of structures with pozzolan-lime cement and concrete.",
+    "readLink": "https://www.mdpi.com/2075-5309/12/3/311"
+  },
+  {
+    "title": "Emerging Applications of <i>Chlorella</i> sp. and <i>Spirulina</i> (<i>Arthrospira</i>) sp.",
+    "authors": [
+      "Ana P. Abreu,",
+      "Rodrigo Martins,",
+      "João Nunes"
+    ],
+    "doi": "https://doi.org/10.3390/bioengineering10080955",
+    "journalVolume": "Vol. 10,\n                                no. 955\n                                \n                                  p.\n                                  955",
+    "issn": "2306-5354 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/bioengineering",
+    "abstract": "Chlorella sp. and Spirulina (Arthrospira) sp. account for over 90% of the global microalgal biomass production and represent one of the most promising aquiculture bioeconomy systems. These microorganisms have been widely recognized for their nutritional and therapeutic properties; therefore, a significant growth of their market is expected, especially in the nutraceutical, food, and beverage segments. However, recent advancements in biotechnology and environmental science have led to the emergence of new applications for these microorganisms. This paper aims to explore these innovative applications, while shedding light on their roles in sustainable development, health, and industry. From this state-of-the art review, it was possible to give an in-depth outlook on the environmental sustainability of Chlorella sp. and Spirulina (Arthrospira) sp. For instance, there have been a variety of studies reported on the use of these two microorganisms for wastewater treatment and biofuel production, contributing to climate change mitigation efforts. Moreover, in the health sector, the richness of these microalgae in photosynthetic pigments and bioactive compounds, along with their oxygen-releasing capacity, are being harnessed in the development of new drugs, wound-healing dressings, photosensitizers for photodynamic therapy, tissue engineering, and anticancer treatments. Furthermore, in the industrial sector, Chlorella sp. and Spirulina (Arthrospira) sp. are being used in the production of biopolymers, fuel cells, and photovoltaic technologies. These innovative applications might bring different outlets for microalgae valorization, enhancing their potential, since the microalgae sector presents issues such as the high production costs. Thus, further research is highly needed to fully explore their benefits and potential applications in various sectors.",
+    "readLink": "https://www.mdpi.com/2306-5354/10/8/955"
+  },
+  {
+    "title": "Adolescent Capacity to Consent to Participate in Research: A Review and Analysis Informed by Law, Human Rights, Ethics, and Developmental Science",
+    "authors": [
+      "Ben Mathews"
+    ],
+    "doi": "https://doi.org/10.3390/laws12010002",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  p.\n                                  2",
+    "issn": "2075-471X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Law"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/laws",
+    "abstract": "Contemporary societies pose major challenges for adolescents and it is essential to conduct research with them to understand their experiences, identify their needs, and discover solutions to major social problems. Social science, humanities and health-related research into violence, technology, and climate change exemplify vital research endeavours requiring adolescent participation to advance Sustainable Development Goals and enhance individual lived experience and societal flourishing for current and future generations. International and national research ethics guidelines emphasise the necessity to conduct research to advance societal benefit, while upholding principles of autonomy and justice, and promoting participant welfare and avoiding harm. International human rights instruments promote adolescents’ freedom of expression and right to participate in matters affecting them. The rapid generation of robust research findings is essential, but it remains commonly assumed that adolescents cannot provide their own consent to participate in research studies, and the belief that parental consent is required can impede and impair the entire research process. Debate continues about the proper interpretation of legal principles and research ethics guidelines about who may provide consent. Continuing confusion about who must provide consent, and why, impedes the protection of adolescents’ interests and the advancement of society. This article adds to knowledge by providing a multidisciplinary overview of evidence from developmental science, social science, law, human rights, and bioethics about decision-making capacity and entitlements in the context of research participation, and an updated evidence-based analysis of adolescents’ capacity to provide their own consent to participate in social, humanities and health-related research. A conservative application of knowledge from these domains both individually and collectively supports conclusions that adolescents aged 16 are able to provide their own consent to participate in research, and no legal or ethical principle requires the provision of parental consent on their behalf. Practical considerations may support parental involvement in conversations about participation, and some types of research require trauma-informed approaches, but adolescents are developmentally, legally and ethically entitled to make their own decision about whether or not to participate.",
+    "readLink": "https://www.mdpi.com/2075-471X/12/1/2"
+  },
+  {
+    "title": "A policy tool for monitoring and evaluation of participation in adaptation projects",
+    "authors": [
+      "Aleksandra Natalia Wojewska,",
+      "Christina Singh,",
+      "Christian Pilegaard Hansen"
+    ],
+    "doi": "Vol. 33\n                                \n                                \n                                  p.\n                                  100326",
+    "issn": "2212-0963 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/climate-risk-management/",
+    "abstract": "Climate change and the need for sustainable development have been reflected in a proliferation of climate adaptation interventions, especially in the Global South. However, alongside intensified funding flows aimed at climate change adaptation, increased efforts in planning, monitoring, and evaluating of projects are necessary to avoid ineffective interventions or maladaptive outcomes. Yet, often the analytical tools available to the policy maker do not capture the cognitive and affective processes leading to adaptation decisions. This paper addresses this gap by proposing a conceptual framework for planning, monitoring, and evaluating climate adaptation interventions that draws upon the decision-making literature. The framework enables tracing how extrinsic factors (personal and external environment characteristics) and intrinsic factors (knowledge and attitudes) influence the decision to participate in an intervention and its outcomes. The paper provides detailed guidelines on how to apply the framework and demonstrates its use in an in-depth case study of a tree planting intervention in Ghana.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212096321000553"
+  },
+  {
+    "title": "Are we using the right fuel to drive hydrological models? A climate impact study in the Upper Blue Nile",
+    "authors": [
+      "S. Liersch,",
+      "J. Tecklenburg,",
+      "H. Rust,",
+      "A. Dobler,",
+      "M. Fischer,",
+      "T. Kruschke,",
+      "H. Koch,",
+      "F. F. Hattermann"
+    ],
+    "doi": "https://doi.org/10.5194/hess-22-2163-2018",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  2163\n                                  – 2185",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Climate simulations are the fuel to drive hydrological models that are used to assess the impacts of climate change and variability on hydrological parameters, such as river discharges, soil moisture, and evapotranspiration. Unlike with cars, where we know which fuel the engine requires, we never know in advance what unexpected side effects might be caused by the fuel we feed our models with. Sometimes we increase the fuel's octane number (bias correction) to achieve better performance and find out that the model behaves differently but not always as was expected or desired. This study investigates the impacts of projected climate change on the hydrology of the Upper Blue Nile catchment using two model ensembles consisting of five global CMIP5 Earth system models and 10 regional climate models (CORDEX Africa). WATCH forcing data were used to calibrate an eco-hydrological model and to bias-correct both model ensembles using slightly differing approaches. On the one hand it was found that the bias correction methods considerably improved the performance of average rainfall characteristics in the reference period (1970–1999) in most of the cases. This also holds true for non-extreme discharge conditions between Q20 and Q80. On the other hand, bias-corrected simulations tend to overemphasize magnitudes of projected change signals and extremes. A general weakness of both uncorrected and bias-corrected simulations is the rather poor representation of high and low flows and their extremes, which were often deteriorated by bias correction. This inaccuracy is a crucial deficiency for regional impact studies dealing with water management issues and it is therefore important to analyse model performance and characteristics and the effect of bias correction, and eventually to exclude some climate models from the ensemble. However, the multi-model means of all ensembles project increasing average annual discharges in the Upper Blue Nile catchment and a shift in seasonal patterns, with decreasing discharges in June and July and increasing discharges from August to November.",
+    "readLink": "https://www.hydrol-earth-syst-sci.net/22/2163/2018/hess-22-2163-2018.pdf"
+  },
+  {
+    "title": "Energy Poverty as a Current Problem in the Light of Economic and Social Challenges",
+    "authors": [
+      "Arkadiusz Piwowar"
+    ],
+    "doi": "https://doi.org/10.3390/en15228554",
+    "journalVolume": "Vol. 15,\n                                no. 8554\n                                \n                                  p.\n                                  8554",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Study of the literature and personal research experience have resulted in the identification of many challenges in the field of energy poverty, both in terms of social and technical dimensions. The research problems indicated in the paper and the proposed topics for further methodological and analytical work appear to be important not only from the perspective of the categories of energy poverty but also in the contexts of climate change, the ongoing energy transformation and attempts to implement a new energy model based to a large degree on unconventional and renewable sources of energy. This article also contains both methodological and scientific considerations.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/22/8554"
+  },
+  {
+    "title": "In situ pelagic dataset from continuous monitoring: A mesocosm experiment in Lake Geneva (MESOLAC)",
+    "authors": [
+      "Viet Tran-Khac,",
+      "Philippe Quetin,",
+      "Isabelle Domaizon,",
+      "Stéphan Jacquet,",
+      "Laurent Espinat,",
+      "Clémentine Gallot,",
+      "Serena Rasconi"
+    ],
+    "doi": "Vol. 32\n                                \n                                \n                                  p.\n                                  106255",
+    "issn": "2352-3409 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/data-in-brief/",
+    "abstract": "This dataset corresponds to a data series produced from automated data loggers during the MESOLAC experimental project. Nine pelagic mesocosms (about 3000 L, 3 m depth) were deployed in July 2019 in Lake Geneva near the shore of Thonon les Bains (France), simulating predicted climate scenarios (i.e. intense weather events) by applying a combination of forcing. The design consisted of three treatments each replicated three times: a control treatment (named C – no treatment applied) and two different treatments simulating different intensities of weather events. The high intensity treatment (named H) aimed to reproduce short and intense weather events such as violent storms. It consisted of a short-term stress applied during the first week, with high pulse of dissolved organic carbon (5x increased concentration, i.e. total DOC ∼ 6 mg L−1), transmitted light reduced to 15% and water column manual mixing. The medium intensity treatment (named M) simulated less intense and more prolonged exposures such as during flood events. It was maintained during the 4 weeks of the experiment and consisted of 1.5x increased concentration of dissolved organic carbon (i.e. total DOC ∼ 2 mg L−1), 70% transmitted light and water column manual mixing. Automated data loggers were placed for the entire period of the experiment in the mesocosms and in the lake for comparison with natural conditions. Temperature, conductivity, dissolved oxygen and CO2 were monitored every 15 min at different depths (0.15, 0.25, 1 and 2 m).This data set aims to contribute our understanding of the effect of environmental forcing on lake ecosystem processes (such as production, respiration and CO2 exchange) under simulated intense weather events and the ability of the planktonic community to recover after perturbation. To a broader extent, the presented data can be used for a wide variety of applications, including monitoring of lake community functioning during a period of high productivity on a large peri-alpine lake and being included in further meta-analysis aiming at generalising the effect of climate change on large lakes.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352340920311495"
+  }
+]

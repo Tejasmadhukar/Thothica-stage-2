@@ -1,0 +1,221 @@
+[
+  {
+    "title": "A Review of Tsing, Swanson, Gan, and Bubandt’s (2017) Edited Volume",
+    "authors": [
+      "Morgan Tate"
+    ],
+    "doi": "https://doi.org/10.18432/ari29594",
+    "journalVolume": "Vol. 6,\n                                no. 2",
+    "issn": "2371-3771 (Online)",
+    "publisher": "University of Alberta",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Fine Arts: Arts in general"
+    ],
+    "journalUrl": "https://ejournals.library.ualberta.ca/index.php/ari/",
+    "abstract": "This is a review of Arts of Living on a Damaged Planet: Ghosts and Monsters of the Anthropocene, an edited volume from Anna Tsing, Heather Swanson, Elaine Gan, and Nils Bubandt. The text showcases historical abuses of the earth and offers a myriad of opportunities to creatively inquire about our current relationship and interactions with other matter, creating a sense of urgency within the precarity of the Anthropocene.",
+    "readLink": "https://journals.library.ualberta.ca/ari/index.php/ari/article/view/29594"
+  },
+  {
+    "title": "Policultura no semiárido brasileiro",
+    "authors": [
+      "Andréa Cardoso Ventura,",
+      "José Célio Silveira Andrade"
+    ],
+    "issn": "1867-139X (Print)",
+    "publisher": "1867-8521 (Online)",
+    "countryOfPublisher": "Institut Veolia Environnement",
+    "lcc": [
+      "France",
+      "Social Sciences"
+    ],
+    "journalUrl": "http://factsreports.revues.org/index.html",
+    "abstract": "The previsions say that the semiarid regions in the world are between the most impacted by the global climate change. In Brazil, among the environmental (lost of biodiversity, extreme droughts), social (migrations, diseases exposition) and economics (reduction on income generation, in employment rates, and in the Gross Domestic Product) of global warming, it is affirmed strong pressures specially over the agriculture and livestock, the mainly subsistence resource in Brazilian semiarid region, because of the increase of the rain irregularity and increase of evaporation. However, it is possible to believe that the many projects that are being developed by the social movement of convivial with the semiarid could play an important act in the climate change mitigation and adaptation, and also in the region development. In this paper, one of this initiatives is presented, the Policultura no Semiárido (multiple cultivation in semiarid), developed by Instituto de Permacultura da Bahia that used simple technologies, evolving the local and the experts knowledge, contribute to Human Development in 65 rural communities in four municipalities in semiarid region at Bahia state, bringing new ways to adapt to the climate reality, with less green house emission, and with the improvement of life conditions.",
+    "readLink": "http://journals.openedition.org/factsreports/2558"
+  },
+  {
+    "title": "Comparison study of COSMIC RO dry-air climatologies based on average profile inversion",
+    "authors": [
+      "J. Danzer,",
+      "J. Danzer,",
+      "M. Schwärz,",
+      "M. Schwärz,",
+      "V. Proschek,",
+      "V. Proschek,",
+      "U. Foelsche,",
+      "U. Foelsche,",
+      "H. Gleisner"
+    ],
+    "doi": "https://doi.org/10.5194/amt-11-4867-2018",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  4867\n                                  – 4882",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "Global Navigation Satellite System (GNSS) radio occultation (RO) data enable the retrieval of near-vertical profiles of atmospheric parameters like bending angle, refractivity, pressure, and temperature. The retrieval step from bending angle to refractivity, however, involves an Abel integral with an upper limit of infinity. RO data are practically limited to altitudes below about 80 km and the observed bending angle profiles show decreasing signal-to-noise ratio with increasing altitude. Some kind of high-altitude background data are therefore needed in order to perform this retrieval step (this approach is known as high-altitude initialization). Any bias in the background data will affect all RO data products beyond bending angle. A reduction of the influence of the background is therefore desirable – in particular for climate applications.Recently a new approach for the production of GNSS radio occultation climatologies has been proposed. The idea is to perform the averaging of individual profiles in bending angle space and then propagate the mean bending angle profiles through the Abel transform. Climatological products of refractivity, density, pressure, and temperature are directly retrieved from the mean bending angles.The averaging of a large number of profiles suppresses noise in the data, enabling observed bending angle data to be used up to 80 km without the need for a priori information. Some background information for the Abel integral is still necessary above 80 km.This work is a follow-up study, having the focus on the comparison of the average profile inversion climatologies (API) from the two processing centers WEGC and DMI, which study monthly COSMIC (Constellation Observing System for Meteorology, Ionosphere, and Climate) data from January to March 2011. The impact of different backgrounds above 80 km is tested, and different implementations of the Abel integral are investigated. Results are compared for the climatological products with ECMWF analyses, MIPAS, and SABER data.It is shown that different implementations of the Abel integral have little impact on the API climatologies. On the other hand, different extrapolations of the bending angle profile above 80 km play a key role in the resulting monthly mean refractivities above 35 km in altitude. Below that respective altitude the API climatologies show a good agreement between the two processing centers WEGC and DMI. Due to the downward propagation within the retrieval, effects of the high-altitude initialization lead to differences in dry-temperature climatologies down to 20 km in altitude.When applying an exponential extrapolation to the bending angles above 80 km at both centers, the dry-temperature climatologies agree among WEGC, DMI, ECMWF analysis, and MIPAS up to 35 km in altitude within ±0.5 K and up to 40 km in altitude within ±1 K. We conclude that the API retrieval is a valid approach up to the lower stratosphere. It is a computationally efficient alternative method for producing dry atmospheric RO climatologies.",
+    "readLink": "https://www.atmos-meas-tech.net/11/4867/2018/amt-11-4867-2018.pdf"
+  },
+  {
+    "title": "Impact of temperature extremes on the phenology of grapevine varieties",
+    "authors": [
+      "Barbara Templ,",
+      "Roberto Barbieri,",
+      "Matthias Templ,",
+      "Michael Meier,",
+      "Vivan Zufferey"
+    ],
+    "doi": "Vol. 55,\n                                no. 1",
+    "issn": "2494-1271 (Online)",
+    "publisher": "International Viticulture and Enology Society",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Agriculture",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.oeno-one.eu",
+    "abstract": "Aim: A growing number of studies call attention to the consequences of climate change on agriculture, including impacts of climate extremes such as drought, heat weaves and frost. The aim of this study was to quantify the influence of temperature extremes on various phenological events of grapevine varieties in south west Switzerland (Leytron, Canton of Valais). We aim to capture the occurrence of extreme events in specific years, grapevine varieties, and phenological phases to rank the varieties based on their sensitivity to temperature extremes and thus quantify their robustness. Methods and results: Phenological observations (1978 – 2018) for six varieties of Vitis vinifera ('Arvine', 'Chardonnay', 'Chasselas', 'Gamay', 'Pinot Noir', 'Syrah') were studied using event coincidence analysis. Extreme events were defined as values in the uppermost/lowermost percentiles of the distributions of the variables under study. The results showed that significantly more extreme temperature- and extreme phenological events occurred in Leytron between 2003 and 2017 than in earlier years. It was also found that the occurrence rate of extreme events was independent of the growth stage (between 13-19%). Based on the total number of extreme events the varieties do not differ in their response to temperature extremes. Conclusion: The event coincidence analysis is an appropriate tool to quantify the occurrence of extreme events. The occurrence of extremes temperature events on various grapevines had a clear effect in advancing the timing of phenological events. However, there was no varietal difference in the response of varieties to extreme temperature events, thus more research is needed to outline the best adaptation measures. These findings are remarkable in the era of climate change, when extreme climate events are predicted to occur more frequently. Significance of the study: Information on climate impacts is enabling appropriate adaptation responses and is supported with knowledge on how the different varieties are affected under extreme conditions. Our findings are important for Swiss winemakers when making decisions on vineyard management in the future.",
+    "readLink": "http://revues.u-bordeaux.fr/ojs32/index.php/oeno-one/article/view/3187"
+  },
+  {
+    "title": "Practicing Critical Zone Observation in Agricultural Landscapes: Communities, Technology, Environment and Archaeology",
+    "authors": [
+      "Rachel Opitz,",
+      "Philippe De Smedt,",
+      "Victorino Mayoral-Herrera,",
+      "Stefano Campana,",
+      "Marco Vieri,",
+      "Eamonn Baldwin,",
+      "Carolina Perna,",
+      "Daniele Sarri,",
+      "Jeroen Verhegge"
+    ],
+    "doi": "https://doi.org/10.3390/land12010179",
+    "journalVolume": "Vol. 12,\n                                no. 179\n                                \n                                  p.\n                                  179",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "The aims of agricultural land management change continuously, reflecting shifts in wider societal priorities. Currently, these include addressing the climate crisis, promoting environmental sustainability, and supporting the livelihoods of rural communities while ensuring food security. Working toward these aims requires information on the character of agricultural land and how dynamic processes influence it. Remote and near-surface sensing data are important sources of information on the characteristics of soils, plants, water, topography, and related processes. Sensing data are collected, analysed, and used in decision-making by specialists in multiple domains connected to land management. While progress has been made to connect the use of sensing data across agricultural and environmental applications under the umbrella of integrated sustainable land management, archaeological and heritage uses of these data remain largely disconnected. This creates barriers to accounting for the impacts of past human activities on contemporary agricultural landscapes through the alteration of soils, topography, and plant communities. In parallel, it hinders the creation of knowledge about the archaeological features which form an essential part of the heritage of agricultural landscapes. The ipaast-czo project explores the potential of a coordinated approach across all these domains, which would reduce these barriers and provide benefits by better integrating information generated using sensing. To do so, both conceptual and practical barriers to developing shared practices and how these might be overcome were considered. In this study, a conceptual framework designed to create a shared understanding of how agricultural landscapes work and enable collaboration around their management was proposed. This framework treats present-day rural agricultural landscapes as Critical Zones: complex entities shaped by long-term human–environment interactions including contemporary farming. Practitioners in precision agriculture and archaeological remote and near-surface sensing, as well as users of these data, were engaged using workshops and interviews. The relationships between practitioners’ objectives, data requirements for their applications, and their perceptions of the benefits and disadvantages of changing working practices were interrogated. The conceptual framework and assessment of practical benefits and challenges emerging from this work provide a foundation for leveraging shared sensing data and methods for long-term integrated sustainable land management.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/1/179"
+  },
+  {
+    "title": "Simulation and Analysis of the Water Balance of the Nam Co Lake Using SWAT Model",
+    "authors": [
+      "Muhammad Adnan,",
+      "Shichang Kang,",
+      "Guoshuai Zhang,",
+      "Muhammad Saifullah,",
+      "Muhammad  Naveed Anjum,",
+      "Ayaz  Fateh Ali"
+    ],
+    "doi": "https://doi.org/10.3390/w11071383",
+    "journalVolume": "Vol. 11,\n                                no. 7\n                                \n                                  p.\n                                  1383",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Rapid change of alpine lakes in the Tibetan Plateau (TP) is a clear manifestation of regional-scale climate variability that can be investigated by quantifying the regional hydrological cycle. The degree-day model (DDM) coupled with the Soil and Water Assessment Tool (SWAT) model were used to quantify the water budget of the Nam Co Lake over the period of 2007 to 2013. Driven by local observed meteorological data, the coupled model was successfully validated with the observed lake levels (with R2 = 0.65, NSE = 0.61, and PBIAS = −2.26). Analysis of the water balance revealed that rapid enlargement of the Nam Co Lake was primarily associated with precipitation increase while glacier melt played its role as the potential secondary driver in lake expansion. However, temporal analysis of lake expansion displayed that supremacy of precipitation and glacier melt interchanged between the years. It was found that average annual relative contributions of the precipitation, including direct precipitation on the lake, and glacier melt to the lake were 57% (or 667 mm), and 43% (or 502 mm), respectively. Besides, it was observed that annual values of actual evapotranspiration (ET) from the lake, glaciated, and non-glaciated subbasins were 615 mm, 280 mm, and 234 mm respectively. The average annual glacier mass balance (GMB) of the Nam Co basin was −150.9 millimeter water equivalent (mm w.e.). The relatively high amount of glacier melt was a consequence of the substantial increase in annual temperature in the lake basin. This work is of importance for understanding the rapid water cycle in the TP under global warming. Moreover, this work will also be helpful in monitoring and sustaining the local ecosystem and infrastructure, which is under risk due to rapid lake expansion as a result of climate change in the TP.",
+    "readLink": "https://www.mdpi.com/2073-4441/11/7/1383"
+  },
+  {
+    "title": "Use of interpretable machine learning to identify the factors influencing the nonlinear linkage between land use and river water quality in the Chesapeake Bay watershed",
+    "authors": [
+      "Zhenyu Zhang,",
+      "Jinliang Huang,",
+      "Shuiwang Duan,",
+      "Yaling Huang,",
+      "Juntao Cai,",
+      "Jing Bian"
+    ],
+    "doi": "Vol. 140\n                                \n                                \n                                  p.\n                                  108977",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Understanding the relationship between land use and water quality is essential for effective watershed management. However, it remains challenging to identify such a relationship owing to its nonlinearity. We developed an interpretable machine learning method that integrated the random forest regression (RFR) model with the Shapley Additive exPlanations (SHAP) method to explore the relationship between water quality and land use in the Potomac River Basin (PRB), the second largest tributary entering Chesapeake Bay from 2006 to 2019. The water quality of the 26 sub-watersheds, classified into five types (natural, forested, agricultural, mixed, and urbanized), was investigated using statistical methods and scenario analysis. The results showed that the models employed were effective in predicting the water quality. The mean absolute error (MAE), root mean square error (RMSE), percent bias (PBIAS), R2 coefficient of determination (R2), and Kling-Gupta efficiency (KGE) were 0.011–0.159 mg/L, 0.019–0.219 mg/L, −0.14–0.64%, 0.79–0.99, and 0.69–0.98, respectively, during the training period, which were 0.010–0.201 mg/L, 0.017–0.292 mg/L, −1.87–0.41%, 0.82–0.99, and 0.80–0.97, respectively, during the testing period. The threshold effects of land use patterns were obvious for water quality indicators with high concentrations (i.e., TN and NH4+-N). In contrast, the water quality at low concentrations (i.e., TP and NO3–-N) may be more sensitive to wetland or barren land with changing climate. Agricultural activities and urbanization could be the dominant factors determining nutrient export to the PRB. Meanwhile, the typical ‘sink’ for the nutrient such as wetland may change into the ‘source’ for different nutrient. This study provides an in-depth understanding of how riverine nutrient export responds to the land use gradient in the Chesapeake Bay watershed.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X22004484"
+  },
+  {
+    "title": "The view of the Human Rights Committee in the case of Ioane Teitiota v. New Zealand, and its relevance for international law",
+    "authors": [
+      "Stojanović Bojan"
+    ],
+    "doi": "Vol. 59,\n                                no. 87\n                                \n                                  pp.\n                                  73\n                                  – 89",
+    "issn": "0350-8501 (Print)",
+    "publisher": "2560-3116 (Online)",
+    "countryOfPublisher": "Faculty of Law, Niš",
+    "lcc": [
+      "Serbia",
+      "Law"
+    ],
+    "journalUrl": "http://scindeks.ceon.rs/journalDetails.aspx?issn=0350-8501&lang=en",
+    "abstract": "The paper analyzes the findings of the Human Rights Committee in the case of Ioane Teitiota v. New Zealand. The procedure was conducted in accordance with the provisions of the International Covenant on Civil and Political Rights and the First Optional Protocol to the Covenant. The Committee considered the violation of the right to life contained in Article 6, paragraph 1, of the Covenant. The applicant argued that his return to Kiribati, his country of origin, would jeopardize his right to life. The statement considered the negative effects of environmental damage and the impact of climate change on the applicant's right to life. The basic hypothesis of the paper is to consider the Committee's statement in the light of expanding the protection of the right to life and paving the way for recognizing the impact of climate change on the basis of human migration. In the future, this could develop normative activity and practice of international bodies and states in the direction of recognizing so-called environmental refugees.",
+    "readLink": "https://scindeks-clanci.ceon.rs/data/pdf/0350-8501/2020/0350-85012087073S.pdf"
+  },
+  {
+    "title": "Major Forest Changes in Subtropical China since the Last Ice Age",
+    "authors": [
+      "Qiuchi Wan,",
+      "Xiao Zhang,",
+      "Yaze Zhang,",
+      "Yuanfu Yue,",
+      "Kangyou Huang,",
+      "Rachid Cheddadi,",
+      "Zhuo Zheng"
+    ],
+    "doi": "https://doi.org/10.3390/f12101314",
+    "journalVolume": "Vol. 12,\n                                no. 1314\n                                \n                                  p.\n                                  1314",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "In the subtropical zone of southern China, there was a considerable conversion of forests from deciduous to evergreen broadleaf in the early Holocene. However, the exact timing of this vegetation change and its relationship to climate are still unclear. We examined a high-resolution pollen record collected in the mid-subtropical zone and then performed a correlation with regional data to reconstruct the history of forest ecosystems since the last deglaciation. Our data show that the expansion of the evergreen plant component already occurred at low elevations during the last deglaciation. The subtropical mountain landscape was not recolonized by evergreen forests until the mid-Holocene at about 8.1 ka BP. Based on fossil pollen reconstruction and climate model simulation, we conclude that the primary increase in evergreen components of subtropical ecosystems was triggered by postglacial temperature increase, and that a complete conversion from deciduous to evergreen forest ecosystems did not occur until Holocene winter temperatures and seasonal temperature contrast reached a threshold suitable for the growth and persistence of evergreen tree species.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/10/1314"
+  },
+  {
+    "title": "Light effects on seedling growth in simulated forest canopy gaps vary across species from different successional stages",
+    "authors": [
+      "Lingyan Zhou,",
+      "Lingyan Zhou,",
+      "Madhav P. Thakur,",
+      "Zhen Jia,",
+      "Yu Hong,",
+      "Wenjie Yang,",
+      "Wenjie Yang,",
+      "Shuqing An,",
+      "Xuhui Zhou,",
+      "Xuhui Zhou"
+    ],
+    "doi": "https://doi.org/10.3389/ffgc.2022.1088291",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-893X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Forestry",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/forests-and-global-change#",
+    "abstract": "Tropical forests continue to suffer from various kinds of disturbances in the Anthropocene. An immediate impact of disturbances on forest ecosystems is the creation of numerous large and small canopy gaps, which dramatically affect forest structure and function. Yet, we know little about the effect of canopy gaps on forest successional trajectory. More specifically, the responses of seedlings from different successional stages to increased light intensity under large and small canopy gaps in understory remain unclear. In this study, dominant tree seedlings from early-, mid-, and late-successional stages were selected, respectively from a tropical montane forest in Hainan Island, China to study their growth rate, biomass and traits. Our results showed that the light condition under small canopy gaps (SG, 10–15% of full sunlight) and large canopy gaps (LG, 40–50% of full sunlight) induced greater increment of relative growth rates for seedlings from early- and mid-successional stages relative to that in late-successional stage. Both SG and LG also significantly increased photosynthesis rate, leaf area (LA), light saturation point (LSP), root mass ratio (RMR) and root: shoot ratio, but decreased specific leaf area (SLA) of seedlings across successional stages. Tree seedlings from the early-successional stage displayed the greatest decrease in leaf mass ratio, increase in LA, LSP, and RMR, in comparison to those from mid- and late- successional stages. Light condition and SLA were the most important factors for seedlings’ relative growth rate across successional stages. SLA connected the interaction between the light condition and successional stage on seedlings’ growth, thereby jointly explaining the 93% variation of seedlings’ growth, combining with area-based light saturated rate of CO2 assimilation. Our study highlights the distinct effect of disturbance-induced canopy gaps on seedling regeneration in the understory in tropical forest due to the variation of light intensity. We suspect that the seedlings from late-successional stage will recover relatively slow after disturbances causing canopy losses, which can have detrimental impacts on structure feature and successional trajectory in tropical forest, as well as forest-based ecosystem services.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/ffgc.2022.1088291/full"
+  }
+]

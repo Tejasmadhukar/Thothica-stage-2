@@ -1,0 +1,263 @@
+[
+  {
+    "title": "Vegetation Growth Response and Trends after Water Deficit Exposure in the Loess Plateau, China",
+    "authors": [
+      "Yuanyuan Luo,",
+      "Wei Liang,",
+      "Jianwu Yan,",
+      "Weibin Zhang,",
+      "Fen Gou,",
+      "Chengxi Wang,",
+      "Xiaoru Liang"
+    ],
+    "doi": "https://doi.org/10.3390/rs15102593",
+    "journalVolume": "Vol. 15,\n                                no. 2593\n                                \n                                  p.\n                                  2593",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Understanding the impact of water availability on vegetation growth in the context of climate change is crucial for assessing the resilience of vegetation to environmental shifts. In this study, the relationship between vegetation growth and water availability was studied using a variety of indicators. The Normalized Difference Vegetation Index (NDVI), the Enhanced Vegetation Index (EVI), and Solar-Induced Chlorophyll Fluorescence (SIF) were utilized as vegetation growth indicators, while the standardized precipitation evapotranspiration index (SPEI) and soil moisture indicators served as water use indices. To investigate the vegetation response to water deficit in the Loess Plateau during the growing season from 2000 to 2020, Spearman’s rank correlation coefficients were calculated using a 5-year sliding window approach. The spatial and temporal heterogeneity of vegetation response to water deficit during the growing seasons were also explored. The results showed that: (1) with the improvement of moisture conditions, vegetation growth recovered significantly, and there was no expansion trend for vegetation water deficit. (2) The most sensitive timescale of vegetation to water deficit was 6–8 months; the response degree and sensitivity of vegetation to water surplus and deficit were the highest from June to August; and broadleaved forest was the vegetation type most sensitive to water deficit in the early growing season, while grass was the vegetation type most sensitive to water deficit during the mid and late growing seasons. (3) Soil moisture emerged as the dominant factor influencing vegetation growth in the Loess Plateau, followed by precipitation, albeit to a lesser extent. These findings contribute to understanding the mechanism and characteristics of the response of vegetation to climate fluctuations induced by global climate change.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/10/2593"
+  },
+  {
+    "title": "Recent Advancements and Development in Nano-Enabled Agriculture for Improving Abiotic Stress Tolerance in Plants",
+    "authors": [
+      "Natasha Manzoor,",
+      "Liaqat Ali,",
+      "Temoor Ahmed,",
+      "Muhammad Noman,",
+      "Muhammad Adrees,",
+      "Muhammad Shafiq Shahid,",
+      "Solabomi Olaitan Ogunyemi,",
+      "Khlode S. A. Radwan,",
+      "Gang Wang,",
+      "Gang Wang,",
+      "Haitham E. M. Zaki,",
+      "Haitham E. M. Zaki"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2022.951752",
+    "journalVolume": "Vol. 13",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Abiotic stresses, such as heavy metals (HMs), drought, salinity and water logging, are the foremost limiting factors that adversely affect the plant growth and crop productivity worldwide. The plants respond to such stresses by activating a series of intricate mechanisms that subsequently alter the morpho-physiological and biochemical processes. Over the past few decades, abiotic stresses in plants have been managed through marker-assisted breeding, conventional breeding, and genetic engineering approaches. With technological advancement, efficient strategies are required to cope with the harmful effects of abiotic environmental constraints to develop sustainable agriculture systems of crop production. Recently, nanotechnology has emerged as an attractive area of study with potential applications in the agricultural science, including mitigating the impacts of climate change, increasing nutrient utilization efficiency and abiotic stress management. Nanoparticles (NPs), as nanofertilizers, have gained significant attention due to their high surface area to volume ratio, eco-friendly nature, low cost, unique physicochemical properties, and improved plant productivity. Several studies have revealed the potential role of NPs in abiotic stress management. This review aims to emphasize the role of NPs in managing abiotic stresses and growth promotion to develop a cost-effective and environment friendly strategy for the future agricultural sustainability.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2022.951752/full"
+  },
+  {
+    "title": "Modeling the Underlying Drivers of Natural Vegetation Occurrence in West Africa with Binary Logistic Regression Method",
+    "authors": [
+      "Beatrice Asenso Barnieh,",
+      "Li Jia,",
+      "Massimo Menenti,",
+      "Min Jiang,",
+      "Jie Zhou,",
+      "Yelong Zeng,",
+      "Ali Bennour"
+    ],
+    "doi": "https://doi.org/10.3390/su13094673",
+    "journalVolume": "Vol. 13,\n                                no. 4673\n                                \n                                  p.\n                                  4673",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The occurrence of natural vegetation at a given time is determined by interplay of multiple drivers. The effects of several drivers, e.g., geomorphology, topography, climate variability, accessibility, demographic indicators, and changes in human activities on the occurrence of natural vegetation in the severe drought periods and, prior to the year 2000, have been analyzed in West Africa. A binary logistic regression (BLR) model was developed to better understand whether the variability in these drivers over the past years was statistically significant in explaining the occurrence of natural vegetation in the year 2000. Our results showed that multiple drivers explained the occurrence of natural vegetation in West Africa at p < 0.05. The dominant drivers, however, were site-specific. Overall, human influence indicators were the dominant drivers in explaining the occurrence of natural vegetation in the selected hotspots. Human appropriation of net primary productivity (HANPP), which is an indicator of human socio-economic activities, explained the decreased likelihood of natural vegetation occurrence at all the study sites. However, the impacts of the remaining significant drivers on natural vegetation were either positive (increased the probability of occurrence) or negative (decreased the probability of occurrence), depending on the unique environmental and socio-economic conditions of the areas under consideration. The study highlights the significant role human activities play in altering the normal functioning of the ecosystem by means of a statistical model. The research contributes to a better understanding of the relationships and the interactions between multiple drivers and the response of natural vegetation in West Africa. The results are likely to be useful for planning climate change adaptation and sustainable development programs in West Africa.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/9/4673"
+  },
+  {
+    "title": "Our House Is Burning: Discrepancy in Climate Change vs. Biodiversity Coverage in the Media as Compared to Scientific Literature",
+    "authors": [
+      "Pierre Legagneux,",
+      "Nicolas Casajus,",
+      "Kevin Cazelles,",
+      "Clément Chevallier,",
+      "Marion Chevrinais,",
+      "Lorelei Guéry,",
+      "Claire Jacquet,",
+      "Claire Jacquet,",
+      "Mikael Jaffré,",
+      "Marie-José Naud,",
+      "Fanny Noisette,",
+      "Pascale Ropars,",
+      "Pascale Ropars,",
+      "Steve Vissault,",
+      "Philippe Archambault,",
+      "Joel Bêty,",
+      "Dominique Berteaux,",
+      "Dominique Gravel"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2017.00175",
+    "journalVolume": "Vol. 5",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Scientists, policy makers, and journalists are three key, interconnected players involved in prioritizing and implementing solutions to mitigate the consequences of anthropogenic pressures on the environment. The way in which information is framed and expertise is communicated by the media is crucial for political decisions and for the integrated management of environmental issues. Here we present a comparative study of scientific literature and press articles addressing climate change and biodiversity. We extensively scrutinized the scientific literature, research funding, and press articles from the USA, Canada, and United Kingdom addressing climate change and biodiversity issues between 1991 and 2016. We found that media coverage of climate change was up to eight times higher compared to biodiversity. This discrepancy could not be explained by different scientific output between the two issues. Moreover, climate change media coverage was often related to specific events whereas no such indication of a connection was found in the case of biodiversity. An international communication strategy is urgently required to raise public awareness on biodiversity issues. We discussed several initiatives that scientists could undertake to better communicate major discoveries to the public and policy makers.",
+    "readLink": "http://journal.frontiersin.org/article/10.3389/fevo.2017.00175/full"
+  },
+  {
+    "title": "A framework for benchmarking land models",
+    "authors": [
+      "Y. Q. Luo,",
+      "J. T. Randerson,",
+      "G. Abramowitz,",
+      "C. Bacour,",
+      "E. Blyth,",
+      "N. Carvalhais,",
+      "P. Ciais,",
+      "D. Dalmonech,",
+      "J. B. Fisher,",
+      "R. Fisher,",
+      "P. Friedlingstein,",
+      "K. Hibbard,",
+      "F. Hoffman,",
+      "D. Huntzinger,",
+      "C. D. Jones,",
+      "C. Koven,",
+      "D. Lawrence,",
+      "D. J. Li,",
+      "M. Mahecha,",
+      "S. L. Niu,",
+      "R. Norby,",
+      "S. L. Piao,",
+      "X. Qi,",
+      "P. Peylin,",
+      "I. C. Prentice,",
+      "W. Riley,",
+      "M. Reichstein,",
+      "C. Schwalm,",
+      "Y. P. Wang,",
+      "J. Y. Xia,",
+      "S. Zaehle,",
+      "X. H. Zhou"
+    ],
+    "doi": "https://doi.org/10.5194/bg-9-3857-2012",
+    "journalVolume": "Vol. 9,\n                                no. 10\n                                \n                                  pp.\n                                  3857\n                                  – 3874",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "Land models, which have been developed by the modeling community in the past few decades to predict future states of ecosystems and climate, have to be critically evaluated for their performance skills of simulating ecosystem responses and feedback to climate change. Benchmarking is an emerging procedure to measure performance of models against a set of defined standards. This paper proposes a benchmarking framework for evaluation of land model performances and, meanwhile, highlights major challenges at this infant stage of benchmark analysis. The framework includes (1) targeted aspects of model performance to be evaluated, (2) a set of benchmarks as defined references to test model performance, (3) metrics to measure and compare performance skills among models so as to identify model strengths and deficiencies, and (4) model improvement. Land models are required to simulate exchange of water, energy, carbon and sometimes other trace gases between the atmosphere and land surface, and should be evaluated for their simulations of biophysical processes, biogeochemical cycles, and vegetation dynamics in response to climate change across broad temporal and spatial scales. Thus, one major challenge is to select and define a limited number of benchmarks to effectively evaluate land model performance. The second challenge is to develop metrics of measuring mismatches between models and benchmarks. The metrics may include (1) a priori thresholds of acceptable model performance and (2) a scoring system to combine data–model mismatches for various processes at different temporal and spatial scales. The benchmark analyses should identify clues of weak model performance to guide future development, thus enabling improved predictions of future states of ecosystems and climate. The near-future research effort should be on development of a set of widely acceptable benchmarks that can be used to objectively, effectively, and reliably evaluate fundamental properties of land models to improve their prediction performance skills.",
+    "readLink": "http://www.biogeosciences.net/9/3857/2012/bg-9-3857-2012.pdf"
+  },
+  {
+    "title": "Unshakeable Hope: Pandemic Disruption, Climate Disruption, and the Ultimate Test of Theologies of Abundance",
+    "authors": [
+      "Tallessyn Zawn Grenfell-Lee"
+    ],
+    "doi": "https://doi.org/10.3390/rel13050404",
+    "journalVolume": "Vol. 13,\n                                no. 404\n                                \n                                  p.\n                                  404",
+    "issn": "2077-1444 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Religions. Mythology. Rationalism"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/religions/",
+    "abstract": "Leaders on the forefront of the rapidly escalating climate crisis continually seek effective strategies to help communities stay engaged without burning out or spiraling into despair. This paper examines the concept of adaptive change for its potential to reframe disruption and intentionally harness its potential for building resilience in both practical and psychological ways. In particular, social science suggests that secure communal bonds lay the foundation for the adaptive ability to build resilience through and from disruption. Swiss history offers an intriguing example of this phenomenon: held up as a model for its social, political, and ecological resilience, Swiss democracy evolved as part of the restructuring of society after a series of disruptive historical pandemics. This paper uses the Swiss example and the current COVID-19 (Coronavirus Disease) pandemic in order to explore the potential of transcendent and adaptive sociological and theological frameworks for the development of robust concepts of resilience in the face of climate destabilization. It further argues that a wide theological interpretation of Eucharistic abundance offers a lens through which to claim the liberative resurrection of disruptions, even, or perhaps especially, in the extreme case of human or planetary annihilation.",
+    "readLink": "https://www.mdpi.com/2077-1444/13/5/404"
+  },
+  {
+    "title": "Socioeconomic and Environmental Benefits of Expanding Urban Green Areas: A Joint Application of i-Tree and LCA Approaches",
+    "authors": [
+      "Mariana Oliveira,",
+      "Remo Santagata,",
+      "Serena Kaiser,",
+      "Yanxin Liu,",
+      "Chiara Vassillo,",
+      "Patrizia Ghisellini,",
+      "Gengyuan Liu,",
+      "Sergio Ulgiati"
+    ],
+    "doi": "https://doi.org/10.3390/land11122106",
+    "journalVolume": "Vol. 11,\n                                no. 2106\n                                \n                                  p.\n                                  2106",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Green infrastructures deliver countless functions for counteracting climate change, air pollution, floods, and heat islands, contributing at the same time to water and carbon recycling as well as to renewable energies and feedstock provisioning. Properly addressing such environmental problems would require huge investments that could be decreased thanks to the further implementation of urban forests. Local administrations are designing participative projects to improve territories and their living conditions. The i-Tree Canopy modelling tool and the life cycle assessment method are jointly applied to evaluate the potential benefits of increasing tree coverage within the boundaries of the Metropolitan City of Naples, Southern Italy. Results highlighted that tree coverage could increase by about 2.4 million trees, thus generating 51% more benefits in pollutants removal, carbon sequestration and stormwater management. The benefits are also explored and confirmed by means of the life cycle assessment method. The potential tree cover is expected to provide a total annual economic benefit of USD 55 million, purchasing power parity value adjusted, representing USD 18 per citizen and USD 99,117 per square kilometre of implemented urban forest. These results can support a potential replication elsewhere and provide a reference for the sustainable improvement of cities by expanding urban green areas.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/12/2106"
+  },
+  {
+    "title": "Biocultural values of groundwater dependent ecosystems in Kona, Hawaiʻi",
+    "authors": [
+      "Veronica L. Gibson,",
+      "Leah L. Bremer,",
+      "Kimberly M. Burnett,",
+      "Nicole Keaka. Lui,",
+      "Celia M. Smith"
+    ],
+    "doi": "https://doi.org/10.5751/ES-13432-270318",
+    "journalVolume": "Vol. 27,\n                                no. 3\n                                \n                                  p.\n                                  18",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Groundwater dependent ecosystems (GDEs) are increasingly recognized as important conservation targets with linked ecological and social value. However, the social uses and values of GDEs have received relatively little research attention in the peer-reviewed literature, precluding their greater inclusion in policy and management decisions. To help fill this gap, we provide a case study from Kona, Hawaiʻi, where multiple types of GDEs are abundant, to illustrate the diversity of social uses and values of GDEs. To explore these uses and values, we combined a literature review, archival analysis, and key-informant interviews with resource managers and lineal descendants connected to three prominent GDEs: Indigenous aquaculture systems, anchialine pools, and nearshore ecosystems. Interviews focused on current and historical uses and values of GDEs, contemporary management challenges and strategies, and desired visions for the future. Interviewees expressed a range of uses and values associated with GDEs, which we categorized using a Hawaiʻi-based cultural ecosystem service framework focused on social connections, physical and mental health, spirituality, and knowledge. Importantly, results suggest that the historical value of these systems directly informs current social value, and that restoration efforts are largely carried out through biocultural approaches, which emphasize the mutually reinforcing restoration of ecology and culture. We found that interviewees seek to restore ecosystem functions, cultural practice, and connection to place, and in some cases, local food production. Achieving these goals requires addressing multiple and interacting threats to these systems including invasive species, land-based sources of pollution, groundwater pumping, and climate change. Importantly, effective and equitable restoration also rests on recognition and amplification of Indigenous rights, knowledge, practice, and governance. These results provide important lessons for land and water management and policy in Hawaiʻi as well as other islands and coastal areas where GDEs have important linked social and ecological value.",
+    "readLink": "https://www.ecologyandsociety.org/vol27/iss3/art18/"
+  },
+  {
+    "title": "Comprehensive Flood Risk Assessment: State of the Practice",
+    "authors": [
+      "Neil S. Grigg"
+    ],
+    "doi": "https://doi.org/10.3390/hydrology10020046",
+    "journalVolume": "Vol. 10,\n                                no. 46\n                                \n                                  p.\n                                  46",
+    "issn": "2306-5338 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/hydrology",
+    "abstract": "A comprehensive assessment of flood hazards will necessitate a step-by-step analysis, starting with hydrometeorological examinations of runoff and flow, followed by an assessment of the vulnerability of those at risk. Although bodies of knowledge about these topics are large, flood risk assessments face data challenges such as climate change, population growth, and shifting land uses. Recent studies have provided comprehensive reviews of advances in the water sciences arena, and in a complementary way, this paper reviews the state of the practice of assessing flood risk, include flood scenarios, hydrometeorology, inundation modeling, flood frequency analysis, interrelationships with water infrastructure, and vulnerability of people and places. The research base for each of these topics is extensive. Some of the tools in these areas, such as hydrologic modeling, have research advances that extend back decades, whereas others, such as numerical weather prediction, have more room to evolve. It’s clear from all studies that data is crucial along the progression from atmospheric conditions to the impact on flood victims. How data are provided and shared and how they are used by stakeholders in flood risk reduction continue to evolve. Improved availability of data and uses of emerging tools of data science and machine learning are needed to assess and mitigate flood risks. Continued the development of key tools is also required, especially to improve the capability to assemble them effectively on user platforms.",
+    "readLink": "https://www.mdpi.com/2306-5338/10/2/46"
+  },
+  {
+    "title": "Climate change adaptation strategies in response to food insecurity: The paradox of improved potato varieties adoption in eastern Ethiopia",
+    "authors": [
+      "Sisay Diriba Lemessa,",
+      "Mulugeta Damie Watebaji,",
+      "Molla Alemayehu Yismaw"
+    ],
+    "doi": "https://doi.org/10.1080/23311932.2019.1640835",
+    "journalVolume": "Vol. 5,\n                                no. 1",
+    "issn": "2331-1932 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Agriculture",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/oafa",
+    "abstract": "The non-avoidable nature of climate change occurrences and their adverse effects on smallholder farmers’ livelihood and food security status calls for urgent interventions. In this study, we used a cross-sectional survey method. Data were collected from 365 sampled households in eastern Ethiopia to identify different climate change adaptation strategies and the associated factors in response to food insecurity. Three-stage probit model was employed for data analysis. Three adaptation strategies, namely: adoption of improved varieties, irrigation usage and intercropping were identified. The study result shows that Shantam, an improved potato variety, is the most widely grown in the study area. Frost, known as wurchi/amadey by its local name, was found to be the worst types of climate change incidence that severely affects potato production in the study area. The analysis of sociodemographic variables showed mixed results on each of the three adaptation strategies. Moreover, the regression revealed paradoxical results whereby irrigation usage and intercropping as climate change adaptation strategies recede the adoption of improved potato varieties.",
+    "readLink": "http://dx.doi.org/10.1080/23311932.2019.1640835"
+  }
+]

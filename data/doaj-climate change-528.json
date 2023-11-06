@@ -1,0 +1,203 @@
+[
+  {
+    "title": "Physicochemical Drivers of Microbial Community Structure in Sediments of Lake Hazen, Nunavut, Canada",
+    "authors": [
+      "Matti O. Ruuskanen,",
+      "Kyra A. St. Pierre,",
+      "Vincent L. St. Louis,",
+      "Stéphane Aris-Brosou,",
+      "Stéphane Aris-Brosou,",
+      "Alexandre J. Poulain"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2018.01138",
+    "journalVolume": "Vol. 9",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "The Arctic is undergoing rapid environmental change, potentially affecting the physicochemical constraints of microbial communities that play a large role in both carbon and nutrient cycling in lacustrine environments. However, the microbial communities in such Arctic environments have seldom been studied, and the drivers of their composition are poorly characterized. To address these gaps, we surveyed the biologically active surface sediments in Lake Hazen, the largest lake by volume north of the Arctic Circle, and a small lake and shoreline pond in its watershed. High-throughput amplicon sequencing of the 16S rRNA gene uncovered a community dominated by Proteobacteria, Bacteroidetes, and Chloroflexi, similar to those found in other cold and oligotrophic lake sediments. We also show that the microbial community structure in this Arctic polar desert is shaped by pH and redox gradients. This study lays the groundwork for predicting how sediment microbial communities in the Arctic could respond as climate change proceeds to alter their physicochemical constraints.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmicb.2018.01138/full"
+  },
+  {
+    "title": "Global change and conservation triage on National Wildlife Refuges",
+    "authors": [
+      "Fred A. Johnson,",
+      "Mitchell J. Eaton,",
+      "Gerard McMahon,",
+      "Raye Nilius,",
+      "Michael R. Bryant,",
+      "David J. Case,",
+      "Julien Martin,",
+      "Nathan J. Wood,",
+      "Laura Taylor"
+    ],
+    "doi": "https://doi.org/10.5751/ES-07986-200414",
+    "journalVolume": "Vol. 20,\n                                no. 4\n                                \n                                  p.\n                                  14",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "National Wildlife Refuges (NWRs) in the United States play an important role in the adaptation of social-ecological systems to climate change, land-use change, and other global-change processes. Coastal refuges are already experiencing threats from sea-level rise and other change processes that are largely beyond their ability to influence, while at the same time facing tighter budgets and reduced staff. We engaged in workshops with NWR managers along the U.S. Atlantic coast to understand the problems they face from global-change processes and began a multidisciplinary collaboration to use decision science to help address them. We are applying a values-focused approach to base management decisions on the resource objectives of land managers, as well as those of stakeholders who may benefit from the goods and services produced by a refuge. Two insights that emerged from our workshops were a conspicuous mismatch between the scale at which management can influence outcomes and the scale of environmental processes, and the need to consider objectives related to ecosystem goods and services that traditionally have not been explicitly considered by refuges (e.g., protection from storm surge). The broadening of objectives complicates the decision-making process, but also provides opportunities for collaboration with stakeholders who may have agendas different from those of the refuge, as well as an opportunity for addressing problems across scales. From a practical perspective, we recognized the need to (1) efficiently allocate limited staff time and budgets for short-term management of existing programs and resources under the current refuge design and (2) develop long-term priorities for acquiring or protecting new land/habitat to supplement or replace the existing refuge footprint and thus sustain refuge values as the system evolves over time. Structuring the decision-making problem in this manner facilitated a better understanding of the issues of scale and suggested that a long-term solution will require a significant reassessment of objectives to better reflect the comprehensive values of refuges to society. We discuss some future considerations to integrate these two problems into a single framework by developing novel optimization approaches for dynamic problems that account for uncertainty in future conditions.",
+    "readLink": "http://www.ecologyandsociety.org/vol20/iss4/art14/"
+  },
+  {
+    "title": "An integrated maintenance and power generation forecast by ANN approach based on availability maximization of a wind farm",
+    "authors": [
+      "Aisha Sa’ad,",
+      "Aimé C. Nyoungue,",
+      "Zied Hajej"
+    ],
+    "doi": "Vol. 8\n                                \n                                \n                                  pp.\n                                  282\n                                  – 301",
+    "issn": "2352-4847 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/energy-reports/",
+    "abstract": "Climate change, global warming and high costs of fossil fuels caused an urgent need to shift from traditional sources of energy generation to renewable ones. Wind energy has been identified as one of the most attractive renewable sources that supply affordable, inexhaustible, and clean energy to the economy. To guarantee wind plant availability, the maintenance downtime has to be minimized. In doing so, a systematic preventive maintenance strategy integrated with wind power generation forecasted by artificial neural network (ANN) technique was developed by selecting the components which maintenance action will be performed upon based on a set minimum reliability margin. In this work, four components of the turbine (bearing, main shaft, gearbox and generator) were selected to represent the reliability of the turbine. An algorithm was developed to automatically select the component whose reliability falls below the minimum selected margin and a perfect maintenance is carried out by replacing the component. We try to develop the model that yields the optimal number of preventive maintenance (PM) actions that minimizes maintenance downtime which yields maximum availability The uniqueness of the work lies with the consideration and integration of the influence of turbine power generation rate into the PM planning strategy. Finally, numerical example was presented and sensitivity analysis was performed by varying some parameters to validate the algorithm.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352484722012501"
+  },
+  {
+    "title": "A REVIEW ON THE EFFECT OF ENDOCRINE DISRUPTORS ON REPRODUCTIVE PERFORMANCE OF SMALL RUMINANT",
+    "authors": [
+      "Mujitaba Malam Abulbashar,",
+      "Bodo Szilard,",
+      "Vass Nora,",
+      "Abdullahi, Usman"
+    ],
+    "doi": "https://doi.org/10.31924/nrsd.v10i2.051",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  pp.\n                                  145\n                                  – 160",
+    "issn": "2066-6276 (Print)",
+    "publisher": "2601-5676 (Online)",
+    "countryOfPublisher": "Editura Universităţii din Oradea",
+    "lcc": [
+      "Romania",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.nrsdj.com/",
+    "abstract": "Endocrine disruptors (ED's) exist in a wide range of forms, both naturally and artificially. Exposure of animals to ED's may happen in several ways, including feeding urea or human sewage sludge treated crop residues, straws, and stovers of crops treated with pesticides, cereals infected with mycotoxins, and fodder crops containing naturally offending endocrine-disrupting compounds, among others. The ED's can affect the animals’ endocrine system, fertility, and overall reproductive performance (RP) of both the parent and their offspring regardless of their sex. The adrenal gland and reproductive system are the most vulnerable to ED's. Moreover, they can cause health risks by compromising the animal immune system. Residues of these compounds may find their way to the human body by consuming affected animal products. On this note, the present review aimed to explore some of the available naturally occurring ED's in fodder crops, their effects on small ruminant (SR) endocrine functions, RP, and the measures that could be adopted to reduce the adverse effects of ED's on SR. Maintaining animals just before and at joining on forages containing offending ED's has negative consequences on the animals’ RP. The effect may be reflected in the RP of the affected animals’ offspring later in their life. Moreover, most of the studies on ED's containing forages were conducted on temperate forage crops. There is, therefore, a need for similar studies on tropical forage crops. Timely assessment of the ED's levels in the most widely use forages known to contain the offending ED's is also needed, as their quantity may vary with time due to consistent climate change, agronomic practices, and other human activities.",
+    "readLink": "https://docs.google.com/viewerng/viewer?url=http://nrsdj.com/papers/2020-2/03.+Mujitaba+Malam+2020-10-2.pdf"
+  },
+  {
+    "title": "Risk categorization and decision prioritization for climate change impacts: A rapid risk assessment methodology applied in the State of Qatar",
+    "authors": [
+      "Logan Cochrane,",
+      "Reem Al-Hababi"
+    ],
+    "doi": "Vol. 13\n                                \n                                \n                                  p.\n                                  100429",
+    "issn": "2666-7657 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environmental-advances",
+    "abstract": "The impacts of climate change vary by location and severity, will be experienced over a range of timescales, and governments are not equally able to respond to risks and hazards in the same way. Yet, despite the rapid expansion of climate-related evidence, few studies categorize risks and hazards to support better-informed decision-making regarding the prioritization of action and investment. This paper develops a risk categorization tool and decision support heuristic, applied to the specific challenges faced in the Gulf Cooperation Council (GCC) region, and specifically in the State of Qatar. Drawing on expert assessment, the results of this study allow decision-makers to compare risks and hazards when making decisions about resource allocation and policy interventions. The results represent a localized categorization of climate risks and a comparative assessment based on three criteria. Standardized global assessments were used to validate the results. While the application of this study is specific to one country, the methodology and assessment approach could be applied in other contexts to enable more evidence-informed decision-making.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S266676572300087X"
+  },
+  {
+    "title": "On the Spatial Patterns of Urban Thermal Conditions Using Indoor and Outdoor Temperatures",
+    "authors": [
+      "Saddrodin Alavipanah,",
+      "Dagmar Haase,",
+      "Mohsen Makki,",
+      "Mir  Muhammad Nizamani,",
+      "Salman Qureshi"
+    ],
+    "doi": "https://doi.org/10.3390/rs13040640",
+    "journalVolume": "Vol. 13,\n                                no. 640\n                                \n                                  p.\n                                  640",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The changing climate has introduced new and unique challenges and threats to humans and their environment. Urban dwellers in particular have suffered from increased levels of heat stress, and the situation is predicted to continue to worsen in the future. Attention toward urban climate change adaptation has increased more than ever before, but previous studies have focused on indoor and outdoor temperature patterns separately. The objective of this research is to assess the indoor and outdoor temperature patterns of different urban settlements. Remote sensing data, together with air temperature data collected with temperature data loggers, were used to analyze land surface temperature (outdoor temperature) and air temperature (indoor temperature). A hot and cold spot analysis was performed to identify the statistically significant clusters of high and low temperature data. The results showed a distinct temperature pattern across different residential units. Districts with dense urban settlements show a warmer outdoor temperature than do more sparsely developed districts. Dense urban settlements show cooler indoor temperatures during the day and night, while newly built districts show cooler outdoor temperatures during the warm season. Understanding indoor and outdoor temperature patterns simultaneously could help to better identify districts that are vulnerable to heat stress in each city. Recognizing vulnerable districts could minimize the impact of heat stress on inhabitants.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/4/640"
+  },
+  {
+    "title": "bTB eradication in Ireland: where to from here?",
+    "authors": [
+      "Simon J. More"
+    ],
+    "doi": "https://doi.org/10.1186/s13620-023-00239-8",
+    "journalVolume": "Vol. 76,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 3",
+    "issn": "2046-0481 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Agriculture: Animal culture: Veterinary medicine"
+    ],
+    "journalUrl": "https://irishvetjournal.biomedcentral.com",
+    "abstract": "Abstract Background In an earlier paper from 2019, this author concluded that successful eradication of bovine tuberculosis (bTB) from Ireland by 2030 would be unlikely, given control strategies in place at that time plus the addition of badger vaccination. He argued that additional measures will be needed, broadly focusing on bTB risks from wildlife, risk-based cattle controls, and industry commitment. This paper considers these points in further detail. Main text Ongoing monitoring of the badger vaccination programme (which is progressively being rolled out nationally) and associated research will be critical, with a focus both on programme inputs and outcomes. The direct contribution of cattle movements to bTB restrictions in Ireland has been evaluated. However, it is the indirect role of cattle movements in bTB restrictions that is likely of greater importance, particularly towards the latter phase of the eradication programme. In other national programmes, a range of risk-based approaches have been used to address the challenge of residual infection in cattle (that is, the presence of animals with persistent but undetected infection), and similar approaches are needed in Ireland. A number of authors have highlighted the critical importance of industry commitment to programme success, and the key role of programme governance to achieving this. In this commentary, the author briefly considers experiences from Australia and New Zealand in this regard. The author also reflects on the challenge of uncertainty in decision-making, the relevance to Ireland of lessons from other countries, and the potential contribution of new methodologies in support of the national programme. Conclusions ‘The tragedy of the horizon’ was a term first used in the context of climate change, referring to the costs imposed on future generations that the current generation has no direct incentives to fix. This concept is equally relevant to bTB eradication in Ireland, where current decisions will have long-term consequences for future generations, including both the general public (through the Exchequer) and future Irish farmers.",
+    "readLink": "https://doi.org/10.1186/s13620-023-00239-8"
+  },
+  {
+    "title": "Water quality improvements offset the climatic debt for stream macroinvertebrates over twenty years",
+    "authors": [
+      "Ian P. Vaughan,",
+      "Nicholas J. Gotelli"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-019-09736-3",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 8",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Both climate change and environmental degradation pose harm to freshwaters. Here the authors find that macroinvertebrate communities in England and Wales maintained equilibrium with the environment from 1991 to 2011, and attribute this to water quality improvements offsetting rising temperatures.",
+    "readLink": "https://doi.org/10.1038/s41467-019-09736-3"
+  },
+  {
+    "title": "Evaluation of the response stability of two dominant conifer species to climate change in the southern margin of the Tengger Desert",
+    "authors": [
+      "Ke Chen,",
+      "Liang Jiao,",
+      "Xiaoping Liu,",
+      "Changliang Qi,",
+      "Ruhong Xue"
+    ],
+    "doi": "Vol. 25\n                                \n                                \n                                  p.\n                                  e01439",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Global climate change has led to the nonlinear response of the radial growth of trees to climate change at high altitudes and high latitudes in the northern hemisphere, and the responses of different tree species on climate change due to differences in physiological and ecological adaptations are also significantly different. Therefore, we analyzed the response stability and growth trends and the sustainability of two dominant tree species Qinghai spruce (Picea crassifolia) and Chinese pine (Chinese pine) to climate change on the southern edge of the Tengger Desert. The main conclusions were as follows: 1) water stress was the main controlling factor of the two tree species by analyzing the correlations between the radial growth of two tree species and climate factors. 2) Qinghai spruce had a stable response to Standardized Precipitation Evapotranspiration Index (SPEI) in September of the previous year, and the unstable responses to the minimum temperatures in September, December of the previous year and May of the current year, as well as SPEI in June and July of the previous year and June of the current year; Chinese pine had the stable responses to SPEI in September and May of the previous year, and the unstable responses to the minimum temperatures in September, and December of the previous year and May and September of the current year, as well as SPEI in June of the previous year and March of the current year based on the comparing the response variations before and after the abrupt temperature changes and moving correlation function. 3) The basal area increment (BAI) of Qinghai spruce showed a significant downward trend, and that of Chinese pine showed a significant upward trend, which indicated the Qinghai spruce with shade-tolerant and shallow-roots was more severely restricted by climate warming and water stress. Therefore, we must pay more attention to the shade-tolerant and shallow-roots forest ecosystem and strengthen management and protection.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989420309811"
+  },
+  {
+    "title": "Downscaling ESA CCI Soil Moisture Based on Soil and Vegetation Component Temperatures Derived From MODIS Data",
+    "authors": [
+      "Chengyun Song,",
+      "Guangcheng Hu,",
+      "Yanli Wang,",
+      "Xueshan Qu"
+    ],
+    "doi": "https://doi.org/10.1109/JSTARS.2022.3155463",
+    "journalVolume": "Vol. 15\n                                \n                                \n                                  pp.\n                                  2175\n                                  – 2184",
+    "issn": "1939-1404 (Print)",
+    "publisher": "2151-1535 (Online)",
+    "countryOfPublisher": "IEEE",
+    "lcc": [
+      "United States",
+      "Technology: Ocean engineering",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443",
+    "abstract": "The European Space Agency's Climate Change Initiative (ESA CCI) soil moisture could provide long-time microwave-retrieved soil moisture data but is limited to regional applications due to the low resolution (25 km). A new method of downscaling ESA CCI soil moisture to 1 km is presented in this study. First, the soil and vegetation component temperatures (SVCT) were estimated using MODIS land surface temperature and normalized difference vegetation index (NDVI) data. Following this, the relationship between ESA CCI soil moisture and 1-km SVCT was constructed based on the negative linear relationship between the temperature vegetation dryness index (TVDI) and soil moisture. The dry and wet lines used to estimate TVDI need not to be obtained in the method. The coefficients were obtained directly from 25-km ESA CCI soil moisture and 1-km SVCT by the upscaling algorithm of soil moisture. The method was applied to the Naqu area on the Tibetan Plateau. Downscaled soil moisture was validated with ground measurements collected at five sites within the soil moisture/temperature monitoring network on the central Tibetan Plateau from May to October 2014. The results show that the trend of the time series of the downscaled soil moisture is similar to the ground measurements during this period, and the root-mean-square error is 0.0568 m3/m3. The method is suitable for the condition with an NDVI higher than 0.4. The key points of the approach are to obtain SVCT and the relationship between soil moisture and SVCT.",
+    "readLink": "https://ieeexplore.ieee.org/document/9723620/"
+  }
+]

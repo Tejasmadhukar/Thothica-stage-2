@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Short-Term Weather Forecasting Using Spatial Feature Attention Based LSTM Model",
+    "authors": [
+      "Masooma Ali Raza Suleman,",
+      "S. Shridevi"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2022.3196381",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  82456\n                                  – 82468",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "Weather prediction and meteorological analysis contribute significantly towards sustainable development to reduce the damage from extreme events which could otherwise set-back the progress in development by years. The change in surface temperature is one of the important indicators in detecting climate change. In this research, we propose a novel deep learning model named Spatial Feature Attention Long Short-Term Memory (SFA-LSTM) model to capture accurate spatial and temporal relations of multiple meteorological features to forecast temperature. Significant spatial feature and temporal interpretations of historical data aligned directly to output feature helps the model to forecast data accurately. The spatial feature attention captures mutual influence of input features on the target feature. The model is built using encoder-decoder architecture, where the temporal dependencies in data are learnt using LSTM layers in the encoder phase and spatial feature relations in the decoder phase. SFA-LSTM forecasts temperature by simultaneously learning most important time steps and weather variables. When compared with baseline models, SFA-LSTM maintains the state-of the-art prediction accuracy while offering the benefit of appropriate spatial feature interpretability. The learned spatial feature attention weights are validated from magnitude of correlation with target feature obtained from the dataset.",
+    "readLink": "https://ieeexplore.ieee.org/document/9849651/"
+  },
+  {
+    "title": "Challenges and Opportunities for Cover Crop Mediated Soil Water Use Efficiency Enhancements in Temperate Rain-Fed Cropping Systems: A Review",
+    "authors": [
+      "Eric Britt Moore"
+    ],
+    "doi": "https://doi.org/10.3390/land12050988",
+    "journalVolume": "Vol. 12,\n                                no. 988\n                                \n                                  p.\n                                  988",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Soils are at the nexus of the atmospheric, geological, and hydrologic cycles, providing invaluable ecosystem services associated with water provision. The immeasurably vital role of water provision is of urgent concern given the intertwined and interdependent challenges of growing human populations, increased agricultural demands, climate change, and freshwater scarcity. Adapting temperate rain-fed cropping systems to meet the challenges of the 21st century will require considerable advancements in our understanding of the interdependent biophysical processes governing carbon and soil-water dynamics. Soil carbon and water are inextricably linked, and agricultural management practices must take this complexity into account if crop productivity is to be maintained and improved. Given the widespread, intensive use of agricultural soils worldwide, it stands to reason that readily adaptable crop management practices can and must play a central role in both soil carbon and water management. This review details challenges and opportunities for utilizing cover crop management to enhance soil carbon stocks and soil water use efficiency in rain-fed cropping systems. A review of the current body of knowledge shows that cover crops can play a more prominent role in soil carbon and water management; however, the more widespread use of cover crops may be hindered by the inconsistencies of experimental data demonstrating cover crop effects on soil water retention, as well as cover crop effect inconsistencies arising from complex interactions between soil carbon, water, and land management. Although these gaps in our collective knowledge are not insignificant, they do present substantial opportunities for further research at both mechanistic and landscape-system scales.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/5/988"
+  },
+  {
+    "title": "A Portable Quantum Cascade Laser Spectrometer for Atmospheric Measurements of Carbon Monoxide",
+    "authors": [
+      "Silvia Viciani,",
+      "Alessio Montori,",
+      "Antonio Chiarugi,",
+      "Francesco D’Amato"
+    ],
+    "doi": "https://doi.org/10.3390/s18072380",
+    "journalVolume": "Vol. 18,\n                                no. 7\n                                \n                                  p.\n                                  2380",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Trace gas concentration measurements in the stratosphere and troposphere are critically required as inputs to constrain climate models. For this purpose, measurement campaigns on stratospheric aircraft and balloons are being carried out all over the world, each one involving sensors which are tailored for the specific gas and environmental conditions. This paper describes an automated, portable, mid-infrared quantum cascade laser spectrometer, for in situ carbon monoxide mixing ratio measurements in the stratosphere and troposphere. The instrument was designed to be versatile, suitable for easy installation on different platforms and capable of operating completely unattended, without the presence of an operator, not only during one flight but for the whole period of a campaign. The spectrometer features a small size (80 × 25 × 41 cm3), light weight (23 kg) and low power consumption (85 W typical), without being pressurized and without the need of calibration on the ground or during in-flight operation. The device was tested in the laboratory and in-field during a research campaign carried out in Nepal in summer 2017, onboard the stratospheric aircraft M55 Geophysica. The instrument worked extremely well, without external maintenance during all flights, proving an in-flight sensitivity of 1–2 ppbV with a time resolution of 1 s.",
+    "readLink": "http://www.mdpi.com/1424-8220/18/7/2380"
+  },
+  {
+    "title": "Effects of Payment for Environmental Services (PES) on Deforestation and Poverty in Low and Middle Income Countries: A Systematic Review",
+    "authors": [
+      "Cyrus Samii,",
+      "Matthew Lisiecki,",
+      "Parashar Kulkarni,",
+      "Laura Paler,",
+      "Larry Chavis,",
+      "Birte Snilstveit,",
+      "Martina Vojtkova,",
+      "Emma Gallagher"
+    ],
+    "doi": "https://doi.org/10.4073/csr.2014.11",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 95",
+    "issn": "1891-1803 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Social Sciences"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/18911803",
+    "abstract": "This Campbell systematic review examines the effects of payment for environmental services (PES) programmes on deforestation and poverty, and whether environmental and poverty reduction goals conflict with one another. The review summarizes evidence from 11 studies covering six PES programmes in four countries. The modest effectiveness of PES programmes means that they are not cost‐effective. Relative to the extensive investment to measure forest conditions, efforts to assess the effects of PES programmes on deforestation and poverty are limited and methodologically weak. Abstract We conducted a systematic review of studies on the impact of payments for environmental services (PES) that set natural forest conservation as the goal on deforestation and poverty in developing countries. The review is motivated by debates over whether the pursuits of conservation and poverty reduction in developing countries tend to conflict or whether they might be complementary. A search for rigorous impact evaluation studies identified eleven quantitative and nine associated qualitative evaluation studies assessing the effects of PES. The methodological rigor of these studies varied widely, meaning that the evidence base for the impact of PES policies is limited in both quantity and quality. Given the evidence available, we find little reason for optimism about the potential for current PES approaches to achieve both conservation and poverty reduction benefits jointly. We call for the production of high quality impact evaluations, using randomisation when possible, to assess whether the apparent incompatibility of conservation and poverty reduction might be overcome through programming innovations. Executive summary BACKGROUND Natural forest preservation in the tropics, and thus in developing countries, must be an element of any effective effort to manage climate change. Forests serve as natural carbon sinks, which help to mitigate the effect of other carbon emissions. However, forest cover is being reduced and it is estimated that deforestation is responsible for 10‐17 per cent of global carbon emissions. Since 2007, governments have coordinated conservation efforts under the Reducing Emissions through Deforestation and Forest Degradation (REDD+) initiative, which has led to the implementation of various programs designed to reduce the amount of forested land converted to other purposes. Payment for environmental services (PES) programs is one type of intervention commonly implemented under the REDD+ umbrella. PES programs allow for direct exchange between those demanding ‘environmental services’ such as protection or rehabilitation of natural forests and those in a position to provide them locally. While the primary goal of reducing deforestation is clear, the policy and academic literature debates the extent to which PES programs in developing countries should incorporate goals of poverty reduction. Some argue that the targeting of poverty goals will undermine conservation effectiveness (e.g., because behavioural change among poorer households does not have as much potential to promote conservation as that of wealthier households or commercial entities). Others argue that targeting benefits toward the poor would contribute to conservation effectiveness by either promoting sustainable livelihoods or helping to legitimize conservation programming. In this review, we assess the effects of PES programs on deforestation and welfare outcomes in low and middle income countries (LMICs), and whether the twin goals of improving both environmental and human welfare outcomes are at odds with each other. We also examine how inequality, institutional capacity, corruption, and democratic accountability may moderate the effects of PES programs. Conducting this review is important for moving the debate around PES beyond theoretical discussions and into a better‐informed, evidence‐based discussion. OBJECTIVES The first objective of this review is to assess the evidence on the effects of PES interventions on conservation and poverty outcomes in LMICs. A second objective is to assess the extent to which effects on poverty in turn affect whether conservation benefits are realized. The third objective is to evaluate how institutional and social conditions (namely, inequality, institutional capacity, corruption, and democratic accountability) moderate the effects of PES programs. SELECTION CRITERIA The review includes studies of PES programs that assess effects on either (i) deforestation outcomes in forest areas in developing countries or (ii) poverty conditions of populations residing in communities that are proximate to natural growth forest areas in developing countries. We included studies using a range of measures for both deforestation (on‐the‐ground point samples, samples created from satellite imagery) and welfare (consumption, income, or income potential). We required that PES programs have a clear start date when either payments or rewards are themselves offered to individual or corporate property holders to maintain or rehabilitate (for example, via planting endemic species) natural forests, or institutions are established to facilitate such offers. For quantitative synthesis we included (a) randomized studies and (b) quasi‐experimental studies that employ strategies for causal identification with clearly delineate treated and control areas and use some method for removing biases due to non‐random assignment of the intervention. Qualitative data are used in the synthesis to provide descriptions and context for interventions that are included in the quantitative synthesis. Such data were drawn from the quantitative studies themselves as well as qualitative studies that cover the same programs or settings as the quantitative studies. SEARCH STRATEGY To find the articles included in this review, we searched a variety of databases using key words related to PES programs. The set of databases and list of keywords were assembled based on consultation with a Campbell Collaboration information retrieval specialist. We also carried out hand searches of key journals in relevant fields, using publisher search engines and references cited in papers accepted for review as well as in review papers or thematically relevant papers identified during the search. DATA COLLECTION AND ANALYSIS For studies eligible for inclusion in the review we systematically collected data on study characteristics, findings, and moderators. Risk of bias was assessed based on the guidance of the IDCG Risk of Bias Tool (version March 2012). We extracted qualitative information from both the included quantitative studies as well as qualitative studies that covered the same types of programs and contexts as our quantitative studies. We use such qualitative data to establish that conditions recorded in quantitative data are being interpreted correctly and to provide descriptions and context for interventions that are included in the quantitative synthesis. For effects on forest cover, whenever possible we standardized them to annual forest cover change rates. For effects on material welfare and poverty outcomes, we used percentage change over estimated average counterfactual outcome (e.g. for income effects, per cent change in income relative to the average income of the control group). For each hypothesis, we synthesised estimates using meta‐analysis when the following conditions were met: (i) more than two studies meeting the quantitative inclusion criteria; (ii) effect sizes for common outcome constructs; and (iii) effects measured against similar comparators. RESULTS Our database search returned 1382 articles on PES programs. After eliminating articles that were not relevant to our hypotheses or conducted with appropriate methodological rigor, we were left with 20 articles on PES programs. Of these 11 PES articles conducted quantitative impact evaluation of these programs. The 11 PES articles cover six programs in four countries (Costa Rica, China, Mexico, and Mozambique). The resulting evidence base is weak both in terms of the number of eligible studies and the methodological weaknesses of the included studies. None of the studies are based on randomized experiments, and so the potential for hidden selection or confounding biases is the most concerning issue. Few of the studies create comparison groups that allow them to address spill‐over and leakage of effects from program areas to non‐program areas. None of the studies investigated forest conservation and welfare effects jointly, which made it difficult to assess how these two goals are related. Effects on Deforestation Outcomes The PES studies that assessed programs' effects on forest cover included nine studies of four programs in Costa Rica and Mexico. The studies focused on two types of measures: impact on deforestation rate (where the best‐case scenario is a deforestation rate of 0) and impact on forest cover (which allow for a positive outcome in the expansion of forested land). Keeping in mind the weakness of the evidence base, the studies that focus solely on reducing deforestation suggest that PES programs have, on average, tended to reduce the annual rate of deforestation by 0.21 percentage points (s.e.=0.09, 95% CI: [0.03, 0.39]). Effect sizes are a bit larger for studies that examine forest cover change, which measures not only forest loss, but also forest gain. Estimated effects on annual forest cover change rates ranged from 0.50 percentage points (s.e.=0.20, 95% CI: [0.11, 0.89]) for a study in Costa Rica to 1.6 percentage points (s.e.=0.80, 95% CI: [0.03, 3.17]) for a study in Mexico. One study suggests an outlier effect of 10 percentage points (no standard error or confidence interval provided in the original study), but this study suffers from a high risk of bias. Effects on Human Welfare Outcomes The evidence base on the effects of PES on welfare outcomes is very limited, with only two studies in two countries (China and Mozambique) included in the review. These studies find that PES improved participating households' incomes by 4 per cent (s.e.=1.55, 95% CI: [0.96, 7.04]) in Mozambique and by 14 per cent (s.e.=3.42, 95% CI: [7.3, 20.7]) in China. However, these average effects do not necessarily tell us how these programs affect poor households. For PES to contribute to poverty reduction, poorer household must be able to participate at high rates. But participation in PES programs is typically more difficult for poor households than wealthier households (a fact documented by in a number of the studies included in the review). The study from Mozambique includes estimates for poor households and finds that the welfare effects were substantially less in absolute terms, and not statistically significant for these households. The Role of Institutional and Social Conditions We aimed to address a number of hypotheses regarding the influence of institutional and social conditions (inequality, institutional capacity, corruption, and democratic accountability) on the effects of PES programs. However, due to limitations of the evidence base we were unable to these hypotheses. We did however extract qualitative data from included studies and associated qualitative studies that provide some insights into the role of institutional and social conditions in the context of PES programs. A study on the Mexican PSAH PES program found that forest conservation effects were worse in poorer areas. Qualitative information from Costa Rica was consistent with this account. Several of the studies also addressed the issue of institutional capacity, describing situations where PES programs did not have the ability to carry out their mandates. Corruption and possible misappropriation of project resources were also factors raised in a qualitative study of PES in Mexico. The study found that program resources were applied to address inadequacies in other government programs. AUTHORS' CONCLUSIONS Limitations in the evidence base preclude definitive hypothesis tests, however the evidence we find suggests that PES does reduce deforestation rates. The effect is modest however and seems to come with high levels of inefficiency. In terms of PES effects on poverty, we cannot say that the evidence indicates beneficial effects. Available evidence shows that PES programs are less effective in poor areas and are less likely to attract participation of poor households than wealthier ones. These are troubling findings but they are based on only a handful of cases and therefore deserve much more empirical attention. Our review aimed to assess the extent to which environmental and poverty reduction goals conflict with one another, how different conservation strategies fare in terms of such trade‐offs, and the scope for ‘win‐win’ strategies that generate both significant environmental and poverty reduction benefits. Based on the evidence available, we do not find that a case can be made for conservation and poverty‐reduction goals being complementary in PES programming. Our final conclusion re‐emphasizes the poor state of the evidence base for PES programming. Much advanced scientific effort and extensive investment has gone into measuring forest conditions around the world. Relative to that, efforts to assess the effects of PES programs on deforestation and poverty are limited and methodologically weak. Researchers should consider the recent work in development economics for guidance on executing field experiments that might provide more credible evidence (Banerjee and Duflo, 2011; Casey et al., 2012; Karlan and Appel, 2012).",
+    "readLink": "https://doi.org/10.4073/csr.2014.11"
+  },
+  {
+    "title": "EFECTOS DE UN INUSUAL PERÍODO DE ALTA FRECUENCIA DE HURACANES SOBRE EL BENTOS DE ARRECIFES CORALINOS",
+    "authors": [
+      "Pedro M. Alcolado,",
+      "Darlenys Hernández-Muñoz,",
+      "Hansel Caballero,",
+      "Linnet Busutil,",
+      "Susana Perera,",
+      "Gema Hidalgo"
+    ],
+    "doi": "Vol. 1,\n                                no. 0\n                                \n                                  pp.\n                                  73\n                                  – 93",
+    "issn": "1659-455X (Print)",
+    "publisher": "1659-407X (Online)",
+    "countryOfPublisher": "Universidad Nacional, Costa Rica",
+    "lcc": [
+      "Costa Rica",
+      "Agriculture: Aquaculture. Fisheries. Angling",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.revistas.una.ac.cr/index.php/revmar/index",
+    "abstract": "En arrecifes coralinos del suroeste de Cuba, se evaluaron los impactos de la inusitada frecuencia e intensidad de huracanes entre el 2001 y el 2007, y de las enfermedades de corales, ambos factores asociados al cambio climático. En las crestas arrecifales, la reducción de la cobertura de coral duro vivo varió de nula a 21%, mientras que la reducción del diámetro máximo promedio de los corales varió de 16 a 40 cm. En los arrecifes frontales, la reducción de la cobertura de coral varió de nula a 14%, mientras que la reducción del diámetro máximo promedio varió de nula a 26 cm. Sin embargo, en todos los sitios se observaron grandes cambios en el predominio numérico de las especies. En las crestas, este se desplazó de Acropora palmata y otros corales duros hacia Millepora complanata, Porites astreoides o Acropora prolifera. En los arrecifes frontales, el cambio ocurrió de la dominancia de Montastraea annularis (complejo de especies), Diploria strigosa y Agaricia agaricites a la de P. astreoides o Siderastrea siderea. Con esos cambios, las crestas están perdiendo efectividad como refugios y como disipadoras del oleaje, a causa de la reducción de complejidad estructural. La densidad del erizo Diadema antillarum se mantuvo insignificante y sin cambio en el sur del Golfo de Batabanó, mientras que se incrementó de manera importante en la cresta de Faro Cazones. Los porcentajes de mortalidad reciente y de incidencia de enfermedades de corales se mantuvieron bajos, lo que sugiere una influencia dominante de los huracanes en la condición de los arrecifes coralinos evaluados. In coral reefs of southwestern Cuba, we assessed the impacts from unprecedented frequent and intense hurricanes during the period 2001-2007, and from coral diseases, which are both factors considered to be associated with climate change.. At the reef crests, live hard coral cover reduction varied from null to 21%, while maximum average coral diameter reduction varied from 16 to 40 cm. In the fore-reefs, the reduction of coral cover varied from null to 14%, while diameter reduction varied from null to 26 cm. However, at all sites, great shifts in species dominance patterns were observed. In reef crests, numerical dominance of Acropora palmata and other hard corals shifted towards increases of Millepora complanata or, to a lesser extent, of Porites astreoides or Acropora prolifera. At the fore-reefs, the shifts occurred from the dominance of Montastraea annularis complex, Diploria strigosa and Agaricia agaricites, towards combined increases of P. astreoides or Siderastrea siderea. With those ongoing changes, reef crests are losing effectiveness as refuges and wave dissipators because of reduction of structural complexity. The population density of the sea-urchin Diadema antillarum remained negligible and unchanged in the southern Gulf of Batabanó, while it increased significantly at the Faro Cazones reef crest. Percentages of recent mortality and percentages of disease incidence in corals remained low, suggesting a dominant influence from hurricanes on assessed coral reef decline.",
+    "readLink": "http://www.revistas.una.ac.cr/index.php/revmar/article/view/169"
+  },
+  {
+    "title": "How representative are FLUXNET measurements of surface fluxes during temperature extremes?",
+    "authors": [
+      "S. V. J. van der Horst,",
+      "A. J. Pitman,",
+      "M. G. De Kauwe,",
+      "A. Ukkola,",
+      "G. Abramowitz,",
+      "P. Isaac"
+    ],
+    "doi": "https://doi.org/10.5194/bg-16-1829-2019",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  1829\n                                  – 1844",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "In response to a warming climate, temperature extremes are changing in many regions of the world. Therefore, understanding how the fluxes of sensible heat, latent heat and net ecosystem exchange respond and contribute to these changes is important. We examined 216 sites from the open access Tier 1 FLUXNET2015 and free fair-use La Thuile data sets, focussing only on observed (non-gap-filled) data periods. We examined the availability of sensible heat, latent heat and net ecosystem exchange observations coincident in time with measured temperature for all temperatures, and separately for the upper and lower tail of the temperature distribution, and expressed this availability as a measurement ratio. We showed that the measurement ratios for both sensible and latent heat fluxes are generally lower (0.79 and 0.73 respectively) than for temperature measurements, and the measurement ratio of net ecosystem exchange measurements are appreciably lower (0.42). However, sites do exist with a high proportion of measured sensible and latent heat fluxes, mostly over the United States, Europe and Australia. Few sites have a high proportion of measured fluxes at the lower tail of the temperature distribution over very cold regions (e.g. Alaska, Russia) or at the upper tail in many warm regions (e.g. Central America and the majority of the Mediterranean region), and many of the world's coldest and hottest regions are not represented in the freely available FLUXNET data at all (e.g. India, the Gulf States, Greenland and Antarctica). However, some sites do provide measured fluxes at extreme temperatures, suggesting an opportunity for the FLUXNET community to share strategies to increase measurement availability at the tails of the temperature distribution. We also highlight a wide discrepancy between the measurement ratios across FLUXNET sites that is not related to the actual temperature or rainfall regimes at the site, which we cannot explain. Our analysis provides guidance to help select eddy covariance sites for researchers interested in understanding and/or modelling responses to temperature extremes.",
+    "readLink": "https://www.biogeosciences.net/16/1829/2019/bg-16-1829-2019.pdf"
+  },
+  {
+    "title": "Temporal variation of pesticide mixtures in rivers of three agricultural watersheds during a major drought in the Western Cape, South Africa",
+    "authors": [
+      "Lou Curchod,",
+      "Christelle Oltramare,",
+      "Marion Junghans,",
+      "Christian Stamm,",
+      "Mohamed Aqiel Dalvie,",
+      "Martin Röösli,",
+      "Samuel Fuhrimann"
+    ],
+    "doi": "Vol. 6",
+    "issn": "2589-9147 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/water-research-x/",
+    "abstract": "South Africa is the leading pesticide user in Sub-Saharan Africa. However, little is known about the occurrence of pesticide mixtures in surface water and potential environmental risks in Africa.This study investigated the occurrence of pesticides mixtures in three watersheds during a drought year in South Africa. The study was conducted in the Krom River, Berg River and Hex River watersheds within larger agriculture systems in the Western Cape. Pesticide spray records were collected from 38 farms. A total of 21 passive water samplers (styrenedivinylbenzene disks (SDB)) were deployed, each for two weeks per month, over seven sampling rounds during the main pesticide application period between July 2017 and January 2018. Samples were analyzed for 248 pesticide compounds using LC-HR-MS/MS. Pesticide occurrence was analyzed for temporal agreement with pesticide spraying events (Cohen’s κ) and correlation with rainfall patterns and river discharge (Pearson correlation (rp)). Pesticide time-weighted average concentrations were estimated and compared to environmental quality standards (EQS). According to the farm spray records, 96 different pesticides were sprayed during the sampling period and differed considerably between the three study areas, seasons and crops grown. In total, 53 compounds were detected in river water. We detected 39% of compounds from the spraying records and demonstrated close temporal correlations of seasonal patterns for 11 pesticide compounds between reported on spraying records and observations in the streams (κ = 0.90). However, 23 detected pesticides were not found on spray records, many of them being herbicides. Most of the estimated two-week average pesticide concentrations were below 40 ng/L. The insecticides imidacloprid, thiacloprid, chlorpyrifos and acetamiprid and the herbicide terbuthylazine exceeded at least once their EQS 58-fold (EQS 13 ng/L), 12-fold (EQS 10 ng/L), 9-fold (EQS 0.46 ng/L), 5-fold (EQS 24 ng/L) and 3-fold (EQS 220 ng/L), respectively. Our study substantially widens the view on pesticide pollution in surface water compared to previous studies in Sub-Saharan Africa by targeting more than 200 pesticides using passive sampling systems. This broad assessment revealed the presence of 53 compounds, some of them in high concentrations, indicating possible adverse effects on biota and the quality of the ecosystem. Whether the observed concentration levels in the year 2017 were exceptional due to the lowest ever recorded rainfall and river discharge needs to be tested with additional data to better understand how pesticide pollution levels manifest under average rainfall and river discharge conditions. Keywords: Climate change, Drought, Passive water sampling, Pesticide, Surface water, Sustainable development goal 6",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2589914719300751"
+  },
+  {
+    "title": "Defining interpretative communities towards climate change: Examining growers of common bean in Latin America",
+    "authors": [
+      "Andrew P. Barnes,",
+      "Hernan Botero,",
+      "Lisset Pérez,",
+      "David Ríos-Segura,",
+      "Julian Ramirez-Villegas"
+    ],
+    "doi": "https://doi.org/10.1080/14735903.2021.1936419",
+    "journalVolume": "Vol. 20,\n                                no. 4\n                                \n                                  pp.\n                                  408\n                                  – 422",
+    "issn": "1473-5903 (Print)",
+    "publisher": "1747-762X (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Agriculture"
+    ],
+    "journalUrl": "https://www.tandfonline.com/tags",
+    "abstract": "The common bean (Phaseolus vulgaris L.) provides numerous benefits for the rural poor. Heat tolerant varieties require rapid adoption of new seeds to replace traditional varieties. However, a number of institutional and household factors, predominantly lack of extension and information, has led to low uptake despite decades of intervention. We focus on growers in Colombia and apply a bespoke questionnaire to 566 households to understand their awareness, experiences and concern towards climatic change. We classify these into four groups of 'interpretive communities'. Whilst there is a small portion of the sample who claim to be unaffected and unconcerned towards climate change, the remainder identify varying degrees of experience with climatic events. However, this does not directly translate into similar levels of concern towards the future impact of climate change. A multinomial logistic regression finds that concern is driven by a number of factors, but is highest in those farmers who specialize their production. Altitude and distance to markets also appear to have some effect in shaping perceptions of our classes. We conclude that consideration of these interpretative communities offers more information to frame messages and focusing of effort on those cohorts would lead to more likelihood of change.",
+    "readLink": "http://dx.doi.org/10.1080/14735903.2021.1936419"
+  },
+  {
+    "title": "Possible Relationships between the Interdecadal Anomalies of Heavy Rainfall under Northeastern China Cold Vortexes and the Sea Surface Temperature (SST)",
+    "authors": [
+      "Dan Zhu,",
+      "Xiefei Zhi,",
+      "Zin Mie Mie Sein,",
+      "Yan Ji,",
+      "Xiao Tian,",
+      "Mengting Pan"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13020354",
+    "journalVolume": "Vol. 13,\n                                no. 354\n                                \n                                  p.\n                                  354",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "As an important component of the East Asian monsoon system, the northeast cold vortex (NECV) exerts a significant impact on weather and climate, especially in Northeast China. This study investigated the interdecadal spatiotemporal variability of heavy rainfall under the cold vortex of Northeast China (NECVHR) and its relationship with sea surface temperature (SST) during 1961–2019 over Northeast China. To investigate the dominant factors affecting variability in the heavy rainfall between May and September, an empirical orthogonal function (EOF) analysis was performed. To detect the trends and changes, a Mann-Kendall (MK) test was used. The sliding t-test was used to identify the change points and the significance. Pearson correlation analysis was used to analyze the relationship between SST and NECVHR, and the t-test was used to verify the significance. The results showed that the total amount of cold vortex heavy rainfall during May–September ranged from 153 to 12,509 mm for 1961–2019. An abrupt interdecadal change was seen after 2014 in Northeast China. The EOF analyses revealed that the first, second, and third EOFs explain 76%, 12.1%, and 5.5% of the total variance, respectively. The EOF followed the heavy rainfall pattern, with increases in the south (southeast) and decreases in the north (northwest) over Northeast China. Heavy rainfall over Northeast China positively correlated with the Atlantic multidecadal oscillation (AMO) index. The heavier rainfall under cold vortex (MCVHR) years revealed that the equipotential height was obviously located over the Sea of Japan, west of Northeast China and the Qinghai Tibet plateau. The cyclonic circulation over the East China Sea and north (northeasterly) wind prevails over Northeast China during less heavy rainfall under cold vortex (LCVHR) years. A high anticyclonic circulation over the Qinghai Tibet plateau resulted in stronger cold advection over Northeast China. The anticyclonic circulations over the East China Sea and the Sea of Japan (east), and the western (southwesterly) winds prevail over Northeast China, with a relatively shallow cold trough over the Qinghai Tibet plateau. The findings in this paper provided a better understanding of the interdecadal variability of NECVHR over Northeast China. The findings can be helpful for several stakeholders regarding agricultural production, water resource management, and natural habitat conversation in Northeast China.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/2/354"
+  },
+  {
+    "title": "A TRANSITIVITY ANALYSIS OF GRETA THUNBERG’S 2019 CLIMATE ACTION SUMMIT SPEECH",
+    "authors": [
+      "Ardelia Karisa,",
+      "Stefanny Lauwren"
+    ],
+    "doi": "https://doi.org/10.22219/celtic.v7i2.14290",
+    "journalVolume": "Vol. 7,\n                                no. 2\n                                \n                                  pp.\n                                  191\n                                  – 198",
+    "issn": "2356-0401 (Print)",
+    "publisher": "2621-9158 (Online)",
+    "countryOfPublisher": "University of Muhammadiyah Malang",
+    "lcc": [
+      "Indonesia",
+      "Language and Literature: English language"
+    ],
+    "journalUrl": "https://ejournal.umm.ac.id/index.php/celtic",
+    "abstract": "Climate change has been one of the most significant concerns for the United Nations. As a result, the United Nations held a summit in 2019, inviting several notable speakers in the field. One of them is a young teenager from Swedish, Greta Thunberg. Greta Thunberg is a prominent climate activist who delivered a speech at the United Nations Climate Action Summit 2019, which is about how people and the government need to limit global warming. Her address became viral and garnered attention from many media, and roused a massive youth-led climate rally. Thus, this study analyzed her speech as the object of the study and employed a descriptive qualitative method. The study scrutinized 54 clauses through transitivity analysis from Hallidayan Systemic Functional Grammar (SFG) to understand the processes in the address and its function. This current study has revealed that the speaker’s dominantly used material process (37%) to describe the damage to the environment done by people. The use of relational process (31.5%) describes climate change's effects on the world and her life. The mental process used in 16.7% of the data provokes guilt and responsibility, as she pointed the audience as the actors that cause climate change. The behavioural process (7.4%) shows that Thunberg will not stay quiet on climate crisis when her generation is the one who will suffer from it. Existential process (3.7%) is used to describe the existing problems, while verbal process (3.7%) is used in quoting the high-profile politician to prove that none of their promises have been fulfilled.",
+    "readLink": "https://ejournal.umm.ac.id/index.php/celtic/article/view/14290/pdf_1"
+  }
+]

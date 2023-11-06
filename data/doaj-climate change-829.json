@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Impact of Future Climate Change on Regional Crop Water Requirement—A Case Study of Hetao Irrigation District, China",
+    "authors": [
+      "Tianwa Zhou,",
+      "Pute Wu,",
+      "Shikun Sun,",
+      "Xiaolei Li,",
+      "Yubao Wang,",
+      "Xiaobo Luan"
+    ],
+    "doi": "https://doi.org/10.3390/w9060429",
+    "journalVolume": "Vol. 9,\n                                no. 6\n                                \n                                  p.\n                                  429",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Water shortage is a limiting factor for agricultural production in China, and climate change will affect agricultural water use. Studying the effects of climate change on crop irrigation requirement (CIR) would help to tackle climate change, from both food security and sustainable water resource use perspectives. This paper applied SDSM (Statistical DownScaling Model) to simulate future meteorological parameters in the Hetao irrigation district (HID) in the time periods 2041–2070 and 2071–2099, and used the Penman–Monteith equation to calculate reference crop evapotranspiration (ET0), which was further used to calculate crop evapotranspiration (ETc) and crop water requirement (CWR). CWR and predicted future precipitation were used to calculate CIR. The results show that the climate in the HID will become warmer and wetter; ET0 would would increase by 4% to 7%; ETc and CWR have the same trend as ET0, but different crops have different increase rates. CIR would increase because of the coefficient of the increase of CWR and the decrease of effective precipitation. Based on the current growing area, the CIR would increase by 198 × 106 to 242 × 106 m3 by the year 2041–2070, and by 342 × 106 to 456 × 106 m3 by the years 2071–2099 respectively. Future climate change will bring greater challenges to regional agricultural water use.",
+    "readLink": "http://www.mdpi.com/2073-4441/9/6/429"
+  },
+  {
+    "title": "Configuration and intercomparison of deep learning neural models for statistical downscaling",
+    "authors": [
+      "J. Baño-Medina,",
+      "R. Manzanas,",
+      "J. M. Gutiérrez"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-13-2109-2020",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  2109\n                                  – 2124",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Deep learning techniques (in particular convolutional neural networks, CNNs) have recently emerged as a promising approach for statistical downscaling due to their ability to learn spatial features from huge spatiotemporal datasets. However, existing studies are based on complex models, applied to particular case studies and using simple validation frameworks, which makes a proper assessment of the (possible) added value offered by these techniques difficult. As a result, these models are usually seen as black boxes, generating distrust among the climate community, particularly in climate change applications. In this paper we undertake a comprehensive assessment of deep learning techniques for continental-scale statistical downscaling, building on the VALUE validation framework. In particular, different CNN models of increasing complexity are applied to downscale temperature and precipitation over Europe, comparing them with a few standard benchmark methods from VALUE (linear and generalized linear models) which have been traditionally used for this purpose. Besides analyzing the adequacy of different components and topologies, we also focus on their extrapolation capability, a critical point for their potential application in climate change studies. To do this, we use a warm test period as a surrogate for possible future climate conditions. Our results show that, while the added value of CNNs is mostly limited to the reproduction of extremes for temperature, these techniques do outperform the classic ones in the case of precipitation for most aspects considered. This overall good performance, together with the fact that they can be suitably applied to large regions (e.g., continents) without worrying about the spatial features being considered as predictors, can foster the use of statistical approaches in international initiatives such as Coordinated Regional Climate Downscaling Experiment (CORDEX).",
+    "readLink": "https://www.geosci-model-dev.net/13/2109/2020/gmd-13-2109-2020.pdf"
+  },
+  {
+    "title": "The Effect of Heat Treatments and Drip Line Placements on The Yield and Quality of Garlic",
+    "authors": [
+      "Alina Djanie,",
+      "Stephen Harper,",
+      "Robyn Cave"
+    ],
+    "doi": "https://doi.org/10.3390/proceedings2019036120",
+    "journalVolume": "Vol. 36,\n                                no. 1\n                                \n                                  p.\n                                  120",
+    "issn": "2504-3900 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "General Works"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/proceedings",
+    "abstract": "Despite garlic being a crop with significant economic value, the plant has severe productivity constraints and challenges that contribute to low yield and quality. One of the main difficulties in garlic production is Fusarium basal rot (FBR) caused by Fusarium oxysporum formae speciales cepae (FOC). The soil-borne fungus infects the roots and basal plates of alliums causing delayed emergence and bulb rot at pre- and postharvest stages. The incidence of the pathogen is increasing and is expected to increase further due to growth being promoted under warmer temperatures associated with climate change. Management of the pathogen is difficult because it produces chlamydospores that can survive for years in the soil. Potential practices for reducing FBR in garlic are hot water or dry heat treatments applied to cloves at 50 °C or 45 °C, respectively, for 30 min prior to planting, and controlling irrigation using single or double drip line placement for 1.5 m wide beds with two rows of garlic. The current study investigated the impact of controlled irrigation on FBR prevalence. These chemical-free practices are relatively easy to apply and could be effective for managing FBR in conventional and organic grown garlic.",
+    "readLink": "https://www.mdpi.com/2504-3900/36/1/120"
+  },
+  {
+    "title": "GOOD GOVERNANCE DALAM 5 KEBIJAKAN PRIORITAS DEPARTEMEN KEHUTANAN",
+    "authors": [
+      "Muhammad Zahrul Muttaqin"
+    ],
+    "doi": "Vol. 5,\n                                no. 1",
+    "issn": "0216-0897 (Print)",
+    "publisher": "2502-6267 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/",
+    "abstract": "Pengusahaan hutan alam Indonesia dalam skala besar dan laju konversi hutan yang tinggi telah menyebabkan permasalahan-permasalahan ekonomi, sosial dan lingkungan. Pemerintah, melalui departemen kehutanan telah menetapkan 5 (lima) kebijakan prioritas untuk menangani persoalan-persoalan di bidang kehutanan. Kelima kebijakan prioritas tersebut adalah : (1) Pemberantasan pencurian kayu dari hutan negara dan perdagangan kayu illegal; (2) Revitalisasi sektor kehutanan (khususnya industri kayu); (3) Rehabilitasi dan koservasi sumberdaya hutan; (4) Pemberdayaan ekonomi masyarakat sekitar hutan; dan (5) pemantapan kawasan hutan. Tulisan ini bertujuan untuk mengevaluasi apakah kebijakan-kebijakan prioritas tersebut telah dirumuskan dan dimplementasikan berdasarkan kaidah-kaidah good forest governance. Analisis kebijakan ini merupakan evaluasi kualitatif atas paket kebijakan prioritas Departemen Kehutanan dengan menyusun kriteria dan indikator kebijakan yang baik. Hasil analisis menunjukkan bahwa program-program yang dirancang oleh Departemen Kehutanan masih belum diperlengkapi dengan piranti pengawasan dan prosedur pelaporan yang baik. Lebih jauh lagi, program atau kebijakan nasional masih belum mampu mendayagunakan sumberdaya ilmiah, terutama teknologi sebagai justifikasi ataupun alat memperbesar peluang keberhasilan.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/article/view/356"
+  },
+  {
+    "title": "Drift-corrected Odin-OSIRIS ozone product: algorithm and updated stratospheric ozone trends",
+    "authors": [
+      "A. E. Bourassa,",
+      "C. Z. Roth,",
+      "D. J. Zawada,",
+      "L. A. Rieger,",
+      "C. A. McLinden,",
+      "D. A. Degenstein"
+    ],
+    "doi": "https://doi.org/10.5194/amt-11-489-2018",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  489\n                                  – 498",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "A small long-term drift in the Optical Spectrograph and Infrared Imager System (OSIRIS) stratospheric ozone product, manifested mostly since 2012, is quantified and attributed to a changing bias in the limb pointing knowledge of the instrument. A correction to this pointing drift using a predictable shape in the measured limb radiance profile is implemented and applied within the OSIRIS retrieval algorithm. This new data product, version 5.10, displays substantially better both long- and short-term agreement with Microwave Limb Sounder (MLS) ozone throughout the stratosphere due to the pointing correction. Previously reported stratospheric ozone trends over the time period 1984–2013, which were derived by merging the altitude–number density ozone profile measurements from the Stratospheric Aerosol and Gas Experiment (SAGE) II satellite instrument (1984–2005) and from OSIRIS (2002–2013), are recalculated using the new OSIRIS version 5.10 product and extended to 2017. These results still show statistically significant positive trends throughout the upper stratosphere since 1997, but at weaker levels that are more closely in line with estimates from other data records.",
+    "readLink": "https://www.atmos-meas-tech.net/11/489/2018/amt-11-489-2018.pdf"
+  },
+  {
+    "title": "Responsible Design - an experiment in collaboration",
+    "authors": [
+      "Noel Brady,",
+      "Emma Geoghegan"
+    ],
+    "doi": "https://doi.org/10.21427/sqfx-pd03",
+    "journalVolume": "Vol. 10,\n                                no. 1",
+    "issn": "2009-7379 (Online)",
+    "publisher": "Technological University Dublin",
+    "countryOfPublisher": "Ireland",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Religions. Mythology. Rationalism: Philosophy of religion. Psychology of religion. Religion in relation to other subjects"
+    ],
+    "journalUrl": "https://arrow.tudublin.ie/ijrtp/",
+    "abstract": "The imminent impact of the climate change has forced architecture schools to rethink their pedagogic structures. Using a scaffolded approach in our new MArch studio, we can demonstrate that the multiple narratives are required to deliver a responsive building capable of being durable, resilient and flexible. We argue that understanding these intertwined narratives is an essential method in dealing with the dynamic character of a building under construction, in use and reuse. The paper plots the structured narrative in a necessary linear fashion, where each phase employs specific methods of enquiry to deliver quantitative data that supports evidenced design decisions. However measurement is not everything, because the student teams must find a way of balancing the objective with the qualitative. The studio remains an open looped learning paradigm where the students are encouraged to reflect on the processes to build for themselves a leadership and decision model for future practice. This is an iterative cyclical model where invention, crisis and paradigm shift are built in. Through learning histories (both shared and personal), through storytelling (Roth & Kleiner, 1998), the story of the MArch Collaborative Studio at TU Dublin is revealed.",
+    "readLink": "https://arrow.tudublin.ie/ijap/vol10/iss1/6"
+  },
+  {
+    "title": "Valuing Carbon Sequestration to Finance Afforestation Projects in China",
+    "authors": [
+      "Guolong Hou,",
+      "Claudio  O. Delang,",
+      "Xixi Lu,",
+      "Roland Olschewski"
+    ],
+    "doi": "https://doi.org/10.3390/f10090754",
+    "journalVolume": "Vol. 10,\n                                no. 9\n                                \n                                  p.\n                                  754",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Afforestation programs have huge potential to store carbon, thereby contributing to mitigate climate change. However, the voluntary acceptance by landowners crucially depends on their economic outcome. We (i) assess the carbon sequestration potential of afforestation projects in various Chinese regions by comparing different tree species, project durations and regional particularities, (ii) analyze the costs and benefits of tree species used for timber and fruit production as well as bamboo, and (iii) compare them with alternative crops under different climatic and economic conditions. Finally, we calculate the minimum compensation required by farmers to convert cropland to forests assuming a joint production of timber or fruits and carbon sequestration. No compensation is needed when cropland with relatively low revenues is to be converted. In contrast, compensation payments must be high for converting land used for cash crops, such as sugarcane. For fruit trees, the amount of carbon sequestered is low, but selling fruits and nuts is quite profitable. Consequently, in most cases there is no compensation needed. The minimum price per carbon credit decreases with increasing project duration because more carbon is stored per hectare, and in consequence, the required payments per credit are lower. This does not hold for fast-growing trees like eucalyptus and poplar, for which the minimum price increases with extended project duration. Bamboo shows a high carbon sequestration potential, and becomes economically more attractive by including carbon revenues. Carbon credits can often compensate the opportunity costs of alternative land uses, except for afforestation on highly productive cropland. We demonstrate that the economic attractiveness of afforestation projects is strongly context dependent and varies substantially across regions. The findings can contribute to the cost-efficient design of carbon sequestration projects. The methodology can be applied to other regions in the developing world.",
+    "readLink": "https://www.mdpi.com/1999-4907/10/9/754"
+  },
+  {
+    "title": "Ecophysiological variation of European hornbeams along the foliation period in semi-rural recreational forest landscape",
+    "authors": [
+      "Melih Öztürk,",
+      "Ercan Gökyer,",
+      "İbrahim Adnan Doğan"
+    ],
+    "doi": "https://doi.org/10.17099/jffiu.94437",
+    "journalVolume": "Vol. 66,\n                                no. 2\n                                \n                                  pp.\n                                  628\n                                  – 635",
+    "issn": "0535-8418 (Print)",
+    "publisher": "İstanbul University",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://dergipark.ulakbim.gov.tr/jffiu",
+    "abstract": "Determination of the ecophysiological characteristics of deciduous trees in the recreational areas allows construction of planning objectives particularly for the urban forests. Analysis of a multipurpose vegetation parameter; LAI (Leaf Area Index) together with some meteorological variables supplies to an extent the comprehension of those ecophysiological characteristics. Around this scope, the LAI dynamics of Carpinus betulus L. trees in a recreational area were monitored and analyzed along the foliation period of approximately three months. The mean LAI which was only 0.80 during the budburst stage gradually escalated reaching 1.49 after the flushing stage. The increment of the leaves in size and numbers led to the mean LAI achieve its climax with 3.41 in early May. Then, the mean LAI experienced a stable period until the end of May. The change in the mean LAI were subjected to correlation test especially with the air and soil temperatures. The correlations between the mean LAI and, in particular the soil temperature (r≥0.95) and air temperature were high and significant (P<0.01). There were no definite correlation between the mean LAI and mean sunlight duration, air humidity and total precipitation. Impact of air temperature on the LAI of Carpinus betulus L. trees indicates the vulnerability of the recreational area to possible urban heat oriented climate warming. On the other hand, the influence of soil temperature on the mean LAI warns the susceptibility of the recreational area to possible anthropogenic pressure resulting in soil compaction and regeneration difficulties. Consequently, sustainable management of this recreational area necessitates the anticipation and mitigation of these possible destructions.",
+    "readLink": "http://dx.doi.org/10.17099/jffiu.94437"
+  },
+  {
+    "title": "How the Black Swan damages the harvest: Extreme weather events and the fragility of agriculture in development countries.",
+    "authors": [
+      "Nadine Marmai,",
+      "Maria Franco Villoria,",
+      "Marco Guerzoni"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0261839",
+    "journalVolume": "Vol. 17,\n                                no. 2\n                                \n                                  p.\n                                  e0261839",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Climate change constitutes a rising challenge to the agricultural base of developing countries. Most of the literature has focused on the impact of changes in the means of weather variables on mean changes in production and has found very little impact of weather upon agricultural production. Instead, we focus on the relationship between extreme events in weather and extreme losses in crop production. Indeed, extreme events are of the greatest interest for scholars and policy makers only when they carry extraordinary negative effects. We build on this idea and for the first time, we adopt a conditional dependence model for multivariate extreme values to understand the impact of extreme weather on agricultural production. Specifically, we look at the probability that an extreme event drastically reduces the harvest of any of the major crops. This analysis, which is run on data for six different crops and four different weather variables in a vast array of countries in Africa, Asia and Latin America, shows that extremes in weather and yield losses of major staples are associated events. We find a high heterogeneity across both countries and crops and we are able to predict per country and per crop the risk of a yield reduction above 90% when extreme events occur. As policy implication, we can thus assess which major crop in each country is less resilient to climate shocks.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0261839"
+  },
+  {
+    "title": "Delivering Sustainable Housing through Material Choice",
+    "authors": [
+      "Cameron Taylor,",
+      "Krishanu Roy,",
+      "Aflah Alamsah Dani,",
+      "James B. P. Lim,",
+      "Karnika De Silva,",
+      "Mark Jones"
+    ],
+    "doi": "https://doi.org/10.3390/su15043331",
+    "journalVolume": "Vol. 15,\n                                no. 3331\n                                \n                                  p.\n                                  3331",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Increasing importance is being placed on sustainability worldwide to limit climate change’s effects. In New Zealand, a sizeable increase in demand for housing is driving a residential construction boom, with new dwelling consents increasing yearly for the last decade. The New Zealand Government’s commitment to sustainability has become legislation through the Climate Change Response (Zero Carbon) Amendment Act 2019. Therefore, the next stage is how the construction industry can limit and reduce its carbon emissions through one of the strategies, namely material choice. This study was intended to examine the influence of various building materials on climate change and to identify how more sustainable home construction and design in New Zealand may contribute to the government’s 2050 emissions reduction targets. A life-cycle assessment (LCA) was used in this study to investigate the global warming potential (GWP) produced by five case study houses and various material options for building envelope components. The study focused on the environmental impact of materials with high usage in industry and potential new materials that have shown an ability to conform to the New Zealand Building Code standards. It was found that case study House 1 (with timber flooring founded on senton piles with concrete footings, a timber frame, plywood wall cladding, and metal roof cladding) and House 2 (with a concrete waffle slab, a light steel frame, masonry wall cladding, and metal roof cladding) had the lowest GWP emissions compared to the other case study houses, with 631.13 and 633.16 kg CO2eq/m2, respectively. However, it should be noted that all the case study houses were not similar in size and design. In addition, the study investigated the different building envelope material options for the foundation, wall cladding, framing, and roof cladding. The study found that some new materials or materials that are not common in New Zealand could be used as an option for the housing envelope by having lower carbon emissions, such as 3D-printed concrete blocks compared with brick and concrete masonry for wall cladding systems.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/4/3331"
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "title": "Risk Assessment and Grading of Environmental Sustainability of the International Wetlands of Southern Coasts of Iran",
+    "authors": [
+      "Samira Jafari Azar,",
+      "Gholam Reza Sabzghabaei,",
+      "Morteza Tavakoli,",
+      "Soolmaz Dashti"
+    ],
+    "doi": "https://doi.org/10.22111/jneh.2019.28320.1487",
+    "journalVolume": "Vol. 9,\n                                no. 23\n                                \n                                  pp.\n                                  41\n                                  – 62",
+    "issn": "2676-4377 (Print)",
+    "publisher": "2676-4385 (Online)",
+    "countryOfPublisher": "University of Sistan and Baluchestan",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://jneh.usb.ac.ir/",
+    "abstract": "Wetlands are sensitive and valuable ecosystems but today their safety and their sustainability have been harshly influenced by various natural and human factors. Using environmental risk assessment is an important tool in studies of environmental management and recognition and reduction of the potentially harmful environmental factors to achieve sustainable development. This research was conducted to identify and assess the risks and grading of environmental sustainability of the international wetlands of the southern coast of Iran in the provinces of Khuzestan and Hormozgan. Accordingly, to identify and prioritize the risks the Delphi methodology, to prioritize and calculate the weight of the indicators the Analytical Hierarchy Process (AHP) process, and the ELECTRE technique were used to rank the wetlands based on unfavorable environmental conditions. The results showed that 27 factors of pressure and threat were identified for The International Wetland of Shadegan, Khur_e_ Omayyeh and Khur_e_Mousa Estuary, Khur-e-khuran International wetland, Salty, Sweet and Minab Rivers International Wetlands, Gaz and Hara Rivers Estuary International wetland and Shidvar International Wetland. The results of the paired comparisons between the threats of the studied wetlands show that the first to fifth ranking threats are related to the discharge and disposal of waste in the wetland, climate change and drought, oil pollution, dam construction, and the reduction of vegetation density, and other indicators are in the next ranks. Finally, the analysis and comparison for the ranking of the studied wetlands based on the ELECTRE method showed that The International Wetland of Shadegan, Khur_e_ Omayyeh and Khur_e_Mousa Estuary suffer the highest threat and pressure and Shidvar International Wetland has a more favorable ecological condition.",
+    "readLink": "https://jneh.usb.ac.ir/article_4699_f53ae67aefbc6b4e2eee422ee5c17ed8.pdf"
+  },
+  {
+    "title": "Multi skin lesions classification using fine-tuning and data-augmentation applying NASNet",
+    "authors": [
+      "Elia Cano,",
+      "José Mendoza-Avilés,",
+      "Mariana Areiza,",
+      "Noemi Guerra,",
+      "José Longino Mendoza-Valdés,",
+      "Carlos A. Rovetto"
+    ],
+    "doi": "https://doi.org/10.7717/peerj-cs.371",
+    "journalVolume": "Vol. 7\n                                \n                                \n                                  p.\n                                  e371",
+    "issn": "2376-5992 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science"
+    ],
+    "journalUrl": "https://peerj.com/computer-science/",
+    "abstract": "Skin lesions are one of the typical symptoms of many diseases in humans and indicative of many types of cancer worldwide. Increased risks caused by the effects of climate change and a high cost of treatment, highlight the importance of skin cancer prevention efforts like this. The methods used to detect these diseases vary from a visual inspection performed by dermatologists to computational methods, and the latter has widely used automatic image classification applying Convolutional Neural Networks (CNNs) in medical image analysis in the last few years. This article presents an approach that uses CNNs with a NASNet architecture to recognize in a more accurate way, without segmentation, eight skin diseases. The model was trained end-to-end on Keras with augmented skin diseases images from the International Skin Imaging Collaboration (ISIC). The CNN architectures were initialized with weight from ImageNet, fine-tuned in order to discriminate well among the different types of skin lesions, and then 10-fold cross-validation was applied. Finally, some evaluation metrics are calculated as accuracy, sensitivity, and specificity and compare with other CNN trained architectures. This comparison shows that the proposed system offers higher accuracy results, with a significant reduction on the training paraments. To the best of our knowledge and based in the state-of-art recompiling in this work, the application of the NASNet architecture training with skin image lesion from ISIC archive for multi-class classification and evaluated by cross-validation, represents a novel skin disease classification system.",
+    "readLink": "https://peerj.com/articles/cs-371.pdf"
+  },
+  {
+    "title": "A small dynamic leaf-level model predicting photosynthesis in greenhouse tomatoes.",
+    "authors": [
+      "Dominique Joubert,",
+      "Ningyi Zhang,",
+      "Sarah R Berman,",
+      "Elias Kaiser,",
+      "Jaap Molenaar,",
+      "J D Stigter"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0275047",
+    "journalVolume": "Vol. 18,\n                                no. 3\n                                \n                                  p.\n                                  e0275047",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The conversion of supplemental greenhouse light energy into biomass is not always optimal. Recent trends in global energy prices and discussions on climate change highlight the need to reduce our energy footprint associated with the use of supplemental light in greenhouse crop production. This can be achieved by implementing \"smart\" lighting regimens which in turn rely on a good understanding of how fluctuating light influences photosynthetic physiology. Here, a simple fit-for-purpose dynamic model is presented. It accurately predicts net leaf photosynthesis under natural fluctuating light. It comprises two ordinary differential equations predicting: 1) the total stomatal conductance to CO2 diffusion and 2) the CO2 concentration inside a leaf. It contains elements of the Farquhar-von Caemmerer-Berry model and the successful incorporation of this model suggests that for tomato (Solanum lycopersicum L.), it is sufficient to assume that Rubisco remains activated despite rapid fluctuations in irradiance. Furthermore, predictions of the net photosynthetic rate under both 400ppm and enriched 800ppm ambient CO2 concentrations indicate a strong correlation between the dynamic rate of photosynthesis and the rate of electron transport. Finally, we are able to indicate whether dynamic photosynthesis is Rubisco or electron transport rate limited.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0275047"
+  },
+  {
+    "title": "Behaviour of masonry lateral loaded walls made with sediment-based bricks from the Usumacinta river (Mexico)",
+    "authors": [
+      "I. Djeran-Maigre,",
+      "A. Morsel,",
+      "M. Hussain,",
+      "D. Levacher,",
+      "A.R. Razakamanantsoa,",
+      "E. Delfosse"
+    ],
+    "doi": "Vol. 11\n                                \n                                \n                                  p.\n                                  100587",
+    "issn": "2666-7908 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/cleaner-engineering-and-technology/",
+    "abstract": "A feasibility study on Usumacinta River sediment-based bricks for resilient housing adapted to both climate change and seismic risks is performed on laterally loaded reduced-scale walls. Mortar formulations with different volume ratios of lime and sand (2/1, 1/2, 1/4, 1/6) are prepared while different types of sediment-based bricks are thoroughly investigated, manufactured and strength characterized. Commercial fired bricks as reference bricks completed the set of bricks tested (FRS: Fired River Sediment-based brick (at 850 °C); LRS: Lime treated River Sediment-based unfired brick (1.5% of lime addition); NRS: Natural fiber Reinforced river Sediment-based unfired brick and FR: commercial Fired Reference brick made without sediment). Walls of different sizes were built with these types of bricks and mortars. Tests under lateral in-plane loads of walls i.e. pushover tests, were conducted.The most significant results are as follows:(1) the addition of lime increases the strength of the mortar; (2) the wall size effect is observed for wall built with reference bricks (FR) and mortar ratio (1/2), where, large walls (LW), intermediate walls (IW) and small walls (SW) exhibiting maximum load of about 1200 N, 440 N and 260 N respectively. Rocking failure mode is the most observed unlike shear and sliding mode which are rarer. (3) maximum load measured during a pushover test performed on walls with sediment-based bricks provides a satisfactory average of 130 N, which exceeds the strength recommended for light buildings; The failure mode is sliding for fired bricks and rocking for unfired bricks. (4) the sediment-based bricks walls give an interesting ductility to pushover test while (2.6–40).These results show promising perspectives on the possibility of using the Usumacinta River sediment-based bricks in walls for light constructions under seismic loading.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666790822001926"
+  },
+  {
+    "title": "Artificial Intelligence Technologies for Forecasting Air Pollution and Human Health: A Narrative Review",
+    "authors": [
+      "Shankar Subramaniam,",
+      "Naveenkumar Raju,",
+      "Abbas Ganesan,",
+      "Nithyaprakash Rajavel,",
+      "Maheswari Chenniappan,",
+      "Chander Prakash,",
+      "Alokesh Pramanik,",
+      "Animesh Kumar Basak,",
+      "Saurav Dixit"
+    ],
+    "doi": "https://doi.org/10.3390/su14169951",
+    "journalVolume": "Vol. 14,\n                                no. 9951\n                                \n                                  p.\n                                  9951",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Air pollution is a major issue all over the world because of its impacts on the environment and human beings. The present review discussed the sources and impacts of pollutants on environmental and human health and the current research status on environmental pollution forecasting techniques in detail; this study presents a detailed discussion of the Artificial Intelligence methodologies and Machine learning (ML) algorithms used in environmental pollution forecasting and early-warning systems; moreover, the present work emphasizes more on Artificial Intelligence techniques (particularly Hybrid models) used for forecasting various major pollutants (e.g., PM2.5, PM10, O3, CO, SO2, NO2, CO2) in detail; moreover, focus is given to AI and ML techniques in predicting chronic airway diseases and the prediction of climate changes and heat waves. The hybrid model has better performance than single AI models and it has greater accuracy in prediction and warning systems. The performance evaluation error indexes like R2, RMSE, MAE and MAPE were highlighted in this study based on the performance of various AI models.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/16/9951"
+  },
+  {
+    "title": "Quantitative assessment of the contributions of climate change and human activities on vegetation degradation and restoration in typical ecologically fragile areas of China",
+    "authors": [
+      "Xiangwen Gong,",
+      "Yuqiang Li,",
+      "Xuyang Wang,",
+      "Zhishan Zhang,",
+      "Jie Lian,",
+      "Lei Ma,",
+      "Yun Chen,",
+      "Manyi Li,",
+      "Hongtao Si,",
+      "Wenjie Cao"
+    ],
+    "doi": "Vol. 144\n                                \n                                \n                                  p.\n                                  109536",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Vegetation is a key component of terrestrial ecosystems, and its changes are very sensitive to climate change (CC) and human activities (HA), especially in ecologically fragile areas (EFA). However, the mechanism of relative contribution to vegetation degradation and restoration in EFA under the influence of CC and HA is still unclear. Based on the Carnegie-Ames-Stanford Approach (CASA) model and the Miami model, we estimated three key parameters of vegetation in China’s EFA: actual net primary productivity (ANPP), potential net primary productivity (PNPP), and human activity net primary productivity (HNPP). Using these variables, we quantitatively analyzed the relative contribution of CC and HA to vegetation restoration and degradation from 1982 to 2018 by the residual trend method. The results showed that the area ratio of vegetation restoration in China’s EFA was close to 71.6%, and the total ANPP increased by 174 Tg C, mainly concentrated in the Southwest Karst area and the Loess Plateau, but the Qinghai-Tibet Plateau showing a trend of degradation during 1982 to 2018. The climate background of each region was a key factor that can never be ignored to determine the positive or negative impact of regional CC and HA on vegetation activities. The CC and HA played a positive role in vegetation restoration areas, with a relative contribution of 59.1% and 16.4%, regional warming and humidification caused by the increase of temperature and precipitation was the main factor driving vegetation restoration. In vegetation degradation areas, The HA was the main driving force, especially the relative contribution of the Qinghai-Tibet Plateau, the arid and semi-arid areas and the Loess Plateau, which were as high as 96.8%, 83.3% and 80.2%, respectively. Finally, the annual average temperature (TEMP) and the annual solar radiation (SRAD) were relatively important and sensitive for the CASA model in the input environmental variables. This study provided a way to quantitatively understand the mechanism of climate change and human activities on the dynamic evolution of vegetation in EFA. In the future, the implementation of ecological protection and restoration projects need to fully consider the differences in climate background and strengthen the monitoring of the ecological environment.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X22010093"
+  },
+  {
+    "title": "Interlinkages and gaps: a review of the literature on intergovernmental relations for flood management in the face of climate change",
+    "authors": [
+      "Alexander Chantilas,",
+      "Ahmed Rachid El-Khattabi,",
+      "Emily Gvino,",
+      "Emily Gvino,",
+      "Kristen Downs,",
+      "Cate Byrne,",
+      "Elizabeth Christenson-Diver,",
+      "Ranger Ruffins,",
+      "Aaron Worley,",
+      "Felix Dodds"
+    ],
+    "doi": "https://doi.org/10.3389/frsc.2023.1135513",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-9634 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-cities#about",
+    "abstract": "Current approaches to flood management are increasingly insufficient to deal with intensifying flood trends. In this paper, we define and map out the responsibilities and relationships of local, state, and federal governing entities at various levels. We use these relationships to identify gaps in governance needed to address the high financial, human, and infrastructure costs of flooding. This paper offers a description of current flood policies and provides recommendations for innovations in policy solutions to improve governance gaps. We identify three themes from the literature on intergovernmental relations and flood governance: (1) intergovernmental relations (interlinkages and gaps) for flood governance; (2) risks inherent to flood governance (financial, physical, social and individual, and perception of risk); (3) data adequacy and interoperability.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frsc.2023.1135513/full"
+  },
+  {
+    "title": "Soil moisture dynamics under two rainfall frequency treatments drive early spring CO2 gas exchange of lichen-dominated biocrusts in central Spain",
+    "authors": [
+      "Selina Baldauf,",
+      "Mónica Ladrón de Guevara,",
+      "Fernando T. Maestre,",
+      "Britta Tietjen"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.5904",
+    "journalVolume": "Vol. 6\n                                \n                                \n                                  p.\n                                  e5904",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background Biocrusts, communities dominated by mosses, lichens, cyanobacteria, and other microorganisms, largely affect the carbon cycle of drylands. As poikilohydric organisms, their activity time is often limited to short hydration events. The photosynthetic and respiratory response of biocrusts to hydration events is not only determined by the overall amount of available water, but also by the frequency and size of individual rainfall pulses. Methods We experimentally assessed the carbon exchange of a biocrust community dominated by the lichen Diploschistes diacapsis in central Spain. We compared the effect of two simulated precipitation patterns providing the same overall amount of water, but with different pulse sizes and frequency (high frequency: five mm/day vs. low frequency: 15 mm/3 days), on net/gross photosynthesis and dark respiration. Results Radiation and soil temperature, together with the watering treatment, affected the rates of net and gross photosynthesis, as well as dark respiration. On average, the low frequency treatment showed a 46% ± 3% (mean ± 1 SE) lower rate of net photosynthesis, a 13% ± 7% lower rate of dark respiration, and a 24% ± 8% lower rate of gross photosynthesis. However, on the days when samples of both treatments were watered, no differences between their carbon fluxes were observed. The carbon flux response of D. diacapsis was modulated by the environmental conditions and was particularly dependent on the antecedent soil moisture. Discussion In line with other studies, we found a synergetic effect of individual pulse size, frequency, environmental conditions, and antecedent moisture on the carbon exchange fluxes of biocrusts. However, most studies on this subject were conducted in summer and they obtained results different from ours, so we conclude that there is a need for long-term experiments of manipulated precipitation impacts on the carbon exchange of biocrusts. This will enable a more complete assessment of the impacts of climate change-induced alterations in precipitation patterns on biocrust communities.",
+    "readLink": "https://peerj.com/articles/5904.pdf"
+  },
+  {
+    "title": "Evidence for increasing densities and geographic ranges of tick species of public health significance other than Ixodes scapularis in Québec, Canada.",
+    "authors": [
+      "Salima Gasmi,",
+      "Catherine Bouchard,",
+      "Nicholas H Ogden,",
+      "Ariane Adam-Poupart,",
+      "Yann Pelcat,",
+      "Erin E Rees,",
+      "François Milord,",
+      "Patrick A Leighton,",
+      "Robbin L Lindsay,",
+      "Jules K Koffi,",
+      "Karine Thivierge"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0201924",
+    "journalVolume": "Vol. 13,\n                                no. 8\n                                \n                                  p.\n                                  e0201924",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Climate change is driving emergence and establishment of Ixodes scapularis, the main vector of Lyme disease in Québec, Canada. As for the black-legged tick, I. scapularis Say, global warming may also favor northward expansion of other species of medically important ticks. The aims of this study were to determine (1) current diversity and abundance of ticks of public health significance other than I. scapularis, (2) sex and age of the human population bitten by these ticks (3), and the seasonal and geographic pattern of their occurrence. From 2007 to 2015, twelve tick species other than I. scapularis were submitted in the Québec passive tick surveillance program. Of these 9243 ticks, 91.2% were Ixodes cookei, 4.1% were Dermacentor variabilis, 4.0% were Rhipicephalus sanguineus and 0.7% were Amblyomma americanum. The combined annual proportion of submitted I. cookei, D. variabilis, R. sanguineus and A. americanum ticks in passive surveillance rose from 6.1% in 2007 to 16.0% in 2015 and an annual growing trend was observed for each tick species. The number of municipalities where I. cookei ticks were acquired rose from 104 to 197 during the same period. Of the 862 people bitten by these ticks, 43.3% were I. cookei ticks removed from children aged < 10 years. These findings demonstrate the need for surveillance of all the tick species of medical importance in Québec, particularly because climate may increase their abundance and geographic ranges, increasing the risk to the public of the diseases they transmit.",
+    "readLink": "http://europepmc.org/articles/PMC6104943?pdf=render"
+  },
+  {
+    "title": "Atmospheric carbon dioxide measurement from aircraft and comparison with OCO-2 and CarbonTracker model data",
+    "authors": [
+      "Q. Wang,",
+      "F. Mustafa,",
+      "L. Bu,",
+      "S. Zhu,",
+      "S. Zhu,",
+      "J. Liu,",
+      "W. Chen"
+    ],
+    "doi": "https://doi.org/10.5194/amt-14-6601-2021",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  6601\n                                  – 6617",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "Accurate monitoring of atmospheric carbon dioxide (CO2) and its distribution is of great significance for studying the carbon cycle and predicting future climate change. Compared to the ground observational sites, the airborne observations cover a wider area and simultaneously observe a variety of surface types, which helps with effectively monitoring the distribution of CO2 sources and sinks. In this work, an airborne experiment was carried out in March 2019 over the Shanhaiguan area, China (39–41∘ N, 119–121∘ E). An integrated path differential absorption (IPDA) light detection and ranging (lidar) system and a commercial instrument, the ultraportable greenhouse gas analyser (UGGA), were installed on an aircraft to observe the CO2 distribution over various surface types. The pulse integration method (PIM) algorithm was used to calculate the differential absorption optical depth (DAOD) from the lidar data. The CO2 column-averaged dry-air mixing ratio (XCO2) was calculated over different types of surfaces including mountain, ocean, and urban areas. The concentrations of the XCO2 calculated from lidar measurements over ocean, mountain, and urban areas were 421.11 ± 1.24, 427.67 ± 0.58, and 432.04 ± 0.74 ppm, respectively. Moreover, through the detailed analysis of the data obtained from the UGGA, the influence of pollution levels on the CO2 concentration was also studied. During the whole flight campaign, 18 March was the most heavily polluted day with an Air Quality Index (AQI) of 175 and PM2.5 of 131 µg m−3. The aerosol optical depth (AOD) reported by a sun photometer installed at the Funing ground station was 1.28. Compared to the other days, the CO2 concentration measured by UGGA at different heights was the largest on 18 March with an average value of 422.59 ± 6.39 ppm, which was about 10 ppm higher than the measurements recorded on 16 March. Moreover, the vertical profiles of Orbiting Carbon Observatory-2 (OCO-2) and CarbonTracker were also compared with the aircraft measurements. All the datasets showed a similar variation with some differences in their CO2 concentrations, which showing a good agreement among them.",
+    "readLink": "https://amt.copernicus.org/articles/14/6601/2021/amt-14-6601-2021.pdf"
+  }
+]

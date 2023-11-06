@@ -1,0 +1,212 @@
+[
+  {
+    "title": "An Ensemble Prediction System Based on Artificial Neural Networks and Deep Learning Methods for Deterministic and Probabilistic Carbon Price Forecasting",
+    "authors": [
+      "Yi Yang,",
+      "Honggang Guo,",
+      "Yu Jin,",
+      "Aiyi Song"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2021.740093",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "Carbon price prediction is important for decreasing greenhouse gas emissions and coping with climate change. At present, a variety of models are widely used to predict irregular, nonlinear, and nonstationary carbon price series. However, these models ignore the importance of feature extraction and the inherent defects of using a single model; thus, accurate and stable prediction of carbon prices by relevant industry practitioners and the government is still a huge challenge. This research proposes an ensemble prediction system (EPS) that includes improved data feature extraction technology, three prediction submodels (GBiLSTM, CNN, and ELM), and a multiobjective optimization algorithm weighting strategy. At the same time, based on the best fitting distribution of the prediction error of the EPS, the carbon price prediction interval is constructed as a way to explore its uncertainty. More specifically, EPS integrates the advantages of various submodels and provides more accurate point prediction results; the distribution function based on point prediction error is used to establish the prediction interval of carbon prices and to mine and analyze the volatility characteristics of carbon prices. Numerical simulation of the historical data available for three carbon price markets is also conducted. The experimental results show that the ensemble prediction system can provide more effective and stable carbon price forecasting information and that it can provide valuable suggestions that enterprise managers and governments can use to improve the carbon price market.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2021.740093/full"
+  },
+  {
+    "title": "Cultural context, organizational performance and Sustainable Development Goals: A pending task",
+    "authors": [
+      "Ana Bellostas ,",
+      "Cristina Del Río,",
+      "Karen González-Álvarez ,",
+      "Francisco J López-Arceiz"
+    ],
+    "doi": "https://doi.org/10.3934/GF.2023009",
+    "journalVolume": "Vol. 5,\n                                no. 2\n                                \n                                  pp.\n                                  211\n                                  – 239",
+    "issn": "2643-1092 (Online)",
+    "publisher": "AIMS Press",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Social Sciences: Finance"
+    ],
+    "journalUrl": "https://www.aimspress.com/journal/gf",
+    "abstract": "The collaboration of private companies in the fulfillment of the Sustainable Development Goals (SDGs) is key to address global challenges of climate change, social inequality and environmental degradation. This collaboration can also boost their own organizational performance. However, the research on the relationship between SDG commitment and organizational performance remains inconclusive. The diversity of findings could stem from cross-cultural differences in corporate environments. The aim of this study, therefore, was to analyze the interaction between SDG commitment and organizational performance and to examine how this interaction is influenced by cultural factors. Using simultaneous equation modeling on a sample of 3,420 companies from 30 countries for the period 2015 to 2020, our results show that engagement with SDGs has an impact on organizational performance levels which is further enhanced by the catalytic effect of certain cultural factors.",
+    "readLink": "https://www.aimspress.com/article/doi/10.3934/GF.2023009?viewType=HTML"
+  },
+  {
+    "title": "Assessing climate change projections in the Volta Basin using the CORDEX-Africa climate simulations and statistical bias-correction",
+    "authors": [
+      "Kofi A. Yeboah,",
+      "Komlavi Akpoti,",
+      "Amos T. Kabo-bah,",
+      "Eric A. Ofosu,",
+      "Ebenezer K. Siabi,",
+      "Eric M. Mortey,",
+      "Samuel A. Okyereh"
+    ],
+    "doi": "Vol. 6\n                                \n                                \n                                  p.\n                                  100439",
+    "issn": "2667-0100 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environmental-challenges/",
+    "abstract": "Climate change potential impacts are evaluated through the changes in the local and regional climate. However, Global and Regional Climate simulated outputs do not often capture these changes well, hampering their direct applicability. Impact studies using coarse resolution data require bias-correction of climate variables, a process that minimizes the discrepancy between observed and simulated climate variables. This study assessed climate projections in the Volta Basin using an ensemble of 4 Regional Climate Models under the Representative Concentration Pathways-RCPs 4.5 and 8.5 scenarios in the CORDEX-Africa datasets. These datasets were bias-corrected using the Climate Model data for hydrologic modeling tool (CMhyd) and 27-years of Climate Forecast System Reanalysis data. The performances of the ensemble bias-corrected precipitation ranged from 97-99%, 93-99%, 70-485mm, and -9-5% for R2, NSE, RMSE, and PBIAS respectively. TMAX bias-correction performances ranged from 65-99%, 27-99%, 0-4°C and -2-7% for R2, NSE, RMSE and PBIAS respectively. For TMIN, the performances ranged from 91–99%, 91–99%, 0-1°C and 0-1% for R2, NSE, RMSE and PBIAS respectively. The annual projected change in precipitation under RCP4.5 and 8.5 indicated a decrease in precipitation for the near (the 2020s), the mid-century (2050s), and the end far (2080s) with a relative increase from late November to January, a period currently part of dry season period in the Volta Basin. This suggests that the basin could expect a potential shift in the rainy season. The 12-month standard precipitation index suggests more frequent and longer drought periods in the future. Changes in annual mean monthly maximum temperature revealed an increase under all scenarios and throughout the century with an intensified increase by the end of the century under the higher CO2 concentration scenario (RCP 8.5). The study showed that under RCP 4.5 and 8.5 scenarios, the Volta Basin will experience frequent drought and extreme precipitation events, warmer days, and nights temperatures although RCP 4.5 showed a relatively lower magnitude of these extremes. It is therefore important to emphasize the need for strong adaptation to preserve water resources, limit negative impacts on energy and agricultural production, and other ecosystems services in the Volta Basin.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2667010021004133"
+  },
+  {
+    "title": "Influence of Climate and Coastal Flooding on Eastern Red Cedar Growth along a Marsh-Forest Ecotone",
+    "authors": [
+      "Sydney Hall,",
+      "Stephanie Stotts,",
+      "LeeAnn Haaf"
+    ],
+    "doi": "https://doi.org/10.3390/f13060862",
+    "journalVolume": "Vol. 13,\n                                no. 862\n                                \n                                  p.\n                                  862",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Coastal forests in the Mid-Atlantic region are threatened by sea level rise through chronic and episodic salinization and hydrologic alterations, leading to inland marsh migration and the occurrence of ghost forests. This study uses dendrochronology to explore the impact of rising sea level on the annual growth of Juniperus virginiana (the Eastern red cedar) at the St. Jones component of the Delaware National Estuarine Research Reserve in Dover, DE. Chronologies from low and high elevations were developed, and a difference chronology (high–low) was generated. A rapid field assessment of tree stress indicated greater stress in low elevation trees, and low elevation soil tests showed higher soil moisture and salt content compared to samples from high elevation. Ring width indices were analyzed in relation to water level, precipitation, the Standardized Precipitation Evapotranspiration Index, and temperature, with Pearson’s correlation analysis. Trees growing at low elevation showed greater climate sensitivity and responded favorably to cool, wet summers. Over time, correlations between growth and climate variables decreased, while negative correlations with tidal water level increased—a pattern that presented nearly a decade earlier in the low elevation system. Given the widespread distribution of the Eastern red cedar and its sensitivity to changes in sea level, this species may be particularly useful as a sentinel of change in coastal landscapes as sea levels rise.",
+    "readLink": "https://www.mdpi.com/1999-4907/13/6/862"
+  },
+  {
+    "title": "The challenges of communicating climate change",
+    "authors": [
+      "Emiliano Feresin"
+    ],
+    "doi": "Vol. 8,\n                                no. 2",
+    "issn": "1824-2049 (Online)",
+    "publisher": "Sissa Medialab",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Language and Literature: Philology. Linguistics: Communication. Mass media",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://jcom.sissa.it/",
+    "abstract": "The climate change issue has become increasingly present in our society in the last decade and central also to communication studies. In the e-book “Communicating Climate Change: Discourses, Mediations and Perceptions”, edited by Anabela Carvalho, various scholars investigate how climate change challenges communication by looking at three main aspects: the discourses of a variety of social actors on climate change; the reconstruction of those discourses in the media; the citizens’ perceptions, understandings and attitudes in relation to climate change.",
+    "readLink": "http://jcom.sissa.it/archive/08/02/Jcom0802%282009%29R01/Jcom0802%282009%29R01.pdf"
+  },
+  {
+    "title": "What controls ozone sensitivity in  the upper tropical troposphere?",
+    "authors": [
+      "C. M. Nussbaumer,",
+      "H. Fischer,",
+      "J. Lelieveld,",
+      "J. Lelieveld,",
+      "A. Pozzer,",
+      "A. Pozzer"
+    ],
+    "doi": "https://doi.org/10.5194/acp-23-12651-2023",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  pp.\n                                  12651\n                                  – 12669",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Ozone is an important contributor to the radiative energy budget of the upper troposphere (UT). Therefore, observing and understanding the processes contributing to ozone production are important for monitoring the progression of climate change. Nitrogen oxides (NOx ≡ NO + NO2) and volatile organic compounds (VOCs) are two main tropospheric precursors to ozone formation. Depending on their abundances, ozone production can be sensitive to changes in either of these two precursors. Here, we focus on processes contributing to ozone chemistry in the upper tropical troposphere between 30∘ S and 30∘ N latitude, where changes in ozone have a relatively large impact on anthropogenic radiative forcing. Based on modeled trace gas mixing ratios and meteorological parameters simulated by the ECHAM5/MESSy2 Atmospheric Chemistry (EMAC) general circulation model, we analyze a variety of commonly applied metrics including ozone production rates (P(O3)), the formaldehyde (HCHO) to NO2 ratio and the share of methyl peroxy radicals (CH3O2) forming HCHO (α(CH3O2)) for their ability to describe the chemical regime. We show that the distribution of trace gases in the tropical UT is strongly influenced by the varying locations of deep convection throughout the year, and we observe peak values for NOx and P(O3) over the continental areas of South America and Africa where lightning is frequent. We find that P(O3) and its response to NO is unsuitable for determining the dominant regime in the upper troposphere. Instead, α(CH3O2) and the HCHO/NO2 ratio in combination with ambient NO levels perform well as metrics to indicate whether NOx or VOC sensitivity is prevalent. We show that effectively only the knowledge of the availability of NO and HO2 is required to adequately represent O3 precursors and its sensitivity towards them. A sensitivity study with halving, doubling and excluding lightning NOx demonstrates that lightning and its distribution in the tropics are the major determinants of the chemical regimes and ozone formation in the upper tropical troposphere.",
+    "readLink": "https://acp.copernicus.org/articles/23/12651/2023/acp-23-12651-2023.pdf"
+  },
+  {
+    "title": "Life Cycle Assessment of Food Processing Systems in Toba Samosir Regency",
+    "authors": [
+      "Situmorang Asido,",
+      "Manik Yosef"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/20187305031",
+    "journalVolume": "Vol. 73\n                                \n                                \n                                  p.\n                                  05031",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "This study assesses the gate-to-gate environmental impacts of food processing systems operating in Toba Samosir Regency using Life Cycle Assessment methodology. The systems in question are processing of tapioca, coffee, and tofu, with the functional units of 50 kg of tapioca starch, 1 kg of coffee powder, and 25 kg of tofu, respectively. The inventory data were collected directly from the producers in the form of both production records and interviews. The linked flows that describe the production process for each of the system are obtained as follow. In producing 50 kg of tapioca starch, 200 kg cassava root and 800 kg of water are required. This system generates 40 kg of cassava peel, 60 kg of pulp and discharges 850 kg of waste water. For starch drying 209 MJ of thermal energy is required in the form of heating fuel. In order to produce 1 kg of fine coffee, 4 kg of coffee cherry and 30 kg of water are required. This system generates 3 kg of cherry peel and pulp mixture as solid co-product and discharges 30 kg of waste water. For roasting and milling the coffee bean, 90 MJ of thermal energy is consumed from firewood and gasoline. In producing 25 kg of tofu, 11 kg of soybean, 0.2 kg of flour and 140 kg of water are required. This system generates 16 kg of wet pulp and discharges 89 kg of waste water. For milling, 250 MJ of thermal energy is consumed from gasoline and rice husk. Water is the most vulnerable environmental compartment since most of the waste water is being discharged into the stream with limited treatment. The environmental hotspots associated with these systems are eutrophication potential, global warming potential (climate change), acidification, and photochemical oxidation potential.",
+    "readLink": "https://doi.org/10.1051/e3sconf/20187305031"
+  },
+  {
+    "title": "Drought and Phytophthora Are Associated With the Decline of Oak Species in Southern Italy",
+    "authors": [
+      "Michele Colangelo,",
+      "Michele Colangelo,",
+      "J. Julio Camarero,",
+      "Marco Borghetti,",
+      "Tiziana Gentilesca,",
+      "Jonàs Oliva,",
+      "Jonàs Oliva,",
+      "Miguel-Angel Redondo,",
+      "Francesco Ripullone"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2018.01595",
+    "journalVolume": "Vol. 9",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Forest decline induced by climate change is a global phenomenon that affects many tree species, mainly in drought-prone areas as the Mediterranean region. In southern Italy, several oak species have shown decline symptoms and elevated mortality since the 2000s due to drought stress. However, it remains to be answered whether decline occurred alone or whether a pathogen was also involved. To this aim, we compared two coexisting oak species in a forest located in southern Italy which are assumed to be less (Quercus cerris) and more tolerant to drought (Quercus pubescens). We sampled fifteen couples of neighboring declining (D) and non-declining (ND) trees of both species. Wood cores were taken from all trees to perform dendrochronological analyses to detect the decline onset and link it to potential climatic drivers. Carbon isotope ratios (d13C) were analyzed in wood of the two vigor classes to compare their water-use efficiency. Phytophthora presence was also assessed in soil samples from ten D-ND couples of trees per species. The oak species most affected by drought-induced decline in terms of leaf shedding and mortality was Q. cerris, i.e., the least tolerant to drought. In both species, the D trees showed a reduced growth rate compared with ND trees from 2000 onward when drought and warming intensified. Q. pubescens showed higher growth sensitivity to precipitation, temperature and drought than Q. cerris. This sensitivity to climate was magnified in D trees whose growth decreased in response to warm and dry conditions during the prior winter and the late summer. The Q. pubescens D trees were more efficient in their water use than ND trees before the growth divergence between D and ND trees amplified. In the studied area, Phytophthora quercina was isolated from 40% of the sampled trees, and tended to be more frequent amongst ND than amongst D trees. Our data suggests that droughts and warm summer conditions triggered oak decline. The high prevalence of P. quercina in the studied area warrants further study as a potential predisposing factor.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2018.01595/full"
+  },
+  {
+    "title": "Current status of greenhouse gas emissions from aquaculture in China",
+    "authors": [
+      "Congjun Xu,",
+      "Guohuan Su,",
+      "Kangshun Zhao,",
+      "Xiaoqi Xu,",
+      "Ziqi Li,",
+      "Qiang Hu,",
+      "Ying Xue,",
+      "Jun Xu"
+    ],
+    "doi": "Vol. 1,\n                                no. 3\n                                \n                                  p.\n                                  100041",
+    "issn": "2772-7351 (Online)",
+    "publisher": "KeAi Communications Co. Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.keaipublishing.com/en/journals/water-biology-and-security/",
+    "abstract": "Aquaculture and mariculture are becoming an increasingly important source of food supply in many countries and regions. However, with the expansion of aquaculture and mariculture comes increasing emissions of greenhouse gases (GHG) which contribute to global warming and climate change. China leads the world in aquaculture and mariculture production, but there are no studies that systematically assess China's overall carbon footprint from these industries. This study quantified GHG emissions from aquaculture and mariculture by four source phases (feed, energy use, nitrous oxide and fertilizers), and then analyzed the carbon footprint of each of these phases for GHG production of nine major species groups over the past ten years to show the spatial distribution of GHG emissions from aquaculture and mariculture in China. Our results showed that the production of feed materials contributed most to the GHG emissions and found that crop energy use, crop land use changes (LUC), fertilizer production, crop nitrous oxide production and rice methane production were the main sources of feed emissions. The total GHG emissions of the nine species groups were 112 ​Mt (109 ​kg) CO2e, the nine species accounting for approximately 86% of aquaculture and mariculture production. GHG emissions of cyprinids had the highest contribution at 47%. Spatial analysis based on our study showed Guangdong, Hubei, Jiangsu and Shandong had the highest GHG emissions of all the provinces in this study, and they accounted for approximately 46% of all emissions. The regional Gross Domestic Product (GDP) was significantly positively correlated with GHG emissions in every province, with a correlation coefficient higher than 0.6. Our results showed for the first time the relationship between the relative production by species composition and spatial distribution of GHG emissions from aquaculture and mariculture in China. Our findings provide the scientific basis for reduction of GHG emissions within a broader context of expanding aquaculture in the future.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2772735122000555"
+  },
+  {
+    "title": "Cratering behaviour and faecal C:N ratio in relation to seasonal snowpack characteristics in a High-Arctic ungulate",
+    "authors": [
+      "Larissa T. Beumer,",
+      "Øystein Varpe,",
+      "Brage B. Hansen"
+    ],
+    "doi": "https://doi.org/10.1080/17518369.2017.1286121",
+    "journalVolume": "Vol. 36,\n                                no. 1",
+    "issn": "0800-0395 (Print)",
+    "publisher": "1751-8369 (Online)",
+    "countryOfPublisher": "Norwegian Polar Institute",
+    "lcc": [
+      "Norway",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "https://polarresearch.net/index.php/polar/index",
+    "abstract": "Snow and ice determine winter forage availability for Arctic herbivores. Winter precipitation is anticipated to increase, and icing following warm spells and rain-on-snow (ROS) are likely to become more frequent. While this may reduce herbivore survival, fecundity and population growth, we can also expect behavioural and dietary responses. Here, we tested predictions from optimal foraging theory on how changing snowpack conditions influence choice of feeding craters and diet quality in a large generalist herbivore, the wild Svalbard reindeer. Snow and ice conditions over winter 2012/13 (a ‘normal’ winter with little ROS and icing) were measured in reindeer feeding craters, in paired controls one metre away and in fixed control sites. On average, feeding craters had less snow and integrated ram hardness (IRH, the force needed to reach the ground), but not less ice, than nearby controls. However, on this fine spatial scale, reindeer tended to select for microhabitat with worse snowpack conditions up to a certain level of snow (ca. 10 cm), ice (0.5 cm) and IRH (250 kg cm) in the nearby controls, reflecting the trade-off between selection for forage abundance versus accessibility in a sparsely vegetated environment. In this lichen-free system, faecal C:N ratios increased during winter as forage accessibility was increasingly restricted by snow, possibly indicating a reduction in diet quality due to changes in diet composition. Our study suggests that snowpack depth and hardness largely determine Svalbard reindeer feeding behaviour and diet quality during the course of a winter season.",
+    "readLink": "http://dx.doi.org/10.1080/17518369.2017.1286121"
+  }
+]

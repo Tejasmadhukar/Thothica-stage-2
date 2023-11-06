@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Environmental Impact Assessment of Different Strategies for the Remanufacturing of User Electronics",
+    "authors": [
+      "Angad Mann,",
+      "Prateek Saxena,",
+      "Mohamed Almanei,",
+      "Okechukwu Okorie,",
+      "Konstantinos Salonitis"
+    ],
+    "doi": "https://doi.org/10.3390/en15072376",
+    "journalVolume": "Vol. 15,\n                                no. 2376\n                                \n                                  p.\n                                  2376",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Over the years, the innovation and development of electrical and electronic equipment have been on a steep rise. Millions of electronics are being sold or discarded every year in the form of waste. Sustainable IT (Green IT or Circular Computing) is one of the most environment-friendly methods of reusing discarded or waste user electronics. The remanufacturing of a computer refers to the disassembly, repair, and upgrade of the original computer to give it a new life, along with a warranty that is as good as a new product. The goal of this work includes studying and assessing the total environmental impact of refurbishing a computer using life cycle assessment (LCA) integrated with discrete event simulation (DES), to compare two business models: (1) a case of centralized remanufacturing where the plants are in the Middle East, which is the hub for receiving waste electronics and distributing remanufactured goods; (2) a case of decentralized remanufacturing where the plants are situated in each continent for over a range of computer models. The environmental assessment was conducted using the openLCA software in combination with the WITNESS Horizon software for the DES. The results show that decentralized remanufacturing is a much more environmentally friendly option for the remanufacturing of computers, and the decentralized remanufacturing operation has a better throughput as well as efficiency, as compared to the centralized remanufacturing operation. The centralized remanufacturing scenario has a climate change impact of 1035.19 kg of CO2-Eq, as compared to the decentralized remanufacturing scenario with an impact of 816.12 kg of CO2-Eq. In terms of the impact on the marine life, decentralized remanufacturing was found to have 0.28 kg of N-Eq impact, as compared to centralized remanufacturing (0.22 kg of N-Eq). However, this does not give us a complete picture, as the environmental impact of the computer in its previous life remains unknown. Multi life cycle assessment is the assessment process that can be used to get a clearer picture of the ecological footprint of the computer during its multiple life cycles.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/7/2376"
+  },
+  {
+    "title": "SPATIAL DISTRIBUTION OF ATMOSPHERIC POLLUTION IN DUHOK URBAN AREA BY USING GIS TOOLS",
+    "authors": [
+      "Bahzad M.Taher Khaled,",
+      "Dereen JM Albeyboni,",
+      "Bayan Hazim Ahmed,",
+      "Ghariba Y. Haji,",
+      "Sami MA Youssef"
+    ],
+    "doi": "https://doi.org/10.25271/sjuoz.2023.11.2.939",
+    "journalVolume": "Vol. 11,\n                                no. 2",
+    "issn": "2663-628X (Print)",
+    "publisher": "2663-6298 (Online)",
+    "countryOfPublisher": "University of Zakho",
+    "lcc": [
+      "Iraq",
+      "Science"
+    ],
+    "journalUrl": "https://sjuoz.uoz.edu.krd/",
+    "abstract": "Air pollution is becoming a serious challenge in thickly populated areas in the world. The air pollution in Kurdistan region is clearly noticed, especially in areas where pollution sources and human population are concentrated. Urbanization and economic growth are proceeding at a rapid pace, accompanied by increasing emissions of a mixture of greenhouse gases especially from transporting sector, that positively contribute to accelerate climate change around the globe, and also have impacts on public health and vegetation. In order to decrease the effects that caused by atmospheric pollution, suitable monitoring systems are urgently needed that can rapidly and reliably detect and quantify polluting sources and concentration for monitoring by local authorities in order to restrain more damage of the current pollution levels. In this study, GIS with portable gas detector (K-60 IV) KELISAIKE safety equipment, China, have been used to assess the status of NOx, VOCs and noise pollution at 54 randomly selected urban locations of Duhok city. The measurements were taken during the week and weekend days started from 9 am until 4 pm. The results showed that there is a variation in the values of the three variables NOx, VOCs and noise, where the highest values recorded during working days in the locations distributed along the highway and the city center with heavy traffic load and dense human population in comparison to lowest values obtained during weekend days in locations distributed outskirt of the city with lower population and traffic loads. Therefore, likely such connections exist between the urban traffic density and low air pollution quality within urban locations around Duhok city.",
+    "readLink": "http://sjuoz.uoz.edu.krd/index.php/sjuoz/article/view/939"
+  },
+  {
+    "title": "Long-Term Forecasting Framework for Renewable Energy Technologies’ Installed Capacity and Costs for 2050",
+    "authors": [
+      "Francois Rozon,",
+      "Craig McGregor,",
+      "Michael Owen"
+    ],
+    "doi": "https://doi.org/10.3390/en16196874",
+    "journalVolume": "Vol. 16,\n                                no. 6874\n                                \n                                  p.\n                                  6874",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Published forecasts underestimate renewable energy capacity growth and potential cost reductions, creating uncertainty around investment decisions and slowing progress. Scenario-based projections diverge widely, driven by variations in modelling techniques and underlying assumptions, with policy-based models typically being overly conservative. With historical generation capacity and cost data readily available, this research demonstrates that data-driven approaches can be leveraged to improve long-term capacity and cost forecasts of solar, wind, and battery storage technologies. Unlike exponential growth models prevailing over shorter time scales, logistic curves requiring asymptotic limits, or machine learning algorithms dependent on extensive datasets, this analysis demonstrates that temporal quadratic regressions are a better starting point to represent capacity growth trends over two to three decades. When coupled with published learning rates, trend-based capacity forecasts provided tighter and lower capital and levelized cost of energy outlooks than most reviewed scenarios, with photovoltaics global average levelized cost of energy reducing from 0.057/kWh to below USD 0.03/kWh by 2030 and below USD 0.02/kWh by 2040. Greater transparency on manufacturing ecosystems is proposed so that more advanced analytical techniques can be utilized. This analysis indicates that without direct interventions to accelerate the growth in wind power generation, global renewable energy technology deployment will fall short of the generation capacities required to meet climate change objectives.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/19/6874"
+  },
+  {
+    "title": "Evaluation of Water Resources Utilization Efficiency Based on DEA and AHP under Climate Change",
+    "authors": [
+      "Shanjun Zhang,",
+      "Jia Liu,",
+      "Chuanzhe Li,",
+      "Fuliang Yu,",
+      "Lanshu Jing,",
+      "Weifan Chen"
+    ],
+    "doi": "https://doi.org/10.3390/w15040718",
+    "journalVolume": "Vol. 15,\n                                no. 718\n                                \n                                  p.\n                                  718",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "In the context of climate change, the problem of water scarcity is becoming increasingly serious, and improving the efficiency of water resources use is an important measure to alleviate this problem. The evaluation of water resources utilization efficiency has become the basis of water resource management. Data envelopment analysis (DEA) and analytic hierarchy process (AHP) are widely used in the evaluation of water resources utilization efficiency. However, one of these methods is mostly used for evaluation, which cannot reflect the influence of both objective and subjective factors. Therefore, in this study, we propose a water resources utilization efficiency index (WEI) to evaluate the water resources utilization efficiency of each region in the Tumen River Basin (TRB), combining both DEA and AHP methods. Firstly, the DEA-CCR model was used to quantify domestic, agricultural and industrial water use efficiency in the TRB. The DEA-BCC model was used to analyze the main influences on water use efficiency in each sector. Secondly, the WEI was constructed by assigning weights using the AHP model based on the importance of each water use sector. The results show that the WEI values for most areas within the TRB trended upwards between 2014 and 2019. In particular, domestic water use efficiency ranged from 0.294 to 0.775, while agricultural and industrial water use efficiency ranged from 0.039 to 0.054 and 0.031 to 0.375, respectively. Technical efficiency is the main factor influencing water use efficiency in TRB. This study could provide a basis for water resource management and mitigation of water scarcity in the context of climate change.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/4/718"
+  },
+  {
+    "title": "Adaptive Asset Management for Flood Protection: The FAIR Framework in Action",
+    "authors": [
+      "Bart Vonk,",
+      "Wouter  Jan Klerk,",
+      "Peter Fröhle,",
+      "Berry Gersonius,",
+      "Frank den Heijer,",
+      "Philipp Jordan,",
+      "Ulf Radu Ciocan,",
+      "Jeroen Rijke,",
+      "Paul Sayers,",
+      "Richard Ashley"
+    ],
+    "doi": "https://doi.org/10.3390/infrastructures5120109",
+    "journalVolume": "Vol. 5,\n                                no. 109\n                                \n                                  p.\n                                  109",
+    "issn": "2412-3811 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/infrastructures",
+    "abstract": "Uncertainties about climate change consequences, changing societal requirements and system complexity require flood protection asset managers to continuously evaluate their asset management policies and practice to manage risk and improve the resilience of their assets. However, there are many challenges in doing this, with asset operators often facing conflicting interests and major uncertainties about the future needs for asset performance. In the EU Interreg IV FAIR project, flood protection asset owners and operators, with scientific partners from the North Sea Region of Europe collaborated to develop practical guidance for adaptive asset management of flood protection infrastructure. The central component of this guidance is the FAIR framework, presented here. The framework combines insights and principles from ISO 55000 on asset management and ISO 14090 on climate adaptation with asset operator experiences to provide a practical guide for integration of asset management considerations within both strategic and operational contexts via a tactical handshake. This is a means to avoid the common lack of connection between strategic plans and operational practice. The applicability of the framework is illustrated with examples from Pilot Cases within the FAIR project, in which its value in terms of improved asset management and reduced costs has been demonstrated.",
+    "readLink": "https://www.mdpi.com/2412-3811/5/12/109"
+  },
+  {
+    "title": "Climatic variability prediction with satellite remote sensing and meteorological data in the South Western Nigeria",
+    "authors": [
+      "Ebenezer Yemi Ogunbadewa"
+    ],
+    "doi": "https://doi.org/10.3846/20296991.2013.807050",
+    "journalVolume": "Vol. 39,\n                                no. 2",
+    "issn": "2029-6991 (Print)",
+    "publisher": "2029-7009 (Online)",
+    "countryOfPublisher": "Vilnius Gediminas Technical University",
+    "lcc": [
+      "Lithuania",
+      "Science: Astronomy: Geodesy"
+    ],
+    "journalUrl": "http://gc.vgtu.lt",
+    "abstract": "Climatic variability affects both seasonal phenological cycles of vegetation and monthly distribution of rainfall in the south western Nigeria. Variations in vegetation biophysical parameters have been known to be a good indicator of climate variability; hence they are used as key inputs into climate change models. However, understanding the response of vegetation to the influence of climate at both temporal and spatial scales have been a major challenge. This is because most climatic data available are derived from ground-based instruments, which are mainly point measurements and are characterized by sparse network of meteorological stations that lacks the spatial coverage required for climate change investigation. Satellite remote sensing instruments can provide a suitable alternative of time-reliable datasets in a more consistent manner at both temporal and spatial scales. The aim of this study is to test the suitability of one year time series datasets obtained from satellite sensor and meteorological stations as a starting point for the development of a climate change model that can be exploited in planning adaptation strategies. Taking into consideration that rainfall is the most variable element of climate in the study area, rainfall data acquired from five meteorological stations for the year 2006 were correlated with changes in Normalized Difference Vegetation Index (NDVI) derived from Moderate Resolution Imaging Spectroradiometer (MODIS)/Terra satellite sensor for the same period using a linear regression equation. The results shows that rainfall–NDVI relationship was stronger along the seasonal track with R2 ranging from 0.74 to 0.94, indicating that NDVI seasonal variations can be used as a surrogate data source for monitoring climate change for short and long term scales ranging from regional to global magnitude especially in areas where data availability from ground-based measurements are unreliable.",
+    "readLink": "https://journals.vgtu.lt/index.php/GAC/article/view/4063"
+  },
+  {
+    "title": "Re-shuffling of species with climate disruption: a no-analog future for California birds?",
+    "authors": [
+      "Diana Stralberg,",
+      "Dennis Jongsomjit,",
+      "Christine A Howell,",
+      "Mark A Snyder,",
+      "John D Alexander,",
+      "John A Wiens,",
+      "Terry L Root"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0006825",
+    "journalVolume": "Vol. 4,\n                                no. 9\n                                \n                                  p.\n                                  e6825",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "By facilitating independent shifts in species' distributions, climate disruption may result in the rapid development of novel species assemblages that challenge the capacity of species to co-exist and adapt. We used a multivariate approach borrowed from paleoecology to quantify the potential change in California terrestrial breeding bird communities based on current and future species-distribution models for 60 focal species. Projections of future no-analog communities based on two climate models and two species-distribution-model algorithms indicate that by 2070 over half of California could be occupied by novel assemblages of bird species, implying the potential for dramatic community reshuffling and altered patterns of species interactions. The expected percentage of no-analog bird communities was dependent on the community scale examined, but consistent geographic patterns indicated several locations that are particularly likely to host novel bird communities in the future. These no-analog areas did not always coincide with areas of greatest projected species turnover. Efforts to conserve and manage biodiversity could be substantially improved by considering not just future changes in the distribution of individual species, but including the potential for unprecedented changes in community composition and unanticipated consequences of novel species assemblages.",
+    "readLink": "http://europepmc.org/articles/PMC2730567?pdf=render"
+  },
+  {
+    "title": "Geospatial Assessment of Flood-Tolerant Rice Varieties to Guide Climate Adaptation Strategies in India",
+    "authors": [
+      "Nisha Koppa,",
+      "Giriraj Amarnath"
+    ],
+    "doi": "https://doi.org/10.3390/cli9100151",
+    "journalVolume": "Vol. 9,\n                                no. 151\n                                \n                                  p.\n                                  151",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Rice is the most important food crop. With the largest rain-fed lowland area in the world, flooding is considered as the most important abiotic stress to rice production in India. With climate change, it is expected that the frequency and severity of the floods will increase over the years. These changes will have a severe impact on the rain-fed agriculture production and livelihoods of millions of farmers in the flood affected region. There are numerous flood risk adaptation and mitigation options available for rain-fed agriculture in India. Procuring, maintaining and distributing the newly developed submergence-tolerant rice variety called Swarna-Sub1 could play an important role in minimizing the effect of flood on rice production. This paper assesses the quantity and cost of a flood-tolerant rice seed variety- Swarna-Sub1, that would be required during the main cropping season of rice i.e., kharif at a district level for 17 major Indian states. The need for SS1 seeds for rice production was assessed by developing a geospatial framework using remote sensing to map the suitability of SS1, to help stakeholders prepare better in managing the flood risks. Results indicate that districts of Bihar, West Bengal and Uttar Pradesh will require the highest amount of SS1 seeds for flood adaptation strategies. The total estimated seed requirement for these 17 states would cost around 370 crores INR, less than 0.01 percent of Indian central government’s budget allocation for agriculture sector.",
+    "readLink": "https://www.mdpi.com/2225-1154/9/10/151"
+  },
+  {
+    "title": "Dramatic variability of the carbonate system at a temperate coastal ocean site (Beaufort, North Carolina, USA) is regulated by physical and biogeochemical processes on multiple timescales.",
+    "authors": [
+      "Zackary I Johnson,",
+      "Benjamin J Wheeler,",
+      "Sara K Blinebry,",
+      "Christina M Carlson,",
+      "Christopher S Ward,",
+      "Dana E Hunt"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0085117",
+    "journalVolume": "Vol. 8,\n                                no. 12\n                                \n                                  p.\n                                  e85117",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Increasing atmospheric carbon dioxide (CO2) from anthropogenic sources is acidifying marine environments resulting in potentially dramatic consequences for the physical, chemical and biological functioning of these ecosystems. If current trends continue, mean ocean pH is expected to decrease by ~0.2 units over the next ~50 years. Yet, there is also substantial temporal variability in pH and other carbon system parameters in the ocean resulting in regions that already experience change that exceeds long-term projected trends in pH. This points to short-term dynamics as an important layer of complexity on top of long-term trends. Thus, in order to predict future climate change impacts, there is a critical need to characterize the natural range and dynamics of the marine carbonate system and the mechanisms responsible for observed variability. Here, we present pH and dissolved inorganic carbon (DIC) at time intervals spanning 1 hour to >1 year from a dynamic, coastal, temperate marine system (Beaufort Inlet, Beaufort NC USA) to characterize the carbonate system at multiple time scales. Daily and seasonal variation of the carbonate system is largely driven by temperature, alkalinity and the balance between primary production and respiration, but high frequency change (hours to days) is further influenced by water mass movement (e.g. tides) and stochastic events (e.g. storms). Both annual (~0.3 units) and diurnal (~0.1 units) variability in coastal ocean acidity are similar in magnitude to 50 year projections of ocean acidity associated with increasing atmospheric CO2. The environmental variables driving these changes highlight the importance of characterizing the complete carbonate system rather than just pH. Short-term dynamics of ocean carbon parameters may already exert significant pressure on some coastal marine ecosystems with implications for ecology, biogeochemistry and evolution and this shorter term variability layers additive effects and complexity, including extreme values, on top of long-term trends in ocean acidification.",
+    "readLink": "http://europepmc.org/articles/PMC3866137?pdf=render"
+  },
+  {
+    "title": "Water Accounting Plus (WA+) &ndash; a water accounting procedure for complex river basins based on satellite measurements",
+    "authors": [
+      "P. Karimi,",
+      "W. G. M. Bastiaanssen,",
+      "D. Molden"
+    ],
+    "doi": "https://doi.org/10.5194/hess-17-2459-2013",
+    "journalVolume": "Vol. 17,\n                                no. 7\n                                \n                                  pp.\n                                  2459\n                                  – 2472",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Coping with water scarcity and growing competition for water among different sectors requires proper water management strategies and decision processes. A pre-requisite is a clear understanding of the basin hydrological processes, manageable and unmanageable water flows, the interaction with land use and opportunities to mitigate the negative effects and increase the benefits of water depletion on society. Currently, water professionals do not have a common framework that links depletion to user groups of water and their benefits. The absence of a standard hydrological and water management summary is causing confusion and wrong decisions. The non-availability of water flow data is one of the underpinning reasons for not having operational water accounting systems for river basins in place. In this paper, we introduce Water Accounting Plus (WA+), which is a new framework designed to provide explicit spatial information on water depletion and net withdrawal processes in complex river basins. The influence of land use and landscape evapotranspiration on the water cycle is described explicitly by defining land use groups with common characteristics. WA+ presents four sheets including (i) a resource base sheet, (ii) an evapotranspiration sheet, (iii) a productivity sheet, and (iv) a withdrawal sheet. Every sheet encompasses a set of indicators that summarise the overall water resources situation. The impact of external (e.g., climate change) and internal influences (e.g., infrastructure building) can be estimated by studying the changes in these WA+ indicators. Satellite measurements can be used to acquire a vast amount of required data but is not a precondition for implementing WA+ framework. Data from hydrological models and water allocation models can also be used as inputs to WA+.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/17/2459/2013/hess-17-2459-2013.pdf"
+  }
+]

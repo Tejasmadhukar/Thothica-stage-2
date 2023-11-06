@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Spatial patterns of West Nile virus distribution in the Volgograd region of Russia, a territory with long-existing foci",
+    "authors": [
+      "Natalia Shartova,",
+      "Varvara Mironova,",
+      "Svetlana Zelikhina,",
+      "Fedor Korennoy,",
+      "Mikhail Grishchenko"
+    ],
+    "doi": "Vol. 16,\n                                no. 1",
+    "issn": "1935-2727 (Print)",
+    "publisher": "1935-2735 (Online)",
+    "countryOfPublisher": "Public Library of Science (PLoS)",
+    "lcc": [
+      "United States",
+      "Medicine: Internal medicine: Special situations and conditions: Arctic medicine. Tropical medicine",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://journals.plos.org/plosntds/",
+    "abstract": "Southern Russia remains affected by West Nile virus (WNV). In the current study, we identified the spatial determinants of WNV distribution in an area with endemic virus transmission, with special reference to the urban settings, by mapping probable points of human infection acquisition and points of virus detection in mosquitoes, ticks, birds, and mammals during 1999–2016. The suitability of thermal conditions for extrinsic virus replication was assessed based on the approach of degree-day summation and their changes were estimated by linear trend analysis. A generalized linear model was used to analyze the year-to-year variation of human cases versus thermal conditions. Environmental suitability was determined by ecological niche modelling using MaxEnt software. Human population density was used as an offset to correct for possible bias. Spatial analysis of virus detection in the environment showed significant contributions from surface temperature, altitude, and distance from water bodies. When indicators of location and mobility of the human population were included, the relative impact of factors changed, with roads becoming most important. When the points of probable human case infection were added, the percentage of leading factors changed only slightly. The urban environment significantly increased the epidemic potential of the territory and created quite favorable conditions for virus circulation. The private building sector with low-storey houses and garden plots located in the suburbs provided a connection between urban and rural transmission cycles. Author summary West Nile fever is a zoonotic disease caused by flavivirus infection that dispersed circumglobally by the end of the 20th century. There is the long-existing endemic area in southern Russia (Volgograd region) that remains affected by West Nile virus (WNV) with the maximum number of reported cases in the country. The natural features of the region formed favorable conditions for long-term WNV circulation. At the same time, the urban environment could pose greater hazards for WNV infection in humans. Road density, distance from water bodies, land surface temperature and altitude were identified as the most significant spatial determinants of WNV distribution. The private building sector with low-storey houses and garden plots located in the city suburban area provided connections between urban and rural transmission cycles. Climate change also may favor WNV transmission as increased temperatures affect the sum of effective temperatures necessary for virus extrinsic replication. A statistically significant correlation between WNV human cases and the sum of effective temperatures was found during the last 20 years.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8803152/?tool=EBI"
+  },
+  {
+    "title": "Model-based assessment of changes in the potential distribution of Solenopsis geminata (Hymenoptera: Formicidae) according to climate change scenarios",
+    "authors": [
+      "Dae-hyeon Byeon,",
+      "Jae-Min Jung,",
+      "Youngjin Park,",
+      "Heung-Sik Lee,",
+      "Jong-Ho Lee,",
+      "Sunghoon Jung,",
+      "Wang-Hee Lee"
+    ],
+    "doi": "Vol. 13,\n                                no. 3\n                                \n                                  pp.\n                                  331\n                                  – 338",
+    "issn": "2287-884X (Print)",
+    "publisher": "2287-9544 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-asia-pacific-biodiversity/",
+    "abstract": "The tropical fire ant (TFA, Solenopsis geminata) is an aggressive fire ant species that can cause health problems in humans and damages ecosystems. The TFA can be found across the world, from North and South America to Africa, Asia, and Oceania; furthermore, it has been introduced into new areas by human transport or natural flights. In this study, species distribution modeling was applied to the TFA for the first time, and its potential distribution as a response to climate change was evaluated. This study used CLIMEX as the climate-specific species distribution modeling tool with the distribution data for TFA, current global meteorological data, and two types of climate change scenarios. Thus, although the climatic suitability of the TFA was assumed to decrease with climate change, its distribution limit was expected to increase. In addition, the difference between potential distributions predicted using Special Report on Emissions Scenarios A1B and Special Report on Emissions Scenarios A2 increased over time. In conclusion, even with an overall decrease in climatic suitability, in the future, the TFA will still be able to invade a new area that it cannot inhabit under the current climatic scenario. As the first study that predicts TFA distribution using a species distribution model, we expect that this study will provide the basic information for further TFA modeling and for setting up quarantine and control measures.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2287884X20300418"
+  },
+  {
+    "title": "Application of Different Weighting Schemes and Stochastic Simulations to Parameterization Processes Considering Observation Error: Implications for Climate Change Impact Analysis of Integrated Watershed Models",
+    "authors": [
+      "Eunhee Lee,",
+      "Hyeonju Lee,",
+      "Dongkyu Park,",
+      "Hyoun-Tae Hwang,",
+      "Changhui Park"
+    ],
+    "doi": "https://doi.org/10.3390/w15101880",
+    "journalVolume": "Vol. 15,\n                                no. 1880\n                                \n                                  p.\n                                  1880",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "We investigated the potential impact of observation error on the calibration performance of an integrated watershed model. A three-dimensional integrated model was constructed using HydroGeoSphere and applied to the Sabgyo watershed in South Korea to assess the groundwater–surface water interaction process. During the model calibration, three different weighting schemes that consider observation error variances were applied to the parameter estimation tool (PEST). The applied weighting schemes were compared with the results from stochastic models, in which observation errors from surface discharges were considered a random variable. Based on the calibrated model, the interactions between groundwater and surface water were predicted under different climate change scenarios (RCP). Comparisons of calibration performance between the different models showed that the observation-error-based weighting schemes contributed to an improvement in the model parameterization. Analysis of the exchange flux between groundwater and surface water highlighted the significance of groundwater in delaying the hydrological response of integrated water systems. Predictions based on different RCP scenarios suggested the increasing role of groundwater in watershed dynamics. We concluded that the comparison of different weighting schemes for the determination of error covariance could contribute to an improved characterization of watershed processes and reduce the model uncertainty arising from observation errors.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/10/1880"
+  },
+  {
+    "title": "What Does Global Land Climate Look Like at 2°C Warming?",
+    "authors": [
+      "Taejin Park,",
+      "Hirofumi Hashimoto,",
+      "Weile Wang,",
+      "Bridget Thrasher,",
+      "Andrew R. Michaelis,",
+      "Tsengdar Lee,",
+      "Ian G. Brosnan,",
+      "Ramakrishna R. Nemani"
+    ],
+    "doi": "https://doi.org/10.1029/2022EF003330",
+    "journalVolume": "Vol. 11,\n                                no. 5\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Constraining an increase in global mean temperature below 2°C compared to pre‐industrial levels is critical to limiting dangerous and cascading impacts of anthropogenic climate change. Understanding future climatic changes and their spatial heterogeneity at 2°C warming is thus important for policy makers to prepare actionable adaptation and mitigation plans by identifying where and to what extent lives and livelihoods will be impacted. This study uses the recently released NASA Earth eXchange Global Daily Downscaled Projections (NEX‐GDDP) CMIP6 data to provide a broad overview of projected changes in six key climate variables and two climate impact indicators at a time when warming exceeds 2°C. Analysis of global mean temperature changes indicates the 2040s as the decade when most CMIP6 models reach 2°C warming with respect to a pre‐industrial period (1850–1900). During the 2040s, we find that global mean temperature, precipitation, relative humidity, downwelling shortwave and longwave radiation, and wind speed over land under the high emission scenario are projected to change by +2.8°C, +22.4 mm/year, −0.73%, −2.23 , +15.9 W/m2, and −0.04 m/s, respectively. Many of the future changes are expected to exacerbate climate impacts including heat stress and fire danger. Our analysis shows geographic patterns of policy‐relevant climatic changes, as parts of the globe will experience significant climate impacts even if the goal to keep warming below 2°C goal is achieved. Our results highlight the urgent need for further studies focused on identifying key hotspots and advancing region‐specific actionable adaptation and mitigation plans.",
+    "readLink": "https://doi.org/10.1029/2022EF003330"
+  },
+  {
+    "title": "Spatial and Climate Governance and Policy to Tackle the Challenges of the Anthropocene: A Critical Analysis Based on the Paradigmatic Tourism Destination of Mallorca (Spain)",
+    "authors": [
+      "Luis A. Escudero-Gómez,",
+      "Jesús M. González-Pérez,",
+      "Rubén C. Lois-González"
+    ],
+    "doi": "https://doi.org/10.3390/cli10110175",
+    "journalVolume": "Vol. 10,\n                                no. 175\n                                \n                                  p.\n                                  175",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "The Anthropocene era demands a future alternative to the current state of play. The aim of this study is to analyze spatial and climate governance and policy through a critical geographical study of the island of Mallorca (Spain), an example of the model of urban development and tourism growth that has generated acute environmental impacts. Beginning with the European Union and Spain, the work then narrows its focus to the case study of Mallorca. The study is based on a review of the academic literature, statistical sources, and an analysis of the content of spatial and climate policy in Spain and the Balearic Islands. The work reflects on the flawed spatial planning responses to climate change and outlines strategies to adopt more radical measures for effective climate action. The work identifies six main shortcomings and makes proposals to tackle the challenges of the Anthropocene in Mallorca, responding to each of the deficiencies detected. The article seeks to encourage reflection and proposes key strategies for spatial governance and climate policy to lend coherence to the fight against climate change.",
+    "readLink": "https://www.mdpi.com/2225-1154/10/11/175"
+  },
+  {
+    "title": "Consequences of warming and resource quality on the stoichiometry and nutrient cycling of a stream shredder.",
+    "authors": [
+      "Esther Mas-Martí,",
+      "Anna M Romaní,",
+      "Isabel Muñoz"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0118520",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  p.\n                                  e0118520",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "As a result of climate change, streams are warming and their runoff has been decreasing in most temperate areas. These changes can affect consumers directly by increasing their metabolic rates and modifying their physiology and indirectly by changing the quality of the resources on which organisms depend. In this study, a common stream detritivore (Echinogammarus berilloni Catta) was reared at two temperatures (15 and 20°C) and fed Populus nigra L. leaves that had been conditioned either in an intermittent or permanent reach to evaluate the effects of resource quality and increased temperatures on detritivore performance, stoichiometry and nutrient cycling. The lower quality (i.e., lower protein, soluble carbohydrates and higher C:P and N:P ratios) of leaves conditioned in pools resulted in compensatory feeding and lower nutrient retention capacity by E. berilloni. This effect was especially marked for phosphorus, which was unexpected based on predictions of ecological stoichiometry. When individuals were fed pool-conditioned leaves at warmer temperatures, their growth rates were higher, but consumers exhibited less efficient assimilation and higher mortality. Furthermore, the shifts to lower C:P ratios and higher lipid concentrations in shredder body tissues suggest that structural molecules such as phospholipids are preserved over other energetic C-rich macromolecules such as carbohydrates. These effects on consumer physiology and metabolism were further translated into feces and excreta nutrient ratios. Overall, our results show that the effects of reduced leaf quality on detritivore nutrient retention were more severe at higher temperatures because the shredders were not able to offset their increased metabolism with increased consumption or more efficient digestion when fed pool-conditioned leaves. Consequently, the synergistic effects of impaired food quality and increased temperatures might not only affect the physiology and survival of detritivores but also extend to other trophic compartments through detritivore-mediated nutrient cycling.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0118520"
+  },
+  null,
+  {
+    "title": "Spatio and temporal variations in population abundance and distribution of peach fruit fly, Bactrocera zonata (Saunders) during future climate change scenarios based on temperature driven phenology model",
+    "authors": [
+      "Jaipal S. Choudhary,",
+      "Santosh S. Mali,",
+      "Naiyar Naaz,",
+      "Sandip Malik,",
+      "Bikash Das,",
+      "A.K. Singh,",
+      "M. Srinivasa Rao,",
+      "B.P. Bhatt"
+    ],
+    "doi": "Vol. 32\n                                \n                                \n                                  p.\n                                  100277",
+    "issn": "2212-0963 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/climate-risk-management/",
+    "abstract": "The peach fruit fly, Bactrocera zonata (Saunders) (Diptera: Tephritidae) is a poylphagous and serious insect pest of horticultural crops. The purpose of study was to understand the spatial and temporal variations in population abundance and distribution of B. zonata in response to climate change-based variations in temperature across the India. To examine the likely possibilities of changes in abundance and distribution of B. zonata, temperature driven process based phenology models were linked with climatic data of multiple General Circulation Model (eight models) and climate change scenarios (RCP 2.6, 4.5, 6.0 and 8.5) using the Insect Life Cycle Modeling (ILCYM) software. The risk indices (establishment, generation, and activity index) were mapped and quantified the changes in respect to locations, scenarios, models and times (2050 & 2070). The risk indices results revealed that, 1.73 (0.8–1.0 establishment risk), 14.15 (>16 high abundance) and 59.69% (>8.0 generation per year) area is projected to be highly suitable for B. zonata regarding establishment, abundance and generation indices, respectively in India under current climatic conditions. In spite of decreased permanent establishment (Establishment Risk Index > 0.6) in future climatic conditions, it is predicted that abundance and generation indices would increase in all the locations of the country. The variation in the results due to use of multiple GCM-scenario combinations suggested that choice of GCM and scenario combinations have impact on future prediction of the species. Overall, results indicate that B. zonata would be significant threat to horticultural crops in India. Therefore, present findings are of immensly useful to provide important information to design integrated pest management strategies and phytosanitary measurements for local, regional and national level to restrain the insect pest activity across different layers.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212096321000061"
+  },
+  {
+    "title": "Regional seropositivity for Borrelia burgdorferi and associated risk factors: findings from the Rhineland Study, Germany",
+    "authors": [
+      "Annabell Coors,",
+      "Max J. Hassenstein,",
+      "Gérard Krause,",
+      "Tobias Kerrinnes,",
+      "Manuela Harries,",
+      "Monique M. B. Breteler,",
+      "Stefanie Castell"
+    ],
+    "doi": "https://doi.org/10.1186/s13071-022-05354-z",
+    "journalVolume": "Vol. 15,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "1756-3305 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "https://parasitesandvectors.biomedcentral.com/",
+    "abstract": "Abstract Background Lyme borreliosis is the most prevalent vector-borne disease in Europe, and numbers might increase due to climate change. However, borreliosis is not notifiable in North Rhine-Westphalia (NRW), Germany. Hence, little is known about the current human seroprevalence in NRW. However, the proportion of Borrelia burgdorferi sensu lato-infected ticks has increased in a NRW nature reserve. The literature suggests increasing age and male sex as risk factors for seropositivity, whereas the influence of socioeconomic status is controversial. Thus, we aimed to determine regional seropositivity for Borrelia burgdorferi sensu lato (B. burgdorferi s.l.) and its risk factors in the Rhineland Study population in Bonn, NRW, and to compare it with previous surveys to evaluate potential effects of climate change. Methods We assessed seropositivity in 2865 Rhineland Study participants by determining immunoglobulin G (IgG) and immunoglobulin M (IgM) antibodies for B. burgdorferi s.l. using a two-step algorithm combining enzyme-linked immunosorbent assay tests and line immunoblots. We calculated the odds of being classified as IgG or IgM positive as a function of age, sex, and educational level using binomial logistic regression models. We applied varying seropositivity classifications and weights considering age, sex and education to compensate for differences between the sample and regional population characteristics. Results IgG antibodies for B. burgdorferi s.l. were present in 2.4% and IgM antibodies in 0.6% of the participants (weighted: 2.2% [IgG], 0.6% [IgM]). The likelihood of IgG seropositivity increased by 3.0% (95% confidence interval [CI] 1.5–5.2%) per 1 year increase in age. Men had 1.65 times the odds for IgG seropositivity as women (95% CI 1.01–2.73), and highly educated participants had 1.83 times the odds (95% CI 1.10–3.14) as participants with an intermediate level of education. We found no statistically significant link between age, sex, or education and IgM seropositivity. Our weighted and age-standardized IgG seroprevalence was comparable to the preceding serosurvey German Health Interview and Examination Survey for Adults (DEGS) for NRW. Conclusions We confirmed that increasing age and male sex are associated with increased odds for IgG seropositivity and provide evidence for increased seropositivity in the highly educated group. B. burgdorferi s.l. seropositivity remained constant over the past decade in this regional German population. Graphical abstract",
+    "readLink": "https://doi.org/10.1186/s13071-022-05354-z"
+  },
+  {
+    "title": "Climate Effects on Vertical Forest Phenology of <i>Fagus sylvatica</i> L., Sensed by Sentinel-2, Time Lapse Camera, and Visual Ground Observations",
+    "authors": [
+      "Lars Uphus,",
+      "Marvin Lüpke,",
+      "Ye Yuan,",
+      "Caryl Benjamin,",
+      "Jana Englmeier,",
+      "Ute Fricke,",
+      "Cristina Ganuza,",
+      "Michael Schwindl,",
+      "Johannes Uhler,",
+      "Annette Menzel"
+    ],
+    "doi": "https://doi.org/10.3390/rs13193982",
+    "journalVolume": "Vol. 13,\n                                no. 3982\n                                \n                                  p.\n                                  3982",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Contemporary climate change leads to earlier spring phenological events in Europe. In forests, in which overstory strongly regulates the microclimate beneath, it is not clear if further change equally shifts the timing of leaf unfolding for the over- and understory of main deciduous forest species, such as Fagus sylvatica L. (European beech). Furthermore, it is not known yet how this vertical phenological (mis)match—the phenological difference between overstory and understory—affects the remotely sensed satellite signal. To investigate this, we disentangled the start of season (SOS) of overstory F.sylvatica foliage from understory F. sylvatica foliage in forests, within nine quadrants of 5.8 × 5.8 km, stratified over a temperature gradient of 2.5 °C in Bavaria, southeast Germany, in the spring seasons of 2019 and 2020 using time lapse cameras and visual ground observations. We explained SOS dates and vertical phenological (mis)match by canopy temperature and compared these to Sentinel-2 derived SOS in response to canopy temperature. We found that overstory SOS advanced with higher mean April canopy temperature (visual ground observations: −2.86 days per °C; cameras: −2.57 days per °C). However, understory SOS was not significantly affected by canopy temperature. This led to an increase of vertical phenological mismatch with increased canopy temperature (visual ground observations: +3.90 days per °C; cameras: +2.52 days per °C). These results matched Sentinel-2-derived SOS responses, as pixels of higher canopy height advanced more by increased canopy temperature than pixels of lower canopy height. The results may indicate that, with further climate change, spring phenology of F. sylvatica overstory will advance more than F. sylvatica understory, leading to increased vertical phenological mismatch in temperate deciduous forests. This may have major ecological effects, but also methodological consequences for the field of remote sensing, as what the signal senses highly depends on the pixel mean canopy height and the vertical (mis)match.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/19/3982"
+  }
+]

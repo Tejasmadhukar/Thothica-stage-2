@@ -1,0 +1,218 @@
+[
+  {
+    "title": "A macromodel dns/swat dataset for the sediment yield analysis in the raba river basin (Carpathian mts.)",
+    "authors": [
+      "Paulina Orlińska-Woźniak,",
+      "Ewa Szalińska,",
+      "Paweł Wilk"
+    ],
+    "doi": "Vol. 33\n                                \n                                \n                                  p.\n                                  106574",
+    "issn": "2352-3409 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/data-in-brief/",
+    "abstract": "A database has been created as a result of the Raba River basin (Carpathian Mts., Poland) mapping/projection in the Macromodel DNS/SWAT. The sediment yield simulations (SYLD) in each of the 36 designated sub-basins have been performed, taking also into account seasonal variability. The model subsequently has been used as a reference/baseline for subsequent variant scenarios, simulating forecasted changes in the environment. The generated data ultimately allowed for creation of the current dataset. The impact of 20 variant scenarios, simulating forecasted climate and land use changes, on the sediment yield values was analyzed. The applied scenarios took into account various possibilities, from hypothetical ones, where only one parameter has been changed, to combined ones, which included simultaneous change of selected parameters. Short-term (2021–2050) and long-term (2071–2100) time horizons have also been included in this analysis. Sediment yield values and their variability, depending on the season, can be successfully used as reference values for the other mountain and sub-mountainous catchments, both in the Carpathian Mts., and throughout central Europe. Due to the permanent lack of monitoring data on the sediment yields, not only in Poland, the presented database is a valuable source of information. Moreover, spatial and temporal predictions of sediment yield changes are necessary to decide on actions which should be taken to reduce impact of climate changes at the basin scale. This data can be also used as a basis for further research related to the transport of pollutants adsorbed on sediment particles.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352340920314554"
+  },
+  {
+    "title": "Projecting the proliferation risk of Oncomelania hupensis in China driven by SSPs: A multi-scenario comparison and integrated modeling study",
+    "authors": [
+      "Yan-Feng Gong,",
+      "Xiao-Kang Hu,",
+      "Yu-Wan Hao,",
+      "Zhuo-Wei Luo,",
+      "Jia-Xin Feng,",
+      "Jing-Bo Xue,",
+      "Zhao-Yu Guo,",
+      "Yin-Long Li,",
+      "Li-Juan Zhang,",
+      "Shang Xia,",
+      "Shan LYU,",
+      "Jing Xu,",
+      "Shi-Zhu Li"
+    ],
+    "doi": "Vol. 13,\n                                no. 2\n                                \n                                  pp.\n                                  258\n                                  – 265",
+    "issn": "1674-9278 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/advances-in-climate-change-research/",
+    "abstract": "Climate change has been known to cause variations in the geographically suitable areas for the schistosome-transmitting Oncomelania hupensis (O. hupensis). The spread of snails not only depends on the degree of warming but also on the socioeconomic development of the next few decades. Shared socioeconomic pathways (SSPs) published by CMIP6 consider carbon emission pathways as well as influences of distinct types of social development and land use on the regional climate, providing the possibility to accurately evaluate the impact of socioeconomic development and climate variation on the spread of O. hupensis. This study employed SSP126, SSP245, SSP370, and SSP585 and the correlative approach to explore the impacts of climate change and socioeconomic development on the potential diffusion areas for O. hupensis in China. The results exhibited strong evidence that O. hupensis will spread in the north of the middle and lower reaches of the Yangtze River and disappear from a small part of its current southern habitat, whereas in Sichuan and Yunnan, O. hupensis may spread slightly to the southeast. The projection also demonstrated that fossil fuel-driven development (SSP585) will be more conducive to the spread of O. hupensis breeding sites in the 2030s, whereas the continuous increase in snail breeding habitats under the regional rivalry path (SSP370) may lead to great challenges in snail control in the long term (2020–2080).",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674927822000193"
+  },
+  {
+    "title": "Investigation of the global methane budget over 1980–2017 using GFDL-AM4.1",
+    "authors": [
+      "J. He,",
+      "J. He,",
+      "V. Naik,",
+      "L. W. Horowitz,",
+      "E. Dlugokencky,",
+      "K. Thoning"
+    ],
+    "doi": "https://doi.org/10.5194/acp-20-805-2020",
+    "journalVolume": "Vol. 20\n                                \n                                \n                                  pp.\n                                  805\n                                  – 827",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Changes in atmospheric methane abundance have implications for both chemistry and climate as methane is both a strong greenhouse gas and an important precursor for tropospheric ozone. A better understanding of the drivers of trends and variability in methane abundance over the recent past is therefore critical for building confidence in projections of future methane levels. In this work, the representation of methane in the atmospheric chemistry model AM4.1 is improved by optimizing total methane emissions (to an annual mean of 580±34 Tg yr−1) to match surface observations over 1980–2017. The simulations with optimized global emissions are in general able to capture the observed trend, variability, seasonal cycle, and latitudinal gradient of methane. Simulations with different emission adjustments suggest that increases in methane emissions (mainly from agriculture, energy, and waste sectors) balanced by increases in methane sinks (mainly due to increases in OH levels) lead to methane stabilization (with an imbalance of 5 Tg yr−1) during 1999–2006 and that increases in methane emissions (mainly from agriculture, energy, and waste sectors) combined with little change in sinks (despite small decreases in OH levels) during 2007–2012 lead to renewed growth in methane (with an imbalance of 14 Tg yr−1 for 2007–2017). Compared to 1999–2006, both methane emissions and sinks are greater (by 31 and 22 Tg yr−1, respectively) during 2007–2017. Our tagged tracer analysis indicates that anthropogenic sources (such as agriculture, energy, and waste sectors) are more likely major contributors to the renewed growth in methane after 2006. A sharp increase in wetland emissions (a likely scenario) with a concomitant sharp decrease in anthropogenic emissions (a less likely scenario), would be required starting in 2006 to drive the methane growth by wetland tracer. Simulations with varying OH levels indicate that a 1 % change in OH levels could lead to an annual mean difference of ∼4 Tg yr−1 in the optimized emissions and a 0.08-year difference in the estimated tropospheric methane lifetime. Continued increases in methane emissions along with decreases in tropospheric OH concentrations during 2008–2015 prolong methane's lifetime and therefore amplify the response of methane concentrations to emission changes. Uncertainties still exist in the partitioning of emissions among individual sources and regions.",
+    "readLink": "https://www.atmos-chem-phys.net/20/805/2020/acp-20-805-2020.pdf"
+  },
+  {
+    "title": "PREDICTION OF CHANGES IN VEGETATION DISTRIBUTION UNDER CLIMATE CHANGE SCENARIOS USING MODIS DATASET",
+    "authors": [
+      "H. Hirayama,",
+      "M. Tomita,",
+      "K. Hara"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLI-B8-883-2016",
+    "journalVolume": "Vol. XLI-B8\n                                \n                                \n                                  pp.\n                                  883\n                                  – 887",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "The distribution of vegetation is expected to change under the influence of climate change. This study utilizes vegetation maps derived from Terra/MODIS data to generate a model of current climate conditions suitable to beech-dominated deciduous forests, which are the typical vegetation of Japan’s cool temperate zone. This model will then be coordinated with future climate change scenarios to predict the future distribution of beech forests. The model was developed by using the presence or absence of beech forest as the dependent variable. Four climatic variables; mean minimum daily temperature of the coldest month (TMC)，warmth index (WI)， winter precipitation (PRW) and summer precipitation (PRS): and five geophysical variables; topography (TOPO), surface geology (GEOL), soil (SOIL), slope aspect (ASP), and inclination (INCL); were adopted as independent variables. Previous vegetation distribution studies used point data derived from field surveys. The remote sensing data utilized in this study, however, should permit collecting of greater amounts of data, and also frequent updating of data and distribution maps. These results will hopefully show that use of remote sensing data can provide new insights into our understanding of how vegetation distribution will be influenced by climate change.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B8/883/2016/isprs-archives-XLI-B8-883-2016.pdf"
+  },
+  {
+    "title": "What is a psychosocial work environment?",
+    "authors": [
+      "Reiner Rugulies"
+    ],
+    "doi": "https://doi.org/10.5271/sjweh.3792",
+    "journalVolume": "Vol. 45,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 6",
+    "issn": "0355-3140 (Print)",
+    "publisher": "1795-990X (Online)",
+    "countryOfPublisher": "Nordic Association of Occupational Safety and Health (NOROSH)",
+    "lcc": [
+      "Finland",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.sjweh.fi/",
+    "abstract": "The term “psychosocial work environment” appears frequently in research articles, including those published in the Scandinavian Journal of Work, Environment and Health (1‒8). Recently, the first international handbook on the emerging field of “psychosocial epidemiology” extensively addressed the contribution of psychosocial working conditions to health and illness (9). There is, however, also a controversial debate pertaining to the meaning of the word “psychosocial“ and whether it might enhance a focus on psychological phenomena and draw attention away from the work environment (10). Such concerns recently motivated the Swedish Work Environment Authority to remove the term psychosocial work environment when they published their new provision on the organizational and social work environment: ”A common term used for this work environment is psychosocial. This is a broad concept that basically refers to how the individual experiences and responds to his or her surroundings and thus the individual becomes the focus. Instead, we have chosen to highlight the organizational and social conditions and requirements at work because that is what the employer can control.” (11, p12). (Translated from Swedish by the author.) In the following, I provide some comments on this debate. I will first address the historical use of the term psychosocial work environment and then present a conceptual framework showing the relation of the psychosocial work environment to phenomena on both the societal and individual level. Historical use of the term \"psychosocial work environment\" To my knowledge, the first English-language research article using “psychosocial work environment” in the title was published in 1982. It was on “Myocardial infarction risk and psychosocial work environment: an analysis of the male Swedish working force”, authored by the two Swedish researchers Lars Alfredsson and Töres Theorell and the US-American researcher Robert Karasek (12). Also in the following years, the term was mainly used in articles by Swedish/US author groups. In 1991, 21 researchers, again most of them from Sweden and the US, contributed to the book The Psychosocial Work Environment: Work Organization, Democratization and Health (13). The book was published in memory of Bertil Gardell, who held the first chair of work and organizational psychology at the Department of Psychology at the University of Stockholm from 1976 until his early death in 1987 (14). Since the 1960s, Gardell had published on topics such alienation, monotonous and deskilling work, influence and autonomy, and many articles in the book were dedicated to these factors (13). This line of research led, among other things, to the development of the demand‒control (job strain) model that dominated psychosocial work environment research in the 1980s and 1990s (15). In the 1990s and early 2000s, psychosocial work environment research increasingly included new concepts, such as balance between efforts and rewards (16), organizational justice (17), workplace social capital (18) and workplace bullying (19). One could say that psychosocial work environment research became more “psychological”, in the sense that research became increasingly focused on whether or not workers feel treated fairly and respected and on the emotional effects of work tasks, procedures, or behaviors by supervisors, colleagues, clients and customers. In the Encyclopaedia of Occupational Health and Safety, published in 1998 by the International Labor Office (ILO) (20), the chapter on “Psychosocial and Organizational Factors” illustrated this broadened perspective. “These conditions, which are commonly referred to as psychosocial factors, include aspects of the job and work environment such as organizational climate or culture, work roles, interpersonal relationships at work, and the design and content of tasks (eg, variety, meaning, scope, repetitiveness, etc.). The concept of psychosocial factors extends also to the extra-organizational environment (eg, domestic demands) and aspects of the individual (eg, personality and attitudes), which may influence the development of stress at work. Frequently, the expressions work organization or organizational factors are used interchangeably with psychosocial factors in reference to working conditions which may lead to stress.” (20, p34.32). This quote also shows that defining “psychosocial factors” can be challenging. On the one hand, the authors regard psychosocial factors as interchangeable with “work organization”. On the other hand, they point out that psychosocial factors also extend to “aspects of the individual” such as “personality and attitudes”. The use of the same term for very different phenomena such as work organization and personality and attitudes is problematic in the ILO definition, and it is unclear how work organization and individual aspects are thought to be related to each other. A conceptual framework for research on psychosocial work environment and health Figure 1 shows a conceptual framework for research on psychosocial work environment and health depicting the relation of the psychosocial work environment to phenomena both on the societal and individual level. I adapted and modified the framework from two previous publications: an editorial on \"Psychosocial determinants of health in social epidemiology\" by Martikainen et al (21) and a book chapter on \"Epidemiology of health and illness: A ­socio-psycho-physiological perspective\" by Rugulies et al (22). Similar frameworks have been published elsewhere (23‒25). The steps in the causal pathway are denoted with roman numerals to which I will refer frequently. The pathway starts with (i) (macro-level) economic, social and political structures, such as the modes of production, division of labor, type of social welfare regime or the legal system and (ii) (meso-level) workplace structures, such as type of employment contract or adequacy of staffing that (iii) impact the meso-level psychosocial working conditions, such as job demands, work organization, content of work or social relations at work. These psychosocial working conditions are experienced by (iv) the individual, or group of individuals, and elicit cognitive and emotional processes. Through these processes the psychosocial working conditions subsequently evoke (v) psycho-physiological changes and (vi) health-related behaviors that (vii) affect risk of somatic diseases and mental disorders. A challenge for psychosocial work environment research is the step from (iii) to (iv), where the working conditions “get under the skin” of the workers and are assumed to alter the workers’ cognitions, emotions, behavior and physiology ‒ a process that has also been termed as “embodiment” (26). This is a two-way process, in which not only the working conditions alter the mind and the body of the workers, but where the workers’ cognitions and emotions also alter the way the workers experience working conditions (27). This raises the question to what extent the working conditions in the environment (iii) differ from the experienced working conditions by the individual (iv), a question that is in particular crucial for research that aims to ascertain psychosocial working conditions as exposures in the environment but for practical reasons measures these conditions by self-report from the individual (28, 29). A related question is the extent to which experiencing working conditions requires a conscious process, or if certain working conditions could be embodied while bypassing the consciousness of the individual (30). The conceptual framework depicted in figure 1 may be useful for placing studies from different academic disciplines into a bigger picture of psychosocial work environment research, emphasizing the transdisciplinary nature of this type of research. Work environment research that is denoted as “psychosocial” is often focused on how psychosocial working conditions (iii), such as job demands, work organization, job content or social relations at work (1) are affecting psycho-physiological changes (v) (eg, stress axis activation) (31), health-related behaviors (vi) (eg, smoking or leisure time physical activity) (32, 33) or risk of diseases and disorders (vii), such as cardiovascular disease (34, 35), diabetes (36, 37), musculoskeletal disorders (38) or depression (39-41). In addition to this, the framework in figure 1 suggests that psychosocial work environment research may also include research on the historical origins of contemporary societal structures (i) (42-44) and on the impact of macro-level phenomena (i) (eg, the global financial crisis of 2007) on workers’ health (vii) (45) and how this impact may be explained by changes in workplace structures (ii), for example by staff reductions, or by deteriorating working conditions and reduced job security (iii) (46, 47). Psychosocial work environment research may further include psychobiological research that focuses on how the cognitive and emotional processing of the individual (iv) evoke psycho-physiological changes (v) (48). The framework in figure 1 shows a uni-directional process. Although reversed associations are possible, for example that health and illness (vii) may affect individuals’ health-related behaviors (vi) or cognitive and emotional processes (iv), such bi-directional associations are intentionally not depicted to emphasize the main direction in the chain of causation from the macro-level to the meso-level to the individual-level. One exception though has been made, indicated by the dashed arrows originating from “individual-level experience and cognitive and emotional processes” and pointing to “workplace structures” and “psychosocial working conditions”. These arrows are shown to acknowledge workers’ individual and collective efforts to change workplace structures and working conditions. One example is the struggle of labor unions worldwide for the eight-hour work day in the 19th and early 20th centuries (49). Another example is what has been termed as “job crafting”, that is the behaviors of workers to reduce barriers and enhance resources at work (50). To summarize, I suggest to regard the psychosocial work environment as an intermediate step in a causal pathway linking economic, social and political structures with health and illness through psychological and psycho-physiological processes. Because of the intermediary position of the psychosocial work environment, psychosocial work environment research is not limited to “how the individual experiences and responds to his or her surroundings” (11, p12), but includes also research on the macro- and meso-level structures that determine and shape the psychosocial work environment. The psychosocial work environment is therefore a key research field for understanding how the interrelation of societal structures, environmental exposures, and psychological and psycho-physiological processes affect health and illness. Acknowledgement Many thanks to my colleagues from the “Psychosocial Work Environment Research Group” at the National Research Centre for the Working Environment, Copenhagen, Denmark, for their inspiring and critical feedback on an internal discussion paper on the meaning of psychosocial work environment circulated in spring 2018. Special thanks to senior researchers Birgit Aust and Ida EH Madsen for comments to the first draft of this editorial.",
+    "readLink": "\n      https://www.sjweh.fi/show_abstract.php?abstract_id=3792\n    "
+  },
+  {
+    "title": "Climate extremes and challenges to infrastructure development in coastal cities in Bangladesh",
+    "authors": [
+      "Sowmen Rahman,",
+      "Mohammed Ataur Rahman"
+    ],
+    "doi": "https://doi.org/10.1016/j.wace.2014.07.004",
+    "journalVolume": "Vol. 7,\n                                no. C\n                                \n                                  pp.\n                                  96\n                                  – 108",
+    "issn": "2212-0947 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/weather-and-climate-extremes/",
+    "abstract": "Most of the coastal cities in Bangladesh are situated on the riverbanks of low-lying tidal zones at an average elevation of 1.0–1.5 m from the sea level. Construction and management of buildings, roads, power and telecommunication transmission lines, drainage and sewerage and waste management are very difficult and vulnerable to climate change disasters. Cyclonic storms associated with tidal floods impact seriously the infrastructures and thus the livelihoods. Although coastal cities are the ultimate shelters of the coastal people during the extremes events, the coastal cities are not safe and cannot support them due to poor infrastructure. This study analyses the challenges coastal urbanization faces under different situations like cyclones, floods and water-logging, salinity, land-sliding and erosion etc. during the disasters and their effects on city lives for water supply and sanitation, power and electricity and waste management etc., and puts forward recommendations towards sustainable planning of coastal cities.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212094714000681"
+  },
+  {
+    "title": "Mapping the Establishment and Invasiveness Potential of Rainbow Trout (Oncorhynchus mykiss) in Turkey: With Special Emphasis on the Conservation of Native Salmonids",
+    "authors": [
+      "Baran Yoğurtçuoğlu,",
+      "Tuba Bucak,",
+      "Fitnat Güler Ekmekçi,",
+      "Cüneyt Kaya,",
+      "Ali Serhan Tarkan,",
+      "Ali Serhan Tarkan"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2020.599881",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Rainbow trout (Oncorhynchus mykiss) has become by far the most frequently farmed freshwater fish species in Turkey, whereas very little is known about its establishment and invasiveness potential. We explored this potential through a combination of Maxent habitat suitability model and the Aquatic Species Invasiveness Screening Kit (AS-ISK) on the river basin scale by generating an overall risk score (ORS). The outcome of this approach was also incorporated with the spatial analysis of native salmonid species by generating a relative vulnerability score (RVS) to prioritize susceptibility of native species (or populations) and to propose risk hotspots by identifying their potential geographic overlap and interaction with O. mykiss. Results suggest that the northern basins (Eastern Black Sea, Western Black Sea and Marmara basins) are the most suitable basins for O. mykiss. According to the Basic Risk Assessment (BRA) threshold scores, O. mykiss is classified as “high risk” for 3 (12.0%) of the 25 river basins screened (Western Black Sea, Eastern Black Sea and Maritza-Ergene), and as “medium risk” for the remaining basins. The climate change assessment (CCA) scores negatively contributed the overall invasiveness potential of O. mykiss in 22 (88.0%) of the river basins and resulted in zero contribution for the remaining three, namely Aras-Kura, Çoruh river and Eastern Black Sea. The ORS score of river basins was lowest for Orontes and highest for Western Black Sea, whereas it was lowest for Konya-closed basin and highest for Eastern Black Sea, when CCA was associated. The micro-basins occupied by Salmo rizeensis had the highest mean habitat suitability with O. mykiss. Among the all species, S. abanticus had the highest RVS, followed by S. munzuricus and S. euphrataeus. The overall outcome of the present study also suggests that the establishment and invasiveness potential of O. mykiss may decrease under future (climate warmer) in Turkey, except for the northeast region. This study can provide environmental managers and policy makers an insight into using multiple tools for decision-making. The proposed RVS can also be considered as a complementary tool to improve IUCN red list assessment protocols of species.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2020.599881/full"
+  },
+  {
+    "title": "Dehydration Stress Contributes to the Enhancement of Plant Defense Response and Mite Performance on Barley",
+    "authors": [
+      "M. E. Santamaria,",
+      "M. E. Santamaria,",
+      "Isabel Diaz,",
+      "Isabel Diaz,",
+      "Manuel Martinez,",
+      "Manuel Martinez"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2018.00458",
+    "journalVolume": "Vol. 9",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Under natural conditions, plants suffer different stresses simultaneously or in a sequential way. At present, the combined effect of biotic and abiotic stressors is one of the most important threats to crop production. Understanding how plants deal with the panoply of potential stresses affecting them is crucial to develop biotechnological tools to protect plants. As well as for drought stress, the economic importance of the spider mite on agriculture is expected to increase due to climate change. Barley is a host of the polyphagous spider mite Tetranychus urticae and drought produces important yield losses. To obtain insights on the combined effect of drought and mite stresses on the defensive response of this cereal, we have analyzed the transcriptomic responses of barley plants subjected to dehydration (water-deficit) treatment, spider mite attack, or to the combined dehydration-spider mite stress. The expression patterns of mite-induced responsive genes included many jasmonic acid responsive genes and were quickly induced. In contrast, genes related to dehydration tolerance were later up-regulated. Besides, a higher up-regulation of mite-induced defenses was showed by the combined dehydration and mite treatment than by the individual mite stress. On the other hand, the performance of the mite in dehydration stressed and well-watered plants was tested. Despite the stronger defensive response in plants that suffer dehydration and mite stresses, the spider mite demonstrates a better performance under dehydration condition than in well-watered plants. These results highlight the complexity of the regulatory events leading to the response to a combination of stresses and emphasize the difficulties to predict their consequences on crop production.",
+    "readLink": "http://journal.frontiersin.org/article/10.3389/fpls.2018.00458/full"
+  },
+  {
+    "title": "Nonstationary Analyses of the Maximum and Minimum Streamflow in Tamsui River Basin, Taiwan",
+    "authors": [
+      "Jenq-Tzong Shiau,",
+      "Yi-Ting Liu"
+    ],
+    "doi": "https://doi.org/10.3390/w13060762",
+    "journalVolume": "Vol. 13,\n                                no. 762\n                                \n                                  p.\n                                  762",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "This study aims to detect non-stationarity of the maximum and minimum streamflow regime in Tamsui River basin, northern Taiwan. Seven streamflow gauge stations, with at least 27-year daily records, are used to characterize annual maximum 1- and 2-day flows and annual minimum 1-, 7-, and 30-day flows. The generalized additive models for location, scale, and shape (GAMLSS) are used to dynamically detect evolution of probability distributions of the maximum and minimum flow indices with time. Results of time-covariate models indicate that stationarity is only noted in the 4 maximum flow indices out of 35 indices. This phenomenon indicates that the minimum flow indices are vulnerable to changing environments. A 16-category distributional-change scheme is employed to classify distributional changes of flow indices. A probabilistic distribution with complex variations of mean and variance is prevalent in the Tamsui River basin since approximate one third of flow indices (34.3%) belong to this category. To evaluate impacts of dams on streamflow regime, a dimensionless index called the reservoir index (RI) serves as an alternative covariate to model nonstationary probability distribution. Results of RI-covariate models indicate that 7 out of 15 flow indices are independent of RI and 80% of the best-fitted RI-covariate models are generally worse than the time-covariate models. This fact reveals that the dam is not the only factor in altering the streamflow regime in the Tamsui River, which is a significant alteration, especially the minimum flow indices. The obtained distributional changes of flow indices clearly indicate changes in probability distributions with time. Non-stationarity in the Tamsui River is induced by climate change and complex anthropogenic interferences.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/6/762"
+  },
+  {
+    "title": "Ocean Surface Wind Speed Retrieval Using Simulated RADARSAT Constellation Mission Compact Polarimetry SAR Data",
+    "authors": [
+      "He Fang,",
+      "William Perrie,",
+      "Guosheng Zhang,",
+      "Tao Xie,",
+      "Shahid Khurshid,",
+      "Kerri Warner,",
+      "Jingsong Yang,",
+      "Yijun He"
+    ],
+    "doi": "https://doi.org/10.3390/rs11161876",
+    "journalVolume": "Vol. 11,\n                                no. 16\n                                \n                                  p.\n                                  1876",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "We investigated the use of C-band RADARSAT Constellation Mission (RCM) synthetic aperture radar (SAR) for retrieval of ocean surface wind speeds by using four new channels (right circular transmit, vertical receive (RV); right circular transmit, horizontal receive (RH); right circular transmit, left circular transmit (RL); and right circular transmit, right circular receive (RR)) in compact polarimetry (CP) mode. Using 256 buoy measurements collocated with RADARSAT-2 fine beam quad-polarized scenes, RCM CP data was simulated using a “CP simulator”. Provided that the relative wind direction is known, our results demonstrate that wind speed can be retrieved from RV, RH and RL polarization channels using existing C-band model (CMOD) geophysical model function (GMF) and polarization ratio (PR) models. Simulated RR-polarized radar returns have a strong linear relationship with speed and are less sensitive to relative wind direction and incidence angle. Therefore, a model is proposed for the RR-polarized synthetic aperture radar (SAR) data. Our results show that the proposed model can provide an efficient methodology for wind speed retrieval.",
+    "readLink": "https://www.mdpi.com/2072-4292/11/16/1876"
+  }
+]

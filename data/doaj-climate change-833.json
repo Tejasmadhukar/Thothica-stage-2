@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Historical diffusion of nuclear, wind and solar power in different national contexts: implications for climate mitigation pathways",
+    "authors": [
+      "Vadim Vinichenko,",
+      "Jessica Jewell,",
+      "Johan Jacobsson,",
+      "Aleh Cherp"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/acf47a",
+    "journalVolume": "Vol. 18,\n                                no. 9\n                                \n                                  p.\n                                  094066",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Climate change mitigation requires rapid expansion of low-carbon electricity but there is a disagreement on whether available technologies such as renewables and nuclear power can be scaled up sufficiently fast. Here we analyze the diffusion of nuclear (from the 1960s), as well as wind and solar (from the 1980–90s) power. We show that all these technologies have been adopted in most large economies except major energy exporters, but solar and wind have diffused across countries faster and wider than nuclear. After the initial adoption, the maximum annual growth for nuclear power has been 2.6% of national electricity supply (IQR 1.3%–6%), for wind − 1.1% (0.6%–1.7%), and for solar − 0.8% (0.5%–1.3%). The fastest growth of nuclear power occurred in Western Europe in the 1980s, a response by industrialized democracies to the energy supply crises of the 1970s. The European Union (EU), currently experiencing a similar energy supply shock, is planning to expand wind and solar at similarly fast rates. This illustrates that national contexts can impact the speed of technology diffusion at least as much as technology characteristics like cost, granularity, and complexity. In the Intergovernmental Panel on Climate Change mitigation pathways, renewables grow much faster than nuclear due to their lower projected costs, though empirical evidence does not show that the cost is the sole factor determining the speed of diffusion. We demonstrate that expanding low-carbon electricity in Asia in line with the 1.5 °C target requires growth of nuclear power even if renewables increase as fast as in the most ambitious EU’s plans. 2 °C-consistent pathways in Asia are compatible with replicating China’s nuclear power plans in the whole region, while simultaneously expanding renewables as fast as in the near-term projections for the EU. Our analysis demonstrates the usefulness of empirically-benchmarked feasibility spaces for future technology projections.",
+    "readLink": "https://doi.org/10.1088/1748-9326/acf47a"
+  },
+  {
+    "title": "Blowout Prediction on a Salt Cavern Selected for a Hydrogen Storage Pilot",
+    "authors": [
+      "Hippolyte Djizanne,",
+      "Carlos Murillo Rueda,",
+      "Benoit Brouard,",
+      "Pierre Bérest,",
+      "Grégoire Hévin"
+    ],
+    "doi": "https://doi.org/10.3390/en15207755",
+    "journalVolume": "Vol. 15,\n                                no. 7755\n                                \n                                  p.\n                                  7755",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "To prevent climate change, Europe and the world must shift to low-carbon and renewable energies. Hydrogen, as an energy vector, provides viable solutions for replacing polluting and carbon-emitting fossil fuels. Gaseous hydrogen can be stored underground and coupled with existing natural gas pipe networks. Salt cavern storage is the best suited technology to meet the challenges of new energy systems. Hydrogen storage caverns are currently operated in the UK and Texas. A preliminary risk analysis dedicated to underground hydrogen salt caverns highlighted the importance of containment losses (leaks) and the formation of gas clouds following blowouts, whose ignition may generate dangerous phenomena such as jet fires, unconfined vapor cloud explosions (UVCEs), or flashfires. A blowout is not a frequent accident in gas storage caverns. A safety valve is often set at a 30 m depth below ground level; it is automatically triggered following a pressure drop at the wellhead. Nevertheless, a blowout remains to be one of the significant accidental scenarios likely to occur during hydrogen underground storage in salt caverns. In this paper, we present modelling the subterraneous and aerial parts of a blowout on an EZ53 salt cavern fully filled with hydrogen.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/20/7755"
+  },
+  {
+    "title": "Distinct secondary ice production processes observed in radar Doppler spectra: insights from a case study",
+    "authors": [
+      "A.-C. Billault-Roux,",
+      "P. Georgakaki,",
+      "J. Gehring,",
+      "L. Jaffeux,",
+      "A. Schwarzenboeck,",
+      "P. Coutris,",
+      "A. Nenes,",
+      "A. Nenes,",
+      "A. Berne"
+    ],
+    "doi": "https://doi.org/10.5194/acp-23-10207-2023",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  pp.\n                                  10207\n                                  – 10234",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Secondary ice production (SIP) has an essential role in cloud and precipitation microphysics. In recent years, substantial insights were gained into SIP by combining experimental, modeling, and observational approaches. Remote sensing instruments, among them meteorological radars, offer the possibility of studying clouds and precipitation in extended areas over long time periods and are highly valuable to understand the spatiotemporal structure of microphysical processes. Multi-modal Doppler spectra measured by vertically pointing radars reveal the coexistence, within a radar resolution volume, of hydrometeor populations with distinct properties; as such, they can provide decisive insight into precipitation microphysics. This paper leverages polarimetric radar Doppler spectra as a tool to study the microphysical processes that took place during a snowfall event on 27 January 2021 in the Swiss Jura Mountains during the ICE GENESIS campaign. A multi-layered cloud system was present, with ice particles sedimenting through a supercooled liquid water (SLW) layer in a seeder–feeder configuration. Building on a Doppler peak detection algorithm, we implement a peak labeling procedure to identify the particle type(s) that may be present within a radar resolution volume. With this approach, we can visualize spatiotemporal features in the radar time series that point to the occurrence of distinct mechanisms during different stages of the event. By focusing on three 30 min phases of the case study and by using the detailed information contained in the Doppler spectra, together with dual-frequency radar measurements, aircraft in situ images, and simulated profiles of atmospheric variables, we narrow down the possible processes that could be responsible for the observed signatures. Depending on the availability of SLW and the droplet sizes, on the temperature range, and on the interaction between the liquid and ice particles, various SIP processes are identified as plausible, with distinct fingerprints in the radar Doppler spectra. A simple modeling approach suggests that the ice crystal number concentrations likely exceed typical concentrations of ice-nucleating particles by 1 to 4 orders of magnitude. While a robust proof of occurrence of a given SIP mechanism cannot be easily established, the multi-sensor data provide various independent elements each supporting the proposed interpretations.",
+    "readLink": "https://acp.copernicus.org/articles/23/10207/2023/acp-23-10207-2023.pdf"
+  },
+  {
+    "title": "An ensemble-based assessment of bias adjustment performance, changes in hydrometeorological predictors and compound extreme events in EAS-CORDEX",
+    "authors": [
+      "Patrick Olschewski,",
+      "Patrick Laux,",
+      "Jianhui Wei,",
+      "Brian Böker,",
+      "Zhan Tian,",
+      "Laixiang Sun,",
+      "Harald Kunstmann"
+    ],
+    "doi": "Vol. 39\n                                \n                                \n                                  p.\n                                  100531",
+    "issn": "2212-0947 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/weather-and-climate-extremes/",
+    "abstract": "The effectiveness of adaptive measures tackling the effects of climate change is dependent on robust climate projections. This becomes even more important in the face of intensifying extreme events. One example of these events is flooding, which embodies a major threat to highly vulnerable coastal urban areas. This includes eastern Asia, where multiple coastal megacities are located, e.g. Shanghai and Shenzhen. While the ability of general circulation models (GCMs) and regional climate models (RCMs) to project atmospheric changes associated with these events has improved, systematic errors (biases) remain. This study therefore assess capabilities of improving the quality of regional climate projections for eastern Asia. This is performed by evaluating an ensemble consisting of bias adjustment methods, GCM-RCM model runs and future emission scenarios based on representative concentration pathways (RCP) obtained from EAS-CORDEX. We show that bias adjustment significantly improves the quality of model output and best results are obtained by applying quantile delta mapping. Based on these results we evaluate potential future changes in crucial hydrometeorological predictors, univariate extreme events and compound extreme events, focusing on high wind speeds and extreme precipitation. Key findings include an increase in daily maximum temperature of 1.5 to nearly 4 °C, depending on the scenario, as well as increased levels of precipitation under RCP 8.5. Furthermore, a distinct intensification of extreme events including high temperatures and heavy precipitation is detected and this increase exceeds the increase of the overall mean of these predictors. The annual number of compound events including heavy precipitation and extreme wind speeds shows a significant increase of up to 50% for RCP 8.5 in the South China Sea as well as the adjacent coastal areas.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212094722001104"
+  },
+  {
+    "title": "Comparative Risk Assessment to Inform Adaptation Priorities for the Natural Environment: Observations from the First UK Climate Change Risk Assessment",
+    "authors": [
+      "Iain Brown"
+    ],
+    "doi": "https://doi.org/10.3390/cli3040937",
+    "journalVolume": "Vol. 3,\n                                no. 4\n                                \n                                  pp.\n                                  937\n                                  – 963",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Risk assessment can potentially provide an objective framework to synthesise and prioritise climate change risks to inform adaptation policy. However, there are significant challenges in the application of comparative risk assessment procedures to climate change, particularly for the natural environment. These challenges are evaluated with particular reference to the first statutory Climate Change Risk Assessment (CCRA) and evidence review procedures used to guide policy for the UK government. More progress was achieved on risk identification, screening and prioritisation compared to risk quantification. This was due to the inherent complexity and interdependence of ecological risks and their interaction with socio-economic drivers as well as a climate change. Robust strategies to manage risk were identified as those that coordinate organisational resources to enhance ecosystem resilience, and to accommodate inevitable change, rather than to meet specific species or habitats targets. The assessment also highlighted subjective and contextual components of risk appraisal including ethical issues regarding the level of human intervention in the natural environment and the proposed outcomes of any intervention. This suggests that goals for risk assessment need to be more clearly explicated and assumptions on tolerable risk declared as a primer for further dialogue on expectations for managed outcomes. Ecosystem-based adaptation may mean that traditional habitats and species conservation goals and existing regulatory frameworks no longer provide the best guide for long-term risk management thereby challenging the viability of some existing practices.",
+    "readLink": "http://www.mdpi.com/2225-1154/3/4/937"
+  },
+  {
+    "title": "Climate‐induced changes in river flow regimes will alter future bird distributions",
+    "authors": [
+      "Alexander Royan,",
+      "Christel Prudhomme,",
+      "David M. Hannah,",
+      "S. James Reynolds,",
+      "David G. Noble,",
+      "Jonathan P. Sadler"
+    ],
+    "doi": "https://doi.org/10.1890/ES14-00245.1",
+    "journalVolume": "Vol. 6,\n                                no. 4\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Anthropogenic forcing of the climate is causing an intensification of the global water cycle, leading to an increase in the frequency and magnitude of floods and droughts. River flow shapes the ecology of riverine ecosystems and climate‐driven changes in river flows are predicted to have severe consequences for riverine species, across all levels of trophic organization. However, understanding species' responses to variation in flow is limited through a lack of quantitative modelling of hydroecological interactions. Here, we construct a Bioclimatic Envelope Model (BEM) ensemble based on a suite of plausible future flow scenarios to show how predicted alterations in flow regimes may alter the distribution of a predatory riverine species, the White‐throated Dipper (Cinclus cinclus). Models predicted a gradual diminution of dipper probability of occurrence between present day and 2098. This decline was most rapid in western areas of Great Britain and was principally driven by a projected decrease in flow magnitude and variability around low flows. Climate‐induced changes in river flow may, therefore, represent a previously unidentified mechanism by which climate change may mediate range shifts in birds and other riverine biota.",
+    "readLink": "https://doi.org/10.1890/ES14-00245.1"
+  },
+  {
+    "title": "Ecological niche modelling of Rift Valley fever virus vectors in Baringo, Kenya",
+    "authors": [
+      "Alfred O. Ochieng,",
+      "Mark Nanyingi,",
+      "Edwin Kipruto,",
+      "Isabella M. Ondiba,",
+      "Fred A. Amimo,",
+      "Christopher Oludhe,",
+      "Daniel O. Olago,",
+      "Isaac K. Nyamongo,",
+      "Benson B. A. Estambale"
+    ],
+    "doi": "https://doi.org/10.3402/iee.v6.32322",
+    "journalVolume": "Vol. 6,\n                                no. 0\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2000-8686 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/ziee",
+    "abstract": "Background: Rift Valley fever (RVF) is a vector-borne zoonotic disease that has an impact on human health and animal productivity. Here, we explore the use of vector presence modelling to predict the distribution of RVF vector species under climate change scenario to demonstrate the potential for geographic spread of Rift Valley fever virus (RVFV). Objectives: To evaluate the effect of climate change on RVF vector distribution in Baringo County, Kenya, with an aim of developing a risk map for spatial prediction of RVF outbreaks. Methodology: The study used data on vector presence and ecological niche modelling (MaxEnt) algorithm to predict the effect of climatic change on habitat suitability and the spatial distribution of RVF vectors in Baringo County. Data on species occurrence were obtained from longitudinal sampling of adult mosquitoes and larvae in the study area. We used present (2000) and future (2050) Bioclim climate databases to model the vector distribution. Results: Model results predicted potential suitable areas with high success rates for Culex quinquefasciatus, Culex univitattus, Mansonia africana, and Mansonia uniformis. Under the present climatic conditions, the lowlands were found to be highly suitable for all the species. Future climatic conditions indicate an increase in the spatial distribution of Cx. quinquefasciatus and M. africana. Model performance was statistically significant. Conclusion: Soil types, precipitation in the driest quarter, precipitation seasonality, and isothermality showed the highest predictive potential for the four species.",
+    "readLink": "http://www.infectionecologyandepidemiology.net/index.php/iee/article/view/32322/pdf_81"
+  },
+  {
+    "title": "Dominance hierarchies, diversity and species richness of vascular plants in an alpine meadow: contrasting short and medium term responses to simulated global change",
+    "authors": [
+      "Juha M. Alatalo,",
+      "Chelsea J. Little,",
+      "Annika K. Jägerbrand,",
+      "Ulf Molau"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.406",
+    "journalVolume": "Vol. 2\n                                \n                                \n                                  p.\n                                  e406",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "We studied the impact of simulated global change on a high alpine meadow plant community. Specifically, we examined whether short-term (5 years) responses are good predictors for medium-term (7 years) changes in the system by applying a factorial warming and nutrient manipulation to 20 plots in Latnjajaure, subarctic Sweden. Seven years of experimental warming and nutrient enhancement caused dramatic shifts in dominance hierarchies in response to the nutrient and the combined warming and nutrient enhancement treatments. Dominance hierarchies in the meadow moved from a community being dominated by cushion plants, deciduous, and evergreen shrubs to a community being dominated by grasses, sedges, and forbs. Short-term responses were shown to be inconsistent in their ability to predict medium-term responses for most functional groups, however, grasses showed a consistent and very substantial increase in response to nutrient addition over the seven years. The non-linear responses over time point out the importance of longer-term studies with repeated measurements to be able to better predict future changes. Forecasted changes to temperature and nutrient availability have implications for trophic interactions, and may ultimately influence the access to and palatability of the forage for grazers. Depending on what anthropogenic change will be most pronounced in the future (increase in nutrient deposits, warming, or a combination of them both), different shifts in community dominance hierarchies may occur. Generally, this study supports the productivity–diversity relationship found across arctic habitats, with community diversity peaking in mid-productivity systems and degrading as nutrient availability increases further. This is likely due the increasing competition in plant–plant interactions and the shifting dominance structure with grasses taking over the experimental plots, suggesting that global change could have high costs to biodiversity in the Arctic.",
+    "readLink": "https://peerj.com/articles/406.pdf"
+  },
+  {
+    "title": "Mapping Temperate Forest Phenology Using Tower, UAV, and Ground-Based Sensors",
+    "authors": [
+      "Jeff  W. Atkins,",
+      "Atticus  E. L. Stovall,",
+      "Xi Yang"
+    ],
+    "doi": "https://doi.org/10.3390/drones4030056",
+    "journalVolume": "Vol. 4,\n                                no. 56\n                                \n                                  p.\n                                  56",
+    "issn": "2504-446X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Motor vehicles. Aeronautics. Astronautics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/drones",
+    "abstract": "Phenology is a distinct marker of the impacts of climate change on ecosystems. Accordingly, monitoring the spatiotemporal patterns of vegetation phenology is important to understand the changing Earth system. A wide range of sensors have been used to monitor vegetation phenology, including digital cameras with different viewing geometries mounted on various types of platforms. Sensor perspective, view-angle, and resolution can potentially impact estimates of phenology. We compared three different methods of remotely sensing vegetation phenology—an unoccupied aerial vehicle (UAV)-based, downward-facing RGB camera, a below-canopy, upward-facing hemispherical camera with blue (B), green (G), and near-infrared (NIR) bands, and a tower-based RGB PhenoCam, positioned at an oblique angle to the canopy—to estimate spring phenological transition towards canopy closure in a mixed-species temperate forest in central Virginia, USA. Our study had two objectives: (1) to compare the above- and below-canopy inference of canopy greenness (using green chromatic coordinate and normalized difference vegetation index) and canopy structural attributes (leaf area and gap fraction) by matching below-canopy hemispherical photos with high spatial resolution (0.03 m) UAV imagery, to find the appropriate spatial coverage and resolution for comparison; (2) to compare how UAV, ground-based, and tower-based imagery performed in estimating the timing of the spring phenological transition. We found that a spatial buffer of 20 m radius for UAV imagery is most closely comparable to below-canopy imagery in this system. Sensors and platforms agree within +/− 5 days of when canopy greenness stabilizes from the spring phenophase into the growing season. We show that pairing UAV imagery with tower-based observation platforms and plot-based observations for phenological studies (e.g., long-term monitoring, existing research networks, and permanent plots) has the potential to scale plot-based forest structural measures via UAV imagery, constrain uncertainty estimates around phenophases, and more robustly assess site heterogeneity.",
+    "readLink": "https://www.mdpi.com/2504-446X/4/3/56"
+  },
+  {
+    "title": "Climate Changes and its Impact on the AgricultureSector in Selected South Asian Countries",
+    "authors": [
+      "Asad Imran, Zahoor Hussain Javed, Muhammad Shabbir, Liqat Waseem, Ali Asad Naqvi"
+    ],
+    "doi": "Vol. 10,\n                                no. 4\n                                \n                                  pp.\n                                  97\n                                  – 101",
+    "issn": "2223-957X (Online)",
+    "publisher": "Society of Economic Geologists and Mineral Technologists",
+    "countryOfPublisher": "Pakistan",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.econ-environ-geol.org",
+    "abstract": "This study depicts an inclusive estimation of climate variation and its effects on agriculture sector in the selected South Asian countries (India, Bangladesh, Pakistan, Nepal, Bhutan and Sri-Lanka) over the period of 1990-2014. Agriculture sector plays vigorous role in the economy of selected South Asian states because more than 60% people work in this sector. The rapid growth of industrialization and weather variation causes the raise of the temperature level by which reduce production of agriculture crops and the people face heavy losses. Therefore, main objective of this study is to detect the influence of the global weather variation in agriculture sector of selected South Asian countries. Agriculture sector is used as dependent variable. CO2 emission, gross capital formation, labor force and temperature are used as explanatory variables. Auto regressive distributed lag model is employed to examine the influence of climate variation on the agricultural sector. Foranalysispanel datawerecollected from selectedSouth Asiancountries. The existence of the short and long term relationship between dependent and independent variables is also assessed by this model. Thus, findings show the climate variation has significant effect on the agricultural sector. In a policy recommendation, government should use sector-wise policies and friendly environmental policies which minimize the negative effect of climate change",
+    "readLink": "http://www.econ-environ-geol.org/index.php/ojs/article/view/360/259"
+  }
+]

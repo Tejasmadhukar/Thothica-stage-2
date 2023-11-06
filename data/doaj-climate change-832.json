@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Country-Scale Analysis of Methane Emissions with a High-Resolution Inverse Model Using GOSAT and Surface Observations",
+    "authors": [
+      "Rajesh Janardanan,",
+      "Shamil Maksyutov,",
+      "Aki Tsuruta,",
+      "Fenjuan Wang,",
+      "Yogesh  K. Tiwari,",
+      "Vinu Valsala,",
+      "Akihiko Ito,",
+      "Yukio Yoshida,",
+      "Johannes  W. Kaiser,",
+      "Greet Janssens-Maenhout,",
+      "Mikhail Arshinov,",
+      "Motoki Sasakawa,",
+      "Yasunori Tohjima,",
+      "Douglas  E. J. Worthy,",
+      "Edward  J. Dlugokencky,",
+      "Michel Ramonet,",
+      "Jgor Arduini,",
+      "Jost  V. Lavric,",
+      "Salvatore Piacentino,",
+      "Paul  B. Krummel,",
+      "Ray  L. Langenfelds,",
+      "Ivan Mammarella,",
+      "Tsuneo Matsunaga"
+    ],
+    "doi": "https://doi.org/10.3390/rs12030375",
+    "journalVolume": "Vol. 12,\n                                no. 3\n                                \n                                  p.\n                                  375",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "We employed a global high-resolution inverse model to optimize the CH4 emission using Greenhouse gas Observing Satellite (GOSAT) and surface observation data for a period from 2011−2017 for the two main source categories of anthropogenic and natural emissions. We used the Emission Database for Global Atmospheric Research (EDGAR v4.3.2) for anthropogenic methane emission and scaled them by country to match the national inventories reported to the United Nations Framework Convention on Climate Change (UNFCCC). Wetland and soil sink prior fluxes were simulated using the Vegetation Integrative Simulator of Trace gases (VISIT) model. Biomass burning prior fluxes were provided by the Global Fire Assimilation System (GFAS). We estimated a global total anthropogenic and natural methane emissions of 340.9 Tg CH4 yr−1 and 232.5 Tg CH4 yr−1, respectively. Country-scale analysis of the estimated anthropogenic emissions showed that all the top-emitting countries showed differences with their respective inventories to be within the uncertainty range of the inventories, confirming that the posterior anthropogenic emissions did not deviate from nationally reported values. Large countries, such as China, Russia, and the United States, had the mean estimated emission of 45.7 ± 8.6, 31.9 ± 7.8, and 29.8 ± 7.8 Tg CH4 yr−1, respectively. For natural wetland emissions, we estimated large emissions for Brazil (39.8 ± 12.4 Tg CH4 yr−1), the United States (25.9 ± 8.3 Tg CH4 yr−1), Russia (13.2 ± 9.3 Tg CH4 yr−1), India (12.3 ± 6.4 Tg CH4 yr−1), and Canada (12.2 ± 5.1 Tg CH4 yr−1). In both emission categories, the major emitting countries all had the model corrections to emissions within the uncertainty range of inventories. The advantages of the approach used in this study were: (1) use of high-resolution transport, useful for simulations near emission hotspots, (2) prior anthropogenic emissions adjusted to the UNFCCC reports, (3) combining surface and satellite observations, which improves the estimation of both natural and anthropogenic methane emissions over spatial scale of countries.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/3/375"
+  },
+  {
+    "title": "Abiotic Stress and Reactive Oxygen Species: Generation, Signaling, and Defense Mechanisms",
+    "authors": [
+      "Swati Sachdev,",
+      "Shamim  Akhtar Ansari,",
+      "Mohammad  Israil Ansari,",
+      "Masayuki Fujita,",
+      "Mirza Hasanuzzaman"
+    ],
+    "doi": "https://doi.org/10.3390/antiox10020277",
+    "journalVolume": "Vol. 10,\n                                no. 277\n                                \n                                  p.\n                                  277",
+    "issn": "2076-3921 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine: Therapeutics. Pharmacology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/antioxidants",
+    "abstract": "Climate change is an invisible, silent killer with calamitous effects on living organisms. As the sessile organism, plants experience a diverse array of abiotic stresses during ontogenesis. The relentless climatic changes amplify the intensity and duration of stresses, making plants dwindle to survive. Plants convert 1–2% of consumed oxygen into reactive oxygen species (ROS), in particular, singlet oxygen (1O2), superoxide radical (O2•–), hydrogen peroxide (H2O2), hydroxyl radical (•OH), etc. as a byproduct of aerobic metabolism in different cell organelles such as chloroplast, mitochondria, etc. The regulatory network comprising enzymatic and non-enzymatic antioxidant systems tends to keep the magnitude of ROS within plant cells to a non-damaging level. However, under stress conditions, the production rate of ROS increases exponentially, exceeding the potential of antioxidant scavengers instigating oxidative burst, which affects biomolecules and disturbs cellular redox homeostasis. ROS are similar to a double-edged sword; and, when present below the threshold level, mediate redox signaling pathways that actuate plant growth, development, and acclimatization against stresses. The production of ROS in plant cells displays both detrimental and beneficial effects. However, exact pathways of ROS mediated stress alleviation are yet to be fully elucidated. Therefore, the review deposits information about the status of known sites of production, signaling mechanisms/pathways, effects, and management of ROS within plant cells under stress. In addition, the role played by advancement in modern techniques such as molecular priming, systems biology, phenomics, and crop modeling in preventing oxidative stress, as well as diverting ROS into signaling pathways has been canvassed.",
+    "readLink": "https://www.mdpi.com/2076-3921/10/2/277"
+  },
+  {
+    "title": "Can Nonwoven Tea Bags Be Used to Determine the Tea Bag Index?",
+    "authors": [
+      "Taiki Mori"
+    ],
+    "doi": "https://doi.org/10.3390/ecologies3020014",
+    "journalVolume": "Vol. 3,\n                                no. 14\n                                \n                                  pp.\n                                  175\n                                  – 182",
+    "issn": "2673-4133 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/ecologies",
+    "abstract": "Researchers have studied the impact of various anthropogenic activities on litter decomposition rates because of their large impact on the future carbon budget and climate change. However, any assessment of the global-scale impact of anthropogenic activity on litter decomposition requires standardized methods that can exclude the variability of litter chemistry. The Tea Bag Index (TBI) is widely used as a standardized method to obtain both the decomposition constant k of early-stage litter decomposition and the stabilization factor S. Recently, a tea bag manufacturer changed the materials and size of the tea bag mesh from a 0.25 mm woven mesh to a nonuniform, nonwoven mesh. To test whether these changes in mesh materials have any effect on the TBI approach, an incubation study was performed. Obtaining time series decomposition data for both green and rooibos teas, two essential assumptions of the TBI approach were examined: (i) that most of the unstabilized hydrolyzable fraction of green tea is decomposed within 90 days (unless the environment is unfavorable for decomposition) and (ii) the S of green tea is equal to that of rooibos tea. The results did not show a clear breakdown of the first assumption of the TBI approach due to the changes in mesh materials, and they did not support the second assumption. The S of rooibos tea determined by fitting an asymptote model to the time series data was significantly larger than the TBI-based S. In conclusion, the TBI may be undeterminable using nonwoven tea bags.",
+    "readLink": "https://www.mdpi.com/2673-4133/3/2/14"
+  },
+  null,
+  {
+    "title": "JUNGBRUNNEN1 Confers Drought Tolerance Downstream of the HD-Zip I Transcription Factor AtHB13",
+    "authors": [
+      "Saghar Ebrahimian-Motlagh,",
+      "Saghar Ebrahimian-Motlagh,",
+      "Pamela A. Ribone,",
+      "Venkatesh P. Thirumalaikumar,",
+      "Venkatesh P. Thirumalaikumar,",
+      "Annapurna D. Allu,",
+      "Annapurna D. Allu,",
+      "Raquel L. Chan,",
+      "Bernd Mueller-Roeber,",
+      "Bernd Mueller-Roeber,",
+      "Salma Balazadeh,",
+      "Salma Balazadeh"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2017.02118",
+    "journalVolume": "Vol. 8",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Low water availability is the major environmental factor limiting growth and productivity of plants and crops and is therefore considered of high importance for agriculture affected by climate change. Identifying regulatory components controlling the response and tolerance to drought stress is thus of major importance. The NAC transcription factor (TF) JUNGBRUNNEN1 (JUB1) from Arabidopsis thaliana extends leaf longevity under non-stress growth conditions, lowers cellular hydrogen peroxide (H2O2) level, and enhances tolerance against heat stress and salinity. Here, we additionally find that JUB1 strongly increases tolerance to drought stress in Arabidopsis when expressed from both, a constitutive (CaMV 35S) and an abiotic stress-induced (RD29A) promoter. Employing a yeast one-hybrid screen we identified HD-Zip class I TF AtHB13 as an upstream regulator of JUB1. AtHB13 has previously been reported to act as a positive regulator of drought tolerance. AtHB13 and JUB1 thereby establish a joint drought stress control module.",
+    "readLink": "http://journal.frontiersin.org/article/10.3389/fpls.2017.02118/full"
+  },
+  {
+    "title": "Spatial−temporal variation of ecological environment quality and driving factors from 2000 to 2020 in Wuliangsu Lake Basin, Northern China",
+    "authors": [
+      "Caixia Li,",
+      "Caixia Li,",
+      "Guoqi Chai,",
+      "Guoqi Chai,",
+      "Zhiyuan Li,",
+      "Xiang Jia,",
+      "Xiang Jia,",
+      "Lingting Lei,",
+      "Lingting Lei,",
+      "Long Chen,",
+      "Long Chen,",
+      "Yunfan Li,",
+      "Yunfan Li,",
+      "Yunfeng Cao,",
+      "Yunfeng Cao,",
+      "Ruoning Zhu,",
+      "Xiaoli Mei,",
+      "Xiaoli Zhang,",
+      "Xiaoli Zhang"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2023.1240514",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Due to global climate change and the intensification of human activities, the ecological function of Wuliangsu Lake Basin has been seriously degraded. Obtaining accurate spatial–temporal dynamics of regional ecological environment quality is essential for the evaluation of ecological management and restoration effects. This study assessed the trend changes and drivers of the Remote Sensing Ecological Index (RSEI) in the Wuliangsu Lake Basin from 2000−2020. Firstly, the trend analysis method and hurst index were used to analyze the temporal and spatial variation of RSEI. Then the main factors of RSEI variation were analyzed using meteorological data, integrated nighttime lighting data, and population density data. Overall, the RSEI shows an increasing trend from the west to the east with a rate of 0.0034 year−1 over the last 21 years. The area change of RSEI was 54.22%, 63.80% and 52.43% for 2000−2006, 2007−2013 and 2014−2020, respectively, which indicates that most areas have a stable ecological environment. However, the overall Future Improvement Trend (FIT) area of RSEI is 42.21%, mainly in Dengkou area, Urad Qianqi and central area. This indicates that the RSEI remains stable locally and shows an overall improving trend. The results of the correlation analysis showed that the areas influenced by meteorological and human factors were highly coincident, mainly in Dengkou and northern Linhe areas and Urad Qianqi. Considering the lagging effect of ecological engineering, the sustainable development status of RSEI in the western and eastern regions will maintain an improving trend in the future. Our study confirms the complex relationship between RSEI and meteorological and human activities, which is crucial for the scientific management of watershed ecosystems under the influence of anthropogenic factors.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2023.1240514/full"
+  },
+  {
+    "title": "Rainfall trend analysis and weather forecast accuracy in selected parts of Khyber Pakhtunkhwa, Pakistan",
+    "authors": [
+      "Fakhri Alam,",
+      "Muhammad Salam,",
+      "Nasir Ahmad Khalil,",
+      "Owais khan,",
+      "Masaud Khan"
+    ],
+    "doi": "https://doi.org/10.1007/s42452-021-04457-z",
+    "journalVolume": "Vol. 3,\n                                no. 5\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2523-3963 (Print)",
+    "publisher": "2523-3971 (Online)",
+    "countryOfPublisher": "Springer",
+    "lcc": [
+      "Switzerland",
+      "Science",
+      "Technology"
+    ],
+    "journalUrl": "https://www.springer.com/snas",
+    "abstract": "Abstract Climate change is a multidimensional phenomenon, which has various effects on people's environmental and socioeconomic conditions. In the agricultural economy that is susceptible to natural changes, its impact is more profound. Therefore, climate change directly affects society in different ways, and society must pay a price. Climate change, especially the changes in annual temperature and rainfall, has attracted widespread attention worldwide. The variability of these factors or the magnitude of fluctuations varies according to location. Therefore, in the context of climate change, especially in countries dominated by rainfed agriculture, studying the trend of meteorological variables is essential to assess climate-induced variations and propose feasible adaptation approaches. Focusing on this fact is the main goal of this research study was to determine the rainfall trend and the accuracy of predicted temperature at three particular stations of Khyber Pakhtunkhwa (Kp) Province, Pakistan. For this purpose, rainfall and temperature data were provided by Pakistan Meteorological Department (PMD), Islamabad, for the period 1960–2020. Two types of nonparametric techniques, Sen’s slope estimate and the Mann–Kendall test, were applied to determine a trend in the average monthly and annual rainfall. The results of the annual rainfall trend analysis showed that Peshawar and Dera Ismail Khan stations showed a positive increasing trend, while the monthly rainfall trend showed a negative decreasing trend for all stations. The trend was statistically significant for Peshawar and Saidu Sharif stations. The accuracy of predicted and actual temperature and rainfall indicated that mostly over-forecast occurred at Saidu Sharif and Peshawar. Most of the precipitation and temperature records showed under forecast for Dera Ismail Khan, but some over-prediction has also occurred. Graphical abstract",
+    "readLink": "https://doi.org/10.1007/s42452-021-04457-z"
+  },
+  {
+    "title": "The Livelihoods Impacts of Irrigation in Western Africa: The Ghana Experience",
+    "authors": [
+      "Mamudu  Abunga Akudugu,",
+      "Katherine  Kaunza-Nu-Dem Millar,",
+      "Margaret  Atosina Akuriba"
+    ],
+    "doi": "https://doi.org/10.3390/su13105677",
+    "journalVolume": "Vol. 13,\n                                no. 5677\n                                \n                                  p.\n                                  5677",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Although agriculture remains the mainstay of the African economy, it is currently going through stress because of a multitude of factors including climate change. Thus, many countries in their efforts to transform their agricultural sectors are employing climate-smart initiatives including the provision of water harvesting technologies for irrigated crop production during the dry season. This paper examines the role of irrigation in the drive towards a transformation of smallholder agriculture in Africa. Focus group discussions, key informant interviews and individual questionnaires were employed for the data collection. The data were analyzed using the regression adjustment (RA) technique. The results indicate that irrigation has significant and positive impacts on farm incomes, employment, consumption, food security and non-farm businesses, all of which are necessary conditions for a successful transformation of smallholder agriculture in Africa. The impacts of irrigation on health and environmental sustainability are mixed—the positive being the ability of irrigators to pay for improved healthcare for their families and the negatives include the outbreak of waterborne diseases associated with irrigation water. Construction of irrigation facilities causes destruction to the environment but improves provisioning ecosystem services. It is generally concluded that access to irrigation is associated with higher farm incomes, employment, consumption, food security and engagement in non-farm business activities. The key policy implication of these findings is that African governments must formulate strategic policies that will accelerate investments in the provision of irrigation facilities to better promote the agenda to transform smallholder agriculture in the continent.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/10/5677"
+  },
+  {
+    "title": "Electrical System Design of Solar-Powered Electrical Water Recreational and Sport Vessel",
+    "authors": [
+      "Sunaryo,",
+      "Shadu Imfianto Pradhana"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/201913001029",
+    "journalVolume": "Vol. 130\n                                \n                                \n                                  p.\n                                  01029",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Indonesia is the world’s largest archipelago with more than 17 000 islands, and the best marine tourism destination due to its beautiful beaches and underwater scenery, but Indonesia is also the most vulnerable country to be affected by climate change due to the greenhouse effect. Besides industry, the transportation sector is the highest contributor to the global greenhouse effect. In order to reduce the source of the greenhouse effect, the Indonesian Government has committed to using new and renewable energy as an alternative to fossil-based fuel. In an attempt to contribute to the Government’s efforts and to advance the national marine tourism, the research is aimed to design water recreational and sport vessel that powered by a solar generated electric engine, as further development of Universitas Indonesia’s solar boat participated in International Solar-boat Challenge competition in the Netherlands. The research is focused on the effective use of solar energy as the main source for powering the vessel’s electrical engine, based on the existing optimum shape and dimensions of the boat. Information and data regarding the arrangement of the vessel, solar electric generation processes and vessel powering system obtained from literature study, discussion with experts, and on the spot surveys of various recreational vessels were used as input for the calculation and simulation of the vessel being investigated. The research results are expected could be further developed for other related usages such as fish farming, coastal fishing rig, floating restaurant, etc.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/56/e3sconf_ic-amme2018_01029.pdf"
+  },
+  {
+    "title": "The Effect of Carbon Sink Plantation Projects on Local Economic Growth: An Empirical Analysis of County-Level Panel Data from Guangdong Province",
+    "authors": [
+      "Juan Wu,",
+      "Fangmiao Hou,",
+      "Wenjing Yu"
+    ],
+    "doi": "https://doi.org/10.3390/su132413864",
+    "journalVolume": "Vol. 13,\n                                no. 13864\n                                \n                                  p.\n                                  13864",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "In recent years, there has been an increased focus on carbon sink plantation projects. Carbon sink plantations can slow global climate change and promote sustainable economic development, which is well suited to the needs of both ecological protection and economic growth. This article aims to accurately assess the causal effect of carbon sink plantation projects on economic development at the county level and explore its effect mechanisms. In this study, 56 counties in Guangdong Province were selected as the research areas, providing balanced panel data from 2006 to 2018. Then the propensity score matching and difference-in-differences (PSM-DID) model was used to estimate both the average and dynamic effects of carbon sink plantation projects on county-level economic development. The ordinary least squares (OLS) multiple regression results of the single-difference method and difference-in-differences (DID) model show that carbon sink plantation projects have a significant role in promoting county-level economic development. In addition, our findings suggest that the economic benefits of carbon sink plantation projects began to gradually appear from the sixth year after the projects were implemented.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/24/13864"
+  }
+]

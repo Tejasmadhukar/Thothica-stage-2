@@ -1,0 +1,225 @@
+[
+  {
+    "title": "Assessing the vulnerability of infrastructure to climate change on the Islands of Samoa",
+    "authors": [
+      "S. H. M. Fakhruddin,",
+      "M. S. Babel,",
+      "A. Kawasaki"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-15-1343-2015",
+    "journalVolume": "Vol. 15,\n                                no. 6\n                                \n                                  pp.\n                                  1343\n                                  – 1356",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "Pacific Islanders have been exposed to risks associated with climate change. Samoa, as one of the Pacific Islands, is prone to climatic hazards that will likely increase in the coming decades, affecting coastal communities and infrastructure around the islands. Climate models do not predict a reduction of such disaster events in the future in Samoa; indeed, most predict an increase. This paper identifies key infrastructure and their functions and status in order to provide an overall picture of relative vulnerability to climate-related stresses of such infrastructure on the island. By reviewing existing reports as well as holding a series of consultation meetings, a list of critical infrastructure was developed and shared with stakeholders for their consideration. An indicator-based vulnerability model (SIVM) was developed in collaboration with stakeholders to assess the vulnerability of selected infrastructure systems on the Samoan Islands. Damage costs were extracted from the Cyclone Evan recovery needs document. Additionally, data on criticality and capacity to repair damage were collected from stakeholders. Having stakeholder perspectives on these two issues was important because (a) criticality of a given infrastructure could be viewed differently among different stakeholders, and (b) stakeholders were the best available source (in this study) to estimate the capacity to repair non-physical damage to such infrastructure. Analysis of the results suggested a ranking of sectors from the most vulnerable to least vulnerable are: the transportation sector, the power sector, the water supply sector and the sewerage system.",
+    "readLink": "http://www.nat-hazards-earth-syst-sci.net/15/1343/2015/nhess-15-1343-2015.pdf"
+  },
+  {
+    "title": "Face to Face with the Natural Environment: A Look at African Literature",
+    "authors": [
+      "Graziella Acquaviva,",
+      "Cecilia Mignanti"
+    ],
+    "doi": "https://doi.org/10.13135/1825-263X/3758",
+    "journalVolume": "Vol. 23,\n                                no. 2",
+    "issn": "1825-263X (Online)",
+    "publisher": "Università degli Studi di Torino",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "History (General) and history of Europe: History of Asia",
+      "History (General) and history of Europe: History of Africa"
+    ],
+    "journalUrl": "http://www.ojs.unito.it/index.php/kervan",
+    "abstract": "Human impact on natural environment has seriously increased over the last few centuries. However, it is only from the mid-twentieth century that a greater sensitivity has developed around environmental problems. With an eye on the development of the African environmentalism, the paper considers the reaction of some African writers and their efforts towards the conservation of physical environment and climate change through their literary works as narrative and poetry genres.",
+    "readLink": "https://www.ojs.unito.it/index.php/kervan/article/view/3758"
+  },
+  {
+    "title": "Prediction of Land Surface Temperature Considering Future Land Use Change Effects under Climate Change Scenarios in Nanjing City, China",
+    "authors": [
+      "Lei Tian,",
+      "Yu Tao,",
+      "Mingyang Li,",
+      "Chunhua Qian,",
+      "Tao Li,",
+      "Yi Wu,",
+      "Fang Ren"
+    ],
+    "doi": "https://doi.org/10.3390/rs15112914",
+    "journalVolume": "Vol. 15,\n                                no. 2914\n                                \n                                  p.\n                                  2914",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Land use and land cover (LULC) changes resulting from rapid urbanization are the foremost causes of increases in land surface temperature (LST) in urban areas. Exploring the impact of LULC changes on the spatiotemporal patterns of LST under future climate change scenarios is critical for sustainable urban development. This study aimed to project the LST of Nanjing for 2025 and 2030 under different climate change scenarios using simulated LULC and land coverage indicators. Thermal infrared data from Landsat images were used to derive spatiotemporal patterns of LST in Nanjing from 1990 to 2020. The patch-generating land use simulation (PLUS) model was applied to simulate the LULC of Nanjing for 2025 and 2030 using historical LULC data and spatial driving factors. We simulated the corresponding land coverage indicators using simulated LULC data. We then generated LSTs for 2025 and 2030 under different climate change scenarios by applying regression relationships between LST and land coverage indicators. The results show that the LST of Nanjing has been increasing since 1990, with the mean LST increased from 23.44 °C in 1990 to 25.40 °C in 2020, and the mean LST estimated to reach 26.73 °C in 2030 (SSP585 scenario, integrated scenario of SSP5 and RCP5.8). There were significant differences in the LST under different climate scenarios, with increases in LST gradually decreasing under the SSP126 scenario (integrated scenario of SSP1 and RCP2.6). LST growth was similar to the historical trend under the SSP245 scenario (integrated scenario of SSP2 and RCP4.5), and an extreme increase in LST was observed under the SSP585 scenario. Our results suggest that the increase in impervious surface area is the main reason for the LST increase and urban heat island (UHI) effect. Overall, we proposed a method to project future LST considering land use change effects and provide reasonable LST scenarios for Nanjing, which may be useful for mitigating the UHI effect.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/11/2914"
+  },
+  {
+    "title": "A Radar Radial Velocity Dealiasing Algorithm for Radar Data Assimilation and its Evaluation with Observations from Multiple Radar Networks",
+    "authors": [
+      "Guangxin He,",
+      "Juanzhen Sun,",
+      "Zhuming Ying,",
+      "Lejian Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/rs11202457",
+    "journalVolume": "Vol. 11,\n                                no. 20\n                                \n                                  p.\n                                  2457",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Automated and accurate radar dealiasing algorithms are very important for their assimilation into operational numerical weather forecasting models. A radar radial velocity dealiasing algorithm aimed at radar data assimilation is introduced and assessed using from several S-band and C-band radar observations under the severe weather conditions of hurricanes, typhoons, and deep continental convection in this paper. This dealiasing algorithm, named automated dealiasing for data assimilation (ADDA), is a further development of the dealiasing algorithm named the China radar network (CINRAD) improved dealiasing algorithm (CIDA), originally developed for China’s CINRAD (China Next Generation Weather Radar) radar network. The improved scheme contains five modules employed to remove noisy data, select the suitable first radial, preserve the convective regions, execute multipass dealiasing in both azimuthal and radial directions and conduct the final local dealiasing with an error check. This new dealiasing algorithm was applied to two hurricane cases, two typhoon cases, and three intense-convection cases that were observed from the CINRAD of China, Taiwan‘s radar network, and NEXRAD (Next Generation Weather Radar) of the U.S. with a continuous period of more than 12 h for each case. The dealiasing results demonstrated that ADDA performed better than CIDA for all selected cases. This algorithm not only produced a high success rate for the S-band radar, but also a reasonable performance for the C-band radar.",
+    "readLink": "https://www.mdpi.com/2072-4292/11/20/2457"
+  },
+  {
+    "title": "Species distribution models for conservation: Identifying translocation sites for eastern quolls under climate change",
+    "authors": [
+      "Molly M. Barlow,",
+      "Christopher N. Johnson,",
+      "Matthew C. McDowell,",
+      "Matthew W. Fielding,",
+      "Rahil J. Amin,",
+      "Rob Brewster"
+    ],
+    "doi": "Vol. 29\n                                \n                                \n                                  p.\n                                  e01735",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Conservation and natural resource management are frequently hampered by poor understanding of how species distributions have changed over time. Species Distribution Models (SDMs) correlate known occurrences with environmental variables to predict a species’ potential range. These models can then be projected to unsurveyed areas or time periods to overcome gaps in data on species’ distribution. The eastern quoll Dasyurus viverrinus is restricted to Tasmania but until recently occurred over a large area of south-eastern mainland Australia. We used SDMs to reconstruct the distribution of climates suitable for D. viverrinus during the mid-Holocene and present day and identified areas likely to remain suitable in the future which could be prioritised for conservation. Climatically suitable habitat has mostly remained stable since the mid-Holocene, with some expansion. The historic contraction of the species’ distribution was evidently due to threatening processes other than climate change, which are still operating. Under current conditions, large areas of south-eastern Australia still provide suitable habitat for eastern quolls and will continue to do so under predicted climate change scenarios for 2055. Suitable areas include offshore islands, in particular islands within the Nooramunga Marine and Coastal Park in Victoria, and islands that make up the Furneaux Group in the Bass Strait. Translocations to these islands would establish populations in climatically suitable areas separate from threatening processes.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989421002857"
+  },
+  {
+    "title": "Trends in gravity changes from 2009 to 2013 derived from ground-based gravimetry and GRACE data in North China",
+    "authors": [
+      "Chongyang Shen,",
+      "Songbai Xuan,",
+      "Zhengbo Zou,",
+      "Guiju Wu"
+    ],
+    "doi": "https://doi.org/10.1016/j.geog.2015.08.001",
+    "journalVolume": "Vol. 6,\n                                no. 6\n                                \n                                  pp.\n                                  423\n                                  – 428",
+    "issn": "1674-9847 (Print)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Astronomy: Geodesy",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/geodesy-and-geodynamics/",
+    "abstract": "North China is a key region for studying geophysical progress. In this study, ground-based and Gravity Recovery and Climate Experiment (GRACE) gravity data from 2009 to 2013 are used to calculate the gravity change rate (GCR) using the polynomial fitting method. In general, the study area was divided into the Shanxi rift, Jing-Jin-Ji (Beijing-Tianjin-Hebei Province), and Bohai Bay Basin (BBB) regions. Results of the distribution of the GCR determined from ground-based gravimetry show that the GCR appears to be “negative-positive-negative” from west to east, which indicates that different geophysical mechanisms are involved in the tectonic activities of these regions. However, GRACE solutions are conducted over a larger spatial scale and are able to show a difference between southern and northern areas and a mass redistribution of land water storage.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674984715000865"
+  },
+  {
+    "title": "ESD Reviews: Model dependence in multi-model climate ensembles: weighting, sub-selection and out-of-sample testing",
+    "authors": [
+      "G. Abramowitz,",
+      "G. Abramowitz,",
+      "N. Herger,",
+      "N. Herger,",
+      "E. Gutmann,",
+      "D. Hammerling,",
+      "R. Knutti,",
+      "M. Leduc,",
+      "M. Leduc,",
+      "R. Lorenz,",
+      "R. Pincus,",
+      "R. Pincus,",
+      "G. A. Schmidt"
+    ],
+    "doi": "https://doi.org/10.5194/esd-10-91-2019",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  91\n                                  – 105",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "The rationale for using multi-model ensembles in climate change projections and impacts research is often based on the expectation that different models constitute independent estimates; therefore, a range of models allows a better characterisation of the uncertainties in the representation of the climate system than a single model. However, it is known that research groups share literature, ideas for representations of processes, parameterisations, evaluation data sets and even sections of model code. Thus, nominally different models might have similar biases because of similarities in the way they represent a subset of processes, or even be near-duplicates of others, weakening the assumption that they constitute independent estimates. If there are near-replicates of some models, then treating all models equally is likely to bias the inferences made using these ensembles. The challenge is to establish the degree to which this might be true for any given application. While this issue is recognised by many in the community, quantifying and accounting for model dependence in anything other than an ad-hoc way is challenging. Here we present a synthesis of the range of disparate attempts to define, quantify and address model dependence in multi-model climate ensembles in a common conceptual framework, and provide guidance on how users can test the efficacy of approaches that move beyond the equally weighted ensemble. In the upcoming Coupled Model Intercomparison Project phase 6 (CMIP6), several new models that are closely related to existing models are anticipated, as well as large ensembles from some models. We argue that quantitatively accounting for dependence in addition to model performance, and thoroughly testing the effectiveness of the approach used will be key to a sound interpretation of the CMIP ensembles in future scientific studies.",
+    "readLink": "https://www.earth-syst-dynam.net/10/91/2019/esd-10-91-2019.pdf"
+  },
+  {
+    "title": "Fractional perspective evaluation of chikungunya infection with saturated incidence functions",
+    "authors": [
+      "Rashid Jan,",
+      "Normy Norfiza Abdul Razak,",
+      "Salah Boulaaras,",
+      "Karthikeyan Rajagopal,",
+      "Zaryab Khan,",
+      "Yahya Almalki"
+    ],
+    "doi": "Vol. 83\n                                \n                                \n                                  pp.\n                                  35\n                                  – 42",
+    "issn": "1110-0168 (Print)",
+    "publisher": "2090-2670 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Egypt",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/alexandria-engineering-journal/",
+    "abstract": "It is significant to investigate the transmission dynamics of vector-borne infection because it has a global impact, can help predict and prevent future outbreaks, is important for understanding the impact of climate change on public health, can lead to more effective control strategies, and can improve our comprehension of the dynamics of these infections. Our paper presents a new model for chikungunya virus infection, which considers treatment and vaccination, using the Atangana-Baleanu derivative within the framework of the Caputo definition. First of all, we examine the positivity and uniqueness of the solution for the model. Then, we find out the fundamental results of the suggested model, such as the steady-state without infection and the R0 value that indicates endemicity pertaining to the system. Furthermore, we verify the local asymptotic stability of the infection-free steady-state. Through the application of fixed-point theory, we demonstrate the existence of the solution and propose a numerical methodology to investigate the dynamic behavior of the model. Finally, we performed simulations to demonstrate the effects of vaccination, transmission probability, treatment, and index of memory on the system's solution pathways. The findings of this research suggest the most sensitive parameters of the system responsible for the control and prevention of the infection. Emphasizing the significance of the memory index as an attractive parameter, we propose its consideration to the policy makers as a control parameter for the prevention of the infection.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1110016823009389"
+  },
+  {
+    "title": "Robustness of a parsimonious subsurface drainage model at the French national scale",
+    "authors": [
+      "A. Jeantet,",
+      "H. Henine,",
+      "C. Chaumont,",
+      "L. Collet,",
+      "L. Collet,",
+      "G. Thirel,",
+      "J. Tournebize"
+    ],
+    "doi": "https://doi.org/10.5194/hess-25-5447-2021",
+    "journalVolume": "Vol. 25\n                                \n                                \n                                  pp.\n                                  5447\n                                  – 5471",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Drainage systems are currently implemented on agricultural plots subjected to temporary or permanent waterlogging issues. Drained plots account for 9 % of all arable soils in France. As such, the need for accurate hydrological modeling is crucial, especially in an unstable future context affected by climate change. The aim of this paper is to assess the capacity of the SIDRA-RU hydrological drainage model to represent the variability in pedoclimatic conditions within French metropolitan areas and to demonstrate the utility of this model as a long-term management tool. The model is initially calibrated using the KGE′ criterion as an objective function (OF) on a large and unique database encompassing 22 plots spread across France and classified according to three main soil textures (silty, silty–clay, and clayey). The performance of SIDRA-RU is evaluated by monitoring both the set of KGE′ calibration values and the quality of simulations on each plot with respect to high and low discharges, as well as the annual drained water balance. Next, the temporal robustness of the model is assessed by conducting, on selected plots, the split-sample test capable of satisfying the data requirements. Results show that the SIDRA-RU model accurately simulates drainage discharge, especially on silty soils. The performance on clayey soils is slightly weaker than that on silty soils yet remains acceptable. Similarly, the split-sample test indicates that SIDRA-RU is temporally robust on all three soil textures. Consequently, the SIDRA-RU model closely replicates the diversity of French drained soil and could be used for its long-term management potential.",
+    "readLink": "https://hess.copernicus.org/articles/25/5447/2021/hess-25-5447-2021.pdf"
+  },
+  {
+    "title": "Measuring the change of air temperature with 8 LM75A sensors in mining area",
+    "authors": [
+      "Stanimirescu Alexandra,",
+      "Egri Angela,",
+      "Soica Florin Flavius,",
+      "Radu Sorin Mihai"
+    ],
+    "doi": "https://doi.org/10.1051/matecconf/202030500046",
+    "journalVolume": "Vol. 305\n                                \n                                \n                                  p.\n                                  00046",
+    "issn": "2261-236X (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.matec-conferences.org",
+    "abstract": "The studied geographical area is situated in a intramontane region situated on the Jiu River called the Jiu Valley, where the main economic activity is mining. The importance of studying this area is related to the effect of coal mining on the climate. Coal extraction in the area led to a change of atmospheric temperature due to the emissions of gases and dust that affects the environment. The use of LM75A sensors allow us to accurately read the air temperature and transmit warning messages when certain temperature intervals are exceeded.",
+    "readLink": "https://www.matec-conferences.org/articles/matecconf/pdf/2020/01/matecconf_sesam20_00046.pdf"
+  }
+]

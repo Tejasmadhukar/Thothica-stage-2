@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Mitigation of salt stress on low temperature in bermudagrass: resistance and forage quality",
+    "authors": [
+      "Xiuwen Zhou,",
+      "Yanling Yin,",
+      "Guangyang Wang,",
+      "Erick Amombo,",
+      "Xiaoning Li,",
+      "Ying Xue,",
+      "Jinmin Fu"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2022.1042855",
+    "journalVolume": "Vol. 13",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Climate change causes plants encountering several abiotic stresses simultaneously. Responses of plants to a single stress has been comprehensively studied, but it is hard to speculated infer the effects of stress combination based on these researches. Here, the response mechanism of bermudagrass to low temperature and salt treatment was investigated in this study. The results showed that low temperature (LT) treatment decreased the relative growth rate, chlorophyll fluorescence transient curve, biomass, and crude fat content of bermudagrass, whereas low temperature + salt (LT+S) treatment greatly undermined these declines. Furthermore, at 6 h and 17 d, the expression levels of glyoxalase I (GLYI), Cu-Zn/superoxide dismutase (Cu-Zn/SOD), peroxidase 2 (POD2), and oxidative enzyme 1(CAT1) in roots were considerably higher in the low temperature + salt treatment than in the low temperature treatment. Low temperature stress is more detrimental to bermudagrass, but mild salt addition can mitigate the damage by enhancing photosynthesis and improving the expression of antioxidant system genes (Cu-Zn/SOD, POD2 and CAT1) and glyoxalase system GLYI gene in roots. This study summarized the probable interaction mechanism of low temperature and salt stress on bermudagrass, which can provide beneficial reference for the growth of fodder in cold regions.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2022.1042855/full"
+  },
+  {
+    "title": "Disentangling the Effects of Water Stress on Carbon Acquisition, Vegetative Growth, and Fruit Quality of Peach Trees by Means of the QualiTree Model",
+    "authors": [
+      "Mitra Rahmati,",
+      "Mitra Rahmati,",
+      "José M. Mirás-Avalos,",
+      "Pierre Valsesia,",
+      "Françoise Lescourret,",
+      "Michel Génard,",
+      "Gholam H. Davarynejad,",
+      "Mohammad Bannayan,",
+      "Majid Azizi,",
+      "Gilles Vercambre"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2018.00003",
+    "journalVolume": "Vol. 9",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Climate change projections predict warmer and drier conditions. In general, moderate to severe water stress reduce plant vegetative growth and leaf photosynthesis. However, vegetative and reproductive growths show different sensitivities to water deficit. In fruit trees, water restrictions may have serious implications not only on tree growth and yield, but also on fruit quality, which might be improved. Therefore, it is of paramount importance to understand the complex interrelations among the physiological processes involved in within-tree carbon acquisition and allocation, water uptake and transpiration, organ growth, and fruit composition when affected by water stress. This can be studied using process-based models of plant functioning, which allow assessing the sensitivity of various physiological processes to water deficit and their relative impact on vegetative growth and fruit quality. In the current study, an existing fruit-tree model (QualiTree) was adapted for describing the water stress effects on peach (Prunus persica L. Batsch) vegetative growth, fruit size and composition. First, an energy balance calculation at the fruit-bearing shoot level and a water transfer formalization within the plant were integrated into the model. Next, a reduction function of vegetative growth according to tree water status was added to QualiTree. Then, the model was parameterized and calibrated for a late-maturing peach cultivar (“Elberta”) under semi-arid conditions, and for three different irrigation practices. Simulated vegetative and fruit growth variability over time was consistent with observed data. Sugar concentrations in fruit flesh were well simulated. Finally, QualiTree allowed for determining the relative importance of photosynthesis and vegetative growth reduction on carbon acquisition, plant growth and fruit quality under water constrains. According to simulations, water deficit impacted vegetative growth first through a direct effect on its sink strength, and; secondly, through an indirect reducing effect on photosynthesis. Fruit composition was moderately affected by water stress. The enhancements performed in the model broadened its predictive capabilities and proved that QualiTree allows for a better understanding of the water stress effects on fruit-tree functioning and might be useful for designing innovative horticultural practices in a changing climate scenario.",
+    "readLink": "http://journal.frontiersin.org/article/10.3389/fpls.2018.00003/full"
+  },
+  {
+    "title": "Climatic Effects on Position and Dynamics of Upper Open Forest Boundary in Altay and Western Sayan in the Last 60 Years",
+    "authors": [
+      "Pavel A. Moiseev,",
+      "Nail’ F. Nizametdinov"
+    ],
+    "doi": "https://doi.org/10.3390/f14101987",
+    "journalVolume": "Vol. 14,\n                                no. 1987\n                                \n                                  p.\n                                  1987",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The upper treeline ecotone is a global and typically climate-dependent phenomenon. Its elevation is usually coupled with the thermal limitations of tree growth. The air temperature rise connected with global warming is assumed as the main cause of treeline upslope shifts in the last century. It has been found that the treeline elevation also correlates with the distance from the coastline and the aridity or continentality of the climate or the mass elevation effect. However, previous and contemporary publications have not explained how the upper treeline position directly couples with climate parameters. Often, this has been restricted by a lack of climate measurements and spatial data. In our study, we obtained data from 339 regional weather stations for 1964–1974 and interpolated them to Altay and Western Sayan using regional DEMs and a specially developed regression model. Moreover, we semiautomatically identified the elevational position of the upper open forest boundary (OFB) (crown closure > 10%) on the slopes of 30 mountains in Altay and Western Sayan in 1960 and 2020. We took into account the slope aspect and edaphic constraints. The obtained data allowed us to undertake a regression analysis of the dependence of the OFB elevation on climatic parameters. As a result, we found that, in the 1960s, at OFB elevations rising from the outer to the inner parts of the study area to approximately 500–700 m, the summer air temperature and precipitation linearly decreased, but the summer sunshine duration increased. In the multiple regression analysis, including the climatic parameters as independent variables and the OFB elevation as a dependent variable, significant relations were found only for the combination of air temperature and sunshine duration. We assume that the OFB elevation is determined not only by the air temperature but also by the direct solar irradiation level, changing with latitude and cloudiness. We also found that the ratio between the OFB elevation on the northern and southern slopes varied with respect to latitude. The spatial analysis of OFB shifts in 1960–2020 revealed significant differences in its value in the central (80–90 m) and outer parts of the study area (110–130 m). We suppose that the OFB advance over the past 60 years has local specificity associated with the peculiarities of the climatic changes (summer temperature rise, precipitation decrease, and sunshine duration increase) in different parts of Altay and Western Sayan. Our results highlight the need to clearly determine climatic parameters when forecasting woody vegetation reactions to future climate changes.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/10/1987"
+  },
+  {
+    "title": "Vulnerability to Heat Stress and its Health Effects among People of Nepalgunj Sub-Metropolitan",
+    "authors": [
+      "Kusumsheela Bhatta,",
+      "Sandip Pahari"
+    ],
+    "doi": "https://doi.org/10.33314/jnhrc.v18i4.2734",
+    "journalVolume": "Vol. 18,\n                                no. 4",
+    "issn": "1727-5482 (Print)",
+    "publisher": "1999-6217 (Online)",
+    "countryOfPublisher": "Nepal Health Research Council",
+    "lcc": [
+      "Nepal",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "http://jnhrc.com.np",
+    "abstract": "Background: Record-breaking temperatures have occurred more frequently worldwide under the trend of climate change. It has increased the number of people at heat related medical conditions resulting in both mortality and morbidity from heat stress. This study aimed to assess factors associated with vulnerability to heat stress, its health effects among people of Nepalgunj Sub-metropolitan, and identify various coping strategies adopted. Methods: Cross-sectional analytical study was conducted among 366 research participants selected through multi-stage random sampling technique in Nepalgunj Sub-metropolitan. Heat Index was assessed using secondary analysis of meteorological data of Nepalgunj (Airport) station. Chi-square test was done to analyze the primary data. Results: Out of 366 participants, 224 (61.2%) participants had heat related symptoms in the past 6 months (April to September) from the date of the interview. Sex, education, income, roof construction, Cross-ventilation, working hour per day, presence of chronic disease, and medications use had a significant association with heat related symptoms among the participants (p<0.05) The most common coping strategies adopted to manage heat stress were the use of cooling methods, wearing light clothing, and bathing by cold water. The average monthly heat index was highest in August (42 °C) and lowest in April (29°C). Conclusions: The majority of the participants had heat related symptoms in the study area. In order to mitigate the heat stress in the urban town like Nepalgunj, measures such as tree plantation, reducing vehicle smoke emissions, and developing proper housing ventilation can be applied. Keywords: Climate change; coping strategy; heat index; heat stress; Nepal",
+    "readLink": "https://jnhrc.com.np/index.php/jnhrc/article/view/2734"
+  },
+  {
+    "title": "Optimising Artificial Moss Growth for Environmental Studies in the Mediterranean Area",
+    "authors": [
+      "Zulema Varela,",
+      "Carlos Real,",
+      "Cristina Branquinho,",
+      "Teresa Afonso do Paço,",
+      "Ricardo Cruz de Carvalho"
+    ],
+    "doi": "https://doi.org/10.3390/plants10112523",
+    "journalVolume": "Vol. 10,\n                                no. 2523\n                                \n                                  p.\n                                  2523",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "Bryophytes are poikilohydric organisms that play a key role in ecosystems, while some of them are also resistant to drought and environmental disturbances but present a slow growth rate. Moss culture in the laboratory can be a very useful tool for ecological restoration or the development of urban green spaces (roof and wall) in the Mediterranean region. Therefore, we aim to: (i) determine the optimal culture conditions for the growth of four moss species present in the Mediterranean climate, such as Bryum argenteum, Hypnum cupressiforme, Tortella nitida, and Tortella squarrosa; (ii) study the optimal growth conditions of the invasive moss Campylopus introflexus to find out if it can be a threat to native species. Photoperiod does not seem to cause any recognisable pattern in moss growth. However, temperature produces more linear but slower growth at 15 °C than at 20 and 25 °C. In addition, the lower temperature produced faster maximum cover values within 5–8 weeks, with at least 60% of the culture area covered. The study concludes that the culture of moss artificially in the organic gardening substrate without fertilisers is feasible and could be of great help for further use in environmental projects to restore degraded ecosystems or to facilitate urban green spaces in the Mediterranean area. Moreover, this study concludes that C. introflexus could successfully occupy the niche of other native moss species, especially in degraded areas, in a future global change scenario.",
+    "readLink": "https://www.mdpi.com/2223-7747/10/11/2523"
+  },
+  {
+    "title": "Metallothionein and Cadmium Toxicology—Historical Review and Commentary",
+    "authors": [
+      "Monica Nordberg,",
+      "Gunnar F. Nordberg"
+    ],
+    "doi": "https://doi.org/10.3390/biom12030360",
+    "journalVolume": "Vol. 12,\n                                no. 360\n                                \n                                  p.\n                                  360",
+    "issn": "2218-273X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biomolecules",
+    "abstract": "More than one and a half centuries ago, adverse human health effects were reported after use of a cadmium-containing silver polishing agent. Long-term cadmium exposure gives rise to kidney or bone disease, reproductive toxicity and cancer in animals and humans. At present, high human exposures to cadmium occur in small-scale mining, underlining the need for preventive measures. This is particularly urgent in view of the growing demand for minerals and metals in global climate change mitigation. This review deals with a specific part of cadmium toxicology that is important for understanding when toxic effects appear and, thus, is crucial for risk assessment. The discovery of the low-molecular-weight protein metallothionein (MT) in 1957 was an important milestone because, when this protein binds cadmium, it modifies cellular cadmium toxicity. The present authors contributed evidence in the 1970s concerning cadmium binding to MT and synthesis of the protein in tissues. We showed that binding of cadmium to metallothionein in tissues prevented some toxic effects, but that metallothionein can increase the transport of cadmium to the kidneys. Special studies showed the importance of the Cd/Zn ratio in MT for expression of toxicity in the kidneys. We also developed models of cadmium toxicokinetics based on our MT-related findings. This model combined with estimates of tissue levels giving rise to toxicity, made it possible to calculate expected risks in relation to exposure. Other scientists developed these models further and international organizations have successfully used these amended models in recent publications. Our contributions in recent decades included studies in humans of MT-related biomarkers showing the importance of MT gene expression in lymphocytes and MT autoantibodies for risks of Cd-related adverse effects in cadmium-exposed population groups. In a study of the impact of zinc status on the risk of kidney dysfunction in a cadmium-exposed group, the risks were low when zinc status was good and high when zinc status was poor. The present review summarizes this evidence in a risk assessment context and calls for its application in order to improve preventive measures against adverse effects of cadmium exposures in humans and animals.",
+    "readLink": "https://www.mdpi.com/2218-273X/12/3/360"
+  },
+  {
+    "title": "Effect of sowing time on the realization of productivity potential of modern varieties of soft winter wheat in the context of climate change",
+    "authors": [
+      "О. Л. Уліч"
+    ],
+    "doi": "https://doi.org/10.21498/2518-1017.4(25).2014.55899",
+    "journalVolume": "Vol. 0,\n                                no. 4(25)\n                                \n                                  pp.\n                                  58\n                                  – 62",
+    "issn": "2518-1017 (Print)",
+    "publisher": "2518-7457 (Online)",
+    "countryOfPublisher": "Ukrainian Institute for Plant Variety Examination",
+    "lcc": [
+      "Ukraine",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://journal.sops.gov.ua/",
+    "abstract": "The effect of sowing time on realization of the natural productivity potential of modern soft winter wheat varieties was studied. It is established that the use of current agricultural technologies in a context of climate change has caused shift of calendar sowing terms to the second half of the optimal terms comparing with earlier cultivated varieties. In subzones of Kirovohrad and Bila Tserkva state variety testing stations the highest yield of winter wheat is formed in case of sowing on September 20–30, but the optimum for Kirovohrad station fall on September 30, Bila Tserkva station – on September 20 and 30. Sowing in earlier or later time leads to decreasing yields, especially of Vynnychanka, Smuhlyanka, Zolotokolosa and Tripilska varieties. Bogdana and Kuialnyk varieties are the most adaptive to sowing time under agroecological conditions of Kirovohrad state variety testing station.",
+    "readLink": "http://journal.sops.gov.ua/article/view/55899"
+  },
+  {
+    "title": "Kebijakan Pemanfaatan Ruang Wilayah Kabupaten/Kota",
+    "authors": [
+      "Epi Syahadat,",
+      "Sylviani Sylviani"
+    ],
+    "doi": "https://doi.org/10.20886/jakk.2016.13.2.147-157",
+    "journalVolume": "Vol. 13,\n                                no. 2\n                                \n                                  pp.\n                                  147\n                                  – 157",
+    "issn": "0216-0897 (Print)",
+    "publisher": "2502-6267 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/",
+    "abstract": "Penataan ruang dilandaskan atas wawasan terwujudnya keharmonisan antara lingkungan alam dan buatan; terwujudnya keterpaduan dalam penggunaan sumber daya alam dan sumber daya buatan dengan memperhatikan sumber daya manusia. Penataan ruang terbagi menjadi pola ruang dan struktur ruang. Pola ruang adalah distribusi peruntukan ruang dalam suatu wilayah yang meliputi peruntukan ruang untuk fungsi lindung dan peruntukan ruang untuk fungsi budidaya. Penataan ruang diperlukan agar pemanfaatan ruang tidak melebihi daya dukung lingkungan. Penyediaan Ruang Terbuka Hijau merupakan permasalahan dalam penataan ruang terutama dalam hal pembebasan lahan Berdasarkan hasil kajian kebijakan peraturan yang dikeluarkan tiga Kementerian (Kementerian Dalam Negeri, Kementerian Pekerjaan Umum dan Kementerian Kehutanan) menunjukkan bahwa penataan ruang wilayah bertujuan untuk fungsi perlindungan atau pengamanan lingkungan baik mikro maupun makro serta untuk menjaga kelestarian, keserasian dan keseimbangan ekosistem perkotaan yang aman, nyaman, segar, indah, bersih yang meliputi unsur lingkungan, sosial dan budaya. Pemanfaatan ruang dilakukan melalui peraturan zonasi dengan maksud agar pedoman pengendalian pemanfaatan ruang sesuai dengan Rencana Tata Ruang Wilayah. Pendanaan Ruang Terbuka Hijau berasal dari APBD atau sumber dana lainnya sedangkan pengawasan dilakukan oleh Gubernur berkoordinasi bersama Bupati/Walikota. Diharapkan komitmen daerah dalam membangun hendaknya sesuai dengan aturan yang telah dikeluarkan oleh kementerian teknis terkait. Pengendalian dan pemanfaatan ruang wilayah perkotaan diselenggarakan oleh pemerintah dengan melibatkan masyarakat",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/article/view/1438"
+  },
+  {
+    "title": "The Impact of the El Niño Southern Oscillation on the Number of Visitors to Natural Attractions: The Moderating Effect of Disposable Personal Income, per Capita GDP and Population",
+    "authors": [
+      "Li Xiong,",
+      "Ke Gong,",
+      "Qingyun Tang,",
+      "Yuanxiang Dong,",
+      "Wei Xu"
+    ],
+    "doi": "https://doi.org/10.3390/atmos12091189",
+    "journalVolume": "Vol. 12,\n                                no. 1189\n                                \n                                  p.\n                                  1189",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Analyzing the impact of El Nilo Southern Oscillation (ENSO) on the number of tourists is essential in realizing the sustainable development of natural scenic spots. From the current research results, research on the effects of ENSO on tourism focuses on the impact of the formation of the natural environment. However, there is a lack of ENSO-related research on the number of people arriving at natural attractions. This paper considers the adjustment effects of personal disposable income, per capita GDP, and population size and constructs a new framework of ENSO’s influence on tourism. This paper builds a system GMM (Gaussian Mixture Model) and analyzes the impact of ENSO on tourist flow by using Google Trend data (big data technology) to obtain annual passenger flow data of 48 natural scenic spots in the United States (mainly national parks and national forests). The empirical results show that the increase in ENSO has led to a significant decrease in visitors to natural attractions in the United States. Moreover, the increase in personal disposable income, per capita GDP, and population size can weaken the relationship between ENSO and the number of tourists. This research expands and enriches the theoretical perspective of ENSO and outdoor tourism.",
+    "readLink": "https://www.mdpi.com/2073-4433/12/9/1189"
+  },
+  {
+    "title": "Observations of bromine monoxide transport in the Arctic sustained on aerosol particles",
+    "authors": [
+      "P. K. Peterson,",
+      "D. Pöhler,",
+      "H. Sihler,",
+      "H. Sihler,",
+      "J. Zielcke,",
+      "S. General,",
+      "U. Frieß,",
+      "U. Platt,",
+      "U. Platt,",
+      "W. R. Simpson,",
+      "S. V. Nghiem,",
+      "P. B. Shepson,",
+      "B. H. Stirm,",
+      "S. Dhaniyala,",
+      "T. Wagner,",
+      "D. R. Caulton,",
+      "J. D. Fuentes,",
+      "K. A. Pratt,",
+      "K. A. Pratt"
+    ],
+    "doi": "https://doi.org/10.5194/acp-17-7567-2017",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  7567\n                                  – 7579",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "The return of sunlight in the polar spring leads to the production of reactive halogen species from the surface snowpack, significantly altering the chemical composition of the Arctic near-surface atmosphere and the fate of long-range transported pollutants, including mercury. Recent work has shown the initial production of reactive bromine at the Arctic surface snowpack; however, we have limited knowledge of the vertical extent of this chemistry, as well as the lifetime and possible transport of reactive bromine aloft. Here, we present bromine monoxide (BrO) and aerosol particle measurements obtained during the March 2012 BRomine Ozone Mercury EXperiment (BROMEX) near Utqiaġvik (Barrow), AK. The airborne differential optical absorption spectroscopy (DOAS) measurements provided an unprecedented level of spatial resolution, over 2 orders of magnitude greater than satellite observations and with vertical resolution unable to be achieved by satellite methods, for BrO in the Arctic. This novel method provided quantitative identification of a BrO plume, between 500 m and 1 km aloft, moving at the speed of the air mass. Concurrent aerosol particle measurements suggest that this lofted reactive bromine plume was transported and maintained at elevated levels through heterogeneous reactions on colocated supermicron aerosol particles, independent of surface snowpack bromine chemistry. This chemical transport mechanism explains the large spatial extents often observed for reactive bromine chemistry, which impacts atmospheric composition and pollutant fate across the Arctic region, beyond areas of initial snowpack halogen production. The possibility of BrO enhancements disconnected from the surface potentially contributes to sustaining BrO in the free troposphere and must also be considered in the interpretation of satellite BrO column observations, particularly in the context of the rapidly changing Arctic sea ice and snowpack.",
+    "readLink": "http://www.atmos-chem-phys.net/17/7567/2017/acp-17-7567-2017.pdf"
+  }
+]

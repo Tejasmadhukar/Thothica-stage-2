@@ -1,0 +1,234 @@
+[
+  {
+    "title": "Life Cycle Assessment of Ethiopian Cement Manufacturing: A Potential Improvement on the Use of Fossil Fuel in Mugher Cement Factory",
+    "authors": [
+      "Lemma  Beressa,",
+      "Battula  Vijaya Saradhi"
+    ],
+    "doi": "Vol. 43,\n                                no. 4",
+    "issn": "2287-0741 (Print)",
+    "publisher": "2287-075X (Online)",
+    "countryOfPublisher": "Environmental Research Institute, Chulalongkorn University",
+    "lcc": [
+      "Thailand",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://ph01.tci-thaijo.org/index.php/aer/index",
+    "abstract": "The use of imported fuel in the Ethiopian cement industry increased the cost of production and the environmental burden, necessitating intervention. The greenhouse gas (GHG) emission, energy usage intensity, and resource exploitation of Ethiopian cement production were evaluated using the life cycle impact assessment (LCA) tool, aiming to recommend improvements. The LCA study used cumulative energy demand (CED) and Intergovernmental Panel on Climate Change (IPCC) 2006 life cycle impact assessment (LCIA) methods. For the case study of Mugher cement factory (MCF), the results on energy use intensities showed 3.74, 3.67, and 2.64 GJ/ton of clinker, Ordinary Portland cement (OPC), Pozzolana Portland cement (PPC), respectively. The result revealed MCF's energy use intensity was within the global range of 3.32 to 5.11 GJ/ton of cement production using similar kiln technology. The results on the GHG emissions were 0.87, 0.84, and 0.59 tons of CO2-equivalent/ton of clinker, OPC, and PPC, respectively. Process emissions accounted for 60% of overall CO2 emissions, with energy-related emissions accounting for the remaining 40%. CO2 emissions of MCF are below the global limit of 0.9 tons/ton of clinker, where all energy sources are fossil fuels. However, it is higher than the 0.65 ton/ton of clinker from a moderate rotary kiln in China. MCF used 70% of its total energy sources from imported fossil fuels, and transportation of the imported fuel added 1.2% CO2 to total emissions. A suggested fossil fuel use improvement scenario for MCF, where coffee husk replaces 50% of the imported coal improved the energy intensity, GHG emissions, and total cost of coal in clinker production by 1.2%, 14%, 36%, respectively.",
+    "readLink": "https://ph01.tci-thaijo.org/index.php/aer/article/view/246948"
+  },
+  {
+    "title": "Constraining Holocene hydrological changes in the Carpathian–Balkan region using speleothem δ<sup>18</sup>O and pollen-based temperature reconstructions",
+    "authors": [
+      "V. Drăguşin,",
+      "M. Staubwasser,",
+      "D. L. Hoffmann,",
+      "V. Ersek,",
+      "B. P. Onac,",
+      "D. Veres"
+    ],
+    "doi": "https://doi.org/10.5194/cp-10-1363-2014",
+    "journalVolume": "Vol. 10,\n                                no. 4\n                                \n                                  pp.\n                                  1363\n                                  – 1380",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "Here we present a speleothem isotope record (POM2) from Ascunsă Cave (Romania) that provides new data on past climate changes in the Carpathian–Balkan region from 8.2 ka until the present. This paper describes an approach to constrain the effect of temperature changes on calcite δ18O values in stalagmite POM2 over the course of the middle Holocene (6–4 ka), and across the 8.2 and 3.2 ka rapid climate change events. Independent pollen temperature reconstructions are used to this purpose. The approach combines the temperature-dependent isotope fractionation of rain water during condensation and fractionation resulting from calcite precipitation at the given cave temperature. The only prior assumptions are that pollen-derived average annual temperature reflects average cave temperature, and that pollen-derived coldest and warmest month temperatures reflect the range of condensation temperatures of rain above the cave site. This approach constrains a range of values between which speleothem δ18O changes should be found if controlled only by surface temperature variations at the cave site. Deviations of the change in δ18Ocspel values from the calculated temperature-constrained range of change are interpreted towards large-scale variability of climate–hydrology. Following this approach, we show that an additional ∼0.6‰ enrichment of δ18Oc in the POM2 stalagmite was caused by changing hydrological patterns in SW Romania across the middle Holocene, most likely comprising local evaporation from the soil and an increase in Mediterranean moisture δ18O. Further, by extending the calculations to other speleothem records from around the entire Mediterranean basin, it appears that all eastern Mediterranean speleothems recorded a similar isotopic enrichment due to changing hydrology, whereas all changes recorded in speleothems from the western Mediterranean are fully explained by temperature variation alone. This highlights a different hydrological evolution between the two sides of the Mediterranean. Our results also demonstrate that during the 8.2 ka event, POM2 stable isotope data essentially fit the temperature-constrained isotopic variability. In the case of the 3.2 ka event, an additional climate-related hydrological factor is more evident. This implies a different rainfall pattern in the Southern Carpathian region during this event at the end of the Bronze Age.",
+    "readLink": "http://www.clim-past.net/10/1363/2014/cp-10-1363-2014.pdf"
+  },
+  {
+    "title": "Google Earth Engine as Multi-Sensor Open-Source Tool for Monitoring Stream Flow in the Transboundary River Basin: Doosti River Dam",
+    "authors": [
+      "Hadis Pakdel-Khasmakhi,",
+      "Majid Vazifedoust,",
+      "Dev Raj Paudyal,",
+      "Sreeni Chadalavada,",
+      "Md Jahangir Alam"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi11110535",
+    "journalVolume": "Vol. 11,\n                                no. 535\n                                \n                                  p.\n                                  535",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "Understanding the effects of global change and human activities on water supplies depends greatly on surface water dynamics. A comprehensive examination of the hydroclimatic variations at the transboundary level is essential for the development of any adaptation or mitigation plans to deal with the negative effects of climate change. This research paper examines the hydroclimatic factors that contribute to the desiccation of the Doosti Dam’s basin in the transboundary area using multisensor satellite data from the Google Earth Engine (GEE) platform. The Mann–Kendall and Sens slope estimator test was applied to the satellite datasets to analyse the spatial and temporal variation of the hydroclimate variables and their trend over the transboundary area for 18 years from 2004 to 2021 (as the dam began operating in 2005). Statistical analysis results showed decreasing trends in temperature and an increase in rainfall with respect to station-observed available data. Evapotranspiration and irrigated area development followed the increasing pattern and a slight decrease in snow cover. The results confirmed a large expansion of the irrigated area, especially during the winter growing season. The increase in irrigated cultivated areas during both winter and summer seasons is possibly the main reason for the diversion of water to meet the irrigation requirements of the developed agriculture areas. The approach followed in this study could be applied to any location around the globe to evaluate the hydrological conditions and spatiotemporal changes in response to climate change, trend analysis and human activities.",
+    "readLink": "https://www.mdpi.com/2220-9964/11/11/535"
+  },
+  {
+    "title": "War on Ukraine: Impact on Ukrainian Medical Students",
+    "authors": [
+      "Bahadar Singh Srichawla,",
+      "Mohammad Amin Khazeei Tabari,",
+      "Mihnea-Alexandru Găman,",
+      "Alejandro Muñoz-Valencia,",
+      "Francisco J. Bonilla-Escobar"
+    ],
+    "doi": "Vol. 10,\n                                no. 1",
+    "issn": "2076-6327 (Online)",
+    "publisher": "University Library System, University of Pittsburgh",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General)",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://ijms.info/",
+    "abstract": "The ongoing Russian invasion of Ukraine has taken a tremendous toll on the physical and mental wellbeing of the Ukrainian people. Accordingly, medical trainees and institutions must adapt to a high degree of uncertainty and turmoil. In 2022, Ukraine has 23 medical institutions filled with not only Ukrainian nationals but medical students from around the world. It is estimated that approximately 18,000 students from India alone study in Ukraine, many of whom are medical learners. Many of these national and foreign medical students are now displaced refugees looking to escape to Western Europe or their country of origin. Even by escaping the ongoing conflict, the question remains as to how many of these students will complete their medical education and cope with the trauma of political unrest. This is the first time that the International Journal of Medical Students Editorial Team has commented on a political conflict. We have learned in our tenure that medical students and their education worldwide is affected by many factors, including global warming and conflict. We have raised our voice before for actions to prevent climate change. We are adding our voice of support to those suffering from political unrest and acts of violence globally, with specific focus on the Ukraine. The path of war and vengeance is an easy one when compared to political dialogue and collaboration. We, the new generation of scientists of the world, claim for the use of reason over emotions to keep us all safe and promote progress worldwide.",
+    "readLink": "https://ijms.info/IJMS/article/view/1468"
+  },
+  {
+    "title": "A Literature Review of Naturally Ventilated Public Hospital Wards in Tropical Climate Countries for Thermal Comfort and Energy Saving Improvements",
+    "authors": [
+      "Noor  Muhammad Abd Rahman,",
+      "Lim  Chin Haw,",
+      "Ahmad Fazlizan"
+    ],
+    "doi": "https://doi.org/10.3390/en14020435",
+    "journalVolume": "Vol. 14,\n                                no. 435\n                                \n                                  p.\n                                  435",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The tropical climate with its high average temperatures throughout the year affects the thermal comfort of buildings, especially for naturally ventilated spaces. The government’s move to turn hospitals into green buildings is seen in line with the global commitment to conserve the environment and the country’s current policy of supporting sustainable development. To achieve this goal, energy efficiency and thermal comfort need to be given priority in the focus on hospital planning and implementation for a better quality of the indoor environment. This literature review has led to the need to improve thermal comfort in natural ventilated wards in government hospitals. Some wards are built without air conditioning to save on construction costs, reduce utility costs through low energy consumption, as well as the need for infection control and airborne infections. However, current climate change requires a special study of thermal comfort in wards that use natural ventilation. An innovative solution is proposed to solve the problem statement identified in the reviewed literature through the application of solar PV/T systems and heat pumps. This hybrid system re-uses the heat energy (cogeneration) generated from solar PV panels to be cooled by heat pumps and is then pumped into the ward for cooling purposes. The proposed system has the potential to improve thermal comfort in natural ventilation wards and increase efficiency of the solar PV system for optimal electricity generation as well as improve the overall energy performance of buildings through low-energy cooling systems. It is not only solving the thermal comfort issue but also avoid the use of extra energy for cooling by optimizing the renewable energy.",
+    "readLink": "https://www.mdpi.com/1996-1073/14/2/435"
+  },
+  {
+    "title": "Eco-Efficient Approach for Wastewater Treatment and Agricultural Valorization: Fertigation Effect on Soil and Plant",
+    "authors": [
+      "Tawfik El Moussaoui,",
+      "Mohamed Oussama Belloulid,",
+      "Laila Mandi,",
+      "Said Wahbi,",
+      "Salvatore Masi,",
+      "Naaila Ouazzani"
+    ],
+    "doi": "https://doi.org/10.3390/environsciproc2022016062",
+    "journalVolume": "Vol. 16,\n                                no. 62\n                                \n                                  p.\n                                  62",
+    "issn": "2673-4931 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/environsciproc",
+    "abstract": "In the present research, an alternative eco-efficient biotechnology system, both selective and environmentally viable, is proposed and compared to a conventional scheme. The results showed an optimal process function and a significant difference (p < 0.001) in wastewater measured quality parameters compared to the conventional scheme. Indeed, the treated wastewater from the eco-efficient process revealed significant concentrations of organic matter and nutrients. Accordingly, there was an improvement in soil and plant quality parameters as a result of irrigation with raw urban wastewater and treated wastewater from the eco-efficient system compared to ground water.",
+    "readLink": "https://www.mdpi.com/2673-4931/16/1/62"
+  },
+  {
+    "title": "Hydrodynamics of a high Alpine catchment  characterized by four natural tracers",
+    "authors": [
+      "A. Michelon,",
+      "N. Ceperley,",
+      "H. Beria,",
+      "J. Larsen,",
+      "J. Larsen,",
+      "T. Vennemann,",
+      "B. Schaefli"
+    ],
+    "doi": "https://doi.org/10.5194/hess-27-1403-2023",
+    "journalVolume": "Vol. 27\n                                \n                                \n                                  pp.\n                                  1403\n                                  – 1430",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Hydrological processes in high-elevation catchments are strongly influenced by alternating snow accumulation and melt in addition to summer rainfall. Although diverse water sources and flow paths that generate streamflow in the world's water towers emerge from these two driving inputs, a detailed process understanding remains poor. We measured a combination of natural tracers of water at a high frequency, including stable isotope compositions, electrical conductivity (EC), and water and soil temperature to characterize hydrological processes in a snow-dominated Alpine catchment and to understand the diversity of streamflow sources and flow paths. Stable isotope composition of the sampled water revealed the prominence of snowmelt year-round (even during winter baseflow), and a strong flushing of the entire system with snowmelt at the start of the main melt period, sometimes referred to as the freshet, led to a reset, or return to baseline, of the isotopic values in most sampled water. Soil temperature measurements help identify snow-free periods and indicate sub-snowpack local flow, for example, in the case of rain-on-snow events. Water temperature measurements in springs can indicate flow path depth. EC measurements reflect the magnitude of subsurface exchange and allow for the separation of subsurface snowmelt contribution to streamflow from the contribution of stored groundwater. These insights into the details of streamflow generation in such a dynamic environment were only made possible due to intense, year-round water sampling. The sampled tracers are revealed to complement each other in important ways particularly because they were sampled during winter and spring, both snow-covered periods, the importance of which is a key implication of this work.",
+    "readLink": "https://hess.copernicus.org/articles/27/1403/2023/hess-27-1403-2023.pdf"
+  },
+  {
+    "title": "Embedding justice in the 1.5°C transition: A transdisciplinary research agenda",
+    "authors": [
+      "Jennifer Cronin,",
+      "Nick Hughes,",
+      "Julia Tomei,",
+      "Lilia Caiado Couto,",
+      "Muez Ali,",
+      "Vivien Kizilcec,",
+      "Ayo Adewole,",
+      "Iwona Bisaga,",
+      "Oliver Broad,",
+      "Priti Parikh,",
+      "Elusiyan Eludoyin,",
+      "Leonhard Hofbauer,",
+      "Pedro Gerber Machado,",
+      "Isabela Butnar,",
+      "Gabrial Anandarajah,",
+      "Jeremy Webb,",
+      "Xavier Lemaire,",
+      "Jim Watson"
+    ],
+    "doi": "Vol. 1\n                                \n                                \n                                  p.\n                                  100001",
+    "issn": "2667-095X (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/renewable-and-sustainable-energy-transition",
+    "abstract": "Limiting global temperature rise to 1.5°C requires transformations in every aspect of our societies and economies. In contrast to 2°C pathways, the 1.5°C target requires even deeper and faster cuts in emissions. While this will bring enormous collective benefits, mitigation action also risks significant disruptions and losses to some groups. In this Perspective, we set out the justice implications of 1.5°C-consistent modelled pathways, focusing on fossil fuel extraction, critical resources, economic impacts and human needs. This leads to the identification of three cross-cutting characteristics of just transitions to 1.5°C-consistent pathways: the inherently politicised nature of transitions; the need to integrate multiple perspectives; and the challenges they present to values and assumptions. We propose a research agenda which recommends ways in which research must be interdisciplinary, integrative of diverse actors and perspectives, and able to robustly test and explore radical ideas if researchers are to rise to the challenge of delivering just transitions to 1.5°C.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2667095X21000015"
+  },
+  {
+    "title": "Morphological change to birds over 120 years is not explained by thermal adaptation to climate change.",
+    "authors": [
+      "Volker Salewski,",
+      "Karl-Heinz Siebenrock,",
+      "Wesley M Hochachka,",
+      "Friederike Woog,",
+      "Wolfgang Fiedler"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0101927",
+    "journalVolume": "Vol. 9,\n                                no. 7\n                                \n                                  p.\n                                  e101927",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Changes in morphology have been postulated as one of the responses of animals to global warming, with increasing ambient temperatures leading to decreasing body size. However, the results of previous studies are inconsistent. Problems related to the analyses of trends in body size may be related to the short-term nature of data sets, to the selection of surrogates for body size, to the appropriate models for data analyses, and to the interpretation as morphology may change in response to ecological drivers other than climate and irrespective of size. Using generalized additive models, we analysed trends in three morphological traits of 4529 specimens of eleven bird species collected between 1889 and 2010 in southern Germany and adjacent areas. Changes and trends in morphology over time were not consistent when all species and traits were considered. Six of the eleven species displayed a significant association of tarsus length with time but the direction of the association varied. Wing length decreased in the majority of species but there were few significant trends in wing pointedness. Few of the traits were significantly associated with mean ambient temperatures. We argue that although there are significant changes in morphology over time there is no consistent trend for decreasing body size and therefore no support for the hypothesis of decreasing body size because of climate change. Non-consistent trends of change in surrogates for size within species indicate that fluctuations are influenced by factors other than temperature, and that not all surrogates may represent size appropriately. Future analyses should carefully select measures of body size and consider alternative hypotheses for change.",
+    "readLink": "http://europepmc.org/articles/PMC4096916?pdf=render"
+  },
+  {
+    "title": "A tale of two \"forests\": random forest machine learning AIDS tropical forest carbon mapping.",
+    "authors": [
+      "Joseph Mascaro,",
+      "Gregory P Asner,",
+      "David E Knapp,",
+      "Ty Kennedy-Bowdoin,",
+      "Roberta E Martin,",
+      "Christopher Anderson,",
+      "Mark Higgins,",
+      "K Dana Chadwick"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0085993",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  p.\n                                  e85993",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Accurate and spatially-explicit maps of tropical forest carbon stocks are needed to implement carbon offset mechanisms such as REDD+ (Reduced Deforestation and Degradation Plus). The Random Forest machine learning algorithm may aid carbon mapping applications using remotely-sensed data. However, Random Forest has never been compared to traditional and potentially more reliable techniques such as regionally stratified sampling and upscaling, and it has rarely been employed with spatial data. Here, we evaluated the performance of Random Forest in upscaling airborne LiDAR (Light Detection and Ranging)-based carbon estimates compared to the stratification approach over a 16-million hectare focal area of the Western Amazon. We considered two runs of Random Forest, both with and without spatial contextual modeling by including--in the latter case--x, and y position directly in the model. In each case, we set aside 8 million hectares (i.e., half of the focal area) for validation; this rigorous test of Random Forest went above and beyond the internal validation normally compiled by the algorithm (i.e., called \"out-of-bag\"), which proved insufficient for this spatial application. In this heterogeneous region of Northern Peru, the model with spatial context was the best preforming run of Random Forest, and explained 59% of LiDAR-based carbon estimates within the validation area, compared to 37% for stratification or 43% by Random Forest without spatial context. With the 60% improvement in explained variation, RMSE against validation LiDAR samples improved from 33 to 26 Mg C ha(-1) when using Random Forest with spatial context. Our results suggest that spatial context should be considered when using Random Forest, and that doing so may result in substantially improved carbon stock modeling for purposes of climate change mitigation.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24489686/?tool=EBI"
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "title": "Effect of climate factors on the incidence of hand, foot, and mouth disease in Malaysia: A generalized additive mixed model",
+    "authors": [
+      "Nurmarni Athirah Abdul Wahid,",
+      "Jamaludin Suhaila,",
+      "Haliza Abd. Rahman"
+    ],
+    "doi": "Vol. 6\n                                \n                                \n                                  pp.\n                                  997\n                                  – 1008",
+    "issn": "2468-0427 (Online)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Medicine: Internal medicine: Infectious and parasitic diseases"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/infectious-disease-modelling/",
+    "abstract": "Climate change is one of the critical determinants affecting life cycles and transmission of most infectious agents, including malaria, cholera, dengue fever, hand, foot, and mouth disease (HFMD), and the recent Corona-virus pandemic. HFMD has been associated with a growing number of outbreaks resulting in fatal complications since the late 1990s. The outbreaks may result from a combination of rapid population growth, climate change, socioeconomic changes, and other lifestyle changes. However, the modeling of climate variability and HFMD remains unclear, particularly in statistical theory development. The statistical relationship between HFMD and climate factors has been widely studied using generalized linear and additive modeling. When dealing with time-series data with clustered variables such as HFMD with clustered states, the independence principle of both modeling approaches may be violated. Thus, a Generalized Additive Mixed Model (GAMM) is used to investigate the relationship between HFMD and climate factors in Malaysia. The model is improved by using a first-order autoregressive term and treating all Malaysian states as a random effect. This method is preferred as it allows states to be modeled as random effects and accounts for time series data autocorrelation. The findings indicate that climate variables such as rainfall and wind speed affect HFMD cases in Malaysia. The risk of HFMD increased in the subsequent two weeks with rainfall below 60 mm and decreased with rainfall exceeding 60 mm. Besides, a two-week lag in wind speeds between 2 and 5 m/s reduced HFMD's chances. The results also show that HFMD cases rose in Malaysia during the inter-monsoon and southwest monsoon seasons but fell during the northeast monsoon. The study's outcomes can be used by public health officials and the general public to raise awareness, and thus, implement effective preventive measures.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2468042721000555"
+  },
+  {
+    "title": "Spatio-temporal analysis of land use dynamics and its potential indications on land surface temperature in Sokoto Metropolis, Nigeria",
+    "authors": [
+      "K. O. Ogunjobi,",
+      "Y. Adamu,",
+      "A. A. Akinsanola,",
+      "I. R. Orimoloye"
+    ],
+    "doi": "https://doi.org/10.1098/rsos.180661",
+    "journalVolume": "Vol. 5,\n                                no. 12",
+    "issn": "2054-5703 (Online)",
+    "publisher": "The Royal Society",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://royalsocietypublishing.org/journal/rsos",
+    "abstract": "Land use change is the main driving force of global environmental change and is considered as most central to various debates on sustainable development. Even though a large volume of literature materials is available on land use/land cover change for many areas, very little work has been done on land use and its implications on land surface thermal characteristics over the Sokoto area of Nigeria, despite the strategic importance of the zone, including urbanization, increased population as well as the climate in the area, which is dominated by warm harmattan wind blowing Sahara dust inland. Thus, this study aimed at investigating the implications of urban growth on temporal variations of land surface temperature (LST) using remote sensing and geographic information system (GIS) techniques over Sokoto Metropolis, Nigeria between 1986 and 2016. The change detection of each land use class was carried out for each period using Landsat images obtained from the archives of the United States Geological Survey (USGS). The results revealed that the area has undergone a drastic transformation where built-up area witnessed changes at 10.77%, farmland and vegetation increased at the rate of 0.72% and 2.15%, respectively, for the period of study (1986–2016). While bare soil and water body decreased at the rate of 0.56% and 1.11%, respectively, during the study period. This shows that there exists a transformation from bare surface (desert) to vegetated surface especially between years 2009 and 2016. The LST of Sokoto Metropolis was calculated from the satellite data, and the land surface temperature of each land use class was assessed for the study period. The maximum LST of Sokoto was 30.6°C, 32.8°C and 34.6°C for 1986, 1999 and 2016, respectively. This study has revealed the existence of a positive relationship between built-up area and LST over the area. This development might be as a result of anthropogenic activities through urban growth coupled with its potential impacts on urban climate. These are intensified by constant changes of the space, causing imbalance in the interactions between surface and atmosphere which may be extensively influenced or modified by various forms of land use.",
+    "readLink": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.180661"
+  },
+  {
+    "title": "A Vulnerability Assessment of Fish and Invertebrates to Climate Change on the Northeast U.S. Continental Shelf.",
+    "authors": [
+      "Jonathan A Hare,",
+      "Wendy E Morrison,",
+      "Mark W Nelson,",
+      "Megan M Stachura,",
+      "Eric J Teeters,",
+      "Roger B Griffis,",
+      "Michael A Alexander,",
+      "James D Scott,",
+      "Larry Alade,",
+      "Richard J Bell,",
+      "Antonie S Chute,",
+      "Kiersten L Curti,",
+      "Tobey H Curtis,",
+      "Daniel Kircheis,",
+      "John F Kocik,",
+      "Sean M Lucey,",
+      "Camilla T McCandless,",
+      "Lisa M Milke,",
+      "David E Richardson,",
+      "Eric Robillard,",
+      "Harvey J Walsh,",
+      "M Conor McManus,",
+      "Katrin E Marancik,",
+      "Carolyn A Griswold"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0146756",
+    "journalVolume": "Vol. 11,\n                                no. 2\n                                \n                                  p.\n                                  e0146756",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Climate change and decadal variability are impacting marine fish and invertebrate species worldwide and these impacts will continue for the foreseeable future. Quantitative approaches have been developed to examine climate impacts on productivity, abundance, and distribution of various marine fish and invertebrate species. However, it is difficult to apply these approaches to large numbers of species owing to the lack of mechanistic understanding sufficient for quantitative analyses, as well as the lack of scientific infrastructure to support these more detailed studies. Vulnerability assessments provide a framework for evaluating climate impacts over a broad range of species with existing information. These methods combine the exposure of a species to a stressor (climate change and decadal variability) and the sensitivity of species to the stressor. These two components are then combined to estimate an overall vulnerability. Quantitative data are used when available, but qualitative information and expert opinion are used when quantitative data is lacking. Here we conduct a climate vulnerability assessment on 82 fish and invertebrate species in the Northeast U.S. Shelf including exploited, forage, and protected species. We define climate vulnerability as the extent to which abundance or productivity of a species in the region could be impacted by climate change and decadal variability. We find that the overall climate vulnerability is high to very high for approximately half the species assessed; diadromous and benthic invertebrate species exhibit the greatest vulnerability. In addition, the majority of species included in the assessment have a high potential for a change in distribution in response to projected changes in climate. Negative effects of climate change are expected for approximately half of the species assessed, but some species are expected to be positively affected (e.g., increase in productivity or move into the region). These results will inform research and management activities related to understanding and adapting marine fisheries management and conservation to climate change and decadal variability.",
+    "readLink": "http://europepmc.org/articles/PMC4739546?pdf=render"
+  },
+  {
+    "title": "Consequences of climate-induced range expansions on multiple ecosystem functions",
+    "authors": [
+      "Jared A. Balik,",
+      "Hamish S. Greig,",
+      "Brad W. Taylor,",
+      "Scott A. Wissinger"
+    ],
+    "doi": "https://doi.org/10.1038/s42003-023-04673-w",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2399-3642 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.nature.com/commsbio/",
+    "abstract": "Abstract Climate-driven species range shifts and expansions are changing community composition, yet the functional consequences in natural systems are mostly unknown. By combining a 30-year survey of subalpine pond larval caddisfly assemblages with species-specific functional traits (nitrogen and phosphorus excretion, and detritus processing rates), we tested how three upslope range expansions affected species’ relative contributions to caddisfly-driven nutrient supply and detritus processing. A subdominant resident species (Ag. deflata) consistently made large relative contributions to caddisfly-driven nitrogen supply throughout all range expansions, thus “regulating” the caddisfly-driven nitrogen supply. Whereas, phosphorus supply and detritus processing were regulated by the dominant resident species (L. externus) until the third range expansion (by N. hostilis). Since the third range expansion, N. hostilis’s relative contribution to caddisfly-driven phosphorus supply increased, displacing L. externus’s role in regulating caddisfly-driven phosphorus supply. Meanwhile, detritus processing contributions became similar among the dominant resident, subdominant residents, and range expanding species. Total ecosystem process rates did not change throughout any of the range expansions. Thus, shifts in species’ relative functional roles may occur before shifts in total ecosystem process rates, and changes in species’ functional roles may stabilize processes in ecosystems undergoing change.",
+    "readLink": "https://doi.org/10.1038/s42003-023-04673-w"
+  },
+  {
+    "title": "Predicting the foraging patterns of wintering Auks using a sea surface temperature model for the Barents Sea",
+    "authors": [
+      "Samuel Hodges,",
+      "Kjell Einar Erikstad,",
+      "Tone Kirsten Reiertsen"
+    ],
+    "doi": "https://doi.org/10.1002/2688-8319.12181",
+    "journalVolume": "Vol. 3,\n                                no. 4\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2688-8319 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://besjournals.onlinelibrary.wiley.com/journal/26888319",
+    "abstract": "Abstract The conservation of seabirds is increasingly important for their role as indicator species of ocean ecosystems, which are predicted to experience increasing levels of exploitation this century. Safeguarding these ecosystems will require predictive, spatial studies of seabird foraging hotspots. Current research on seabird foraging hotspots has established a significant relationship between probability of presence and several environmental variables, including Sea Surface Temperature (SST). However, inter‐annual, basin‐wide variation has the potential to invalidate these models, which depend on seasonal mesoscale variability. In this study, we present a novel solution to predict presence from spatially and temporally variable environmental predictors, while reducing the influence of large‐scale basin‐wide variation. We model the Maximum Entropy (MaxENT) Model‐derived relationship between Standardized Monthly SST (StdSST) and Habitat Suitability using Gaussian curve models, and then apply these models to independent StdSST data to produce heatmaps of predicted seabird presence. In this study, we demonstrate StdSST to be a functional environmental predictor of seabird presence, within a Gaussian curve model framework. We demonstrate accurate predictions of the model's training data and of independent seabird presence data to a high degree of accuracy (area under the receiver operator characteristic curve > 0.65) for four species of Auk: Common Guillemots (Uria aalge), Razorbills (Alca torda), Atlantic Puffins (Fratercula arctica) and Brunnich's Guillemots (Uria lomvia). We believe that the methodology we have developed and tested in this study can be used to guide ecosystem management practices by converting coupled‐climate model predictions into predictions of future presence based on Habitat Suitability for the species, allowing us to consider the possible effects of climate change and yearly variation of SST on foraging seabird hotspots in the Barents Sea.",
+    "readLink": "https://doi.org/10.1002/2688-8319.12181"
+  },
+  {
+    "title": "Evidence map: topics, trends, and policy in the energy transitions literature",
+    "authors": [
+      "Jiaqi Lu,",
+      "Gregory F Nemet"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/abc195",
+    "journalVolume": "Vol. 15,\n                                no. 12\n                                \n                                  p.\n                                  123003",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "We develop an evidence map of the academic research on energy transitions (ETs) with a focus on what that literature says about public policy for addressing climate change. In this article, the questions we ask are: What trends do we see in the topics that occur in journal articles on the energy transition? And to what extent has public policy been a focus? Where do we need or see energy transitions happening? Our approach involves: (1) using two literature databases to identify 4875 relevant ET articles over the period 1970–2018; (2) identifying important topics within ET using topic modeling via latent Dirichlet allocation on the abstracts of the articles; and (3) conducting a robustness check on the topics and analysis on the policy-relevant topics. This study contributes to the ETs research by providing the first systematic overview of peer-reviewed articles on ETs. We find that the number of academic articles covering ETs has increased by nearly a factor of 50 since 2008, 67% of them are policy related. Research on governance is pervasive in the literature and contains multiple topics differentiated by substantive foci. Some topics on the social-technical, social-behavioral, and political aspects of transition governance are becoming increasingly popular. Network analysis shows transition governance, energy economics and climate implications, and energy technologies comprise the three largest clusters of topics, but we observe a lack of connectedness between governance topics and technology topics. In the policy-relevant literature, we see a growing number of articles on technological and institutional innovation, and examples from leader countries, especially in Europe. We find only a quarter of articles discussed ETs in developing countries, which is not aligned with a recurring theme, their importance to the global ET.",
+    "readLink": "https://doi.org/10.1088/1748-9326/abc195"
+  },
+  {
+    "title": "A Global Analysis of Anthropogenic Development of Marine Turtle Nesting Beaches",
+    "authors": [
+      "Sarah  J. Biddiscombe,",
+      "Elliott  A. Smith,",
+      "Lucy  A. Hawkes"
+    ],
+    "doi": "https://doi.org/10.3390/rs12091492",
+    "journalVolume": "Vol. 12,\n                                no. 1492\n                                \n                                  p.\n                                  1492",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The Intergovernmental Panel on Climate Change predicts that sea levels will rise by up to 0.82 m in the next 100 years. In natural systems, coastlines would migrate landwards, but because most of the world’s human population occupies the coast, anthropogenic structures (such as sea walls or buildings) have been constructed to defend the shore and prevent loss of property. This can result in a net reduction in beach area, a phenomenon known as “coastal squeeze”, which will reduce beach availability for species such as marine turtles. As of yet, no global assessment of potential future coastal squeeze risk at marine turtle nesting beaches has been conducted. We used Google Earth satellite imagery to enumerate the proportion of beaches over the global nesting range of marine turtles that are backed by hard anthropogenic coastal development (HACD). Mediterranean and North American nesting beaches had the most HACD, while the Australian and African beaches had the least. Loggerhead and Kemp’s ridley turtle nesting beaches had the most HACD, and flatback and green turtles the least. Future management approaches should prioritise the conservation of beaches with low HACD to mitigate future coastal squeeze.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/9/1492"
+  },
+  {
+    "title": "The Coupling of Glacier Melt Module in SWAT+ Model Based on Multi-Source Remote Sensing Data: A Case Study in the Upper Yarkant River Basin",
+    "authors": [
+      "Chengde Yang,",
+      "Min Xu,",
+      "Congsheng Fu,",
+      "Shichang Kang,",
+      "Yi Luo"
+    ],
+    "doi": "https://doi.org/10.3390/rs14236080",
+    "journalVolume": "Vol. 14,\n                                no. 6080\n                                \n                                  p.\n                                  6080",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Glaciers have proven to be a particularly sensitive indicator of climate change, and the impacts of glacier melting on downstream water supplies are becoming increasingly important as the world’s population expands and global warming continues. Data scarcity in mountainous catchments, on the other hand, has been a substantial impediment to hydrological simulation. Therefore, an enhanced glacier hydrological model combined with multi-source remote sensing data was introduced in this study and was performed in the Upper Yarkant River (UYR) Basin. A simple yet efficient degree-day glacier melt algorithm considering solar radiation effects has been introduced for the Soil and Water Assessment Tool Plus model (SWAT+), sensitivity analysis and auto calibration/validation processes were integrated into this enhanced model as well. The results indicate that (i) including glacio-hydrological processes and multi-source remote sensing data considerably improved the simulation precision, with a Nash–Sutcliffe efficiency coefficient (NSE) promotion of 1.9 times and correlated coefficient (R2) of 1.6 times greater than the original model; (ii) it is an efficient and feasible way to simulate glacio-hydrological processes with SWAT+Glacier and calibrate it using observed discharge data in data-scarce and glacier-melt-dominated catchments; and (iii) glacier runoff is intensively distributed throughout the summer season, accounting for about 78.5% of the annual glacier runoff, and glacier meltwater provides approximately 52.5% (4.4 × 109 m3) of total runoff in the study area. This research can serve the runoff simulation in glacierized regions and help in understanding the interactions between streamflow components and climate change on basin scale.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/23/6080"
+  },
+  {
+    "title": "Nature of extreme precipitation over Ukraine in the 21st century",
+    "authors": [
+      "V. F. Martazinova,",
+      "O. Shchehlov"
+    ],
+    "doi": "https://doi.org/10.31481/uhmj.22.2018.04",
+    "journalVolume": "no. 22\n                                \n                                  pp.\n                                  36\n                                  – 45",
+    "issn": "2311-0902 (Print)",
+    "publisher": "2616-7271 (Online)",
+    "countryOfPublisher": "Odessa State Environmental University",
+    "lcc": [
+      "Ukraine",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://uhmj.org.ua",
+    "abstract": "The article examines the state of precipitation over the territory of Ukraine over recent decades. Through the example of central months of the seasons differences in monthly and average daily precipitation amounts for the period of 2000-2014 are shown. Within the most territory of Ukraine summer precipitation is almost twice as high as spring and autumn one. During all seasons the greatest amount of precipitation is observed in the Carpathian region. Distribution of average long-term precipitation values over the rest of the territory coincides in spring, summer and autumn: the highest precipitation values are observed in the western and north-western parts and decrease to the south-east. The article studies a yearly precipitation rate at low-land and mountain meteorological stations. It proposes to separate criteria of precipitation extremality depending on the regions. All extreme daily precipitation can be divided into the following categories: > 20-30 mm / day, > 30-50 mm / day, > 50 mm / day. Each category of extreme precipitation has its a certain economic risk, but the third class can cause not only economic risks, but also risks associated with human life and activities. The distinct feature of the present-day precipitation consists in redistribution of precipitation in the middle of the months, when a daily precipitation rate increases together with intervals between heavy rains. In order to analyze the changes of precipitation regime, the approach of dividing the rates of monthly precipitation amount by the rates of extreme and non-extreme precipitation is proposed. A comparative analysis of daily precipitation in different seasons and over different climatic periods was also carried out. The article studies the proportion of daily precipitation of up to 15 mm and the one exceeding 15 mm forming a part of monthly rates of precipitation over the territory of Ukraine. In January, rainfalls exceeding 15 mm make up from 5-10 % of the total amount of monthly precipitation, except the Carpathian region and the southwestern regions of Ukraine where those exceed 20-25 %. In spring, the amount of rainfalls increases and its percentage of the monthly precipitation amount is around 20 % over most of the regions. Until summer, the amount of rainfalls increases and in July its percentage is 50-70 %. Until autumn, the amount of those starts decreasing, however, the percentage of rainfalls is almost twice as high as in spring, and for most of the regions it is about 30-40 %. Such breakdown of the monthly precipitation rates into two components allows determination during a period in question of precipitation amounts we have each month. The maximum daily precipitation amounts serve as an important indicator of the precipitation regime which shows the potential danger from extreme precipitation. For different regions the threshold values of the upper limit of rainfalls taken as a maximum daily value for the period of 2000-2014 differ. In winter and spring time, the limit of rainfalls amount per day usually hits 20-30 mm for the most territory of the country. At the same time there are certain areas where the limit values of the daily rainfalls rate reach 40-50 mm. The most significant rainfalls are observed in summer. Despite the fact that the territory of such rainfalls is quite patchy, nevertheless, those areas where precipitation rate over one day may reach 70 mm are the most vulnerable and have high risks for human life and activities. In autumn, the threshold values are 30-40 mm. The breakdown of the rates of monthly precipitation amount into extreme and non-extreme ones allows determination in future of whether the precipitation regime changes because of extreme or non-extreme values. Also, in the long run, a comparative analysis of the rates of showers and weak rainfalls in the late 20th and early 21st centuries can be carried out and a tendency of precipitation regime seasonal change over the next decade can be obtained which will help us to identify vulnerable regions suffering from extreme precipitation rates.",
+    "readLink": "http://uhmj.org.ua/index.php/journal/article/view/105"
+  },
+  {
+    "title": "Optimization of Drinking Water Distribution Systems in Relation to the Effects of Climate Change",
+    "authors": [
+      "Mario Maiolo,",
+      "Giuseppe Mendicino,",
+      "Daniela Pantusa,",
+      "Alfonso Senatore"
+    ],
+    "doi": "https://doi.org/10.3390/w9100803",
+    "journalVolume": "Vol. 9,\n                                no. 10\n                                \n                                  p.\n                                  803",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Proper water resources management involves the analysis and resolution of various optimization problems according to climate change effects on the availability and distribution of the resources themselves. Specifically, these conditions require the identification of new resource allocation optimization solutions capable of taking into account the water resource losses due to climate change scenarios. As is well known, Southern Italy is a region that is potentially very sensitive to climate change. In this paper, a 1717 km2 area, corresponding to the province of Crotone, was analyzed as a study case. This area is characterized by a sufficient availability of resources as a whole as compared to the needs of the users, but has an unbalanced distribution of water through its various systems. After identifying water resource allocations in detail for this area, an optimization solution accounting for the expected reduced availability of water resources in the context of climate change was created and was compared with the optimization solution for current water availability.",
+    "readLink": "https://www.mdpi.com/2073-4441/9/10/803"
+  }
+]

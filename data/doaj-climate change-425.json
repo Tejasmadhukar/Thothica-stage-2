@@ -1,0 +1,234 @@
+[
+  {
+    "title": "Nouvelle rhétorique et formation du citoyen : perspectives sur l’enseignement du discours à partir d’une université d’été",
+    "authors": [
+      "Lucie Donckier de Donceel,",
+      "Benjamin Sevestre-Giraud"
+    ],
+    "doi": "https://doi.org/10.4000/aad.7126",
+    "journalVolume": "Vol. 30",
+    "issn": "1565-8961 (Online)",
+    "publisher": "University of Tel-Aviv",
+    "countryOfPublisher": "Israel",
+    "lcc": [
+      "Language and Literature: Philology. Linguistics: Language. Linguistic theory. Comparative grammar: Style. Composition. Rhetoric"
+    ],
+    "journalUrl": "http://aad.revues.org",
+    "abstract": "Even though it is now clearly established that the rhetorical education model provides a relevant framework to question the methods and contents of a democratic citizenship education, this model still encounters difficulties in Europe for recognition as a valid pedagogical approach for working on critical thinking and citizenship skills. Based on the experience of a summer school entitled “European Citizenship and Rhetorical argumentation: the case of climate change”, we will try to answer the criticisms addressed to rhetoric and show how it can be used to develop citizenship skills nowadays.",
+    "readLink": "http://journals.openedition.org/aad/7126"
+  },
+  {
+    "title": "Safety and Risk Analysis of Autonomous Vehicles Using Computer Vision and Neural Networks",
+    "authors": [
+      "Aditya Dixit,",
+      "Ramesh Kumar Chidambaram,",
+      "Zaheer Allam"
+    ],
+    "doi": "https://doi.org/10.3390/vehicles3030036",
+    "journalVolume": "Vol. 3,\n                                no. 36\n                                \n                                  pp.\n                                  595\n                                  – 617",
+    "issn": "2624-8921 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Machine design and drawing",
+      "Technology: Motor vehicles. Aeronautics. Astronautics"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/vehicles",
+    "abstract": "The autonomous vehicle (AVs) market is expanding at a rapid pace due to the advancement of information, communication, and sensor technology applications, offering a broad range of opportunities in terms of energy efficiency and addressing climate change concerns and safety. With regard to this last point, the rate of reduction in accidents is considerable when switching safety control tasks to machines from humans, which can be noted as having significantly slower response rates. This paper explores this thematic by focusing on the safety of AVs by thorough analysis of previously collected AV crash statistics and further discusses possible solutions for achieving increased autonomous vehicle safety. To achieve this, this technical paper develops a dynamic run-time safe assessment system, using the standard autonomous drive system (ADS), which is developed and simulated in case studies further in the paper. OpenCV methods for lane detection are developed and applied as robust control frameworks, which introduces the factor of vehicle crash predictability for the ego vehicle. The developed system is made to predict possible crashes by using a combination of machine learning and neural network methods, providing useful information for response mechanisms in risk scenarios. In addition, this paper explores the operational design domain (ODD) of the AV’s system and provides possible solutions to extend the domain in order to render vehicle operationality, even in safe mode. Additionally, three case studies are explored to supplement a discussion on the implementation of algorithms aimed at increasing curved lane detection ability and introducing trajectory predictability of neighbouring vehicles for an ego vehicle, resulting in lower collisions and increasing the safety of the AV overall. This paper thus explores the technical development of autonomous vehicles and is aimed at researchers and practitioners engaging in the conceptualisation, design, and implementation of safer AV systems focusing on lane detection and expanding AV safe state domains and vehicle trajectory predictability.",
+    "readLink": "https://www.mdpi.com/2624-8921/3/3/36"
+  },
+  {
+    "title": "A Smart and Sustainable Future for Viticulture Is Rooted in Soil: How to Face Cu Toxicity",
+    "authors": [
+      "Stefano Cesco,",
+      "Youry Pii,",
+      "Luigimaria Borruso,",
+      "Guido Orzes,",
+      "Paolo Lugli,",
+      "Fabrizio Mazzetto,",
+      "Giulio Genova,",
+      "Marco Signorini,",
+      "Gustavo Brunetto,",
+      "Roberto Terzano,",
+      "Gianpiero Vigani,",
+      "Tanja Mimmo"
+    ],
+    "doi": "https://doi.org/10.3390/app11030907",
+    "journalVolume": "Vol. 11,\n                                no. 907\n                                \n                                  p.\n                                  907",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "In recent decades, agriculture has faced the fundamental challenge of needing to increase food production and quality in order to meet the requirements of a growing global population. Similarly, viticulture has also been undergoing change. Several countries are reducing their vineyard areas, and several others are increasing them. In addition, viticulture is moving towards higher altitudes and latitudes due to climate change. Furthermore, global warming is also exacerbating the incidence of fungal diseases in vineyards, forcing farmers to apply agrochemicals to preserve production yields and quality. The repeated application of copper (Cu)-based fungicides in conventional and organic farming has caused a stepwise accumulation of Cu in vineyard soils, posing environmental and toxicological threats. High Cu concentrations in soils can have multiple impacts on agricultural systems. In fact, it can (i) alter the chemical-physical properties of soils, thus compromising their fertility; (ii) induce toxicity phenomena in plants, producing detrimental effects on growth and productivity; and (iii) affect the microbial biodiversity of soils, thereby influencing some microbial-driven soil processes. However, several indirect (e.g., management of rhizosphere processes through intercropping and/or fertilization strategies) and direct (e.g., exploitation of vine resistant genotypes) strategies have been proposed to restrain Cu accumulation in soils. Furthermore, the application of precision and smart viticulture paradigms and their related technologies could allow a timely, localized and balanced distribution of agrochemicals to achieve the required goals. The present review highlights the necessity of applying multidisciplinary approaches to meet the requisites of sustainability demanded of modern viticulture.",
+    "readLink": "https://www.mdpi.com/2076-3417/11/3/907"
+  },
+  {
+    "title": "Effects of occupational heat exposure on female brick workers in West Bengal, India",
+    "authors": [
+      "Moumita Sett,",
+      "Subhashis Sahu"
+    ],
+    "doi": "https://doi.org/10.3402/gha.v7.21923",
+    "journalVolume": "Vol. 7,\n                                no. 0\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "1654-9880 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/zgha",
+    "abstract": "Background : Manual brick-manufacturing units in India engage a large number of female workers on a daily-wage basis for a period of 8 months per year. There are two groups of female workers in the brickfields: the brick molders and the brick carriers. These brickfields are mostly unorganized, and the workers are exposed to extreme conditions such as very high seasonal heat. The present trend of increasing temperatures, as a result of global warming and climate change, will put an additional burden on them. Objective : This study aims to evaluate the effect of workplace heat exposure on the well-being, physiological load, and productivity of female brickfield workers in India. Design : A questionnaire study (n=120), environmental temperature, and weekly work productivity analyses were evaluated for 8 months in the brickfields. Cardiac strain and walking speed (subset, n=40) were also studied and compared in hotter and colder days amongst the female brickfield workers. Results : The subjects experience summer for about 5 months with additional heat stress radiating from the brick kiln. The weekly productivity data show a linear decline in productivity with increased maximum air temperature above 34.9°C. The cardiac parameters (peak heart rate (HRp), net cardiac cost (NCC), relative cardiac cost (RCC), and recovery heart rates) were significantly higher on hotter days (Wet Bulb Globe Temperature (WBGTout) index: 26.9°C to 30.74°C) than on cooler days (WBGTout index: 16.12°C to 19.37°C) for the brick molders; however, this is not the case for the brick carriers. As the brick carriers adapt to hotter days by decreasing their walking speed, their productivity decreases. Conclusion : We conclude that high heat exposure in brickfields during summer caused physiological strain in both categories of female brickfield workers. A coping strategy employed by the brick carriers was to reduce their walking speed and thus lose part of their earnings. The lost productivity for every degree rise in temperature is about 2% in the brickfields. This reduction will be exacerbated by climate change and may undermine the quality of life of female brickfield workers.",
+    "readLink": "http://www.globalhealthaction.net/index.php/gha/article/download/21923/pdf_1"
+  },
+  {
+    "title": "Global Modeling of Seasonal Mortality Rates From River Floods",
+    "authors": [
+      "Lorenzo Alfieri,",
+      "Francesco Dottori,",
+      "Peter Salamon,",
+      "Huan Wu,",
+      "Luc Feyen"
+    ],
+    "doi": "https://doi.org/10.1029/2020EF001541",
+    "journalVolume": "Vol. 8,\n                                no. 9\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract In spite of their recurrent seasonal patterns, every year river floods affect millions of people and kill thousands. Knowing the average timing and magnitude of floods can help to better prepare for disasters by improving the humanitarian assistance and the management of resources, to ultimately reduce the overall flood impacts. This work presents a physically based modeling framework to estimate population exposed and mortality rates from river floods in all the world countries, as well as their temporal distribution within the average year. The methodology is based on a modeling cascade involving hydrologic‐hydraulic simulations at spatial resolution up to 1 km. Inundation areas are combined with population density to estimate human exposure and then aggregated at the country level. Mortality rates per region and income class are inferred from two global disaster data sets and linked through flood exposure to estimate country average annual figures. Estimates of flood impacts are then disaggregated according to the seasonal variability of floods, derived statistically from a global hydrological reanalysis for the years 1980–2018. Global human exposure from river floods is here estimated at 54 million people per year. Summer floods in Asia are the main cause of mortality from river floods, accounting for 63% of the 6,120 casualties per year globally. In contrast, the 6 months between November and April contribute to only 13% of global mortality, mostly due to floods in South America and Africa.",
+    "readLink": "https://doi.org/10.1029/2020EF001541"
+  },
+  {
+    "title": "Atmospheric plastics- a potential airborne fomite with an emerging climate signature",
+    "authors": [
+      "Renjith VishnuRadhan,",
+      "Divya David Thresyamma,",
+      "T I Eldho,",
+      "Jacky Bhagat"
+    ],
+    "doi": "Vol. 3\n                                \n                                \n                                  p.\n                                  100037",
+    "issn": "2667-2782 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Medicine: Public aspects of medicine",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/the-journal-of-climate-change-and-health/",
+    "abstract": "Plastic particles have become ubiquitous in various environmental compartments, with the atmosphere being the least explored of these. Furthermore, the way atmospheric plastics affect terrestrial biological systems has not been evaluated to the same extent as for aquatic ecosystems. Plastics are even found in human lungs, and hence their adverse effects on the respiratory system are one of the many purported human health impacts. In this review, we discuss the ability of suspended atmospheric plastics to act as a potential fomite for microbes in addition to their emerging influence on climatic activity. Atmospheric plastics can interact with solar radiation, produce greenhouse gases, and influence the carbon cycle, thereby becoming a prominent factor affecting climate change processes. Microbe-laden bioaerosols can adhere to plastic particles enabling long-distance travel and directly making way to the airway and lungs. The efficiency of these pathways in spreading microbial or viral infections can be examined once sufficient data regarding the spatial dynamics of any airborne pathogen transmission is available. Astute investigations on atmospheric plastics and their complex interactions in the earth system are needed.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2667278221000341"
+  },
+  {
+    "title": "The onset of the Little Ice Age in Andalusia (southern Spain): detection and characterization from documentary sources",
+    "authors": [
+      "F. S. Rodrigo,",
+      "M. J. Esteban-Parra,",
+      "Y. Castro-Diez"
+    ],
+    "doi": "Vol. 13,\n                                no. 3\n                                \n                                  pp.\n                                  330\n                                  – 338",
+    "issn": "0992-7689 (Print)",
+    "publisher": "1432-0576 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.annales-geophysicae.net",
+    "abstract": "In this work the onset of the \"Little Ice Age\" period in Andalusia (southern Spain) is analysed from documentary data, focusing attention on the evolution of the climate during the 16th and 17th centuries. It is shown that changes in the rainfall regime have been more important than those in the temperature in studying the Andalusian climate change. Analysis of the total annual precipitation is carried out by codifying the documentary data and establishing an ordinal index. Several statistical methods are used to detect and characterize climate changes in the region. The results suggest a fluctuating evolution, without trends or abrupt changes, with a prevailing wet period from 1550 to 1650 AD. Cycles of ~17, 3.5 and 2.1 years are detected. Some possible causal mechanisms are suggested.",
+    "readLink": "http://www.ann-geophys.net/13/330/1995/angeo-13-330-1995.html"
+  },
+  {
+    "title": "Retrospective analysis of a nonforecasted rain-on-snow flood in the Alps – a matter of model limitations or unpredictable nature?",
+    "authors": [
+      "O. Rössler,",
+      "P. Froidevaux,",
+      "U. Börst,",
+      "R. Rickli,",
+      "O. Martius,",
+      "R. Weingartner"
+    ],
+    "doi": "https://doi.org/10.5194/hess-18-2265-2014",
+    "journalVolume": "Vol. 18,\n                                no. 6\n                                \n                                  pp.\n                                  2265\n                                  – 2285",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "A rain-on-snow flood occurred in the Bernese Alps, Switzerland, on 10 October 2011, and caused significant damage. As the flood peak was unpredicted by the flood forecast system, questions were raised concerning the causes and the predictability of the event. Here, we aimed to reconstruct the anatomy of this rain-on-snow flood in the Lötschen Valley (160 km2) by analyzing meteorological data from the synoptic to the local scale and by reproducing the flood peak with the hydrological model WaSiM-ETH (Water Flow and Balance Simulation Model). This in order to gain process understanding and to evaluate the predictability. The atmospheric drivers of this rain-on-snow flood were (i) sustained snowfall followed by (ii) the passage of an atmospheric river bringing warm and moist air towards the Alps. As a result, intensive rainfall (average of 100 mm day-1) was accompanied by a temperature increase that shifted the 0° line from 1500 to 3200 m a.s.l. (meters above sea level) in 24 h with a maximum increase of 9 K in 9 h. The south-facing slope of the valley received significantly more precipitation than the north-facing slope, leading to flooding only in tributaries along the south-facing slope. We hypothesized that the reason for this very local rainfall distribution was a cavity circulation combined with a seeder-feeder-cloud system enhancing local rainfall and snowmelt along the south-facing slope. By applying and considerably recalibrating the standard hydrological model setup, we proved that both latent and sensible heat fluxes were needed to reconstruct the snow cover dynamic, and that locally high-precipitation sums (160 mm in 12 h) were required to produce the estimated flood peak. However, to reproduce the rapid runoff responses during the event, we conceptually represent likely lateral flow dynamics within the snow cover causing the model to react \"oversensitively\" to meltwater. Driving the optimized model with COSMO (Consortium for Small-scale Modeling)-2 forecast data, we still failed to simulate the flood because COSMO-2 forecast data underestimated both the local precipitation peak and the temperature increase. Thus we conclude that this rain-on-snow flood was, in general, predictable, but requires a special hydrological model setup and extensive and locally precise meteorological input data. Although, this data quality may not be achieved with forecast data, an additional model with a specific rain-on-snow configuration can provide useful information when rain-on-snow events are likely to occur.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/18/2265/2014/hess-18-2265-2014.pdf"
+  },
+  {
+    "title": "Topography Affects Tree Species Distribution and Biomass Variation in a Warm Temperate, Secondary Forest",
+    "authors": [
+      "Shunzhong Wang,",
+      "Guang Qi,",
+      "Benjamin  O. Knapp"
+    ],
+    "doi": "https://doi.org/10.3390/f10100895",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  p.\n                                  895",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "A thorough understanding of carbon storage patterns in forest ecosystems is crucial for forest management to slow the rate of climate change. Here, we explored fine-scale biomass spatial patterns in a secondary warm temperate deciduous broad-leaved forest in north China. A 20-ha plot was established and classified by topographic features into ridge, valley, gentle slope, and steep slope habitats. Total tree biomass varied from 103.8 Mg/ha on the gentle slope habitats to 117.4 Mg/ha on the ridge habitats, with an average biomass of 109.6 Mg/ha across the entire plot. A few species produced the majority of the biomass, with five species contributing 78.4% of the total tree biomass. These five species included Quercus mongolica Fisch. ex Ledeb (41.7 Mg/ha, 38.1%), Betula dahurica Pall. (19.8 Mg/ha, 18.0%), Acer mono Maxim. (12.6 Mg/ha, 11.5%), Betula platyphylla Suk. (7.0 Mg/ha, 6.4%), and Populus davidiana Dode. (4.8 Mg/ha, 4.4%). The five species were also associated with certain habitats; for example, Q. mongolica was positively associated with the ridge habitat and A. mono was positively associated with the valley habitat. Results from this work document the variability in forest biomass across a warm temperate forest ecosystem of north China, with implications for managing and accounting forest carbon.",
+    "readLink": "https://www.mdpi.com/1999-4907/10/10/895"
+  },
+  {
+    "title": "Genomics and transcriptomics yields a system-level view of the biology of the pathogen Naegleria fowleri",
+    "authors": [
+      "Emily K. Herman,",
+      "Alex Greninger,",
+      "Mark van der Giezen,",
+      "Michael L. Ginger,",
+      "Inmaculada Ramirez-Macias,",
+      "Haylea C. Miller,",
+      "Matthew J. Morgan,",
+      "Anastasios D. Tsaousis,",
+      "Katrina Velle,",
+      "Romana Vargová,",
+      "Kristína Záhonová,",
+      "Sebastian Rodrigo Najle,",
+      "Georgina MacIntyre,",
+      "Norbert Muller,",
+      "Mattias Wittwer,",
+      "Denise C. Zysset-Burri,",
+      "Marek Eliáš,",
+      "Claudio H. Slamovits,",
+      "Matthew T. Weirauch,",
+      "Lillian Fritz-Laylin,",
+      "Francine Marciano-Cabral,",
+      "Geoffrey J. Puzon,",
+      "Tom Walsh,",
+      "Charles Chiu,",
+      "Joel B. Dacks"
+    ],
+    "doi": "https://doi.org/10.1186/s12915-021-01078-1",
+    "journalVolume": "Vol. 19,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 18",
+    "issn": "1741-7007 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.biomedcentral.com/bmcbiol/",
+    "abstract": "Abstract Background The opportunistic pathogen Naegleria fowleri establishes infection in the human brain, killing almost invariably within 2 weeks. The amoeba performs piece-meal ingestion, or trogocytosis, of brain material causing direct tissue damage and massive inflammation. The cellular basis distinguishing N. fowleri from other Naegleria species, which are all non-pathogenic, is not known. Yet, with the geographic range of N. fowleri advancing, potentially due to climate change, understanding how this pathogen invades and kills is both important and timely. Results Here, we report an -omics approach to understanding N. fowleri biology and infection at the system level. We sequenced two new strains of N. fowleri and performed a transcriptomic analysis of low- versus high-pathogenicity N. fowleri cultured in a mouse infection model. Comparative analysis provides an in-depth assessment of encoded protein complement between strains, finding high conservation. Molecular evolutionary analyses of multiple diverse cellular systems demonstrate that the N. fowleri genome encodes a similarly complete cellular repertoire to that found in free-living N. gruberi. From transcriptomics, neither stress responses nor traits conferred from lateral gene transfer are suggested as critical for pathogenicity. By contrast, cellular systems such as proteases, lysosomal machinery, and motility, together with metabolic reprogramming and novel N. fowleri proteins, are all implicated in facilitating pathogenicity within the host. Upregulation in mouse-passaged N. fowleri of genes associated with glutamate metabolism and ammonia transport suggests adaptation to available carbon sources in the central nervous system. Conclusions In-depth analysis of Naegleria genomes and transcriptomes provides a model of cellular systems involved in opportunistic pathogenicity, uncovering new angles to understanding the biology of a rare but highly fatal pathogen.",
+    "readLink": "https://doi.org/10.1186/s12915-021-01078-1"
+  }
+]

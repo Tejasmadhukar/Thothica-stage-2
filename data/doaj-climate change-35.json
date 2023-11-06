@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Comparing Methods for the Regionalization of Intensity−Duration−Frequency (IDF) Curve Parameters in Sparsely-Gauged and Ungauged Areas of Central Chile",
+    "authors": [
+      "Claudia Sangüesa,",
+      "Roberto Pizarro,",
+      "Ben Ingram,",
+      "Alfredo Ibáñez,",
+      "Diego Rivera,",
+      "Pablo García-Chevesich,",
+      "Juan Pino,",
+      "Felipe Pérez,",
+      "Francisco Balocchi,",
+      "Francisco Peña"
+    ],
+    "doi": "https://doi.org/10.3390/hydrology10090179",
+    "journalVolume": "Vol. 10,\n                                no. 179\n                                \n                                  p.\n                                  179",
+    "issn": "2306-5338 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/hydrology",
+    "abstract": "Estimating intensity−duration−frequency (IDF) curves requires local historical information of precipitation intensity. When such information is unavailable, as in areas without rain gauges, it is necessary to consider other methods to estimate curve parameters. In this study, three methods were explored to estimate IDF curves in ungauged areas: Kriging (KG), Inverse Distance Weighting (IDW), and Storm Index (SI). To test the viability of these methods, historical data collected from 31 rain gauges distributed in central Chile, 35° S to 38° S, are used. As a result of the reduced number of rain gauges to evaluate the performance of each method, we used LOOCV (Leaving One Out Cross Validation). The results indicate that KG was limited due to the sparse distribution of rain gauges in central Chile. SI (a linear scaling method) showed the smallest prediction error in all of the ungauged locations, and outperformed both KG and IDW. However, the SI method does not provide estimates of uncertainty, as is possible with KG. The simplicity of SI renders it a viable method for extrapolating IDF curves to locations without data in the central zone of Chile.",
+    "readLink": "https://www.mdpi.com/2306-5338/10/9/179"
+  },
+  {
+    "title": "Does it matter if people think climate change is human caused?",
+    "authors": [
+      "Joel Hartter,",
+      "Lawrence C. Hamilton,",
+      "Angela E. Boag,",
+      "Forrest R. Stevens,",
+      "Mark J. Ducey,",
+      "Nils D. Christoffersen,",
+      "Paul T. Oester,",
+      "Michael W. Palace"
+    ],
+    "doi": "Vol. 10\n                                \n                                \n                                  pp.\n                                  53\n                                  – 62",
+    "issn": "2405-8807 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-services/",
+    "abstract": "There is a growing consensus that climate is changing, but beliefs about the causal factors vary widely among the general public. Current research shows that such causal beliefs are strongly influenced by cultural, political, and identity-driven views. We examined the influence that local perceptions have on the acceptance of basic facts about climate change. We also examined the connection to wildfire by local people. Two recent telephone surveys found that 37% (in 2011) and 46% (in 2014) of eastern Oregon (USA) respondents accept the scientific consensus that human activities are now changing the climate. Although most do not agree with that consensus, large majorities (85–86%) do agree that climate is changing, whether by natural or human causes. Acceptance of anthropogenic climate change generally divides along political party lines, but acceptance of climate change more generally, and concerns about wildfire, transcend political divisions. Support for active forest management to reduce wildfire risks is strong in this region, and restoration treatments could be critical to the resilience of both communities and ecosystems. Although these immediate steps involve adaptations to a changing climate, they can be motivated without necessarily invoking human-caused climate change, a divisive concept among local landowners. Keywords: Climate change, Inland West, Public perception, Telephone survey, Wildfire, Working landscapes",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405880717300092"
+  },
+  {
+    "title": "Nitrogen deposition: how important is it for global terrestrial carbon uptake?",
+    "authors": [
+      "G. Bala,",
+      "N. Devaraju,",
+      "R. K. Chaturvedi,",
+      "K. Caldeira,",
+      "R. Nemani"
+    ],
+    "doi": "https://doi.org/10.5194/bg-10-7147-2013",
+    "journalVolume": "Vol. 10,\n                                no. 11\n                                \n                                  pp.\n                                  7147\n                                  – 7160",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "Global carbon budget studies indicate that the terrestrial ecosystems have remained a large sink for carbon despite widespread deforestation activities. CO2 fertilization, N deposition and re-growth of mid-latitude forests are believed to be key drivers for land carbon uptake. In this study, we assess the importance of N deposition by performing idealized near-equilibrium simulations using the Community Land Model 4.0 (CLM4). In our equilibrium simulations, only 12–17% of the deposited nitrogen is assimilated into the ecosystem and the corresponding carbon uptake can be inferred from a C : N ratio of 20 : 1. We calculate the sensitivity of the terrestrial biosphere for CO2 fertilization, climate warming and N deposition as changes in total ecosystem carbon for unit changes in global mean atmospheric CO2 concentration, global mean temperature and Tera grams of nitrogen deposition per year, respectively. Based on these sensitivities, it is estimated that about 242 PgC could have been taken up by land due to the CO2 fertilization effect and an additional 175 PgC taken up as a result of the increased N deposition since the pre-industrial period. Because of climate warming, the terrestrial ecosystem could have lost about 152 PgC during the same period. Therefore, since pre-industrial times terrestrial carbon losses due to warming may have been more or less compensated by effects of increased N deposition, whereas the effect of CO2 fertilization is approximately indicative of the current increase in terrestrial carbon stock. Our simulations also suggest that the sensitivity of carbon storage to increased N deposition decreases beyond current levels, indicating that climate warming effects on carbon storage may overwhelm N deposition effects in the future.",
+    "readLink": "http://www.biogeosciences.net/10/7147/2013/bg-10-7147-2013.pdf"
+  },
+  {
+    "title": "Understanding the Climate–Water–Energy–Food Nexus and the Transition Towards a Circular Economy: The Case of Morocco",
+    "authors": [
+      "El Ouadi Ihssan"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202336401006",
+    "journalVolume": "Vol. 364\n                                \n                                \n                                  p.\n                                  01006",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The world is currently marked by increasing pressure on natural resources and a big demand for energy, water, and food. Energy, Water, and food are strongly interlinked, and the choices made in one area often have consequences on the others. These interconnections intensify and will be more complex as the demand for resources increases with climate change, population growth, changing consumption patterns, and a linear economy model of ‘take-make-dispose’. however, a circular economy (CE) ensures that economic growth must not necessarily lead to more resource consumption. This paper aims to discuss the circular economy transition with a focus on understanding the interdependencies and complexities of system Climate-Water, Energy, and food security in Morocco. This work first outlines the problem of water resources management in Morocco and determined the areas of intersection between the food-energy-water sectors. It also attempts to explain why water circularity is part of the key factors to accelerate the transition from a linear economy to a circular economy to meet the Sustainable Development Goals, and how circularity can be implemented in the water sector. Finally, it studies two circular alternative solutions (water-saving - drip irrigation, and renewable energy) that Morocco uses to face climate change-induced water scarcity.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/01/e3sconf_joe32023_01006.pdf"
+  },
+  {
+    "title": "Topography modulates near-ground microclimate in the Mediterranean Fagus sylvatica treeline",
+    "authors": [
+      "Angelo Rita,",
+      "Giuliano Bonanomi,",
+      "Emilia Allevato,",
+      "Marco Borghetti,",
+      "Gaspare Cesarano,",
+      "Valentina Mogavero,",
+      "Sergio Rossi,",
+      "Luigi Saulino,",
+      "Maurizio Zotti,",
+      "Antonio Saracino"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-87661-6",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Understanding processes controlling forest dynamics has become particularly important in the context of ongoing climate change, which is altering the ecological fitness and resilience of species worldwide. However, whether forest communities would be threatened by projected macroclimate change or unaffected due to the controlling effect of local site conditions is still a matter for debate. After all, forest canopy buffer climate extremes and promote microclimatic conditions, which matters for functional plant response, and act as refugia for understory species in a changing climate. Yet precisely how microclimatic conditions change in response to climate warming will depend on the extent to which vegetation structure and local topography shape air and soil temperature. In this study, we posited that forest microclimatic buffering is sensitive to local topographic conditions and canopy cover, and using meteorological stations equipped with data-loggers we measured this effect during 1 year across a climate gradient (considering aspect as a surrogate of local topography) in a Mediterranean beech treeline growing in contrasting aspects in southern Italy. During the growing season, the below-canopy near-ground temperatures were, on average, 2.4 and 1.0 °C cooler than open-field temperatures for south and north-west aspects, respectively. Overall, the temperature offset became more negative (that is, lower under-canopy temperatures at the treeline) as the open-field temperature increased, and more positive (that is, higher under-canopy temperatures at the treeline) as the open-field temperature decreased. The buffering effect was particularly evident for the treeline on the south-facing slope, where cooling of near-ground temperature was as high as 8.6 °C for the maximum temperature (in August the offset peaked at 10 °C) and as high as 2.5 °C for the average temperature. In addition, compared to the south-facing slope, the northern site exhibited less decoupling from free-air environment conditions and low variability in microclimate trends that closely track the free-air biophysical environment. Although such a decoupling effect cannot wholly isolate forest climatic conditions from macroclimate regional variability in the south-facing treeline, it has the potential to partly offset the regional macroclimatic warming experienced in the forest understory due to anthropogenic climate change.",
+    "readLink": "https://doi.org/10.1038/s41598-021-87661-6"
+  },
+  {
+    "title": "New insights into the genetic structure of the outbreak-prone bamboo grasshoppers",
+    "authors": [
+      "Zimeng Song,",
+      "Sangzi Ze,",
+      "Chunxiang Liu,",
+      "Bing Chen"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2023.1062857",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "IntroductionThe genetic structure of species is shaped by natural (e.g., terrain, climate) and non-natural (e.g., human activities) factors. Geographical isolation and natural barriers are important causes of genetic structure formation of species. Here, we explored this issue in bamboo grasshopper, Ceracris kiangsu, which is an important pest that feeds on bamboo in East and Southeastern Asia.MethodsBased on 186 newly sequenced and 286 previously sequenced mitochondrial COI fragments, and 8 nuclear microsatellite loci, we examined the genetic diversity and population genetic structure of C. kiangsu.ResultsThe degree of genetic differentiation among populations was also high, and Mantel test showed that it was significantly correlated with geographical distance. Principal coordinate analysis and STRUCTURE results revealed two genetically different groups, a South China (S-China) Group and a Southeast Asia (SE-Asia) Group. Climate variables partly explained the population genetic structure. The demographic history and ABC showed that the S-China Group experienced population expansion, whereas the SE-Asia Group was consistently stable.DiscussionOur study demonstrates an obvious population structure maintained in this migratory insect and reveals the potential effect of past climatic change, geographical isolation, and ecological factors on the evolution of their genetic structure.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2023.1062857/full"
+  },
+  {
+    "title": "Phenotypic plasticity of natural Populus trichocarpa populations in response to temporally environmental change in a common garden",
+    "authors": [
+      "Yang Liu,",
+      "Yousry A. El-Kassaby"
+    ],
+    "doi": "https://doi.org/10.1186/s12862-019-1553-6",
+    "journalVolume": "Vol. 19,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 15",
+    "issn": "1471-2148 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Evolution"
+    ],
+    "journalUrl": "https://www.biomedcentral.com/bmcevolbiol/",
+    "abstract": "Abstract Background Natural selection on fitness-related traits can be temporally heterogeneous among populations. As climate changes, understanding population-level responses is of scientific and practical importance. We examined 18 phenotypic traits associated with phenology, biomass, and ecophysiology in 403 individuals of natural Populus trichocarpa populations, growing in a common garden. Results Compared with tree origin settings, propagules likely underwent drought exposures in the common garden due to significantly low rainfall during the years of measurement. All study traits showed population differentiation reflecting adaptive responses due to local genetic adaptation. Phenology and biomass traits were strongly under selection and showed plastic responses between years, co-varying with latitude. While phenological events (e.g., bud set and growth period) and biomass were under positive directional selection, post-bud set period, particularly from final bud set to the onset of leaf drop, was selected against. With one exception to water-use efficiency, ecophysiology traits were under negative directional selection. Moreover, extended phenological events jointly evolved with source niches under increased temperature and decreased rainfall exposures. High biomass coevolved with climatic niches of high temperature; low rainfall promoted high photosynthetic rates evolution. Conclusions This work underpins that P. trichocarpa is likely to experience increased fitness (height gain) by evolving toward extended bud set and growth period, abbreviated post-bud set period, and increased drought resistance, potentially constituting a powerful mechanism for long-lived tree species in surviving unpredictably environmental extremes (e.g., drought).",
+    "readLink": "https://doi.org/10.1186/s12862-019-1553-6"
+  },
+  {
+    "title": "Brief communication: Understanding solar geoengineering's potential to limit sea level rise requires attention from cryosphere experts",
+    "authors": [
+      "P. J. Irvine,",
+      "D. W. Keith,",
+      "J. Moore,",
+      "J. Moore"
+    ],
+    "doi": "https://doi.org/10.5194/tc-12-2501-2018",
+    "journalVolume": "Vol. 12\n                                \n                                \n                                  pp.\n                                  2501\n                                  – 2513",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Stratospheric aerosol geoengineering, a form of solar geoengineering, is a proposal to add a reflective layer of aerosol to the stratosphere to reduce net radiative forcing and so to reduce the risks of climate change. The efficacy of solar geoengineering at reducing changes to the cryosphere is uncertain; solar geoengineering could reduce temperatures and so slow melt, but its ability to reverse ice sheet collapse once initiated may be limited. Here we review the literature on solar geoengineering and the cryosphere and identify the key uncertainties that research could address. Solar geoengineering may be more effective at reducing surface melt than a reduction in greenhouse forcing that produces the same global-average temperature response. Studies of natural analogues and model simulations support this conclusion. However, changes below the surfaces of the ocean and ice sheets may strongly limit the potential of solar geoengineering to reduce the retreat of marine glaciers. High-quality process model studies may illuminate these issues. Solar geoengineering is a contentious emerging issue in climate policy and it is critical that the potential, limits, and risks of these proposals are made clear for policy makers.",
+    "readLink": "https://www.the-cryosphere.net/12/2501/2018/tc-12-2501-2018.pdf"
+  },
+  {
+    "title": "Responses to Climate Variability in Urban Poor Communities in Pietermaritzburg, KwaZulu-Natal, South Africa",
+    "authors": [
+      "Sithabile Hlahla,",
+      "Trevor R. Hill"
+    ],
+    "doi": "https://doi.org/10.1177/2158244018800914",
+    "journalVolume": "Vol. 8",
+    "issn": "2158-2440 (Online)",
+    "publisher": "SAGE Publishing",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "General Works: History of scholarship and learning. The humanities",
+      "Social Sciences"
+    ],
+    "journalUrl": "http://journals.sagepub.com/home/sgoa",
+    "abstract": "South Africa’s rising urbanization has exacerbated the levels of urban poverty and inequality. The urban poor are increasingly vulnerable to the impacts of climate variability and have weak household risk response capacities. The study, through the use of a questionnaire survey, investigated how climate stressors such as the change of seasons, drought, heat waves, cold spells, hailstorms, floods, disease outbreaks, and veld fires are affecting four socioeconomically marginalized urban communities in Pietermaritzburg, KwaZulu-Natal. The respondents identified eight stressors that affect lifestyles and livelihoods; however, the majority do not have the means to cope adequately. Moreover, the coping strategies that were adopted were stop-gap reactive-type measures and provide limited capacity to build resilience and response capacity. With the projections that climate stressors will increase in frequency and duration in the region, the local government must increase investment in urban pro-poor climate change projects, which have been successful in some rural and urban areas, and educate the communities on climate-related risks so as to increase their knowledge and response capacities.",
+    "readLink": "https://doi.org/10.1177/2158244018800914"
+  },
+  {
+    "title": "Intrinsic climate dependency of ecosystem light and water-use-efficiencies across Australian biomes",
+    "authors": [
+      "Hao Shi,",
+      "Longhui Li,",
+      "Derek Eamus,",
+      "James Cleverly,",
+      "Alfredo Huete,",
+      "Jason Beringer,",
+      "Qiang Yu,",
+      "Eva van Gorsel,",
+      "Lindsay Hutley"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/9/10/104002",
+    "journalVolume": "Vol. 9,\n                                no. 10\n                                \n                                  p.\n                                  104002",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The sensitivity of ecosystem gross primary production (GPP) to availability of water and photosynthetically active radiation (PAR) differs among biomes. Here we investigated variations of ecosystem light-use-efficiency (eLUE: GPP/PAR) and water-use-efficiency (eWUE: GPP/evapotranspiration) among seven Australian eddy covariance sites with differing annual precipitation, species composition and temperature. Changes to both eLUE and eWUE were primarily correlated with atmospheric vapor pressure deficit (VPD) at multiple temporal scales across biomes, with minor additional correlations observed with soil moisture and temperature. The effects of leaf area index on eLUE and eWUE were also relatively weak compared to VPD, indicating an intrinsic dependency of eLUE and eWUE on climate. Additionally, eLUE and eWUE were statistically different for biomes between summer and winter, except eWUE for savannas and the grassland. These findings will improve our understanding of how light- and water-use traits in Australian ecosystems may respond to climate change.",
+    "readLink": "https://doi.org/10.1088/1748-9326/9/10/104002"
+  }
+]

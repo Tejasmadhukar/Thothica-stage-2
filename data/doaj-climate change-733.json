@@ -1,0 +1,221 @@
+[
+  {
+    "title": "Modification of Graphite Sheet Anode with Iron (II, III) Oxide-Carbon Dots for Enhancing the Performance of Microbial Fuel Cell",
+    "authors": [
+      "Babita Tripathi,",
+      "Soumya Pandit,",
+      "Aparna Sharma,",
+      "Sunil Chauhan,",
+      "Abhilasha Singh Mathuriya,",
+      "Pritam Kumar Dikshit,",
+      "Piyush Kumar Gupta,",
+      "Ram Chandra Singh,",
+      "Mohit Sahni,",
+      "Kumud Pant,",
+      "Satyendra Singh"
+    ],
+    "doi": "https://doi.org/10.3390/catal12091040",
+    "journalVolume": "Vol. 12,\n                                no. 1040\n                                \n                                  p.\n                                  1040",
+    "issn": "2073-4344 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/catalysts",
+    "abstract": "The present study explores the use of carbon dots coated with Iron (II, III) oxide (Fe3O4) for its application as an anode in microbial fuel cells (MFC). Fe3O4@PSA-C was synthesized using a hydrothermal-assisted probe sonication method. Nanoparticles were characterized with XRD, SEM, FTIR, and RAMAN Spectroscopy. Different concentrations of Fe3O4- carbon dots (0.25, 0.5, 0.75, and 1 mg/cm2) were coated onto the graphite sheets (Fe3O4@PSA-C), and their performance in MFC was evaluated. Cyclic voltammetry (CV) of Fe3O4@PSA-C (1 mg/cm2) modified anode indicated oxidation peaks at −0.26 mV and +0.16 mV, respectively, with peak currents of 7.7 mA and 8.1 mA. The fluxes of these anodes were much higher than those of other low-concentration Fe3O4@PSA-C modified anodes and the bare graphite sheet anode. The maximum power density (Pmax) was observed in MFC with a 1 mg/cm2 concentration of Fe3O4@PSA-C was 440.01 mW/m2, 1.54 times higher than MFCs using bare graphite sheet anode (285.01 mW/m2). The elevated interaction area of carbon dots permits pervasive Fe3O4 crystallization providing enhanced cell attachment capability of the anode, boosting the biocompatibility of Fe3O4@PSA-C. This significantly improved the performance of the MFC, making Fe3O4@PSA-C modified graphite sheets a good choice as an anode for its application in MFC.",
+    "readLink": "https://www.mdpi.com/2073-4344/12/9/1040"
+  },
+  {
+    "title": "Spatial Prediction of Current and Future Flood Susceptibility: Examining the Implications of Changing Climates on Flood Susceptibility Using Machine Learning Models",
+    "authors": [
+      "Navid Mahdizadeh Gharakhanlou,",
+      "Liliana Perez"
+    ],
+    "doi": "https://doi.org/10.3390/e24111630",
+    "journalVolume": "Vol. 24,\n                                no. 1630\n                                \n                                  p.\n                                  1630",
+    "issn": "1099-4300 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Astronomy: Astrophysics",
+      "Science: Physics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/entropy",
+    "abstract": "The main aim of this study was to predict current and future flood susceptibility under three climate change scenarios of RCP2.6 (i.e., optimistic), RCP4.5 (i.e., business as usual), and RCP8.5 (i.e., pessimistic) employing four machine learning models, including Gradient Boosting Machine (GBM), Random Forest (RF), Multilayer Perceptron Neural Network (MLP-NN), and Naïve Bayes (NB). The study was conducted for two watersheds in Canada, namely Lower Nicola River, BC and Loup, QC. Three statistical metrics were used to validate the models: Receiver Operating Characteristic Curve, Figure of Merit, and F1-score. Findings indicated that the RF model had the highest accuracy in providing the flood susceptibility maps (FSMs). Moreover, the provided FSMs indicated that flooding is more likely to occur in the Lower Nicola River watershed than the Loup watershed. Following the RCP4.5 scenario, the area percentages of the flood susceptibility classes in the Loup watershed in 2050 and 2080 have changed by the following percentages from the year 2020 and 2050, respectively: Very Low = −1.68%, Low = −5.82%, Moderate = +6.19%, High = +0.71%, and Very High = +0.6% and Very Low = −1.61%, Low = +2.98%, Moderate = −3.49%, High = +1.29%, and Very High = +0.83%. Likewise, in the Lower Nicola River watershed, the changes between the years 2020 and 2050 and between the years 2050 and 2080 were: Very Low = −0.38%, Low = −0.81%, Moderate = −0.95%, High = +1.72%, and Very High = +0.42% and Very Low = −1.31%, Low = −1.35%, Moderate = −1.81%, High = +2.37%, and Very High = +2.1%, respectively. The impact of climate changes on future flood-prone places revealed that the regions designated as highly and very highly susceptible to flooding, grow in the forecasts for both watersheds. The main contribution of this study lies in the novel insights it provides concerning the flood susceptibility of watersheds in British Columbia and Quebec over time and under various climate change scenarios.",
+    "readLink": "https://www.mdpi.com/1099-4300/24/11/1630"
+  },
+  {
+    "title": "The Strengths and Weaknesses of Pacific Islands Plastic Pollution Policy Frameworks",
+    "authors": [
+      "Trisia  A. Farrelly,",
+      "Stephanie  B. Borrelle,",
+      "Sascha Fuller"
+    ],
+    "doi": "https://doi.org/10.3390/su13031252",
+    "journalVolume": "Vol. 13,\n                                no. 1252\n                                \n                                  p.\n                                  1252",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The rate of plastic pollution entering the environment is accelerating with plastic production predicted to increase by 40% over the next decade. Plastic pollution transcends territorial boundaries on ocean and air currents. Large Ocean Small Island Developing States (LOSIDS) are on the frontline of the plastics crisis and associated climate change impacts. This desktop gap analysis identified potential strengths and weaknesses in national policy frameworks in 52 key documents relevant to plastic pollution in ten Pacific LOSIDS. The study found considerable gaps in the vertical and horizontal integration of plastic pollution-related policy, and a lack of access to current science-based evidence on plastic pollution including evidence related to human health impacts and microplastics. The study concludes that, even if Pacific LOSIDS were to include best practice management of plastic pollution across all policy frameworks, they could not prevent plastic pollution, and that a plastic pollution convention is needed.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/3/1252"
+  },
+  {
+    "title": "Wetland Classification Using Multi-Source and Multi-Temporal Optical Remote Sensing Data in Newfoundland and Labrador, Canada",
+    "authors": [
+      "Meisam Amani,",
+      "Bahram Salehi,",
+      "Sahel Mahdavi,",
+      "Jean Elizabeth Granger,",
+      "Brian Brisco,",
+      "Alan Hanson"
+    ],
+    "doi": "https://doi.org/10.1080/07038992.2017.1346468",
+    "journalVolume": "Vol. 43,\n                                no. 4\n                                \n                                  pp.\n                                  360\n                                  – 373",
+    "issn": "1712-7971 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/ujrs20",
+    "abstract": "Newfoundland and Labrador (NL) is the only province in Atlantic Canada that does not have a wetland inventory system. As a consequence, both classifying and monitoring wetland areas are necessary for wetland conservation and human services in the province. In this study, wetlands in 5 pilot sites, distributed across NL, were classified using multi-source and multi-temporal optical remote sensing images. The procedures involved the application of an object-based method to segment and classify the images. To classify the areas, 5 different machine learning algorithms were examined. The results showed that the Random Forest (RF) algorithm in combination with an object-based approach was the most accurate method to classify wetlands. The average producer and user accuracies of wetland classes considering all pilot sites were 68% and 73%, respectively. The overall classification accuracies, which considered the accuracy of all wetland and non-wetland classes varied from 86% to 96% across all pilot sites confirming the robustness of the methodology despite the biological, ecological, and geographical differences among the study areas. Additionally, we assessed the effects of the tuning parameters on the accuracy of results, as well as the difference between pixel-based and object-based methods for wetland classification in this study.",
+    "readLink": "http://dx.doi.org/10.1080/07038992.2017.1346468"
+  },
+  {
+    "title": "Prokaryote Distribution Patterns along a Dissolved Oxygen Gradient Section in the Tropical Pacific Ocean",
+    "authors": [
+      "Peiqing He,",
+      "Huan Wang,",
+      "Jie Shi,",
+      "Ming Xin,",
+      "Weimin Wang,",
+      "Linping Xie,",
+      "Qinsheng Wei,",
+      "Mu Huang,",
+      "Xuefa Shi,",
+      "Yaqin Fan,",
+      "Hao Chen"
+    ],
+    "doi": "https://doi.org/10.3390/microorganisms11092172",
+    "journalVolume": "Vol. 11,\n                                no. 2172\n                                \n                                  p.\n                                  2172",
+    "issn": "2076-2607 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/microorganisms",
+    "abstract": "Oceanic oxygen levels are decreasing significantly in response to global climate change; however, the microbial diversity and ecological functional responses to dissolved oxygen (DO) in the open ocean are largely unknown. Here, we present prokaryotic distribution coupled with physical and biogeochemical variables and DO gradients from the surface to near the bottom of a water column along an approximately 12,000-km transect from 13° N to 18° S in the Tropical Pacific Ocean. Nitrate (11.42%), temperature (10.90%), pH (10.91%), silicate (9.34%), phosphate (4.25%), chlorophyll a (3.66%), DO (3.50%), and salinity (3.48%) significantly explained the microbial community variations in the studied area. A distinct microbial community composition broadly corresponding to the water masses formed vertically. Additionally, distinct ecotypes of Thaumarchaeota and Nitrospinae belonging to diverse phylogenetic clades that coincided with specific vertical niches were observed. Moreover, the correlation analysis revealed large-scale natural feedback in which chlorophyll a (organic matter) promoted Thaumarchaeotal biomass at depths that subsequently coupled with Nitrospina, produced and replenished nitrate for phytoplankton productivity at the surface. Low DO also favored Thaumarchaeota growth and fueled nitrate production.",
+    "readLink": "https://www.mdpi.com/2076-2607/11/9/2172"
+  },
+  {
+    "title": "Conceptualizing alternatives to contemporary renewable energy development: Community Renewable Energy Ecologies (CREE)",
+    "authors": [
+      "Zoi Christina Siamanta"
+    ],
+    "doi": "https://doi.org/10.2458/jpe.2297",
+    "journalVolume": "Vol. 28,\n                                no. 1",
+    "issn": "1073-0451 (Online)",
+    "publisher": "University of Arizona Libraries",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Political science"
+    ],
+    "journalUrl": "https://journals.librarypublishing.arizona.edu/jpe/",
+    "abstract": "Privately-owned, state-owned and public-private renewable energy (RE) projects are increasingly criticized by social scientists. They can involve dispossessions, management and financial inequalities, and environmental problems. Research also indicates that Community Renewable Energy (CRE) projects are not without problems and dangers. In this article, I go beyond critique of renewable energy projects, without abandoning them, in the face of mounting climate and ecological crises. I employ a productive approach to rethink RE development, that combines the diverse and community economies perspective developed by J.K. Gibson-Graham with political ecology research on alternative economies. Building on this approach and RE and CRE literature, I develop the notion of Community Renewable Energy Ecologies (CREE). CREE signify community economies involved in small-scale RE prosumption (production and consumption), or medium-scale RE prosumption and sale of energy. They adopt non-and alternative capitalist relations of ownership, production,exchange and circulation. CREE are engaged in collective ethico-political decision-making, and an oikopolitics embodying care for and affective relations with humans and more-than-humans. Such decision-making and oikopolitics are directed towards more 'thriving' and egalitarian socio-ecological futures. I identify particular ethico-political orientations for CREE and provide specific considerations for their constitutive elements (e.g. ownership,finance, labor, infrastructure). CREE reflect one of multiple possibilities for alternative sustainabilities in a pluriversal world.",
+    "readLink": "http://journals.librarypublishing.arizona.edu/jpe/article/id/2297/"
+  },
+  {
+    "title": "Transportation Biofuels in Latvia: A Life Cycle Thinking Approach",
+    "authors": [
+      "Kirsanovs Vladimirs,",
+      "Romagnoli Francesco,",
+      "Piščika Anastasija,",
+      "Safronova Alina,",
+      "Feofilovs Maksims"
+    ],
+    "doi": "https://doi.org/10.2478/rtuect-2023-0004",
+    "journalVolume": "Vol. 27,\n                                no. 1\n                                \n                                  pp.\n                                  40\n                                  – 55",
+    "issn": "2255-8837 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources"
+    ],
+    "journalUrl": "https://sciendo.com/journal/RTUECT",
+    "abstract": "Transport consumes around one-third of Latvia’s final energy demand being the largest sector that produces greenhouse gas emissions. In Latvia, in the year 2019, the share of renewable energy sources in the transport sector was only 4.8 % of the total gross consumption with a target of 7 % of not food-based biofuels by 2030. To tackle climate change problems, one significant task is reducing pollution in the transport sector by substituting fossil with biomass-based fuels. The goal of this study is to develop a methodology for evaluating biofuel production in Latvia considering economic, social, environmental, and technological aspects. A total of 16 specific criteria were selected for biofuel comparison. The methodology is based on a combination of two quantitative approaches, namely Life Cycle Assessment and Multi-Criteria Analysis. The proposed method aims to identify the most sustainable biofuel in Latvia according to a set of specific indicators.",
+    "readLink": "https://doi.org/10.2478/rtuect-2023-0004"
+  },
+  {
+    "title": "Rediscovering South Africa: Flood disaster risk management through ecosystem-based adaptation",
+    "authors": [
+      "Emmanuel Tolulope Busayo,",
+      "Ahmed Mukalazi Kalumba,",
+      "Gbenga Abayomi Afuye,",
+      "Adeyemi Oludapo Olusola,",
+      "Olusola Oluwayemisi Ololade,",
+      "Israel Ropo Orimoloye"
+    ],
+    "doi": "Vol. 14\n                                \n                                \n                                  p.\n                                  100175",
+    "issn": "2665-9727 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environmental-and-sustainability-indicators",
+    "abstract": "The emergence of ecosystem-based adaptation (EbA) has created a shift from the conventional adaptation approaches often accompanied by high costs, including conflicting interests associated with the dense urban fabric and inflexibility. Therefore, EbA presents a potential for more comprehensive, cost-efficient, multifunctional and multidimensional measures in flood disaster risk management. Essentially, EbA integrates biodiversity and ecosystem services as an approach to climate change adaptation and disaster risk reduction. This study adopts descriptive and exploratory analytical approaches aimed at assessing the trends of flood events in South Africa and their potential risk management through EbA. The study reveals that between 1959 and 2019, several major floods have occurred, resulting in losses of life and livelihoods and significant infrastructure damages among others. Recovery has taken years and needed continuous investment. Unfortunately, many communities have not been able to “bounce back/bounce forward”, despite all these efforts. This study revealed that EbA strategies can be instituted regionally and nationally to offer efficient flood disaster adaptation or mitigation in flood-prone areas. In general, utilising EbA can stabilise or reduce flood impacts, minimise environmental impacts and damages associated with flood disasters by developing innovative EbA strategies. Therefore, the study recommends an increased awareness of EbA strategies to enhance universal adoption in ameliorating flood risk.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2665972722000071"
+  },
+  {
+    "title": "Long-term solar activity and its implications to the heliosphere, geomagnetic activity, and the Earth’s climate",
+    "authors": [
+      "Tanskanen Eija,",
+      "Nandy Dibyendu,",
+      "Manoharan Periasamy,",
+      "Mursula Kalevi,",
+      "Verronen Pekka"
+    ],
+    "doi": "https://doi.org/10.1051/swsc/2013043",
+    "journalVolume": "Vol. 3\n                                \n                                \n                                  p.\n                                  A21",
+    "issn": "2115-7251 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.swsc-journal.org/",
+    "abstract": "The Sun’s long-term magnetic variability is the primary driver of space climate. This variability is manifested not only in the long-observed and dramatic change of magnetic fields on the solar surface, but also in the changing solar radiative output across all wavelengths. The Sun’s magnetic variability also modulates the particulate and magnetic fluxes in the heliosphere, which determine the interplanetary conditions and impose significant electromagnetic forces and effects upon planetary atmospheres. All these effects due to the changing solar magnetic fields are also relevant for planetary climates, including the climate of the Earth. The ultimate cause of solar variability, at time scales much shorter than stellar evolutionary time scales, i.e., at decadal to centennial and, maybe, even millennial or longer scales, has its origin in the solar dynamo mechanism. Therefore, in order to better understand the origin of space climate, one must analyze different proxies of solar magnetic variability and develop models of the solar dynamo mechanism that correctly produce the observed properties of the magnetic fields. This Preface summarizes the most important findings of the papers of this Special Issue, most of which were presented in the Space Climate-4 Symposium organized in 2011 in Goa, India.",
+    "readLink": "http://dx.doi.org/10.1051/swsc/2013043"
+  },
+  {
+    "title": "Bacterial community composition and extracellular enzyme activity in temperate streambed sediment during drying and rewetting.",
+    "authors": [
+      "Elisabeth Pohlon,",
+      "Adriana Ochoa Fandino,",
+      "Jürgen Marxsen"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0083365",
+    "journalVolume": "Vol. 8,\n                                no. 12\n                                \n                                  p.\n                                  e83365",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Droughts are among the most important disturbance events for stream ecosystems; they not only affect stream hydrology but also the stream biota. Although desiccation of streams is common in Mediterranean regions, phases of dryness in headwaters have been observed more often and for longer periods in extended temperate regions, including Central Europe, reflecting global climate change and enhanced water withdrawal. The effects of desiccation and rewetting on the bacterial community composition and extracellular enzyme activity, a key process in the carbon flow of streams and rivers, were investigated in a typical Central European stream, the Breitenbach (Hesse, Germany). Wet streambed sediment is an important habitat in streams. It was sampled and exposed in the laboratory to different drying scenarios (fast, intermediate, slow) for 13 weeks, followed by rewetting of the sediment from the fast drying scenario via a sediment core perfusion technique for 2 weeks. Bacterial community structure was analyzed using CARD-FISH and TGGE, and extracellular enzyme activity was assessed using fluorogenic model substrates. During desiccation the bacterial community composition shifted toward composition in soil, exhibiting increasing proportions of Actinobacteria and Alphaproteobacteria and decreasing proportions of Bacteroidetes and Betaproteobacteria. Simultaneously the activities of extracellular enzymes decreased, most pronounced with aminopeptidases and less pronounced with enzymes involved in the degradation of polymeric carbohydrates. After rewetting, the general ecosystem functioning, with respect to extracellular enzyme activity, recovered after 10 to 14 days. However, the bacterial community composition had not yet achieved its original composition as in unaffected sediments within this time. Thus, whether the bacterial community eventually recovers completely after these events remains unknown. Perhaps this community undergoes permanent changes, especially after harsh desiccation, followed by loss of the specialized functions of specific groups of bacteria.",
+    "readLink": "http://europepmc.org/articles/PMC3873959?pdf=render"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  null,
+  {
+    "title": "Analysis of Natural Streamflow Variation and Its Influential Factors on the Yellow River from 1957 to 2010",
+    "authors": [
+      "Jie Wu,",
+      "Zhihui Wang,",
+      "Zengchuan Dong,",
+      "Qiuhong Tang,",
+      "Xizhi Lv,",
+      "Guotao Dong"
+    ],
+    "doi": "https://doi.org/10.3390/w10091155",
+    "journalVolume": "Vol. 10,\n                                no. 9\n                                \n                                  p.\n                                  1155",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "In this study, variation characteristics of hydrometeorological factors were explored based on observed time-series data between 1957 and 2010 in four subregions of the Yellow River Basin. For each region, precipitation–streamflow models at annual and flood-season scales were developed to quantify the impact of annual precipitation, temperature, percentage of flood-season precipitation, and anthropogenic interference. The sensitivities of annual streamflow to these three climatic factors were then calculated using a modified elasticity coefficient model. The results presented the following: (1) Annual streamflow exhibited a negative trend in all regions; (2) The reduction of annual streamflow was mainly caused by a precipitation decrease and temperature increase for all regions before 2000, whereas the contribution of anthropogenic interference increased significantly—more than 45%, except for Tang-Tou region after 2000. The percentage of flood-season precipitation variation can also be responsible for annual streamflow reduction with a range of 7.36% (Tang-Tou) to 21.88% (Source); (3) Annual streamflow was more sensitive to annual precipitation than temperature in the humid region, and the opposite situation was observed in the arid region. The sensitivities to intra-annual climate variation increased after 2000 for all regions, and the increase was more significant in Tou-Long and Long-Hua regions.",
+    "readLink": "http://www.mdpi.com/2073-4441/10/9/1155"
+  },
+  {
+    "title": "The greening of organisational IT: what makes a difference?",
+    "authors": [
+      "Ben Kuo,",
+      "Geoffrey Dick"
+    ],
+    "doi": "https://doi.org/10.3127/ajis.v16i2.592",
+    "journalVolume": "Vol. 16,\n                                no. 2",
+    "issn": "1326-2238 (Online)",
+    "publisher": "Australasian Association for Information Systems",
+    "countryOfPublisher": "Australia",
+    "lcc": [
+      "Technology: Technology (General): Industrial engineering. Management engineering: Information technology",
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science"
+    ],
+    "journalUrl": "http://journal.acs.org.au/index.php/ajis/index",
+    "abstract": "The trend towards green information technology (IT) over the last few years is a result of an acknowledgement of both the environmental impact of IT and the role IT plays as a potential source of solutions to environmental concerns. As organisations are under increasing pressures to act sustainably, environmental considerations are taking greater importance for organisations and the organisations’ information systems (IS) and IT. This paper introduces a model proposing competitive pressures, legitimation pressures, social responsibility pressures, organisational factors and technological constraints as factors which influence the extent of green IT in organisations. An online survey was developed and tested with IT practitioners. Regression analysis revealed that the extent of green IT in organisations is influenced by a combination of these factors. Foremost of the factors is the capability of the organisation to adapt. Other factors which account for differences in the extent of green IT in organisations include legitimation and social responsibility pressures. The regression indicated a good fit for the developed model, providing a basis for further research.",
+    "readLink": "http://journal.acs.org.au/index.php/ajis/article/view/592"
+  },
+  {
+    "title": "Water and Nitrogen Use and Agricultural Production Efficiency under Climate Change in a Mediterranean Coastal Watershed",
+    "authors": [
+      "Aikaterini Lyra,",
+      "Athanasios Loukas"
+    ],
+    "doi": "https://doi.org/10.3390/ECWS-7-14180",
+    "journalVolume": "Vol. 25,\n                                no. 23\n                                \n                                  p.\n                                  23",
+    "issn": "2673-4931 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/environsciproc",
+    "abstract": "This study estimates the effect of climate change on water resource efficiency and crop/agronomic productivity at the Almyros basin in Greece. Groundwater resources are intensively used for irrigation, whereas their quantity and quality are highly downgraded. Climate change impacts have been assessed using Med-CORDEX bias-corrected climatic projections for RCP4.5 and RCP8.5 scenarios. Simulation of coastal water resources was carried out with an Integrated Modelling System (IMS) consisting of the modules of surface hydrology (UTHBAL), reservoir operation (UTHRL), groundwater hydrology (MODFLOW), nitrate leaching/crop growth (REPIC), nitrate pollution (MT3DMS), and salt wedge/salinization (SEAWAT). The indices of Standardized Chloride Hazard (SCHI), Crop Water (CWP) and Economic Water Productivity (EWP), Nitrogen Use Efficiency (NUE) have been employed to analyze water resource management and agronomic scenarios. The findings indicate the water resources’ capacity for adaptability and agronomic effectiveness under the influence of salinization and climate change.",
+    "readLink": "https://www.mdpi.com/2673-4931/25/1/23"
+  },
+  {
+    "title": "Particulate matter (PM2.5) as a potential SARS-CoV-2 carrier",
+    "authors": [
+      "Norefrina Shafinaz Md Nor,",
+      "Chee Wai Yip,",
+      "Nazlina Ibrahim,",
+      "Mohd Hasni Jaafar,",
+      "Zetti Zainol Rashid,",
+      "Norlaila Mustafa,",
+      "Haris Hafizal Abd Hamid,",
+      "Kuhan Chandru,",
+      "Mohd Talib Latif,",
+      "Phei Er Saw,",
+      "Chin Yik Lin,",
+      "Kemal Maulana Alhasa,",
+      "Jamal Hisham Hashim,",
+      "Mohd Shahrul Mohd Nadzir"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-81935-9",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 6",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract The rapid spread of the SARS-CoV-2 in the COVID-19 pandemic had raised questions on the route of transmission of this disease. Initial understanding was that transmission originated from respiratory droplets from an infected host to a susceptible host. However, indirect contact transmission of viable virus by fomites and through aerosols has also been suggested. Herein, we report the involvement of fine indoor air particulates with a diameter of ≤ 2.5 µm (PM2.5) as the virus’s transport agent. PM2.5 was collected over four weeks during 48-h measurement intervals in four separate hospital wards containing different infected clusters in a teaching hospital in Kuala Lumpur, Malaysia. Our results indicated the highest SARS-CoV-2 RNA on PM2.5 in the ward with number of occupants. We suggest a link between the virus-laden PM2.5 and the ward’s design. Patients’ symptoms and numbers influence the number of airborne SARS-CoV-2 RNA with PM2.5 in an enclosed environment.",
+    "readLink": "https://doi.org/10.1038/s41598-021-81935-9"
+  },
+  {
+    "title": "Integration of a Landsat Time-Series of NBR and Hydrological Modeling to Assess <i>Pinus pinaster</i> Aiton. Forest Defoliation in South-Eastern Spain",
+    "authors": [
+      "Antonio  Jesús Ariza Salamanca,",
+      "Rafael  María Navarro-Cerrillo,",
+      "Francisco  J. Bonet-García,",
+      "Ma  José Pérez-Palazón,",
+      "María  J. Polo"
+    ],
+    "doi": "https://doi.org/10.3390/rs11192291",
+    "journalVolume": "Vol. 11,\n                                no. 19\n                                \n                                  p.\n                                  2291",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Climate change is increasing the vulnerability of Mediterranean coniferous plantations. Here, we integrate a Landsat time series with a physically-based distributed hydrological model (Watershed Integrated Management in Mediterranean Environments—WiMMed) to examine spatially-explicit relationships between the mortality processes of Pinus pinaster plantations and the hydrological regime, using different spectral indices of vegetation and machine learning algorithms. The Normalized Burn Ratio (NBR) and Moisture Stress Index (MSI) show the highest correlations with defoliation rates. Random Forest was the most accurate model (R2 = 0.79; RMSE = 0.059), showing a high model performance and prediction. Support vector machines and neural networks also demonstrated a high performance (R2 > 0.7). The main hydrological variables selected by the model to explain defoliation were potential evapotranspiration, winter precipitation and maximum summer temperature (lower Out-of-bag error). These results show the importance of hydrological variables involved in evaporation processes, and on the change in the spatial distribution of seasonal rainfall upon the defoliation processes of P. pinaster. These results underpin the importance of integrating temporal remote sensing data and hydrological models to analyze the drivers of forest defoliation and mortality processes in the Mediterranean climate.",
+    "readLink": "https://www.mdpi.com/2072-4292/11/19/2291"
+  },
+  {
+    "title": "Relocation of bioclimatic suitability of Portuguese grapevine varieties under climate change scenarios",
+    "authors": [
+      "Filipe Adão,",
+      "João C. Campos,",
+      "João A. Santos,",
+      "Aureliano C. Malheiro,",
+      "Hélder Fraga"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2023.974020",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "IntroductionClimate change has been driving warming trends and changes in precipitation patterns and regimes throughout Europe. Future projections indicate a continuation of these trends in the next decades. This situation is challenging the sustainability of viniculture and, thus, significant efforts towards adaptation should be then carried out by local winegrowers.MethodEcological Niche Models were built, using the ensemble modelling approach, to estimate the bioclimatic suitability of four main wine-producing European countries, namely France, Italy, Portugal, and Spain, in the recent past (1989–2005), for the cultivation of twelve Portuguese grape varieties. The models were then used to project the bioclimatic suitability to two future periods (2021– 2050 and 2051–2080) to better understand the potential shifts related to climate change (modeled after Intergovernmental Panel on Climate Change’s Representative Concentration Pathways 4.5 and 8.5 scenarios). The models were obtained with the modeling platform BIOMOD2, using four bioclimatic indices, namely the “Huglin Index”, the “Cool Night index”, the “Growing Season Precipitation index”, and the “Temperature Range during Ripening index” as predictor variables, as well as the current locations of the chosen grape varieties in Portugal.ResultsAll models performed with high statistical accuracy (AUC > 0.9) and were able to discriminate several suitable bioclimatic areas for the different grape varieties, in and around where they are currently located but also in other parts of the study area. The distribution of the bioclimatic suitability changed, however, when looking at future projections. For both climatic scenarios, projected bioclimatic suitability suffered a considerable shift to the north of Spain and France. In some cases, bioclimatic suitability also moved towards areas of higher elevation. Portugal and Italy barely retained any of the initially projected varietal areas. These shifts were mainly due to the overall rise in thermal accumulation and lower accumulated precipitation in the southern regions projected for the future.ConclusionEnsemble models of Ecological Niche Models were shown to be valid tools for winegrowers who want to adapt to a changing climate. The long-term sustainability of viniculture in southern Europe will most likely have to go through a process of mitigation of the effects of increasing temperatures and decreasing precipitation.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2023.974020/full"
+  },
+  {
+    "title": "Atmosphere Boundary Layer Height (ABLH) Determination under Multiple-Layer Conditions Using Micro-Pulse Lidar",
+    "authors": [
+      "Ruijun Dang,",
+      "Yi Yang,",
+      "Hong Li,",
+      "Xiao-Ming Hu,",
+      "Zhiting Wang,",
+      "Zhongwei Huang,",
+      "Tian Zhou,",
+      "Tiejun Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/rs11030263",
+    "journalVolume": "Vol. 11,\n                                no. 3\n                                \n                                  p.\n                                  263",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Accurate estimation of the atmospheric boundary layer height (ABLH) is critically important and it mainly relies on the detection of the vertical profiles of atmosphere variables (temperature, humidity,’ and horizontal wind speed) or aerosols. Aerosol Lidar is a powerful remote sensing instrument frequently used to retrieve ABLH through the detection of the vertical distribution of aerosol concentration. A challenge is that cloud, residual layer (RL), and local signal structure seriously interfere with the lidar measurement of ABLH. A new objective technique presenting as giving a top limiter altitude is introduced to reduce the interference of RL and cloud layer on ABLH determination. Cloud layers are identified by looking for the rapid increase and sharp attenuation of the signal combined with the relative increase in the signal. The cloud layers whether they overlay the ABL are classified or are decoupled from the ABL are classified by analyzing the continuity of the signal below the cloud base. For cloud layer capping of the ABL, the limiter is determined to be the altitude where a positive signal gradient first occurs above the cloud upper edge. For a cloud that is decoupled from the ABL, the cloud base is considered to be the altitude limiter. For RL in the morning, the altitude limiter is the greatest positive gradient altitude below the RL top. The ABLH will be determined below the top limiter altitude using Haar wavelet (HM) and the curve fitting method (CFM). Besides, the interference of local signal noise is eliminated through consideration of the temporal continuity. While comparing the lidar-determined ABLH by HM (or CFM) and nearby radiosonde measurements of the ABLH, a reasonable concordance is found with a correlation coefficient of 0.94 (or 0.96) and 0.79 (or 0.74), presenting a mean of the relative absolute differences with respect to radiosonde measurements of 10.5% (or 12.3%) and 22.3% (or 17.2%) for cloud-free and cloudy situations, respectively. The diurnal variations in the ABLH determined from HM and CFM on four selected cases show good agreement with a mean correlation coefficient higher than 0.99 and a mean absolute bias of 0.22 km. Also, the determined diurnal ABLH are consistent with surface turbulent kinetic energy (TKE) combined with the time-height distribution of the equivalent potential temperature.",
+    "readLink": "https://www.mdpi.com/2072-4292/11/3/263"
+  },
+  {
+    "title": "Modulating Drought Stress Response of Maize by a Synthetic Bacterial Community",
+    "authors": [
+      "Jaderson Silveira Leite Armanhi,",
+      "Jaderson Silveira Leite Armanhi,",
+      "Rafael Soares Correa de Souza,",
+      "Rafael Soares Correa de Souza,",
+      "Bárbara Bort Biazotti,",
+      "Bárbara Bort Biazotti,",
+      "Bárbara Bort Biazotti,",
+      "Juliana Erika de Carvalho Teixeira Yassitepe,",
+      "Juliana Erika de Carvalho Teixeira Yassitepe,",
+      "Paulo Arruda,",
+      "Paulo Arruda,",
+      "Paulo Arruda"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2021.747541",
+    "journalVolume": "Vol. 12",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "Plant perception and responses to environmental stresses are known to encompass a complex set of mechanisms in which the microbiome is involved. Knowledge about plant physiological responses is therefore critical for understanding the contribution of the microbiome to plant resilience. However, as plant growth is a dynamic process, a major hurdle is to find appropriate tools to effectively measure temporal variations of different plant physiological parameters. Here, we used a non-invasive real-time phenotyping platform in a one-to-one (plant–sensors) set up to investigate the impact of a synthetic community (SynCom) harboring plant-beneficial bacteria on the physiology and response of three commercial maize hybrids to drought stress (DS). SynCom inoculation significantly reduced yield loss and modulated vital physiological traits. SynCom-inoculated plants displayed lower leaf temperature, reduced turgor loss under severe DS and a faster recovery upon rehydration, likely as a result of sap flow modulation and better water usage. Microbiome profiling revealed that SynCom bacterial members were able to robustly colonize mature plants and recruit soil/seed-borne beneficial microbes. The high-resolution temporal data allowed us to record instant plant responses to daily environmental fluctuations, thus revealing the impact of the microbiome in modulating maize physiology, resilience to drought, and crop productivity.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmicb.2021.747541/full"
+  },
+  {
+    "title": "Long-term alterations of flow regimes of the Mekong River and adaptation strategies for the Vietnamese Mekong Delta",
+    "authors": [
+      "Doan Van Binh,",
+      "Sameh A. Kantoush,",
+      "Mohamed Saber,",
+      "Nguyen Phuong Mai,",
+      "Shreedhar Maskey,",
+      "Dang Tuan Phong,",
+      "Tetsuya Sumi"
+    ],
+    "doi": "Vol. 32\n                                \n                                \n                                  p.\n                                  100742",
+    "issn": "2214-5818 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-hydrology-regional-studies/",
+    "abstract": "Study region: The Mekong basin, where climate change and anthropogenic interventions (e.g., dams, sand mining, and sluice gates) have intensified in the recent decades affecting the pristine flow regime and salinity intrusion. Study focus: This paper aims at quantifying the flow regime alterations in the entire Mekong from 1980 to 2015 and linking with the controlling drivers of alterations. In this regard, various indicators, analytical methods, and a semi two-dimensional hydrodynamic and advection-dispersion model were used. New hydrological insights for the region: The flow regime alterations in the high-dam development period (2009–2015) are more pronounced than in the low-dam development period (1993–2008), compared to the no-dam development period (1980–1992), based on most of the indicators analyzed. In the high-dam development period all existing dams with large reservoir capacity seemed to have cumulatively reduced the flood pulses and frequency and increased the low-flow discharge along the entire Mekong through reservoir operations, exceeding climate change effect. In the recent years the water levels in the low-flow season in the Vietnamese Mekong Delta (VMD) have decreased, possibly because of increased riverbed incision caused by reduced sediment supply and increased sand mining. The reduced water levels together with the increased number of the sluice gates constructed seemed to have increased salinity intrusion in the VMD which may be partly reduced by early emergency water release from upstream dams.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214581820302160"
+  }
+]

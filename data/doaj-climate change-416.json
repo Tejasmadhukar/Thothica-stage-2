@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Long-term variations in actual evapotranspiration over the Tibetan Plateau",
+    "authors": [
+      "C. Han,",
+      "C. Han,",
+      "C. Han,",
+      "Y. Ma,",
+      "Y. Ma,",
+      "Y. Ma,",
+      "Y. Ma,",
+      "B. Wang,",
+      "B. Wang,",
+      "L. Zhong,",
+      "W. Ma,",
+      "W. Ma,",
+      "W. Ma,",
+      "X. Chen,",
+      "X. Chen,",
+      "X. Chen,",
+      "Z. Su"
+    ],
+    "doi": "https://doi.org/10.5194/essd-13-3513-2021",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  3513\n                                  – 3524",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "Actual terrestrial evapotranspiration (ETa) is a key parameter controlling land–atmosphere interaction processes and water cycle. However, spatial distribution and temporal changes in ETa over the Tibetan Plateau (TP) remain very uncertain. Here we estimate the multiyear (2001–2018) monthly ETa and its spatial distribution on the TP by a combination of meteorological data and satellite products. Validation against data from six eddy-covariance monitoring sites yielded root-mean-square errors ranging from 9.3 to 14.5 mm per month and correlation coefficients exceeding 0.9. The domain mean of annual ETa on the TP decreased slightly (−1.45 mm yr−1, p<0.05) from 2001 to 2018. The annual ETa increased significantly at a rate of 2.62 mm yr−1 (p<0.05) in the eastern sector of the TP (long >90∘ E) but decreased significantly at a rate of −5.52 mm yr−1 (p<0.05) in the western sector of the TP (long <90∘ E). In addition, the decreases in annual ETa were pronounced in the spring and summer seasons, while almost no trends were detected in the autumn and winter seasons. The mean annual ETa during 2001–2018 and over the whole TP was 496±23 mm. Thus, the total evapotranspiration from the terrestrial surface of the TP was 1238.3±57.6 km3 yr−1. The estimated ETa product presented in this study is useful for an improved understanding of changes in energy and water cycle on the TP. The dataset is freely available at the Science Data Bank (https://doi.org/10.11922/sciencedb.t00000.00010; Han et al., 2020b) and at the National Tibetan Plateau Data Center (https://doi.org/10.11888/Hydro.tpdc.270995, Han et al., 2020a).",
+    "readLink": "https://essd.copernicus.org/articles/13/3513/2021/essd-13-3513-2021.pdf"
+  },
+  {
+    "title": "Impacts of cereal ergot in food animal production",
+    "authors": [
+      "Stephanie eCoufal-Majewski,",
+      "Stephanie eCoufal-Majewski,",
+      "Kim eStanford,",
+      "Tim eMcAllister,",
+      "Barry eBlakley,",
+      "John eMcKinnon,",
+      "Alexandre Vieira Chaves,",
+      "Yuxi eWang"
+    ],
+    "doi": "https://doi.org/10.3389/fvets.2016.00015",
+    "journalVolume": "Vol. 3",
+    "issn": "2297-1769 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Animal culture: Veterinary medicine"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Veterinary_Science",
+    "abstract": "The negative impacts of ergot contamination of grain on the health of humans and animals were first documented during the 5th century AD. Although ergotism is now rare in humans, cleaning contaminated grain concentrates ergot bodies in screenings which are used as livestock feed. Ergot is found worldwide, with even low concentrations of alkaloids in the diet (<100 ppb total) reducing the growth efficiency of livestock. Extended periods of increased moisture and cold during flowering promote the development of ergot in cereal crops. Furthermore, the unpredictability of climate change may have detrimental impacts to important cereal crops such as wheat, barley and rye, favouring ergot production. Allowable limits for ergot in livestock feed are confusing as they may be determined by proportions of ergot bodies or by total levels of alkaloids, measurements which may differ widely in their estimation of toxicity. The proportion of individual alkaloids including ergotamine, ergocristine, ergosine, ergocornine and ergocryptine is extremely variable within ergot bodies and the relative toxicity of these alkaloids has yet to be determined. This raises concerns that current recommendations on safe levels of ergot in feeds may be unreliable. Furthermore, the total ergot alkaloid content is greatly dependent on the geographic region, harvest year, cereal species, variety and genotype. Considerable animal to animal variation in the ability of the liver to detoxify ergot alkaloids also exists and the impacts of factors such as pelleting of feeds or use of binders to reduce bioavailability of alkaloids require study. Accordingly, unknowns greatly outnumber the knowns for cereal ergot and further study to help better define allowable limits for livestock would be welcome.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fvets.2016.00015/full"
+  },
+  {
+    "title": "Long-term warming results in species-specific shifts in seed mass in alpine communities",
+    "authors": [
+      "Chunhui Zhang,",
+      "Zhen Ma,",
+      "Huakun Zhou,",
+      "Xinquan Zhao"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.7416",
+    "journalVolume": "Vol. 7\n                                \n                                \n                                  p.\n                                  e7416",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background Global warming can cause variation in plant functional traits due to phenotypic plasticity or rapid microevolutionary change. Seed mass represents a fundamental axis of trait variation in plants, from an individual to a community scale. Here, we hypothesize that long-term warming can shift the mean seed mass of species. Methods We tested our hypothesis in plots that had been warmed over 18 years in alpine meadow communities with a history of light grazing (LG) and heavy grazing (HG) on the Qinghai-Tibet plateau. In this study, seeds were collected during the growing season of 2015. Results We found that warming increased the mean seed mass of 4 (n = 19) species in the LG meadow and 6 (n = 20) species in the HG meadow, while decreasing the mean seed mass of 6 species in the LG and HG meadows, respectively. For 7 species, grazing history modified the effect of warming on seed mass. Therefore, we concluded that long-term warming can shift the mean seed mass at the species level. However, the direction of this variation is species-specific. Our study suggests that mean seed mass of alpine plant species appears to decrease in warmer (less stressful) habitats based on life-history theory, but it also suggests there may be an underlying trade-off in which mean seed mass may increase due to greater thermal energy inputs into seed development. Furthermore, the physical and biotic environment modulating this trade-off result in complex patterns of variation in mean seed mass of alpine plant species facing global warming.",
+    "readLink": "https://peerj.com/articles/7416.pdf"
+  },
+  {
+    "title": "Introduktion | Introduction",
+    "authors": [
+      "Bo Allesøe Christensen,",
+      "Jørn Bjerre,",
+      "Bent Sørensen,",
+      "Ole Ertløv Hansen"
+    ],
+    "doi": "https://doi.org/10.5278/ojs.academicquarter.v0i17.2506",
+    "journalVolume": "no. 17",
+    "issn": "1904-0008 (Online)",
+    "publisher": "Aalborg University Press",
+    "countryOfPublisher": "Denmark",
+    "lcc": [
+      "General Works: History of scholarship and learning. The humanities"
+    ],
+    "journalUrl": "https://journals.aau.dk/index.php/ak/index",
+    "abstract": "In recent years a skeptical consciousness has evolved, criticizing the monopoly of scientific and critical discourses’ truth-claims about reality. Newspapers have, for example, been accused of producing fake news, science has been accused of being politicized and expressing ideological rather than truth claims, and ethnic and minority discourses of identity have been contested. The criticism seems to be grounded in something like the following principle: whatever I or my fellows believe is right or true, must be right or true – if I don’t believe in climate change as man-made, it cannot be true, and if I lie about something, it doesn’t matter if people call it a lie, it is a belief which is true to me. No responsibility towards the justification and content of the beliefs is accepted as a significant, or worth addressing. In this issue of Academic Quarter, we have asked if this is For Real? Picking up this question and with it the question of realism today, this volume presents reflections based on such diverse subjects as territorial stigma in media, counter-historical narratives, strategic design, fake news and the public sphere, the notion of facts, fake art, and social realism within educational theory.",
+    "readLink": "https://journals.aau.dk/index.php/ak/article/view/2506"
+  },
+  {
+    "title": "A Sustainable Approach to the Conversion of Waste into Energy: Landfill Gas-to-Fuel Technology",
+    "authors": [
+      "Cagri Un"
+    ],
+    "doi": "https://doi.org/10.3390/su152014782",
+    "journalVolume": "Vol. 15,\n                                no. 14782\n                                \n                                  p.\n                                  14782",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Landfill gas (LFG) is a methane-rich gas produced by the decomposition of organic waste in landfills. It has the potential to be a greenhouse gas, but it can also be a valuable source of energy. LFG can be used to generate electricity, heat, or fuel. Renewable natural gas, abundant in methane derived from organic matter or waste streams, can undergo processing to align with established specifications for conventional fossil natural gas pipelines and vehicle use. This article assesses the present state of understanding concerning the transformation of landfill gas into a valuable fuel resource. This study shows the methods for LFG collection and conversion into usable fuels, along with the environmental benefits and challenges associated with its utilization and usage. In this study, a thorough examination was conducted concerning the waste generated in residential communities, specifically within the rural districts of Adana, known as the Yedigoze region. This research focused on assessing the gas potential derived from these waste materials and their potential environmental implications when employed as a fuel source for municipal buses. The transitioning analysis of 50 diesel buses to compressed natural gas (CNG) buses resulted in a remarkable reduction of 950,625 kg of CO2 emissions in one year.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/20/14782"
+  },
+  {
+    "title": "Implications of human induced changes on the distribution of important plant species in the northwestern coastal desert of Egypt",
+    "authors": [
+      "Marwa Waseem Halmy,",
+      "Paul E. Gessler,",
+      "Selim Z. Heneidy"
+    ],
+    "doi": "https://doi.org/10.21622/resd.2015.01.2.243",
+    "journalVolume": "Vol. 1,\n                                no. 2\n                                \n                                  pp.\n                                  243\n                                  – 263",
+    "issn": "2356-8518 (Print)",
+    "publisher": "2356-8569 (Online)",
+    "countryOfPublisher": "Academy Publishing Center",
+    "lcc": [
+      "Egypt",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources"
+    ],
+    "journalUrl": "http://apc.aast.edu/ojs/index.php/RESD/index",
+    "abstract": "The application of species distribution modeling in deserts is a useful tool for mapping species and assessing the impact of human induced changes on individual species. Such applications are still rare, and this may be attributed to the fact that much of the arid lands and deserts around the world are located in inaccessible areas. Few studies have conducted spatially explicit modeling of plant species distribution in Egypt. The random forest modeling approach was applied to climatic and land-surface parameters to predict the distribution of ten important plant species in an arid landscape in the northwestern coastal desert of Egypt. The impact of changes in land use and climate on the distribution of the plant species was assessed. The results indicate that the changes in land use in the area have resulted in habitat loss for all the modeled species. Projected future changes in land use reveals that all the modeled species will continue to suffer habitat loss. The projected impact of modeled climate scenarios (A1B, A2A and B2A) on the distribution of the modeled species by 2040 varied. Some of the species were projected to be adversely affected by the changes in climate, while other species are expected to benefit from these changes. The combined impact of the changes in land use and climate pose serious threats to most of the modeled species. The study found that all the species are expected to suffer loss in habitat, except Gymnocarpos decanderus. The study highlights the importance of assessing the impact of land use/climate change scenarios on other species of restricted distribution in the area and can help shape policy and mitigation measures directed toward biodiversity conservation in Egypt.",
+    "readLink": "http://apc.aast.edu/ojs/index.php/RESD/article/view/68"
+  },
+  {
+    "title": "Enablers and disablers to plug-in electric vehicle adoption in India: Insights from a survey of experts",
+    "authors": [
+      "Rubal Dua,",
+      "Scott Hardman,",
+      "Yagyavalk Bhatt,",
+      "Dimpy Suneja"
+    ],
+    "doi": "Vol. 7\n                                \n                                \n                                  pp.\n                                  3171\n                                  – 3188",
+    "issn": "2352-4847 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/energy-reports/",
+    "abstract": "The Indian government is considering plug-in electric vehicle (PEV) deployment as one solution to address the issues of air pollution, energy security, and climate change. We investigate the potential for PEV adoption in India, the challenges in meeting the country’s goals and ways to overcome them. We utilize a survey of 51 experts in the Indian light-duty vehicle (LDV) ecosystem to address these questions. The majority of experts indicate that India will marginally miss its 30% PEV sales target by 2030. The main reasons cited for this are PEVs’ high upfront cost, a lack of policies promoting PEVs and a lack of charging infrastructure. Experts believe lack of domestic PEV battery and manufacturing supply chains will limit the supply of low-cost PEVs to the Indian market. The lack of land availability and high land rent prices in Indian cities is cited as the major barrier to the establishment of charging infrastructure. The experts view a PEV sales mandate and incentives, such as ‘feebates,’ as the most effective policy levers, while believing a ban on conventional vehicle sales by 2030 was unlikely. The findings hold significance for understanding the future of India’s LDV sector and the associated energy and environmental impacts, which have global implications.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352484721003048"
+  },
+  {
+    "title": "Effect of Zinc on <i>Microcystis aeruginosa</i> UTEX LB 2385 and Its Toxin Production",
+    "authors": [
+      "Jose  L. Perez,",
+      "Tinchun Chu"
+    ],
+    "doi": "https://doi.org/10.3390/toxins12020092",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  p.\n                                  92",
+    "issn": "2072-6651 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/toxins/",
+    "abstract": "Cyanobacteria harmful algal blooms (CHABs) are primarily caused by man-made eutrophication and increasing climate-change conditions. The presence of heavy metal runoff in affected water systems may result in CHABs alteration to their ecological interactions. Certain CHABs produce by-products, such as microcystin (MC) cyanotoxins, that have detrimentally affected humans through contact via recreation activities within implicated water bodies, directly drinking contaminated water, ingesting biomagnified cyanotoxins in seafood, and/or contact through miscellaneous water treatment. Metallothionein (MT) is a small, metal-sequestration cysteine rich protein often upregulated within the stress response mechanism. This study focused on zinc metal resistance and stress response in a toxigenic cyanobacterium, Microcystis aeruginosa UTEX LB 2385, by monitoring cells with (0, 0.1, 0.25, and 0.5 mg/L) ZnCl2 treatment. Flow cytometry and phase contrast microscopy were used to evaluate physiological responses in cultures. Molecular assays and an immunosorbent assay were used to characterize the expression of MT and MC under zinc stress. The results showed that the half maximal inhibitory concentration (IC50) was 0.25 mg/L ZnCl2. Flow cytometry and phase contrast microscopy showed morphological changes occurred in cultures exposed to 0.25 and 0.5 mg/L ZnCl2. Quantitative PCR (qPCR) analysis of selected cDNA samples showed significant upregulation of Mmt through all time points, significant upregulation of mcyC at a later time point. ELISA MC-LR analysis showed extracellular MC-LR (µg/L) and intracellular MC-LR (µg/cell) quota measurements persisted through 15 days, although 0.25 mg/L ZnCl2 treatment produced half the normal cell biomass and 0.5 mg/L treatment largely inhibited growth. The 0.25 and 0.5 mg/L ZnCl2 treated cells demonstrated a ~40% and 33% increase of extracellular MC-LR(µg/L) equivalents, respectively, as early as Day 5 compared to control cells. The 0.5 mg/L ZnCl2 treated cells showed higher total MC-LR (µg/cell) quota yield by Day 8 than both 0 mg/L ZnCl2 control cells and 0.1 mg/L ZnCl2 treated cells, indicating release of MCs upon cell lysis. This study showed this Microcystis aeruginosa strain is able to survive in 0.25 mg/L ZnCl2 concentration. Certain morphological zinc stress responses and the upregulation of mt and mcy genes, as well as periodical increased extracellular MC-LR concentration with ZnCl2 treatment were observed.",
+    "readLink": "https://www.mdpi.com/2072-6651/12/2/92"
+  },
+  {
+    "title": "Potential changes in the connectivity of marine protected areas driven by extreme ocean warming",
+    "authors": [
+      "Luciana Shigihara Lima,",
+      "Douglas Francisco Marcolino Gherardi,",
+      "Luciano Ponzi Pezzi,",
+      "Leilane Gonçalves dos Passos,",
+      "Clarissa Akemi Kajiya Endo,",
+      "Juan Pablo Quimbayo"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-89192-6",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Projected future climate scenarios anticipate a warmer tropical ocean and changes in surface currents that will likely influence the survival of marine organisms and the connectivity of marine protected areas (MPAs) networks. We simulated the regional effects of climate change on the demographic connectivity of parrotfishes in nine MPAs in the South Atlantic through downscaling of the HadGEM2-ES Earth System Model running the RCP 8.5 greenhouse gas trajectory. Results indicate a tropicalization scenario over the tropical southwest Atlantic following an increase of sea surface temperature (SST) between 1.8 and 4.5 °C and changes in mean surface currents between − 0.6 to 0.5 m s−1 relative to present conditions. High mortality rates will reduce demographic connectivity and increase the isolation of oceanic islands. The simulation of organismal response to ocean warming shows that acclimation can significantly improve (p < 0.001) particle survival, promoting connectivity and tropicalization of MPAs, with potential impacts on their functional integrity and long-term resilience.",
+    "readLink": "https://doi.org/10.1038/s41598-021-89192-6"
+  },
+  {
+    "title": "Grassland communities in the USA and expected trends associated with climate change",
+    "authors": [
+      "David Paul Belesky,",
+      "Dariusz Piotr Malinowski"
+    ],
+    "doi": "https://doi.org/10.5586/aa.1673",
+    "journalVolume": "Vol. 69,\n                                no. 2",
+    "issn": "0065-0951 (Print)",
+    "publisher": "2300-357X (Online)",
+    "countryOfPublisher": "Polish Botanical Society",
+    "lcc": [
+      "Poland",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://pbsociety.org.pl/journals/index.php/aa/index",
+    "abstract": "Grasslands, including managed grazinglands, represent one of the largest ecosystems on the planet. Managed grazinglands in particular tend to occupy marginal climatic and edaphic resource zones, thus exacerbating responses in net primary productivity relative to changes in system resources, including anthropogenic factors. Climate dynamism, as evident from the fossil record, appears to be a putative feature of our planet. Recent global trends in temperature and precipitation patterns seem to differ from long-term patterns and have been associated with human activities linked with increased greenhouse gas emissions; specifically CO2. Thus grasslands, with their diverse floristic components, and interaction with and dependence upon herbivores, have a remarkable ability to persist and sustain productivity in response to changing resource conditions. This resistance and resilience to change, including uncertain long-term weather conditions, establishes managed grasslands as an important means of protecting food security. We review responses of grassland communities across regions of the USA and consider the responses in productivity and system function with respect to climatic variation. Research is needed to identify plant resources and management technologies that strengthen our ability to capitalize upon physiological and anatomical features prevalent in grassland communities associated with varying growing conditions.",
+    "readLink": "https://pbsociety.org.pl/journals/index.php/aa/article/view/6643"
+  }
+]

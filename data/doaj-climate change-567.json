@@ -1,0 +1,203 @@
+[
+  {
+    "title": "Cold Wave-Induced Reductions in NDII and ChlRE for North-Western Pacific Mangroves Varies with Latitude and Climate History",
+    "authors": [
+      "Jonathan Peereman,",
+      "J. Aaron Hogan,",
+      "Teng-Chiu Lin"
+    ],
+    "doi": "https://doi.org/10.3390/rs13142732",
+    "journalVolume": "Vol. 13,\n                                no. 2732\n                                \n                                  p.\n                                  2732",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Mangrove forests growing at the poleward edges of their geographic distribution are occasionally subject to freezing (0 °C) events. Cold wave effects on mangrove trees are well documented and adaptation to cold stress has been reported for local mangrove populations in the North Atlantic. However, there is less understanding of effects of cold waves on mangroves in the northern Pacific, especially at the regional scale. Moreover, it is unclear if cold tolerant mangrove species of North Asia display variation in resistance to cold temperatures across their geographic distribution. Using a cold wave event that occurred in January 2021, we evaluated the effects of low temperatures on vegetation index (VI) change (relative to a recent five-year baseline) for mangrove forests dominated by Kandelia obovata (Rhizophoraceae) and Avicennia marina (Acanthaceaee) at the northern edge of their geographical range. We used two VIs derived from Sentinel-2 imagery as indicators for canopy health: the normalized difference infrared index (NDII) and the chlorophyll red-edge index (ChlRE), which reflect forest canopy water content and chlorophyll concentration, respectively. We isolated the cold wave effects on the forest canopy from phenology (i.e., cold wave induced deviation from a five-year baseline) and used multiple linear regression to identify significant climatic predictors for the response of mangrove forest canopy VI change to low temperatures. For areas where the cold wave resulted in temperatures K. obovata stands in the northern Pacific, and in congruence with findings from New World mangroves, they imply geographic variation in mangrove leaf physiological resistance to cold for Northern Pacific mangroves.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/14/2732"
+  },
+  {
+    "title": "Recurrent Selection by Herbicide Sublethal Dose and Drought Stress Results in Rapid Reduction of Herbicide Sensitivity in Junglerice",
+    "authors": [
+      "Lariza Benedetti,",
+      "Gulab Rangani,",
+      "Vívian Ebeling Viana,",
+      "Pâmela Carvalho-Moore,",
+      "Edinalvo Rabaioli Camargo,",
+      "Luis  Antonio de Avila,",
+      "Nilda Roma-Burgos"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy10111619",
+    "journalVolume": "Vol. 10,\n                                no. 1619\n                                \n                                  p.\n                                  1619",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "Echinochloa colona (junglerice) is a problematic global weed for many crops, primarily controlled with herbicides. Drought stress alters the overall plant physiology and reduces herbicide efficacy. This research aimed to study the joint effect of drought stress (DS) and recurrent selection with sublethal dose of herbicide on adaptive gene expression and herbicide efficacy on E. colona. Three factors were evaluated: (A) E. colona generation (G0, original population from susceptible standard; G1 and G2, progenies of recurrent selection); (B) herbicide treatment (florpyrauxifen-benzyl, 0.25×; glyphosate, 0.125×; quinclorac, 0.125× the recommended dose; and nontreated check); (C) DS (50% and 100% field capacity). Recurrent exposure to sublethal herbicide dose, combined with drought stress, favors the selection of plants less susceptible to the herbicide. Upregulation of defense (antioxidant) genes (APX: ascorbate peroxidase), herbicide detoxification genes (CYP450 family: cytochrome P450), stress acclimation genes (HSP: heat-shock protein, TPP: trehalose phosphate phosphatase, and TPS: trehalose phosphate synthase), and genes related to herbicide conjugation (UGT: UDP glucosyltransferase) in the G2 population was significant. Recurrent exposure to sublethal herbicide dose under drought stress reduces junglerice sensitivity to herbicide, seemingly due to “imprinted” upregulation of metabolic and protection genes in response to these stresses.",
+    "readLink": "https://www.mdpi.com/2073-4395/10/11/1619"
+  },
+  {
+    "title": "Extreme temperature and precipitation response to solar dimming and stratospheric aerosol geoengineering",
+    "authors": [
+      "D. Ji,",
+      "S. Fang,",
+      "C. L. Curry,",
+      "C. L. Curry,",
+      "H. Kashimura,",
+      "S. Watanabe,",
+      "J. N. S. Cole,",
+      "A. Lenton,",
+      "H. Muri,",
+      "H. Muri,",
+      "B. Kravitz,",
+      "J. C. Moore,",
+      "J. C. Moore,",
+      "J. C. Moore"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-10133-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  10133\n                                  – 10156",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "We examine extreme temperature and precipitation under two potential geoengineering methods forming part of the Geoengineering Model Intercomparison Project (GeoMIP). The solar dimming experiment G1 is designed to completely offset the global mean radiative forcing due to a CO2-quadrupling experiment (abrupt4  ×  CO2), while in GeoMIP experiment G4, the radiative forcing due to the representative concentration pathway 4.5 (RCP4.5) scenario is partly offset by a simulated layer of aerosols in the stratosphere. Both G1 and G4 geoengineering simulations lead to lower minimum temperatures (TNn) at higher latitudes and on land, primarily through feedback effects involving high-latitude processes such as snow cover, sea ice and soil moisture. There is larger cooling of TNn and maximum temperatures (TXx) over land compared with oceans, and the land–sea cooling contrast is larger for TXx than TNn. Maximum 5-day precipitation (Rx5day) increases over subtropical oceans, whereas warm spells (WSDI) decrease markedly in the tropics, and the number of consecutive dry days (CDDs) decreases in most deserts. The precipitation during the tropical cyclone (hurricane) seasons becomes less intense, whilst the remainder of the year becomes wetter. Stratospheric aerosol injection is more effective than solar dimming in moderating extreme precipitation (and flooding). Despite the magnitude of the radiative forcing applied in G1 being ∼  7.7 times larger than in G4 and despite differences in the aerosol chemistry and transport schemes amongst the models, the two types of geoengineering show similar spatial patterns in normalized differences in extreme temperatures changes. Large differences mainly occur at northern high latitudes, where stratospheric aerosol injection more effectively reduces TNn and TXx. While the pattern of normalized differences in extreme precipitation is more complex than that of extreme temperatures, generally stratospheric aerosol injection is more effective in reducing tropical Rx5day, while solar dimming is more effective over extra-tropical regions.",
+    "readLink": "https://www.atmos-chem-phys.net/18/10133/2018/acp-18-10133-2018.pdf"
+  },
+  null,
+  {
+    "title": "Change of Flow and Sediment Transport in the Lower Min River in Southeastern China under the Impacts of Climate Variability and Human Activities",
+    "authors": [
+      "Wen Wang,",
+      "Tianyue Wang,",
+      "Wei Cui,",
+      "Ying Yao,",
+      "Fuming Ma,",
+      "Benyue Chen,",
+      "Jing Wu"
+    ],
+    "doi": "https://doi.org/10.3390/w13050673",
+    "journalVolume": "Vol. 13,\n                                no. 673\n                                \n                                  p.\n                                  673",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Min River is the largest river in Fujian Province in southeastern China. The construction of a series of dams along the upper reaches of the Min River, especially the Shuikou Dam, which started filling in 1993, modified the flow processes at the lower Min River, leading to the significant increase in low-flows and slightly decrease in flood-flows. At the same time, reservoirs have more effects on the sediment transport process than flow process by trapping most sediment in the reservoirs, and greatly reduced the amount of sediment transporting downstream. Increase in vegetation cover also contributes to the decrease in sediment yield. The reduction in sediment together with excessive sand mining in the lower Min River resulted in the severe downward erosion of the riverbed. Using a reformulated elasticity approach to quantifying climatic and anthropogenic contributions to sediment changes, the relative contribution of precipitation variability and human activities to sediment reduction in the lower Min River are quantified, which shows that the sediment reduction is fully caused by human activities (including land use/land cover changes and dam construction).",
+    "readLink": "https://www.mdpi.com/2073-4441/13/5/673"
+  },
+  {
+    "title": "Strategic pathways and regulatory choices for effective GHG reduction in hydrocarbon based economy: Case of Oman",
+    "authors": [
+      "Yassine Charabi,",
+      "Talal Al-Awadhi,",
+      "B.S. Choudri"
+    ],
+    "doi": "Vol. 4\n                                \n                                \n                                  pp.\n                                  653\n                                  – 659",
+    "issn": "2352-4847 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/energy-reports/",
+    "abstract": "The sultanate of Oman is a high-income country with economy dominated by hydrocarbon production accounting for 47.2% of GDP in 2014. Of the total, crude oil production contributed 43.8% to GDP while natural gas output accounted for contributed 3.4% of economic output. The sustained economic growth, urban sprawl and industrialization have maintained a continuous rising in energy demand. The consumption of oil and natural gas has doubled and tripled respectively, over the last decade. The diversification of the economy faces concerns about future energy security as conventional fossil fuel resources dwindle and its young population continues to grow rapidly. Oman faces the challenge of harmonizing its aspirations for rapid economic growth with a pressing need to address low-carbon, climate-resilient development. Internationally, Oman has voluntarily agreed to reduce GHG emissions 2% by 2030. The diversifications of the economy away from hydrocarbons requires an ambitious plan to diversify Oman’s energy mix while driving economic growth and technological innovation. Specifically, this paper focuses on providing an objective strategic pathways and regulatory choices that can serve as a starting point for policy makers when discussing how best to achieve GHG emission reductions in Oman. This study intentionally focus on the energy sector, the sector responsible for the largest share of GHG emissions in Oman. Keywords: Oman, Hydrocarbon economy, Pathways, GHG reduction, Climate change mitigation",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352484718301409"
+  },
+  {
+    "title": "Paleoenvironmental Changes for the Last 3000 Cal Years BP in the Pueyrredón Lake Basin, Southern Patagonia, Argentina",
+    "authors": [
+      "Maria A. Marcos,",
+      "Florencia P. Bamonte,",
+      "Marcos E. Echeverria,",
+      "Gonzalo D. Sottile,",
+      "Maria V. Mancini"
+    ],
+    "doi": "https://doi.org/10.3390/quat5040049",
+    "journalVolume": "Vol. 5,\n                                no. 49\n                                \n                                  p.\n                                  49",
+    "issn": "2571-550X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Anthropology: Physical anthropology. Somatology: Human evolution",
+      "Science: Geology: Stratigraphy"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/quaternary",
+    "abstract": "Patagonian shrub and ecotonal communities were sensitive to past environmental changes and thus may also be affected by future ones. Therefore, their paleoecological study constitutes a valuable tool to understand the way in which these plant communities respond to the forcings responsible for environmental variability. The aim of this paper is to reconstruct the vegetation dynamics of the Pueyrredón Lake area (47°25′55′′ S; 72°0.7′7′′ W) for the last 3000 cal yr BP and to contextualize these changes in a regional paleoclimatic framework. The results indicate that at the beginning of the 2900 cal yr BP, the vegetation in the northwest of Santa Cruz, Argentinian Patagonia, was represented by a grass-shrub steppe associated with forest–shrub steppe ecotonal elements. This information correlates with the larger-scale environmental inferences described for the period, which indicate an increase in moisture availability due to the weakening of the westerly winds. A marked change to arid conditions is indicated in the last 1050 cal yr BP, with the establishment and development of different shrub steppe communities and the lack of ecotonal elements. Although vegetation was sensitive to changes in moisture conditions related to the variability of the westerly winds, there is evidence of differences in the composition of shrub vegetation regarding the sequences analyzed. Variations in pollen proportions of the shrub steppes in the Pueyrredón Lake area suggest that changes in vegetation are not only due to climate variability but also local factors in the areas where shrub communities grow. The integration of the information with other Patagonian sequences allowed to frame these changes in a regional context. The results obtained provide useful information to understand the way vegetation changed in the past and the manner in which it may respond to future changes.",
+    "readLink": "https://www.mdpi.com/2571-550X/5/4/49"
+  },
+  {
+    "title": "Investigating the Effect of Heat Waves on the Intensification of Thermal Islands in Sanandaj City From 1989 to 2018",
+    "authors": [
+      "R. Maleki Meresht,",
+      "B. Sobhani,",
+      "M. Moradi"
+    ],
+    "doi": "https://doi.org/10.22067/jsw.2021.71049.1061",
+    "journalVolume": "Vol. 35,\n                                no. 5\n                                \n                                  pp.\n                                  735\n                                  – 747",
+    "issn": "2008-4757 (Print)",
+    "publisher": "2423-396X (Online)",
+    "countryOfPublisher": "Ferdowsi University of Mashhad",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Agriculture: Agriculture (General)",
+      "Technology: Hydraulic engineering: Irrigation engineering. Reclamation of wasteland. Drainage"
+    ],
+    "journalUrl": "http://jsw.um.ac.ir/en",
+    "abstract": "Introduction: Heat waves (HWs) are one of the most important climatic disasters that have devastating environmental consequences in nature every year). The purpose of this study is investigation of the effect of heat waves on the intensification of thermal islands in Sanandaj city from 1989 to 2018. The constant rise in temperature of the city as an urban heat island and the sudden occurrence of HW's as one of the major climatic hazards, is an important concern of urban management policy makers; because intensify heat of this city and cause a lot of environmental damage. Materials and Methods: In order to identify HWs in Sanandaj city, from 1989 to 2018, by using Fumiaki Index and MATLAB software, days whit temperature above +2 standard deviation or above the mean Normalized Thermal Deviation (NTD) that lasted at least two days, were identified as the day with HWs and calculated by equation 1. (1) Where, T (i, j, n) is temperature of day ith from month jth in year nth indicates the average temperature of day i from month j. To eliminate the noise in the mean, a 9-day moving average filter was performed on these data three times and calculated by the following equation. (2) Where, ∆T= (i, j, n) indicates absolute deviation of temperature from the average on day jth of the month i th, in year n th compared to the average temperature of the same day. In order to the values of temperature deviation of different times and places to be comparable at a certain time and place, it is necessary to standardize these absolute values of temperature deviation by means of temperature diffraction. Like day-to-day changes, diffuse T∆ at 31 days for each day is calculated by the following equation. (3) The value is the average temperature deviation in 31 days that is calculated by the following equation. (4) Finally, (NTD) is calculated by the following equation. (5) Where .Then in MATLAB software, days with temperatures +2 above average (NTD) and lasting at least two days, were selected as the day with the HW. (6) Then the thermal island was calculated in Sanandaj city using Equation 7. SUHI= MLSTurban –FLSTrural (7) Where, SUHI is the island surface heat index, MLSTurban and FLSTrural are the average surface temperature of urban and rural areas, respectively. Results and Discussion: The results showed that, during the study period (1989-2008), the highest frequency of HW hazards in this city was in September, February, March, and October 1991. The maximum duration of HWs was 6 days, which occurred in December 2017 and 2005, therefore long-term HWs have been experienced in this city. Results also showed, in both HW and NHW conditions, in the hot and cold months of the year, often a cold island is formed in the city center during the day and a heat island is formed at night. Results also showed that short-time heat waves have been effective in intensifying heat islands. Examination of the intensity of thermal islands in this city showed that during the day in both HW and NHW conditions, which in the HW conditions dominance of the cold island compared to normal day, it has been reduced and in the last months of winter (February), even during the day, a heat island has been created in the center of the city. At night time, in both HW and NHW conditions, a heat island was created in Sanandaj center, but the intensity of night- time heat islands in HW conditions is often significantly higher than normal conditions especially in the winter. Investigation of the condition of thermal islands in the warm months of the year showed that in both HWs, a cold island has been created in the city center that the intensity of cold islands during the HW conditions, especially in the summer months, was often higher than NHW conditions. At night time, there was often a heat island in the city center that was more intense than normal day. Also, in HW conditions, wind speed and especially relative humidity has decreased significantly more than the cold months of the year. Conclusion: According to the results the highest incidence of HW hazards occurred in the winter and early spring. Also, long-term (6-days) HW occurred in this period. The increasing trend, frequency and continuation of HW, especially in the cold months of the year, can be the effects of climate change and global warming. Severe and continuous HWs occurred in Sanandaj city, especially in late winter, can cause early germination and flowering of crops and gardens and it will negatively affect agriculture and horticulture and will lead to great economic losses. The effects of HWs on heat islands occurred in the suburbs due to having a clear sky without pollution, with minimal vegetation and lack of surface water resources and ground with low heat capacity is affected by HWs faster than the city center and as the land surface around the city becomes warmer than its center, a cold island is formed in the city center. At night, the suburbs due to low heat capacity, lose absorbed heat faster and as a result, the heat island is formed in the city center. In general, the occurrence of heat waves in the intensification of thermal islands in the Sanandaj city, especially in the warm months of the year, has a significant effect, and it is likely to intensify in the coming decades, especially at night during the hot months of the year.",
+    "readLink": "https://jsw.um.ac.ir/article_40632_93401cb1c8e87b7ea7304453883d816d.pdf"
+  },
+  {
+    "title": "Determining regional limits and sectoral constraints for water use",
+    "authors": [
+      "T. K. Lissner,",
+      "C. A. Sullivan,",
+      "D. E. Reusser,",
+      "J. P. Kropp"
+    ],
+    "doi": "https://doi.org/10.5194/hess-18-4039-2014",
+    "journalVolume": "Vol. 18,\n                                no. 10\n                                \n                                  pp.\n                                  4039\n                                  – 4052",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Water is an essential input to the majority of human activities. Often, access to sufficient water resources is limited by quality and infrastructure aspects, rather than by resource availability alone, and each activity has different requirements regarding the nature of these aspects. This paper develops an integrated approach to assess the adequacy of water resources for the three major water users: the domestic, agricultural and industrial sectors. Additionally, we include environmental water requirements. We first outline the main determinants of water adequacy for each sector. Subsequently, we present an integrated approach using fuzzy logic, which allows assessing sector-specific as well as overall water adequacy. We implement the approach in two case study settings to exemplify the main features of the approach. Using results from two climate models and two forcing RCPs (representative concentration pathways), as well as population projections, we further assess the impacts of climate change in combination with population growth on the adequacy of water resources. The results provide an important step forward in determining the most relevant factors, impeding adequate access to water, which remains an important challenge in many regions of the world. The methodology allows one to directly identify the factors that are most decisive in determining the adequacy of water in each region, pointing towards the most efficient intervention points to improve conditions. Our findings underline the fact that, in addition to water volumes, water quality is a limitation for all sectors and, especially for the environmental sector, high levels of pollution are a threat to water adequacy.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/18/4039/2014/hess-18-4039-2014.pdf"
+  },
+  {
+    "title": "Historical and contemporary climate legacy of the large-scale distributional patterns of plant richness across different taxonomic levels: An assessment of protected areas in China",
+    "authors": [
+      "Chun-Jing Wang,",
+      "Ji-Zhong Wan"
+    ],
+    "doi": "https://doi.org/10.17129/botsci.2211",
+    "journalVolume": "Vol. 97,\n                                no. 3",
+    "issn": "2007-4298 (Print)",
+    "publisher": "2007-4476 (Online)",
+    "countryOfPublisher": "Sociedad Botánica de México, A. C.",
+    "lcc": [
+      "Mexico",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.botanicalsciences.com.mx/",
+    "abstract": "Background: Historical and contemporary climates may shape the distributional patterns of plant species richness across different scales. However, few studies have focused on the effects of historical and contemporary climate changes on the distributional patterns of plant richness in Chinese protected areas across different taxonomic levels. Hypotheses: Historical and contemporary climates can have an important legacy effect on the large-scale distributional patterns of plant richness across different taxonomic levels. Studied species: Vascular plants. Study site: China. Method: We used data on plant richness at the family, genus, and species levels from Chinese protected areas and applied regression modelling to explore the relationships between climate change and plant richness among vascular, fern, seed, gymnosperm, and angiosperm plants based on paleoclimate (Last Glacial Maximum; LGM, ca. 22,000 years ago) and contemporary climate data. Results: The large-scale distributional patterns of plant richness could be predicted across different taxonomic levels on the basis of paleoclimate and contemporary climate data. Specifically, historical and contemporary climate variables were found to better correlate with fern plant richness than seed plant richness. For seed plants, the explanatory power of historical and contemporary climate variables was found to be stronger for the richness of gymnosperms than for the richness of angiosperms. Conclusions: The distributional pattern of plant richness could be predicted across different taxonomic levels after including paleoclimate (LGM, ca. 22,000 years ago) and contemporary climate data from China. Our study could support the effectiveness of the management of protected areas in China.",
+    "readLink": "https://www.botanicalsciences.com.mx/index.php/botanicalSciences/article/view/2211"
+  }
+]

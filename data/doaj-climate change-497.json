@@ -1,0 +1,238 @@
+[
+  {
+    "title": "Responses of an Agricultural Soil Microbiome to Flooding with Seawater after Managed Coastal Realignment",
+    "authors": [
+      "Kamilla S. Sjøgaard,",
+      "Thomas B. Valdemarsen,",
+      "Alexander H. Treusch"
+    ],
+    "doi": "https://doi.org/10.3390/microorganisms6010012",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  p.\n                                  12",
+    "issn": "2076-2607 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/microorganisms",
+    "abstract": "Coastal areas have become more prone to flooding with seawater due to climate-change-induced sea-level rise and intensified storm surges. One way to cope with this issue is by “managed coastal realignment”, where low-lying coastal areas are no longer protected and instead flooded with seawater. How flooding with seawater impacts soil microbiomes and the biogeochemical cycling of elements is poorly understood. To address this, we conducted a microcosm experiment using soil cores collected at the nature restoration project site Gyldensteen Strand (Denmark), which were flooded with seawater and monitored over six months. Throughout the experiment, biogeochemical analyses, microbial community fingerprinting and the quantification of marker genes documented clear shifts in microbiome composition and activity. The flooding with seawater initially resulted in accelerated heterotrophic activity that entailed high ammonium production and net removal of nitrogen from the system, also demonstrated by a concurrent increase in the abundances of marker genes for ammonium oxidation and denitrification. Due to the depletion of labile soil organic matter, microbial activity decreased after approximately four months. The event of flooding caused the largest shifts in microbiome composition with the availability of labile organic matter subsequently being the most important driver for the succession in microbiome composition in soils flooded with seawater.",
+    "readLink": "http://www.mdpi.com/2076-2607/6/1/12"
+  },
+  {
+    "title": "Key Environmental Impacts along the Mediterranean Coast of Israel in the Last 100 Years",
+    "authors": [
+      "Ehud Spanier,",
+      "Dov Zviely"
+    ],
+    "doi": "https://doi.org/10.3390/jmse11010002",
+    "journalVolume": "Vol. 11,\n                                no. 2\n                                \n                                  p.\n                                  2",
+    "issn": "2077-1312 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Naval Science: Naval architecture. Shipbuilding. Marine engineering",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/jmse",
+    "abstract": "In the last 100 years, the population of the land of Israel has increased dramatically, accompanied by a very intense and accelerated economic and industrial growth. The objective of the present review is to reveal how these major changes have affected the Mediterranean marine and coastal environment. The present review analyzes the global, regional, and local factors and processes that cause substantial environmental changes affecting a variety of marine habitats and taxa. During the past century these include: (1) seawater warming that enhances the considerable introduction and establishment of non-indigenous tropical, i.e., Lessepsian, species; (2) overfishing of native biota that seems to contribute to this process; (3) sea-level rise, associated with climate change, which may threaten the sensitive intertidal abrasion platforms; (4) chemical, noise, and light pollution and marine debris; (5) massive sand mining from the beaches, which caused severe erosion in many coastal sections and was banned in Israel in 1964; (6) extensive dredging in the sea, mainly related to the construction and development of large ports, which can be detrimental for the benthic biota, especially in rocky substrates; and (7) marine structures (harbors, marinas, detached breakwaters) that interfere with the natural pattern of sand transport along the coast and cause morphological changes (sand erosion or accumulation) on nearby beaches and the seabed. Israel’s coast is presently characterized by intense anthropogenic activity and many stakeholders with considerable conflicts between them and with the marine ecosystem. A few environmental impacts have ceased, and others have been reduced considerably, but the extent of many additional types have increased significantly, and new impacts have appeared in recent years. Some environmental impacts are beyond our control, and others can be reduced by proper management, but it is predicted that certain major environmental impacts, such as Lessepsian migration, will continue in the future at enhanced rates.",
+    "readLink": "https://www.mdpi.com/2077-1312/11/1/2"
+  },
+  {
+    "title": "Inclusion of a cold hardening scheme to represent frost tolerance is essential to model realistic plant hydraulics in the Arctic–boreal zone in CLM5.0-FATES-Hydro",
+    "authors": [
+      "M. S. A. Lambert,",
+      "H. Tang,",
+      "H. Tang,",
+      "H. Tang,",
+      "K. S. Aas,",
+      "K. S. Aas,",
+      "F. Stordal,",
+      "R. A. Fisher,",
+      "Y. Fang,",
+      "J. Ding,",
+      "F.-J. W. Parmentier,",
+      "F.-J. W. Parmentier"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-15-8809-2022",
+    "journalVolume": "Vol. 15\n                                \n                                \n                                  pp.\n                                  8809\n                                  – 8829",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "As temperatures decrease in autumn, vegetation of temperate and boreal ecosystems increases its tolerance to freezing. This process, known as hardening, results in a set of physiological changes at the molecular level that initiate modifications of cell membrane composition and the synthesis of anti-freeze proteins. Together with the freezing of extracellular water, anti-freeze proteins reduce plant water potentials and xylem conductivity. To represent the responses of vegetation to climate change, land surface schemes increasingly employ “hydrodynamic” models that represent the explicit fluxes of water from soil and through plants. The functioning of such schemes under frozen soil conditions, however, is poorly understood. Nonetheless, hydraulic processes are of major importance in the dynamics of these systems, which can suffer from, e.g., winter “frost drought” events. In this study, we implement a scheme that represents hardening into CLM5.0-FATES-Hydro. FATES-Hydro is a plant hydrodynamics module in FATES, a cohort model of vegetation physiology, growth, and dynamics hosted in CLM5.0. We find that, in frozen systems, it is necessary to introduce reductions in plant water loss associated with hardening to prevent winter desiccation. This work makes it possible to use CLM5.0-FATES-Hydro to model realistic impacts from frost droughts on vegetation growth and photosynthesis, leading to more reliable projections of how northern ecosystems respond to climate change.",
+    "readLink": "https://gmd.copernicus.org/articles/15/8809/2022/gmd-15-8809-2022.pdf"
+  },
+  {
+    "title": "Semi-Automated Analysis of Digital Photographs for Monitoring East Antarctic Vegetation",
+    "authors": [
+      "Diana H. King,",
+      "Diana H. King,",
+      "Jane Wasley,",
+      "Jane Wasley,",
+      "Michael B. Ashcroft,",
+      "Ellen Ryan-Colton,",
+      "Ellen Ryan-Colton,",
+      "Arko Lucieer,",
+      "Laurie A. Chisholm,",
+      "Sharon A. Robinson,",
+      "Sharon A. Robinson"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2020.00766",
+    "journalVolume": "Vol. 11",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Climate change is affecting Antarctica and minimally destructive long-term monitoring of its unique ecosystems is vital to detect biodiversity trends, and to understand how change is affecting these communities. The use of automated or semi-automated methods is especially valuable in harsh polar environments, as access is limited and conditions extreme. We assessed moss health and cover at six time points between 2003 and 2014 at two East Antarctic sites. Semi-automatic object-based image analysis (OBIA) was used to classify digital photographs using a set of rules based on digital red, green, blue (RGB) and hue-saturation-intensity (HSI) value thresholds, assigning vegetation to categories of healthy, stressed or moribund moss and lichens. Comparison with traditional visual estimates showed that estimates of percent cover using semi-automated OBIA classification fell within the range of variation determined by visual methods. Overall moss health, as assessed using the mean percentages of healthy, stressed and moribund mosses within quadrats, changed over the 11 years at both sites. A marked increase in stress and decline in health was observed across both sites in 2008, followed by recovery to baseline levels of health by 2014 at one site, but with significantly more stressed or moribund moss remaining within the two communities at the other site. Our results confirm that vegetation cover can be reliably estimated using semi-automated OBIA, providing similar accuracy to visual estimation by experts. The resulting vegetation cover estimates provide a sensitive measure to assess change in vegetation health over time and have informed a conceptual framework for the changing condition of Antarctic mosses. In demonstrating that this method can be used to monitor ground cover vegetation at small scales, we suggest it may also be suitable for other extreme environments where repeat monitoring via images is required.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2020.00766/full"
+  },
+  {
+    "title": "Alteration of alpha and beta diversity in nekton community by extreme marine heatwave events: An example from the East China Sea",
+    "authors": [
+      "Zunlei Liu,",
+      "Zunlei Liu,",
+      "Linlin Yang,",
+      "Linlin Yang,",
+      "Liping Yan,",
+      "Liping Yan,",
+      "Hui Zhang,",
+      "Hui Zhang,",
+      "Yi Zhang,",
+      "Yi Zhang,",
+      "Min Xu,",
+      "Min Xu,",
+      "Yan Jin,",
+      "Yan Jin,",
+      "Jiahua Cheng,",
+      "Jiahua Cheng"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.1036047",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "In the year of 2016 to 2017, record-breaking marine heatwave (MHW) events occurred along the Chinese coast, exerting severe impacts on coastal fishes and fisheries. However, the response of the nekton community to MHW events still remains poorly understanding. Thus, to investigate the influences of the MHW events on species composition dynamics, this study conducted a survey on nekton communities in the northern East China Sea in the summers during 2014 to 2017. The recently-developed “heatwaveR” package was adopted to describe the variation characteristics of heatwaves within the study area, based on high-resolution remote-sensing sea surface temperature products. We also compared variations in the community structures of different biological groups before (2014–2015) and during the occurrence of the MHW events (2016–2017). During the MHW events, temperature increased by approximately 2.3°C in both 2016 and 2017. Compared with those before the MHW events, the biomass and dominance of several important crustaceans decreased, and the biomass of warm water affinity species increased significantly, while their richness and diversity decreased; the biomass of warm temperature affinity species declined significantly, while their diversity increased slightly. These results show the difference in the response rates of species with different thermal preferences and different species compositions to the extreme climate change. Beta diversity analysis revealed that the inter-group variation before and during the MHW event exceeded the intra-group variation, proving that MHWs changed the community structure to a certain extent. PERMANOVA test showed that the species compositions of planktivorous fish (FG1) and small-omnivorous fish (FG2) in the feeding-functional groups were significantly different before and during the MHW event, which may be attributed to the impact of MHWs on oligotrophic fishes through thermal preference and the trophic cascade effect. There was no significant change in the species compositions of other functional groups, indicating that medium-trophic and eutrophic fishes possessed certain adaptability to MHWs. Regarding fisheries management under extreme warming events, it would be advisable to diagnose temperature anomalies in the early stage, monitor changes in species abundance in the early life cycle, and then rapidly develop suitable fishing strategies.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.1036047/full"
+  },
+  {
+    "title": "The centrality of social ties to climate migration and mental health",
+    "authors": [
+      "Jacqueline M. Torres,",
+      "Joan A. Casey"
+    ],
+    "doi": "https://doi.org/10.1186/s12889-017-4508-0",
+    "journalVolume": "Vol. 17,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "1471-2458 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://bmcpublichealth.biomedcentral.com",
+    "abstract": "Abstract Climate change-related hazards and disasters, known to adversely impact physical and mental health outcomes, are also expected to result in human migration above current levels. Environmentally-motivated migration and displacement may lead to the disruption of existing social ties, with potentially adverse consequences for mobile populations as well as their family members who remain in places of origin. We propose that the disruption of social ties is a key mechanism by which climate-related migration may negatively impact mental health, in particular. Existing social ties may provide social and material resources that buffer mental health stressors related to both prolonged and acute climate events. Preparation for such events may also strengthen these same ties and protect mental health. Communities may leverage social ties, first to mitigate climate change, and second, to adapt and rebuild post-disaster in communities of origin. Additionally, social ties can inform migration decisions and destinations. For example, scholars have found that the drought-motivated adaptive migration of West African Fulbe herders only occurred because of the long-term development of social networks between migrants and non-migrants through trade and seasonal grazing. On the other hand, social ties do not always benefit mental health. Some migrants, including those from poor regions or communities with no formal safety net, may face considerable burden to provide financial and emotional resources to family members who remain in countries of origin. In destination communities, migrants often face significant social marginalization. Therefore, policies and programs that aim to maintain ongoing social ties among migrants and their family and community members may be critically important in efforts to enhance population resilience and adaptation to climate change and to improve mental health outcomes. Several online platforms, like Refugee Start Force, serve to integrate refugees by connecting migrants directly to people and services in destination communities. These efforts may increasingly draw upon novel technologies to support and maintain social networks in the context of population mobility due to climatic and other factors.",
+    "readLink": "http://link.springer.com/article/10.1186/s12889-017-4508-0"
+  },
+  {
+    "title": "Understanding the recent trend of haze pollution in eastern China: roles of  climate change",
+    "authors": [
+      "H.-J. Wang,",
+      "H.-J. Wang,",
+      "H.-J. Wang,",
+      "H.-P. Chen,",
+      "H.-P. Chen,",
+      "H.-P. Chen"
+    ],
+    "doi": "https://doi.org/10.5194/acp-16-4205-2016",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  4205\n                                  – 4211",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "In this paper, the variation and trend of haze pollution in eastern China for winter of 1960–2012 were analyzed. With the overall increasing number of winter haze days in this period, the 5 decades were divided into three sub-periods based on the changes of winter haze days (WHD) in central North China (30–40° N) and eastern South China (south of 30° N) for east of 109° E mainland China. Results show that WHD kept gradually increasing during 1960–1979, remained stable overall during 1980–1999, and increased fast during 2000–2012. The author identified the major climate forcing factors besides total energy consumption. Among all the possible climate factors, variability of the autumn Arctic sea ice extent, local precipitation and surface wind during winter is most influential to the haze pollution change. The joint effect of fast increase of total energy consumption, rapid decline of Arctic sea ice extent and reduced precipitation and surface winds intensified the haze pollution in central North China after 2000. There is a similar conclusion for haze pollution in eastern South China after 2000, with the precipitation effect being smaller and spatially inconsistent.",
+    "readLink": "https://www.atmos-chem-phys.net/16/4205/2016/acp-16-4205-2016.pdf"
+  },
+  {
+    "title": "Thermal tolerance of adult greenbug, Schizaphis graminum: Different role of sugars and polyols",
+    "authors": [
+      "Fatemeh Saeidi,",
+      "Azam Mikani,",
+      "Saeid Moharramipour"
+    ],
+    "doi": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  95\n                                  – 105",
+    "issn": "2251-9041 (Print)",
+    "publisher": "2251-905X (Online)",
+    "countryOfPublisher": "University of Tarbiat Modares",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Agriculture"
+    ],
+    "journalUrl": "https://jcp.modares.ac.ir/",
+    "abstract": "The Greenbug Schizaphis graminum (Rondani), one of the major pests of cereals, overwinter as adults and nymphs in temperate regions. The aphid population increases in early spring as the weather conditions become favorable, but it gradually decreases in mid-June as air temperature rises. Adult aphid colonies were acclimated to measure cold tolerance at 20, 15, 10, 5, and 0 °C for one week. In contrast, other colonies were acclimated to measure heat tolerance at 20, 25, and 30 °C for one week and 35 °C for two days. Then, the lowest temperature resulting in 50% mortality (LLT50) and the highest temperature resulting in 50% mortality (ULT50) of tested populations were defined. Moreover, changes of sugars and polyols were studied at the end of each thermal regime. The lowest LLT50 was -13.2 °C at 0 °C and the highest ULT50 was 40.1 °C at 35 °C. In the cold acclimation condition, glucose was the highest at 0 °C and reached to 80.9 µmol/g f.w. However, in the heat acclimation condition, the mannitol was the highest at 35 °C and reached to 43.7 µmol/g f.w. Findings indicate that high temperatures due to climate change could be a threat to aphid population size and distribution.",
+    "readLink": "http://jcp.modares.ac.ir/article-3-45807-en.html"
+  },
+  {
+    "title": "Urban flood regulating ecosystem services under climate change: how can Nature-based Solutions contribute?",
+    "authors": [
+      "Thea Wübbelmann,",
+      "Thea Wübbelmann,",
+      "Kristian Förster,",
+      "Kristian Förster,",
+      "Laurens M. Bouwer,",
+      "Claudia Dworczyk,",
+      "Steffen Bender,",
+      "Benjamin Burkhard,",
+      "Benjamin Burkhard"
+    ],
+    "doi": "https://doi.org/10.3389/frwa.2023.1081850",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-9375 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/water#",
+    "abstract": "Urban areas are mostly highly sealed spaces, which often leads to large proportions of surface runoff. At the same time, heavy rainfall events are projected to increase in frequency and intensity with anthropogenic climate change. Consequently, higher risks and damages from pluvial flooding are expected. The analysis of Flood Regulating Ecosystem Services (FRES) can help to determine the benefits from nature to people by reducing surface runoff and runoff peaks. However, urban FRES are rarely studied for heavy rainfall events under changing climate conditions. Therefore, we first estimate the functionality of current urban FRES-supply and demand under changing climate conditions. Second, we identify the effects of Nature-based Solutions (NbS) on FRES-supply and demand and their potential future functionality and benefits concerning more intensive rainfall events. A district of the city of Rostock in northeastern Germany serves as the case study area. In addition to the reference conditions based on the current land use, we investigate two potential NbS: (1) increasing the number of trees; and (2) unsealing and soil improvement. Both NbS and a combination of both are applied for three heavy rainfall scenarios. In addition to a reference scenario, two future scenarios were developed to investigate the FRES functionality, based on 21 and 28% more intense rainfall. While the potential FRES-demand was held constant, we assessed the FRES-supply and actual demand for all scenario combinations, using the hydrological model LEAFlood. The comparison between the actual demand and supply indicates the changes in FRES-supply surplus and unmet demand increase. Existing land use structures reached a FRES capacity and cannot buffer more intense rainfall events. Whereas, the NbS serve FRES benefits by increasing the supply and reducing the actual demand. Using FRES indicators, based on hydrological models to estimate future functionality under changing climate conditions and the benefits of NbS, can serve as an analysis and decision-support tool for decision-makers to reduce future urban flood risk.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frwa.2023.1081850/full"
+  },
+  {
+    "title": "Agricultural decision system based on advanced machine learning models for yield prediction: Case of East African countries",
+    "authors": [
+      "Rubby Aworka,",
+      "Lontsi Saadio Cedric,",
+      "Wilfried Yves Hamilton Adoni,",
+      "Jérémie Thouakesseh Zoueu,",
+      "Franck Kalala Mutombo,",
+      "Charles Lebon Mberi Kimpolo,",
+      "Tarik Nahhal,",
+      "Moez Krichen"
+    ],
+    "doi": "Vol. 2\n                                \n                                \n                                  p.\n                                  100048",
+    "issn": "2772-3755 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Agriculture: Agriculture (General)",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Agricultural industries"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/smart-agricultural-technology",
+    "abstract": "Food security has become a real challenge for some organizations in charge of the food program and for the majority of countries, especially African countries. The United Nations Organizations’ has recently defined the end of hunger and the improvement of food security in 2030 as its primary goal. Improving food security could also pass through the handling of agricultural yield. Agricultural yield is affected by climate changes since this latest decade. Climate change is considered one of the major threats to agricultural development in Africa. Decision-making level and farmers need efficient analytical tools to help them in decision making. Machine learning has become an impressive predictive analytical tool for large volume of data. It has been used in many domains such as medicine, finance, sport, and recently in agriculture. In this work, we propose three crop prediction models : Crop Random Forest, Crop Gradient Boosting Machine and Crop Support Vector Machine. We combine climate data, crop production data, and pesticides data to develop a decision system based on advanced machine learning models. Despite the poor availability of data related to agriculture in Africa, we were able to propose a decision system able to predict the crop yield at the country level in fourteen East African countries. Our experimental results show that the three proposed machine learning models fit well the crop data with a high accuracy R2. The Root Mean Square Error (RMSE) and Mean Absolute Percentage Error (MAPE) associated to our models are very minimal because the agricultural prediction values are very close to reality. Our proposed models are reliable and generalize well the agricultural predictions in East Africa.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2772375522000156"
+  }
+]

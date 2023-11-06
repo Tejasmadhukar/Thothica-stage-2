@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Understanding Corporate Sustainability Disclosures from the Securities Exchange Commission Filings",
+    "authors": [
+      "Wullianallur Raghupathi,",
+      "Sarah Jinhui Wu,",
+      "Viju Raghupathi"
+    ],
+    "doi": "https://doi.org/10.3390/su15054134",
+    "journalVolume": "Vol. 15,\n                                no. 4134\n                                \n                                  p.\n                                  4134",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "As sustainability becomes fundamental to companies, voluntary and mandatory disclosures or corporate sustainability practices have become a key source of information for various stakeholders, including regulatory bodies, environmental watchdogs, nonprofits and NGOs, investors, shareholders, and the public at large. Understanding sustainability practices by analyzing a large volume of disclosures poses major challenges, given that the information is mostly in the form of text. Applying machine learning and text analytic methods, we analyzed approximately 25,428 disclosure reports for the period of 2011 to 2020, extracted from the Securities and Exchange Commission (SEC) filings and made available at the Ceres website via application programming interfaces (APIs). Our study identified six industry clusters from the K-means and six main topics from the latent Dirichlet allocation (LDA) method that related to the disclosure of climate-change-related environmental concerns. Both methods produced overlapping results that further reinforce and enhance our understanding of climate-change-related disclosure at various levels, such as sector, industry, and topic. Our analysis shows that companies are concerned primarily with the topics of gas emission, carbon risk, climate change, loss and damage, renewable energy, and financial impact when disclosing climate-change-related issues to the government. The study has implications for corporate sustainability practices, the communication and dissemination of such practices to stakeholders at large and furthering our understanding of sustainability in general.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/5/4134"
+  },
+  {
+    "title": "Contribution of MODIS image to hydrologic and erosion modeling",
+    "authors": [
+      "Nour El Houda Boughattas,",
+      "Safa Gammoudi,",
+      "Kaoula Abrougui,",
+      "Roua Amami,",
+      "Mohamed Saber Naceur"
+    ],
+    "doi": "https://doi.org/10.56027/JOASD.spiss302022",
+    "journalVolume": "Vol. 4,\n                                no. Special\n                                \n                                  pp.\n                                  224\n                                  – 230",
+    "issn": "2724-699X (Print)",
+    "publisher": "2724-7007 (Online)",
+    "countryOfPublisher": "Arid regions institute",
+    "lcc": [
+      "Tunisia",
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.joasdjournal.org/index.php/joasd",
+    "abstract": "Erosion is the most dangerous phenomenon of environmental and economic threat to arable land. By FAO. 35 % of Tunisian land are threatened by water erosion and varies regionally. Quantification and estimation of soil loss by water erosion is now essential to install the best management practices. In our study, we used a continuous physical based simulation version of a hydrological and water erosion model ANSWERS-2000. The aim of this study is to investigate the introduction of land use parameters extracted by MODIS image. This study is focused on El Azire watershed, is characterized by a moderate Mediterranean climate and a high spatial heterogeneity of soil and land use proprieties. Describing, monitoring, and predicting land-use and land-cover change in the watershed is a difficult process. However, the usefulness of MODIS image with their daily temporal resolution and spatial resolutions of 250 m and 500 m can make utilization of continuous physical-based models easier for great scale watersheds. A sensitivity analysis was conducted on each application such that the variability in erosion map output and can be assessed and incorporated into the interpretation of results with an acceptable level of confidence.",
+    "readLink": "https://www.joasdjournal.com/spiss302022"
+  },
+  {
+    "title": "Natural and Sustainable? Consumers’ Textile Fiber Preferences",
+    "authors": [
+      "Anna Schytte Sigaard,",
+      "Kirsi Laitala"
+    ],
+    "doi": "https://doi.org/10.3390/fib11020012",
+    "journalVolume": "Vol. 11,\n                                no. 12\n                                \n                                  p.\n                                  12",
+    "issn": "2079-6439 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology: Chemicals: Manufacture, use, etc.",
+      "Technology: Chemical technology: Textile bleaching, dyeing, printing, etc.",
+      "Science: Biology (General)",
+      "Science: Physics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/fibers/",
+    "abstract": "Textile fibers have become a major issue in the debate on sustainable fashion and clothing consumption. While consumers are encouraged to choose more sustainable and circular textile materials, studies have indicated that a reduction in production and consumption has the greatest potential to reduce the total environmental impact. This can be considered an ecocentric perspective with a focus on degrowth as opposed to a technocentric view where new technologies are expected to solve environmental problems while economic growth continues. Based on a survey in Norway (N = 1284), we investigate how the techno- and ecocentric perspectives impact Norwegian consumers’ fiber preferences and perceptions and the corresponding effects on their clothing consumption. We found that the majority of consumers preferred natural fibers compared to synthetic materials. This contradicts current market practices and the recommendations by material sustainability comparison tools such as the Higg Material Sustainability Index (MSI), where many synthetics receive better ratings than natural fibers. We also found that perceptions of high sustainability regarding fibers were negatively correlated with reduced consumption. Our study suggests that a continued focus on material substitution and other technological measures for reducing climate change will impede the move toward sustainability in the textile sector.",
+    "readLink": "https://www.mdpi.com/2079-6439/11/2/12"
+  },
+  {
+    "title": "Feasibility Study of Using Renewable Energies in the Water and Wastewater Industry (Case Study: Tehran Water and Wastewater Company)",
+    "authors": [
+      "Ensieh Ozgoli,",
+      "Younes Noorollahi,",
+      "Reza Arjmandi,",
+      "Ali Mohammadi"
+    ],
+    "doi": "https://doi.org/10.30501/jree.2020.226666.1099",
+    "journalVolume": "Vol. 7,\n                                no. 4\n                                \n                                  pp.\n                                  21\n                                  – 29",
+    "issn": "2423-5547 (Print)",
+    "publisher": "2423-7469 (Online)",
+    "countryOfPublisher": "Materials and Energy Research Center (MERC)",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://www.jree.ir/",
+    "abstract": "Climate change refers to any significant and long-term alterations in global or regional weather conditions. The impact of climate change on the industrial plans is enormous, while the water supply sector has been challenged to examine how it could continuously operate in the current situation. Optimization of energy consumption and reduction of Greenhouse Gases (GHG) emissions are some of the priorities of water companies. The objective of the study is to propose a novel evaluation approach to the feasibility of using renewable energies (solar, wind, and biomass) in the water and wastewater industry. Tehran Water and Wastewater Company consists of six regional districts and forecasting of its energy consumption, power costs, and carbon tax rates for the next ten years was done by using the regression model. The results indicated that increase in water supply and electricity consumption was evidenced by the increase in Tehran's annual population. GHG emissions were calculated in two scenarios, the first of which is based on the total supply of required electricity from conventional power plants and the second is on the generation of approximately one-third by renewable energies. In addition to the higher emissions of carbon dioxide (CO2) from diesel and oil power plants than the natural gas-fueled plants, by increasing the carbon tax to more than 30 USD per tonne of CO2, it is expected that the emissions will be reduced by 30 % in all fossil-fueled power plant types. Results showed that a small amount of tax was not effective in reducing GHG emissions.",
+    "readLink": "https://www.jree.ir/article_111081_d86fc79928e9308df2c9e9b25b459a19.pdf"
+  },
+  {
+    "title": "Hydrology of a Water‐Limited Forest under   Climate Change Scenarios: The Case of the   Caatinga Biome, Brazil",
+    "authors": [
+      "Everton Alves Rodrigues Pinheiro,",
+      "Quirijn de Jong van Lier,",
+      "Andre Herman Freire Bezerra"
+    ],
+    "doi": "https://doi.org/10.3390/f8030062",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  p.\n                                  62",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Given the strong interactions between climate and vegetation, climate change effects on natural and agricultural ecosystems are common objects of research. Reduced water availability is predicted to take place across large regions of the globe, including Northeastern Brazil. The Caatinga, a complex tropical water‐limited ecosystem and the only exclusively Brazilian biome, prevails as the main natural forest of this region. The aim of this study was to examine the soil‐water balance for this biome under a climate‐warming scenario and with reduced rainfall. Climate change projections were assessed from regional circulation models earlier applied to the Brazilian territory. A statistical climate data generator was used to compose a synthetic weather dataset, which was later integrated into a hydrological model. Compared to simulations with current climate for the same site, under the scenario with climate change, transpiration was enhanced by 36%, and soilwater evaporation and interception were reduced by 16% and 34%, respectively. The greatest change in soil‐water components was observed for deep drainage, accounting only for 2% of the annual rainfall. Soil‐plant‐atmosphere fluxes seem to be controlled by the top layer (0.0-0.2 m), which provides 80% of the total transpiration, suggesting that the Caatinga forest may become completely soil‐water pulse dominated under scenarios of reduced water availability.",
+    "readLink": "http://www.mdpi.com/1999-4907/8/3/62"
+  },
+  {
+    "title": "Improving agricultural knowledge management: The AgTrials experience [version 2; referees: 2 approved]",
+    "authors": [
+      "Glenn Hyman,",
+      "Herlin Espinosa,",
+      "Paola Camargo,",
+      "David Abreu,",
+      "Medha Devare,",
+      "Elizabeth Arnaud,",
+      "Cheryl Porter,",
+      "Leroy Mwanzia,",
+      "Kai Sonder,",
+      "Sibiry Traore"
+    ],
+    "doi": "https://doi.org/10.12688/f1000research.11179.2",
+    "journalVolume": "Vol. 6",
+    "issn": "2046-1402 (Online)",
+    "publisher": "F1000 Research Ltd",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://f1000research.com",
+    "abstract": "Background: Opportunities to use data and information to address challenges in international agricultural research and development are expanding rapidly. The use of agricultural trial and evaluation data has enormous potential to improve crops and management practices. However, for a number of reasons, this potential has yet to be realized. This paper reports on the experience of the AgTrials initiative, an effort to build an online database of agricultural trials applying principles of interoperability and open access. Methods: Our analysis evaluates what worked and what did not work in the development of the AgTrials information resource. We analyzed data on our users and their interaction with the platform. We also surveyed our users to gauge their perceptions of the utility of the online database. Results: The study revealed barriers to participation and impediments to interaction, opportunities for improving agricultural knowledge management and a large potential for the use of trial and evaluation data. Conclusions: Technical and logistical mechanisms for developing interoperable online databases are well advanced. More effort will be needed to advance organizational and institutional work for these types of databases to realize their potential.",
+    "readLink": "https://f1000research.com/articles/6-317/v2"
+  },
+  {
+    "title": "Use of growing degree indicator for developing adaptive responses: A case study of cotton in Florida",
+    "authors": [
+      "Anjali Sharma,",
+      "R. Deepa,",
+      "Sriramana Sankar,",
+      "Mikela Pryor,",
+      "Briyana Stewart,",
+      "Elijah Johnson,",
+      "Aavudai Anandhi"
+    ],
+    "doi": "Vol. 124\n                                \n                                \n                                  p.\n                                  107383",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Significant variabilities in planting and harvesting dates of crops have been observed throughout Florida in recent decades, indicating a change in their phenology. This study innovatively uses an agroecosystem indicator, growing degree days (GDD), to understand the change in cotton crop phenology throughout the region and develop adaptation strategies using the Driver‐Pressure‐State‐Impact‐Response (DPSIR) framework. GDD is the amount of heat absorbed by the growing stages of cotton. It is computed from temperature simulations obtained from the 21 models participating in the Coupled Model Inter-comparison Project Phase 5 (CMIP5) for the historical (1950–2005) and future scenarios (Representative concentration pathway (RCP) 8.5, 2006–2100) at a spatial resolution of 0.125°x0.125°. The future projections from the 21 models show an increase in surface temperature ranging from 3.5 °C to 5.5 °C. Additionally, the variability in dates for the different phenological stages shows an early occurrence of the simulation’s growth stages. Historically, the minimum and maximum ranges of trend shift towards the funnel’s negative side in the RCP 8.5 scenarios. The trends are estimated for two time-periods during historical (1950–1975 and 1976–2005) and future (2006–2050 and 2015–2100) periods of time. They ranged from −3.5 to 3.4 days per decade and −3.6 to 0 (no change) days per decade, respectively, among the six stages namely: emergence stage, the appearance of the first square, the appearance of the first flower, peak blooming, first open boll, and defoliation. Warming accelerated plant growth and shortened the growing period, which is translated to develop adaptation strategies for a climate-resilient crop production system, using casual chain/loops and the DPSIR framework. Identifying the multiple adaptation strategies for levels of adaptation and degree of climate change and variability can be used by different stakeholders and policymakers as a guide for making decisions to adapt cotton to climate change better. Although this methodology is applied to the cotton crop in Florida, it can be used for other crops and regions of the world.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X21000480"
+  },
+  {
+    "title": "Market Power and Technology Diffusion in an Energy-Intensive Sector Covered by an Emissions Trading Scheme",
+    "authors": [
+      "Bingxin Zeng,",
+      "Lei Zhu"
+    ],
+    "doi": "https://doi.org/10.3390/su11143870",
+    "journalVolume": "Vol. 11,\n                                no. 14\n                                \n                                  p.\n                                  3870",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The emissions trading scheme (ETS) has been long advocated to address climate change not only because it is cost effective but also because it can provide economic incentives for the adoption of new technologies. The emissions abatement of the energy-intensive sector covered by ETS is of great significance for the whole nation to attain sustainable and low-carbon development, especially for developing countries. This paper investigates the effect of market power in the emissions trading market on the diffusion of a new emissions abatement technology when firms in the energy-intensive sector interact in an imperfectly competitive output market. In the model, each firm needs to determine the optimal time to adopt the new emissions abatement technology, taking into account its benefits and costs, as well as its rival’s strategic behavior. With this framework, the results suggest that firms will delay adoption of the new emissions abatement technology in the presence of market power. Moreover, when the output demand is larger and more elastic, emissions abatement technology diffusion will occur earlier. It implies that the technology diffusion in the weak elastic sector, such as the Chinese iron and steel sector, may have more barriers than that in the strong elastic sector, such as the Chinese nonferrous metals sector.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/14/3870"
+  },
+  {
+    "title": "Kentteki Konum ve Ulaşımlarına Bağlı Olarak Stadyumların İklim Değişikliğine Etkisi: Türkiye Örneği",
+    "authors": [
+      "Ece Bülbül,",
+      "Ruşen Yamaçlı"
+    ],
+    "doi": "https://doi.org/10.29130/dubited.886227",
+    "journalVolume": "Vol. 9,\n                                no. 4\n                                \n                                  pp.\n                                  1447\n                                  – 1468",
+    "issn": "2148-2446 (Online)",
+    "publisher": "Düzce University",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "https://dergipark.org.tr/tr/pub/dubited",
+    "abstract": "Dünya Meteoroloji Örgütü 2019 yılına kadarki son 10 yılın dünya tarihinin en sıcak 10 yılı olduğunu açıklamıştır. Küresel ısınmanın sonucu olarak iklim de değişime uğramaktadır. Küresel iklim değişikliğine negatif etkide bulunan ve her geçen gün olumsuz etkisini hızlandıran sektörlerden biri ulaşımdır. Ulaşım sektörü, atmosferdeki sera gazı emisyonunun %23’lük bölümünü oluşturmaktadır. Atmosfere salınan sera gazının büyük çoğunluğunu CO2 gazı oluşturmaktadır. CO2 gazı miktarının artışı ise sıcaklık artışına, kuraklığa, buzulların erimesine, deniz suyu seviyesinin artmasına, sellere ve aşırı yağışlara neden olmaktadır. Atmosferdeki CO2 gazı seviyesinin artışına neden olan en büyük etmen insanların yapmış olduğu faaliyetlerdir. İnsan kaynaklı CO2 gazı üretiminin önemli bir kısmını ulaşım sektörü oluşturmaktadır. Tüm dünyada olduğu gibi Türkiye’de de futbol en fazla ilgi gösterilen spor dalıdır. Bu nedenle futbolun oynandığı stadyum yapıları da aynı derecede öneme sahiptir. Avrupa Futbol Şampiyonası, UEFA Şampiyonlar Ligi, Olimpiyat Oyunları gibi uluslararası organizasyonların düzenleneceği ülke konusunda yapılacak seçimlerde stadyumların sahip olduğu UEFA, FIFA, yeşil bina sertifikası kriterleri önemli olmaktadır. Bu kriterler enerji, su tasarrufu, geri dönüşüm gibi maddelerin yanı sıra bu çalışmanın konusu da olan stadyumların konumu ve ulaşımından oluşmaktadır. Bu noktada ulaşıma yılın belirli zamanlarında yüksek oranda katılım gösteren stadyumların kentteki konumuna dikkat çekmek gerekir. Bu çalışmada İzmir Atatürk Stadyumu, Konya Büyükşehir Belediye Stadyumu ve İstanbul Atatürk Olimpiyat Stadyumu’nun kentteki konumları ulaşım açısından değerlendirilmiştir. Bu değerlendirme sonucunda; stadyumların kent merkezinin dışında, otoyol ve ulaşım hatlarına yakın olacak şekilde tasarlanması ile atmosfere etki eden CO2 emisyonunun ulaşım kaynaklı etkisinin azalacağı tespit edilmiştir.",
+    "readLink": "https://dergipark.org.tr/tr/download/article-file/1599733"
+  },
+  {
+    "title": "Surface temperature response to regional black carbon emissions: do location and magnitude matter?",
+    "authors": [
+      "M. Sand,",
+      "T. K. Berntsen,",
+      "T. K. Berntsen,",
+      "A. M. L. Ekman,",
+      "A. M. L. Ekman,",
+      "H.-C. Hansson,",
+      "H.-C. Hansson,",
+      "A. Lewinschal,",
+      "A. Lewinschal"
+    ],
+    "doi": "https://doi.org/10.5194/acp-20-3079-2020",
+    "journalVolume": "Vol. 20\n                                \n                                \n                                  pp.\n                                  3079\n                                  – 3089",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Aerosol radiative forcing can influence climate both locally and far outside the emission region. Here we investigate black carbon (BC) aerosols emitted in four major emission areas and evaluate the importance of emission location and magnitude as well as the concept of the absolute regional temperature-change potentials (ARTP). We perform simulations with a climate model (NorESM) with a fully coupled ocean and with fixed sea surface temperatures. BC emissions for year 2000 are increased by factors of 10 and 20 in South Asia, North America, and Europe, respectively, and by 5 and 10 in East Asia (due to higher emissions there). The perturbed simulations and a reference simulation are run for 100 years with three ensemble members each. We find strikingly similar regional surface temperature responses and geographical patterns per unit BC emission in Europe and North America but somewhat lower temperature sensitivities for East Asian emissions. BC emitted in South Asia shows a different geographical pattern in surface temperatures, by changing the Indian monsoon and cooling the surface. We find that the ARTP approach rather accurately reproduces the fully coupled temperature response of NorESM. Choosing the highest emission rate results in lower surface temperature change per emission unit compared to the lowest rate, but the difference is generally not statistically significant except for the Arctic. An advantage of high-perturbation simulations is the clearer emergence of regional signals. Our results show that the linearity of normalized temperature effects of BC is fairly well preserved despite the relatively large perturbations but that regional temperature coefficients calculated from high perturbations may be a conservative estimate. Regardless of emission region, BC causes a northward shift of the ITCZ, and this shift is apparent both with a fully coupled ocean and with fixed sea surface temperatures. For these regional BC emission perturbations, we find that the effective radiative forcing is not a good measure of the climate response. A limitation of this study is the uncertainties in BC–cloud interactions and the amount of BC absorption, both of which are model dependent.",
+    "readLink": "https://www.atmos-chem-phys.net/20/3079/2020/acp-20-3079-2020.pdf"
+  }
+]

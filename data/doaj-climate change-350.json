@@ -1,0 +1,225 @@
+[
+  {
+    "title": "Agricultural expansion into forest reserves in Zambia: a remote sensing approach",
+    "authors": [
+      "Darius Phiri,",
+      "Jacob Mwitwa,",
+      "Phillimon Ng’andwe,",
+      "Kennedy Kanja,",
+      "Justin Munyaka,",
+      "Felix Chileshe,",
+      "Patan Hamazakaza,",
+      "Sydney Kapembwa,",
+      "Jane Musole Kwenye"
+    ],
+    "doi": "https://doi.org/10.1080/10106049.2023.2213203",
+    "journalVolume": "Vol. 38,\n                                no. 1",
+    "issn": "1010-6049 (Print)",
+    "publisher": "1752-0762 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Physical geography"
+    ],
+    "journalUrl": "https://www.tandfonline.com/tgei",
+    "abstract": "Forest reserves play an important role in the provision of ecosystem goods and services; however, these reserves are facing increasing anthropogenic impacts primarily because of agricultural activities. In sub-Saharan Africa, studies on understanding the extent and impacts of agricultural expansion into forest reserves are generally lacking. Thus, this study aimed to assess the extent of agricultural expansion into forest reserves in Zambia on a national scale between 2000 and 2018 and explores the drivers. We used a remote sensing approach by employing Google Earth Engine (GEE) and Random Forests classifier to map land cover changes at five-time steps: 2000, 2005, 2010, 2015 and 2018. Landsat images were used to map six land cover classes (forest, cropland, wetland, grassland, settlement, and water body) determined by the Intergovernmental Panel on Climate Change (IPCC). A social survey was also undertaken to understand the drivers of agricultural expansion into forest reserves at two study sited located in eastern and north-western part of Zambia. Based on the land cover maps which were produced with high accuracies ranging from 82% to 94%, the results indicated a general decline of 10% in forest area and an increase of 25% in cropland. Almost 50% of the forest reserves in Zambia are experiencing some form of encroachment, and 10% of these are heavily encroached (>90% loss). Local communities indicated that population growth, loss of soil fertility, high market demand for crops, land tenure system, and lack of law enforcement are the major drivers of agricultural expansion into forest reserves. This study highlights the need for policy marker to consider trade-offs in agricultural expansion and conservation of forest reserves relation to population growth. Enhancing sustainable agricultural practices and strengthening the implementation of different legislative frameworks is key in addressing the challenges of conservation, while enhancing food security.",
+    "readLink": "http://dx.doi.org/10.1080/10106049.2023.2213203"
+  },
+  {
+    "title": "Impact of Climate Change and Technological Innovation on the Energy Performance and Built form of Future Cities",
+    "authors": [
+      "Ehsan Ahmadian,",
+      "Chris Bingham,",
+      "Amira Elnokaly,",
+      "Behzad Sodagar,",
+      "Ivan Verhaert"
+    ],
+    "doi": "https://doi.org/10.3390/en15228592",
+    "journalVolume": "Vol. 15,\n                                no. 8592\n                                \n                                  p.\n                                  8592",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The building and transportation sectors are responsible for the greatest proportion of energy consumption in cities. While they are intrinsically interlinked with urban built form and density, climate change and technological innovation are having an effect on their relative contributions. This paper aims to develop an optimisation framework to facilitate the identification of the most energy-efficient urban built forms and urban geometry for the future built environment that can be adapted to the changing climate and ongoing technological development. It examines future scenarios for the city of London as a temperate climate zone (as a case study), in 2050, and contrasts it with the present situation. Specifically, the impact of climate change along with the penetration of electric vehicles into the transportation system that can be charged via rooftop photovoltaics is investigated. This study initially develops the geometrical models of four selected urban built forms and, secondly, analyzes their energy performance using an urban energy simulation software. The results, showing the impact of future scenarios on building energy performance, urban built form and density, demonstrate that court and tunnel-court built forms show better energy performance for future development. It is therefore recommended that for future urban developments in London, deep plan court and tunnel-court buildings with a lower number of storeys and a large cut-off angle are more advantageous in terms of building energy to accommodate the expected climate change. Finally, results of simulation trials indicate that the total building energy demand in 2050 is considerably higher than in the present climate as a result of additional cooling load and electric vehicle charging load.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/22/8592"
+  },
+  {
+    "title": "Adaptive responses to salinity stress across multiple life stages in anuran amphibians",
+    "authors": [
+      "Molly A. Albecker,",
+      "Michael W. McCoy"
+    ],
+    "doi": "https://doi.org/10.1186/s12983-017-0222-0",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "1742-9994 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Zoology"
+    ],
+    "journalUrl": "https://frontiersinzoology.biomedcentral.com/",
+    "abstract": "Abstract Background In many regions, freshwater wetlands are increasing in salinity at rates exceeding historic levels. Some freshwater organisms, like amphibians, may be able to adapt and persist in salt-contaminated wetlands by developing salt tolerance. Yet adaptive responses may be more challenging for organisms with complex life histories, because the same environmental stressor can require responses across different ontogenetic stages. Here we investigated responses to salinity in anuran amphibians: a common, freshwater taxon with a complex life cycle. We conducted a meta-analysis to define how the lethality of saltwater exposure changes across multiple life stages, surveyed wetlands in a coastal region experiencing progressive salinization for the presence of anurans, and used common garden experiments to investigate whether chronic salt exposure alters responses in three sequential life stages (reproductive, egg, and tadpole life stages) in Hyla cinerea, a species repeatedly observed in saline wetlands. Results Meta-analysis revealed differential vulnerability to salt stress across life stages with the egg stage as the most salt-sensitive. Field surveys revealed that 25% of the species known to occur in the focal region were detected in salt-intruded habitats. Remarkably, Hyla cinerea was found in large abundances in multiple wetlands with salinity concentrations 450% higher than the tadpole-stage LC50. Common garden experiments showed that coastal (chronically salt exposed) populations of H. cinerea lay more eggs, have higher hatching success, and greater tadpole survival in higher salinities compared to inland (salt naïve) populations. Conclusions Collectively, our data suggest that some species of anuran amphibians have divergent and adaptive responses to salt exposure across populations and across different life stages. We propose that anuran amphibians may be a novel and amenable natural model system for empirical explorations of adaptive responses to environmental change.",
+    "readLink": "http://link.springer.com/article/10.1186/s12983-017-0222-0"
+  },
+  {
+    "title": "Evaluating models' response of tropical low clouds to SST forcings using CALIPSO observations",
+    "authors": [
+      "G. Cesana,",
+      "G. Cesana,",
+      "G. Cesana,",
+      "A. D. Del Genio,",
+      "A. S. Ackerman,",
+      "M. Kelley,",
+      "M. Kelley,",
+      "G. Elsaesser,",
+      "G. Elsaesser,",
+      "A. M. Fridlind,",
+      "Y. Cheng,",
+      "Y. Cheng,",
+      "M.-S. Yao,",
+      "M.-S. Yao"
+    ],
+    "doi": "https://doi.org/10.5194/acp-19-2813-2019",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  2813\n                                  – 2832",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Recent studies have shown that, in response to a surface warming, the marine tropical low-cloud cover (LCC) as observed by passive-sensor satellites substantially decreases, therefore generating a smaller negative value of the top-of-the-atmosphere (TOA) cloud radiative effect (CRE). Here we study the LCC and CRE interannual changes in response to sea surface temperature (SST) forcings in the GISS model E2 climate model, a developmental version of the GISS model E3 climate model, and in 12 other climate models, as a function of their ability to represent the vertical structure of the cloud response to SST change against 10 years of CALIPSO (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations) observations. The more realistic models (those that satisfy the observational constraint) capture the observed interannual LCC change quite well (ΔLCC/ΔSST=-3.49±1.01 % K−1 vs. ΔLCC/ΔSSTobs=-3.59±0.28 % K−1) while the others largely underestimate it (ΔLCC/ΔSST=-1.32±1.28 % K−1). Consequently, the more realistic models simulate more positive shortwave (SW) feedback (ΔCRE/ΔSST=2.60±1.13 W m−2 K−1) than the less realistic models (ΔCRE/ΔSST=0.87±2.63 W m−2 K−1), in better agreement with the observations (ΔCRE/ΔSSTobs=3±0.26 W m−2 K−1), although slightly underestimated. The ability of the models to represent moist processes within the planetary boundary layer (PBL) and produce persistent stratocumulus (Sc) decks appears crucial to replicating the observed relationship between clouds, radiation and surface temperature. This relationship is different depending on the type of low clouds in the observations. Over stratocumulus regions, cloud-top height increases slightly with SST, accompanied by a large decrease in cloud fraction, whereas over trade cumulus (Cu) regions, cloud fraction decreases everywhere, to a smaller extent.",
+    "readLink": "https://www.atmos-chem-phys.net/19/2813/2019/acp-19-2813-2019.pdf"
+  },
+  {
+    "title": "Does an Environmental Management System Affect Green Inno-Vation: The Role of Green Financing in China’s Tourism Sector in a Circular Economy",
+    "authors": [
+      "Xiang Ji,",
+      "Shiqi Zhang,",
+      "Yuan Lu"
+    ],
+    "doi": "https://doi.org/10.3390/su15086411",
+    "journalVolume": "Vol. 15,\n                                no. 6411\n                                \n                                  p.\n                                  6411",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The occurrence of climate change is becoming a challenge for the survival of business organizations. These changes pressure business organizations to adopt strategies to protect the natural environment. In order to cope with these changes, business organizations concentrate on strategic decisions regarding the protection of the natural environment due to the demand of various stakeholders. Continuous and updated information on environmental issues is required to successfully formulate and implement decisions to protect the natural environment. Therefore, the environmental management system (EMS) is an important mechanism that enables business organization to collect information about the demands of various stakeholders regarding the natural environment. Most studies have examined the green innovation (GI) of the tourism sector and related the innovation of natural environmental protection activities with management’s capabilities and strategic decisions. Limited studieshave considered EMSs as important to bring GI into the tourism sector. GI comprises various environmental initiatives that play a vital role in impacting the GI of the tourism sector worldwide. However, these are ignored by researchers. Therefore, we examined the effect of the EMS on GI. Moreover, we also examined the extent to which green financing of the tourism sector intervenes in the EMS and GI link. Data were collected from 322 managers in the tourism sector. The collected data were analyzed with the help of correlation and regression techniques. The study findings confirmed that the EMS positively affects GI, while green financing mediates the connection between the EMS and GI. Hence, this study offers numerous practical suggestions for improving the GI of the tourism sector in the emerging circular economy.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/8/6411"
+  },
+  {
+    "title": "Spatiotemporal Dynamics of Land Surface Albedo and Its Influencing Factors in the Qilian Mountains, Northeastern Tibetan Plateau",
+    "authors": [
+      "Jichun Li,",
+      "Guojin Pang,",
+      "Xuejia Wang,",
+      "Fei Liu,",
+      "Yuting Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/rs14081922",
+    "journalVolume": "Vol. 14,\n                                no. 1922\n                                \n                                  p.\n                                  1922",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Land surface albedo directly determines the distribution of radiant energy between the surface and the atmosphere, and it is a key parameter affecting the energy balance on the land surface. However, the spatiotemporal dynamics of land surface albedo and associated influencing factors in the Qilian Mountains (QM) have been rarely reported. By using the long-time series data products of MODIS shortwave albedo, normalized difference vegetation index (NDVI), and snow cover with a spatial resolution of 0.05° from 2001 to 2020, this paper analyzes the temporal and spatial variations of land surface albedo in the QM over the past 20 years and its influencing factors. The analysis results show that the multi-year average surface albedo in the QM has obvious differences in spatial distribution: it increases with the altitude, and it is high in the west (at the west of 98° E) and low in the east. Meanwhile, the surface albedo has different distribution characteristics in different seasons: the spatial distribution of surface albedo is similar in spring and autumn; the areas with a high surface albedo in summer are significantly fewer than those in other seasons. Besides, in the past 20 years, the annual average surface albedo has shown a weak growth trend in the QM, with a change rate of 5 × 10−3/10a, and the minimum and maximum values were reached in 2001 and 2019, respectively. In addition, the annual variation of the surface albedo in the QM showed a “U” shape, with the largest variation in January and the smallest variation in August. The annual variation of surface albedo is significantly positively correlated with snow cover (r = 0.96) and significantly negatively correlated with NDVI (r = −0.91). Moreover, the interannual variation of the surface albedo in the QM is closely related to land surface cover and is greatly affected by snow cover. Spatially, the annual variation of surface albedo in most areas of the QM is dominated by the change of snow cover, and the increase of surface albedo in the middle area is consistent with the increase of snow cover, while the decrease of albedo in the edge area is related to the improvement of vegetation cover. The results of this study provide a scientific basis for studying the climate and environmental changes caused by changes in the surface of the QM and making ecological environment restoration strategies.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/8/1922"
+  },
+  {
+    "title": "Blow your mind! Shards hailing, on superfluous violence to stop surviving",
+    "authors": [
+      "Simon(e) van Saarloos"
+    ],
+    "doi": "https://doi.org/10.21476/PP.2020.52288",
+    "journalVolume": "Vol. 5,\n                                no. 2\n                                \n                                  pp.\n                                  303\n                                  – 315",
+    "issn": "2057-7176 (Online)",
+    "publisher": "Performance Philosophy",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Language and Literature: Literature (General): The performing arts. Show business",
+      "Philosophy. Psychology. Religion: Philosophy (General)"
+    ],
+    "journalUrl": "https://www.performancephilosophy.org/journal",
+    "abstract": "David Buckel set himself on fire to publicly stage the horrors of climate change, Delores “Lolita” Lebrón performed a sensational act in the US congress hall, hailing bullets while calling out: ¡Viva Puerto Rico Libre! When do we recognize violence as violence? When is the absence of a counter-attack a form of compliance? Do the desires of activists need an expression of violence to establish an ‘otherwise’ that’s carefully repressed? In “Blow your mind! Shards hailing, on superfluous violence to stop surviving” various instances of violence weave together, obscuring the difference between theatre, terrorism, assault and sensational act. The end of the world is a future for those who have been living like survivors. To explore the potential of violence as resistance, the author proposes to fight as an armless aimless army of vulnerables. ‘Violence happens upon you. But that’s not really true for everyone. As a white cis-woman with passport privilege, I can say I’m interested in violence. Interested in, interested in. Violence doesn’t surround me. It may happen to me, but I would perceive it as an extraordinary event, a happening. I approach violence. I approach, I approach – there’s enough comfortable distance to repeat my sentence and imagine it echoing.’",
+    "readLink": "https://www.performancephilosophy.org/journal/article/view/288"
+  },
+  {
+    "title": "Future Scenarios for Olive Tree and Grapevine Potential Yields in the World Heritage Côa Region, Portugal",
+    "authors": [
+      "Helder Fraga,",
+      "Nathalie Guimarães,",
+      "Teresa R. Freitas,",
+      "Aureliano C. Malheiro,",
+      "João A. Santos"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy12020350",
+    "journalVolume": "Vol. 12,\n                                no. 350\n                                \n                                  p.\n                                  350",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "In the World Heritage Côa region, in northern Portugal, agriculture has crucial economic, social and cultural importance. Vineyards and olive groves are part of the economic base of this region, contributing to the regional commercial budget and the livelihood of its residents. Climate change is expected to have significant impacts on these crops, where climatic conditions are already very warm and dry, posing a key threat to the olive oil and winemaking sectors. The present study analyzes the impact of climate change on the potential yield of these two crops over the Côa region. For this purpose, two crop models were initialized and ran with state-of-the art spatial datasets for climate, soil, terrain, and plant data. As outputs of the crop models, potential yields of grapevines and olive trees were obtained for the recent-past (1981–2005) and for the future (2041–2070), under two climatic scenarios (RCP4.5 and RCP8.5). Results (potential yield) were then normalized, taking into account the recent-past maximum yields and divided into four classes (low, low-moderate, moderate-high, and high). For the recent-past, the results of the crop models present a high agreement with the current location of vineyards and olive groves. For the future, two different types of impacts (positive and negative) are found for the two crops. For olive trees, the results show promising future improvements in possible expansion areas within the Côa region. However, for grapevines, the results show a decrease in potential yields throughout the region, including a strong shift of producing moderate zones to low potentials. Nonetheless, these results also suggest that the negative impacts of climate change can be alleviated by the application of suitable adaptation measures, based on changing certain management practices, even in the more severe future scenario. Therefore, these measures should be carefully planned and implemented in a timely fashion by farmers.",
+    "readLink": "https://www.mdpi.com/2073-4395/12/2/350"
+  },
+  {
+    "title": "Effect of irrigation with saline magnetized water and different soil amendments on growth and flower production of Calendula officinalis L. plants",
+    "authors": [
+      "Khalid M. Elhindi,",
+      "Fahed A. Al-Mana,",
+      "Abdullah M. Algahtani,",
+      "Majed A. Alotaibi"
+    ],
+    "doi": "Vol. 27,\n                                no. 11\n                                \n                                  pp.\n                                  3072\n                                  – 3078",
+    "issn": "1319-562X (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Saudi Arabia",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/saudi-journal-of-biological-sciences/",
+    "abstract": "Global climate change and increased population caused significant depletion of freshwater especially in arid and semi-arid regions including Saudi Arabia. Saline water magnetization before irrigation may help in alleviating the adverse effects of salinity on plants. The current study aimed to examine the potential beneficial effects of water magnetization and soil amendments on growth, productivity, and survival of Calendula officinalis L. plants. Three types of water (tap water “control”, well water, and magnetized well water) and two types of soil amendments (Fe2SO4 and peat moss) were examined. Our results showed that irrigating C. officinalis plants with saline well water (WW) adversely affected growth and flowering as compared to tap water (TW). However, plants irrigated with magnetized water (MW) showed significant enhancement in all the studied vegetative and flowering growth parameters as compared to those irrigated with WW. Furthermore, mineral contents and survival of C. officinalis plants irrigated with MW were higher than those irrigated with TW. Irrigation with MW significantly reduced levels of NA+ and Cl− ions in leaves of C. officinalis plants indicating the role of magnetization in alleviating harmful effects of salinity. The current study showed that water magnetization enhanced water quality and increased plant’s ability to absorb water and nutrients. Further studies are needed to examine the possibility of irrigating food crops with magnetized water.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1319562X20304216"
+  },
+  {
+    "title": "New land-use change scenarios for Brazil: Refining global SSPs with a regional spatially-explicit allocation model.",
+    "authors": [
+      "Francisco Gilney Silva Bezerra,",
+      "Celso Von Randow,",
+      "Talita Oliveira Assis,",
+      "Karine Rocha Aguiar Bezerra,",
+      "Graciela Tejada,",
+      "Aline Anderson Castro,",
+      "Diego Melo de Paula Gomes,",
+      "Rodrigo Avancini,",
+      "Ana Paula Aguiar"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0256052",
+    "journalVolume": "Vol. 17,\n                                no. 4\n                                \n                                  p.\n                                  e0256052",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The future of land use and cover change in Brazil, particularly due to deforestation and forest restoration processes, is critical for the future of global climate and biodiversity, given the richness of its five biomes. These changes in Brazil depend on the interlink between global factors due to its role as one of the main exporters of commodities globally and the national to local institutional, socioeconomic, and biophysical contexts. Aiming to develop scenarios that consider the balance between global (e.g., GDP growth, population growth, per capita consumption of agricultural products, international trade policies, and climatic conditions) and local factors (e.g., land use, agrarian structure, agricultural suitability, protected areas, distance to roads, and other infrastructure projects), a new set of land-use change scenarios for Brazil were developed that aligned with the global structure Shared Socioeconomic Pathways (SSPs) and Representative Concentration Pathway (RCPs) developed by the global change research community. The narratives of the new scenarios align with SSP1/RCP 1.9 (Sustainable development scenario), SSP2/RCP 4.5 (Middle of the road scenario), and SSP3/RCP 7.0 (Strong inequality scenario). The scenarios were developed by combining the LuccME spatially explicit land change allocation modeling framework and the INLAND surface model to incorporate the climatic variables in water deficit. Based on detailed biophysical, socioeconomic, and institutional factors for each biome in Brazil, we have created spatially explicit scenarios until 2050, considering the following classes: forest vegetation, grassland vegetation, planted pasture, agriculture, a mosaic of small land uses, and forestry. The results aim to detail global models regionally. They could be used regionally to support decision-making and enrich the global analysis.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0256052"
+  }
+]

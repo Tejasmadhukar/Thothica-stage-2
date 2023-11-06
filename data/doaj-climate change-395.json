@@ -1,0 +1,215 @@
+[
+  {
+    "title": "Big geospatial data analysis for Canada’s Air Pollutant Emissions Inventory (APEI): using google earth engine to estimate particulate matter from exposed mine disturbance areas",
+    "authors": [
+      "Meyra Fuentes,",
+      "Koreen Millard,",
+      "Emil Laurin"
+    ],
+    "doi": "https://doi.org/10.1080/15481603.2019.1695407",
+    "journalVolume": "Vol. 57,\n                                no. 2\n                                \n                                  pp.\n                                  245\n                                  – 257",
+    "issn": "1548-1603 (Print)",
+    "publisher": "1943-7226 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgrs",
+    "abstract": "Particulate Matter (PM) emissions originating from mine waste and mine tailings can be hazardous to human health, depending on the ore type and processes used to extract ore. Until now, only a single, simple estimate of the total area of mine waste area across all of Canada has been available for calculating air quality emissions from this source. This single estimate, based on manual satellite interpretation completed in 1977, was extrapolated to estimate mine areas for all years from 1990 to the present. These area estimates were used annually to calculate the particulate matter from mines for the Canadian Air Pollutant Emissions Inventory (APEI); however, there is high uncertainty in these measurements of mine area and therefore in emissions estimates. In order to increase certainty in emissions estimates, the exposed mine waste areas must be mapped for each year. Mapping mine waste over areas as large as the Canadian landmass requires enormous quantities of data and considerable computational power, which will be compounded when a time-series analysis is required. Therefore, in this study, we have employed Google Earth Engine (GEE) Javascript API to map exposed mine areas in four “benchmark” years (1990, 2000, 2010, and current year 2018) as part of the APEI. A random forest classifier was trained using two separate datasets (Landsat-5 year 2000; and a combination of Landsat-8, Sentinel-1, and Sentinel-2 for the year 2018). Transfer learning was then used to apply the year 2000 model to the year 1990 and 2010 Landsat-5 imagery, which produced classification results for the four “benchmark” years in our time series. This tool has enabled the monitoring of mine growth over a 30-year period and has confirmed that overall the area of mines is growing in Canada. Overall, Google Earth Engine proved to be an invaluable tool in mapping exposed mine waste areas and would be similarly useful for any organization with large-area monitoring mandates or those interested in time-series analysis of the Landsat archive.",
+    "readLink": "http://dx.doi.org/10.1080/15481603.2019.1695407"
+  },
+  {
+    "title": "A recent increase in global wave power as a consequence of oceanic warming",
+    "authors": [
+      "Borja G. Reguero,",
+      "Iñigo J. Losada,",
+      "Fernando J. Méndez"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-018-08066-0",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "The upper-ocean warming, a consequence of anthropogenic global warming, is changing the global wave climate, making waves stronger. Here the author show that global wave power has been increasing and can represent a climate change indicator.",
+    "readLink": "https://doi.org/10.1038/s41467-018-08066-0"
+  },
+  {
+    "title": "Decomposition of Net CO2 Emission in the Wuhan Metropolitan Area of Central China",
+    "authors": [
+      "Xin Yang,",
+      "Chunbo Ma,",
+      "Anlu Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/su8080784",
+    "journalVolume": "Vol. 8,\n                                no. 8\n                                \n                                  p.\n                                  784",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Policy-makers have been sharing growing concerns that climate change has significant impacts on human society and economic activates. Knowledge of the influencing factors of CO2 emission is the crucial step to reduce it. In this paper, both CO2 emission and CO2 sink on a city-level of the nine cities in Wuhan Metropolitan Area are calculated using the Intergovernmental Panel on Climate Change approach. Moreover, the logarithmic mean Divisia index (LMDI) model was employed to decompose the net CO2 emission from 2001 to 2009. Results showed that (1) the largest amount of CO2 emission comes from energy while the largest amount CO2 sink comes from cropland; (2) economic level (S) was the largest positive driving factor for net CO2 emission growth in the Wuhan Metropolitan Area, population (P) also played a positive driving role, but with very weak contribution; and as negative inhibiting factors, energy structure (E) and energy efficiency (C) significantly reduced the net CO2 emission.",
+    "readLink": "http://www.mdpi.com/2071-1050/8/8/784"
+  },
+  {
+    "title": "Reviews and syntheses: Four decades of modeling methane cycling in  terrestrial ecosystems",
+    "authors": [
+      "X. Xu,",
+      "F. Yuan,",
+      "P. J. Hanson,",
+      "S. D. Wullschleger,",
+      "P. E. Thornton,",
+      "W. J. Riley,",
+      "X. Song,",
+      "D. E. Graham,",
+      "C. Song,",
+      "H. Tian"
+    ],
+    "doi": "https://doi.org/10.5194/bg-13-3735-2016",
+    "journalVolume": "Vol. 13,\n                                no. 12\n                                \n                                  pp.\n                                  3735\n                                  – 3755",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "Over the past 4 decades, a number of numerical models have been developed to quantify the magnitude, investigate the spatial and temporal variations, and understand the underlying mechanisms and environmental controls of methane (CH4) fluxes within terrestrial ecosystems. These CH4 models are also used for integrating multi-scale CH4 data, such as laboratory-based incubation and molecular analysis, field observational experiments, remote sensing, and aircraft-based measurements across a variety of terrestrial ecosystems. Here we summarize 40 terrestrial CH4 models to characterize their strengths and weaknesses and to suggest a roadmap for future model improvement and application. Our key findings are that (1) the focus of CH4 models has shifted from theoretical to site- and regional-level applications over the past 4 decades, (2) large discrepancies exist among models in terms of representing CH4 processes and their environmental controls, and (3) significant data–model and model–model mismatches are partially attributed to different representations of landscape characterization and inundation dynamics. Three areas for future improvements and applications of terrestrial CH4 models are that (1) CH4 models should more explicitly represent the mechanisms underlying land–atmosphere CH4 exchange, with an emphasis on improving and validating individual CH4 processes over depth and horizontal space, (2) models should be developed that are capable of simulating CH4 emissions across highly heterogeneous spatial and temporal scales, particularly hot moments and hotspots, and (3) efforts should be invested to develop model benchmarking frameworks that can easily be used for model improvement, evaluation, and integration with data from molecular to global scales. These improvements in CH4 models would be beneficial for the Earth system models and further simulation of climate–carbon cycle feedbacks.",
+    "readLink": "http://www.biogeosciences.net/13/3735/2016/bg-13-3735-2016.pdf"
+  },
+  {
+    "title": "Source apportionment of black carbon aerosols from light absorption observation and source-oriented modeling: an implication in a coastal city in China",
+    "authors": [
+      "J. Deng,",
+      "H. Guo,",
+      "H. Zhang,",
+      "J. Zhu,",
+      "X. Wang,",
+      "P. Fu"
+    ],
+    "doi": "https://doi.org/10.5194/acp-20-14419-2020",
+    "journalVolume": "Vol. 20\n                                \n                                \n                                  pp.\n                                  14419\n                                  – 14435",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Black carbon (BC) is the most important light-absorbing aerosol in the atmosphere. However, sources of atmospheric BC aerosols are largely uncertain, making it difficult to assess its influence on radiative forcing and climate change. In this study, year-round light-absorption observations were conducted during 2014 using an aethalometer in Xiamen, a coastal city in Southeast China. Source apportionment of BC was performed and temporal variations in BC sources were characterized based on both light absorption measurements and a source-oriented air quality model. The annual average concentrations of BC from fossil fuel (BCff) and biomass burning (BCbb) by the aethalometer method were 2932 ± 1444 ng m−3 and 1340 ± 542 ng m−3, contributing 66.7 % and 33.3 % to total BC, respectively. A sensitivity analysis was performed with different absorption Ångström exponent (AAE) values of fossil fuel combustion (αff) and biomass burning (αbb), suggesting that the aethalometer method was more sensitive to changes in αbb than αff. BCbb contribution exhibited a clear diurnal cycle, with the highest level (37.9 %) in the evening rush hour and a seasonal pattern with the maximum (39.9 %) in winter. Conditional probability function (CPF) analysis revealed the large biomass-burning contributions were accompanied by east-northeasterly and northerly winds. Backward trajectory indicated that air masses from North and East–Central China were associated with larger biomass-burning contributions. Potential source contribution function (PSCF) and concentration-weighted trajectory (CWT) suggested that North and East–Central China and Southeast Asia were potential sources of both BCff and BCbb. The source-oriented modeling results showed that transportation, residential and open biomass burning accounting for 45.3 %, 30.1 % and 17.6 % were the major BC sources. Among the three fuel catalogs, liquid fossil fuel (46.5 %) was the largest source, followed by biomass burning (32.6 %) and coal combustion (20.9 %). Source contributions of fossil fuel combustion and biomass burning identified by the source-oriented model were 67.4 % and 32.6 %, respectively, close to those obtained by the aethalometer method. The findings provide solid support for controlling fossil fuel sources to limit the impacts of BC on climate change and environmental degradation in the relatively clean region in China.",
+    "readLink": "https://acp.copernicus.org/articles/20/14419/2020/acp-20-14419-2020.pdf"
+  },
+  {
+    "title": "WHAT ARE THE CHALLENGES OF INCREASING THE SUSTAINABILITY OF URBAN LIVELIHOODS?",
+    "authors": [
+      "Neil Whittingham"
+    ],
+    "doi": "Vol. 8,\n                                no. 1",
+    "issn": "1412-3266 (Print)",
+    "publisher": "2549-6832 (Online)",
+    "countryOfPublisher": "Universitas Muhammadiyah Jakarta",
+    "lcc": [
+      "Indonesia",
+      "Fine Arts: Architecture"
+    ],
+    "journalUrl": "https://jurnal.umj.ac.id/index.php/nalars",
+    "abstract": "AbstraCT. This article places the challenge of rapid urbanisation throughout the world into a perspective that acknowledges inequalities due to economic history. As well as a brief exploration of the site-specific nature of challenges faced, this article seeks to outline the economic and structural obstacles that act as a backdrop to the lives of the poor. Such a perspective can inform attempts to improve the lot of the poor and help in outlining the moral obligation for the powerful to help the poor and vulnerable face up to the issue of Climate Change. Key words: Urbanisation, economic disadvantage, planning, sustainable urban management AbstraK. Tulisan ini menempatkan tantangan dari urbanisasi yang sangat cepat di seluruh dunia ke dalam perspektif yang diketahui tidak sejajar dengan sejarah ekonomi. Seperti halnya dengan eksplorasi sepintas dari situs khusus alam dari tantangan yang dihadapi, tulisan ini mencoba untuk melihat halangan ekonomi dan struktural bagi masyarakat menengah bawah. Perspektif seperti itu dapat menjadi sebuah informasi untuk meningkatkan taraf hidup masyarkat miskin dan membantu dalam merumuskan obligasi moral bagi penguasa. Hal ini tentunya dapat membantu masyarakat miskin dalam menghadapi isu-isu perubahan iklim. Kata Kunci: Urbanisasi, kerugian ekonomi, perencanaan, keberlanjutan manajemen perkotaan",
+    "readLink": "https://jurnal.umj.ac.id/index.php/nalars/article/view/615"
+  },
+  {
+    "title": "Impedance Flow Cytometry for Selection of Pollen Traits Under High Temperature Stress in Pepper",
+    "authors": [
+      "Shih-wen Lin,",
+      "Tsung-han Lin,",
+      "Cynthia Kung Man Yee,",
+      "Joyce Chen,",
+      "Yen-wei Wang,",
+      "Manoj Kumar Nalla,",
+      "Derek W. Barchenger"
+    ],
+    "doi": "https://doi.org/10.21273/HORTSCI16258-21",
+    "journalVolume": "Vol. 57,\n                                no. 1\n                                \n                                  pp.\n                                  181\n                                  – 190",
+    "issn": "2327-9834 (Online)",
+    "publisher": "American Society for Horticultural Science (ASHS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "https://journals.ashs.org/hortsci/view/journals/hortsci/hortsci-overview.xml",
+    "abstract": "High temperature stress is a major limiting factor for pepper productivity, which will continue to be a problem under climate change scenarios. Developing heat tolerant cultivars is critical for sustained pepper production, especially in tropical and subtropical regions. In fruiting crops, like pepper, reproductive tissues, especially pollen, are the most sensitive to high temperature stress. Typically, pollen viability and germination are assessed through staining and microscopy, which is tedious and potentially inaccurate. To increase efficiency in assessing pollen traits of pepper, the use of impedance flow cytometry (IFC) has been proposed. We conducted three independent experiments to determine the most effective methodology to use IFC for evaluating pollen traits for heat tolerance in pepper. Seven floral developmental stages were evaluated, and stages 3, 4, and 5 were found to best combine high pollen concentration and activity. Flowers in development stages 3, 4, or 5 were then heat treated at 41, 44, 47, 50, and 55 °C or not heat treated (control). The critical temperature to assess heat tolerance using IFC was found to be 50 °C, with a reduction in pollen activity and concentration occurring at temperatures greater than 47 °C. Twenty-one entries of pepper were then accessed for pollen traits using the staining and IFC methods over 2 months, April (cooler) and June (hotter). Growing environment was found to be the greatest contributor to variability for nearly all pollen traits assessed, with performance during June nearly always being lower. PBC 507 and PBC 831 were identified as being new sources of heat tolerance, based on using IFC for assessing pollen. Pollen viability determined by staining and pollen activity determined using IFC were significantly positively correlated, indicating that IFC is an efficient and accurate method to assess pollen traits in pepper. This work provides a basis for further research in this area and supports more efficient breeding of heat-tolerant cultivars.",
+    "readLink": "https://journals.ashs.org/hortsci/view/journals/hortsci/57/2/article-p181.xml"
+  },
+  {
+    "title": "Spatiotemporal Variations of Reference Evapotranspiration and Its Determining Climatic Factors in the Taihang Mountains, China",
+    "authors": [
+      "Tingting Kang,",
+      "Zeng Li,",
+      "Yanchun Gao"
+    ],
+    "doi": "https://doi.org/10.3390/w13213145",
+    "journalVolume": "Vol. 13,\n                                no. 3145\n                                \n                                  p.\n                                  3145",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Reference evapotranspiration (ETo) is an effective measure of atmospheric water demand of the land surface. In-depth investigations of the relationship between ETo and primary climatic factors can facilitate the adaptable agriculture and optimize water management, especially in the ecologically fragile Taihang Mountains (THM). This work assessed the spatiotemporal dynamics of ETo and its driving climatic factors from 1973 to 2016 in THM. Results showed: (1) Annual ETo slightly increased during 1973–2016; relative humidity (RH) decreased more slowly, the temperature increased more rapidly, and wind speed (WS) decreased more rapidly at higher elevation than those at lower elevations; (2) two breakpoints occurred in ETo series at 1990 and 1997, and an “evaporation paradox” existed in 1973–1990; (3) ETo at higher elevations had greater sensitivity to changes in RH and lower sensitivity to changes in Tmax and WS. Sensitivity of ETo to minimum air temperature (Tmin) at middle elevations was lowest among three elevation bands; (4) RH and sunshine duration (SD) were the dominant climatic factors of ETo for most periods and stations. This study helps us understand the impact of climate change on ETo in mountainous areas and confirms reference evapotranspiration in high-elevation areas is particularly sensitive to climate change.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/21/3145"
+  },
+  {
+    "title": "Unique Opportunities of Island States to Transition to a Low-Carbon Mobility System",
+    "authors": [
+      "Zakia Soomauroo,",
+      "Philipp Blechinger,",
+      "Felix Creutzig"
+    ],
+    "doi": "https://doi.org/10.3390/su12041435",
+    "journalVolume": "Vol. 12,\n                                no. 4\n                                \n                                  p.\n                                  1435",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Small islands developing states (SIDS) contribute minuscule proportions to global greenhouse gas (GHG) emissions and energy consumption, but are highly exposed to climate change impacts, in particular to extreme weather events and sea-level rise. However, there is little research on potential decarbonization trajectories unique to SIDS. Here, we argue that insular topology, scale, and economy are distinctive characteristics of SIDS that facilitate overcoming carbon lock-in. We investigate these dimensions for the three islands of Barbados, Fiji, and Mauritius. We find that insular topologies and small scale offer an opportunity for both public transit corridors and rapid electrification of car fleets. The tourism sector enables local decision-makers and investors to experiment with shared mobility and to induce spillover effects by educating tourists about new mobility options. Limited network effects, and the particular economy thus enables to overcome carbon lock-in. We call for targeted investments into SIDS to transition insular mobility systems towards zero carbon in 2040. The decarbonization of SIDS is not only needed as a mitigation effort, but also as a strong signal to the global community underlining that a zero-carbon future is possible.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/4/1435"
+  },
+  {
+    "title": "De la ciudad industrial al territorio agroindustrial y turistificado. El papel de la planificación en las dinámicas de transformación urbano-territorial en la Región de Murcia = From the industrial city to the agroindustrial and touristified territory. The role of planning in urban-territorial transformation dynamics in Region of Murcia",
+    "authors": [
+      "Andrés Viedma Guiard"
+    ],
+    "doi": "https://doi.org/10.20868/ciur.2022.143.5005",
+    "journalVolume": "Vol. 0,\n                                no. 143\n                                \n                                  pp.\n                                  191\n                                  – 202",
+    "issn": "1886-6654 (Print)",
+    "publisher": "2174-5099 (Online)",
+    "countryOfPublisher": "Universidad Politécnica de Madrid",
+    "lcc": [
+      "Spain",
+      "Fine Arts: Architecture: Aesthetics of cities. City planning and beautifying"
+    ],
+    "journalUrl": "http://polired.upm.es/index.php/ciur",
+    "abstract": "Resumen Esta comunicación tiene como objeto el origen y planteamiento metodológico de una investigación predoctoral en desarrollo, que aborda las principales transformaciones urbano-territoriales de la Región de Murcia en las últimas décadas y su relación con las dinámicas socioeconómicas y políticas en un contexto de neoliberalización, evaluando el papel del planeamiento urbanístico y la ordenación territorial en su implementación, con especial atención al desarrollo territorial de la agroindustria destinada a la exportación, los procesos de urbanización y el modelo turístico litoral. El análisis de estos procesos y de su papel en el colapso medioambiental posibilita el desarrollo de un diagnóstico integral que identifique cuáles son las líneas de actuación posibles desde el planeamiento urbano y territorial, permitiendo poner en marcha estrategias de mitigación y adaptación al cambio climático para hacer frente a la transición ecológica en la Región de Murcia desde parámetros de eficacia medioambiental y justicia social. Abstract The purpose of this communication is the origin and methodological approach of a predoctoral research in development, which addresses the main urban-territorial transformations of the Region of Murcia in recent decades and their relationship with socioeconomic and political dynamics in a context of neoliberalization, evaluating the role of urban and territorial planning in its implementation, with special attention to the territorial development of agro-industry for export, urbanization processes and the coastal tourism model. The analysis of these processes and their role in the environmental collapse makes possible the development of an integral diagnosis that identifies the possible lines of action from the urban and territorial planning, allowing the implementation of mitigation and adaptation strategies to climate change to face the ecological transition in the Region of Murcia from parameters of environmental efficiency and social justice.",
+    "readLink": "http://polired.upm.es/index.php/ciur/article/view/5005"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "title": "The Corporate Economic Performance of Environmentally Eligible Firms Nexus Climate Change: An Empirical Research in a Bayesian VAR Framework",
+    "authors": [
+      "Kyriaki-Argyro Tsioptsia,",
+      "Eleni Zafeiriou,",
+      "Dimitrios Niklis,",
+      "Nikolaos Sariannidis,",
+      "Constantin Zopounidis"
+    ],
+    "doi": "https://doi.org/10.3390/en15197266",
+    "journalVolume": "Vol. 15,\n                                no. 7266\n                                \n                                  p.\n                                  7266",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Corporate economic performance and its association with carbon emissions has been the subject of extensive research within the last few decades. The present study examines the economic performance of green firms as reflected in the Financial Times Stock Exchange Environmental Opportunities Index Series (FTSE EO) and its association with carbon emissions, incorporating the role of two more indices, namely the Baltic Clean Tanker Index (BAIT) and EUR/USD exchange rate. The methodology employed is the Bayesian Vector Autoregression Model (BVAR). Our findings confirm the interlinkages among the variables studied. More specifically, based on impulse response analysis, the direction of causality is two-way. The response of carbon emissions to a shock in the other variables is negative for the case of the EUR/USD exchange rate and Baltic Clean Tanker Index (BAIT) (an index representing the conventional energy sources), while it is positive for a shock in the FTSE EO. However, the most important finding is the return to the steady state after nine or ten periods. This result is very significant since the global environmental agreements along with the global economic conditions and the energy resources may well lead to limitations in carbon emissions within a framework of a well-organized and targeted climate change mitigation strategy.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/19/7266"
+  },
+  {
+    "title": "A Study on the Current Situation, Problems and Responsive Measures of Building China’s National Carbon Market",
+    "authors": [
+      "Yingzhe XIA,",
+      "Chao FENG,",
+      "Xiaohua YUAN"
+    ],
+    "doi": "https://doi.org/10.1142/S2345748122500142",
+    "journalVolume": "Vol. 10,\n                                no. 03",
+    "issn": "2345-7481 (Print)",
+    "publisher": "2345-752X (Online)",
+    "countryOfPublisher": "World Scientific Publishing Co. Pte Ltd.",
+    "lcc": [
+      "Singapore",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: Urbanization. City and country",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.worldscientific.com/worldscinet/cjues",
+    "abstract": "Carbon emissions trading is a major innovation in the practice of using market mechanism to control and reduce greenhouse gas (GHG) emissions and promote green and low-carbon development. It is an important way to achieve China’s carbon peaking and carbon neutrality goals (the “dual carbon” goals) at a relatively low cost. Starting late and having gone through three development stages, China’s national carbon market has entered a new stage. However, given the problems such as incomplete institutional, regulatory and carbon emissions verification systems, less balanced and vibrant market, limited transaction entities and trading products, and lack of voice due to insufficient participation in relevant international affairs, continuous efforts are still required to further improve this market by deepening reform, strengthening capacity building and increasing international cooperation.",
+    "readLink": "https://www.worldscientific.com/doi/10.1142/S2345748122500142"
+  },
+  {
+    "title": "Excel-Based Tool for Automatic Calibration of Urban Drainage System Models",
+    "authors": [
+      "Anatoli Vassiljev,",
+      "Ivar Annus,",
+      "Nils Kändler,",
+      "Murel Truu,",
+      "Katrin Kaur,",
+      "Kristjan Suits"
+    ],
+    "doi": "https://doi.org/10.3390/environsciproc2022021030",
+    "journalVolume": "Vol. 21,\n                                no. 30\n                                \n                                  p.\n                                  30",
+    "issn": "2673-4931 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/environsciproc",
+    "abstract": "Climate change and aging infrastructure are the main stressors for existing urban drainage systems (UDS), causing more frequent overloading. The locations of flooded areas and system behavior under different scenarios can be analyzed using calibrated SWMM5 models. This study presents the implementation of an automatic calibration module designed for SWMM5. This module can be utilized for different types of drainage systems, including those that contain only impervious subareas, a mix of impervious and pervious subareas, as well systems that include natural ditches or channels. The latter are the most complex because, in this case, it is necessary to include the inflow of groundwater to the model. A dynamic link library (DLL) created by the authors enables automatic calibration of 21 parameters in SWMM5 in previously defined limits. The module enables calibrating up to five parameters simultaneously. This study presents different strategies for calibration, describes their limitations and possible solutions.",
+    "readLink": "https://www.mdpi.com/2673-4931/21/1/30"
+  },
+  {
+    "title": "Investigating factors influencing generation Z’s pro-environmental behavior to support the energy transition in Jakarta, Indonesia",
+    "authors": [
+      "Wijaya Divine Ifransca,",
+      "Kokchang Phimsupha"
+    ],
+    "doi": "https://doi.org/10.1051/bioconf/20236204005",
+    "journalVolume": "Vol. 62\n                                \n                                \n                                  p.\n                                  04005",
+    "issn": "2117-4458 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Science: Microbiology",
+      "Science: Physiology",
+      "Science: Zoology"
+    ],
+    "journalUrl": "http://www.bio-conferences.org",
+    "abstract": "The energy transition is crucial for mitigating climate change and achieving sustainable development and resilience. As the energy transition advances, generation Z will soon be responsible for taking care of the environment. This study aims to investigate the factors influencing generation Z’s pro-environmental behavior (PEB) to support the energy transition, using the combination of the theory of planned behavior and PEB. Data were collected through an online questionnaire among 400 generation Z individuals living in Jakarta, Indonesia. The socio-demographic profile was assessed to ensure the respondents fit the target criteria. Partial least square structural equation modeling (PLS-SEM) was used to analyze the reliability and validity of the measurement model and conduct hypothesis testing. The results show that attitude, subjective norms, and perceived behavior control significantly influence generation Z’s PEB to support the energy transition. Perceived behavior control was the most significant factor determining PEB, so measures and policies to increase generation Z’s support should focus on PBC. This finding could enhance understanding and provide insights to formulate effective interventions to increase generation Z’s support towards the energy transition. This study contributes to the energy transition discussion as included in the Sustainable Development Goals.",
+    "readLink": "https://www.bio-conferences.org/articles/bioconf/pdf/2023/07/bioconf_eree2023_04005.pdf"
+  },
+  {
+    "title": "Aridity changes in the Tibetan Plateau in a warming climate",
+    "authors": [
+      "Yanhong Gao,",
+      "Xia Li,",
+      "L. Ruby Leung,",
+      "Deliang Chen,",
+      "Jianwei Xu"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/10/3/034013",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  p.\n                                  034013",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Desertification in the Tibetan Plateau (TP) has drawn increasing attention in the recent decades. It has been postulated as a consequence of increasing climate aridity due to the observed warming. This study quantifies the aridity changes in the TP and attributes the changes to different climatic factors. Using the ratio of precipitation to potential evapotranspiration ( P /PET) as an aridity index, we used observed meteorological records at 83 stations in the TP to calculate PET using the Penman–Monteith algorithm and the ratio. Spatial and temporal changes of P /PET in 1979–2011 were analyzed. Results show that stations located in the arid and semi-arid northwestern TP are becoming significantly wetter, and half of the stations in the semi-humid eastern TP are becoming drier, though not significantly, in the recent three decades. The aridity change patterns are significantly correlated with the change patterns of precipitation, sunshine duration and diurnal temperature range. Temporal correlations between the annual P /PET ratio and other meteorological variables confirm the significant correlation between aridity and the three variables, with precipitation being the dominant driver of P /PET changes at the interannual time scale. Annual PET are insignificantly but negatively correlated with P /PET in the cold season. In the warm season, however, the correlation between PET and P /PET is significant at the confidence level of 99.9% when the cryosphere near the surface melts. Significant correlation between annual wind speed and aridity occurs in limited locations and months. Consistency in the climatology pattern and linear trends in surface air temperature and precipitation calculated using station data, gridded data, and nearest grid-to-stations for the TP average and across sub-basins indicate the robustness of the trends despite the large spatial heterogeneity in the TP that challenge climate monitoring.",
+    "readLink": "https://doi.org/10.1088/1748-9326/10/3/034013"
+  },
+  {
+    "title": "Increasing freshwater supply to sustainably address global water security at scale",
+    "authors": [
+      "Afeefa Rahman,",
+      "Praveen Kumar,",
+      "Francina Dominguez"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-022-24314-2",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract While significant parts of the globe are already facing significant freshwater scarcity, the need for more freshwater is projected to increase in order to sustain the increasing global population and economic growth, and adapt to climate change. Current approaches for addressing this challenge, which has the potential to result in catastrophic outcomes for consumptive needs and economic growth, rely on increasing the efficient use of existing resources. However, the availability of freshwater resources is rapidly declining due to over-exploitation and climate change and, therefore, is unlikely to sustainably address future needs, which requires a rethink of our solutions and associated investments. Here we present a bold departure from existing approaches by establishing the viability of significantly increasing freshwater through the capture of humid air over oceans. We show that the atmosphere above the oceans proximal to the land can yield substantial freshwater, sufficient to support large population centers across the globe, using appropriately engineered structures. Due to the practically limitless supply of water vapor from the oceans, this approach is sustainable under climate change and can transform our ability to address present and future water security concerns. This approach is envisioned to be transformative in establishing a mechanism for sustainably providing freshwater security to the present and future generations that is economically viable.",
+    "readLink": "https://doi.org/10.1038/s41598-022-24314-2"
+  },
+  {
+    "title": "Primary Life Stage Boron Isotope and Trace Elements Incorporation in Aposymbiotic Acropora millepora Coral under Ocean Acidification and Warming",
+    "authors": [
+      "Henry C. Wu,",
+      "Henry C. Wu,",
+      "Delphine Dissard,",
+      "Florence Le Cornec,",
+      "François Thil,",
+      "Aline Tribollet,",
+      "Aurelie Moya,",
+      "Eric Douville"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2017.00129",
+    "journalVolume": "Vol. 4",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Early-life stages of reef-building corals are vital to coral existence and reef maintenance. It is therefore crucial to study juvenile coral response to future climate change pressures. Moreover, corals are known to be reliable recorders of environmental conditions in their skeletal materials. Aposymbiotic Acropora millepora larvae were cultured in different seawater temperature (27 and 29°C) and pCO2 (390 and 750 μatm) conditions to understand the impacts of “end of century” ocean acidification (OA) and ocean warming (OW) conditions on skeletal morphology and geochemistry. The experimental conditions impacted primary polyp juvenile coral skeletal morphology and growth resulting in asymmetric translucent appearances with brittle skeleton features. The impact of OA resulted in microstructure differences with decreased precipitation or lengthening of fasciculi and disorganized aragonite crystals that led to more concentrations of centers of calcifications. The coral skeletal δ11B composition measured by laser ablation MC-ICP-MS was significantly affected by pCO2 (p = 0.0024) and water temperature (p = 1.46 × 10−5). Reconstructed pH of the primary polyp skeleton using the δ11B proxy suggests a difference in coral calcification site and seawater pH consistent with previously observed coral pH up-regulation. Similarly, trace element results measured by laser ablation ICP-MS indicate the impact of pCO2. Primary polyp juvenile Sr/Ca ratio indicates a bias in reconstructed sea surface temperature (SST) under higher pCO2 conditions. Coral microstructure content changes (center of calcification and fasciculi) due to OA possibly contributed to the variability in B/Ca ratios. Our results imply that increasing OA and OW may lead to coral acclimation issues and species-specific inaccuracies of the commonly used Sr/Ca-SST proxy.",
+    "readLink": "http://journal.frontiersin.org/article/10.3389/fmars.2017.00129/full"
+  },
+  {
+    "title": "Local impact analysis of climate change on precipitation extremes: are high-resolution climate models needed for realistic simulations?",
+    "authors": [
+      "H. Tabari,",
+      "R. De Troch,",
+      "O. Giot,",
+      "R. Hamdi,",
+      "P. Termonia,",
+      "S. Saeed,",
+      "E. Brisson,",
+      "N. Van Lipzig,",
+      "P. Willems"
+    ],
+    "doi": "https://doi.org/10.5194/hess-20-3843-2016",
+    "journalVolume": "Vol. 20,\n                                no. 9\n                                \n                                  pp.\n                                  3843\n                                  – 3857",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "This study explores whether climate models with higher spatial resolutions provide higher accuracy for precipitation simulations and/or different climate change signals. The outputs from two convection-permitting climate models (ALARO and CCLM) with a spatial resolution of 3–4 km are compared with those from the coarse-scale driving models or reanalysis data for simulating/projecting daily and sub-daily precipitation quantiles. Validation of historical design precipitation statistics derived from intensity–duration–frequency (IDF) curves shows a better match of the convection-permitting model results with the observations-based IDF statistics compared to the driving GCMs and reanalysis data. This is the case for simulation of local sub-daily precipitation extremes during the summer season, while the convection-permitting models do not appear to bring added value to simulation of daily precipitation extremes. Results moreover indicate that one has to be careful in assuming spatial-scale independency of climate change signals for the delta change downscaling method, as high-resolution models may show larger changes in extreme precipitation. These larger changes appear to be dependent on the timescale, since such intensification is not observed for daily timescales for both the ALARO and CCLM models.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/20/3843/2016/hess-20-3843-2016.pdf"
+  },
+  {
+    "title": "Evidence of rapid adaptation integrated into projections of temperature-related excess mortality",
+    "authors": [
+      "Veronika Huber,",
+      "Cristina Peña Ortiz,",
+      "David Gallego Puyol,",
+      "Stefan Lange,",
+      "Francesco Sera"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac5dee",
+    "journalVolume": "Vol. 17,\n                                no. 4\n                                \n                                  p.\n                                  044075",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Few studies have used empirical evidence of past adaptation to project temperature-related excess mortality under climate change. Here, we assess adaptation in future projections of temperature-related excess mortality by employing evidence of shifting minimum mortality temperatures (MMTs) concurrent with climate warming of recent decades. The study is based on daily non-external mortality and daily mean temperature time-series from 11 Spanish cities covering four decades (1978–2017). It employs distributed lag non-linear models (DLNMs) to describe temperature-mortality associations, and multivariate mixed-effect meta-regression models to derive city- and subperiod-specific MMTs, and subsequently MMT associations with climatic indicators. We use temperature projections for one low- and one high-emission scenario (ssp126, ssp370) derived from five global climate models. Our results show that MMTs have closely tracked mean summer temperatures (MSTs) over time and space, with meta-regression models suggesting that the MMTs increased by 0.73 °C (95%CI: 0.65, 0.80) per 1 °C rise in MST over time, and by 0.84 °C (95%CI: 0.76, 0.92) per 1 °C rise in MST across cities. Future projections, which include adaptation by shifting MMTs according to observed temporal changes, result in 63.5% (95%CI: 50.0, 81.2) lower heat-related excess mortality, 63.7% (95%CI: 30.2, 166.7) higher cold-related excess mortality, and 11.2% (95%CI: −5.5, 39.5) lower total temperature-related excess mortality in the 2090s for ssp370 compared to estimates that do not account for adaptation. For ssp126, assumptions on adaptation have a comparatively small impact on excess mortality estimates. Elucidating the adaptive capacities of societies can motivate strengthened efforts to implement specific adaptation measures directed at reducing heat stress under climate change.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac5dee"
+  },
+  {
+    "title": "Protein analysis and gene expression indicate differential vulnerability of Iberian fish species under a climate change scenario.",
+    "authors": [
+      "Tiago F Jesus,",
+      "João M Moreno,",
+      "Tiago Repolho,",
+      "Alekos Athanasiadis,",
+      "Rui Rosa,",
+      "Vera M F Almeida-Val,",
+      "Maria M Coelho"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0181325",
+    "journalVolume": "Vol. 12,\n                                no. 7\n                                \n                                  p.\n                                  e0181325",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Current knowledge on the biological responses of freshwater fish under projected scenarios of climate change remains limited. Here, we examine differences in the protein configuration of two endemic Iberian freshwater fish species, Squalius carolitertii and the critically endangered S. torgalensis that inhabit in the Atlantic-type northern and in the Mediterranean-type southwestern regions, respectively. We performed protein structure modeling of fourteen genes linked to protein folding, energy metabolism, circadian rhythms and immune responses. Structural differences in proteins between the two species were found for HSC70, FKBP52, HIF1α and GPB1. For S. torgalensis, besides structural differences, we found higher thermostability for two proteins (HSP90 and GBP1), which can be advantageous in a warmer environment. Additionally, we investigated how these species might respond to projected scenarios of 3° climate change warming, acidification (ΔpH = -0.4), and their combined effects. Significant changes in gene expression were observed in response to all treatments, particularly under the combined warming and acidification. While S. carolitertii presented changes in gene expression for multiple proteins related to folding (hsp90aa1, hsc70, fkbp4 and stip1), only one such gene was altered in S. torgalensis (stip1). However, S. torgalensis showed a greater capacity for energy production under both the acidification and combined scenarios by increasing cs gene expression and maintaining ldha gene expression in muscle. Overall, these findings suggest that S. torgalensis is better prepared to cope with projected climate change. Worryingly, under the simulated scenarios, disturbances to circadian rhythm and immune system genes (cry1aa, per1a and gbp1) raise concerns for the persistence of both species, highlighting the need to consider multi-stressor effects when evaluating climate change impacts upon fish. This work also highlights that assessments of the potential of endangered freshwater species to cope with environmental change are crucial to help decision-makers adopt future conservation strategies.",
+    "readLink": "http://europepmc.org/articles/PMC5515415?pdf=render"
+  }
+]

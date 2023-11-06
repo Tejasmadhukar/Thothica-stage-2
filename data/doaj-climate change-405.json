@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Satellite-Based Observations Reveal the Altitude-Dependent Patterns of <i>SIF<sub>yield</sub></i> and Its Sensitivity to Ambient Temperature in Tibetan Meadows",
+    "authors": [
+      "Ruonan Chen,",
+      "Liangyun Liu,",
+      "Xinjie Liu"
+    ],
+    "doi": "https://doi.org/10.3390/rs13071400",
+    "journalVolume": "Vol. 13,\n                                no. 1400\n                                \n                                  p.\n                                  1400",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Photosynthesis and its sensitivity to the changing environment in alpine regions are of great significance to the understanding of vegetation–environment interactions and other global ecological processes in the context of global change, while their variations along the elevation gradient remain unclear. Using solar-induced chlorophyll fluorescence (SIF) derived from satellite observations, we discovered an increase in solar-induced fluorescence yield (SIFyield) with rising elevation in Tibetan meadows in the summer, related to the altitudinal variation in temperature sensitivity at both seasonal and interannual scales. Results of the altitudinal patterns of SIFyield demonstrated higher temperature sensitivity at high altitudes, and the sensitivity at the interannual scale even exceeds that at seasonal scale when the elevation reaches above 4700 m. This high-temperature sensitivity of SIFyield at high altitudes implies potential adaptation of alpine plants and also indicates that changes in photosynthesis-related physiological functions at high altitudes should receive more attention in climate change research. The altitudinal SIFyield patterns revealed in this study also highlight that variations in temperature sensitivity should be considered in models, otherwise the increasing trend of SIFyield observations can never be discovered in empirical simulations.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/7/1400"
+  },
+  {
+    "title": "Integrating climate change adaptation policies in spatial development planning in hyperarid regions of Kerman province, Iran",
+    "authors": [
+      "Hossein Karami,",
+      "Romina Sayahnia,",
+      "Shahindokht Barghjelveh"
+    ],
+    "doi": "Vol. 9,\n                                no. 9\n                                \n                                  p.\n                                  e19785",
+    "issn": "2405-8440 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.cell.com/heliyon/home",
+    "abstract": "In recent years, lifestyle changes and urbanization of societies, as well as macro-environmental changes, i.e. climate changes (CCs), have caused changes in the land spatial structure and the transfer of resources between different economic sectors of the land. The development of long-term spatial development plans (SDPs) needs to be compatible with CCs, especially in hyperarid areas with low supplies and high demands. In this research, machine learning methods; including Cellular Automata (CA), Random Forest (RF) and regression models through PLUS model were used to simulate the amount of supplies and demands based on land cover (LC) maps during the years 2000, 2010 and 2020 in the hyperarid areas of Kerman, Iran. Then, the best predicted model (Kappa = 0.94, overall accuracy = 0.98) was used to simulate changes in LC classes under climate change scenarios (CCSs) for 2050. The results showed the efficiency of machine learning in simulating land cover changes (LCCs) under CCSs. Findings revealed that SDPs of these areas are not compatible under any possible consideration of CCSs. The modeling results showed that spatial development plans under CCSs is not environmentally efficient and there is no compatibility between supplies, based on agricultural lands, and demands, based on increased population, by 2050. Overall, under the scenario of RCP 8.5, man-made, agriculture and natural LC classes with 106.9, 2.9, and 18.6% changes, respectively, showed the greatest changes compared to 2020. Population control, adjustment of infrastructures, and changes in LC plans can reduce socio-economical and socio-environmental problems in the future of hyperarid areas to some extent.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405844023069931"
+  },
+  {
+    "title": "Explaining changes in rainfall–runoff relationships during and  after Australia's Millennium Drought: a community perspective",
+    "authors": [
+      "K. Fowler,",
+      "M. Peel,",
+      "M. Saft,",
+      "T. J. Peterson,",
+      "A. Western,",
+      "L. Band,",
+      "L. Band,",
+      "C. Petheram,",
+      "S. Dharmadi,",
+      "K. S. Tan,",
+      "L. Zhang,",
+      "P. Lane,",
+      "A. Kiem,",
+      "L. Marshall,",
+      "L. Marshall,",
+      "A. Griebel,",
+      "B. E. Medlyn,",
+      "D. Ryu,",
+      "G. Bonotto,",
+      "C. Wasko,",
+      "A. Ukkola,",
+      "C. Stephens,",
+      "A. Frost,",
+      "H. Gardiya Weligamage,",
+      "P. Saco,",
+      "H. Zheng,",
+      "F. Chiew,",
+      "E. Daly,",
+      "G. Walker,",
+      "R. W. Vervoort,",
+      "J. Hughes,",
+      "L. Trotter,",
+      "B. Neal,",
+      "I. Cartwright,",
+      "R. Nathan"
+    ],
+    "doi": "https://doi.org/10.5194/hess-26-6073-2022",
+    "journalVolume": "Vol. 26\n                                \n                                \n                                  pp.\n                                  6073\n                                  – 6120",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "The Millennium Drought lasted more than a decade and is notable for causing persistent shifts in the relationship between rainfall and runoff in many southeastern Australian catchments. Research to date has successfully characterised where and when shifts occurred and explored relationships with potential drivers, but a convincing physical explanation for observed changes in catchment behaviour is still lacking. Originating from a large multi-disciplinary workshop, this paper presents and evaluates a range of hypothesised process explanations of flow response to the Millennium Drought. The hypotheses consider climatic forcing, vegetation, soil moisture dynamics, groundwater, and anthropogenic influence. The hypotheses are assessed against evidence both temporally (e.g. why was the Millennium Drought different to previous droughts?) and spatially (e.g. why did rainfall–runoff relationships shift in some catchments but not in others?). Thus, the strength of this work is a large-scale assessment of hydrologic changes and potential drivers. Of 24 hypotheses, 3 are considered plausible, 10 are considered inconsistent with evidence, and 11 are in a category in between, whereby they are plausible yet with reservations (e.g. applicable in some catchments but not others). The results point to the unprecedented length of the drought as the primary climatic driver, paired with interrelated groundwater processes, including declines in groundwater storage, altered recharge associated with vadose zone expansion, and reduced connection between subsurface and surface water processes. Other causes include increased evaporative demand and harvesting of runoff by small private dams. Finally, we discuss the need for long-term field monitoring, particularly targeting internal catchment processes and subsurface dynamics. We recommend continued investment in the understanding of hydrological shifts, particularly given their relevance to water planning under climate variability and change.",
+    "readLink": "https://hess.copernicus.org/articles/26/6073/2022/hess-26-6073-2022.pdf"
+  },
+  {
+    "title": "Economic Valuation of Fish Provision, Wastewater Treatment, and Coastal Protection in the Israeli Mediterranean Sea",
+    "authors": [
+      "Shiri Zemah-Shamir,",
+      "Yoav Peled,",
+      "Mordechai Shechter,",
+      "Álvaro Israel,",
+      "Eyal Ofir,",
+      "Gideon Gal"
+    ],
+    "doi": "https://doi.org/10.3390/fishes8050236",
+    "journalVolume": "Vol. 8,\n                                no. 236\n                                \n                                  p.\n                                  236",
+    "issn": "2410-3888 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Genetics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/fishes",
+    "abstract": "While many current and potential uses of the Israeli Mediterranean Sea have clearly defined the economic value and apparent benefits to various stakeholders (e.g., energy and raw materials extraction and maritime traffic), the benefits of these local marine ecosystems are still severely underexplored and are not manifested in economic terms. Coupled with ongoing environmental deterioration such as overfishing, climate change, and biological invasion, the need for performing monetary valuations of the benefits derived from this ecosystem is clearly evident. In this study, we evaluated three marine and coastal ecosystem services, namely, food provisioning, wastewater treatment, and coastal protection, in order to better quantify and map their importance to society. Food provisioning was inspected through the fishing sector, and its benefits were analyzed using the bioeconomic model. The results recommend a reduction in fishing efforts to increase overall biomass levels of both local and invasive fish species. However, this may lead to an economic loss in fishery profits due to reduced catch levels. The economic valuation of wastewater treatment as an ecosystem service hint at possible thresholds governed by effluent volumes and environmental conditions, whereby exceedance of Good Environmental Status (GES) standards may lead to a reduction of ~25% in the potential benefit of this ecosystem service. Finally, this study proposes an engineering restoration solution for compromised intertidal abrasion platforms, with estimated costs and potential benefits for the conservation of at-risk areas. The annual economic value of this ecosystem service is NIS 65–209 million (EUR 16.2–52.2 million).",
+    "readLink": "https://www.mdpi.com/2410-3888/8/5/236"
+  },
+  {
+    "title": "Erosion control properties of self-seeded forests that appeared in forestless areas of ravine-gully systems",
+    "authors": [
+      "Maliuha Volodymyr,",
+      "Khryk Vasyl,",
+      "Yukhnovskyi Vasyl,",
+      "Minder Victoria,",
+      "Levandovska Svitlana,",
+      "Kimeichuk Ivan,",
+      "Brovko Fedir,",
+      "Urliuk Yurii"
+    ],
+    "doi": "https://doi.org/10.2478/fsmu-2022-0012",
+    "journalVolume": "Vol. 77,\n                                no. 1\n                                \n                                  pp.\n                                  56\n                                  – 66",
+    "issn": "1736-8723 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Estonia",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://sciendo.com/journal/FSMU",
+    "abstract": "During land unsoldering in Ukraine, so-called “self-seeded forests” appeared on lands that had not been used for agriculture for a long time. The purpose of the research is to find out the erosion control properties of self-seeded forests. Twelve locations of natural regeneration of various types of woody plants on the ravine-gully system of Cherkasy region were chosen as research sites. Self-seeded woods have a structure of different ages from 8 to 25 years. Most of them are represented by mixed stands, which increase their biological stability. They are better adapted to the current climate change. The formation of uneven-aged stands of natural regeneration with high resistance and erosion control properties was noted. According to the qualitative indicator of productivity, the natural regeneration turned out to be different, which was primarily caused by forest sites conditions, in particular, the steepness, the position on the slope, and the thickness of the humus horizon of the soil. The hardness of the soil was determined in the range from 17.1 to 19.0 kg/cm2, which corresponds to an average loose state. The hardness of the soil in the control was 23.9 kg/cm2, which corresponds to its compacted state. The water permeability of the soil under the studied stands was 11.1–27.3 (control – 8.9) mm/min, which characterizes it from the best to chasm. The obtained soil water permeability data confirm the rapid transfer of surface runoff to subsoil, which prevents the development of erosion processes. Natural regeneration on the slopes of the ravine-gully system is determined to be successful, although it requires considerable time for the formation of full-fledged plantations.",
+    "readLink": "https://doi.org/10.2478/fsmu-2022-0012"
+  },
+  {
+    "title": "Is there a common threshold to subfossil chironomid assemblages at 16 m water depth? Evidence from the Tibetan Plateau",
+    "authors": [
+      "Andreas Laug,",
+      "Falko Turner,",
+      "Stefan Engels,",
+      "Junbo Wang,",
+      "Torsten Haberzettl,",
+      "Jianting Ju,",
+      "Siwei Yu,",
+      "Qiangqiang Kou,",
+      "Nicole Börner,",
+      "Antje Schwalb"
+    ],
+    "doi": "https://doi.org/10.4081/jlimnol.2020.1964",
+    "issn": "1129-5767 (Print)",
+    "publisher": "1723-8633 (Online)",
+    "countryOfPublisher": "PAGEPress Publications",
+    "lcc": [
+      "Italy",
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.jlimnol.it",
+    "abstract": "Fluctuating lake levels are an important driver of ecosystem change, and changes in the precipitation/evaporation balance of a region can lead to undesirable changes in ecosystem functioning. Large-scale changes in hydrology will become increasingly more likely as a result of ongoing climate change in the coming century. This is especially true for the Tibetan Plateau, which plays a crucial role as the “Asian water tower” for the surrounding densely populated regions. Chironomids (Diptera: Chironomidae) have proven to be one of the most valuable bioindicators for monitoring and reconstructing the development of aquatic ecosystems. Besides temperature, water depth and salinity are two of the most important environmental factors affecting chironomids. To study the relationship between chironomids and water depth, we analyzed surface sediment samples of two large Tibetan lakes, Selin Co and Taro Co. These lakes have similar environmental conditions (e.g. elevation, temperature and oxygenation) but show strong differences in salinity (7–10 and 0.5 ppt, respectively). Our results show that the chironomid assemblages in both lakes have similar water depths at which the fauna abruptly changes in composition, despite different faunal assemblages. The most important boundaries were identified at 0.8 and 16 m water depth. While the uppermost meter, the “splash zone”, is characterized by distinctly different conditions, resulting from waves and changing water levels, the cause of the lower zone boundary remains enigmatic. Even though none of the measured water depth-related factors, such as water temperature, oxygen content, sediment properties, light intensity or macrophyte vegetation, show a distinct change at 16 m water depth, comparison to other records show that a similar change in the chironomid fauna occurs at 16 m water depth in large, deep lakes around the world. We propose that this boundary might be connected to water pressure influencing the living conditions of the larvae or the absolute distance to the surface that has to be covered for the chironomid larvae to hatch. We conclude that water depth either directly or indirectly exerts a strong control on the chironomid assemblages even under different salinities, resulting in distribution patterns that can be used to reconstruct past fluctuations in water depths.",
+    "readLink": "https://jlimnol.it/index.php/jlimnol/article/view/1964"
+  },
+  {
+    "title": "Observation-constrained estimates of the global ocean carbon sink from Earth system models",
+    "authors": [
+      "J. Terhaar,",
+      "J. Terhaar,",
+      "T. L. Frölicher,",
+      "T. L. Frölicher,",
+      "F. Joos,",
+      "F. Joos"
+    ],
+    "doi": "https://doi.org/10.5194/bg-19-4431-2022",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  4431\n                                  – 4457",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "The ocean slows global warming by currently taking up around one-quarter of all human-made CO2 emissions. However, estimates of the ocean anthropogenic carbon uptake vary across various observation-based and model-based approaches. Here, we show that the global ocean anthropogenic carbon sink simulated by Earth system models can be constrained by two physical parameters, the present-day sea surface salinity in the subtropical–polar frontal zone in the Southern Ocean and the strength of the Atlantic Meridional Overturning Circulation, and one biogeochemical parameter, the Revelle factor of the global surface ocean. The Revelle factor quantifies the chemical capacity of seawater to take up carbon for a given increase in atmospheric CO2. By exploiting this three-dimensional emergent constraint with observations, we provide a new model- and observation-based estimate of the past, present, and future global ocean anthropogenic carbon sink and show that the ocean carbon sink is 9 %–11 % larger than previously estimated. Furthermore, the constraint reduces uncertainties of the past and present global ocean anthropogenic carbon sink by 42 %–59 % and the future sink by 32 %–62 % depending on the scenario, allowing for a better understanding of the global carbon cycle and better-targeted climate and ocean policies. Our constrained results are in good agreement with the anthropogenic carbon air–sea flux estimates over the last three decades based on observations of the CO2 partial pressure at the ocean surface in the Global Carbon Budget 2021, and they suggest that existing hindcast ocean-only model simulations underestimate the global ocean anthropogenic carbon sink. The key parameters identified here for the ocean anthropogenic carbon sink should be quantified when presenting simulated ocean anthropogenic carbon uptake as in the Global Carbon Budget and be used to adjust these simulated estimates if necessary. The larger ocean carbon sink results in enhanced ocean acidification over the 21st century, which further threatens marine ecosystems by reducing the water volume that is projected to be undersaturated towards aragonite by around 3.7×106–7.4×106 km3 more than originally projected.",
+    "readLink": "https://bg.copernicus.org/articles/19/4431/2022/bg-19-4431-2022.pdf"
+  },
+  {
+    "title": "The Water-Saving Strategies Assessment (WSSA) Framework: An Application for the Urmia Lake Restoration Program",
+    "authors": [
+      "Somayeh Shadkam,",
+      "Pieter van Oel,",
+      "Pavel Kabat,",
+      "Amin Roozbahani,",
+      "Fulco Ludwig"
+    ],
+    "doi": "https://doi.org/10.3390/w12102789",
+    "journalVolume": "Vol. 12,\n                                no. 2789\n                                \n                                  p.\n                                  2789",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Increases in water demand often result in unsustainable water use, leaving insufficient amounts of water for the environment. Therefore, water-saving strategies have been introduced to the environmental policy agenda in many (semi)-arid regions. As many such interventions failed to reach their objectives, a comprehensive tool is needed to assess them. We introduced a constructive framework to assess the proposed strategies by estimating five key components of the water balance in an area: (1) Demand; (2) Availability; (3) Withdrawal; (4) Depletion and (5) Outflow. The framework was applied to assess the Urmia Lake Restoration Program (ULRP) which aimed to increase the basin outflow to the lake to reach 3.1 × 109 m3 yr−1. Results suggested that ULRP could help to increase the Outflow by up to 57%. However, successful implementation of the ULRP was foreseen to be impeded because of three main reasons: (i) decreasing return flows; (ii) increased Depletion; (iii) the impact of climate change. Decreasing return flows and increasing Depletion were expected due to the introduction of technologies that increase irrigation efficiency, while climate change could decrease future water availability by an estimated 3–15%. We suggest that to reach the intervention target, strategies need to focus on reducing water depletion rather than water withdrawals. The framework can be used to comprehensively assess water-saving strategies, particularly in water-stressed basins.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/10/2789"
+  },
+  {
+    "title": "Payments for adding ecosystem carbon are mostly beneficial to biodiversity",
+    "authors": [
+      "Markku Larjavaara,",
+      "Tim R B Davenport,",
+      "Adi Gangga,",
+      "Saara Holm,",
+      "Markku Kanninen,",
+      "Nguyen Dinh Tien"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ab1554",
+    "journalVolume": "Vol. 14,\n                                no. 5\n                                \n                                  p.\n                                  054001",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Biodiversity conservation is often considered to be an important co-benefit of REDD+ and other mechanisms aiming to increase carbon in biomass and soil to mitigate climate change. This reasoning is based on the assumption that the level of biodiversity and ecosystem carbon are positively correlated. Firstly, however, studies have shown both positive and negative relationships. Secondly, incentives for additional ecosystem carbon do not trigger random or all potential changes in land-use, but often concentrate on one or a few specific changes that could have an opposite effect than the general trend indicates. Therefore, it is important to study biodiversity impacts of plausible measures to increase carbon. We obtained land-use scenarios on pathways to increase carbon based on 97 face-to-face interviews of local land-use experts in twelve landscapes in seven countries and five continents. We then conducted another set of face-to-face interviews with biodiversity experts yielding 2963 estimations concerning the value of land-use classes for 264 taxa of fauna and flora in these landscapes. We found positive carbon to biodiversity relationships in ten of the twelve landscapes. The biodiversity impacts of measures to increase carbon were positive in eleven of the twelve landscapes. Our results indicate that a random land-use change that increases biodiversity is also likely to increase carbon and vice versa.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ab1554"
+  },
+  {
+    "title": "Hydrochar Application Improves Growth and Intrinsic Water Use Efficiency of <i>Populus alba</i>, Especially during Hot Season",
+    "authors": [
+      "Giovanna Battipaglia,",
+      "Francesco Niccoli,",
+      "Jerzy Piotr Kabala,",
+      "Rossana Marzaioli,",
+      "Teresa Di Santo,",
+      "Sandro Strumia,",
+      "Simona Castaldi,",
+      "Milena Petriccione,",
+      "Lucio Zaccariello,",
+      "Daniele Battaglia,",
+      "Maria Laura Mastellone,",
+      "Elio Coppola,",
+      "Flora Angela Rutigliano"
+    ],
+    "doi": "https://doi.org/10.3390/f14040658",
+    "journalVolume": "Vol. 14,\n                                no. 658\n                                \n                                  p.\n                                  658",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Hydrochar, carbon-rich material produced during the thermochemical processing of biomass, is receiving increased attention due to its potential value as soil amendment. It can increase agroforestry systems’ productivity through direct and indirect effects on growth and soil quality. Hydrochar may also directly help mitigate climate change by sequestering stable carbon compounds in the soil and perhaps indirectly through increased C uptake by trees. In this research, we aim to evaluate how the application of hydrochar produced by two feedstock types, Cynara cardunculus L. (Hc) residuals and sewage sludge (Hs), and in two different doses (3 and 6 kg m−2) could improve the growth and water use efficiency of Populus alba L., a fast-growing tree species largely used in agroforestry as bioenergy crops and in C sequestration. We considered five plants per treatment, and we measured apical growth, secondary growth, leaf area and intrinsic water use efficiency in each plant for the whole growing season from February to October 2022. Our results highlighted that hydrochar applications stimulate the growth and water use efficiency of plants and that the double dose (6 kg m−2) of both hydrochars, and particularly Hc, had positive effects on plant performance, especially during extremely hot periods. Indeed, the year 2022 was characterized by a heat wave during the summer period, and this condition allowed us to evaluate how plants, growing in soils amended with hydrochar, could perform under climate extremes. Our findings showed that the control plants experienced severe damage in terms of dried stems and dried leaves during summer 2022, while hydrochar applications reduced these effects.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/4/658"
+  }
+]

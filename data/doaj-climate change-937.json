@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Monitoring Spatiotemporal Variation of Individual Tree Biomass Using Multitemporal LiDAR Data",
+    "authors": [
+      "Zhiyong Qi,",
+      "Shiming Li,",
+      "Yong Pang,",
+      "Liming Du,",
+      "Haoyan Zhang,",
+      "Zengyuan Li"
+    ],
+    "doi": "https://doi.org/10.3390/rs15194768",
+    "journalVolume": "Vol. 15,\n                                no. 4768\n                                \n                                  p.\n                                  4768",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Assessing the spatiotemporal changes in forest aboveground biomass (AGB) provides crucial insights for effective forest carbon stock management, an accurate estimation of forest carbon uptake and release balance, and a deeper understanding of forest dynamics and climate responses. However, existing research in this field often lacks a comprehensive methodology for capturing tree-level AGB dynamics using multitemporal remote sensing techniques. In this study, we quantitatively characterized spatiotemporal variations of tree-level AGB in boreal natural secondary forests in the Greater Khingan Mountains region using multitemporal light detection and ranging (LiDAR) data acquired in 2012, 2016, and 2022. Our methodology emphasized improving the accuracy of individual tree segmentation algorithms by taking advantage of canopy structure heterogeneity. We introduced a novel three-dimensional metric, similar to crown width, integrated with tree height to calculate tree-level AGB. Moreover, we address the challenge of underestimating tree-level metrics resulting from low pulse density, ensuring accurate monitoring of AGB changes for every two acquisitions. The results showed that the LiDAR-based ΔAGB explained 62% to 70% of the variance of field-measured ΔAGB at the tree level. Furthermore, when aggregating the tree-level AGB estimates to the plot level, the results also exhibited robust and reasonable accuracy. We identified the average annual change in tree-level AGB and tree height across the study region, quantifying them at 2.23 kg and 0.25 m, respectively. Furthermore, we highlighted the importance of the Gini coefficient, which represents canopy structure heterogeneity, as a key environmental factor that explains relative AGB change rates at the plot level. Our contribution lies in proposing a comprehensive framework for analyzing tree-level AGB dynamics using multitemporal LiDAR data, paving the way for a nuanced understanding of fine-scale forest dynamics. We argue that LiDAR technology is becoming increasingly valuable in monitoring tree dynamics, enabling the application of high-resolution ecosystem dynamics products to elucidate ecological issues and address environmental challenges.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/19/4768"
+  },
+  {
+    "title": "A Univariate Extreme Value Analysis and Change Point Detection of Monthly Discharge in Kali Kupang, Central Java, Indonesia",
+    "authors": [
+      "Sandy H. S. Herho"
+    ],
+    "doi": "https://doi.org/10.30630/joiv.6.4.953",
+    "journalVolume": "Vol. 6,\n                                no. 4\n                                \n                                  pp.\n                                  862\n                                  – 868",
+    "issn": "2549-9610 (Print)",
+    "publisher": "2549-9904 (Online)",
+    "countryOfPublisher": "Politeknik Negeri Padang",
+    "lcc": [
+      "Indonesia",
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science: Computer software"
+    ],
+    "journalUrl": "http://joiv.org",
+    "abstract": "Kali Kupang plays an important role in the life of the people of Pekalongan and its surrounding areas. However, until recently, not many hydrological studies have been carried out in this area. This study presents how Extreme Value Analysis (EVA) can predict future extreme hydrological events and how a dynamic-programming-based change point detection algorithm can detect the abrupt transition in discharge events variability. Using the annual block maxima, we can predict the upper extreme discharge probability from the generalized extreme value distribution (GEVD) that best fits the data by using the Markov Chain Monte Carlo (MCMC) algorithm as a distribution fitting method. Metropolis-Hasting (MH) algorithm with 500 walkers and 2,500 samples for each walker is used to generate random samples from the prior distribution. As a result, this discharge data can be categorized as a Gumbel distribution ( = 6.818, = 3.456, and = 0). The recurrence intervals (RI) for this discharge data can be calculated through this distribution. The changepoint location of the annual standard deviation of this discharge data in the mid-1990s is detected by using the pruned exact linear time (PELT) algorithm. Despite some shortcomings, this study can pave the way for using data-driven algorithms, along with more traditional numerical and descriptive approaches, to analyze hydrological time-series data in Indonesia. This is crucial, considering an increasing number of hydro climatological disasters in the future as a consequence of global climate change.",
+    "readLink": "https://joiv.org/index.php/joiv/article/view/953"
+  },
+  {
+    "title": "No regrets",
+    "authors": [
+      "Vikram Odedra Kolmannskog"
+    ],
+    "doi": "no. 31\n                                \n                                  p.\n                                  46",
+    "issn": "1460-9819 (Print)",
+    "publisher": "2051-3070 (Online)",
+    "countryOfPublisher": "University of Oxford",
+    "lcc": [
+      "United Kingdom",
+      "Social Sciences: Social history and conditions. Social problems. Social reform"
+    ],
+    "journalUrl": "https://www.fmreview.org",
+    "abstract": "Adaptation in the most exposed and vulnerable states mustbe an international task.",
+    "readLink": "http://www.fmreview.org/en/FMRpdfs/FMR31/46.pdf"
+  },
+  {
+    "title": "Life cycle impact assessment of biofuels derived from sweet sorghum in the U.S.",
+    "authors": [
+      "Karla G. Morrissey,",
+      "Greg Thoma,",
+      "Dora E. López"
+    ],
+    "doi": "https://doi.org/10.1186/s13068-021-02009-6",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "1754-6834 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Chemical technology: Fuel",
+      "Technology: Chemical technology: Biotechnology"
+    ],
+    "journalUrl": "https://biotechnologyforbiofuels.biomedcentral.com",
+    "abstract": "Abstract Background The objective of this study was to evaluate the environmental impact of the production of a range of liquid biofuels produced from the combination of fermenting sorghum stalk juice (bioethanol) and the pyrolysis/hydrotreatment of residual bagasse (renewable gasoline and diesel). Life cycle impact assessment (LCIA) was performed on a farm-to-wheels system that included: (i) sorghum farming, (ii) juice extraction, (iii) juice fermenting, (iv) bagasse pretreatment, (v) bagasse thermochemical treatment (pyrolysis, hydroprocessing, and steam reforming), and (vi) typical passenger vehicle operation. LCIA results were compared to those of petroleum fuels providing the equivalent functional unit—cumulative kilometers driven by spark ignition direct injection (SIDI) vehicles utilizing either renewable gasoline or ‘bioE85—a blend of bioethanol and renewable gasoline,’ and a compression ignition direct injection (CIDI) vehicle utilizing renewable diesel produced from 76 tons of harvested sweet sorghum (1 ha). Results Sweet sorghum biofuels resulted in a 48% reduction climate change impact and a 52% reduction in fossil fuel depletion. Additionally, reduced impacts in ozone depletion and eutrophication were found (67% and 47%, respectively). Petroleum fuels had lower impacts for the categories of non-carcinogenic health impact, smog, respiratory effects, and ecotoxicity, showing tradeoffs between sorghum and petroleum fuels. Conclusion Overall, sorghum biofuels provide advantages in environmental impact categories including global warming potential, fossil fuel depletion and eutrophication, showing potential for sorghum as a promising second-generation feedstock for fuel.",
+    "readLink": "https://doi.org/10.1186/s13068-021-02009-6"
+  },
+  {
+    "title": "Synthetic liquid fuels: prospects for innovative technologies based on underground coal gasification",
+    "authors": [
+      "Tyurina E. A.,",
+      "Elsukov P. Yu.,",
+      "Mednikov A.S."
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202020903026",
+    "journalVolume": "Vol. 209\n                                \n                                \n                                  p.\n                                  03026",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The growing demand for energy, the depletion of oil and gas reserves, and the threat of global climate change have led to an increase in interest in underground coal gasification technologies (UCG) around the world. The potential for using underground gasification of low-grade coal resources with complex mining and geological conditions is huge. The main challenge is the development of competitive technologies for the production of synthesis gas and production of electricity, heat, and synthetic liquid fuels on its basis. The paper presents a study of one of the promising areas of the use of UCG gas for the combined production of synthetic liquid fuel (methanol) and electricity. A mathematical model of the installation for combined production of methanol and electricity (ICPME) was developed. Based on this mathematical model, a technical and economic optimization of the parameters was carried out to assess the prospects of the scale of application of this coal processing method. The purpose of research conducted using the mathematical models of the ICPME is to determine the optimal parameters of the installation and the sensitivity of its economic performance indicators to changes in external conditions.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/69/e3sconf_energy-212020_03026.pdf"
+  },
+  {
+    "title": "Enhanced weathering potentials—the role of in situ CO2 and grain size distribution",
+    "authors": [
+      "Thorben Amann,",
+      "Jens Hartmann,",
+      "Roland Hellmann,",
+      "Elisabete Trindade Pedrosa,",
+      "Aman Malik"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2022.929268",
+    "journalVolume": "Vol. 4",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "The application of rock powder on agricultural land to ameliorate soils and remove carbon dioxide (CO2) from the air by chemical weathering is still subject to many uncertainties. To elucidate the effects of grain size distribution and soil partial pressure of carbon dioxide (pCO2) levels on CO2 uptake rates, two simple column experiments were designed and filled nearly daily with an amount of water that simulates humid tropical conditions, which prevail in areas known for being hotspots of weathering. Multiple materials (dunite, basanite, agricultural oxisol, a combination of the latter two, and loess) were compared under ambient and 100% CO2 atmosphere. In a second series, single material columns (dunite) were filled with three different grain size distributions. Total alkalinity, pH, major ions, and dissolved silica were determined in the outflow water of the columns for about 300 days. Under ambient atmospheric conditions, the CO2 consumption was the lowest in the oxisol column, with 100 t CO2 km−2 year−1, while dunite and basanite showed similar consumption rates (around 220 t CO2 km−2 year−1). The values are comparable to high literature values for ultramafic lithologies. Interestingly, the mixture of basanite and oxisol has a much higher consumption rate (around 430 t CO2 km−2 year−1) than the basanite alone. The weathering fluxes under saturated CO2 conditions are about four times higher in all columns, except the dunite column, where fluxes are increased by a factor of more than eleven. Grain size distribution differences also play a role, with the highest grain surface area normalized weathering rates observed in the columns with coarser grains, which at first seems counterintuitive. Our findings point to some important issues to be considered in future experiments and a potential rollout of EW as a carbon dioxide removal method. Only in theory do small grain sizes of the spread-material yield higher CO2 drawdown potentials than coarser material. The hydrologic conditions, which determine the residence times in the pore space, i.e., the time available for weathering reactions, can be more important than small grain size. Saturated-CO2 column results provide an upper limit for weathering rates under elevated CO2.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2022.929268/full"
+  },
+  {
+    "title": "Climate change induced socio-economic tipping points: review and stakeholder consultation for policy relevant research",
+    "authors": [
+      "Kees C H van Ginkel,",
+      "W J Wouter Botzen,",
+      "Marjolijn Haasnoot,",
+      "Gabriel Bachner,",
+      "Karl W Steininger,",
+      "Jochen Hinkel,",
+      "Paul Watkiss,",
+      "Esther Boere,",
+      "Ad Jeuken,",
+      "Elisa Sainz de Murieta,",
+      "Francesco Bosello"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ab6395",
+    "journalVolume": "Vol. 15,\n                                no. 2\n                                \n                                  p.\n                                  023001",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Tipping points have become a key concept in research on climate change, indicating points of abrupt transition in biophysical systems as well as transformative changes in adaptation and mitigation strategies. However, the potential existence of tipping points in socio-economic systems has remained underexplored, whereas they might be highly policy relevant. This paper describes characteristics of climate change induced socio-economic tipping points (SETPs) to guide future research on SETPS to inform climate policy. We review existing literature to create a tipping point typology and to derive the following SETP definition: a climate change induced, abrupt change of a socio-economic system, into a new, fundamentally different state. Through stakeholder consultation, we identify 22 candidate SETP examples with policy relevance for Europe. Three of these are described in higher detail to identify their tipping point characteristics (stable states, mechanisms and abrupt change): the collapse of winter sports tourism, farmland abandonment and sea-level rise-induced migration. We find that stakeholder perceptions play an important role in describing SETPs. The role of climate drivers is difficult to isolate from other drivers because of complex interplays with socio-economic factors. In some cases, the rate of change rather than the magnitude of change causes a tipping point. The clearest SETPs are found on small system scales. On a national to continental scale, SETPs are less obvious because they are difficult to separate from their associated economic substitution effects and policy response. Some proposed adaptation measures are so transformative that their implementations can be considered an SETP in terms of ‘response to climate change’. Future research can focus on identification and impact analysis of tipping points using stylized models, on the exceedance of stakeholder-defined critical thresholds in the RCP/SSP space and on the macro-economic impacts of new system states.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ab6395"
+  },
+  {
+    "title": "Projected future distributions of vectors of Trypanosoma cruzi in North America under climate change scenarios.",
+    "authors": [
+      "Miroslava Garza,",
+      "Teresa Patricia Feria Arroyo,",
+      "Edgar A Casillas,",
+      "Victor Sanchez-Cordero,",
+      "Chissa-Louise Rivaldi,",
+      "Sahotra Sarkar"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pntd.0002818",
+    "journalVolume": "Vol. 8,\n                                no. 5\n                                \n                                  p.\n                                  e2818",
+    "issn": "1935-2727 (Print)",
+    "publisher": "1935-2735 (Online)",
+    "countryOfPublisher": "Public Library of Science (PLoS)",
+    "lcc": [
+      "United States",
+      "Medicine: Internal medicine: Special situations and conditions: Arctic medicine. Tropical medicine",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://journals.plos.org/plosntds/",
+    "abstract": "Chagas disease kills approximately 45 thousand people annually and affects 10 million people in Latin America and the southern United States. The parasite that causes the disease, Trypanosoma cruzi, can be transmitted by insects of the family Reduviidae, subfamily Triatominae. Any study that attempts to evaluate risk for Chagas disease must focus on the ecology and biogeography of these vectors. Expected distributional shifts of vector species due to climate change are likely to alter spatial patterns of risk of Chagas disease, presumably through northward expansion of high risk areas in North America.We forecast the future (2050) distributions in North America of Triatoma gerstaeckeri and T. sanguisuga, two of the most common triatomine species and important vectors of Trypanosoma cruzi in the southern United States. Our aim was to analyze how climate change might affect the future shift of Chagas disease in North America using a maximum entropy algorithm to predict changes in suitable habitat based on vector occurrence points and predictive environmental variables. Projections based on three different general circulation models (CCCMA, CSIRO, and HADCM3) and two IPCC scenarios (A2 and B2) were analyzed. Twenty models were developed for each case and evaluated via cross-validation. The final model averages result from all twenty of these models. All models had AUC >0.90, which indicates that the models are robust. Our results predict a potential northern shift in the distribution of T. gerstaeckeri and a northern and southern distributional shift of T. sanguisuga from its current range due to climate change.The results of this study provide baseline information for monitoring the northward shift of potential risk from Chagas disease in the face of climate change.",
+    "readLink": "http://europepmc.org/articles/PMC4022587?pdf=render"
+  },
+  {
+    "title": "Pinus contorta Douglas ex Loudon and climate change: A literature review of opportunities, challenges, and risks in European forests",
+    "authors": [
+      "Stanislav Vacek,",
+      "Zdeněk Vacek,",
+      "Jan Cukor,",
+      "Vilém Podrázský,",
+      "Josef Gallo"
+    ],
+    "doi": "https://doi.org/10.17221/101/2022-JFS",
+    "journalVolume": "Vol. 68,\n                                no. 9\n                                \n                                  pp.\n                                  329\n                                  – 343",
+    "issn": "1212-4834 (Print)",
+    "publisher": "1805-935X (Online)",
+    "countryOfPublisher": "Czech Academy of Agricultural Sciences",
+    "lcc": [
+      "Czechia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://jfs.agriculturejournals.cz/",
+    "abstract": "Lodgepole pine (Pinus contorta Douglas ex Loudon) was distributed from its natural range in western North America to different destinations, primarily to Europe (Scandinavia, British Islands), South America (Chile, Argentina), and New Zealand. It is used for its superior timber production and resistance to environmental conditions. This literature review paper consists of 150 references and presents a summary of research results dealing with the lodgepole pine potential in general with a specific focus on Europe from 1910 to 2022. It summarizes the importance, taxonomy, biological and ecological characteristics, site requirements, production and silviculture, risks and pests, as well as the potential of this tree species for forestry and the wood industry in relation to global climate change. Pinus contorta also has a considerable potential in Central Europe, especially at extreme sites with strong anthropogenic impact and in polluted regions. This tree species is very resistant to climatic factors and extreme events compared to other coniferous tree species. Moreover, its annual increment reached from 3 m3.ha-1.yr-1 on reclamation sites to 18 m3.ha-1.yr-1 in favourable environmental conditions. On the other hand, caution must be taken for possible invasive behaviour outside its natural range. Its importance can increase with ongoing climate change and the decline of native tree species.",
+    "readLink": "https://jfs.agriculturejournals.cz/artkey/jfs-202209-0001_pinus-contorta-douglas-ex-loudon-and-climate-change-a-literature-review-of-opportunities-challenges-and-risk.php"
+  },
+  {
+    "title": "Evaluating Risk and Possible Adaptations to Climate Change Under a Socio-Ecological System Approach",
+    "authors": [
+      "Abi Haro,",
+      "Alma Mendoza-Ponce,",
+      "Alma Mendoza-Ponce,",
+      "Óscar Calderón-Bustamante,",
+      "Julián A. Velasco,",
+      "Francisco Estrada,",
+      "Francisco Estrada,",
+      "Francisco Estrada"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2021.674693",
+    "journalVolume": "Vol. 3",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "Evidence suggests that climate change could drastically reduce Mexico's agricultural productivity with severe socio-ecological consequences. Population growth and the increasing demand of resources will exacerbate these impacts. Focusing on rainfed maize production, we evaluate the socio-ecological risk that municipalities currently face and how climate change could modify it. Municipalities were classified based on their biophysical and socioeconomic traits like temperature, precipitation, population, gross domestic product, marginalization, and agricultural subsidies. The study identifies municipalities that would face higher risk under climate change conditions, and it evaluates whether increases in agricultural subsidies could be effective for reducing the farmers' future risk. Our results show that during the 2010's, 36.8% of the municipalities and 15% of the population were at very high and high risk, respectively. By 2070, under a high-warming scenario these figures increase to 56.5 and 18.5%. We find that a generalized augment in agricultural subsidies is not enough to compensate for the effects of climate change on the socio-ecological risk of rainfed maize producers. We suggest that transformative adaptation is required for managing the agricultural risk that socio-ecological systems experience under climate change conditions. Such adaptation strategies should include poverty alleviation, promotion of resistant and native varieties of crops, capacity building to improve management and water use, sustainable technification, and soil restoration.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2021.674693/full"
+  }
+]

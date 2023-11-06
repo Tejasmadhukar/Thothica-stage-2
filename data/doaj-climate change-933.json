@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Long-term population trends of introduced mammals on an tropical island",
+    "authors": [
+      "Júlio Haji,",
+      "Atilla Ferreguetti,",
+      "Ricardo S. Bovendorp,",
+      "Rafael S. Bueno,",
+      "Fernando Gonçalves,",
+      "Mauro Galetti"
+    ],
+    "doi": "Vol. 46\n                                \n                                \n                                  p.\n                                  e02623",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "The introduction of species in areas with no top-down control is a recipe for ecosystem catastrophe. Theory predicts that introduced species in areas that lack predators may experience rapid growth and subsequently crash or stabilize around the carrying capacity. Impressively, there are very few studies on the population trend of tropical forest-dwelling mammals. In 1983, 100 individuals from 15 species of generalist mammals were introduced on an 828-ha tropical island in Southeast Brazil (Anchieta Island). Here, we present the status and population dynamics of the introduced species after 19, 21, 35, 38, and 39 years based on 611 km of line transects split into diurnal and nocturnal surveys. Among the introduced species, five were extinct and two species became super-abundant. The population of agouti has been fluctuating around 900 individuals and black-tufted marmoset around 600 individuals which may reflect the carrying capacity of the island. Our results showed that a tropical island, without top predators, resulted in a massive population explosion of 2 of the 15 introduced mammals, demonstrating that colonization and invasion processes are not straightforward to predict.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989423002585"
+  },
+  {
+    "title": "Citizen Science for Quantifying and Reducing Food Loss and Food Waste",
+    "authors": [
+      "Rachel M. Pateman,",
+      "Annemarieke de Bruin,",
+      "Evelin Piirsalu,",
+      "Christian Reynolds,",
+      "Christian Reynolds,",
+      "Emilie Stokeld,",
+      "Sarah E. West"
+    ],
+    "doi": "https://doi.org/10.3389/fsufs.2020.589089",
+    "journalVolume": "Vol. 4",
+    "issn": "2571-581X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-food-systems#",
+    "abstract": "Food loss and food waste are urgent global problems relating to environmental and social challenges including biodiversity loss, climate change, health, and malnutrition. Reduction targets have been set, including Sustainable Development Goal (SDG) 12.3, which aims to halve per capita food waste at retail and consumer levels globally by 2030, as well as reduce food losses along production and supply chains. Citizen science, the engagement of members of the public in data collection and other elements of the scientific process, can play a role in tackling the problem of food waste and food loss. In this paper, we scope opportunities for using citizen science to answer 26 priority research questions identified by experts in the field of food waste and food loss as being critical to achieving SDG12.3. We describe how citizen science can be used to quantify and understand causes of food loss and waste. Crucially, we demonstrate the value of citizen science in being not just a data gathering tool but also a method of bringing about change through influencing action, from individual behavior to policy making. Furthermore, we argue the need to bring together all actors in the food system in citizen science projects in order to build shared understanding that will ultimately lead to reduced loss and waste across the food system.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fsufs.2020.589089/full"
+  },
+  {
+    "title": "The Verification of Land Cover Datasets with the Geo-Tagged Natural Scene Images",
+    "authors": [
+      "Liu Cui,",
+      "Hui Yang,",
+      "Liang Chu,",
+      "Qingping He,",
+      "Fei Xu,",
+      "Yina Qiao,",
+      "Zhaojin Yan,",
+      "Ran Wang,",
+      "Hui Ci"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi11110567",
+    "journalVolume": "Vol. 11,\n                                no. 567\n                                \n                                  p.\n                                  567",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "Land cover is important for global change studies, and its accuracy and reliability are usually verified by field sampling, which costs a lot. A method was proposed for the verification of land cover datasets with the geo-tagged natural scene images using a convolutional neural network. The nature scene images were firstly collected from the Land Use and Cover Area frame Survey (LUCAS) and global crowdsourcing images platform Flickr, then classified according to the Land Cover Classification System. The Nature Scene Image Classification (NSIC) model based on the GoogLeNet Inception network for recognition of natural scene images was then constructed. Finally, in the UK, as a verification area, the European Space Agency Climate Change Initiative Land Cover (ESA CCI-LC) datasets and the Global land-cover product with fine classification system (GLC-FCS) were verified using the NSIC-Inception model with the nature scene image set. The verification results showed that the overall accuracy verified by LUCAS was very close to the accuracy of the land cover product, which was 94.41% of CCI LC and 92.89% of GLC-FCS, demonstrating the feasibility of using geo-tagged images classified by the NSIC model. In addition, the VGG16 and ResNet50 were compared with GoogLeNet Inception. The differences in verification between LUCAS and Flickr images were discussed regarding the image’s quantity, the spatial distribution, the representativeness, and so on. The uncertainties of verification arising from differences in the spatial resolution of the different datasets were explored by CCI LC and GCL-FCS. The application of the method has great potential to support and improve the efficiency of land cover verification.",
+    "readLink": "https://www.mdpi.com/2220-9964/11/11/567"
+  },
+  {
+    "title": "Politics of disease control in Africa and the critical role of global health diplomacy: A systematic review",
+    "authors": [
+      "Vijay Kumar Chattu,",
+      "W. Andy Knight,",
+      "Anil Adisesh,",
+      "Sanni Yaya,",
+      "K. Srikanth Reddy,",
+      "Erica Di Ruggiero,",
+      "Obijiofor Aginam,",
+      "Garry Aslanyan,",
+      "Michael Clarke,",
+      "M. Rashad Massoud,",
+      "Ashish Jha"
+    ],
+    "doi": "https://doi.org/10.34172/hpp.2021.04",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  20\n                                  – 31",
+    "issn": "2228-6497 (Online)",
+    "publisher": "Tabriz University of Medical Sciences",
+    "countryOfPublisher": "Iran, Islamic Republic of",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://hpp.tbzmed.ac.ir/",
+    "abstract": "Background: Africa is facing the triple burden of communicable diseases, non-communicable diseases (NCDs), and nutritional disorders. Multilateral institutions, bilateral arrangements, and philanthropies have historically privileged economic development over health concerns. That focus has resulted in weak health systems and inadequate preparedness when there are outbreaks of diseases. This review aims to understand the politics of disease control in Africa and global health diplomacy’s (GHD’s) critical role. Methods: A literature review was done in Medline/PubMed, Web of Science, Scopus, Embase, and Google scholar search engines. Keywords included MeSH and common terms related to the topics: \"Politics,\" \"disease control,\" \"epidemics/ endemics,\" and \"global health diplomacy\" in the \"African\" context. The resources also included reports of World Health Organization, United Nations and resolutions of the World Health Assembly (WHA). Results: African countries continue to struggle in their attempts to build health systems for disease control that are robust enough to tackle the frequent epidemics that plague the continent. The politics of disease control requires the crafting of cooperative partnerships to accommodate the divergent interests of multiple actors. Recent outbreaks of COVID-19 and Ebola had a significant impact on African economies. It is extremely important to prioritize health in the African development agendas. The African Union (AU) should leverage the momentum of the rise of GHD to (i) navigate the politics of global health governance in an interconnected world(ii) develop robust preparedness and disease response strategies to tackle emerging and reemerging disease epidemics in the region (iii) address the linkages between health and broader human security issues driven by climate change-induced food, water, and other insecurities (iv) mobilize resources and capacities to train health officials in the craft of diplomacy. Conclusion: The AU, Regional Economic Communities (RECs), and African Centres for Disease Control should harmonize their plans and strategies and align them towards a common goal that integrates health in African development agendas. The AU must innovatively harness the practice and tools of GHD towards developing the necessary partnerships with relevant actors in the global health arena to achieve the health targets of the Sustainable Development Goals.",
+    "readLink": "https://hpp.tbzmed.ac.ir/PDF/hpp-11-20.pdf"
+  },
+  {
+    "title": "Estimasi Stok Karbon di Kawasan Penambangan Akibat Perubahan Luas Penutupan Lahan Terkait dengan REDD",
+    "authors": [
+      "M. Lutfi,",
+      "Harry Tetra Antono"
+    ],
+    "doi": "Vol. 14,\n                                no. 1",
+    "issn": "1411-5891 (Print)",
+    "publisher": "Universitas Islam Bandung",
+    "countryOfPublisher": "Indonesia",
+    "lcc": [
+      "Social Sciences: Statistics"
+    ],
+    "journalUrl": "http://ejournal.unisba.ac.id/index.php/statistika/index",
+    "abstract": "Deforestation and forest degradation caused by mining has had very great impact to global climate change, because one of the functions of forest vegetation is very important is capture and storage CO2 emissions. Revegetation activities in the area of mining is done in order to restore the forest vegetation. Research to estimate absorbtion CO2 as a result of carbon stock by forest vegetation needs to be done . Remote sensing technology through radar imagery can be applied to estimate forest vegetation carbon stock more quickly and efficient. The research was conducted in the gold mining area of PT . JResources Bolaang Mongondow. Main objective of this research is to estimate changes in forest covered land due to mining activities, estimation amount of carbon stored in 2008 , 2009, and 2010 and the economic value that can be obtained from stored carbon, using the estimated price based REDD schemes. The methodologies for measurements of the variables used in the calculation variable of above ground biomass using allometric and ALOS PALSAR image analysis of 2008, 2009, and 2010 to estimate the carbon stock in forests. The results showed there were widespread changes in forest land cover due to mining activities, and based on image analysis of 2008 , 2009, and 2010 , the amount of carbon stock in the research area respectively are 32,695,253.57 ton C, ton C 50,146,772.71 and 79,420,248.55 ton C. The economic value of carbon stock in 2010 are Rp.7,538,299,190,029.09 with price estimates and assumptions based on REDD scheme BAU Carbon savings in 2008.",
+    "readLink": "http://ejournal.unisba.ac.id/index.php/statistika/article/view/1083"
+  },
+  {
+    "title": "Identifying threats from introduced and translocated non-native freshwater fishes in Croatia and Slovenia under current and future climatic conditions",
+    "authors": [
+      "Tena Radočaj,",
+      "Ivan Špelić,",
+      "Lorenzo Vilizzi,",
+      "Meta Povž,",
+      "Marina Piria"
+    ],
+    "doi": "Vol. 27\n                                \n                                \n                                  p.\n                                  e01520",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Introduced and translocated non-native species are a major threat to biodiversity, especially in aquatic habitats. Efforts aimed at the mitigation of impacts and the implementation of preventative measures for the conservation of native biota must rely upon an accurate evaluation of the risks posed by non-native invasive species and are expected to be strengthened by international collaboration. In this study, 76 non-native freshwater fish species of which 48 extant (both introduced and translocated) and 28 horizon were screened for their risk of invasiveness in the neighbouring countries of Croatia and Slovenia under current and future climatic conditions. Using the Aquatic Species Invasiveness Screening Kit (AS-ISK), threshold scores for the Basic Risk Assessment (BRA) and for the combined BRA and Climate Change Assessment (BRA + CCA) allowed to distinguish with a high level of accuracy between low-, medium- and high-risk species – the latter representing ≈70% of the screened species. Brown bullhead Ameiurus nebulosus, round goby Neogobius melanostomus, topmouth gudgeon Pseudorasbora parva and Wels catfish Silurus glanis were the highest-scoring species for Croatia, and Ameiurus nebulosus, snakehead Channa argus and Pseudorasbora parva for Slovenia. There were discrepancies in medium- and high-risk rankings between Croatia and Slovenia for 12 species. Upon comparison of the BRA outcomes with those based on the Freshwater Fish Invasiveness Screening Kit (the predecessor of the AS-ISK), the risk changed for six species in Croatia and five in Slovenia. After accounting for predicted climate change conditions, the BRA + CCA risk scores increased for ≈50% of the species, with western mosquitofish Gambusia affinis, channel catfish Ictalurus punctatus and black carp Mylopharyngodon piceus achieving the highest score increment for Croatia, and round goby Neogobius melanostomus and Chinese (Amur) sleeper Perccottus glenii for Slovenia. The present outcomes will assist decision-makers in the implementation of appropriate measures for the management of extant non-native species and the potential introduction of horizon species. This is important for the regulation of pet trade and aquaculture as well as for management strategies aimed at the conservation of native biodiversity, which in the case of neighbouring countries/jurisdictions will benefit from joint efforts relying on a full risk assessment for the species classified at higher risk of invasiveness.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989421000706"
+  },
+  {
+    "title": "Eustatic, Climatic and Tectonic Controls on the Evolution of a Middle to Late Holocene Coastal Dune System in Shimokita, Northeast Japan",
+    "authors": [
+      "Koji Minoura,",
+      "Norihiro Nakamura"
+    ],
+    "doi": "https://doi.org/10.3390/geosciences10100410",
+    "journalVolume": "Vol. 10,\n                                no. 410\n                                \n                                  p.\n                                  410",
+    "issn": "2076-3263 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/geosciences",
+    "abstract": "The Pacific coast of the Shimokita Peninsula, Northeast Japan, is occupied by one of the larger dune complexes in Japan. This coastal aeolian dune complex developed during the Holocene in a monsoon-influenced temperate climatic belt. The stratigraphic and sedimentological characteristics of outcrops, exposures and cores indicate that four generation of aeolian dunes are presented. These dunes developed during eustatic regression following the post-glacial sea-level highstand. Seaward shoreline movement, combined with strong winds from the Pacific Ocean, enhanced aeolian grain transport on the beach, resulting in the onset of dune growth and the consequent shrinkage of the coastal forest. Northeast Japan is located in a transitional zone affected largely by monsoonal circulation from Siberia and Southeast Asia. Thus, the regional climate is responsible for atmospheric changes on a hemispheric scale. Intensified monsoons contributed to flooding produced by rains and snow-melt. Steep increases in annual precipitation at 7200–6300, 4700–3600, 3050–2500, 1850–1100, and 550–200 calendar years before present (cal. yr. BP) increased the amount of surface erosion, causing a large volume of sediment discharge toward the coast. Shimokita has experienced frequent earthquakes and tsunamis, which have reduced dune landform relief by sediment displacement.",
+    "readLink": "https://www.mdpi.com/2076-3263/10/10/410"
+  },
+  {
+    "title": "Trends in indices for extremes in daily air temperature over Utah, USA Tendências de indices de extremos para temperatura do ar diária sobre Utah, EUA",
+    "authors": [
+      "Carlos Antonio Costa dos Santos"
+    ],
+    "doi": "https://doi.org/10.1590/S0102-77862011000100003",
+    "journalVolume": "Vol. 26,\n                                no. 1\n                                \n                                  pp.\n                                  19\n                                  – 28",
+    "issn": "0102-7786 (Print)",
+    "publisher": "1982-4351 (Online)",
+    "countryOfPublisher": "Sociedade Brasileira de Meteorologia",
+    "lcc": [
+      "Brazil",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.scielo.br/j/rbmet/",
+    "abstract": "The main objective of this study was to obtain analysis of the trends in eleven annual extreme indices of temperature for Utah, United State of America (USA). The analyses have been obtained for 28 meteorological stations, in general, for the period of 1930 to 2006, characterizing a long-term period and with high quality data. The software used to process the data was the RClimdex 1.0. The analysis has identified that the temperature increased in Utah during the last century, evidencing the importance of the ongoing research on climate change in many parts of the world.O principal objetivo desse estudo foi analisar as tendências de onze indices de extremos climáticos baseados em dados diários de temperatura do ar, obtidos a partir de 28 estações meteorológicas localizadas em Utah, Estados Unidos da America (EUA). Em geral, os dados foram coletados entre 1930 e 2006, apresentando coerente resolução temporal e espacial. O software utilizado no processamento dos dados foi o RClimdex 1.0. As análises dos índices extremos mostraram que a temperatura aumentou em Utah durante o último século, evidenciando a importância das pesquisas sobre mudanças climáticas em diferentes partes do mundo.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-77862011000100003"
+  },
+  {
+    "title": "Territorial Fragmentation and Renewable Energy Source Plants: Which Relationship?",
+    "authors": [
+      "Lucia Saganeiti,",
+      "Angela Pilogallo,",
+      "Giuseppe Faruolo,",
+      "Francesco Scorza,",
+      "Beniamino Murgante"
+    ],
+    "doi": "https://doi.org/10.3390/su12051828",
+    "journalVolume": "Vol. 12,\n                                no. 5\n                                \n                                  p.\n                                  1828",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Renewable Energy Sources (RES) are part of the solution to tackle the global problems of climate change and carbon emissions. Programs and policies at different levels are continuing to promote new RES farms, posing a relevant challenge to regional planners and administrators: how to manage landscape transformation and territorial fragmentation to find a really effective sustainable arrangement for these kinds of technologies? Most effects induced by RES (land-use change, land take, diminishing aesthetic values, loss of habitat quality), without a doubt, depend on the location and the spatial pattern of the plants, the relative distance between them, the extension of secondary infrastructures and their technical characteristics. This work takes part in the debate, originating from the need to establish a monitoring system for this kind of new territorial transformation and discusses the implementation of a sprinkling fragmentation index (SPX) in order to assess the current regional settlement structure of RES farms. Our case study concerns the Basilicata region (in Southern Italy), a very low-density area which over the last decade has undergone a relevant increase in the installation of RES technologies, not supported by an effective planning framework. The evolution of the regional energy system has been strongly influenced both by incentive policies and by (weak) urban and territorial planning policies. This approach could be a valuable contribution both in identifying a fragmentation threshold beyond which the expected negative impacts outweigh the benefits, and in providing a useful procedure for the management of future installations.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/5/1828"
+  },
+  {
+    "title": "Neopragmatic Reflections on Coastal Land Loss and Climate Change in Louisiana in Light of Popper’s Theory of Three Worlds",
+    "authors": [
+      "Olaf Kühne,",
+      "Lara Koegst"
+    ],
+    "doi": "https://doi.org/10.3390/land12020348",
+    "journalVolume": "Vol. 12,\n                                no. 348\n                                \n                                  p.\n                                  348",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "This paper addresses the social resonances to the complex causes, effects, and feedback of land loss in southern Louisiana, particularly with respect to the region’s vulnerability to the impacts of anthropogenic climate change, especially against the backdrop of the consequences and side effects of the resident petrochemical industry. Using empirical findings from an online discussion about coastal land loss and talks to people in Louisiana, the different perceptions of coastal land loss of affected and not-affected people become apparent. As a result of the high complexity of the topic, a meta-theoretical framing by neopragmatism, as well as an analytical framing based on Popper’s theory of three worlds, is provided.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/2/348"
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "title": "Personalized day tour design for urban tourists with consideration to CO2 emissions",
+    "authors": [
+      "Lunwen Wu,",
+      "Tao Gu,",
+      "Zhiyu Chen,",
+      "Pan Zeng,",
+      "Zhixue Liao"
+    ],
+    "doi": "Vol. 20,\n                                no. 3\n                                \n                                  pp.\n                                  237\n                                  – 244",
+    "issn": "2096-9589 (Print)",
+    "publisher": "2325-4262 (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.keaipublishing.com/en/journals/chinese-journal-of-population-resources-and-environment/",
+    "abstract": "The growing awareness of climate change worldwide has led the urban tourism market to focus on balancing tourist tailored experiences and CO2 emissions. Therefore, designing personalized tourist routes with environmental pollution consideration is preferable in this context. This study proposes an evolution algorithm based on reinforcement learning (FSRL-HA) to design a personalized day tour route that simultaneously considers the utility of tourists and the carbon emission. We conducted a case study in Chengdu, Sichuan, China, to evaluate this algorithm's performance. The results indicate that the proposed algorithm outperforms selected baseline methods. Furthermore, the approach can provide more diverse route choices for different tourists, and an experiment was conducted to explore how tourist preferences affect tourist utilities.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2325426222000675"
+  },
+  {
+    "title": "Kinetic mass-transfer calculation of water isotope fractionation due to cloud microphysics in a regional meteorological model",
+    "authors": [
+      "I.-C. Tsai,",
+      "W.-Y. Chen,",
+      "W.-Y. Chen,",
+      "J.-P. Chen,",
+      "J.-P. Chen,",
+      "M.-C. Liang"
+    ],
+    "doi": "https://doi.org/10.5194/acp-19-1753-2019",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  1753\n                                  – 1766",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "In conventional atmospheric models, isotope exchange between liquid, gas, and solid phases is usually assumed to be in equilibrium, and the highly kinetic phase transformation processes inferred in clouds are yet to be fully investigated. In this study, a two-moment microphysical scheme in the National Center for Atmospheric Research (NCAR) Weather Research and Forecasting (WRF) model was modified to allow kinetic calculation of isotope fractionation due to various cloud microphysical phase-change processes. A case of a moving cold front is selected for quantifying the effect of different factors controlling isotopic composition, including water vapor sources, atmospheric transport, phase transition pathways of water in clouds, and kinetic-versus-equilibrium mass transfer. A base-run simulation was able to reproduce the ∼ 50 ‰ decrease in δD that was observed during the frontal passage. Sensitivity tests suggest that all the above factors contributed significantly to the variations in isotope composition. The thermal equilibrium assumption commonly used in earlier studies may cause an overestimate of mean vapor-phase δD by 11 ‰, and the maximum difference can be more than 20 ‰. Using initial vertical distribution and lower boundary conditions of water stable isotopes from satellite data is critical to obtain successful isotope simulations, without which the δD in water vapor can be off by about 34 ‰ and 28 ‰, respectively. Without microphysical fractionation, the δD in water vapor can be off by about 25 ‰.",
+    "readLink": "https://www.atmos-chem-phys.net/19/1753/2019/acp-19-1753-2019.pdf"
+  },
+  {
+    "title": "Exploitation of Plant Growth Promoting Bacteria for Sustainable Agriculture: Hierarchical Approach to Link Laboratory and Field Experiments",
+    "authors": [
+      "Federica Massa,",
+      "Roberto Defez,",
+      "Carmen Bianco"
+    ],
+    "doi": "https://doi.org/10.3390/microorganisms10050865",
+    "journalVolume": "Vol. 10,\n                                no. 865\n                                \n                                  p.\n                                  865",
+    "issn": "2076-2607 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/microorganisms",
+    "abstract": "To feed a world population, which will reach 9.7 billion in 2050, agricultural production will have to increase by 35–56%. Therefore, more food is urgently needed. Yield improvements for any given crop would require adequate fertilizer, water, and plant protection from pests and disease, but their further abuse will be economically disadvantageous and will have a negative impact on the environment. Using even more agricultural inputs is simply not possible, and the availability of arable land will be increasingly reduced due to climate changes. To improve agricultural production without further consumption of natural resources, farmers have a powerful ally: the beneficial microorganisms inhabiting the rhizosphere. However, to fully exploit the benefits of these microorganisms and therefore to widely market microbial-based products, there are still gaps that need to be filled, and here we will describe some critical issues that should be better addressed.",
+    "readLink": "https://www.mdpi.com/2076-2607/10/5/865"
+  },
+  {
+    "title": "THE REGIONAL DIFFERENCES OF GPP ESTIMATION BY SOLAR INDUCED FLUORESCENCE",
+    "authors": [
+      "X. Wang,",
+      "S. Lu"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLII-3-1805-2018",
+    "journalVolume": "Vol. XLII-3\n                                \n                                \n                                  pp.\n                                  1805\n                                  – 1807",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Estimating gross primary productivity (GPP) at large spatial scales is important for studying the global carbon cycle and global climate change. In this study, the relationship between solar-induced chlorophyll fluorescence (SIF) and GPP is analysed in different levels of annual average temperature and annual total precipitation respectively using simple linear regression analysis. The results showed high correlation between SIF and GPP, when the area satisfied annual average temperature in the range of −5 °C to 15 °C and the annual total precipitation is higher than 200 mm. These results can provide a basis for future estimation of GPP research.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3/1805/2018/isprs-archives-XLII-3-1805-2018.pdf"
+  },
+  {
+    "title": "Disentangling Decarbonisation Ambidexterity: An Analysis of European Companies",
+    "authors": [
+      "Thayla Zomer,",
+      "Paulo Savaget"
+    ],
+    "doi": "https://doi.org/10.3390/su151310611",
+    "journalVolume": "Vol. 15,\n                                no. 10611\n                                \n                                  p.\n                                  10611",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Corporate strategies to tackle climate change have become a topic of much debate. Yet, limited attention has been paid to understanding how companies exploit and explore decarbonisation opportunities. We posit that the risks imposed by climate change and the opportunities that emerge under such a context require companies to develop a decarbonisation ambidexterity capability to reconcile the exploration of more radical, long-term eco-innovation opportunities, while also being eco-efficient in their current activities. Based on the ambidexterity literature, we ask: How do companies explore and exploit to reduce their carbon footprint? Through an inductive analysis of the climate change reports of 410 European companies from different sectors, we identify seven core exploitative and explorative initiatives adopted by companies in response to climate change. We argue that, to reach the established targets, companies must adopt multiple initiatives focused on both exploring new knowledge and technologies and exploiting improvements in existing routines and processes, and we show how companies have combined these efforts.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/13/10611"
+  },
+  {
+    "title": "Understanding the Complexity of Drought within the Soil Profile in Beech Ecosystems on Their Lower Altitudinal Limit in Slovakia",
+    "authors": [
+      "Zuzana Oravcová,",
+      "Jaroslav Vido"
+    ],
+    "doi": "https://doi.org/10.3390/w14091338",
+    "journalVolume": "Vol. 14,\n                                no. 1338\n                                \n                                  p.\n                                  1338",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Due to the ongoing climate change, decreasing amounts of available water and increasing evapotranspiration during the growing season may impact the stability of some beech ecosystems at lower altitudes. This paper aims to evaluate the risk of drought from a meteorological point of view and the subsequent response in soil hydrology throughout hydrological years 2015 and 2016 in beech forests situated in Central Slovakia. Precipitation sufficiency was assessed by means of a climate irrigation index (CII). Hydrological modelling was carried out using GLOBAL, the simulation model of water movement in a soil profile with an emphasis on the root zone. The greatest drought risk occurs during the summer, when the ecosystem suffers from long periods of water deficiency according to the CII (>20 days). The water content in specific soil horizons responds differently to changing meteorological situations. Simulations indicated a later decrease (approx. 5 days) of the water content in the B horizon (main root zone) compared with the A horizon. Drought lasts longer in deeper layers and retreats only in the case of long-lasting rainfall. Sudden heavy rainfall has proven ineffective at moistening the entire soil profile and impacts only the upper few centimetres while the main root zone suffers from water shortage.",
+    "readLink": "https://www.mdpi.com/2073-4441/14/9/1338"
+  },
+  {
+    "title": "Evaluation of the Spatial Suitability of Offshore Wind Farm—A Case Study of the Sea Area of Liaoning Province",
+    "authors": [
+      "Jie Huang,",
+      "Xiaolu Huang,",
+      "Nanqi Song,",
+      "Yu Ma,",
+      "Dan Wei"
+    ],
+    "doi": "https://doi.org/10.3390/su14010449",
+    "journalVolume": "Vol. 14,\n                                no. 449\n                                \n                                  p.\n                                  449",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Actively promoting the development of offshore wind power is an inevitable choice if the People’s Republic of China plans to fulfill its international commitments, respond to climate change, ensure energy security, and improve energy infrastructure. Inevitably, offshore wind power development will conflict with other marine activities, including mariculture and shipping. Therefore, learning how to develop offshore wind power without affecting the environment or conflicting with other marine activities is crucial to the conservation of spatial marine resources. The rapid development of offshore wind power in Liaoning Province has allowed researchers to develop an index system that can be used to evaluate the suitability of offshore wind power development sites by considering costs, environmental protection, and sea management. Spatial analysis and a multi-attribute evaluation method integrating a fuzzy membership function were used to evaluate offshore wind farm placement in Liaoning. The results classified 5%, 18%, 21%, and 56% offshore areas of Liaoning as very suitable, relatively suitable, somewhat unsuitable, and unsuitable for wind power development, respectively. The results of this paper can provide a reference for decision makers who plan for offshore wind farm locations under the constraints of high-intensity development.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/1/449"
+  },
+  {
+    "title": "Plant Virus-Derived Vectors for Plant Genome Engineering",
+    "authors": [
+      "Muhammad Arslan Mahmood,",
+      "Rubab Zahra Naqvi,",
+      "Saleem Ur Rahman,",
+      "Imran Amin,",
+      "Shahid Mansoor"
+    ],
+    "doi": "https://doi.org/10.3390/v15020531",
+    "journalVolume": "Vol. 15,\n                                no. 531\n                                \n                                  p.\n                                  531",
+    "issn": "1999-4915 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/viruses",
+    "abstract": "Advances in genome engineering (GE) tools based on sequence-specific programmable nucleases have revolutionized precise genome editing in plants. However, only the traditional approaches are used to deliver these GE reagents, which mostly rely on Agrobacterium-mediated transformation or particle bombardment. These techniques have been successfully used for the past decades for the genetic engineering of plants with some limitations relating to lengthy time-taking protocols and transgenes integration-related regulatory concerns. Nevertheless, in the era of climate change, we require certain faster protocols for developing climate-smart resilient crops through GE to deal with global food security. Therefore, some alternative approaches are needed to robustly deliver the GE reagents. In this case, the plant viral vectors could be an excellent option for the delivery of GE reagents because they are efficient, effective, and precise. Additionally, these are autonomously replicating and considered as natural specialists for transient delivery. In the present review, we have discussed the potential use of these plant viral vectors for the efficient delivery of GE reagents. We have further described the different plant viral vectors, such as DNA and RNA viruses, which have been used as efficient gene targeting systems in model plants, and in other important crops including potato, tomato, wheat, and rice. The achievements gained so far in the use of viral vectors as a carrier for GE reagent delivery are depicted along with the benefits and limitations of each viral vector. Moreover, recent advances have been explored in employing viral vectors for GE and adapting this technology for future research.",
+    "readLink": "https://www.mdpi.com/1999-4915/15/2/531"
+  },
+  {
+    "title": "Surface Water Dynamics from Space: A Round Robin Intercomparison of Using Optical and SAR High-Resolution Satellite Observations for Regional Surface Water Detection",
+    "authors": [
+      "Christian Tottrup,",
+      "Daniel Druce,",
+      "Rasmus Probst Meyer,",
+      "Mads Christensen,",
+      "Michael Riffler,",
+      "Bjoern Dulleck,",
+      "Philipp Rastner,",
+      "Katerina Jupova,",
+      "Tomas Sokoup,",
+      "Arjen Haag,",
+      "Mauricio C. R. Cordeiro,",
+      "Jean-Michel Martinez,",
+      "Jonas Franke,",
+      "Maximilian Schwarz,",
+      "Victoria Vanthof,",
+      "Suxia Liu,",
+      "Haowei Zhou,",
+      "David Marzi,",
+      "Rudiyanto Rudiyanto,",
+      "Mark Thompson,",
+      "Jens Hiestermann,",
+      "Hamed Alemohammad,",
+      "Antoine Masse,",
+      "Christophe Sannier,",
+      "Sonam Wangchuk,",
+      "Guy Schumann,",
+      "Laura Giustarini,",
+      "Jason Hallowes,",
+      "Kel Markert,",
+      "Marc Paganini"
+    ],
+    "doi": "https://doi.org/10.3390/rs14102410",
+    "journalVolume": "Vol. 14,\n                                no. 2410\n                                \n                                  p.\n                                  2410",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Climate change, increasing population and changes in land use are all rapidly driving the need to be able to better understand surface water dynamics. The targets set by the United Nations under Sustainable Development Goal 6 in relation to freshwater ecosystems also make accurate surface water monitoring increasingly vital. However, the last decades have seen a steady decline in in situ hydrological monitoring and the availability of the growing volume of environmental data from free and open satellite systems is increasingly being recognized as an essential tool for largescale monitoring of water resources. The scientific literature holds many promising studies on satellite-based surface-water mapping, but a systematic evaluation has been lacking. Therefore, a round robin exercise was organized to conduct an intercomparison of 14 different satellite-based approaches for monitoring inland surface dynamics with Sentinel-1, Sentinel-2, and Landsat 8 imagery. The objective was to achieve a better understanding of the pros and cons of different sensors and models for surface water detection and monitoring. Results indicate that, while using a single sensor approach (applying either optical or radar satellite data) can provide comprehensive results for very specific localities, a dual sensor approach (combining data from both optical and radar satellites) is the most effective way to undertake largescale national and regional surface water mapping across bioclimatic gradients.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/10/2410"
+  },
+  {
+    "title": "A dataset of microclimate and radiation and energy fluxes from the Lake Taihu eddy flux network",
+    "authors": [
+      "Z. Zhang,",
+      "Z. Zhang,",
+      "M. Zhang,",
+      "M. Zhang,",
+      "M. Zhang,",
+      "C. Cao,",
+      "C. Cao,",
+      "W. Wang,",
+      "W. Wang,",
+      "W. Xiao,",
+      "W. Xiao,",
+      "W. Xiao,",
+      "C. Xie,",
+      "C. Xie,",
+      "H. Chu,",
+      "H. Chu,",
+      "J. Wang,",
+      "J. Wang,",
+      "J. Zhao,",
+      "J. Zhao,",
+      "L. Jia,",
+      "L. Jia,",
+      "Q. Liu,",
+      "Q. Liu,",
+      "W. Huang,",
+      "W. Huang,",
+      "W. Zhang,",
+      "W. Zhang,",
+      "Y. Lu,",
+      "Y. Lu,",
+      "Y. Xie,",
+      "Y. Xie,",
+      "Y. Wang,",
+      "Y. Wang,",
+      "Y. Pu,",
+      "Y. Pu,",
+      "Y. Hu,",
+      "Y. Hu,",
+      "Z. Chen,",
+      "Z. Chen,",
+      "Z. Qin,",
+      "Z. Qin,",
+      "X. Lee"
+    ],
+    "doi": "https://doi.org/10.5194/essd-12-2635-2020",
+    "journalVolume": "Vol. 12\n                                \n                                \n                                  pp.\n                                  2635\n                                  – 2645",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "Eddy covariance data are widely used for the investigation of surface–air interactions. Although numerous datasets exist in public depositories for land ecosystems, few research groups have released eddy covariance data collected over lakes. In this paper, we describe a dataset from the Lake Taihu eddy flux network, a network consisting of seven lake sites and one land site. Lake Taihu is the third-largest freshwater lake (area of 2400 km2) in China, under the influence of subtropical climate. The dataset spans the period from June 2010 to December 2018. Data variables are saved as half-hourly averages and include micrometeorology (air temperature, humidity, wind speed, wind direction, rainfall, and water or soil temperature profile), the four components of surface radiation balance, friction velocity, and sensible and latent heat fluxes. Except for rainfall and wind direction, all other variables are gap-filled, with each data point marked by a quality flag. Several areas of research can potentially benefit from the publication of this dataset, including evaluation of mesoscale weather forecast models, development of lake–air flux parameterizations, investigation of climatic controls on lake evaporation, validation of remote-sensing surface data products and global synthesis on lake–air interactions. The dataset is publicly available at https://yncenter.sites.yale.edu/data-access (last access: 24 October 2020) and from the Harvard Dataverse (https://doi.org/10.7910/DVN/HEWCWM; Zhang et al., 2020).",
+    "readLink": "https://essd.copernicus.org/articles/12/2635/2020/essd-12-2635-2020.pdf"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "title": "Damages to return with a possible occurrence of eco-technology innovation measured by DEA environmental assessment",
+    "authors": [
+      "Toshiyuki Sueyoshi"
+    ],
+    "doi": "https://doi.org/10.1186/s40008-017-0067-x",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2193-2409 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Social Sciences: Industries. Land use. Labor: Economic growth, development, planning",
+      "Social Sciences: Economic theory. Demography: Economics as a science"
+    ],
+    "journalUrl": "http://www.journalofeconomicstructures.com/",
+    "abstract": "Abstract Environmental assessment and pollution protection are important concerns in modern business and policy. Consumers are interested in corporate efforts on not only their products but also environmental protections and pollution preventions. To attain a high level of sustainability (i.e., economic success and pollution prevention), all entities in private and public sectors need to pay attention to green technology innovation. This study considers that eco-technology innovation can combat the global warming and climate change, which the world is now facing as a major policy issue, along with its related business and policy supports. It is clear that any engineering and science efforts cannot attain any policy goal on the climate change without supports from social science perspectives, including business and economics. An important concern discussed in this study is how to identify an effective decision on eco-technology innovation and its influence on sustainability. To discuss the global issue at the world level, this study is first interested in measuring the performance of their operational and environmental achievements and then pays attention to Damages to Return (DTR). The economic concept indicates a level of change of undesirable outputs (e.g., CO2) by increasing one unit of a desirable output (e.g., oil production). To assess the magnitude of DTR, this study proposes a use of Data Envelopment Analysis (DEA). The proposed DEA assessment theoretically provides corporate leaders and policy makers with information regarding how to invest in eco-technology innovation for abatement of undesirable outputs, so enhancing the level of corporate or social sustainability.",
+    "readLink": "http://link.springer.com/article/10.1186/s40008-017-0067-x"
+  },
+  {
+    "title": "Early Identification of Crop Type for Smallholder Farming Systems Using Deep Learning on Time-Series Sentinel-2 Imagery",
+    "authors": [
+      "Haseeb Rehman Khan,",
+      "Zeeshan Gillani,",
+      "Muhammad Hasan Jamal,",
+      "Atifa Athar,",
+      "Muhammad Tayyab Chaudhry,",
+      "Haoyu Chao,",
+      "Yong He,",
+      "Ming Chen"
+    ],
+    "doi": "https://doi.org/10.3390/s23041779",
+    "journalVolume": "Vol. 23,\n                                no. 1779\n                                \n                                  p.\n                                  1779",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Climate change and the COVID-19 pandemic have disrupted the food supply chain across the globe and adversely affected food security. Early estimation of staple crops can assist relevant government agencies to take timely actions for ensuring food security. Reliable crop type maps can play an essential role in monitoring crops, estimating yields, and maintaining smooth food supplies. However, these maps are not available for developing countries until crops have matured and are about to be harvested. The use of remote sensing for accurate crop-type mapping in the first few weeks of sowing remains challenging. Smallholder farming systems and diverse crop types further complicate the challenge. For this study, a ground-based survey is carried out to map fields by recording the coordinates and planted crops in respective fields. The time-series images of the mapped fields are acquired from the Sentinel-2 satellite. A deep learning-based long short-term memory network is used for the accurate mapping of crops at an early growth stage. Results show that staple crops, including rice, wheat, and sugarcane, are classified with 93.77% accuracy as early as the first four weeks of sowing. The proposed method can be applied on a large scale to effectively map crop types for smallholder farms at an early stage, allowing the authorities to plan a seamless availability of food.",
+    "readLink": "https://www.mdpi.com/1424-8220/23/4/1779"
+  },
+  {
+    "title": "Ocean temperatures through the Phanerozoic reassessed",
+    "authors": [
+      "Ethan L. Grossman,",
+      "Michael M. Joachimski"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-022-11493-1",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract The oxygen isotope compositions of carbonate and phosphatic fossils hold the key to understanding Earth-system evolution during the last 500 million years. Unfortunately, the validity and interpretation of this record remain unsettled. Our comprehensive compilation of Phanerozoic δ18O data for carbonate and phosphate fossils and microfossils (totaling 22,332 and 4615 analyses, respectively) shows rapid shifts best explained by temperature change. In calculating paleotemperatures, we apply a constant hydrosphere δ18O, correct seawater δ18O for ice volume and paleolatitude, and correct belemnite δ18O values for 18O enrichment. Similar paleotemperature trends for carbonates and phosphates confirm retention of original isotopic signatures. Average low-latitude (30° S–30° N) paleotemperatures for shallow environments decline from 42.0 ± 3.1 °C in the Early-to-Middle Ordovician to 35.6 ± 2.4 °C for the Late Ordovician through the Devonian, then fluctuate around 25.1 ± 3.5 °C from the Mississippian to today. The Early Triassic and Middle Cretaceous stand out as hothouse intervals. Correlations between atmospheric CO2 forcing and paleotemperature support CO2’s role as a climate driver in the Paleozoic.",
+    "readLink": "https://doi.org/10.1038/s41598-022-11493-1"
+  },
+  {
+    "title": "Assessment of Drought-Tolerant Provenances of Austria’s Indigenous Tree Species",
+    "authors": [
+      "Gerhard Karrer,",
+      "Gabriele Bassler-Binder,",
+      "Wolfgang Willner"
+    ],
+    "doi": "https://doi.org/10.3390/su14052861",
+    "journalVolume": "Vol. 14,\n                                no. 2861\n                                \n                                  p.\n                                  2861",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "(1) Background: Forestry will have to react to climate change because many tree species suffer. Mitigation can be realized either by planting non-native trees from regions with high climatic stress or by utilizing native tree provenances already adapted to stressful environments. Non-native trees have often generated problems in the past due to uncontrolled invasiveness. The use of native trees pre-adapted to the prospective climatic conditions is far less risky for the respective ecosystems. We offer a tool for selecting ecotypes of native trees as provenances for future forestry. (2) Methods: We propose the selection of tree species native to Middle Europe from a database of vegetation relevés of ± natural forest stands. By calculating the mean ecological indicator values of stands from their vegetation, cover sites can be elected that can provide seeds of provenances well adapted to future climatic conditions. (3) Results: By selecting the 10% partition of the most extreme stands of European tree species, seeds can be sampled and propagated for re-cultivating forests fit for future climate. (4) Conclusions: One can expect ecotypes of tree species that grow well on dry sites, since generations have faced evolutionary selection, for survival under stressful environments. This approach helps to avoid ecological risks of non-native trees.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/5/2861"
+  },
+  {
+    "title": "Application of Meteorological and Hydrological Drought Indices to Establish Drought Classification Maps of the Ba River Basin in Vietnam",
+    "authors": [
+      "Doan Quang Tri,",
+      "Tran Tho Dat,",
+      "Dinh Duc Truong"
+    ],
+    "doi": "https://doi.org/10.3390/hydrology6020049",
+    "journalVolume": "Vol. 6,\n                                no. 2\n                                \n                                  p.\n                                  49",
+    "issn": "2306-5338 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/hydrology",
+    "abstract": "The objective of this study was to establish drought classification maps to simulate and calculate the lack of discharge in the Ba River basin in Vietnam. The maps were established using three meteorological drought indices (the Standardized Precipitation Index (SPI), the Drought Index (J), and the Ped Index (Ped)), the Soil and Water Assessment Tool (SWAT) model, and the hydrological drought index (KDrought). The results from the calculation of the SPI, Aridity Index (AI), and Ped at three stations (An Khe, Ayunpa, and MDrak) showed that the J index was suitable for the study area. Based on the J index, an extreme drought was predicted to occur at the Ayunpa, An Khe, and MDrak stations. During the calibration process, the SWAT Calibration Uncertainties Program (SWAT-CUP) model, with automatic algorithms, was used to select the parameters to optimize the SWAT model. For the calibration and validation, the observed discharge at two hydrology stations, An Khe and Cung Son, from the periods 1981−1991 and 1992−2002, respectively, were used. The simulated discharge was found to be acceptable, with the Nash−Sutcliffe efficiency (NSE), Percent bias (PBIAS), and R2 reaching good levels in both calibration and validation. The results from the calculation of the drought index (KDrought), and the established drought classification maps in 2016, showed that the most affected areas were the communes of the Gia Lai and Dak Lak provinces. The results from the simulation and calculations were found to be consistent with the situation that occurred in practice. The application of meteorological and hydrological drought indices, as well as the hydrological model, to support impact assessments of drought classification in space and time, as well as the establishment of forecasting and warning maps, will help managers to effectively plan policy responses to drought.",
+    "readLink": "https://www.mdpi.com/2306-5338/6/2/49"
+  },
+  {
+    "title": "Variation in Seagrass Carbon Stocks Between Tropical Estuarine and Marine Mangrove-Fringed Creeks",
+    "authors": [
+      "Gabriel A. Juma,",
+      "Gabriel A. Juma,",
+      "Adiel M. Magana,",
+      "Githaiga N. Michael,",
+      "James G. Kairo"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2020.00696",
+    "journalVolume": "Vol. 7",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Seagrass and associated blue carbon ecosystems are important carbon sinks, and hence understanding their spatial and temporal variability is vital in appreciating their potential roles in climate change mitigation and adaptation. The Indo-Pacific region has the highest seagrass biodiversity, yet little focus has been made to compare seagrass habitat extent and carbon dynamics with their temperate counterparts. The present study assessed habitat characteristics and seagrass species distribution, diversity, and carbon storage in Eastern (marine) and Western (estuarine) mangrove-fringed creeks of Gazi Bay, Kenya. Data on species composition, canopy cover, biomass, and sediment organic carbon were collected in 80 plots of 0.25 × 0.25 m laid along transects established perpendicular to the waterline. Five species formation, viz., Thalassia hemprichii, Cymodocea rotundata, Cymodocea serrulata, Enhalus acoroides, and Thalassidendron ciliatum, were encountered as either single or mixed stands. There was a significant difference in total seagrass biomass between creeks (p < 0.01), with the Eastern creek recording a mean of 10.2 ± 0.6 Mg C ha–1 while the Western creek recording 4.3 ± 0.3 Mg C ha–1. In addition, sediment carbon to 1-m depth varied significantly (p < 0.01) between species in the two creeks and ranged from 98 to 302 Mg C ha–1, with the Eastern and Western creeks recording means of 258 ± 90 and 107 ± 21 Mg C ha–1, respectively. The total carbon stock from 50 ha of seagrasses in the Eastern creek was 13,420 Mg C, whereas in the 70 ha of the Western creek it was 7,769 Mg C. The study shows that seagrass community attributes such as species composition and productivity can vary dramatically over a small spatial extent due to differences in biophysical conditions and caution estimations of site-specific carbon stocks using generalized global values.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmars.2020.00696/full"
+  },
+  {
+    "title": "Audience Reactions to Climate Change and Science in Disaster Cli-fi Films: A Qualitative Analysis",
+    "authors": [
+      "Lauren N Griffin"
+    ],
+    "doi": "https://doi.org/10.32473/jpic.v1.i2.p133",
+    "journalVolume": "Vol. 1,\n                                no. 2",
+    "issn": "2573-4342 (Online)",
+    "publisher": "University of Florida, College of Journalism and Communications",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Language and Literature: Philology. Linguistics: Communication. Mass media",
+      "Social Sciences"
+    ],
+    "journalUrl": "https://journals.flvc.org/jpic/index",
+    "abstract": "Little scholarly attention has been paid to how audiences interpret pop culture messages about climate. This paper addresses this issue by taking up the case of disaster cli-fi films and exploring how audiences react to film representations of climate change. It draws on data from focus groups to evaluate audience responses to disaster cli-fi films. Analysis reveals that by only briefly discussing climate change in their plotlines, the films weaken their environmental message. The paper concludes with a discussion of the effects of disaster cli-fi films on environmental attitudes and suggestions for further research.",
+    "readLink": "http://journals.fcla.edu/jpic/article/view/104461"
+  },
+  {
+    "title": "Understanding the competition between carbonation and sulfation of Li4SiO4-based sorbents for high-temperature CO2 capture",
+    "authors": [
+      "Weiyang Yuan,",
+      "Tao Deng,",
+      "Shuzhen Chen,",
+      "Yong He,",
+      "Changlei Qin"
+    ],
+    "doi": "Vol. 3\n                                \n                                \n                                  p.\n                                  100046",
+    "issn": "2772-6568 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/carbon-capture-science-and-technology",
+    "abstract": "High-temperature CO2 adsorption is an important method in reducing the excessive CO2 emissions for the mitigation of global climate change. As a potential high-temperature CO2 sorbent, Li4SiO4 attracted extensive concern due to its high CO2 capacity with excellent stability. However, gas impurities in industrial flue gas, especially SO2 affect the CO2 adsorption process, and the competition between SO2 and CO2 during the adsorption process by Li4SiO4 is lack of understanding. This work studied the competitive behavior between carbonation and sulfation through experimental tests, characterizations, and DFT calculations. Results show that carbonation can slightly inhibit the proceeding of sulfation while sulfation almost prevents the occurrence of carbonation for both Li4SiO4 and K-Li4SiO4. In addition, the doping of K2CO3 in Li4SiO4 is observed to significantly promote both the carbonation and sulfation process. Furthermore, stable adsorption structures of CO2 and SO2 on Li4SiO4 were obtained via DFT calculation, which verifies the mutual inhibition between carbonation and sulfation. These results provide a well understanding of the competition between carbonation and sulfation of Li4SiO4-based sorbents, and are helpful for the design and optimization of CO2 adsorption process.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2772656822000173"
+  },
+  {
+    "title": "Olie som misfittende relation: En nymaterialistisk analyse af det sorte gulds klæbrige karaktertræk i Inferno (2014)",
+    "authors": [
+      "Karl Emil Rosenbæk"
+    ],
+    "doi": "https://doi.org/10.7146/kkf.v27i1.109680",
+    "journalVolume": "Vol. 27,\n                                no. 1",
+    "issn": "2245-6937 (Online)",
+    "publisher": "The Royal Danish Library",
+    "countryOfPublisher": "Denmark",
+    "lcc": [
+      "Social Sciences"
+    ],
+    "journalUrl": "https://tidsskrift.dk/KKF/index",
+    "abstract": "Oil as a misfitting relation. A new-material analysis of the black gold’s sticky character in Inferno (2014) The article examines Ida Marie Hede’s novel Inferno (2014) through the lens of new materialism’s theoretical interest in matter and materiality. By focussing on the actions of oil in the novel the article shows how seemingly ‘dead’ and finite non-human objects express liveliness. Oil influences, affects, creates, and disrupts, in a word acts, on its surroundings. And due to the global-political relations oil is entangled in, oil seems particularly inclined to produce a certain effect – a disabling misfit between ecosystems. Therefore, although the article pivots around Inferno, it also tries to connect this idea of non-humane liveliness to the socio-political reality of climate change. Perhaps the realisation of a global “planetan misfit” is a necessary first step towards an ontological reconceptualization: A move from substances to relations as the ontological base. Philosopher Rosi Braidotti proposes the term process-ontology. This article uses that concept as a guiding principle when it reads Inferno. What does oil do and what is done to oil – in and outside the novel?",
+    "readLink": "https://tidsskrift.dk/KKF/article/view/109680"
+  },
+  {
+    "title": "Adaptation of water resource systems to an uncertain future",
+    "authors": [
+      "C. L. Walsh,",
+      "S. Blenkinsop,",
+      "H. J. Fowler,",
+      "A. Burton,",
+      "R. J. Dawson,",
+      "V. Glenis,",
+      "L. J. Manning,",
+      "G. Jahanshahi,",
+      "C. G. Kilsby"
+    ],
+    "doi": "https://doi.org/10.5194/hess-20-1869-2016",
+    "journalVolume": "Vol. 20,\n                                no. 5\n                                \n                                  pp.\n                                  1869\n                                  – 1884",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Globally, water resources management faces significant challenges from changing climate and growing populations. At local scales, the information provided by climate models is insufficient to support the water sector in making future adaptation decisions. Furthermore, projections of change in local water resources are wrought with uncertainties surrounding natural variability, future greenhouse gas emissions, model structure, population growth, and water consumption habits. To analyse the magnitude of these uncertainties, and their implications for local-scale water resource planning, we present a top-down approach for testing climate change adaptation options using probabilistic climate scenarios and demand projections. An integrated modelling framework is developed which implements a new, gridded spatial weather generator, coupled with a rainfall-runoff model and water resource management simulation model. We use this to provide projections of the number of days and associated uncertainty that will require implementation of demand saving measures such as hose pipe bans and drought orders. Results, which are demonstrated for the Thames Basin, UK, indicate existing water supplies are sensitive to a changing climate and an increasing population, and that the frequency of severe demand saving measures are projected to increase. Considering both climate projections and population growth, the median number of drought order occurrences may increase 5-fold by the 2050s. The effectiveness of a range of demand management and supply options have been tested and shown to provide significant benefits in terms of reducing the number of demand saving days. A decrease in per capita demand of 3.75 % reduces the median frequency of drought order measures by 50 % by the 2020s. We found that increased supply arising from various adaptation options may compensate for increasingly variable flows; however, without reductions in overall demand for water resources such options will be insufficient on their own to adapt to uncertainties in the projected changes in climate and population. For example, a 30 % reduction in overall demand by 2050 has a greater impact on reducing the frequency of drought orders than any of the individual or combinations of supply options; hence, a portfolio of measures is required.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/20/1869/2016/hess-20-1869-2016.pdf"
+  }
+]

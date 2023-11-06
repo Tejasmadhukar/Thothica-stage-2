@@ -1,0 +1,213 @@
+[
+  {
+    "title": "The changing carbon balance of tundra ecosystems: results from a vertically-resolved peatland biosphere model",
+    "authors": [
+      "Erik J L Larson,",
+      "Luke D Schiferl,",
+      "Róisín Commane,",
+      "J William Munger,",
+      "Anna T Trugman,",
+      "Takeshi Ise,",
+      "Eugénie S Euskirchen,",
+      "Steve Wofsy,",
+      "Paul M Moorcroft"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac4070",
+    "journalVolume": "Vol. 17,\n                                no. 1\n                                \n                                  p.\n                                  014019",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "An estimated 1700 Pg of carbon is frozen in the Arctic permafrost and the fate of this carbon is unclear because of the complex interaction of biophysical, ecological and biogeochemical processes that govern the Arctic carbon budget. Two key processes determining the region’s long-term carbon budget are: (a) carbon uptake through increased plant growth, and (b) carbon release through increased heterotrophic respiration (HR) due to warmer soils. Previous predictions for how these two opposing carbon fluxes may change in the future have varied greatly, indicating that improved understanding of these processes and their feedbacks is critical for advancing our predictive ability for the fate of Arctic peatlands. In this study, we implement and analyze a vertically-resolved model of peatland soil carbon into a cohort-based terrestrial biosphere model to improve our understanding of how on-going changes in climate are altering the Arctic carbon budget. A key feature of the formulation is that accumulation of peat within the soil column modifies its texture, hydraulic conductivity, and thermal conductivity, which, in turn influences resulting rates of HR within the soil column. Analysis of the model at three eddy covariance tower sites in the Alaskan tundra shows that the vertically-resolved soil column formulation accurately captures the zero-curtain phenomenon, in which the temperature of soil layers remain at or near 0 °C during fall freezeback due to the release of latent heat, is critical to capturing observed patterns of wintertime respiration. We find that significant declines in net ecosystem productivity (NEP) occur starting in 2013 and that these declines are driven by increased HR arising from increased precipitation and warming. Sensitivity analyses indicate that the cumulative NEP over the decade responds strongly to the estimated soil carbon stock and more weakly to vegetation abundance at the beginning of the simulation.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac4070"
+  },
+  {
+    "title": "Projected Changes in the Annual Range of Precipitation Under Stabilized 1.5°C and 2.0°C Warming Futures",
+    "authors": [
+      "Ziming Chen,",
+      "Tianjun Zhou,",
+      "Wenxia Zhang,",
+      "Puxi Li,",
+      "Siyao Zhao"
+    ],
+    "doi": "https://doi.org/10.1029/2019EF001435",
+    "journalVolume": "Vol. 8,\n                                no. 9\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Changes in hydrological cycle under 1.5°C and 2.0°C warming are of great concern on the post‐Paris Agreement agenda. In particular, the annual range of precipitation, that is, the difference between the wet and dry seasons, is important to society and ecosystem. This study examines the changes in precipitation annual range using the Community Earth System Model low‐warming (CESM‐LW) experiment, designed to assess climate change at stabilized 1.5°C and 2.0°C warming levels. To reflect the exact annual range in different regions, wet and dry seasons are defined for each grid point and year. Based on this metric, the precipitation annual range would increase by 3.90% (5.27%) under 1.5°C (2.0°C) warming. The additional 0.5°C of warming would increase annual range of precipitation by 1.37%. The enhancement is seen globally, except in some regions around the subtropics. Under the additional 0.5°C of warming, a significant increase in the annual range occurs over 15% (22%) of the ocean (land) regions. The increase is associated with the enhanced precipitation during wet season. Moisture budget analysis shows that the enhancement in annual range is dominated by vertical moisture advection, which includes thermodynamic (TH, moisture) and climate dynamic (CD, circulation changes) terms. The TH term plays a dominant role, while the CD term partly offsets the effects of the TH term. The TH term dominates over most regions except for part of the tropical ocean and some of the land regions, where the CD term is also remarkable. Thus, the enhancement of the annual range of precipitation is mainly caused by the increase in moisture.",
+    "readLink": "https://doi.org/10.1029/2019EF001435"
+  },
+  {
+    "title": "Application of prognostic ensembles of global climate models to generate distributed estimates of water content in catchment basins",
+    "authors": [
+      "Petruhina Valeriya"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202128901009",
+    "journalVolume": "Vol. 289\n                                \n                                \n                                  p.\n                                  01009",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The problem of predicting climate change and its impact on humans is quite important and relevant in recent times. For a long time, mechanisms and methods for predicting the behavior of the climate in various regions and regions of our planet have been developed. Due to climate change, aggressive human impact on nature, and other various factors, the methods developed in the mid-twentieth century are becoming ineffective, and it is time-consuming but feasible to calculate using several methods. The article considers the technology of processing geoclimatic data, which is used to form spatially distributed predictive estimates of the state of the atmosphere.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/65/e3sconf_esr2021_01009.pdf"
+  },
+  {
+    "title": "The O and H stable isotope composition of freshwaters in the British Isles. 2. Surface waters and groundwater",
+    "authors": [
+      "W. G. Darling,",
+      "W. G. Darling,",
+      "A. H. Bath,",
+      "J. C. Talbot"
+    ],
+    "doi": "Vol. 7,\n                                no. 2\n                                \n                                  pp.\n                                  183\n                                  – 195",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "The utility of stable isotopes as tracers of the water molecule has a long pedigree. The study reported here is part of an attempt to establish a comprehensive isotopic 'baseline' for the British Isles as background data for a range of applications. Part 1 of this study (Darling and Talbot, 2003) considered the isotopic composition of rainfall in Britain and Ireland. The present paper is concerned with the composition of surface waters and groundwater. In isotopic terms, surface waters (other than some upland streams) are poorly characterised in the British Isles; their potential variability has yet to be widely used as an aid in hydrological research. In what may be the first study of a major British river, a monthly isotopic record of the upper River Thames during 1998 was obtained. This shows high damping of the isotopic variation compared to that in rainfall over most of the year, though significant fluctuations were seen for the autumn months. Smaller rivers such as the Stour and Darent show a more subdued response to the balance between runoff and baseflow. The relationship between the isotopic composition of rainfall and groundwater is also considered. From a limited database, it appears that whereas Chalk groundwater is a representative mixture of weighted average annual rainfall, for Triassic sandstone groundwater there is a seasonal selection of rainfall biased towards isotopically-depleted winter recharge. This may be primarily the result of physical differences between the infiltration characteristics of rock types, though other factors (vegetation, glacial history) could be involved. In the main, however, groundwaters appear to be representative of bulk rainfall within an error band of 0.5‰ δ18O. Contour maps of the δ18O and δ2H content of recent groundwaters in the British Isles show a fundamental SW-NE depletion effect modified by topography. The range of measured values, while much smaller than those for rainfall, still covers some ‰ for δ18O and 30‰ for δ2H. Over lowland areas the 'altitude effect' is of little significance, but in upland areas is consistent with a range of –0.2 to –0.3‰ per 100 m increase in altitude. Groundwaters dating from the late Pleistocene are usually modified in δ18O and δ2H owing to the effects of climate change on the isotopic composition of rainfall and thus of recharge. Contour maps of isotopic variability prior to 10 ka BP, based on the relatively limited information available from the British Isles, allow a first comparison between groundwaters now and at the end of the last Ice Age. The position of the British Isles in the context of the stable isotope systematics of NW Europe is reviewed briefly. Keywords: Stable isotopes, surfacewaters, groundwater, British Isles",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/7/183/2003/hess-7-183-2003.pdf"
+  },
+  {
+    "title": "Cosmic ray modulation of infra-red radiation in the atmosphere",
+    "authors": [
+      "K L Aplin,",
+      "M Lockwood"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/8/1/015026",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  p.\n                                  015026",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Cosmic rays produce molecular cluster ions as they pass through the lower atmosphere. Neutral molecular clusters such as dimers and complexes are expected to make a small contribution to the radiative balance, but atmospheric absorption by charged clusters has not hitherto been observed. In an atmospheric experiment, a narrowband thermopile filter radiometer centred on 9.15 μm, an absorption band previously associated with infra-red absorption of molecular cluster ions, was used to monitor changes following events identified by a cosmic ray telescope sensitive to high-energy (>400 MeV) particles, principally muons. The average change in longwave radiation in this absorption band due to molecular cluster ions is 7 mWm ^−2 . The integrated atmospheric energy density for each event is 2 Jm ^−2 , representing an amplification factor of 10 ^12 compared to the estimated energy density of a typical air shower. This absorption is expected to occur continuously and globally, but calculations suggest that it has only a small effect on climate.",
+    "readLink": "https://doi.org/10.1088/1748-9326/8/1/015026"
+  },
+  {
+    "title": "Climate Analogues for agricultural impact projection and adaptation – a reliability test",
+    "authors": [
+      "Swen P.M. Bos,",
+      "Tim ePagella,",
+      "Roeland eKindt,",
+      "Aaron J.M. Russell,",
+      "Eike eLuedeling,",
+      "Eike eLuedeling"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2015.00065",
+    "journalVolume": "Vol. 3",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "The climate analogue approach is often considered a valuable tool for climate change impact projection and adaptation planning, especially for complex systems that cannot be modelled reliably. Important examples are smallholder farming systems using agroforestry or other mixed-cropping approaches. For the projected climate at a particular site of interest, the analogue approach identifies locations where the current climate is similar to these projected conditions. By comparing baseline-analogue site pairs, information on climate impacts and opportunities for adaptation can be obtained. However, the climate analogue approach is only meaningful, if climate is a dominant driver of differences between baseline and analogue site pairs. For a smallholder farming setting on Mt. Elgon in Kenya, we tested this requirement by comparing yield potentials of maize and coffee (obtained from the IIASA Global Agro-ecological Zones dataset) among 50 close analogue sites for different future climate scenarios and models, and by comparing local ecological knowledge and farm characteristics for one baseline-analogue pair.Yield potentials among the 50 closest analogue locations varied strongly within all climate scenarios, hinting at factors other than climate as major drivers of what the analogue approach might interpret as climate effects. However, on average future climatic conditions seemed more favourable to maize and coffee cultivation than current conditions. The detailed site comparison revealed substantial differences between farms in important characteristics, such as farm size and presence of cash crops, casting doubt on the usefulness of the comparison for climate change analysis. Climatic constraints were similar between sites, so that no apparent lessons for adaptation could be derived. Pests and diseases were also similar, indicating that climate change may not lead to strong changes in biotic constraints at the baseline site in the near future. From both analyses, it appeared that differences between baseline and analogue sites were mostly explained by non-climatic factors. This does not bode well for using the analogue approach",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fenvs.2015.00065/full"
+  },
+  {
+    "title": "Variance, genetic control and spatial phenotypic plasticity of morphological and phenological traits in Prunus spinosa and its large fruited forms (P. x fruticans)",
+    "authors": [
+      "Kristine Vander Mijnsbrugge,",
+      "Arion Turcsán,",
+      "Leander Depypere,",
+      "Marijke Steenackers"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2016.01641",
+    "journalVolume": "Vol. 7",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Prunus spinosa is a highly esteemed shrub in forest and landscape plantings. Shrubs with larger organs occur often and are considered either as large fruited forms of P. spinosa or as P. x fruticans, involving a hybridization process with the ancient cultivated P. insititia (crop-to-wild gene flow). As climate change may augment hybridization processes in the future, a hybrid origin is important to detect. In addition, studying crop-to-wild gene flow can give insights in putative consequences for the wild populations. We studied the P. spinosa – P. x fruticans group, focusing on morphology and phenology in three experimental plantations. Two plantings harbored cuttings of P. spinosa (clone plantations). A third plantation comprised of a half-sib offspring from a population with both P. spinosa and P. x fruticans (family plantation). Several results point to a hybridization process as the origin of P. x fruticans. The clone plantation revealed endocarp traits to be more genetically controlled than fruit size, while this was the opposite in the family plantation, suggesting the control of fruit size being derived from the putative P. insititia parent. Bud burst, flower opening and leaf fall were genetically controlled in the clone plantation, whereas in the family plantation intrafamily variability was remarkably large for the bud burst and leaf fall, but not for the flower opening. This suggests there is a reduced genetic control for the first two phenophases, possibly caused by historic hybridization events. Pubescence on the long shoot leaves in the family plantation deviated from the short shoot leaves on the same plants and from long and short shoot leaves in the clone plantation, suggesting again a P. insititia origin. Finally, we quantified spatial phenotypic plasticity, indicating how P. spinosa may react in a changing environment. In contrast to the bud burst and leaf fall, flower opening did not demonstrate plasticity. The fruit size was diminished at the growth site with the shortest growing season while interestingly, the leaf width was enlarged. Leaf size traits appeared more plastic on the long shoots compared to the short shoots, although partitioning of variance did not display a lesser genetic",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fpls.2016.01641/full"
+  },
+  {
+    "title": "Corrigendum to \"A probabilistic assessment of climate change impacts on yield and nitrogen leaching from winter wheat in Denmark\" published in Nat. Hazards Earth Syst. Sci., 11, 2541&ndash;2553, 2011",
+    "authors": [
+      "J. E. Olesen,",
+      "C. D. Børgesen"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-11-2653-2011",
+    "journalVolume": "Vol. 11,\n                                no. 9\n                                \n                                  pp.\n                                  2653\n                                  – 2653",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "No abstract available.",
+    "readLink": "http://www.nat-hazards-earth-syst-sci.net/11/2653/2011/nhess-11-2653-2011.pdf"
+  },
+  {
+    "title": "Provisions for Climate Change Technological Capability in the Agricultural Policies, Acts and Initiatives in Nigeria",
+    "authors": [
+      "C J Obiora,",
+      "Michael C Madukwe"
+    ],
+    "doi": "Vol. 16,\n                                no. 2",
+    "issn": "1119-944X (Print)",
+    "publisher": "2408-6851 (Online)",
+    "countryOfPublisher": "Agricultural Extension Society of Nigeria",
+    "lcc": [
+      "Nigeria",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://journal.aesonnigeria.org/index.php/jae",
+    "abstract": "Technological capabilities are the skills (technical, managerial or organisational) that enable farm or actors to efficiently use equipment and information and improve technology. The paper reviewed the climate change technological capability provisions in agricultural policies, acts and initiatives in Nigeria. The technological capabilities examined were production, investment, minor change, linkage and strategic marketing, major change and learning capabilities. Climate Change Policy for Nigeria is still in the draft stage. Agricultural polices reviewed except the National Fadama III Project had no provision for climate change. Minor and major change capabilities were very prominent in the climate change initiatives. Acts and initiatives also showed that learning and linkage capabilities by which firms enhance their technological competence were strongly represented. Production, strategic marketing and investment capabilities however, were overtly deficient in the acts and initiatives. It recommended that the existing policies, acts and initiatives should be upgraded/reviewed to incorporate strategic marketing which fills the gap between market demands and what the firm/farm offers. Investment capabilities which showcase investment in machinery (equipment) or human resource should also be incorporated into the policies, acts and initiatives.",
+    "readLink": "https://journal.aesonnigeria.org/index.php/jae/article/view/76"
+  },
+  {
+    "title": "Thermal comfort in a building with Trombe wall integrated with phase change materials in hot summer and cold winter region without air conditioning",
+    "authors": [
+      "Jie Li,",
+      "Yuan Zhang,",
+      "Ziyang Zhu,",
+      "Jiangtian Zhu,",
+      "Jing Luo,",
+      "Fen Peng,",
+      "Xiaoqin Sun"
+    ],
+    "doi": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  58\n                                  – 69",
+    "issn": "2666-1233 (Online)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Technology: Building construction"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/energy-and-built-environment/",
+    "abstract": "Trombe wall and phase change materials (PCMs) are two effective ways to regulate indoor thermal comfort. However, Trombe wall surfers from overheating in summer and PCMs suffer from low heat transfer rate caused by the limited thermal conductivity. To compensate the shortcomings of the two methods, this paper proposed a Trombe wall system integrated with PCMs. Based on a light-weight building envelope in Changsha, China, the thermal comfort of 10 kinds of Trombe wall systems with PCMs with a melting temperature of 18–28 ℃ were studied. Taking the integrated indoor discomfort duration (ID), integrated indoor discomfort degree-hour (IDH), indoor air temperature (Tin), PCM liquid fraction (γ) and heat flux across wall (q) as evaluation indexes, the indoor thermal comfort was assessed in hot summer and cold winter region. Results show that the Trombe wall helped PCMs complete the phase change process effectively. Trombe wall with PCM25 next to the wall inner surface possessed the lowest annual ID and IDH, as 2877 h and 12,974 ℃· h, respectively. Compared with the values in a traditional building, the ID and IDH were reduced by 7.01% and 14.14%. In order to give full play to the heat storage and heat release of the Trombe wall with PCMs, PCMs with phase change temperature 7℃ lower than the peak ambient temperature in summer or 8℃ higher than the winter night temperature was recommended according to regional climate conditions.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666123322000617"
+  }
+]

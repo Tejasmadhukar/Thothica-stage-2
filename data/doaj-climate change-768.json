@@ -1,0 +1,264 @@
+[
+  {
+    "title": "Monitoring of Changes in Land Use/Land Cover in Syria from 2010 to 2018 Using Multitemporal Landsat Imagery and GIS",
+    "authors": [
+      "Mohamed Ali Mohamed,",
+      "Julian Anders,",
+      "Christoph Schneider"
+    ],
+    "doi": "https://doi.org/10.3390/land9070226",
+    "journalVolume": "Vol. 9,\n                                no. 226\n                                \n                                  p.\n                                  226",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Understanding the effects of socio-ecological shocks on land use/land cover (LULC) change is essential for developing land management strategies and for reducing adverse environmental pressures. Our study examines the impacts of the armed conflict in Syria, which began in mid-2011, and the related social and economic crisis on LULC between 2010 and 2018. We used remote sensing for change detection by applying a supervised maximum likelihood classification to Landsat images of the three target years 2010, 2014, and 2018. Based on the computed extent of our LULC classes and accuracy assessment, we calculated area-adjusted estimates and 95% confidence intervals. Our classification achieved an overall accuracy of 86.4%. Compared to 2010, we found an increase in spatial extent for bare areas (40,011 km2), forests (2576 km2), and urban and peri-urban areas (3560 km2), whereas rangelands (37,005 km2) and cultivated areas (9425 km2) decreased by 2018. It is not possible to determine whether the changes in LULC in Syria will be permanent or temporary. Natural conditions such as climate fluctuations had an impact on the uses of the natural environment and cultivated areas during the study period, especially in regions suffering from water stress. Although seasonal precipitation patterns and temperature affect LULC change, however, we could not identify a prevailing climate trend towards more drought-prone conditions. Our analysis focuses on (potential) direct and indirect implications of the Syrian conflict on LULC change, which most notably occurred between 2014 and 2018. Conflict-related main drivers were human activities and demographic changes, which are mainly attributable to large-scale population displacement, military operations, concomitant socio-economic status, and control of local resources. As the study provides quantitative and qualitative information on the dynamics of LULC changes in Syria, it may serve as a framework for further relevant conflict-related research and support planning, management practices, and sustainable development.",
+    "readLink": "https://www.mdpi.com/2073-445X/9/7/226"
+  },
+  {
+    "title": "Evaluation of genotype by environment interactions on milk production traits of Holstein cows in southern Brazil",
+    "authors": [
+      "Raphael Patrick Moreira,",
+      "Luis Fernando Batista Pinto,",
+      "Altair Antônio Valloto,",
+      "Victor Breno Pedrosa"
+    ],
+    "doi": "https://doi.org/10.5713/ajas.18.0174",
+    "journalVolume": "Vol. 32,\n                                no. 4\n                                \n                                  pp.\n                                  459\n                                  – 466",
+    "issn": "1011-2367 (Print)",
+    "publisher": "1976-5517 (Online)",
+    "countryOfPublisher": "Asian-Australasian Association of Animal Production Societies",
+    "lcc": [
+      "Korea, Republic of",
+      "Agriculture: Animal culture",
+      "Science: Physiology: Animal biochemistry"
+    ],
+    "journalUrl": "https://www.ajas.info/",
+    "abstract": "Objective This study assessed the possible existence of genotype by environment interactions for milk, fat and protein yields in Holstein cattle raised in one of the most important milk production basins in Brazil. Methods Changes in the genetic parameters and breeding values were evaluated for 57,967 animals from three distinct regions of southern Brazil, divided according to differences in climate. The genotype by environment interaction was determined by genetic correlations between regions, estimated by the restricted maximum likelihood, considering the animal model. Bull rankings were investigated to verify the ratio of coincident selected animals between regions for each trait. Results The estimates of heritability coefficients were similar between two regions, but were lower in the third evaluated area, for all traits. Genetic correlations between regions were high, ranging from 0.91 to 0.99 for milk, fat and protein yields, representing the absence of a genotype by environment interaction for productive traits. The percentage of selection error between regions for the top 10% of animals ranged from 0.88% to 2.07% for milk yield, 0.99% to 2.46% for fat yield and 0.59% to 3.15% for protein yield. Conclusion A slight change in genotype between areas was expected since no significant genotype by environment interactions were identified, facilitating the process of selecting Holstein cattle in southern Brazil.",
+    "readLink": "http://www.ajas.info/upload/pdf/ajas-18-0174.pdf"
+  },
+  {
+    "title": "A single-point modeling approach for the intercomparison and evaluation of ozone dry deposition across chemical transport models (Activity 2 of AQMEII4)",
+    "authors": [
+      "O. E. Clifton,",
+      "O. E. Clifton,",
+      "D. Schwede,",
+      "C. Hogrefe,",
+      "J. O. Bash,",
+      "S. Bland,",
+      "P. Cheung,",
+      "M. Coyle,",
+      "M. Coyle,",
+      "L. Emberson,",
+      "J. Flemming,",
+      "E. Fredj,",
+      "S. Galmarini,",
+      "L. Ganzeveld,",
+      "O. Gazetas,",
+      "O. Gazetas,",
+      "I. Goded,",
+      "C. D. Holmes,",
+      "L. Horváth,",
+      "V. Huijnen,",
+      "Q. Li,",
+      "P. A. Makar,",
+      "I. Mammarella,",
+      "G. Manca,",
+      "J. W. Munger,",
+      "J. W. Munger,",
+      "J. L. Pérez-Camanyo,",
+      "J. Pleim,",
+      "L. Ran,",
+      "R. San Jose,",
+      "S. J. Silva,",
+      "R. Staebler,",
+      "S. Sun,",
+      "A. P. K. Tai,",
+      "A. P. K. Tai,",
+      "A. P. K. Tai,",
+      "E. Tas,",
+      "T. Vesala,",
+      "T. Vesala,",
+      "T. Weidinger,",
+      "Z. Wu,",
+      "Z. Wu,",
+      "L. Zhang"
+    ],
+    "doi": "https://doi.org/10.5194/acp-23-9911-2023",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  pp.\n                                  9911\n                                  – 9961",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "A primary sink of air pollutants and their precursors is dry deposition. Dry deposition estimates differ across chemical transport models, yet an understanding of the model spread is incomplete. Here, we introduce Activity 2 of the Air Quality Model Evaluation International Initiative Phase 4 (AQMEII4). We examine 18 dry deposition schemes from regional and global chemical transport models as well as standalone models used for impact assessments or process understanding. We configure the schemes as single-point models at eight Northern Hemisphere locations with observed ozone fluxes. Single-point models are driven by a common set of site-specific meteorological and environmental conditions. Five of eight sites have at least 3 years and up to 12 years of ozone fluxes. The interquartile range across models in multiyear mean ozone deposition velocities ranges from a factor of 1.2 to 1.9 annually across sites and tends to be highest during winter compared with summer. No model is within 50 % of observed multiyear averages across all sites and seasons, but some models perform well for some sites and seasons. For the first time, we demonstrate how contributions from depositional pathways vary across models. Models can disagree with respect to relative contributions from the pathways, even when they predict similar deposition velocities, or agree with respect to the relative contributions but predict different deposition velocities. Both stomatal and nonstomatal uptake contribute to the large model spread across sites. Our findings are the beginning of results from AQMEII4 Activity 2, which brings scientists who model air quality and dry deposition together with scientists who measure ozone fluxes to evaluate and improve dry deposition schemes in the chemical transport models used for research, planning, and regulatory purposes.",
+    "readLink": "https://acp.copernicus.org/articles/23/9911/2023/acp-23-9911-2023.pdf"
+  },
+  {
+    "title": "Sphaeropsis sapinea and Associated Endophytes in Scots Pine: Interactions and Effect on the Host Under Variable Water Content",
+    "authors": [
+      "Kathrin Blumenstein,",
+      "Johanna Bußkamp,",
+      "Gitta Jutta Langer,",
+      "Rebekka Schlößer,",
+      "Rebekka Schlößer,",
+      "Natalia Marion Parra Rojas,",
+      "Eeva Terhonen"
+    ],
+    "doi": "https://doi.org/10.3389/ffgc.2021.655769",
+    "journalVolume": "Vol. 4",
+    "issn": "2624-893X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Forestry",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/forests-and-global-change#",
+    "abstract": "The ascomycete Sphaeropsis sapinea is the causal agent of the Diplodia Tip Blight disease on pines and other conifer species. This fungus has a symptomless endophytic life stage. Disease symptoms become visible when trees have been weakened by abiotic stress, usually related to warmer temperatures and drought. Currently, this disease is observed regularly in Scots pine (Pinus sylvestris) sites in parts of Europe, such as Germany, increasing dramatically in the last decade. Changes in climatic conditions will gradually increase the damage caused by this fungus, because it is favored by elevated temperature. Thus, host trees with reduced vitality due to climate change-related environmental stress are expected to be more susceptible to an outbreak of Diplodia Tip Blight disease. There is currently no established and effective method to control S. sapinea. This project aims to reveal the nature of the endophyte community of Scots pine. Utilizing the antagonistic core community of endophytes could serve as a novel tool for disease control. Results from this study provide a starting point for new solutions to improve forest health and counter S. sapinea disease outbreaks. We screened potential antagonistic endophytes against S. sapinea and infected Scots pine seedlings with the most common endophytes and S. sapinea alone and combination. The host was stressed by limiting access to water. The antagonism study revealed 13 possible fungi with the ability to inhibit the growth of S. sapinea in vitro, for example Sydowia polyspora. None of the tested co-infected fungi (Desmazierella acicola, Didymellaceae sp., Microsphaeropsis olivacea, Sydowia polyspora, and Truncatella conorum-piceae) showed strong necrosis development in vivo, even when host stress increased due to drought. However, the infection experiment demonstrated that drought conditions enhance the effect of the disease outbreak, triggering S. sapinea to cause more necrosis in the infected twigs.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/ffgc.2021.655769/full"
+  },
+  {
+    "title": "Appropriateness of Potential Evapotranspiration Models for Climate Change Impact Analysis in Yarlung Zangbo River Basin, China",
+    "authors": [
+      "Suli Pan,",
+      "Yue-Ping Xu,",
+      "Weidong Xuan,",
+      "Haiting Gu,",
+      "Zhixu Bai"
+    ],
+    "doi": "https://doi.org/10.3390/atmos10080453",
+    "journalVolume": "Vol. 10,\n                                no. 8\n                                \n                                  p.\n                                  453",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Evapotranspiration (ET) is an important element in the water and energy cycle. Potential evapotranspiration (PET) is an important measurement of ET. Its accuracy has significant influence on agricultural water management, irrigation planning, and hydrological modelling. However, whether current PET models are applicable under climate change or not, is still a question. In this study, five frequently used PET models were chosen, including one combination model (the FAO Penman-Monteith model, FAO-PM), two temperature-based models (the Blaney-Criddle and the Hargreaves models) and two radiation-based models (the Makkink and the Priestley-Taylor models), to estimate their appropriateness in the historical and future periods under climate change impact on the Yarlung Zangbo river basin, China. Bias correction methods were not only applied to the temperature output of Global Climate Models (GCMs), but also for radiation, humidity, and wind speed. It was demonstrated that the results from the Blaney-Criddle and Makkink models provided better agreement with the PET obtained by the FAO-PM model in the historical period. In the future period, monthly PET estimated by all five models show positive trends. The changes of PET under RCP8.5 are much higher than under RCP2.6. The radiation-based models show better appropriateness than the temperature-based models in the future, as the root mean square error (RMSE) value of the former models is almost half of the latter models. The radiation-based models are recommended for use to estimate PET under climate change in the Yarlung Zangbo river basin.",
+    "readLink": "https://www.mdpi.com/2073-4433/10/8/453"
+  },
+  {
+    "title": "Policies and Architectures for the Unthinkable Era: New Resilient Landscapes in Fragile Areas of Sardinia",
+    "authors": [
+      "Gianfranco Sanna,",
+      "Silvia Serreli,",
+      "Giovanni  Maria Biddau"
+    ],
+    "doi": "https://doi.org/10.3390/su12208714",
+    "journalVolume": "Vol. 12,\n                                no. 8714\n                                \n                                  p.\n                                  8714",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The culture of urban space design is not separate from the uncanny nature of climate change, even though this latter now appears more threatening than the production of risks or new vulnerabilities. Environmental disasters and cities’ high degree of exposure to these risks are well known. What is apparent is the close relationship between these disasters and the urban transformations generated by approaches which, quoting the writer Amitav Gohsh, can be defined as outcomes of the Great Derangement Era. Through our research and design project; we have outlined the need to break free from the uncanny feeling caused by the specific phenomena which make territories more fragile and vulnerable to extreme weather and climate events. The design process illustrated, which involved a small town in central-western Sardinia, is an example of how the construction of a new urban landscape and architecture can take place starting, not only from the contingent risks of emergency situations, but rather from the recognition of any potential risks. With the goal of setting up an open and sustainable territorial plan, the case study has been designed as an approach to climate adaptation even if in Sardinia the link between climate change and flood risk has not been studied in depth and no evidence of this link has yet emerged. The project scenarios of an urban plan for one of the local governments in Sardinia, highlighted in the paper, has been conceived as a path of coevolution between new urban transformations and ecological dynamics of the environment.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/20/8714"
+  },
+  {
+    "title": "The phenology of the subnivium",
+    "authors": [
+      "Kimberly L Thompson,",
+      "Benjamin Zuckerberg,",
+      "Warren P Porter,",
+      "Jonathan N Pauli"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aac670",
+    "journalVolume": "Vol. 13,\n                                no. 6\n                                \n                                  p.\n                                  064037",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The subnivium is a seasonal refuge that exists at the interface between the snowpack and the ground, and provides a haven for a diversity of species to survive extreme winter temperatures. Due to the fitness of many plants and animals being strongly influenced by winter conditions, much attention has been given to changes in the timing of snow cover extent and duration in seasonally snow-covered environments; however, these broad-scale characteristics do not capture the finer-scale dynamics of the subnivium. To study the factors associated with subnivium development, we quantified three critical phenophases of the subnivium: establishment, maintenance, and disintegration along a latitudinal and land cover gradient in the Great Lakes Region of North America. We hypothesized that subnivium phenophases would depend primarily on snow depth and air temperature, but that these would be mediated by latitude and land cover. We found that patterns in both establishment and disintegration were affected by latitude more than land cover, but that variability in the timing of early season snowfall events overrode the effects of both factors in subnivium establishment. In contrast, disintegration was predictably later in more northerly sites, regardless of interannual variation in weather patterns. We found that the subnivium was the result of a balance between ambient temperature, snow depth, and snow density, but that ambient temperatures constrained the system by contributing to the frequency of snowfall and inducing changes in snow depth and density. Areas in lake effect zones, characterized by high snow depths and persistent snow cover, may be the last refugia for subnivia-dependent species given the predicted shifting climate regimes of the 21st century.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aac670"
+  },
+  {
+    "title": "The Utility of Macroecological Rules for Microbial Biogeography",
+    "authors": [
+      "Jonathan R. Dickey,",
+      "Rachel A. Swenie,",
+      "Sophia C. Turner,",
+      "Claire C. Winfrey,",
+      "Daniela Yaffar,",
+      "Daniela Yaffar,",
+      "Anchal Padukone,",
+      "Kendall K. Beals,",
+      "Kimberly S. Sheldon,",
+      "Stephanie N. Kivlin"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2021.633155",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Macroecological rules have been developed for plants and animals that describe large-scale distributional patterns and attempt to explain the underlying physiological and ecological processes behind them. Similarly, microorganisms exhibit patterns in relative abundance, distribution, diversity, and traits across space and time, yet it remains unclear the extent to which microorganisms follow macroecological rules initially developed for macroorganisms. Additionally, the usefulness of these rules as a null hypothesis when surveying microorganisms has yet to be fully evaluated. With rapid advancements in sequencing technology, we have seen a recent increase in microbial studies that utilize macroecological frameworks. Here, we review and synthesize these macroecological microbial studies with two main objectives: (1) to determine to what extent macroecological rules explain the distribution of host-associated and free-living microorganisms, and (2) to understand which environmental factors and stochastic processes may explain these patterns among microbial clades (archaea, bacteria, fungi, and protists) and habitats (host-associated and free living; terrestrial and aquatic). Overall, 78% of microbial macroecology studies focused on free living, aquatic organisms. In addition, most studies examined macroecological rules at the community level with only 35% of studies surveying organismal patterns across space. At the community level microorganisms often tracked patterns of macroorganisms for island biogeography (74% confirm) but rarely followed Latitudinal Diversity Gradients (LDGs) of macroorganisms (only 32% confirm). However, when microorganisms and macroorganisms shared the same macroecological patterns, underlying environmental drivers (e.g., temperature) were the same. Because we found a lack of studies for many microbial groups and habitats, we conclude our review by outlining several outstanding questions and creating recommendations for future studies in microbial ecology.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2021.633155/full"
+  },
+  {
+    "title": "Driving Forces of Air Pollution in Ulaanbaatar City Between 2005 and 2015: An Index Decomposition Analysis",
+    "authors": [
+      "Enkhjargal Enkhbat,",
+      "Yong Geng,",
+      "Xi Zhang,",
+      "Huijuan Jiang,",
+      "Jingyu Liu,",
+      "Dong Wu"
+    ],
+    "doi": "https://doi.org/10.3390/su12083185",
+    "journalVolume": "Vol. 12,\n                                no. 3185\n                                \n                                  p.\n                                  3185",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Ulaanbaatar, the capital city of Mongolia, is facing serious air pollution challenges—especially during the cold and long winter months—mainly due to fossil fuel combustion. This study investigates the socioeconomic drivers of the sulfur dioxide (SO2), nitrogen dioxide (NO2), and particulate matter (PM2.5) concentration changes in Ulaanbaatar between 2005 and 2015 by applying the index decomposition analysis (IDA) method. Five socio-economic driving forces are considered in the decomposition analysis. All the driving forces contributed to more air pollution concentration changes in 2015 than in 2005, despite the decreasing trends of decomposition results for the period of 2010–2015. In general, economic growth, pollution intensity, and energy intensity significantly contributed to the changes of air pollutant concentrations, while energy structure and population growth had marginal effects. Finally, appropriate policy recommendations are proposed to the local government so that they can initiate feasible policies to effectively reduce air pollution, protect human health, and respond to climate change in Ulaanbaatar.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/8/3185"
+  },
+  {
+    "title": "Building a Framework to Understand the Energy Needs of Adaptation",
+    "authors": [
+      "Marinella Davide,",
+      "Enrica De Cian,",
+      "Alexis Bernigaud"
+    ],
+    "doi": "https://doi.org/10.3390/su11154085",
+    "journalVolume": "Vol. 11,\n                                no. 15\n                                \n                                  p.\n                                  4085",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Adaptation is a critical option to cope with climate change, as it alleviates the residual climate damages not avoided by emission reduction measures. However, adaptive actions can consume extra amounts of energy. This paper introduces a framework to identify the energy use associated with adaptation and qualifies its relevance in terms of sustainable development. A qualitative, bottom-up analysis of the policy commitments submitted in the context of the Paris Agreement and the 2030 UN Agenda for sustainable development is complemented with a review of the literature on adaptation, energy, and sustainable development. The analysis of the policy options related to vulnerability reduction in the Nationally Determined Contributions reveals a set of recurring adaptation strategies strongly associated with energy use. By linking the resulting options to the United Nations’ Sustainable Development Goal (SDG) targets and indicators, we show that energy-related adaptation options are all connected to at least one SDG, though the strength of the connection varies across adaptation options and SDGs. The descriptive synthesis provided in this paper sets a framework for future research aimed at assessing the energy implications of adaptation strategies, contributing to further understand the nexus between climate policy and development.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/15/4085"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "title": "Technical Note: Higher-order statistical moments and a procedure that detects potentially anomalous years as two alternative methods describing alterations in continuous environmental data",
+    "authors": [
+      "I. Arismendi,",
+      "S. L. Johnson,",
+      "J. B. Dunham"
+    ],
+    "doi": "https://doi.org/10.5194/hess-19-1169-2015",
+    "journalVolume": "Vol. 19,\n                                no. 3\n                                \n                                  pp.\n                                  1169\n                                  – 1180",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Statistics of central tendency and dispersion may not capture relevant or desired characteristics of the distribution of continuous phenomena and, thus, they may not adequately describe temporal patterns of change. Here, we present two methodological approaches that can help to identify temporal changes in environmental regimes. First, we use higher-order statistical moments (skewness and kurtosis) to examine potential changes of empirical distributions at decadal extents. Second, we adapt a statistical procedure combining a non-metric multidimensional scaling technique and higher density region plots to detect potentially anomalous years. We illustrate the use of these approaches by examining long-term stream temperature data from minimally and highly human-influenced streams. In particular, we contrast predictions about thermal regime responses to changing climates and human-related water uses. Using these methods, we effectively diagnose years with unusual thermal variability and patterns in variability through time, as well as spatial variability linked to regional and local factors that influence stream temperature. Our findings highlight the complexity of responses of thermal regimes of streams and reveal their differential vulnerability to climate warming and human-related water uses. The two approaches presented here can be applied with a variety of other continuous phenomena to address historical changes, extreme events, and their associated ecological responses.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/19/1169/2015/hess-19-1169-2015.pdf"
+  },
+  {
+    "title": "Response of European yews to climate change: a review",
+    "authors": [
+      "Peter Thomas,",
+      "Xavier Garcia-Marti"
+    ],
+    "doi": "https://doi.org/10.5424/fs/2015243-07465",
+    "journalVolume": "Vol. 24,\n                                no. 3",
+    "issn": "2171-5068 (Print)",
+    "publisher": "2171-9845 (Online)",
+    "countryOfPublisher": "Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria",
+    "lcc": [
+      "Spain",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://revistas.inia.es/index.php/fs",
+    "abstract": "Aim of study: Being the longest-lived of all European trees, capable of living significantly over 2,000 years, yew is highly likely to be negatively affected by climate change; this paper explores the changes in distribution and abundance. Main results: Yew is unlikely to migrate north due to its slow rate of invasion, its disjunct soil needs and an inability to cope with the expected rate of climate change. It will, however, retreat from the southern end of its range in Spain due to increased evapotranspiration allied to reduced rainfall. In the south, increased drought will be exacerbated by extreme drought and increased fire frequency. In drier areas at the northern edge of its range, yew will decline where growing on well-drained limestone outcrops with little shelter from the sun (increased evaporation) and reduced water availability due to limited root spread. On wetter northern sites, yew should find better climatic conditions but will be slow to invade new areas due to poorer reproduction affected by reduced pollen production, population fragmentation and limited seed movement. Overall, without our intervention, yew will survive by inertia in the short-term but eventual become extinct in most areas. Of equal concern will be the loss of old veteran individuals and associated biodiversity. Research highlights: There is an urgent need for interventionist management for both old and young trees, relieving the stress on old veteran trees, and planting and maintaining seedlings through vulnerable young age. A list of management priorities is given.Keywords: Yew; Taxus baccata; Temperature; Precipitation; Seedlings; Bioclimate envelope; Species range.",
+    "readLink": "http://revistas.inia.es/index.php/fs/article/view/7465"
+  },
+  {
+    "title": "Diversified Impacts of Enabling a Technology-Intensified Agricultural Supply Chain on the Quality of Life in Hinterland Communities",
+    "authors": [
+      "Marian Lubag,",
+      "Joph Bonifacio,",
+      "Jasper Matthew Tan,",
+      "Ronnie Concepcion,",
+      "Giolo Rei Mababangloob,",
+      "Juan Gabriel Galang,",
+      "Marla Maniquiz-Redillas"
+    ],
+    "doi": "https://doi.org/10.3390/su151712809",
+    "journalVolume": "Vol. 15,\n                                no. 12809\n                                \n                                  p.\n                                  12809",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The agricultural supply chain (ASC) in the hinterland refers to the entire post-harvest process of processing and distributing agricultural products in rural or secluded areas to be brought to big city markets. This scheme involves various stakeholders (farmers, trading centers, consumers), processes (logistics, storage, monitoring), and infrastructure (traffic and road systems, negative environmental emissions) to ensure the efficient flow of agricultural products from farms to consumers. The quality of life (QoL) in the hinterland can improve with the introduction of disruptive technologies, but no comprehensive studies have explored the QoL of individuals involved in the ASC–socioeconomic system of hinterland communities. This study elucidated and compared the diversified impacts of disruptive technologies brought by the Industrial Revolution 4.0 to the agricultural supply chain and their impacts on food security, sustainability, and climate change mitigation through the analysis of the related literature. This study also mapped out the role of disruptive technologies in the QoL of hinterland communities, particularly with respect to the farmers, trading center workers, and consumers. Points of discussion emerged with respect to precision agriculture, the Artificially Intelligent Internet of Things, big data analytics, blockchain, artificial intelligence, cyber-physical systems, robotics, automation, and e-commerce, and how these enabling technologies enhance fresh food supply and distribution and deliberately affect stakeholders’ life quality indexes through the analysis of situational case studies in India, South America, Malaysia, China, and Europe. The identification of these points of discussion was also achieved purely based on research performed on the related literature. The positive impacts of these technologies, such as the boosting of efficiency and the ensuring of a steady supply of fresh produce, ultimately improve the overall QoL. The technical insights from the studies were synthesized to develop new frameworks for QoL anchored in the agricultural supply chain (AgQoL) in the hinterland, and a six-dimensional network emphasizing the two trifectas of techno-socioenvironmental needs was established. Food-producing communities with a relatively high AgQoL should support food security in the region.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/17/12809"
+  },
+  {
+    "title": "Phenology and carbon dioxide source/sink strength of a subalpine grassland in response to an exceptionally short snow season",
+    "authors": [
+      "M Galvagno,",
+      "G Wohlfahrt,",
+      "E Cremonese,",
+      "M Rossini,",
+      "R Colombo,",
+      "G Filippa,",
+      "T Julitta,",
+      "G Manca,",
+      "C Siniscalco,",
+      "U Morra di Cella,",
+      "M Migliavacca"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/8/2/025008",
+    "journalVolume": "Vol. 8,\n                                no. 2\n                                \n                                  p.\n                                  025008",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Changes in snow cover depth and duration predicted by climate change scenarios are expected to strongly affect high-altitude ecosystem processes. This study investigates the effect of an exceptionally short snow season on the phenology and carbon dioxide source/sink strength of a subalpine grassland. An earlier snowmelt of more than one month caused a considerable advancement (40 days) of the beginning of the carbon uptake period (CUP) and, together with a delayed establishment of the snow season in autumn, contributed to a two-month longer CUP. The combined effect of the shorter snow season and the extended CUP led to an increase of about 100% in annual carbon net uptake. Nevertheless, the unusual environmental conditions imposed by the early snowmelt led to changes in canopy structure and functioning, with a reduction of the carbon sequestration rate during the snow-free period.",
+    "readLink": "https://doi.org/10.1088/1748-9326/8/2/025008"
+  },
+  {
+    "title": "IMPACT OF DIFFERENT TOPOGRAPHIC CORRECTIONS ON PREDICTION ACCURACY OF FOLIAGE PROJECTIVE COVER (FPC) IN A TOPOGRAPHICALLY COMPLEX TERRAIN",
+    "authors": [
+      "S. Ediriweera,",
+      "S. Pathirana,",
+      "T. Danaher,",
+      "D. Nichols,",
+      "T. Moffiet"
+    ],
+    "doi": "https://doi.org/10.5194/isprsannals-I-7-123-2012",
+    "journalVolume": "Vol. I-7\n                                \n                                \n                                  pp.\n                                  123\n                                  – 128",
+    "issn": "2194-9042 (Print)",
+    "publisher": "2194-9050 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/annals.aspx",
+    "abstract": "Quantitative retrieval of land surface biological parameters (e.g. foliage projective cover [FPC] and Leaf Area Index) is crucial for forest management, ecosystem modelling, and global change monitoring applications. Currently, remote sensing is a widely adopted method for rapid estimation of surface biological parameters in a landscape scale. Topographic correction is a necessary pre-processing step in the remote sensing application for topographically complex terrain. Selection of a suitable topographic correction method on remotely sensed spectral information is still an unresolved problem. The purpose of this study is to assess the impact of topographic corrections on the prediction of FPC in hilly terrain using an established regression model. Five established topographic corrections [C, Minnaert, SCS, SCS+C and processing scheme for standardised surface reflectance (PSSSR)] were evaluated on Landsat TM5 acquired under low and high sun angles in closed canopied subtropical rainforest and eucalyptus dominated open canopied forest, north-eastern Australia. The effectiveness of methods at normalizing topographic influence, preserving biophysical spectral information, and internal data variability were assessed by statistical analysis and by comparing field collected FPC data. The results of statistical analyses show that SCS+C and PSSSR perform significantly better than other corrections, which were on less overcorrected areas of faintly illuminated slopes. However, the best relationship between FPC and Landsat spectral responses was obtained with the PSSSR by producing the least residual error. The SCS correction method was poor for correction of topographic effect in predicting FPC in topographically complex terrain.",
+    "readLink": "http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/I-7/123/2012/isprsannals-I-7-123-2012.pdf"
+  },
+  {
+    "title": "Scaling Behavior of Peat Properties during the Holocene: A Case Study from Central European Russia",
+    "authors": [
+      "Eleni-Foteini Fotaki,",
+      "John Christodoulakis,",
+      "Maria Efstathiou,",
+      "Andrey N. Tsyganov,",
+      "Yuri Mazei,",
+      "Natalia G. Mazei,",
+      "Damir Saldaev,",
+      "Nicholas V. Sarlis,",
+      "Costas Varotsos,",
+      "Tatiana Voronova"
+    ],
+    "doi": "https://doi.org/10.3390/land11060862",
+    "journalVolume": "Vol. 11,\n                                no. 862\n                                \n                                  p.\n                                  862",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "A better understanding of past climate change is vital to our ability to predict possible future environmental dynamics. This study attempts to investigate the dynamic features of the temporal variability of peat humification, water table depth and air temperature by analyzing palaeoecological data from the Valdai Uplands region (Central European Russia). The regression analysis revealed the presence of a periodicity of about 6000 years in the reconstructed peat humification timeseries. Nonlinear analysis showed that humification time variability, water table depth and air temperature exhibit persistent long-range correlations of 1/f type. This indicates that a fluctuation in these variables in the past is very likely to be followed by a similar one in the future, but is magnified by 1/f power-law. In addition, it dictates that humification, water table depth and temperature are key parameters of a system that implies the existence of a special structure, such as self-organized criticality, operating close to a minimum stability configuration, and achieves it without any fine adjustment by external forcing. These conclusions point to new avenues for modeling future ecosystem disturbances and, in particular, for predicting relevant extreme events.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/6/862"
+  },
+  {
+    "title": "Andreevskoie lake system (hydrology and use of natural resources according to archaeological and cartographic materials of the XVIII–XX centuries)",
+    "authors": [
+      "Zakh V.A."
+    ],
+    "doi": "https://doi.org/10.20874/2071-0437-2016-35-4-069-078",
+    "journalVolume": "no. 4(35)\n                                \n                                  pp.\n                                  69\n                                  – 78",
+    "issn": "1811-7465 (Print)",
+    "publisher": "2071-0437 (Online)",
+    "countryOfPublisher": "Tyumen Scientific Centre SB RA",
+    "lcc": [
+      "Russian Federation",
+      "Auxiliary sciences of history: Archaeology"
+    ],
+    "journalUrl": "http://www.ipdn.ru/",
+    "abstract": "The article is dedicated to fluctuations in the water regime in the Andreevskoie Lake system and, particularly, to Bolshoi Andreevskii Island, which serves as a kind of indicator of the fluctuations. According to cartographic materials, the island was connected with the mainland in some periods, and other times it was an island. The water level in the lake system could change in the range of 2–2,5 m. The change of the water regime led to landscape changes. Aridity and humidification of the climate determined the primacy of economic trends in the life supporting systems of the societies with appropriating and producing economy. So, periods of flooding contributed to the rise of appropriation forms, i.e. hunting and fishing, and aridity in the middle of the II millennium B.C. brought cattle breeding and, probably, agriculture to the Andreevskoie Lake system. Besides, the change of water regimes influenced the forms of economy, first of all fishing. Periods of floods included small rivers and channels between the lakes and the Duvan river into economic activities, on these small rivers they built special blocking constructions for catching fish. In aridity periods, even the Duvan river was probably blocked. Nets and traps were probably used during all periods.",
+    "readLink": "http://www.ipdn.ru/va-en/_private/a35/enga35-1-6.htm"
+  },
+  {
+    "title": "Comparison of the intrinsic optimum temperatures for seed germination between two bamboo species based on a thermodynamic model",
+    "authors": [
+      "Peijian Shi,",
+      "Brady K. Quinn,",
+      "Yu Zhang,",
+      "Xicheng Bao,",
+      "Shuyan Lin"
+    ],
+    "doi": "Vol. 17",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Alpine plants usually experience lower ambient temperatures than non-alpine plants. However, it is still not known whether the former have lower temperature thresholds and lower physiological optimum temperatures for development than the latter. We studied two native Chinese bamboo species that have different vertical distributions: Chimonobambusa utilis, which typically grows at altitudes of 1400–2200 m, and Phyllostachys edulis (i.e., moso), which typically grows at altitudes of 400–800 m. The seed germination times of both species at eight temperatures from 16 to 30 °C at 2 °C increments were observed. A thermodynamic model was used to calculate the intrinsic optimum temperature and upper developmental threshold for development of each of these two species, and a linear model was used to calculate their lower developmental threshold and the sum of effective temperatures required for completing seed germination. We found that the alpine bamboo species had a lower intrinsic optimum temperature and a lower low-temperature developmental threshold than the non-alpine moso (19.4 vs. 19.8 °C and 7.5 vs. 10.1 °C, respectively), although it should be noted that the difference between the intrinsic optimum temperatures of the two species was small. However, there was no significant difference between the upper developmental thresholds (31.6 vs. 31.0 °C) or the sum of effective temperatures (135.8 vs. 136.8 d °C) of the two species. The results of this study imply that climate warming might reduce the fitness of bamboos, especially the alpine species whose intrinsic optimum temperature was found to be approximately 20 °C, which is in accordance with results previously reported for terrestrial arthropods. Keywords: Climate change, Development, Intrinsic optimum temperature, Thermal limit, Thermodynamic model",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989419300204"
+  },
+  {
+    "title": "From concept to action: a united, holistic and One Health approach to respond to the climate change crisis",
+    "authors": [
+      "Renhe Zhang,",
+      "Xu Tang,",
+      "Jian Liu,",
+      "Martin Visbeck,",
+      "Huadong Guo,",
+      "Virginia Murray,",
+      "Catherine Mcgillycuddy,",
+      "Bing Ke,",
+      "Gretchen Kalonji,",
+      "Panmao Zhai,",
+      "Xiaoming Shi,",
+      "Jiahai Lu,",
+      "Xiaonong Zhou,",
+      "Haidong Kan,",
+      "Qunli Han,",
+      "Qian Ye,",
+      "Yong Luo,",
+      "Jianmin Chen,",
+      "Wenjia Cai,",
+      "Huiling Ouyang,",
+      "Riyanti Djalante,",
+      "Alexander Baklanov,",
+      "Lu Ren,",
+      "Guy Brasseur,",
+      "George Fu Gao,",
+      "Lei Zhou"
+    ],
+    "doi": "https://doi.org/10.1186/s40249-022-00941-9",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 6",
+    "issn": "2095-5162 (Print)",
+    "publisher": "2049-9957 (Online)",
+    "countryOfPublisher": "BMC",
+    "lcc": [
+      "United Kingdom",
+      "Medicine: Internal medicine: Infectious and parasitic diseases",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://idpjournal.biomedcentral.com",
+    "abstract": "Abstract It is unequivocal that human influence has warmed the planet, which is seriously affecting the planetary health including human health. Adapting climate change should not only be a slogan, but requires a united, holistic action and a paradigm shift from crisis response to an ambitious and integrated approach immediately. Recognizing the urgent needs to tackle the risk connection between climate change and One Health, the four key messages and recommendations that with the intent to guide further research and to promote international cooperation to achieve a more climate-resilient world are provided. Graphical Abstract",
+    "readLink": "https://doi.org/10.1186/s40249-022-00941-9"
+  },
+  {
+    "title": "Insects as sources of food and bioproducts: a review from Colombia",
+    "authors": [
+      "María Susana Pérez-Grisales,",
+      "Sandra I. Uribe Soto"
+    ],
+    "doi": "https://doi.org/10.1186/s41936-022-00319-1",
+    "journalVolume": "Vol. 83,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 21",
+    "issn": "2090-9896 (Print)",
+    "publisher": "2090-990X (Online)",
+    "countryOfPublisher": "SpringerOpen",
+    "lcc": [
+      "United Kingdom",
+      "Science: Zoology"
+    ],
+    "journalUrl": "https://basicandappliedzoology.springeropen.com",
+    "abstract": "Abstract Background Insects are known to be important sources of food and bioproducts, and companies around the world are currently offering goods and services based on their production and use. Colombia is one of the richest countries in the world in terms of biodiversity, with a great variety of insects that are not exploited for these uses at this time. Most studies relating to insects in Colombia are focused on agricultural pests or disease transmitters, and in most cases the advantages and potential applications of insects in the areas of agro-industry, medicine, biotechnology, and food are poorly known. To recognize the native species previously considered as a source of bioproducts, it is necessary to better evaluate their potential uses, as well as the possibilities of innovating with products derived from them. It is also important to consider advantages and disadvantages of using insects for specific purposes, minimum quality requirements and national and international regulations for production and marketing. Main body The growing world population has led to an increase in the demand for food and animal products, increasing the need for animal production. This has resulted in high pressure on the environment, water resources and biodiversity, which also contribute to climate change. New strategies are required, and emerging solutions include the use of alternative sources for bioproducts or meat, changing diets, and migrating to sustainable production systems. In the present study, available information pertaining to 107 species of insects reported in Colombia that have been indicated to be sources to produce bioproducts, or that are currently being used for that purpose is revised and analyzed. The insects documented are from 67 genera and mainly include the orders Hymenoptera (59%), Coleoptera (10%), and Blattaria (11%). Seventy-one percent (71%) of the insect species included are important as foods or food supplements, with 9% related to established or commercial products currently in development; and 36% currently recognized for their importance in obtaining valuable non-edible bioproducts within the pharmaceutical industry, medicine, biotechnology, and agro-inputs sectors. A list of species is presented and uses and applications are discussed. Conclusions Despite Colombia's enormous potential for sustainable development of insect-derived products, there is a lack of studies in this area. Most of the insects reported in this work are related to local and traditional knowledge and folk medicine of some populations in the country. In addition to apiculture, there are not industrialized insect farms in Colombia; however, there have been some initiatives to produce crickets of the species Acheta domestica and mealworms Tenebrio mollitor for human and animal consumption. Recently the traditional consumption of ants and certain termite species in some areas of the country has been refreshed by some chefs experimenting with insects in gourmet restaurants. There are few studies on the nutritional value or pharmaceutical uses of the local species and there is no clear regulation for breeding or use. This highlights the need for in-depth study and discussion of the advantages and disadvantages for potential use in the country.",
+    "readLink": "https://doi.org/10.1186/s41936-022-00319-1"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Potential distribution of a noxious weed (Solanum viarum Du-nal), current status, and future invasion risk based on MaxEnt modeling",
+    "authors": [
+      "Muhammad Waheed,",
+      "Fahim Arshad,",
+      "Muhammad Majeed,",
+      "Sheikh Marifatul Haq,",
+      "Robina Aziz,",
+      "Rainer W. Bussmann,",
+      "Kishwar Ali,",
+      "Fazal Subhan,",
+      "David Aaron Jones,",
+      "Ayham Zaitouny"
+    ],
+    "doi": "https://doi.org/10.1080/24749508.2023.2179752",
+    "issn": "2474-9508 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgel",
+    "abstract": "ABSTRACTSpecies distribution modeling and niche dynamics of alien plants can aid in understanding the existing and future invasion potential in the wake of climate change. We describe the niche dynamics of S. viarum Dunal, and report on its present and predicted future distribution in Pakistan under scenarios of climate change. The results revealed that S. viarum had an extensive range of prospective distribution zones in Pakistan, with Central Punjab, Eastern Khyber Pakhtunkhwa, and Southern Balochistan being the most suitable. According to ROC curve data, the MaxEnt model has a great prediction precision and credible outcomes. The most important variables influencing S. viarum latent distribution may be precipitation and temperature. The current potential area of S. viarum is approximately 105,750 km2 (12%). Under climate change regimes, the highly suitable area for S. viarum increases by 2–9% under two Representative Concentration Pathways (RCP 4.5 and RCP 8.5). The outcomes of this study could help to develop control of regional invasions and climate change approaches in Pakistan. More importantly, the findings of niche dynamics in native and invaded S. viarum areas contribute to a better understanding of the nature of niche modifications in invasive species and the potential for invasion under climate change.",
+    "readLink": "https://www.tandfonline.com/doi/10.1080/24749508.2023.2179752"
+  },
+  {
+    "title": "Factors influencing range contraction of a rodent herbivore in a steppe grassland over the past decades",
+    "authors": [
+      "Defeng Bai,",
+      "Xinru Wan,",
+      "Guoliang Li,",
+      "Xinrong Wan,",
+      "Yongwang Guo,",
+      "Dazhao Shi,",
+      "Zhibin Zhang"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.8546",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Climate warming and human disturbance are known to be key drivers in causing range contraction of many species, but quantitative assessment on their distinctive and interactive effects on local disappearance is still rare. In this study, we examined the association of climate warming and human disturbance stressors with local disappearance probability of Brandt's voles (Lasiopodomys brandtii) in a steppe grassland in northern China. We used logistic generalized additive models to quantify the relationship between local disappearance probability of Brandt's voles and environmental variables. The year following the last observation year was used to estimate the disappearance threshold of Brandt's voles. We projected the distribution change of Brandt's voles under future climate warming scenarios. We found climate warming attributed to local disappearance and range contraction for southern populations of Brandt's voles from 1971 to 2020. Human stressors and high vegetation coverage increased the probability of local disappearance of voles in years of abundant precipitation. The southern boundary retreated northward at a speed of 99.0 km per decade with the temperature rise of 0.36°C. The disappearance threshold of maximum air temperature of Brandt's voles in the warmest month (27.50 ± 1.61°C) was similar to the lower critical temperature of its thermal neutral zone. Our study suggests that the rapid climate change over the past decades contributed to the range contraction of its southern boundary of this keystone species in the steppe grassland of China. It is necessary to take actions to preserve the isolated populations of Brandt's voles from the effects of accelerated climate change and human disturbance.",
+    "readLink": "https://doi.org/10.1002/ece3.8546"
+  },
+  {
+    "title": "Using a Web Map Service to map Little Ice Age glacier extents at regional scales",
+    "authors": [
+      "Johannes Reinthaler,",
+      "Frank Paul"
+    ],
+    "doi": "https://doi.org/10.1017/aog.2023.39",
+    "issn": "0260-3055 (Print)",
+    "publisher": "1727-5644 (Online)",
+    "countryOfPublisher": "Cambridge University Press",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/annals-of-glaciology",
+    "abstract": "Extending the record of glacier area changes into the past improves our understanding of climate change impacts. Although analogue maps showing historic glacier extents are abundant, digital outlines from before the satellite era are sparse as the digitisation of moraines and trimlines on freely available satellite images is challenging. With the now available very high-resolution images provided by Web Map Services (WMS), new doors are open for the precise digitisation. Here, we used the ESRI WMS to digitise Little Ice Age (LIA) glacier extents and present area changes since the LIA in four selected regions along with a detailed uncertainty analysis. We used modern glacier outlines as a starting point and additionally consulted Sentinel-2 images, the ArcticDEM and historic maps for interpretation. Dating records from the literature allowed calculating area change rates. In total, 493 LIA glaciers (4640 km2, now 891 ice bodies with 3590 km2) were digitised, yielding relative area changes of −20% (−0.14% a−1), −15% (−0.10% a−1), −26% (−0.16% a−1) and −61% (−0.19% a−1) for Alaska, Baffin Island, Novaya Zemlya and the tropics, respectively. The ESRI WMS images are a great asset to precisely map moraines and trimlines, but information about the timing of the related extents requires further sources.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S0260305523000393/type/journal_article"
+  },
+  {
+    "title": "Halophytes as new model plant species for salt tolerance strategies",
+    "authors": [
+      "Anita Mann,",
+      "Charu Lata,",
+      "Charu Lata,",
+      "Naresh Kumar,",
+      "Naresh Kumar,",
+      "Ashwani Kumar,",
+      "Arvind Kumar,",
+      "Parvender Sheoran,",
+      "Parvender Sheoran"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2023.1137211",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Soil salinity is becoming a growing issue nowadays, severely affecting the world’s most productive agricultural landscapes. With intersecting and competitive challenges of shrinking agricultural lands and increasing demand for food, there is an emerging need to build resilience for adaptation to anticipated climate change and land degradation. This necessitates the deep decoding of a gene pool of crop plant wild relatives which can be accomplished through salt-tolerant species, such as halophytes, in order to reveal the underlying regulatory mechanisms. Halophytes are generally defined as plants able to survive and complete their life cycle in highly saline environments of at least 200-500 mM of salt solution. The primary criterion for identifying salt-tolerant grasses (STGs) includes the presence of salt glands on the leaf surface and the Na+ exclusion mechanism since the interaction and replacement of Na+ and K+ greatly determines the survivability of STGs in saline environments. During the last decades or so, various salt-tolerant grasses/halophytes have been explored for the mining of salt-tolerant genes and testing their efficacy to improve the limit of salt tolerance in crop plants. Still, the utility of halophytes is limited due to the non-availability of any model halophytic plant system as well as the lack of complete genomic information. To date, although Arabidopsis (Arabidopsis thaliana) and salt cress (Thellungiella halophila) are being used as model plants in most salt tolerance studies, these plants are short-lived and can tolerate salinity for a shorter duration only. Thus, identifying the unique genes for salt tolerance pathways in halophytes and their introgression in a related cereal genome for better tolerance to salinity is the need of the hour. Modern technologies including RNA sequencing and genome-wide mapping along with advanced bioinformatics programs have advanced the decoding of the whole genetic information of plants and the development of probable algorithms to correlate stress tolerance limit and yield potential. Hence, this article has been compiled to explore the naturally occurring halophytes as potential model plant species for abiotic stress tolerance and to further breed crop plants to enhance salt tolerance through genomic and molecular tools.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1137211/full"
+  },
+  {
+    "title": "Technoeconomic Evaluation of a Process Capturing CO<sub>2</sub> Directly from Air",
+    "authors": [
+      "Romesh  Pramodya Wijesiri,",
+      "Gregory  Paul Knowles,",
+      "Hasina Yeasmin,",
+      "Andrew  Forbes Alexander Hoadley,",
+      "Alan  Loyd Chaffee"
+    ],
+    "doi": "https://doi.org/10.3390/pr7080503",
+    "journalVolume": "Vol. 7,\n                                no. 8\n                                \n                                  p.\n                                  503",
+    "issn": "2227-9717 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/processes",
+    "abstract": "Capturing CO2 directly from air is one of the options for mitigating the effects global climate change, and therefore determining its cost is of great interest. A process model was proposed and validated using laboratory results for adsorption/desorption of CO2, with a branched polyethyleneimine (PEI) loaded mesocellular foam (MCF) silica sorbent. The model was subjected to a Multi-Objective Optimization (MOO) to evaluate the technoeconomic feasibility of the process and to identify the operating conditions which yielded the lowest cost. The objectives of the MOO were to minimize the cost of CO2 capture based on a discounted cash flow analysis, while simultaneously maximizing the quantity of CO2 captured. This optimization identified the minimum cost of capture as 612 USD tonne−1 for dry air entering the process at 25 °C, and 657 USD tonne−1 for air at 22 °C and 39% relative humidity. The latter represents more realistic conditions which can be expected for subtropical climates. The cost of direct air capture could be reduced by ~42% if waste heat was utilized for the process, and by ~27% if the kinetics of the sorbent could be improved by a factor of two. A combination of both would allow cost reductions of ~54%.",
+    "readLink": "https://www.mdpi.com/2227-9717/7/8/503"
+  },
+  {
+    "title": "On the linkage between future Arctic sea ice retreat, Euro-Atlantic circulation regimes and temperature extremes over Europe",
+    "authors": [
+      "J. Riebold,",
+      "A. Richling,",
+      "U. Ulbrich,",
+      "H. Rust,",
+      "T. Semmler,",
+      "D. Handorf"
+    ],
+    "doi": "https://doi.org/10.5194/wcd-4-663-2023",
+    "journalVolume": "Vol. 4\n                                \n                                \n                                  pp.\n                                  663\n                                  – 682",
+    "issn": "2698-4016 (Online)",
+    "publisher": "Copernicus Publications",
+    "countryOfPublisher": "Germany",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.weather-climate-dynamics.net/",
+    "abstract": "The question to what extent Arctic sea ice loss is able to affect atmospheric dynamics and climate extremes over mid-latitudes still remains a highly debated topic. In this study we investigate model experiments from the Polar Amplification Model Intercomparison Project (PAMIP) and compare experiments with future sea ice loss prescribed over the entire Arctic, as well as only locally over the Barents and Kara seas, with a present-day reference experiment. The first step is to perform a regime analysis and analyze the change in occurrence frequencies of five computed Euro-Atlantic winter circulation regimes. Forced by future Arctic sea ice conditions, most models show more frequent occurrences of a Scandinavian blocking pattern in at least 1 winter month, whereas there is an overall disagreement between individual models on the sign of frequency changes of two regimes that, respectively, resemble the negative and positive phase of the North Atlantic Oscillation. Focusing on the ECHAM6 PAMIP experiments, we subsequently employ a framework of conditional extreme-event attribution. It demonstrates how detected regime frequency changes can be used to decompose sea-ice-induced frequency changes of European temperature extremes into two different contributions: one “changed-regime” term that is related to dynamical changes in regime occurrence frequencies and another more thermodynamically motivated “fixed-regime” contribution that is related to increased surface temperatures during a specific circulation regime. We show how the overall fixed-regime warming effect and also an increased Scandinavian blocking pattern frequency under future sea ice reductions can equally contribute to and shape the overall response signal of European cold extremes in midwinter. We also demonstrate how a decreased occurrence frequency of an anticyclonic regime over the eastern Atlantic dynamically counteracts the fixed-regime warming response and results in no significant changes in overall January warm-extreme occurrences. However, when compared to other characteristics of future climate change, such as the thermodynamical impact of globally increased sea surface temperatures, the effects of Arctic sea ice loss on European temperature extremes are of secondary relevance.",
+    "readLink": "https://wcd.copernicus.org/articles/4/663/2023/wcd-4-663-2023.pdf"
+  },
+  {
+    "title": "rbcL-based dataset on intra-specific diversity and conservation of Adansonia digitata L. (Malvaceae) in the savannah belt of Nigeria",
+    "authors": [
+      "Conrad Asotie Omonhinmin,",
+      "Panrot Peace Piwuna,",
+      "Miracle Omolara Aderanti,",
+      "Abimbola Odunayo Bolade"
+    ],
+    "doi": "Vol. 48\n                                \n                                \n                                  p.\n                                  109129",
+    "issn": "2352-3409 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/data-in-brief/",
+    "abstract": "The African baobab species belong to the family Malvaceae and the genus Adansonia. The disjointed tree thrives in arid or semi-arid regions, is native to the thorn woodlands of Africa, along tracks, and is associated with human-populated forest areas. It is considered indigenous to Central and West Africa and has been introduced to the Arabian Peninsula, South-East Asia, the Indian sub-continent, and the Caribbeans. Adansonia digitata is a multifunctional tree with a long lifespan of over 1000 years old. The leaves, roots, flowers, fruit pulp, seeds and barks are used for food, medicine, or other ethnic-practices. The utilisation level and distribution are significantly undermined by climate change and poor use practices. The data set offers insight into the distribution pattern and genetic diversity of Adansonia digitata across the savannah belt of Nigeria using the rbcL gene.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352340923002482"
+  },
+  {
+    "title": "Energy transitions, air quality and health",
+    "authors": [
+      "Gavin Pereira,",
+      "Michelle L Bell,",
+      "Yasushi Honda,",
+      "Jong-Tae Lee,",
+      "Lidia Morawska,",
+      "Bin Jalaludin"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/abdaea",
+    "journalVolume": "Vol. 16,\n                                no. 2\n                                \n                                  p.\n                                  020202",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The way we produce and use energy is transforming. Policy in this area intersects decisions that affect climate change, air quality, and the economy. The exponential increase in use of fossil fuel and nuclear energy has now essentially replaced human and animal energy (McKinney 2019 Curr. Pollut. Rep. 5 394–406; Solomon and Krishna 2011 Energy Policy 39 7422–31). These transitions have contributed to notable gains, such as improvements in mortality rates attributable to improved heating, water quality and transportation (Rayner 2012 Ecological Public Health : Reshaping the Conditions for Good health/Geof Rayner and Tim Lang (Abingdon, Oxon: Earthscan); Rosen 2015 A History of Public Health (Jhu Press); Pain 2017 Nature 551 S134–7; Cutler and Miller 2005 Demography 42 1–22). However, such transitions have also been accompanied by health detriments. Improvements in transportation and occupational efficiencies have promoted lifestyle transitions that have contributed to the chronic disease epidemic (Heath 2009 Am. J. Lifestyle Med. 3 27S–31S). Certain energy-related accidents and waste products have been long-established as carcinogenic (Guizard et al 2001 J. Epidemiol. Community Health 55 469; Cardis and Hatch 2011 Clin. Oncol. 23 251–60) and potential precursors to genetic mutations (Beir 1990 Health Effects of Exposure to Low Levels of Ionizing Radiation (Washington, DC: National Academy of Sciences); Desouky et al 2015 J. Radiat. Res. Appl. Sci. 8 247–54). Moreover, air pollution emissions are increasingly becoming recognised as a major contributor the global burden of disease, particularly cardiovascular and respiratory mortality (Cohen et al 2017 Lancet 389 1907–18). Although renewable energies can be perceived as ‘clean’, the shift to renewables has been relatively more recent and consequently, less is known about associated health impacts. The life course of renewable energy begins with the process of manufacturing renewable technologies, includes the means of transportation for the distribution and collection of these technologies as well as the disposal of their waste products and subsequent contamination. All of these stages have potential to involve direct chemical exposures through the groundwater, soil or air; and have potential to affect health through indirect pathways. A relatively understudied area, and the topic of this Focus Issue on Energy Transitions, Air Quality and Health , is the relevance of energy transitions and their associated environmental factors in a contemporary setting, how such factors affect health now, and will affect health in future.",
+    "readLink": "https://doi.org/10.1088/1748-9326/abdaea"
+  },
+  {
+    "title": "Air pollution from wildfires and human health vulnerability in Alaskan communities under climate change",
+    "authors": [
+      "Seung Hyun Lucia Woo,",
+      "Jia Coco Liu,",
+      "Xu Yue,",
+      "Loretta J Mickley,",
+      "Michelle L Bell"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ab9270",
+    "journalVolume": "Vol. 15,\n                                no. 9\n                                \n                                  p.\n                                  094019",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Alaskan wildfires are becoming more frequent and severe, but very little is known regarding exposure to wildfire smoke, a risk factor for respiratory and cardiovascular illnesses. We estimated long-term, present-day and future exposure to wildfire-related fine particulate matter (PM _2.5 ) across Alaska for the general population and subpopulations to assess vulnerability using observed data for the present day (1997–2010), modelled estimates for the present day (1997–2001), and modelled estimates for the future (2047–2051). First, we assessed wildfire-PM _2.5 exposure by estimating monthly-average wildfire-specific PM _2.5 levels across 1997–2010 for 158 Alaskan census tracts, using atmospheric transport modelling based on observed area-burned data. Second, we estimated changes in future (2047–2051) wildfire-PM _2.5 exposure compared to the present-day (1997–2001) by estimating the monthly-average wildfire-specific PM _2.5 levels for 29 boroughs/census areas (county-equivalent areas), under the Intergovernmental Panel on Climate Change (IPCC) A1B scenario from an ensemble of 13 climate models. Subpopulation risks for present and future exposure levels were estimated by summing area-weighted exposure levels utilizing the 2000 Census and State of Alaska’s population projections. We assessed vulnerability by several subpopulation characteristics (e.g. race/ethnicity, urbanicity). Wildfire-PM _2.5 exposure levels during 1997–2010 were highest in interior Alaska during July. Among subpopulations, average summer (June-August) exposure levels for urban dwellers and African-American/Blacks were highest at 9.1 µg m ^−3 and 10 µg m ^−3 , respectively. Estimated wildfire-PM _2.5 varied by Native American tribe, ranging from average summer levels of 2.4 µg m ^−3 to 13 µg m ^−3 for Tlingit-Haida and Alaskan Athabascan tribes, respectively. Estimates indicate that by the mid-21st century, under climate change, almost all of Alaska could be exposed to increases of 100% or more in levels of wildfire-specific PM _2.5 levels. Exposure to wildfire-PM _2.5 likely presents a substantial public health burden in the present day for Alaska communities, with different impacts by subpopulation. Under climate change, wildfire smoke could pose an even greater public health risks for most Alaskans.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ab9270"
+  },
+  {
+    "title": "Estimating the effect of multiple environmental stressors on coral bleaching and mortality.",
+    "authors": [
+      "Paul D Welle,",
+      "Mitchell J Small,",
+      "Scott C Doney,",
+      "Inês L Azevedo"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0175018",
+    "journalVolume": "Vol. 12,\n                                no. 5\n                                \n                                  p.\n                                  e0175018",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Coral cover has been declining in recent decades due to increased temperatures and environmental stressors. However, the extent to which different stressors contribute both individually and in concert to bleaching and mortality is still very uncertain. We develop and use a novel regression approach, using non-linear parametric models that control for unobserved time invariant effects to estimate the effects on coral bleaching and mortality due to temperature, solar radiation, depth, hurricanes and anthropogenic stressors using historical data from a large bleaching event in 2005 across the Caribbean. Two separate models are created, one to predict coral bleaching, and the other to predict near-term mortality. A large ensemble of supporting data is assembled to control for omitted variable bias and improve fit, and a significant improvement in fit is observed from univariate linear regression based on temperature alone. The results suggest that climate stressors (temperature and radiation) far outweighed direct anthropogenic stressors (using distance from shore and nearby human population density as a proxy for such stressors) in driving coral health outcomes during the 2005 event. Indeed, temperature was found to play a role ~4 times greater in both the bleaching and mortality response than population density across their observed ranges. The empirical models tested in this study have large advantages over ordinary-least squares-they offer unbiased estimates for censored data, correct for spatial correlation, and are capable of handling more complex relationships between dependent and independent variables. The models offer a framework for preparing for future warming events and climate change; guiding monitoring and attribution of other bleaching and mortality events regionally and around the globe; and informing adaptive management and conservation efforts.",
+    "readLink": "http://europepmc.org/articles/PMC5417430?pdf=render"
+  }
+]

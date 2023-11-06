@@ -1,0 +1,221 @@
+[
+  {
+    "title": "Premature Deaths in Africa Due To Particulate Matter Under High and Low Warming Scenarios",
+    "authors": [
+      "D. Shindell,",
+      "G. Faluvegi,",
+      "L. Parsons,",
+      "E. Nagamoto,",
+      "J. Chang"
+    ],
+    "doi": "https://doi.org/10.1029/2022GH000601",
+    "journalVolume": "Vol. 6,\n                                no. 5\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2471-1403 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2471-1403/",
+    "abstract": "Abstract Sustainable development and climate change mitigation can provide enormous public health benefits via improved air quality, especially in polluted areas. We use the latest state‐of‐the‐art composition‐climate model simulations to contrast human exposure to fine particulate matter in Africa under a “baseline” scenario with high material consumption, population growth, and warming to that projected under a sustainability scenario with lower consumption, population growth, and warming. Evaluating the mortality impacts of these exposures, we find that under the low warming scenario annual premature deaths due to PM2.5 are reduced by roughly 515,000 by 2050 relative to the high warming scenario (100,000, 175,000, 55,000, 140,000, and 45,000 in Northern, West, Central, East, and Southern Africa, respectively). This reduction rises to ∼800,000 by the 2090s, though by that time much of the difference is attributable to the projected differences in population. By contrast, during the first half of the century benefits are driven predominantly by emissions changes. Depending on the region, we find large intermodel spreads of ∼25%–50% in projected future exposures owing to different physics across the ensemble of 6 global models. The spread of projected deaths attributable to exposure to fine particulate matter, including uncertainty in the exposure‐response function, are reduced in every region to ∼20%–35% by the non‐linear exposure‐response function. Differences between the scenarios have an even narrower spread of ∼5%–25% and are highly statistically significant in all regions for all models. These results provide valuable information for policy‐makers to consider when working toward climate change mitigation and sustainable development goals.",
+    "readLink": "https://doi.org/10.1029/2022GH000601"
+  },
+  {
+    "title": "Impact of renewable energy utilization and artificial intelligence in achieving sustainable development goals",
+    "authors": [
+      "M.A. Hannan,",
+      "Ali Q Al-Shetwi,",
+      "Pin Jern Ker,",
+      "R.A. Begum,",
+      "M. Mansor,",
+      "S.A. Rahman,",
+      "Z.Y. Dong,",
+      "S.K. Tiong,",
+      "T.M. Indra Mahlia,",
+      "K.M. Muttaqi"
+    ],
+    "doi": "Vol. 7\n                                \n                                \n                                  pp.\n                                  5359\n                                  – 5373",
+    "issn": "2352-4847 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/energy-reports/",
+    "abstract": "Many countries around the world are planning to reach 100% renewable energy use by 2050. In this context and due to the recent sharp increase in RE utilization in the global energy mix along with its progressive impact on the world energy sector, the evaluation and investigation of its effect on achieving sustainable development goals are not covered sufficiently. Moreover, an assessment of the emerging role of artificial intelligence for renewable energy utilization toward achieving SDGs is conducted. A total of 17 SDGs were divided into three groups, namely, environment, society, and economy, as per the three key pillars of sustainable development. Renewable energy has a positive impact toward achieving 75 targets across all sustainable development goals by using an expert elicitation method-based consensus. However, it may negatively affect the accomplishment of the 27 targets. In addition, artificial intelligence can help renewable energy enable the attainment of 42 out of 169 targets. However, with the current exponential growth of renewable energy share and artificial intelligence development and addressing certain present limitations, this impact may cover additional targets in the future. Nevertheless, recent research foci overlook essential aspects. The exponential growth of renewable energy share and rapid evolution of artificial intelligence need to be accompanied through the requisite regulatory insight and technology regulation to cover additional targets in the future.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352484721007757"
+  },
+  {
+    "title": "A Synergic Use of Sentinel-1 and Sentinel-2 Imagery for Complex Wetland Classification Using Generative Adversarial Network (GAN) Scheme",
+    "authors": [
+      "Ali Jamali,",
+      "Masoud Mahdianpari,",
+      "Fariba Mohammadimanesh,",
+      "Brian Brisco,",
+      "Bahram Salehi"
+    ],
+    "doi": "https://doi.org/10.3390/w13243601",
+    "journalVolume": "Vol. 13,\n                                no. 3601\n                                \n                                  p.\n                                  3601",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Due to anthropogenic activities and climate change, many natural ecosystems, especially wetlands, are lost or changing at a rapid pace. For the last decade, there has been increasing attention towards developing new tools and methods for the mapping and classification of wetlands using remote sensing. At the same time, advances in artificial intelligence and machine learning, particularly deep learning models, have provided opportunities to advance wetland classification methods. However, the developed deep and very deep algorithms require a higher number of training samples, which is costly, logistically demanding, and time-consuming. As such, in this study, we propose a Deep Convolutional Neural Network (DCNN) that uses a modified architecture of the well-known DCNN of the AlexNet and a Generative Adversarial Network (GAN) for the generation and classification of Sentinel-1 and Sentinel-2 data. Applying to an area of approximately 370 sq. km in the Avalon Peninsula, Newfoundland, the proposed model with an average accuracy of 92.30% resulted in F-1 scores of 0.82, 0.85, 0.87, 0.89, and 0.95 for the recognition of swamp, fen, marsh, bog, and shallow water, respectively. Moreover, the proposed DCNN model improved the F-1 score of bog, marsh, fen, and swamp wetland classes by 4%, 8%, 11%, and 26%, respectively, compared to the original CNN network of AlexNet. These results reveal that the proposed model is highly capable of the generation and classification of Sentinel-1 and Sentinel-2 wetland samples and can be used for large-extent classification problems.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/24/3601"
+  },
+  {
+    "title": "Relevant Aspects of International Legal Regulation of the Arctic Shipping",
+    "authors": [
+      "Svetlana V. POPKOVA,",
+      "Lev S. ZARUBIN"
+    ],
+    "doi": "https://doi.org/10.37482/issn2221-2698.2020.39.110",
+    "journalVolume": "no. 39\n                                \n                                  pp.\n                                  96\n                                  – 109",
+    "issn": "2221-2698 (Online)",
+    "publisher": "Northern Arctic Federal University",
+    "countryOfPublisher": "Russian Federation",
+    "lcc": [
+      "Social Sciences"
+    ],
+    "journalUrl": "http://arcticandnorth.ru/en/",
+    "abstract": "The critical aspects of the international legal regulation of shipping in the Arctic discussed on the interna-tional Arctic agenda are analyzed. The authors examine the specifics of the Northern Sea Route legal status from the perspective of the leading role of the Arctic coastal states and the possibilities for countries to specify at the national and regional levels the universal norms of international maritime law at the national and regional levels. The authors devoted much attention to the study of the UNCLOS 1982, Art. 234, which gives coastal states the right to adopt national laws and regulations to control pollution of the marine environment in ice-covered areas within exclusive economic zones. The article is one of the leading international legal grounds for the Russia's establishment of control over the NSR shipping. The Polar Code, entered into force in 2017, is examined separately. The article also presents expert opinions on navigation forecasts in the Arctic region.",
+    "readLink": "http://www.arcticandnorth.ru/en/article_index_years.php?ELEMENT_ID=346784"
+  },
+  {
+    "title": "The ABC of Governance Principles for Carbon Dioxide Removal Policy",
+    "authors": [
+      "Matthias Honegger,",
+      "Matthias Honegger,",
+      "Christian Baatz,",
+      "Samuel Eberenz,",
+      "Antonia Holland-Cunz,",
+      "Axel Michaelowa,",
+      "Axel Michaelowa,",
+      "Benno Pokorny,",
+      "Matthias Poralla,",
+      "Malte Winkler"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2022.884163",
+    "journalVolume": "Vol. 4",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "Climate change mitigation actions, including those aimed at developing and scaling carbon dioxide removal (CDR) activities spanning the industrial, energy, and agroforestry sector, emerge in a context of internationally shared norms that include governance objectives, legal provisions and informal expectations, and societal expectations. Established governance principles provide normative orientation for policy including when targeting the development and scaling of CDR. Knowledge of these principles can guide effective discussion and evaluation of policy options. To facilitate discussion of mitigation options among experts and CDR practitioners, this study excerpts governance principles from legislative texts, the climate governance literature, and the CDR literature with relevance to CDR policy considerations. To illustrate the relevance of the governance principles found for evaluating policy options, we apply them to three technology groups of CDR: Bioenergy with Carbon Capture and Storage (BECCS), Direct Air Carbon Capture and Storage (DACCS), and forestry. This exercise indicates the importance of more intensive attention to the normative dimension of mitigation policies in ongoing deliberative and planning processes. Such efforts can help disentangle normative and factual dimensions and sources of (dis)agreement on the role of CDR in specific climate policy contexts.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2022.884163/full"
+  },
+  {
+    "title": "Mid-upper tropospheric methane retrieval from IASI and its validation",
+    "authors": [
+      "X. Xiong,",
+      "C. Barnet,",
+      "E. S. Maddy,",
+      "A. Gambacorta,",
+      "T. S. King,",
+      "S. C. Wofsy"
+    ],
+    "doi": "https://doi.org/10.5194/amt-6-2255-2013",
+    "journalVolume": "Vol. 6,\n                                no. 9\n                                \n                                  pp.\n                                  2255\n                                  – 2265",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "Mid-upper tropospheric methane (CH4), as an operational product at NOAA's (National Oceanic and Atmospheric Administration) Comprehensive Large Array-data Stewardship System (CLASS), has been retrieved from the Infrared Atmospheric Sounding Interferometer (IASI) since 2008. This paper provides a description of the retrieval method and the validation using 596 CH4 vertical profiles from aircraft measurements by the HIAPER Pole-to-Pole Observations (HIPPO) program over the Pacific Ocean. The number of degrees of freedom for the CH4 retrieval is mostly less than 1.5, and it decreases under cloudy conditions. The retrievals show greatest sensitivity between 100–600 hPa in the tropics and 200–750 hPa in the mid- to high latitude. Validation is accomplished using aircraft measurements (convolved by applying the monthly mean averaging kernels) collocated with all the retrieved profiles within 200 km and on the same day, and the results show that, on average, a larger error of CH4 occurs at 300–500 hPa. The bias in the trapezoid of 374–477 hPa is −1.74% with a residual standard deviation of 1.20%, and at layer 596–753 hPa the bias is −0.69% with a residual standard deviation of 1.07%. The retrieval error is relatively larger in the high northern latitude regions and/or under cloudy conditions. The main reasons for this negative bias include the uncertainty in the spectroscopy near the methane Q branch and/or the empirical bias correction, plus residual cloud contamination in the cloud-cleared radiances. It is expected for NOAA to generate the CH4 product for 20 + years using a similar algorithm from three similar thermal infrared sensors: Atmospheric Infrared Sounder (AIRS), IASI and the Cross-track Infrared Sounder (CrIS). Such a unique product will provide a supplementary to the current ground-based observation network, particularly in the Arctic, for monitoring the CH4 cycle, its transport and trend associated with climate change.",
+    "readLink": "http://www.atmos-meas-tech.net/6/2255/2013/amt-6-2255-2013.pdf"
+  },
+  {
+    "title": "More Trees Are Dying Due to Drought and Wildfire but Do Not Lose Sight of Forest Pathogens",
+    "authors": [
+      "Frank W. Davis"
+    ],
+    "doi": "https://doi.org/10.1029/2020EF001792",
+    "journalVolume": "Vol. 8,\n                                no. 10\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Accelerated forest dieback has been documented at many locations around the world that have experienced severe drought, warming, and wildfires associated with global climate change. Exotic forest diseases pose a comparably large threat to wild forests. Synthesizing surveillance plot data to parameterize spatial epidemiological models, Cobb et al. (2020, https://doi.org/10.1029/2020EF001500) estimate that the introduced invasive water mold, Phytophthora ramorum (Sudden Oak Death), has already killed 43 million trees in coastal evergreen forests of northern California and southern Oregon. Their results highlight the value of long‐term surveillance networks for monitoring and modeling the spread of invasive forest pathogens and underscore the need for stronger public policy to reduce the global spread of these extremely harmful organisms.",
+    "readLink": "https://doi.org/10.1029/2020EF001792"
+  },
+  {
+    "title": "Assessing Indirect Impacts of Extreme Sea Level Flooding on Critical Infrastructure",
+    "authors": [
+      "Charles Lan,",
+      "Alec Wild,",
+      "Ryan Paulik,",
+      "Liam Wotherspoon,",
+      "Conrad Zorn"
+    ],
+    "doi": "https://doi.org/10.3390/jmse11071420",
+    "journalVolume": "Vol. 11,\n                                no. 1420\n                                \n                                  p.\n                                  1420",
+    "issn": "2077-1312 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Naval Science: Naval architecture. Shipbuilding. Marine engineering",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/jmse",
+    "abstract": "This study investigates the direct and indirect impacts of extreme sea level (ESL) flooding on critical infrastructure. While methods to quantify the direct impacts of ESL flooding on coastal areas are well established, the indirect impacts that extend beyond the directly affected population are less well understood. This study assesses the vulnerability of electricity, road, telecommunication, water supply, and wastewater infrastructure to service disruption from coastal flooding in South Dunedin, New Zealand. We quantified the population affected by single and multiple service losses caused by 100-year average recurrence interval (ARI) ESL flooding across 0.1 m sea-level rise (SLR) increments up to 1.5 m. The study identified an ESL “tipping-point” at 0.6 m SLR, where direct loss of road access and electricity services is extensive, and causes indirect loss of telecommunication services. This also impacted the functionality of a key wastewater pumpstation servicing the wider region. As sea levels in the area are projected to rise 0.60 m in the next ~60–90 years, this information can inform assessments of potential adaptation investments in long-term infrastructure management plans in the face of uncertainty.",
+    "readLink": "https://www.mdpi.com/2077-1312/11/7/1420"
+  },
+  {
+    "title": "Communicating Managed Retreat in California",
+    "authors": [
+      "Wendy  Karen Bragg,",
+      "Sara  Tasse Gonzalez,",
+      "Ando Rabearisoa,",
+      "Amanda  Daria Stoltz"
+    ],
+    "doi": "https://doi.org/10.3390/w13060781",
+    "journalVolume": "Vol. 13,\n                                no. 781\n                                \n                                  p.\n                                  781",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "California cities face growing threats from sea-level rise as increased frequency and severity of flooding and storms cause devastating erosion, infrastructure damage, and loss of property. Management plans are often designed to prevent or slow flooding with short-term, defensive strategies such as shoreline hardening, beach nourishment, and living shorelines. By contrast, managed retreat focuses on avoiding hazards and adapting to changing shorelines by relocating out of harm’s way. However, the term “managed retreat” can be controversial and has engendered heated debates, defensive protests, and steady resistance in some communities. Such responses have stymied inclusion of managed retreat in adaptation plans, and in some cases has resulted in complete abandonment of the policy review process. We examined the Local Coastal Program review process in seven California communities at imminent risk of sea-level rise and categorized each case as receptive or resistant to managed retreat. Three prominent themes distinguished the two groups: (1) inclusivity, timing, and consistency of communication, (2) property ownership, and (3) stakeholder reluctance to change. We examined use of terminology and communication strategies and provided recommendations to communicate “managed retreat” more effectively.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/6/781"
+  },
+  {
+    "title": "Long-Term Studies Reveal Differential Responses to Climate Change for Trees Under Soil- or Herbivore-Related Stress",
+    "authors": [
+      "Amy V. Whipple,",
+      "Neil S. Cobb,",
+      "Catherine A. Gehring,",
+      "Susan Mopper,",
+      "Lluvia Flores-Rentería,",
+      "Thomas G. Whitham"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2019.00132",
+    "journalVolume": "Vol. 10",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Worldwide, trees are confronting increased temperature and aridity, exacerbating susceptibility to herbivory. Long-term studies comparing patterns of plant performance through drought can help identify variation among and within populations in vulnerability to climate change and herbivory. We use long-term monitoring data to examine our overarching hypothesis that the negative impacts of poor soil and herbivore susceptibility would be compounded by severe drought. We studied pinyon pine, Pinus edulis, a widespread southwestern tree species that has suffered extensive climate-change related mortality. We analyzed data on mortality, growth, male reproduction, and herbivory collected for 14–32 years in three areas with distinct soil-types. We used standardized precipitation-evapotranspiration index (SPEI) as a climate proxy that summarizes the impacts of drought due to precipitation and temperature variation on semi-arid forests. Several key findings emerged: (1) Plant performance measurements did not support our hypothesis that trees growing in stressful, coarse-textured soils would suffer more than trees growing in finer-textured soils. Stem growth at the area with coarse, young cinder soils (area one) responded only weakly to drought, while stem growth on more developed soils with sedimentary (area two) and volcanic (area three) substrates, was strongly negatively affected by drought. Male reproduction declined less with drought at area one and more at areas two and three. Overall mortality was 30% on coarse cinder soils (area one) and averaged 55% on finer soil types (areas two and three). (2) Although moth herbivore susceptible trees were hypothesized to suffer more with drought than moth resistant trees, the opposite occurred. Annual stem growth was negatively affected by drought for moth resistant trees, but much less strongly for moth susceptible trees. (3) In contrast to our hypothesis, moths declined with drought. Overall, chronically water-stressed and herbivore-susceptible trees had smaller declines in performance relative to less-stressed trees during drought years. These long-term findings support the idea that stressed trees might be more resistant to drought since they may have adapted or acclimated to resist drought-related mortality.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2019.00132/full"
+  }
+]

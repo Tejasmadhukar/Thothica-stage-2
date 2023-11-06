@@ -1,0 +1,237 @@
+[
+  {
+    "title": "Description of algorithms for co-locating and comparing gridded model data with remote-sensing observations",
+    "authors": [
+      "B. Langerock,",
+      "M. De Mazière,",
+      "F. Hendrick,",
+      "C. Vigouroux,",
+      "F. Desmet,",
+      "B. Dils,",
+      "S. Niemeijer"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-8-911-2015",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  pp.\n                                  911\n                                  – 921",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "MACC-II,III, Monitoring Atmospheric Composition and Climate, is the current pre-operational Copernicus Atmosphere Monitoring Service (CAMS). It provides data records on atmospheric composition for recent years, present conditions and forecasts (a few days ahead). To support the quality assessment of the CAMS products, the EU FP7 project Network Of ground-based Remote-Sensing Observations (NORS) created a server to validate the gridded MACC-II,III/CAMS model data against remote-sensing observations from the Network for the Detection of Atmospheric Composition Change (NDACC), for a selected set of target species and pilot stations. This paper describes in detail the algorithms used in this validation server. Amongst others, the algorithms take into account the horizontal displacement of the measured profiles from the location of the instrument, the vertical averaging and uncertainty propagation.",
+    "readLink": "http://www.geosci-model-dev.net/8/911/2015/gmd-8-911-2015.pdf"
+  },
+  {
+    "title": "Extreme Droughts Change in the Mekong River Basin: A Multidisciplinary Analysis Based on Satellite Data",
+    "authors": [
+      "Vo Tuong,",
+      "Thanh-Van Hoang,",
+      "Tien-Yin Chou,",
+      "Yao-Min Fang,",
+      "Chun-Tse Wang,",
+      "Thanh-Danh Tran,",
+      "Dung Duc Tran"
+    ],
+    "doi": "https://doi.org/10.3390/w13192682",
+    "journalVolume": "Vol. 13,\n                                no. 2682\n                                \n                                  p.\n                                  2682",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "This study evaluates droughts in the Mekong River Basin (MKB) based on a multidisciplinary method, mainly using the Standardized Precipitation Index (SPI) and Mann–Kendall (MK) test. Precipitation data corresponding to the seasonality of the regional climate were retrieved from Integrated Multi-satellitE Retrievals for Global Precipitation Measurement from 2001 to 2020, at a monthly temporal scale and 0.1 degree spatial resolution. Drought events and their average interval, duration, and severity were determined based on Run theory. Our results revealed the most extreme drought period was in January 2014, at the time the lowest precipitation occurred. Spatial extreme drought results indicated that Zone 2 in the upstream MKB has the highest frequency of drought, with 44 events observed during 19 years, and experiences the most severe droughts, whereas Zone 24 in the downstream MKB has the most prolonged drought duration of seven months. The periods and locations of extreme drought were identified using the SPI, corresponding to historic droughts of the MKB. Furthermore, the MK test shows an increasing trend of droughts in the lower MKB and the cluster analysis identified six clusters of times series. Overall, our study provides essential findings for international and national water resource stakeholders in identifying trends of extreme drought in the MKB.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/19/2682"
+  },
+  {
+    "title": "Genetic factors enhancing seed longevity in tropical japonica rice",
+    "authors": [
+      "Rency Raquid,",
+      "Ajay Kohli,",
+      "Russell Reinke,",
+      "Maribel Dionisio-Sese,",
+      "Jieun Kwak,",
+      "Dmytro Chebotarov,",
+      "Youngjun Mo,",
+      "Jae-Sung Lee"
+    ],
+    "doi": "Vol. 26\n                                \n                                \n                                  p.\n                                  100196",
+    "issn": "2214-6628 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/current-plant-biology/",
+    "abstract": "Seed longevity is a key trait to secure seed viability and vigor of farmer’s seed lots under the increased temperatures and humidity associated with climate change. While previous studies have found quantitative trait loci (QTL) for improved longevity in temperate japonica rice varieties, there are no available QTL identified that can potentially enhance seed longevity in tropical japonica rice, which are grown in ASEAN countries and highly vulnerable to the impact of climate change. Here, we present QTL and candidate genes identified in an F3 bi-parental QTL mapping population developed from a tropical japonica × indica cross, using 1 k single nucleotide polymorphism (SNP) markers. To accelerate seed ageing through a seed storage experiment, seed moisture content (MC) was elevated by equilibrating seeds at 60 % relative humidity (RH) and 20 °C, after which seeds were stored at 10.9 % seed MC and 45 °C for 56 days. Within a QTL identified on chromosome 2 (2.9 Mb size), there were 45 annotated genes potentially relevant to seed longevity mechanisms such as oxidative stress reduction and repair of damaged DNA. Within the QTL, the preponderance of genes expressed largely in reproductive tissues, seeds or embryo make this a dependable QTL. Based on coexpression and network analysis, we highlight eight genes as potentially important candidate genes, consistent with previous studies suggesting their role in seed germination and longevity.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214662821000025"
+  },
+  {
+    "title": "Steal the rain: Interception loses and rainfall partitioning by a broad‐leaf and a fine‐leaf woody encroaching species in a southern African semi‐arid savanna",
+    "authors": [
+      "Felix V. Skhosana,",
+      "Humbelani F. Thenga,",
+      "Mohau J. Mateyisi,",
+      "Graham vonMaltitz,",
+      "Guy F. Midgley,",
+      "Nicola Stevens"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.9868",
+    "journalVolume": "Vol. 13,\n                                no. 3\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Woody plant encroachment (WPE) has been found to alter ecosystem functioning and services in savannas. In rain‐limited savannas, increasing woody cover can reduce streamflow and groundwater by altering evapotranspiration rates and rainfall partitioning, but the ecological relevance of this impact is not well known. This study quantified the altered partitioning of rainfall by two woody plant structural types (fine‐ and broad‐leaved trees) across a gradient of encroachment in a semi‐arid savanna in South Africa. Averaged across both plant functional types, loss of rainfall through canopy interception and subsequent evaporation roughly doubled (from 20.5% to 43.6% of total rainfall) with a roughly 13‐fold increase in woody cover (from 2.4 to 31.4 m2/ha tree basal cover). Spatial partitioning changes comprised fourfold increases in stemflow (from 0.8% to 3.9% of total rainfall) and a decline in throughfall proportion of about two‐fifths (from 80.2% to 47.3% of total rainfall). Changes in partitioning were dependent on plant functional type; rainfall interception by the fine‐leaved multi‐stemmed shrub Dichrostachys cinerea was almost double that of the broad‐leaved tree Terminalia sericea at the highest levels of woody encroachment (i.e., 49.7% vs. 29.1% of total rainfall intercepted at tree basal area of 31.4 m2/ha). Partitioning was also dependent on rainfall characteristics, with the proportion of rainfall intercepted inversely related to rainfall event size and intensity. Therefore, increasing tree cover in African grassy ecosystems reduces the amount of canopy throughfall, especially beneath canopies of fine‐leaved species in smaller rainfall events. Rainfall interception traits may thus confer a selective advantage, especially for fine‐leaved woody plant species in semi‐arid savannas.",
+    "readLink": "https://doi.org/10.1002/ece3.9868"
+  },
+  {
+    "title": "A New Approximate Method for Lightning-Radiated ELF/VLF Ground Wave Propagation over Intermediate Ranges",
+    "authors": [
+      "Wenhao Hou,",
+      "Qilin Zhang,",
+      "Jinbo Zhang,",
+      "Lei Wang,",
+      "Yuan Shen"
+    ],
+    "doi": "https://doi.org/10.1155/2018/9353294",
+    "journalVolume": "Vol. 2018",
+    "issn": "1687-5869 (Print)",
+    "publisher": "1687-5877 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Electrical engineering. Electronics. Nuclear engineering",
+      "Social Sciences: Transportation and communications: Cellular telephone services industry. Wireless telephone industry"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/ijap/",
+    "abstract": "A new approximate method for lightning-radiated extremely low-frequency (ELF) and very low-frequency (VLF) ground wave propagation over intermediate ranges is presented in this paper. In our approximate method, the original field attenuation function is divided into two factors in frequency domain representing the propagation effect of the ground conductivity and Earth’s curvature, and both of them have clearer formulations and can more easily be calculated rather than solving a complex differential equation related to Airy functions. The comparison results show that our new approximate method can predict the lightning-radiated field peak value over the intermediate range with a satisfactory accuracy within maximum errors of 0.0%, −3.3%, and −8.7% for the earth conductivity of 4 S/m, 0.01 S/m, and 0.001 S/m, respectively. We also find that Earth’s curvature has much more effect on the field propagation at the intermediate ranges than the finite ground conductivity, and the lightning-radiated ELF/VLF electric field peak value (V/m) at the intermediate ranges yields a propagation distance d (km) dependence of d−1.32.",
+    "readLink": "http://dx.doi.org/10.1155/2018/9353294"
+  },
+  {
+    "title": "Occurrence and spatial distribution of neutral perfluoroalkyl substances and cyclic volatile methylsiloxanes in the atmosphere of the Tibetan Plateau",
+    "authors": [
+      "X. Wang,",
+      "X. Wang,",
+      "J. Schuster,",
+      "J. Schuster,",
+      "K. C. Jones,",
+      "P. Gong,",
+      "P. Gong"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-8745-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  8745\n                                  – 8755",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Due to their properties of bioaccumulation, toxicity, and long-range atmospheric transport, polyfluoroalkyl and perfluoroalkyl substances (PFASs) and cyclic volatile methylsiloxanes (cVMSs) are currently being considered as emerging persistent organic pollutants (POPs) for regulation. To date, there are limited data on PFASs and cVMSs in the atmosphere of the Tibetan Plateau (TP), a remote environment which can provide information on global background conditions. Sorbent-impregnated polyurethane foam (SIP) disc passive air samplers were therefore deployed for 3 months (May to July 2011 and 2013) at 16 locations across the TP. Using previously reported methods for estimating the air volume sampled by SIP discs, the derived atmospheric concentrations ranged as follows: 18–565 ng m−3 for ΣcVMS (including D3, D4, D5, and D6); 65–223 pg m−3 for fluorotelomer alcohols (ΣFTOHs); 1.2–12.8 pg m−3 for fluorinated sulfonamides (ΣFOSA); and 0.29–1.02 pg m−3 for fluorinated sulfonamidoethanols (ΣFOSE). The highest ΣcVMS occurred at Lhasa, the capital city of the TP, indicating the local contribution to the emerging pollutants. Higher levels of ΣFTOHs were observed at sites close to the transport channel of the Yarlung Tsangpo Grand Canyon, indicating possible long-range atmospheric transport (LRAT). Elevated concentrations of shorter-chain volatile PFAS precursors (4 : 2 FTOH and fluorobutane sulfonamidoethanol) were found in most air samples, reflecting the shift in production from long- to short-chain PFASs in Asia. Overall, concentrations of emerging POPs at background sites of the TP were 1–3 orders of magnitude higher than those reported for legacy POPs.",
+    "readLink": "https://www.atmos-chem-phys.net/18/8745/2018/acp-18-8745-2018.pdf"
+  },
+  {
+    "title": "Bioconversion of potatoes residues or surplus potatoes to ethanol under non axenic conditions [abstract]",
+    "authors": [
+      "Lamaudière, S.,",
+      "Scarceriaux, S.,",
+      "Godin, B.,",
+      "Delcarte, J.,",
+      "Gérin, PA."
+    ],
+    "doi": "Vol. 14,\n                                no. s2\n                                \n                                  pp.\n                                  575\n                                  – 575",
+    "issn": "1370-6233 (Print)",
+    "publisher": "1780-4507 (Online)",
+    "countryOfPublisher": "Presses Agronomiques de Gembloux",
+    "lcc": [
+      "Belgium",
+      "Technology: Chemical technology: Biotechnology",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://popups.uliege.be/1780-4507/",
+    "abstract": "Biofuels can offer an alternative to fossil fuels in the context of climate change and fossil reserves depletion. With 3 million tons of potatoes produced in 2007 and a high yield per hectare of 47 tons, Belgium is the 19th largest producer in the world. The residual and surplus potatoes could be used to produce bioethanol by fermentation. We examined the feasibility of a simple ethanol fermentation process under non axenic conditions. The substrate was pretreated with commercial amylases or by adding as low as 10% FM (Fresh Matter) barley malt. It was then fermented with Saccharomyces cerevisiae. Ethanol and volatile fatty acids were analyzed by GC-FID and soluble sugars were analyzed with the Anthrone method. Starch from potatoes was hydrolyzed to soluble sugars. Hydrolysis seems to continue with 10% FM of barley malt after 48 h while the hydrolysis stopped or decelerated with commercial enzymes. With 10% FM of malt, 3 h of hydrolysis and 7 days of fermentation, an ethanol concentration of 42 g.l-1 was obtained and the conversion yield was 139 gethanol.kg-1 DM. The fermentation conversion yield of soluble sugars to ethanol was > 82% and the endogenous competition was limited. However, starch hydrolyzing seems to be a limiting step under the conditions tested. Commercial enzymes did not provide better results under the same conditions.",
+    "readLink": "http://www.pressesagro.be/base/text/v14ns2/575.pdf"
+  },
+  {
+    "title": "Comparative Analysis of Artificial Intelligence Models for Accurate Estimation of Groundwater Nitrate Concentration",
+    "authors": [
+      "Shahab  S. Band,",
+      "Saeid Janizadeh,",
+      "Subodh  Chandra Pal,",
+      "Indrajit Chowdhuri,",
+      "Zhaleh Siabi,",
+      "Akbar Norouzi,",
+      "Assefa  M. Melesse,",
+      "Manouchehr Shokri,",
+      "Amirhosein Mosavi"
+    ],
+    "doi": "https://doi.org/10.3390/s20205763",
+    "journalVolume": "Vol. 20,\n                                no. 5763\n                                \n                                  p.\n                                  5763",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Prediction of the groundwater nitrate concentration is of utmost importance for pollution control and water resource management. This research aims to model the spatial groundwater nitrate concentration in the Marvdasht watershed, Iran, based on several artificial intelligence methods of support vector machine (SVM), Cubist, random forest (RF), and Bayesian artificial neural network (Baysia-ANN) machine learning models. For this purpose, 11 independent variables affecting groundwater nitrate changes include elevation, slope, plan curvature, profile curvature, rainfall, piezometric depth, distance from the river, distance from residential, Sodium (Na), Potassium (K), and topographic wetness index (TWI) in the study area were prepared. Nitrate levels were also measured in 67 wells and used as a dependent variable for modeling. Data were divided into two categories of training (70%) and testing (30%) for modeling. The evaluation criteria coefficient of determination (R2), mean absolute error (MAE), root mean square error (RMSE), and Nash–Sutcliffe efficiency (NSE) were used to evaluate the performance of the models used. The results of modeling the susceptibility of groundwater nitrate concentration showed that the RF (R2 = 0.89, RMSE = 4.24, NSE = 0.87) model is better than the other Cubist (R2 = 0.87, RMSE = 5.18, NSE = 0.81), SVM (R2 = 0.74, RMSE = 6.07, NSE = 0.74), Bayesian-ANN (R2 = 0.79, RMSE = 5.91, NSE = 0.75) models. The results of groundwater nitrate concentration zoning in the study area showed that the northern parts of the case study have the highest amount of nitrate, which is higher in these agricultural areas than in other areas. The most important cause of nitrate pollution in these areas is agriculture activities and the use of groundwater to irrigate these crops and the wells close to agricultural areas, which has led to the indiscriminate use of chemical fertilizers by irrigation or rainwater of these fertilizers is washed and penetrates groundwater and pollutes the aquifer.",
+    "readLink": "https://www.mdpi.com/1424-8220/20/20/5763"
+  },
+  {
+    "title": "Water Environment Policy and Climate Change: A Comparative Study of India and South Korea",
+    "authors": [
+      "Mohd  Danish Khan,",
+      "Sonam Shakya,",
+      "Hong  Ha Thi Vu,",
+      "Ji  Whan Ahn,",
+      "Gnu Nam"
+    ],
+    "doi": "https://doi.org/10.3390/su11123284",
+    "journalVolume": "Vol. 11,\n                                no. 12\n                                \n                                  p.\n                                  3284",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Climate change is considered to be a potential cause of global warming, which leads to a continuous rise in the global atmospheric temperature. This rising temperature also alters precipitation conditions and patterns, thereby causing frequent occurrences of extreme calamity, particularly droughts and floods. Much evidence has been documented by the Intergovernmental Panel on Climate Change, illustrating fluctuations in precipitation patterns caused by global climate change. Recent studies have also highlighted the adverse impact of climate change on river flow, groundwater recovery, and flora and fauna. The theoretical political approach and scientific progress have generated ample opportunities to employ previously allusive methods against impacts caused by varying climatic parameters. In this study, the current state of India’s water environment policy is compared with that of South Korea. The “3Is”—ideas, institutions, and interests—which are considered pillars in the international field of political science, are used as variables. The concept of “ideas” highlights the degree of awareness regarding climate change while formulating water environment policy. Here, the awareness of India’s management regarding emerging water issues related to climate change are discussed and compared with that of South Korea. The concept of “institutions” illustrates the key differences in water environment policy under the umbrella of climate change between both countries within the associated national administrations. India’s administrations, such as the Ministry of Environment, Forests, and Climate Change; the Ministry of Water Resources, River Development, and Ganga Rejuvenation; the Ministry of Rural Development; and the Ministry of Housing and Urban Affairs, are used as a case study in this work. Finally, the concept of “interest” elaborates the prioritization of key issues in the respective water environment policies. Common interests and voids in the policies of both countries are also briefly discussed. A comparison of India’s water environment policies with that of South Korea is made to expose the gaps in India’s policies with respect to climate change, thereby seeking to identify a solution and the optimal direction for the future of the water environment policy of India.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/12/3284"
+  },
+  {
+    "title": "Análisis estadístico de datos meteorológicos mensuales y diarios para la determinación de variabilidad climática y cambio climático en el Distrito Metropolitano de Quito",
+    "authors": [
+      "Sheila Serrano Vincenti,",
+      "Diana Zuleta,",
+      "Viviana Moscoso,",
+      "Pablo Jácome,",
+      "Enrique Palacios,",
+      "Marcos Villacís"
+    ],
+    "doi": "https://doi.org/10.17163/lgr.n16.2012.03",
+    "journalVolume": "Vol. 16,\n                                no. 2",
+    "issn": "1390-3799 (Print)",
+    "publisher": "1390-8596 (Online)",
+    "countryOfPublisher": "Universidad Politécnica Salesiana",
+    "lcc": [
+      "Ecuador",
+      "Agriculture: Agriculture (General)",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://revistas.ups.edu.ec/index.php/granja",
+    "abstract": "El objetivo de la presente investigación es establecer el impacto que ha tenido el cambio climático y la variabilidad climática sobre el Distrito Metropolitano de Quito (DMQ) y sus alrededores en los últimos años. De esta manera, se han realizado dos tipos de análisis de tendencias sobre 30 años de datos proporcionados por el INAMHI (Instituto Nacional de Meteorología e Hidrología): el primero busca evidenciar cambios graduales, a través del análisis de datos mensuales de temperaturas máximas, mínimas, precipitación, heliofanía, humedad relativa y nubosidad; utilizando una regresión lineal por el método de mínimos cuadrados más una prueba F para determinar su significancia estadística. El segundo estudio se realizó con el objetivo de analizar el comportamiento de los eventos extremos, sobre datos diarios en las variables de temperaturas máximas, mínimas y de precipitación, a través del paquete computacional RClimDex para el cálculo de índices de cambio climático recomendados por el ECTCCDI (Expert Team on Climate Change Detection and Indices). Los resultados muestran incrementos en las tendencias y comportamientos anómalos que pueden considerarse consecuencia del cambio climático o variabilidad climática.",
+    "readLink": "https://revistas.ups.edu.ec/index.php/granja/article/view/373"
+  }
+]

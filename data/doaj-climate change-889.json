@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Infiltrated Pits: Using Regional Groundwater Data to Estimate Methane Emissions from Pit Latrines",
+    "authors": [
+      "Olivia Reddy,",
+      "Mostaquimur Rahman,",
+      "Anisha Nijhawan,",
+      "Maria Pregnolato,",
+      "Guy Howard"
+    ],
+    "doi": "https://doi.org/10.3390/hydrology10050114",
+    "journalVolume": "Vol. 10,\n                                no. 114\n                                \n                                  p.\n                                  114",
+    "issn": "2306-5338 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/hydrology",
+    "abstract": "On-site sanitation systems (OSS), such as pit latrines, are an important source of methane (CH4), with emissions increasing when they are wet, and this occurs when anaerobic conditions dominate. This paper presents the development of a model, which uses seasonal changes in groundwater to account for the fluctuating inundation of pit latrines, and, therefore, the associated CH4 emissions from varying degrees of anerobic conditions are examined. Given that observed timeseries of groundwater table depth at high enough spatial and temporal resolutions are often difficult to obtain in low- and middle-income countries (LMICs), inverse distance weighted (IDW) interpolation is used to generate values for a whole region, which is then used, alongside average pit latrine depth, to determine areas of pit latrine inundation. Outcomes are further informed with open-source contextual data, covering population, urban/rural split, and sanitation facility data, before using methodologies from the Intergovernmental Panel on Climate Change (IPCC) to generate CH4 emissions data. As a case study, we use data from Senegal to illustrate how this model works. Results show total CH4 emissions for the month of January to be ~1.69 kt CH4. We have also discussed the potential use of satellite remote sensing data in regions where access to historical groundwater data is limited. Understanding when the pit conditions are most likely to change could lead to incentives for better management strategies, as well as a reduction in CH4 production.",
+    "readLink": "https://www.mdpi.com/2306-5338/10/5/114"
+  },
+  {
+    "title": "Climatic associations of British species distributions show good transferability in time but low predictive accuracy for range change.",
+    "authors": [
+      "Giovanni Rapacciuolo,",
+      "David B Roy,",
+      "Simon Gillings,",
+      "Richard Fox,",
+      "Kevin Walker,",
+      "Andy Purvis"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0040212",
+    "journalVolume": "Vol. 7,\n                                no. 7\n                                \n                                  p.\n                                  e40212",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Conservation planners often wish to predict how species distributions will change in response to environmental changes. Species distribution models (SDMs) are the primary tool for making such predictions. Many methods are widely used; however, they all make simplifying assumptions, and predictions can therefore be subject to high uncertainty. With global change well underway, field records of observed range shifts are increasingly being used for testing SDM transferability. We used an unprecedented distribution dataset documenting recent range changes of British vascular plants, birds, and butterflies to test whether correlative SDMs based on climate change provide useful approximations of potential distribution shifts. We modelled past species distributions from climate using nine single techniques and a consensus approach, and projected the geographical extent of these models to a more recent time period based on climate change; we then compared model predictions with recent observed distributions in order to estimate the temporal transferability and prediction accuracy of our models. We also evaluated the relative effect of methodological and taxonomic variation on the performance of SDMs. Models showed good transferability in time when assessed using widespread metrics of accuracy. However, models had low accuracy to predict where occupancy status changed between time periods, especially for declining species. Model performance varied greatly among species within major taxa, but there was also considerable variation among modelling frameworks. Past climatic associations of British species distributions retain a high explanatory power when transferred to recent time--due to their accuracy to predict large areas retained by species--but fail to capture relevant predictors of change. We strongly emphasize the need for caution when using SDMs to predict shifts in species distributions: high explanatory power on temporally-independent records--as assessed using widespread metrics--need not indicate a model's ability to predict the future.",
+    "readLink": "http://europepmc.org/articles/PMC3390350?pdf=render"
+  },
+  null,
+  {
+    "title": "Disentangling the relative importance of changes in climate and land-use intensity in driving recent bird population trends.",
+    "authors": [
+      "Sarah M Eglington,",
+      "James W Pearce-Higgins"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0030407",
+    "journalVolume": "Vol. 7,\n                                no. 3\n                                \n                                  p.\n                                  e30407",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Threats to biodiversity resulting from habitat destruction and deterioration have been documented for many species, whilst climate change is regarded as increasingly impacting upon species' distribution and abundance. However, few studies have disentangled the relative importance of these two drivers in causing recent population declines. We quantify the relative importance of both processes by modelling annual variation in population growth of 18 farmland bird species in the UK as a function of measures of land-use intensity and weather. Modelled together, both had similar explanatory power in accounting for annual fluctuations in population growth. When these models were used to retrodict population trends for each species as a function of annual variation in land-use intensity and weather combined, and separately, retrodictions incorporating land-use intensity were more closely linked to observed population trends than retrodictions based only on weather, and closely matched the UK farmland bird index from 1970 onwards. Despite more stable land-use intensity in recent years, climate change (inferred from weather trends) has not overtaken land-use intensity as the dominant driver of bird populations.",
+    "readLink": "http://europepmc.org/articles/PMC3316534?pdf=render"
+  },
+  {
+    "title": "A Comparison of the Water Environment Policy of Europe and South Korea in Response to Climate Change",
+    "authors": [
+      "Heejung Kim,",
+      "Kang-Kun Lee"
+    ],
+    "doi": "https://doi.org/10.3390/su10020384",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  p.\n                                  384",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Climate change not only increases the atmospheric temperature, but also changes the precipitation conditions and patterns, which can lead to an increase in the frequency of occurrence of natural disasters, such as flooding and drought. The Intergovernmental Panel on Climate Change (IPCC) has reported fluctuations in the precipitation levels for each country from 1900 to 2005, based on global climate change, suggesting that environmental changes due to climate change manifest very differently based on the region. According to the results of studies that have been carried out recently, changes in the precipitation patterns based on climate change result in changes in the water environment, including alterations to the vegetation, land use, and river flow, while considerably influencing the rate of development of groundwater as well. In this study, the 3Is, which are the important variables of Ideas, Institutions, and Interests that are universal to the international field of political science, were used to comparatively analyze the water environment policies of South Korea and Europe. The first variable, Ideas, examined the influence of awareness on establishing the water environment policy in response to climate change. In particular, differences in the conceptual awareness of the water environment with regard to hyporheic zones were studied. The second variable, Institutions, examined the differences in the water environment policy within the national administration in response to climate change. The South Korean administration’s Ministry of Land, Infrastructure, and Transport and the Ministry of Environment were used in a case study. Finally, the results drawn from the third variable, i.e., Interests, for South Korea appear to differ from those of Europe, in terms of water environment policy. In this study, the water environment policy of South Korea was analyzed and compared to that of Europe in order to identify problems in South Korea’s water environment policy in response to climate change, while seeking a sole solution for a comprehensive water environment policy direction for South Korea.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/2/384"
+  },
+  {
+    "title": "A changing occupation: the artisanal fishing told by those who practice (Pelotas, RS)",
+    "authors": [
+      "Lorena Almeida Gill"
+    ],
+    "doi": "https://doi.org/10.5007/1984-9222.2019.e66941",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  1\n                                  – 17",
+    "issn": "1984-9222 (Online)",
+    "publisher": "Universidade Federal de Santa Catarina (UFSC)",
+    "countryOfPublisher": "Brazil",
+    "lcc": [
+      "Social Sciences: Industries. Land use. Labor: Labor. Work. Working class"
+    ],
+    "journalUrl": "https://periodicos.ufsc.br/index.php/mundosdotrabalho",
+    "abstract": "In our society, because of fast technological changes, more and more manual occupations are becoming obsolete, changing or about to disappear. This article intends to discuss these labor transformations, based on the narratives of the professional artisan fishermen and fisherwoman working around the Laguna dos Patos, in Pelotas, RS, Brazil’s southernmost region. Their practices have suffered significant changes be it due to the scarcity of fish related to, among other factors, climate change and the environmental pollution, or due to the new techniques for fishery in the Lagoon, mainly by the huge fish industry ships that count with sophisticated exploratory technology. Regarding the women, the debate will mostly focus on their long struggle to be recognized as fisherwomen.",
+    "readLink": "https://periodicos.ufsc.br/index.php/mundosdotrabalho/article/view/1984-9222.2019.e66941"
+  },
+  {
+    "title": "Analysing the environmental harms caused by coal mining and its protection measures in permafrost regions of Qinghai–Tibet Plateau",
+    "authors": [
+      "Wei Cao,",
+      "Yu Sheng,",
+      "Jichun Wu,",
+      "Shengting Wang"
+    ],
+    "doi": "https://doi.org/10.1515/oszn-2017-0018",
+    "journalVolume": "Vol. 28,\n                                no. 3\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2353-8589 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://sciendo.com/journal/OSZN",
+    "abstract": "The coal mining has brought a series of ecological problems and environmental problems in permafrost regions. Taking Muli coal-mining area as an example, this article attempts to analyse the environmental harms caused by coal mining and its protection measures in permafrost regions of Qinghai–Tibet Plateau. This article analyses the influence of open mining on the surrounding permafrost around the open pit by using the numerical simulation. The results show that (1) based on the interrelation between coal mining and permafrost environment, these main environmental harm include the permafrost change and the natural environment change in cold regions; (2) once the surface temperature rises due to open mining, the permafrost will disappear with the increase of exploitation life. If considering the solar radiation, the climate conditions and the geological condition around the pit edge, the maximum thaw depth will be more than 2 m; (3) the protection measures are proposed to avoid the disadvantage impact on the permafrost environment caused by coal mining. It will provide a scientific basis for the resource development and environment protection in cold regions.",
+    "readLink": "https://doi.org/10.1515/oszn-2017-0018"
+  },
+  {
+    "title": "Impact of climate change on groundwater recharge and salinity distribution in the Vientiane basin, Lao PDR",
+    "authors": [
+      "Pankham Soundala,",
+      "Phayom Saraphirom"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2022.161",
+    "journalVolume": "Vol. 13,\n                                no. 11\n                                \n                                  pp.\n                                  3812\n                                  – 3829",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "Groundwater is widely used for domestic, agricultural, and industrial purposes in the Vientiane basin. The trend of groundwater use is increasing but the usage of the mentioned groundwater is without proper study and monitoring. Six climatic scenarios from three General Circulation Models (GCMs) under Representative Concentration Pathways (RCPs) 4.5 and 8.5 were used to project rainfall and temperature in the future (2021–2050) periods. The numerical models HELP3, MODFLOW, and MT3D were used for groundwater recharge estimation, groundwater potential, and salinity distribution, respectively. The study found that during the following 30 years (2050), rainfall is expected to rise by 16, 17.52, and 49.93% for the MPI-ESM-MR, MIROC5, and CNRM-CM5 (under RCPs 4.5 and 8.5), respectively. Groundwater recharge is estimated to rise from baseline throughout all future climate conditions. Climate change's impact on salinity distribution in depth aquifers, the area with the water with the TDS between 500 and 1,500 mg/l will tend to decrease, whereas the freshwater (TDS <500 mg/l) area will tend to increase. Annual groundwater replenishment is expected to increase from current levels in all future climate scenarios in the range of 334–401 MCM/year or approximately 22.7–47.5%. HIGHLIGHTS The study deals with the impact of climate change on groundwater resources for future development and management.; The study highlights the application of HELP, MODFLOW, and MT3D to project the groundwater recharge, flow, and salinity for climate change.;",
+    "readLink": "http://jwcc.iwaponline.com/content/13/11/3812"
+  },
+  {
+    "title": "Glacial Lake Outburst Flood Hazard and Risk Assessment of Gangabal Lake in the Upper Jhelum Basin of Kashmir Himalaya Using Geospatial Technology and Hydrodynamic Modeling",
+    "authors": [
+      "Rayees Ahmed,",
+      "Manish Rawat,",
+      "Gowhar Farooq Wani,",
+      "Syed Towseef Ahmad,",
+      "Pervez Ahmed,",
+      "Sanjay Kumar Jain,",
+      "Gowhar Meraj,",
+      "Riyaz Ahmad Mir,",
+      "Abid Farooq Rather,",
+      "Majid Farooq"
+    ],
+    "doi": "https://doi.org/10.3390/rs14235957",
+    "journalVolume": "Vol. 14,\n                                no. 5957\n                                \n                                  p.\n                                  5957",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Climate warming-induced glacier recession has resulted in the development and rapid expansion of glacial lakes in the Himalayan region. The increased melting has enhanced the susceptibility for Glacial Lake Outburst Floods (GLOFs) in the region. The catastrophic failure of potentially dangerous glacial lakes could be detrimental to human life and infrastructure in the adjacent low-lying areas. This study attempts to assess the GLOF hazard of Gangabal lake, located in the Upper Jhelum basin of Kashmir Himalaya, using the combined approaches of remote sensing, GIS, and dam break modeling. The parameters, such as area change, ice thickness, mass balance, and surface velocity of the Harmukh glacier, which feeds Gangabal lake, were also assessed using multitemporal satellite data, GlabTop-2, and the Cosi–Corr model. In the worst-case scenario, 100% volume (73 × 106 m3) of water was considered to be released from the lake with a breach formation time (bf) of 40 min, breach width (bw) of 60 m, and producing peak discharge of 16,601.03 m3/s. Our results reveal that the lake area has increased from 1.42 km2 in 1972 to 1.46 km2 in 1981, 1.58 km2 in 1992, 1.61 km2 in 2001, 1.64 km2 in 2010, and 1.66 km2 in 2020. The lake area experienced 17 ± 2% growth from 1972 to 2020 at an annual rate of 0.005 km2. The feeding glacier (Harmukh) contrarily indicated a significant area loss of 0.7 ± 0.03 km2 from 1990 (3.36 km2) to 2020 (2.9 km2). The glacier has a maximum, minimum, and average depth of 85, 7.3, and 23.46 m, respectively. In contrast, the average velocity was estimated to be 3.2 m/yr with a maximum of 7 m/yr. The results obtained from DEM differencing show an average ice thickness loss of 11.04 ± 4.8 m for Harmukh glacier at the rate of 0.92 ± 0.40 m/yr between 2000 and 2012. Assessment of GLOF propagation in the worst-case scenario (scenario-1) revealed that the maximum flood depth varies between 3.87 and 68 m, the maximum flow velocity between 4 and 75 m/s, and the maximum water surface elevation varies between 1548 and 3536 m. The resultant flood wave in the worst-case scenario will reach the nearest location (Naranaag temple) within 90 min after breach initiation with a maximum discharge of 12,896.52 m3 s−1 and maximum flood depth and velocity of 10.54 m and 10.05 m/s, respectively. After evaluation of GLOF impacts on surrounding areas, the area under each inundated landuse class was estimated through the LULC map generated for both scenarios 1 and 2. In scenario 1, the total potentially inundated area was estimated as 5.3 km2, which is somewhat larger than 3.46 km2 in scenario 2. We suggest a location-specific comprehensive investigation of Gangbal lake and Harmukh glacier by applying the advanced hazard and risk assessment models/methods for better predicting a probable future GLOF event.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/23/5957"
+  },
+  {
+    "title": "Tools for Resilience Building and Adaptive Spatial Governance",
+    "authors": [
+      "Jörn Birkmann,",
+      "Claudia Bach,",
+      "Maike Vollmer"
+    ],
+    "doi": "https://doi.org/10.1007/s13147-012-0172-0",
+    "journalVolume": "Vol. 70,\n                                no. 4",
+    "issn": "0034-0111 (Print)",
+    "publisher": "1869-4179 (Online)",
+    "countryOfPublisher": "oekom verlag GmbH",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography: Settlements: Cities. Urban geography",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: Urbanization. City and country"
+    ],
+    "journalUrl": "https://rur.oekom.de/",
+    "abstract": "Climate change, resilience building and vulnerability reduction are emerging issues in spatial development and spatial planning in Germany, the European Union and globally. This paper introduces different concepts of and views on adaptation, vulnerability and resilience and outlines their implications for spatial planning in the context of a changing climate. On the basis of a conceptual discussion of key terms, the authors underscore the importance of assessing vulnerability as baseline information for the promotion of resilience and the enhancing of adaptation. The challenges of identifying and assessing vulnerability are illustrated through a case study of local flood vulnerability in Cologne with a specific focus on the vulnerability of different population groups as well as critical infrastructures. The respective key elements and phases of such assessments are identified. New challenges with regard to systemic risks are addressed and recommendations for improved linkages between spatial planning and civil protection formulated. The final part of the paper evaluates the upcoming challenges for adaptive planning in the context of climate change adaptation, for example regarding scenario development and its application.",
+    "readLink": "https://rur.oekom.de/index.php/rur/article/view/830"
+  }
+]

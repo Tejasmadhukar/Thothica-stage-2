@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Cocoa plant productivity in West Africa under climate change: a modelling and experimental study",
+    "authors": [
+      "Emily Black,",
+      "Ewan Pinnington,",
+      "Caroline Wainwright,",
+      "Fiona Lahive,",
+      "Tristan Quaife,",
+      "Richard P Allan,",
+      "Peter Cook,",
+      "Andrew Daymond,",
+      "Paul Hadley,",
+      "Patrick C McGuire,",
+      "Anne Verhoef,",
+      "Pier Luigi Vidale"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/abc3f3",
+    "journalVolume": "Vol. 16,\n                                no. 1\n                                \n                                  p.\n                                  014009",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The potential effect of climate change on regional suitability for cocoa cultivation is a serious economic concern for West Africa—especially for Ghana and Côte d’Ivoire, whose cocoa cultivation accounts for respectively ∼19% and ∼45% of world production. Here, we present a modelling and observational study of cocoa net primary productivity (NPP) in present day and future West African climates. Our analysis uses a data assimilation technique to parameterise a process-based land-surface model. The parameterisation is based on laboratory observations of cocoa, grown under both ambient and elevated CO _2 . Present day and end of 21st century cocoa cultivation scenarios are produced by driving the parameterised land-surface model with output from a high-resolution climate model. This represents a significant advance on previous work, because unlike the CMIP5 models, the high-resolution model used in this study accurately captures the observed precipitation seasonality in the cocoa-growing regions of West Africa—a key sensitivity for perennials like cocoa. We find that temperature is projected to increase significantly and precipitation is projected to increase slightly, although not in all parts of the region of interest. We find, furthermore, that the physiological effect of higher atmospheric CO _2 concentration ameliorates the impacts of high temperature and variation in precipitation thereby reducing some of the negative impacts of climate change and maintaining NPP in West Africa, for the whole 21st Century, even under a high emissions scenario. Although NPP is an indicator of general vegetation condition, it is not equivalent to yield or bean quality. The study presented here is, nevertheless, a strong basis for further field and modelling studies of cultivation under elevated CO _2 conditions.",
+    "readLink": "https://doi.org/10.1088/1748-9326/abc3f3"
+  },
+  {
+    "title": "Research on the Ecological and Economic Impacts of Rising Sea Levels on Mangroves in Southern Florida in the Context of Climate Change",
+    "authors": [
+      "Ding Xiaoyan"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202342402005",
+    "journalVolume": "Vol. 424\n                                \n                                \n                                  p.\n                                  02005",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The decline in mangrove ecosystems is a major contributor to the loss of biodiversity, extra carbon release, and local economic instability, particularly in tropical coastal regions that are constantly influenced by climate changes. Despite the importance of the mangroves, there is limited research investigating the consequences. Under the context, this research examines the correlation between mangrove density, sea level rise, and economic impacts in Southern Florida. The work aims to address three main questions: (i) what are the ecological impacts of sea level rising on mangroves density; (ii) what are the economic implications of mangrove loss; (iii) what extent of government intervention should be imposed on the environmental problem. The research presents a two-variable graph that examines the relationship between mangrove density in Southern Florida and sea level rise, analyzing its overall correlation in the Caribbean region. Another correlation study of the impacts of mangrove loss on local tourism is created and set as the focus. The conventional hedonic method is applied as the tool of evaluating mangroves value. The results demonstrate a close negative correlation between sea level and mangrove density, and a positive correlation of mangroves density and local tourism.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/61/e3sconf_icree2023_02005.pdf"
+  },
+  {
+    "title": "Artificial neural networks and multiple linear regression model using principal components to estimate rainfall over South America",
+    "authors": [
+      "T. Soares dos Santos,",
+      "D. Mendes,",
+      "R. Rodrigues Torres"
+    ],
+    "doi": "https://doi.org/10.5194/npg-23-13-2016",
+    "journalVolume": "Vol. 23,\n                                no. 1\n                                \n                                  pp.\n                                  13\n                                  – 20",
+    "issn": "1023-5809 (Print)",
+    "publisher": "1607-7946 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.nonlinear-processes-in-geophysics.net/",
+    "abstract": "Several studies have been devoted to dynamic and statistical downscaling for analysis of both climate variability and climate change. This paper introduces an application of artificial neural networks (ANNs) and multiple linear regression (MLR) by principal components to estimate rainfall in South America. This method is proposed for downscaling monthly precipitation time series over South America for three regions: the Amazon; northeastern Brazil; and the La Plata Basin, which is one of the regions of the planet that will be most affected by the climate change projected for the end of the 21st century. The downscaling models were developed and validated using CMIP5 model output and observed monthly precipitation. We used general circulation model (GCM) experiments for the 20th century (RCP historical; 1970–1999) and two scenarios (RCP 2.6 and 8.5; 2070–2100). The model test results indicate that the ANNs significantly outperform the MLR downscaling of monthly precipitation variability.",
+    "readLink": "http://www.nonlin-processes-geophys.net/23/13/2016/npg-23-13-2016.pdf"
+  },
+  {
+    "title": "Effect of hydrological variation on vegetation dynamics for wintering waterfowl in China’s Poyang Lake Wetland",
+    "authors": [
+      "Mengying Yang,",
+      "Shaoxia Xia,",
+      "Guihua Liu,",
+      "Min Wang,",
+      "Zhi Ding,",
+      "Pujia Yu,",
+      "Xuguang Tang"
+    ],
+    "doi": "Vol. 22",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Poyang Lake wetland of China, with designated national nature reserves, is one of the most important habitats for waterfowl in the world. During the wintering season, it is home to various rare and endangered species with abundant plant resources. However, extensive disturbances from both global climate change and human activities, such as the construction of hydroelectric dams, have exerted severe impacts on the hydrological regime and the vegetation dynamics in this region. To evaluate the suitability of the habitat for wintering waterfowl, it is necessary to monitor the spatio-temporal changes of vegetation over the protected wetland, and explore the potential environmental driving factors of the changes during the past decades. In this study, the time-series MODIS Enhanced Vegetation Index (EVI) data from 2000 to 2018, were used to analyze the seasonal dynamics and interannual tendencies of vegetation coverage over the wintering period from October to January. The results showed that the largest monthly mean EVI generally occurred in November, and was related to the quantity of wintering waterfowl in Poyang Lake wetland. The mean EVI in November had a lagged response to both temperature and accumulated precipitation. Long-term trend analysis revealed that the average EVI of the reserve increased significantly in the winters since the new millennium. Over the past 18 years, the hydrological regime, particularly the water area, is recognized as the dominant environmental factor determining the interannual variation of EVI. From 2010 onwards there was also an increasing influence of temperature. These analyses would help in the creation of appropriate management strategies to protect the habitat of wintering waterfowl in Poyang Lake wetland.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989420300226"
+  },
+  {
+    "title": "Modelling the disappearance of coarse woody debris, following a land clearing event",
+    "authors": [
+      "Matthew J. Pringle,",
+      "Steven G. Bray,",
+      "John O. Carter"
+    ],
+    "doi": "https://doi.org/10.1186/s13021-021-00199-y",
+    "journalVolume": "Vol. 16,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 15",
+    "issn": "1750-0680 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://cbmjournal.biomedcentral.com/",
+    "abstract": "Abstract Background Land clearing generates coarse woody debris (CWD), much of which ultimately becomes atmospheric CO2. Schemes for greenhouse gas accounting must consider the contribution from land clearing, but the timing of the contribution will have large uncertainty, due to a paucity of knowledge about the rate of CWD disappearance. To better understand above-ground CWD disappearance following a land clearing event—through the actions of microorganisms, invertebrates, wildfire, or deliberate burning—we combined statistical modelling with an archive of semi-quantitative observations (units of CWD %), made within Queensland, Australia. Results Using a generalised additive mixed-effects model (median absolute error = 14.7%), we found that CWD disappearance was strongly influenced by the: (i) number of years elapsed since clearing; (ii) clearing method; (iii) bioregion (effectively a climate-by-tree species interaction); and (iv) the number of times burned. Years-since-clearing had a strongly non-linear effect on the rate of CWD disappearance. The data suggested that disappearance was reverse-sigmoidal, with little change in CWD apparent for the first three years after clearing. In typical conditions for Queensland, the model predicted that it will take 38 years for 95% of CWD to disappear, following a land clearing event; however, accounting for uncertainty in the data and model, this value could be as few as 5 years, or > 100 years. In contrast, due to an assumption about the propensity of land managers to burn CWD, the official method used to assess Australia’s greenhouse gas emissions predicted that 95% of CWD will disappear in < 1 year. Conclusions In Queensland, the CWD generated by land clearing typically takes 38 years to disappear. This ultimately implies that a key assumption of Australia’s official greenhouse gas reporting—i.e. that 98% of CWD is burned soon after a clearing event—does not adequately account for delayed CO2 emissions.",
+    "readLink": "https://doi.org/10.1186/s13021-021-00199-y"
+  },
+  {
+    "title": "Mercury methylation in boreal aquatic ecosystems under oxic conditions and climate change: a review",
+    "authors": [
+      "Juanjo Rodríguez"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2023.1198263",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Methylmercury (MeHg) formation is a concerning environmental issue described in waters and sediments from multiple aquatic ecosystems. The genetic and metabolic bases of mercury (Hg) methylation have been well described in anoxic environments, but a number of factors seem to point towards alternative pathways potentially occurring in pelagic waters under oxic conditions. Boreal aquatic ecosystems are predicted to undergo increasing concentrations of dissolved organic matter (DOM) as a result of higher terrestrial runoff induced by climate change, which may have important implications in the formation of MeHg in the water column. In this review, different Hg methylation mechanisms postulated in the literature are discussed, with particular focus on potential pathways independent of the hgcAB gene pair and occurring under oxic conditions. Potential effects of DOM on Hg methylation and MeHg bioaccumulation are examined in the context of climate in boreal aquatic ecosystems. Furthermore, the implementation of meta-omic technologies and standardized methods into field measurements and incubation experiments is discussed as a valuable tool to determine taxonomic and functional aspects of Hg methylation in oxic waters and under climate change-induced conditions.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2023.1198263/full"
+  },
+  {
+    "title": "Perception-based analysis of climate change effect on forest-based livelihood: The case of Vhembe District in South Africa",
+    "authors": [
+      "Chidiebere Ofoegbu,",
+      "Paxie W. Chirwa,",
+      "Joseph Francis,",
+      "Folarannmi D. Babalola"
+    ],
+    "doi": "https://doi.org/10.4102/jamba.v8i1.271",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  e1\n                                  – e10",
+    "issn": "2072-845X (Print)",
+    "publisher": "1996-1421 (Online)",
+    "countryOfPublisher": "AOSIS",
+    "lcc": [
+      "South Africa",
+      "Social Sciences: Industries. Land use. Labor: Management. Industrial management: Risk in industry. Risk management"
+    ],
+    "journalUrl": "https://www.jamba.org.za",
+    "abstract": "Forests are vulnerable to climate change and are also major sources of livelihood for many rural households in Africa. This study examines rural people’s perceptions of climate change impacts on forest-based livelihoods using rural communities of Vhembe District in South Africa as a case study. The study was based on the principles of perceived impact-based assessment, and sustainable livelihoods framework. Using the stratified proportionate random sampling procedure in combination with weighted Enumeration Area for the selected communities, 366 households were chosen and interviewed. Data analysis involved computing frequencies and conducting the Chi-square, binomial tests and binary logistic regression analysis. The respondents identified erratic rainfall, extreme temperature, extreme drought and flooding as key climatic events in their community. But not all identified key climatic events were perceived to constitute risk to forest products and forest-based livelihood. Only extreme drought was indicated to constitute risk to availability of forest products. In addition, the binary logistic regression showed a significant difference (p < 0.05) in the perceived risk of climate change to the availability of essential forest products across the three municipalities. Hence the need for forest development initiatives that target vulnerable forest products per community as a means of enhancing resilience of forest-based livelihood to climate change impacts in rural community development in South Africa.",
+    "readLink": "https://jamba.org.za/index.php/jamba/article/view/271"
+  },
+  {
+    "title": "Will Climate Change, Genetic and Demographic Variation or Rat Predation Pose the Greatest Risk for Persistence of an Altitudinally Distributed Island Endemic?",
+    "authors": [
+      "Alison Shapcott,",
+      "Ian Hutton,",
+      "William J. Baker,",
+      "Tony D. Auld,",
+      "Catherine Laura Simmons"
+    ],
+    "doi": "https://doi.org/10.3390/biology1030736",
+    "journalVolume": "Vol. 1,\n                                no. 3\n                                \n                                  pp.\n                                  736\n                                  – 765",
+    "issn": "2079-7737 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biology",
+    "abstract": "Species endemic to mountains on oceanic islands are subject to a number of existing threats (in particular, invasive species) along with the impacts of a rapidly changing climate. The Lord Howe Island endemic palm Hedyscepe canterburyana is restricted to two mountains above 300 m altitude. Predation by the introduced Black Rat (Rattus rattus) is known to significantly reduce seedling recruitment. We examined the variation in Hedyscepe in terms of genetic variation, morphology, reproductive output and demographic structure, across an altitudinal gradient. We used demographic data to model population persistence under climate change predictions of upward range contraction incorporating long-term climatic records for Lord Howe Island. We also accounted for alternative levels of rat predation into the model to reflect management options for control. We found that Lord Howe Island is getting warmer and drier and quantified the degree of temperature change with altitude (0.9 &#176;C per 100 m). For H. canterburyana, differences in development rates, population structure, reproductive output and population growth rate were identified between altitudes. In contrast, genetic variation was high and did not vary with altitude. There is no evidence of an upward range contraction as was predicted and recruitment was greatest at lower altitudes. Our models predicted slow population decline in the species and that the highest altitude populations are under greatest threat of extinction. Removal of rat predation would significantly enhance future persistence of this species.",
+    "readLink": "http://www.mdpi.com/2079-7737/1/3/736"
+  },
+  {
+    "title": "Threatened birds face new distribution under future climate change on the Qinghai-Tibet Plateau (QTP)",
+    "authors": [
+      "Bin Li,",
+      "Chengbo Liang,",
+      "Pengfei Song,",
+      "Daoxin Liu,",
+      "Wen Qin,",
+      "Feng Jiang,",
+      "Haifeng Gu,",
+      "Hongmei Gao,",
+      "Tongzuo Zhang"
+    ],
+    "doi": "Vol. 150\n                                \n                                \n                                  p.\n                                  110217",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "The Qinghai-Tibet Plateau (QTP) contains a significant amount of biodiversity which provides a wide range of habitats for a great quantity of wildlife, especially various birds, on account of the unique climatic conditions and geography. However, the QTP has shown more sensitivity and vulnerability to global climate change than other regions, and the change pose a threat to the birds. Here, we used the MaxEnt and the barycenter shift analysis for analyzing the effects of global warming on the potential future habitat of the threatened birds on the QTP by using the ACCESS-ESM1-5 global climate model of the Coupled Model Intercomparison Projects Phase 6 (cmip6) climate pattern with three Shared Socioeconomic Pathway (SSP). The results demonstrated that the climatically suitable habitats for the threatened birds are mainly distributed in the eastern and central regions of the QTP. Moreover, over 81% of the threatened birds would experience a reduction in suitable habitat area within the next 30–50 years in the different future global warming scenario. Satyr tragopan (Tragopan satyra) would lose the most habitat (57.15%), while the Tibetan babax (Pterorhinus koslowi) would lose the least (0.35%) in comparing to these birds. Nonetheless, some threatened birds showed an increase in their future habitat area because of their physiological characteristics which are more adaptable to a wide range of climate. The climatic suitable habitat for all the threatened birds, except for the Tibetan eared pheasant (Crossoptilon harmani), would move to higher altitudes or higher latitudes regions. Simultaneously, the threatened birds in the order of Galliformes had a higher risk of extinction due to their weak flight and extended migratory distances on the QTP in the future. Our study provides provide a data foundation for the conservation of biodiversity and wild birds on the QTP.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X2300359X"
+  },
+  {
+    "title": "Change in Climate Extremes and Pan Evaporation Influencing Factors over Ouémé Delta in Bénin",
+    "authors": [
+      "Rita Hounguè,",
+      "Agnidé  Emmanuel Lawin,",
+      "Sounmaila Moumouni,",
+      "Akambi  Abel Afouda"
+    ],
+    "doi": "https://doi.org/10.3390/cli7010002",
+    "journalVolume": "Vol. 7,\n                                no. 1\n                                \n                                  p.\n                                  2",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "This work focuses on trend analysis of rainfall, evaporation, temperature, relative humidity, wind speed, and sunshine duration over the Ouémé Delta in Bénin. Eight temperature based indices and fifteen rainfall based indices are computed from 1960 to 2016. Moreover, maximum 1, 2, 3, 5, and 10 days precipitation indices were computed at the monthly scale. Trends are detected at 0.05 confidence level, using a combination of Mann-Kendall and prewhitened Mann-Kendall test. Partial correlation and stepwise regression are used to detect the set of meteorological variables that influence pan evaporation in Ouémé Delta. Results showed intensification of heavy rainfall over Ouémé Delta. Moreover, a significant increasing trend is detected in temperature. As consequence, diurnal temperature significantly decreases as proof of the global warming. Average pan evaporation showed a significant slither increasing trend over the area. Change in pan evaporation can be explained by wind speed and sunshine duration that hold almost 50% of pan evaporation variance. As future temperature is going to be increasing, pan evaporation may increase considerably. So, adaptation measures have to be reinforced in the Ouémé Delta area where farmer are used to rainfed agriculture for food security. Moreover, Ouémé Delta plan have to be developed for it resources sustainability.",
+    "readLink": "http://www.mdpi.com/2225-1154/7/1/2"
+  }
+]

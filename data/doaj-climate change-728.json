@@ -1,0 +1,237 @@
+[
+  {
+    "title": "Hydrological modeling of freshwater discharge into Hudson Bay using HYPE",
+    "authors": [
+      "Tricia A. Stadnyk,",
+      "Matthew K. MacDonald,",
+      "Andrew Tefs,",
+      "Stephen J. Déry,",
+      "Kristina Koenig,",
+      "David Gustafsson,",
+      "Kristina Isberg,",
+      "Berit Arheimer"
+    ],
+    "doi": "https://doi.org/10.1525/elementa.439",
+    "journalVolume": "Vol. 8,\n                                no. 1",
+    "issn": "2325-1026 (Online)",
+    "publisher": "BioOne",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.elementascience.org",
+    "abstract": "This study details the enhancement and calibration of the Arctic implementation of the HYdrological Predictions for the Environment (HYPE) hydrological model established for the BaySys group of projects to produce freshwater discharge scenarios for the Hudson Bay Drainage Basin (HBDB). The challenge in producing estimates of freshwater discharge for the HBDB is that it spans over a third of Canada’s continental landmass and is 40% ungauged. Scenarios for BaySys require the separation between human and climate interactions, specifically the separation of regulated river discharge from a natural, climate-driven response. We present three key improvements to the modelling system required to support the identification of natural from anthropogenic impacts: representation of prairie disconnected landscapes (i.e., non-contributing areas), a method to generalize lake storage-discharge parameters across large regions, and frozen soil modifications. Additionally, a unique approach to account for irregular hydrometric gauge density across the basins during model calibration is presented that avoids overfitting parameters to the densely gauged southern regions. We summarize our methodologies used to facilitate improved separation of human and climate driven impacts to streamflow within the basin and outline the baseline discharge simulations used for the BaySys group of projects. Challenges remain for modeling the most northern reaches of the basin, and in the lake-dominated watersheds. The techniques presented in this work, particularly the lake and flow signature clusters, may be applied to other high latitude, ungauged Arctic basins. Discharge simulations are subsequently used as input data for oceanographic, biogeochemical, and ecosystem studies across the HBDB.",
+    "readLink": "https://www.elementascience.org/articles/439"
+  },
+  {
+    "title": "Simulating burn severity maps at 30 meters in two forested regions in California",
+    "authors": [
+      "Jonathan A Sam,",
+      "W Jonathan Baldwin,",
+      "A LeRoy Westerling,",
+      "Haiganoush K Preisler,",
+      "Qingqing Xu,",
+      "Matthew D Hurteau,",
+      "Benjamin M Sleeter,",
+      "Samrajya B Thapa"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac939b",
+    "journalVolume": "Vol. 17,\n                                no. 10\n                                \n                                  p.\n                                  105004",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Climate change is altering wildfire and vegetation regimes in California’s forested ecosystems. Present day fires are seeing an increase in high burn severity area and high severity patch size. The ability to predict future burn severity patterns could better support policy and land management decisions. Here we demonstrate a methodology to first, statistically estimate individual burn severity classes at 30 meters and second, cluster and smooth high severity patches onto a known landscape. Our goal here was not to exactly replicate observed burn severity maps, but rather to utilize observed maps as one realization of a random process dependent on climate, topography, fire weather, and fuels, to inform creation of additional realizations through our simulation technique. We developed two sets of empirical models with two different vegetation datasets to test if coarse vegetation could accurately model for burn severity. While visual acuity can be used to assess the performance of our simulation process, we also employ the Ripley’s K function to compare spatial point processes at different scales to test if the simulation is capturing an appropriate amount of clustering. We utilize FRAGSTATS to obtain high severity patch metrics to test the contiguity of our high severity simulation. Ripley’s K function helped identify the number of clustering iterations and FRAGSTATS showed how different focal window sizes affected our ability to cluster high severity patches. Improving our ability to simulate burn severity may help advance our understanding of the potential influence of land and fuels management on ecosystem-level response variables that are important for decision-makers. Simulated burn severity maps could support managing habitat and estimating risks of habitat loss, protecting infrastructure and homes, improving future wildfire emissions projections, and better mapping and planning for fuels treatment scenarios.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac939b"
+  },
+  {
+    "title": "Climate change and modernization drive structural realignments in European grain production",
+    "authors": [
+      "Z. Pinke,",
+      "B. Decsi,",
+      "A. Jámbor,",
+      "M. K. Kardos,",
+      "Z. Kern,",
+      "Z. Kozma,",
+      "T. Ács"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-022-10670-6",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Charting the long-term trends in European wheat and maize yields and harvested areas and the relation of yields to climatic and economic drivers, two profound spatial processes become apparent. One consequence of the relatively late modernization of Eastern Europe has been to shift the focus of grain production from West to East. The warming trend prevailing over the past decades in the summer and winter seasons has been accompanied by a South to North shift in the harvested areas. The combination of these two processes has meant that the north-eastern sector of the European grain chessboard has emerged as the main beneficiary. There, the relatively low sensitivity of cereals to climatic change plus high economic growth rates have been accompanied by the most dynamic increases in cereal yields on the continent. As a result, a modern version of the 3000 year-old grain distribution system of the Ancient World is being restored before our eyes. One noteworthy finding is that increasing January–March temperatures have had a significant positive impact on wheat yields from Northern to South-Eastern Europe, and this is, at least in part, compensating for the negative impact of summer warming.",
+    "readLink": "https://doi.org/10.1038/s41598-022-10670-6"
+  },
+  {
+    "title": "The Mass Balance of Glacier No. 1 at the Headwaters of the Urumqi River in Relation to Northern Hemisphere Teleconnection Patterns",
+    "authors": [
+      "Feifei Yuan,",
+      "Zhenchun Hao,",
+      "Ronny Berndtsson,",
+      "Peng Jiang,",
+      "Hiroshi Yasuda"
+    ],
+    "doi": "https://doi.org/10.3390/w8030100",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  p.\n                                  100",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Most small glaciers in the world have significantly decreased their volume during the last century, which has caused water shortage problems. Glacier No. 1, at the headwaters of the Urumqi River, Tianshan, China, has been monitored since 1959 and similarly has experienced significant mass and volume losses over the last few decades. Thus, we examined the trend and potential abrupt changes of the mass balance of Glacier No. 1. Principal component analysis and singular value decomposition were used to find significant relations between the mass balance of Glacier No. 1 and Northern Hemisphere teleconnection patterns using climate indices. It was found that the mass balance of Glacier No. 1 had a significantly decreasing trend corresponding to −14.5 mm/year from 1959 to 2010. A change point was detected in 1997 with 99% confidence level. Two time periods with different mass balances were identified as 1959–1996 and 1997–2010. The mass balance for the first period was −136.4 mm/year and up to −663.9 mm/year for the second period. The mass balance of Glacier No. 1 is positively related to the Scandinavian Pattern (SCA), and negatively related to the East Atlantic Pattern (EA). These relationships are useful in better understanding the interaction between glacier mass balance and climate variability.",
+    "readLink": "http://www.mdpi.com/2073-4441/8/3/100"
+  },
+  {
+    "title": "Reply to Comment on ‘The climate mitigation gap: education and government recommendations miss the most effective individual actions’",
+    "authors": [
+      "Seth Wynes,",
+      "Kimberly A Nicholas"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aab210",
+    "journalVolume": "Vol. 13,\n                                no. 4\n                                \n                                  p.\n                                  048002",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "In their comment piece, van Basshuysen and Brandstedt raise three main issues: first, whether population at the global scale, or individual family planning decisions, are relevant for climate change mitigation; second, they offer useful critiques of the methodologies to attribute greenhouse gas emissions for the choice to have a child; and third, they question the appropriate ethical responsibility for emissions resulting from personal choices. Here we reply that first, we consider choices regarding family size to meet the authors’ criteria for actions ‘under the control of the individual agent and which, with a significant probability, contribute to’ (increased greenhouse gas emissions), and therefore are relevant to consider for climate mitigation. Second, we acknowledge both methodological issues inherent in allocating responsibility for emissions, and encourage more research on this topic especially for the climate impact of reproductive choices. Third, we address ethical questions about responsibility for emissions, and conclude that while such discussions are important, and individual choices are only one part of necessary emissions reductions, people alive today are the last to have a chance at remaining within the carbon budget to meet international climate targets, and therefore do have a special responsibility to reduce emissions.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aab210"
+  },
+  {
+    "title": "Increasing accuracy of lake nutrient predictions in thousands of lakes by leveraging water clarity data",
+    "authors": [
+      "Tyler Wagner,",
+      "Noah R. Lottig,",
+      "Meridith L. Bartley,",
+      "Ephraim M. Hanks,",
+      "Erin M. Schliep,",
+      "Nathan B. Wikle,",
+      "Katelyn B. S. King,",
+      "Ian McCullough,",
+      "Jemma Stachelek,",
+      "Kendra S. Cheruvelil,",
+      "Christopher T. Filstrup,",
+      "Jean Francois Lapierre,",
+      "Boyang Liu,",
+      "Patricia A. Soranno,",
+      "Pang‐Ning Tan,",
+      "Qi Wang,",
+      "Katherine Webster,",
+      "Jiayu Zhou"
+    ],
+    "doi": "https://doi.org/10.1002/lol2.10134",
+    "journalVolume": "Vol. 5,\n                                no. 2\n                                \n                                  pp.\n                                  228\n                                  – 235",
+    "issn": "2378-2242 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://aslopubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2378-2242/",
+    "abstract": "Abstract Aquatic scientists require robust, accurate information about nutrient concentrations and indicators of algal biomass in unsampled lakes in order to understand and predict the effects of global climate and land‐use change. Historically, lake and landscape characteristics have been used as predictor variables in regression models to generate nutrient predictions, but often with significant uncertainty. An alternative approach to improve predictions is to leverage the observed relationship between water clarity and nutrients, which is possible because water clarity is more commonly measured than lake nutrients. We used a joint‐nutrient model that conditioned predictions of total phosphorus, nitrogen, and chlorophyll a on observed water clarity. Our results demonstrated substantial reductions (8–27%; median = 23%) in prediction error when conditioning on water clarity. These models will provide new opportunities for predicting nutrient concentrations of unsampled lakes across broad spatial scales with reduced uncertainty.",
+    "readLink": "https://doi.org/10.1002/lol2.10134"
+  },
+  {
+    "title": "The Circular Economy Transformation of Airports: An Alternative Model for Retail Waste Management",
+    "authors": [
+      "Michelle Tjahjono,",
+      "Enes Ünal,",
+      "Trung Hieu Tran"
+    ],
+    "doi": "https://doi.org/10.3390/su15043860",
+    "journalVolume": "Vol. 15,\n                                no. 3860\n                                \n                                  p.\n                                  3860",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Airport terminals worldwide generate approximately 6 million tons of passenger waste annually. Increased awareness of climate change and global interventions for environmental sustainability requires a reassessment of airports’ current methods of waste management. This paper proposes a new design concept solution called circular airport retail waste management (CAWM) for airport terminal retail waste processing, which aims to reduce and ideally eliminate airport waste ending up in landfill or incineration. Given the need for novelty and challenging the status-quo, the double diamond design process was adopted as the research method. The research began by collating the current practices of retail waste processing in airports via a literature review and field observations. Secondly, a critical analysis of the current processes was conducted to identify the intervention points. Thirdly, a concept solution was developed based on the circular economy (CE) 9R framework. Finally, the CAWM concept was delivered to airport waste management personnel for review. CAWM offers a structured way of airport retail waste management practices, including the segregation of nonrecyclable and recyclable waste (i.e., different bin designs, color coding, harmonization of waste colors, improved instructions and signage, various bin locations, training, and installing more liquid disposal and donation stations). Airports can leverage CAWM for greater efficiency and cost-effectiveness regarding airport terminal waste processing, such that more waste can be diverted from incineration and landfill to recovery, which will subsequently help airports achieve net-zero targets. This research contributes to the extant CE literature, especially in the aviation industry context, where the academic discourse surrounding this subject and its peculiarities are limited.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/4/3860"
+  },
+  {
+    "title": "Sensitivity of carbon budgets to permafrost carbon feedbacks and non-CO2 forcings",
+    "authors": [
+      "Andrew H MacDougall,",
+      "Kirsten Zickfeld,",
+      "Reto Knutti,",
+      "H Damon Matthews"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/10/12/125003",
+    "journalVolume": "Vol. 10,\n                                no. 12\n                                \n                                  p.\n                                  125003",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The near proportionality between cumulative CO _2 emissions and change in near surface temperature can be used to define a carbon budget: a finite quantity of carbon that can be burned associated with a chosen ‘safe’ temperature change threshold. Here we evaluate the sensitivity of this carbon budget to permafrost carbon dynamics and changes in non-CO _2 forcings. The carbon budget for 2.0 ${}^{\\circ }{\\rm{C}}$ of warming is reduced from 1320 Pg C when considering only forcing from CO _2 to 810 Pg C when considering permafrost carbon feedbacks as well as other anthropogenic contributions to climate change. We also examined net carbon budgets following an overshoot of and return to a warming target. That is, the net cumulative CO _2 emissions at the point in time a warming target is restored following artificial removal of CO _2 from the atmosphere to cool the climate back to a chosen temperature target. These overshoot net carbon budgets are consistently smaller than the conventional carbon budgets. Overall carbon budgets persist as a robust and simple conceptual framework to relate the principle cause of climate change to the impacts of climate change.",
+    "readLink": "https://doi.org/10.1088/1748-9326/10/12/125003"
+  },
+  {
+    "title": "Short-Term Prediction of Global Sea Surface Temperature Using Deep Learning Networks",
+    "authors": [
+      "Tianliang Xu,",
+      "Zhiquan Zhou,",
+      "Yingchun Li,",
+      "Chenxu Wang,",
+      "Ying Liu,",
+      "Tian Rong"
+    ],
+    "doi": "https://doi.org/10.3390/jmse11071352",
+    "journalVolume": "Vol. 11,\n                                no. 1352\n                                \n                                  p.\n                                  1352",
+    "issn": "2077-1312 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Naval Science: Naval architecture. Shipbuilding. Marine engineering",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/jmse",
+    "abstract": "The trend of global Sea Surface Temperature (SST) has attracted widespread attention in several ocean-related fields such as global warming, marine environmental protection and marine biodiversity. Sea surface temperature is influenced by climate change; with the accumulation of data from ocean remote sensing observations year by year, many scholars have started to use deep learning methods for SST prediction. In this paper, we use a dynamic region partitioning approach to process ocean big data and design a framework applied to a global SST short-term prediction system. On the architecture of a Long Short-Term Memory (LSTM) network, two deep learning multi-region SST prediction models are proposed, which extract temporal and spatial information of SST by encoding, using feature transformation and decoding to predict future multi-step states. The models are tested using OISST data and the model performance is evaluated by different metrics. The proposed MR-EDLSTM model and MR-EDConvLSTM model obtained the best results for short-term prediction, with RMSE ranging from 0.2712 °C to 0.6487 °C and prediction accuracies ranging from 97.60% to 98.81% for ten consecutive days of prediction. The results show that the proposed MR-EDLSTM model has better prediction performance in coastal areas, while the MR-EDConvLSTM model performs better in predicting the sea area near the equator. In addition, the proposed deep learning model has a smaller RMSE compared to the forecasting system based on the ocean model, indicating that the deep learning method has certain advantages in predicting global SST.",
+    "readLink": "https://www.mdpi.com/2077-1312/11/7/1352"
+  },
+  {
+    "title": "LSAMP-NICE: Expanding International STEM Research for Underrepresented Minorities",
+    "authors": [
+      "Mary E. Benjamin,",
+      "Denise Yates,",
+      "Steve Dupuis"
+    ],
+    "doi": "https://doi.org/10.3389/feduc.2021.668232",
+    "journalVolume": "Vol. 6",
+    "issn": "2504-284X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Education: Education (General)"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/education",
+    "abstract": "Background: The global challenges of climate change, disease and hunger exceed national borders as do possibilities of sustained life, exploration and economic development in outer space. Both help to underscore the need for sustained international STEM research to leverage the talent embedded in different countries and in diverse groups within countries. This study focuses on the United States National Science Foundation provision of funds to its Louis Stokes Alliance for Minority Participation (LSAMP) Program to create a National Center of Excellence LSAMP-NICE for the establishment of international STEM Research Partnerships with a particular emphasis on the integration of international collaborative research for underrepresented minority STEM faculty, students and graduates. The study focuses on the diffusion of this Center’s services to the LSAMP Community, a group of 56 LSAMP funded STEM enrichment programs located across the United States. We found that LSAMP-NICE used mass media (a website and two advertorials in a national journal) and an annual national meeting as its major diffusion strategies during its first two years. Forty-two (42) programs responded to the questionnaire. The majority of the respondents (71.4%) had not used the website; 88.1% had not read the Advertorial in Science Magazine; and 78.6% did not attend the national 2019 LSAMP-NICE Annual Meeting in Washington, D.C. Our study suggests a need for additional diffusion techniques to reach the intended audience. Some respondent suggestions for diffusion include participation by LSAMP-NICE representatives at LSAMP Regional Conferences and Symposia, visits by LSAMP-NICE staff to LSAMP programs, forging relationships with higher education institutions abroad so LSAMP students can obtain summer or longer-term research experiences and providing technical assistance on applying for international travel funds.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feduc.2021.668232/full"
+  }
+]

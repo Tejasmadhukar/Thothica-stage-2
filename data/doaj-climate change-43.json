@@ -1,0 +1,261 @@
+[
+  {
+    "title": "The parametric hurricane rainfall model with moisture and its application to climate change projections",
+    "authors": [
+      "Dasol Kim,",
+      "Doo-Sun R. Park,",
+      "Chaehyeon C. Nam,",
+      "Michael M. Bell"
+    ],
+    "doi": "https://doi.org/10.1038/s41612-022-00308-9",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 7",
+    "issn": "2397-3722 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.nature.com/npjclimatsci/",
+    "abstract": "Abstract The parametric hurricane rainfall model (PHRaM), firstly introduced in 2007, has been widely used to forecast and quantify tropical-cyclone-induced rainfall (TC rainfall). The PHRaM is much more computationally efficient than global climate models, but PHRaM cannot be effectively utilized in the context of climate change because it does not have any parameters to capture the increase of tropospheric water vapor under the warming world. This study develops a new model that incorporates tropospheric water vapor to the PHRaM framework, named as the PHRaM with moisture (PHRaMM). The PHRaMM is trained to best fit the TC rainfall over the western North Pacific (WNP) unlike the PHRaM trained with the TCs over the continental US. The PHRaMM reliably simulates radial profile of TC rainfall and spatial distribution of accumulated rainfall during landfall in the present climate with the better prediction skills than existing statistical and operational numerical models. Using the PHRaMM, we evaluated the impacts of TC intensity and environmental moisture increase on TC rainfall change in a future climate. An increased TC intensity causes TC rainfall to increase in the inner-core region but to decrease in the outer region, whereas an increased environmental moisture causes the TC rainfall to increase over the entire TC area. According to the both effects of increased TC intensity and environmental moisture, the PHRaMM projected that the WNP TC rainfall could increase by 4.61–8.51% in the inner-core region and by 17.96–20.91% over the entire TC area under the 2-K warming scenario.",
+    "readLink": "https://doi.org/10.1038/s41612-022-00308-9"
+  },
+  {
+    "title": "Coupled climate-glacier modelling of the last glaciation in the Alps",
+    "authors": [
+      "Guillaume Jouvet,",
+      "Denis Cohen,",
+      "Emmanuele Russo,",
+      "Jonathan Buzan,",
+      "Christoph C. Raible,",
+      "Wilfried Haeberli,",
+      "Sarah Kamleitner,",
+      "Susan Ivy-Ochs,",
+      "Michael A. Imhof,",
+      "Jens K. Becker,",
+      "Angela Landgraf,",
+      "Urs H. Fischer"
+    ],
+    "doi": "https://doi.org/10.1017/jog.2023.74",
+    "issn": "0022-1430 (Print)",
+    "publisher": "1727-5652 (Online)",
+    "countryOfPublisher": "Cambridge University Press",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/journal-of-glaciology",
+    "abstract": "Our limited knowledge of the climate prevailing over Europe during former glaciations is the main obstacle to reconstruct the past evolution of the ice coverage over the Alps by numerical modelling. To address this challenge, we perform a two-step modelling approach: First, a regional climate model is used to downscale the time slice simulations of a global earth system model in high resolution, leading to climate snapshots during the Last Glacial Maximum (LGM) and the Marine Isotope Stage 4 (MIS4). Second, we combine these snapshots and a climate signal proxy to build a transient climate over the last glacial period and force the Parallel Ice Sheet Model to simulate the dynamical evolution of glaciers in the Alps. The results show that the extent of modelled glaciers during the LGM agrees with several independent key geological imprints, including moraine-based maximal reconstructed glacial extents, known ice transfluences and trajectories of erratic boulders of known origin and deposition. Our results highlight the benefit of multiphysical coupled climate and glacier transient modelling over simpler approaches to help reconstruct paleo glacier fluctuations in agreement with traces they have left on the landscape.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S0022143023000746/type/journal_article"
+  },
+  {
+    "title": "Impact of Climate Change on Transportation Infrastructure: Comparing Perception Differences between the US Public and the Department of Transportation (DOT) Professionals",
+    "authors": [
+      "Olugbemi Mosunmola Aroke,",
+      "Behzad Esmaeili,",
+      "Sojung Claire Kim"
+    ],
+    "doi": "https://doi.org/10.3390/su132111927",
+    "journalVolume": "Vol. 13,\n                                no. 11927\n                                \n                                  p.\n                                  11927",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "With over 1.1 billion trips made daily for work, education, or leisure, transportation systems are vital to the functioning of cities in the United States. However, these systems are highly vulnerable to the impacts of climate change. The current study investigated perception differences about climate change between transportation professionals (N = 22) and the general public (N = 2034). The study revealed that (i) transportation professionals find climate change important, worrisome and harmful to themselves and future generations; (ii) knowledge of climate change and its consequences on transportation systems is limited on average among the general public; (iii) the public holds higher levels of misperceptions about climate change; (iv) the general public is more willing to embrace the suggestions of family and friends than climate scientists regarding the issue; (v) the general public holds a higher perception of behavioral control and confidence in their ability to carry out mitigative actions; and (vi) the public has lower information-seeking intentions about climate change. Based on the study findings, areas where perceptions differ may be considered during policy formulation and implementation processes to encourage pro-environmental behavioral changes that will reduce anthropogenic carbon emissions and enhance the functionality of transportation infrastructure.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/21/11927"
+  },
+  {
+    "title": "Variation in Plant–Pollinator Network Structure along the Elevational Gradient of the San Francisco Peaks, Arizona",
+    "authors": [
+      "Paige R. Chesshire,",
+      "Lindsie M. McCabe,",
+      "Neil S. Cobb"
+    ],
+    "doi": "https://doi.org/10.3390/insects12121060",
+    "journalVolume": "Vol. 12,\n                                no. 1060\n                                \n                                  p.\n                                  1060",
+    "issn": "2075-4450 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/insects/",
+    "abstract": "The structural patterns comprising bimodal pollination networks can help characterize plant–pollinator systems and the interactions that influence species distribution and diversity over time and space. We compare network organization of three plant–pollinator communities along the altitudinal gradient of the San Francisco Peaks in northern Arizona. We found that pollination networks become more nested, as well as exhibit lower overall network specialization, with increasing elevation. Greater weight of generalist pollinators at higher elevations of the San Francisco Peaks may result in plant–pollinator communities less vulnerable to future species loss due to changing climate or shifts in species distribution. We uncover the critical, more generalized pollinator species likely responsible for higher nestedness and stability at the higher elevation environment. The generalist species most important for network stability may be of the greatest interest for conservation efforts; preservation of the most important links in plant–pollinator networks may help secure the more specialized pollinators and maintain species redundancy in the face of ecological change, such as changing climate.",
+    "readLink": "https://www.mdpi.com/2075-4450/12/12/1060"
+  },
+  {
+    "title": "GLOBALLY INCREASED CROP GROWTH AND CROPPING INTENSITY FROM THE LONG-TERM SATELLITE-BASED OBSERVATIONS",
+    "authors": [
+      "B. Chen,",
+      "B. Chen"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-annals-IV-3-45-2018",
+    "journalVolume": "Vol. IV-3\n                                \n                                \n                                  pp.\n                                  45\n                                  – 52",
+    "issn": "2194-9042 (Print)",
+    "publisher": "2194-9050 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/annals.aspx",
+    "abstract": "Understanding the spatiotemporal change trend of global crop growth and multiple cropping system under climate change scenarios is a critical requirement for supporting the food security issue that maintains the function of human society. Many studies have predicted the effects of climate changes on crop production using a combination of filed studies and models, but there has been limited evidence relating decadal-scale climate change to global crop growth and the spatiotemporal distribution of multiple cropping system. Using long-term satellite-derived Normalized Difference Vegetation Index (NDVI) and observed climate data from 1982 to 2012, we investigated the crop growth trend, spatiotemporal pattern trend of agricultural cropping intensity, and their potential correlations with respect to the climate change drivers at a global scale. Results show that 82.97 % of global cropland maximum NDVI witnesses an increased trend while 17.03 % of that shows a decreased trend over the past three decades. The spatial distribution of multiple cropping system is observed to expand from lower latitude to higher latitude, and the increased cropping intensity is also witnessed globally. In terms of regional major crop zones, results show that all nine selected zones have an obvious upward trend of crop maximum NDVI (p < 0.001), and as for climatic drivers, the gradual temperature and precipitation changes have had a measurable impact on the crop growth trend.",
+    "readLink": "https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-3/45/2018/isprs-annals-IV-3-45-2018.pdf"
+  },
+  {
+    "title": "Attributing human influence on the July 2017 Chinese heatwave: the influence of sea-surface temperatures",
+    "authors": [
+      "Sarah Sparrow,",
+      "Qin Su,",
+      "Fangxing Tian,",
+      "Sihan Li,",
+      "Yang Chen,",
+      "Wei Chen,",
+      "Feifei Luo,",
+      "Nicolas Freychet,",
+      "Fraser C Lott,",
+      "Buwen Dong,",
+      "Simon F B Tett,",
+      "David Wallom"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aae356",
+    "journalVolume": "Vol. 13,\n                                no. 11\n                                \n                                  p.\n                                  114004",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "On 21–25 July 2017 a record-breaking heatwave occurred in Central Eastern China, affecting nearly half of the national population and causing severe impacts on public health, agriculture and infrastructure. Here, we compare attribution results from two UK Met Office Hadley Centre models, HadGEM3-GA6 and weather@home (HadAM3P driving 50 km HadRM3P). Within HadGEM3-GA6 July 2017-like heatwaves were unequaled in the ensemble representing the world without human influences. Such heatwaves became approximately a 1 in 50 year event and increased by a factor of 4.8 (5%–95% range of 3.1 to 8.0) in weather@home as a result of human activity. Considering the risk ratio (RR) for the full range of return periods shows a discrepancy at all return times between the two model results. Within weather@home a range of different counterfactual sea surface temperature (SST) patterns were used, whereas HadGEM3-GA6 used a single estimate. The global mean difference in SST (between factual and counterfactual simulations) is shown to be related to the generalised extreme value (GEV) location parameter and consequently the RR, especially for return periods of less than 50 years. It is suggested that a suitable range of SST patterns are used for future attribution studies to ensure that this source of uncertainty is represented within the simulations and subsequent attribution results. It is shown that the risk change between factual and counterfactual simulations is not purely a simple shift in the distribution (i.e. change in GEV location parameter). For return periods greater than 50 years, the GEV shape parameter is found to strongly influence the RR determined with the GEV scale parameter affecting only the most severe events.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aae356"
+  },
+  {
+    "title": "Trends of rainfall and temperature in Northeast Brazil",
+    "authors": [
+      "Ailton A. de Carvalho,",
+      "Abelardo A. de A. Montenegro,",
+      "Hernande P. da Silva,",
+      "Iug Lopes,",
+      "José E. F. de Morais,",
+      "Thieres G. F. da Silva"
+    ],
+    "doi": "https://doi.org/10.1590/1807-1929/agriambi.v24n1p15-23",
+    "issn": "1415-4366 (Print)",
+    "publisher": "1807-1929 (Online)",
+    "countryOfPublisher": "Universidade Federal de Campina Grande",
+    "lcc": [
+      "Brazil",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.scielo.br/scielo.php/script_sci_serial/pid_1415-4366/lng_en/nrm_iso/lng_en",
+    "abstract": "ABSTRACT For climate change scenarios, there is a high degree of complexity, with impacts on the future availability of water resources. In this context, studies related to changes in rainfall time series are essential in order to identify environmental vulnerability. The objective of this study was to analyze trends in the rainfall regime, number of rainy days and temperature for stations located at different continentality and altitude conditions in Northeast Brazil. Meteorological data of the Instituto Nacional de Meteorologia were used, being classified according to the location in relation to the continent: coastal strip (14 stations), strip of 150-300 km up to 300 m altitude (14 stations) and above 300 m (five stations), between 400 and 600 km from the coast up to 300 m (four stations) and above 300 m (eight stations). All the 45 stations used have a historical series with a data period of more than 30 years. The trend of rainfall and rainy days was obtained through the Mann-Kendall and regression analyses, at significance levels of 0.01 and 0.05, respectively. There were trends of reduction in the number of rainy days, in the coastal strip, as well as reduction in rainfall and rainy days, both in the strip of 150-300 km from the coast and in the Sertão region, with no significant effect of continentality in the strip of 400-600 km from the coast. For temperature, except for Maceió, AL, Brazil, there is a trend of increase in near future.",
+    "readLink": "http://www.scielo.br/pdf/rbeaa/v24n1/1415-4366-rbeaa-24-01-0015.pdf"
+  },
+  {
+    "title": "Growing Season Stem Water Status Assessment of Qinghai Spruce through the Sap Flow and Stem Radial Variations in the Qilian Mountains of China",
+    "authors": [
+      "Quanyan Tian,",
+      "Zhibin He,",
+      "Shengchun Xiao,",
+      "Jun Du,",
+      "Xiaomei Peng,",
+      "Longfei Chen,",
+      "Pengfei Lin,",
+      "Xi Zhu,",
+      "Aijun Ding"
+    ],
+    "doi": "https://doi.org/10.3390/f9010002",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  p.\n                                  2",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Global climate change is likely to change precipitation patterns with consequences for tree water use and growth in semi-arid areas. However, little is known about the effects of variability in precipitation on growth- and water-related physiological processes of native trees in dry areas of northwestern China. In this study, sap flow and stem radial variability in four Qinghai spruce trees (Picea crassifolia) were monitored in the Qilian Mountains, China. Tree water deficit (ΔW) and basal area increment (BAI) were calculated using stem radial variation; water-use efficiency (WUE) was then estimated as the ratio of BAI and sap flow (Jt). The results showed that sap flow density (Js) increased logarithmically with increasing ΔW when ΔW < 50 μm, and then gradually stabilized. Multiple factor generalized additive models (GAM) showed that Js was closely related to all measured environmental variables except for daily mean temperature and relative air humidity. ΔW was related to the minimum daily temperature and soil water content. WUE exhibited higher values in early July. Low WUE was observed under conditions of prolonged dry weather, but it quickly increased during rainy days. WUE decreased after precipitation events due to high transpiration. We concluded that, in these semi-arid areas, precipitation is the most important controlling factor in tree growth and transpiration.",
+    "readLink": "https://www.mdpi.com/1999-4907/9/1/2"
+  },
+  {
+    "title": "Assessing and Mitigating Ice-Jam Flood Hazards and Risks: A European Perspective",
+    "authors": [
+      "Karl-Erich Lindenschmidt,",
+      "Knut Alfredsen,",
+      "Dirk Carstensen,",
+      "Adam Choryński,",
+      "David Gustafsson,",
+      "Michał Halicki,",
+      "Bernd Hentschel,",
+      "Niina Karjalainen,",
+      "Michael Kögel,",
+      "Tomasz Kolerski,",
+      "Marika Kornaś-Dynia,",
+      "Michał Kubicki,",
+      "Zbigniew W. Kundzewicz,",
+      "Cornelia Lauschke,",
+      "Albert Malinger,",
+      "Włodzimierz Marszelewski,",
+      "Fabian Möldner,",
+      "Barbro Näslund-Landenmark,",
+      "Tomasz Niedzielski,",
+      "Antti Parjanne,",
+      "Bogusław Pawłowski,",
+      "Iwona Pińskwar,",
+      "Joanna Remisz,",
+      "Maik Renner,",
+      "Michael Roers,",
+      "Maksymilian Rybacki,",
+      "Ewelina Szałkiewicz,",
+      "Michał Szydłowski,",
+      "Grzegorz Walusiak,",
+      "Matylda Witek,",
+      "Mateusz Zagata,",
+      "Maciej Zdralewicz"
+    ],
+    "doi": "https://doi.org/10.3390/w15010076",
+    "journalVolume": "Vol. 15,\n                                no. 76\n                                \n                                  p.\n                                  76",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The assessment and mapping of riverine flood hazards and risks is recognized by many countries as an important tool for characterizing floods and developing flood management plans. Often, however, these management plans give attention primarily to open-water floods, with ice-jam floods being mostly an afterthought once these plans have been drafted. In some Nordic regions, ice-jam floods can be more severe than open-water floods, with floodwater levels of ice-jam floods often exceeding levels of open-water floods for the same return periods. Hence, it is imperative that flooding due to river ice processes be considered in flood management plans. This also pertains to European member states who are required to submit renewed flood management plans every six years to the European governance authorities. On 19 and 20 October 2022, a workshop entitled “Assessing and mitigating ice-jam flood hazard and risk” was hosted in Poznań, Poland to explore the necessity of incorporating ice-jam flood hazard and risk assessments in the European Union’s Flood Directive. The presentations given at the workshop provided a good overview of flood risk assessments in Europe and how they may change due to the climate in the future. Perspectives from Norway, Sweden, Finland, Germany, and Poland were presented. Mitigation measures, particularly the artificial breakage of river ice covers and ice-jam flood forecasting, were shared. Advances in ice processes were also presented at the workshop, including state-of-the-art developments in tracking ice-floe velocities using particle tracking velocimetry, characterizing hanging dam ice, designing new ice-control structures, detecting, and monitoring river ice covers using composite imagery from both radar and optical satellite sensors, and calculating ice-jam flood hazards using a stochastic modelling approach.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/1/76"
+  },
+  {
+    "title": "Evaluation of cloud fraction and its radiative effect simulated by IPCC AR4 global models against ARM surface observations",
+    "authors": [
+      "Y. Qian,",
+      "C. N. Long,",
+      "H. Wang,",
+      "J. M. Comstock,",
+      "S. A. McFarlane,",
+      "S. Xie"
+    ],
+    "doi": "https://doi.org/10.5194/acp-12-1785-2012",
+    "journalVolume": "Vol. 12,\n                                no. 4\n                                \n                                  pp.\n                                  1785\n                                  – 1810",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Cloud Fraction (CF) is the dominant modulator of radiative fluxes. In this study, we evaluate CF simulated in the IPCC AR4 GCMs against ARM long-term ground-based measurements, with a focus on the vertical structure, total amount of cloud and its effect on cloud shortwave transmissivity. Comparisons are performed for three climate regimes as represented by the Department of Energy Atmospheric Radiation Measurement (ARM) sites: Southern Great Plains (SGP), Manus, Papua New Guinea and North Slope of Alaska (NSA). Our intercomparisons of three independent measurements of CF or sky-cover reveal that the relative differences are usually less than 10% (5%) for multi-year monthly (annual) mean values, while daily differences are quite significant. The total sky imager (TSI) produces smaller total cloud fraction (TCF) compared to a radar/lidar dataset for highly cloudy days (CF > 0.8), but produces a larger TCF value than the radar/lidar for less cloudy conditions (CF < 0.3). The compensating errors in lower and higher CF days result in small biases of TCF between the vertically pointing radar/lidar dataset and the hemispheric TSI measurements as multi-year data is averaged. The unique radar/lidar CF measurements enable us to evaluate seasonal variation of cloud vertical structures in the GCMs. <br><br> Both inter-model deviation and model bias against observation are investigated in this study. Another unique aspect of this study is that we use simultaneous measurements of CF and surface radiative fluxes to diagnose potential discrepancies among the GCMs in representing other cloud optical properties than TCF. The results show that the model-observation and inter-model deviations have similar magnitudes for the TCF and the normalized cloud effect, and these deviations are larger than those in surface downward solar radiation and cloud transmissivity. This implies that other dimensions of cloud in addition to cloud amount, such as cloud optical thickness and/or cloud height, have a similar magnitude of disparity as TCF within the GCMs, and suggests that the better agreement among GCMs in solar radiative fluxes could be a result of compensating effects from errors in cloud vertical structure, overlap assumption, cloud optical depth and/or cloud fraction. The internal variability of CF simulated in ensemble runs with the same model is minimal. Similar deviation patterns between inter-model and model-measurement comparisons suggest that the climate models tend to generate larger biases against observations for those variables with larger inter-model deviation. <br><br> The GCM performance in simulating the probability distribution, transmissivity and vertical profiles of cloud are comprehensively evaluated over the three ARM sites. The GCMs perform better at SGP than at the other two sites in simulating the seasonal variation and probability distribution of TCF. However, the models remarkably underpredict the TCF at SGP and cloud transmissivity is less susceptible to the change of TCF than observed. In the tropics, most of the GCMs tend to underpredict CF and fail to capture the seasonal variation of CF at middle and low levels. The high-level CF is much larger in the GCMs than the observations and the inter-model variability of CF also reaches a maximum at high levels in the tropics, indicating discrepancies in the representation of ice cloud associated with convection in the models. While the GCMs generally capture the maximum CF in the boundary layer and vertical variability, the inter-model deviation is largest near the surface over the Arctic.",
+    "readLink": "http://www.atmos-chem-phys.net/12/1785/2012/acp-12-1785-2012.pdf"
+  }
+]

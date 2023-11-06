@@ -1,0 +1,218 @@
+[
+  {
+    "title": "State of Science Assessment of Remote Sensing of Great Lakes Coastal Wetlands: Responding to an Operational Requirement",
+    "authors": [
+      "Lori White,",
+      "Robert A. Ryerson,",
+      "Jon Pasher,",
+      "Jason Duffe"
+    ],
+    "doi": "https://doi.org/10.3390/rs12183024",
+    "journalVolume": "Vol. 12,\n                                no. 3024\n                                \n                                  p.\n                                  3024",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The purpose of this research was to develop a state of science synthesis of remote sensing technologies that could be used to track changes in Great Lakes coastal vegetation for the Great Lakes-St. Lawrence River Adaptive Management (GLAM) Committee. The mapping requirements included a minimum mapping unit (MMU) of either 2 × 2 m or 4 × 4 m, a digital elevation model (DEM) accuracy in x and y of 2 m, a “z” value or vertical accuracy of 1–5 cm, and an accuracy of 90% for the classes of interest. To determine the appropriate remote sensing sensors, we conducted an extensive literature review. The required high degree of accuracy resulted in the elimination of many of the remote sensing sensors used in other wetland mapping applications including synthetic aperture radar (SAR) and optical imagery with a resolution >1 m. Our research showed that remote sensing sensors that could at least partially detect the different types of wetland vegetation in this study were the following types: (1) advanced airborne “coastal” Airborne Light Detection and Ranging (LiDAR) with either a multispectral or a hyperspectral sensor, (2) colour-infrared aerial photography (airplane) with (optimum) 8 cm resolution, (3) colour-infrared unmanned aerial vehicle (UAV) photography with vertical accuracy determination rated at 10 cm, (4) colour-infrared UAV photography with high vertical accuracy determination rated at 3–5 cm, (5) airborne hyperspectral imagery, and (6) very high-resolution optical satellite data with better than 1 m resolution.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/18/3024"
+  },
+  {
+    "title": "Groundwater Salinization and Freshening Processes in the Luy River Coastal Aquifer, Vietnam",
+    "authors": [
+      "Linh Pham Dieu,",
+      "Diep Cong-Thi,",
+      "Tom Segers,",
+      "Huu Hieu Ho,",
+      "Frédéric Nguyen,",
+      "Thomas Hermans"
+    ],
+    "doi": "https://doi.org/10.3390/w14152358",
+    "journalVolume": "Vol. 14,\n                                no. 2358\n                                \n                                  p.\n                                  2358",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Vietnamese Binh Thuan province located along the Southern Central part of the coast is one of the driest in the country. The population is relying largely on groundwater for irrigation, and the groundwater resources are threatened by climate change and saltwater intrusion in river estuaries. Recent studies, however, reveal that the extension of saltwater intrusions was larger than expected, raising some doubts on the actual origin of the intrusions. In this study, we use the geochemical characterization of groundwater samples collected in both the dry and rainy seasons in the Luy river coastal area to identify hydrochemical processes responsible for the salinization and variations taking place in the shallow aquifers. The distribution of chemical components of groundwater and the indicators presenting the freshening and salinization processes, such as cation exchange code and chloride conservative element, the ionic delta, the HFE-diagram, and geochemical modelling, were studied. The results show that 65% of the samples exceed the WHO limit for drinking water and 100% of them have a degree of restriction on use from slight–moderate to severe in potential irrigation problems according to FAO. In contrast to previous expectations, freshening is the dominant process in the aquifers, and it is more advanced in the rainy season. Due to a lack of recharge and aquifer exploitation, salinization is more severe in the deeper aquifer and during the dry season. Saltwater intrusion is not limited to the zone close to the river but extends further inland and at depth, and salinity can vary quickly over short distances. Based on these new insights, we develop a new conceptual model for the evolution of salinization in the Luy river catchment involving a natural freshening process of connate water combined with anthropic influence. The conceptual model will form the basis for the development of a groundwater model of the study area and eventually lead to sustainable management scenarios for this coastal region, preventing further deterioration of the groundwater resources.",
+    "readLink": "https://www.mdpi.com/2073-4441/14/15/2358"
+  },
+  {
+    "title": "Atmospheric moisture supersaturation in the near-surface atmosphere at Dome C, Antarctic Plateau",
+    "authors": [
+      "C. Genthon,",
+      "L. Piard,",
+      "E. Vignon,",
+      "J.-B. Madeleine,",
+      "M. Casado,",
+      "H. Gallée"
+    ],
+    "doi": "https://doi.org/10.5194/acp-17-691-2017",
+    "journalVolume": "Vol. 17,\n                                no. 1\n                                \n                                  pp.\n                                  691\n                                  – 704",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Supersaturation often occurs at the top of the troposphere where cirrus clouds form, but is comparatively unusual near the surface where the air is generally warmer and laden with liquid and/or ice condensation nuclei. One exception is the surface of the high Antarctic Plateau. One year of atmospheric moisture measurement at the surface of Dome C on the East Antarctic Plateau is presented. The measurements are obtained using commercial hygrometry sensors modified to allow air sampling without affecting the moisture content, even in the case of supersaturation. Supersaturation is found to be very frequent. Common unadapted hygrometry sensors generally fail to report supersaturation, and most reports of atmospheric moisture on the Antarctic Plateau are thus likely biased low. The measurements are compared with results from two models implementing cold microphysics parameterizations: the European Center for Medium-range Weather Forecasts through its operational analyses, and the Model Atmosphérique Régional. As in the observations, supersaturation is frequent in the models but the statistical distribution differs both between models and observations and between the two models, leaving much room for model improvement. This is unlikely to strongly affect estimations of surface sublimation because supersaturation is more frequent as temperature is lower, and moisture quantities and thus water fluxes are small anyway. Ignoring supersaturation may be a more serious issue when considering water isotopes, a tracer of phase change and temperature, largely used to reconstruct past climates and environments from ice cores. Because observations are easier in the surface atmosphere, longer and more continuous in situ observation series of atmospheric supersaturation can be obtained than higher in the atmosphere to test parameterizations of cold microphysics, such as those used in the formation of high-altitude cirrus clouds in meteorological and climate models.",
+    "readLink": "http://www.atmos-chem-phys.net/17/691/2017/acp-17-691-2017.pdf"
+  },
+  {
+    "title": "Depth Profiles of Microplastic in Sediment Cores in the Mangrove Area of Kuala Gula Mangrove, Malaysia",
+    "authors": [
+      "Che Abd Rahim Mohamed,",
+      "Aqilah Nur Shahruddin,",
+      "Siriporn Pradit,",
+      "Pei Sun Loh,",
+      "Thongchai Nitiratsuwan,",
+      "Thawanrat Kobkeatthawin,",
+      "Prakrit Noppradit,",
+      "Thi Phuong Quynh Le,",
+      "Chantha Oeurng,",
+      "Ty Sok,",
+      "Choon Weng Lee,",
+      "Chui Wei Bong,",
+      "Xixi Lu,",
+      "Gusti Z. Anshari,",
+      "Selvaraj Kandasamy,",
+      "Jianjun Wang"
+    ],
+    "doi": "https://doi.org/10.3390/jmse11061223",
+    "journalVolume": "Vol. 11,\n                                no. 1223\n                                \n                                  p.\n                                  1223",
+    "issn": "2077-1312 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Naval Science: Naval architecture. Shipbuilding. Marine engineering",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/jmse",
+    "abstract": "Microplastics are widespread in coastal and marine environments, and sediments serve as a sink for microplastics. In this study, four sediment cores were collected from the Kuala Gula Mangrove area. The abundance of microplastics in mangrove sediments ranged from 25–130 items/kg dry weight. The highest abundance of microplastic was observed at the KG04 site near the mouth of the river. The number of microplastics by sampling site was significantly different (p p p > 0.05). However, this study provides evidence that mangroves can be a trap for microplastics and can be used as baseline data for future studies.",
+    "readLink": "https://www.mdpi.com/2077-1312/11/6/1223"
+  },
+  {
+    "title": "The Impact of a Warming Micro‐Climate on Muooni  Farmers of Kenya",
+    "authors": [
+      "Cush Ngonzo Luwesi,",
+      "Joy Apiyo Obando,",
+      "Chris Allan Shisanya"
+    ],
+    "doi": "https://doi.org/10.3390/agriculture7030020",
+    "journalVolume": "Vol. 7,\n                                no. 3\n                                \n                                  p.\n                                  20",
+    "issn": "2077-0472 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agriculture",
+    "abstract": "Rainfed agriculture has become highly vulnerable to the depleting water resources in most arid and semi‐arid tropics (ASATs) under the effect of climate change. The impact has certainly been very high in Muooni catchment where more than 99% of the natural forest has been cleared. The warming micro‐climate is accelerated by extended deforestation, unsustainable irrigation, and water over‐abstraction in the catchment by eucalyptus and other exotic trees. The dwindling crop yields add to the farmer’s suffering. Farming communities have created various innovative ways of coping with a warming environment to increase their agriculture resiliency. These include, among others, rain water management, reforestation and agro‐forestry. To what extent have these practices been disturbed by the increasing temperatures, and decreasing rainfalls and river discharges in Muooni catchment? This study used statistical forecast techniques to unveil the past, current and future variations of the micro‐climate in Muooni catchment, and relevant factors determining farmers’ vulnerability to drought. Muooni catchment is warming by 0.8 to 1.2 °C in a century as a result of a changing micro‐climate. These changes are mainly driven by deforestation due to the high urbanization rate and agricultural practices in Muooni catchment. Centennial rainfall is subsequently plummeting at 30 to 50 mm while discharges are decreasing from 0.01 to 0.05 m3∙s−1, with unmet water demands of 30% to 95% and above. In view of the current trends of the population growth and urbanization in Muooni, agricultural expansion is seriously threatened if no appropriate policy, extension service and science based emergency measures are put in place by the Government of Kenya.",
+    "readLink": "http://www.mdpi.com/2077-0472/7/3/20"
+  },
+  {
+    "title": "477 The Climate is Changing, Why Cant We? Faculty Perspectives on Education for Sustainable Healthcare in Health Education",
+    "authors": [
+      "Karly Hampshire,",
+      "Tammy Nicastro,",
+      "Arianne Teherani,",
+      "Sheri Weiser"
+    ],
+    "doi": "https://doi.org/10.1017/cts.2022.280",
+    "journalVolume": "Vol. 6\n                                \n                                \n                                  pp.\n                                  95\n                                  – 95",
+    "issn": "2059-8661 (Online)",
+    "publisher": "Cambridge University Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science",
+    "abstract": "OBJECTIVES/GOALS: Despite calls for the integration of Education for Sustainable Healthcare (ESH) into health professional training programs, most curricula have yet to adapt accordingly. This qualitative study sought to understand faculty perspectives on ESH knowledge, interest, barriers, and facilitators. METHODS/STUDY POPULATION: From 2018 to 2020, 71 health professional education faculty from 6 University of California (UC) campuses participated in ESH integration workshops. Using purposeful sampling based on gender and campus, a subset of workshop faculty participants were selected to participate in individual interviews. Interviews were conducted via Zoom using a structured interview guide, eliciting participants experience integrating ESH, perceived barriers and facilitators, and perspectives on student, faculty, and health science leadership knowledge and interest. Transcripts were double coded with an inductive-deductive approach using Dedoose, reconciled, and analyzed to identify themes. RESULTS/ANTICIPATED RESULTS: Participants included 17 faculty at 6 UC campuses representing diverse health disciplines. Although participants noted high general awareness of and interest in climate change among students and faculty, they observed a lack of specific, health-relevant knowledge, resulting in discomfort communicating with others on climate and health. Perceived barriers to expansion of ESH included limited curricular space, competing topics, and lack of faculty expertise. Participants posited that framing climate change in health terms, establishing learning objectives and protected faculty time, identifying connections to ESH within existing research and curriculum, and obtaining commitments from campus leadership would facilitate successful ESH integration. DISCUSSION/SIGNIFICANCE: Our findings reinforce student and faculty interest in ESH curricular integration and identify important barriers and facilitators, lending context for educators planning ESH infusion. Training of faculty on climate health is urgently needed for ESH integration in health professional education.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S2059866122002801/type/journal_article"
+  },
+  {
+    "title": "Selection of groundwater sites in Egypt, using geographic information systems, for desalination by solar energy in order to reduce greenhouse gases",
+    "authors": [
+      "Mariam G. Salim"
+    ],
+    "doi": "https://doi.org/10.1016/j.jare.2011.02.008",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  11\n                                  – 19",
+    "issn": "2090-1232 (Print)",
+    "publisher": "2090-1224 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Medicine: Medicine (General)",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-advanced-research/",
+    "abstract": "Although Egypt has already reached the water poverty limit, it possesses a high potential of brackish groundwater available from different aquifers. All Arab countries lie in the best sun-belt region in the world and Egypt has the highest number of sun hours all year round. Solar energy for groundwater desalination is an independent infinite energy resource; it has low running costs and reduces the contribution of greenhouse gases (GHG) to global warming. Perfect meteorological conditions and land space are available in remote areas, where solar desalination could supply freshwater for drinking, industry, and for greenhouse agriculture. The present study uses Geographic Information System(s) (GIS) as a spatial decision support tool to select appropriate sites in Egypt for groundwater solar desalination. Solar radiation, aquifer depth, aquifer salinity, distance from the Delta and the Nile Valley, incidence of flash floods, sand dunes, rock faults, and seawater intrusion in the North Delta, are the criteria that have been taken into consideration in the process of analysis. A specific weight is given to each criterion according to its relative influence on the process of decision making. The results from the application of the presented methodology determine the relative suitability of sites for groundwater solar desalination. These sites are ranked in descending order to help decision-makers in Egypt. The results show that groundwater solar desalination is suitable in remote regions on the North Western Coast, on the North Sinai Coast, and at the Southern Oasis, for reducing greenhouse gases and that it is particularly useful for poor communities suffering from polluted water.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S209012321100035X"
+  },
+  {
+    "title": "Exploring elementary students’ understanding of energy and climate change",
+    "authors": [
+      "Colin BOYLAN"
+    ],
+    "doi": "Vol. 1,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 15",
+    "issn": "1307-9298 (Online)",
+    "publisher": "Kura Publishing",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Education: Theory and practice of education"
+    ],
+    "journalUrl": "https://www.iejee.com/index.php/IEJEE",
+    "abstract": "As environmental changes become a significant societal issue, elementary science curriculaneed to develop students’ understanding about the key concepts of energy and climate change.For teachers, developing quality learning experiences involves establishing what theirstudents’ prior understanding about energy and climate change are. A survey was developed toexplore what elementary students know and understand about renewable and non-renewablesources of energy and their relationship to climate change issues. The findings from thissurvey are reported in this paper.",
+    "readLink": "http://www.iejee.com/1_1_2008/boylan.pdf"
+  },
+  {
+    "title": "Urban heat island conditions experienced by the Western black widow spider (Latrodectus hesperus): Extreme heat slows development but results in behavioral accommodations.",
+    "authors": [
+      "J Chadwick Johnson,",
+      "Javier Urcuyo,",
+      "Claire Moen,",
+      "Dale R Stevens"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0220153",
+    "journalVolume": "Vol. 14,\n                                no. 9\n                                \n                                  p.\n                                  e0220153",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "While shifts in organismal biology stemming from climate change are receiving increased attention, we know relatively little about how organisms respond to other forms of anthropogenic disturbance. The urban heat island (UHI) effect describes the capture of heat by built structures (e.g. asphalt), resulting in elevated urban temperatures. The UHI is a well-studied phenomenon, but only a handful of studies have investigated trait-based shifts resulting from the UHI, and even fewer have attempted to quantify the magnitude of the UHI experienced at the microclimate scale. Here, using a common urban exploiter, the Western black widow spider (Latrodectus hesperus), we show that the UHI experienced by spiders in July in their urban Phoenix, AZ refuges is 6°C hotter (33°C) than conditions in the refuges of spiders from Sonoran Desert habitat outside of Phoenix's development (27°C). We then use this field microclimate UHI estimate to compare the development speed, mass gain and mortality of replicate siblings from 36 urban lineages reared at 'urban' and 'desert' temperatures. We show that extreme heat is slowing the growth of spiderlings and increasing mortality. In contrast, we show that development of male spiders to their penultimate moult is accelerated by 2 weeks. Lastly, in terms of behavioral shifts, UHI temperatures caused late-stage juvenile male spiders to heighten their foraging voracity and late-stage juvenile female spiders to curtail their web-building behavior. Trait-based approaches like the one presented herein help us better understand the mechanisms that lead to the explosive population growth of urban (sometimes invasive) species, possibly at the expense of urban biodiversity. Studies of organismal responses to the present day UHI can be used as informative surrogates that help us grasp the impact that projected climate change will have on biodiversity.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0220153"
+  },
+  {
+    "title": "Resilience of Traditional Ritual Practices in Bhutanese Mountain Farming Systems Amid Climate Change and Anthropogenic Activities",
+    "authors": [
+      "Phanchung,",
+      "Norbu Gyeltshen,",
+      "Tenjur Wangdi,",
+      "Karma Yangzom"
+    ],
+    "doi": "https://doi.org/10.1659/MRD-JOURNAL-D-22-00005",
+    "journalVolume": "Vol. 42,\n                                no. 2\n                                \n                                  pp.\n                                  V11\n                                  – V18",
+    "issn": "0276-4741 (Print)",
+    "publisher": "1994-7151 (Online)",
+    "countryOfPublisher": "International Mountain Society",
+    "lcc": [
+      "Switzerland",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mrd-journal.org",
+    "abstract": "Indigenous mountain people are often marginalized from mainstream development and are not able to express their concerns over the impacts of ecosystem changes on their livelihoods. Living in geographically difficult terrains, they engage in traditional ritual practices concerning their livelihoods that build on generations of deep-rooted beliefs. Yet, the availability of literature on traditional rituals practiced in the context of farming systems is scant. We conducted an exploratory study, through structured survey questionnaires, to document the traditional ritual practices observed in farming across the country of Bhutan. The study revealed the continuing practice of diverse and unique traditional rituals being propitiated to local deities for the welfare and wellbeing of individuals and communities across all ethnic groups in Bhutan. This study documented various tangible and intangible cultural values adopted in farming practices in Bhutan that are at risk of disappearing due to anthropogenic pressures.",
+    "readLink": "https://bioone.org/doi/10.1659/MRD-JOURNAL-D-22-00005"
+  }
+]

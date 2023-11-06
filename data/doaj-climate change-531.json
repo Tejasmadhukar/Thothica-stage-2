@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Validation of Satellite Sea Surface Temperatures and Long-Term Trends in Korean Coastal Regions over Past Decades (1982–2018)",
+    "authors": [
+      "Eun-Young Lee,",
+      "Kyung-Ae Park"
+    ],
+    "doi": "https://doi.org/10.3390/rs12223742",
+    "journalVolume": "Vol. 12,\n                                no. 3742\n                                \n                                  p.\n                                  3742",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Validation of daily Optimum Interpolation Sea Surface Temperature (OISST) data from 1982 to 2018 was performed by comparison with quality-controlled in situ water temperature data from Korea Meteorological Administration moored buoys and Korea Oceanographic Data Center observations in the coastal regions around the Korean Peninsula. In contrast to the relatively high accuracy of the SSTs in the open ocean, the SSTs of the coastal regions exhibited large root-mean-square errors (RMSE) ranging from 0.75 K to 1.99 K and a bias ranging from −0.51 K to 1.27 K, which tended to be amplified towards the coastal lines. The coastal SSTs in the Yellow Sea presented much higher RMSE and bias due to the appearance of cold water on the surface induced by vigorous tidal mixing over shallow bathymetry. The long-term trends of OISSTs were also compared with those of in situ water temperatures over decades. Although the trends of OISSTs deviated from those of in situ temperatures in coastal regions, the spatial patterns of the OISST trends revealed a similar structure to those of in situ temperature trends. The trends of SSTs using satellite data explained about 99% of the trends in in situ temperatures in offshore regions (>25 km from the shoreline). This study discusses the limitations and potential of global SSTs as well as long-term SST trends, especially in Korean coastal regions, considering diverse applications of satellite SSTs and increasing vulnerability to climate change.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/22/3742"
+  },
+  {
+    "title": "Analysis of the Long-term Precipitation Trend in Illinois and Its Implications for Agricultural Production",
+    "authors": [
+      "Vaskar Dahal,",
+      "Sudip Gautam,",
+      "Rabin Bhattarai"
+    ],
+    "doi": "https://doi.org/10.3390/w10040433",
+    "journalVolume": "Vol. 10,\n                                no. 4\n                                \n                                  p.\n                                  433",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Climate change is expected to modify the hydrological cycle resulting in a change in the amount, frequency, and intensity of surface precipitation. How the future hydrological pattern will look is uncertain. Climate change is expected to bring about intense periods of dryness and wetness, and such behavior is expected to be difficult to predict. Such uncertainty does not bode well for the agricultural systems of the United States (US) Midwest that are reliant on natural precipitation systems. Therefore, it is necessary to analyze the behavior of precipitation during the cropping period. The manifestation of global-warming-related changes has already been reported for the last couple of decades and more so in the current decade. Thus, precipitation data from the recent past can provide vital information on what is about to come. In this study, the precipitation data of Illinois, a Midwestern state of the US with rain-fed agriculture, was analyzed with a focus on the climate dynamics during the cropping period. It was observed that even though there has been some increase in the annual precipitation amount (+1.84 mm/year) due to the increase in precipitation frequency and intensity, such change happened outside of the cropping period, thereby ensuring that climate change has not manifested itself during the cropping period.",
+    "readLink": "http://www.mdpi.com/2073-4441/10/4/433"
+  },
+  {
+    "title": "Integrated Feature Selection of ARIMA with Computational Intelligence Approaches for Food Crop Price Prediction",
+    "authors": [
+      "Yuehjen E. Shao,",
+      "Jun-Ting Dai"
+    ],
+    "doi": "https://doi.org/10.1155/2018/1910520",
+    "journalVolume": "Vol. 2018",
+    "issn": "1076-2787 (Print)",
+    "publisher": "1099-0526 (Online)",
+    "countryOfPublisher": "Hindawi-Wiley",
+    "lcc": [
+      "United Kingdom",
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/complexity/",
+    "abstract": "Because of global climate change, lack of arable land, and rapid population growth, the supplies of three major food crops (i.e., rice, wheat, and corn) have been gradually decreasing worldwide. The rapid increase in demand for food has contributed to a continuous rise in food prices, which directly threatens the lives of over 800 million people around the world who are reported to be chronically undernourished. Consequently, food crop price prediction has attracted considerable attention in recent years. Recent integrated forecasting models have developed various feature selection methods (FSMs) to capture fewer, but more important, explanatory variables. However, one major problem is that the future values of these important explanatory variables are not available. Thus, predictions based on these variables are not actually possible. Because an autoregressive integrated moving average (ARIMA) can extract important self-predictor variables with future values that can be calculated, this study incorporates an ARIMA as the FSM for computational intelligence (CI) models to predict three major food crop (i.e., rice, wheat, and corn) prices. Other than the ARIMA, the components of the proposed integrated forecasting models include artificial neural networks (ANNs), support vector regression (SVR), and multivariate adaptive regression splines (MARS). The predictive accuracies of ARIMA, ANN, SVR, MARS, and the proposed integrated model are compared and discussed. Experimental results reveal that the proposed integrated model achieves superior forecasting performance for predicting food crop prices.",
+    "readLink": "http://dx.doi.org/10.1155/2018/1910520"
+  },
+  {
+    "title": "Bioenergy development in the Republic of Columbia",
+    "authors": [
+      "Moreno Pérez Daniel Alejandro,",
+      "Shushpanova Dzhemma V."
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202126504027",
+    "journalVolume": "Vol. 265\n                                \n                                \n                                  p.\n                                  04027",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Biofuels are a mixture of organic matter that is used as fuel in internal combustion engines. Biofuel production can pose a serious threat to food security, biodiversity, and climate change if not regulated and tightly controlled. However, it is also true that in this type of initiative there are many opportunities presented in its renewable nature and its intensive work needs that need to be explored. If sustainable development becomes the policy of the biofuels industry, growth paths and opportunities can be traced for developing countries such as Colombia. Consequently, a country can take advantage of the “follower” advantages if it learns from previous experiences such as the Brazilian one. Employment and natural preservation opportunities are possible with certified product.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/41/e3sconf_apeem2021_04027.pdf"
+  },
+  {
+    "title": "Perceptions of the European Space Sector: Youth Engagement With Space Education Events",
+    "authors": [
+      "Joseph Roche,",
+      "Joseph Roche,",
+      "Laura Bell,",
+      "Mairéad Hurley,",
+      "Aaron M. Jensen,",
+      "Aaron M. Jensen,",
+      "Eric A. Jensen,",
+      "Eric A. Jensen,",
+      "Brendan Owens,",
+      "Grace D’Arcy,",
+      "Jorge Rivero González,",
+      "Pedro Russo,",
+      "Pedro Russo"
+    ],
+    "doi": "https://doi.org/10.3389/feduc.2021.750952",
+    "journalVolume": "Vol. 6",
+    "issn": "2504-284X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Education: Education (General)"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/education",
+    "abstract": "Space education not only plays a key role in helping young people understand the natural world and their impact on the planet but is also vital in ensuring that future generations can make meaningful contributions to the space sector at all levels. Positive perceptions of the space sector can lead young people to take roles where they can contribute to new knowledge, develop new technologies, and tackle societal challenges. As the relationship between science and society is tested by global events—such as climate change and the COVID-19 pandemic—scientific trust and accountability have become topics of frequent and public debate. The way in which young people engage with space education and perceive their potential involvement with the space sector is of greater importance now than ever before. This paper describes a two-year European space education project that was carried out before and during the COVID-19 global pandemic. An evaluation of the project activities showed that young people are generally enthusiastic about space, but their perceptions of the European space sector—and their connections to it—are less positive. Recommendations are made on the challenges facing the space sector and how it needs to adapt to better support the development of a more inclusive space education community.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feduc.2021.750952/full"
+  },
+  {
+    "title": "Pushing the pace of tree species migration.",
+    "authors": [
+      "Eli D Lazarus,",
+      "Brian J McGill"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0105380",
+    "journalVolume": "Vol. 9,\n                                no. 8\n                                \n                                  p.\n                                  e105380",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Plants and animals have responded to past climate changes by migrating with habitable environments, sometimes shifting the boundaries of their geographic ranges by tens of kilometers per year or more. Species migrating in response to present climate conditions, however, must contend with landscapes fragmented by anthropogenic disturbance. We consider this problem in the context of wind-dispersed tree species. Mechanisms of long-distance seed dispersal make these species capable of rapid migration rates. Models of species-front migration suggest that even tree species with the capacity for long-distance dispersal will be unable to keep pace with future spatial changes in temperature gradients, exclusive of habitat fragmentation effects. Here we present a numerical model that captures the salient dynamics of migration by long-distance dispersal for a generic tree species. We then use the model to explore the possible effects of assisted colonization within a fragmented landscape under a simulated tree-planting scheme. Our results suggest that an assisted-colonization program could accelerate species-front migration rates enough to match the speed of climate change, but such a program would involve an environmental-sustainability intervention at a massive scale.",
+    "readLink": "http://europepmc.org/articles/PMC4146538?pdf=render"
+  },
+  {
+    "title": "AGRO-TOURISM IMPACT ANALYSIS OF CLIMATE CHANGE USING GOOGLE EARTH ENGINE IN THE RAHOVEC WINE REGION OF KOSOVO",
+    "authors": [
+      "D. Sanchez,",
+      "D. Sanchez,",
+      "V. Krasniqi,",
+      "A. Rapuca"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLVIII-4-W7-2023-185-2023",
+    "journalVolume": "Vol. XLVIII-4-W7-2023\n                                \n                                \n                                  pp.\n                                  185\n                                  – 192",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Climate change is a global problem and has a major impact on the economy of the developing world. The use of open data and modeling provides a considerable resource for governments, municipalities, and NGOs to develop an understanding of how climate change will impact their communities. This paper discusses the statistical concepts used to model MODIS Land Surface Temperature dataset and calculation of water balance with interpretations of the results. The results of this paper will utilize open datasets, an analysis of the impacts of temperature changes on the developing tourist economy in the Republic of Kosovo, and the knowledge of the capacity for leveraging large geographic datasets for open climate change research. The data from this paper shows a high level of vulnerability to viticulture in Kosovo due to significant trends in water balance and land surface temperature trends within the Drini I Bardhë basin and the future impacts of this on the regions wine agro-tourism by understanding the development of climate change in the region.",
+    "readLink": "https://isprs-archives.copernicus.org/articles/XLVIII-4-W7-2023/185/2023/isprs-archives-XLVIII-4-W7-2023-185-2023.pdf"
+  },
+  {
+    "title": "Terroir in Transition: Environmental Change in the Wisconsin Artisanal Cheese and New England Oyster Sectors",
+    "authors": [
+      "Kathryn Teigen De Master,",
+      "James LaChance,",
+      "Sarah Bowen,",
+      "Lillian MacNell"
+    ],
+    "doi": "https://doi.org/10.3390/su11102969",
+    "journalVolume": "Vol. 11,\n                                no. 10\n                                \n                                  p.\n                                  2969",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Even as the concept of terroir becomes more salient in diverse cultural and national contexts, climate-driven environmental change threatens to alter the ecologies that contribute to the distinctive terroir of place-based products. Yet few studies examine how producers of terroir products perceive and experience environmental change. Our comparative case study addresses this gap, as we examine ways that changing ecological conditions will influence the emergent terroir of Wisconsin artisanal cheese and New England oysters. Drawing on in-depth interviews and a survey, we describe the environmental and sociocultural elements that Wisconsin artisanal cheesemakers and New England oyster farmers identify as characteristic of the terroir and merroir (terroir’s maritime adaptation) of their products. We then compare cheesemakers’ and oyster farmers’ perceptions and experiences of climate change. We find that both groups perceive climate-related threats to the terroir and merroir of their products, though each group experienced these threats differently. We argue that the ongoing constitution of terroir—which has always reflected a tension between nature and culture—will be further complicated by changing ecologies. We suggest that a generative understanding of terroir that emphasizes terroir’s sociocultural dimensions may help artisanal cheesemakers and oyster farmers mitigate some climate-related threats to their products.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/10/2969"
+  },
+  {
+    "title": "Large-scale atmospheric features favoring the tropical cyclone activity affecting the Guangdong–Hong Kong–Macao Greater Bay Area of China",
+    "authors": [
+      "Weizhen Chen,",
+      "Song Yang,",
+      "Zeming Wu,",
+      "Fenying Cai"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac9744",
+    "journalVolume": "Vol. 17,\n                                no. 10\n                                \n                                  p.\n                                  104057",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "This study analyzes the large-scale circulation associated with the tropical cyclones (TCs) affecting the Guangdong–Hong Kong–Macao Greater Bay Area (GBA) in southern China during the peak TC season (July–September) from 1980 to 2019. The results show that the frequency of the TCs affecting the GBA is closely tied to a meridional Rossby wave train from Southeast Asia to Northeast Asia, manifested by the important roles of the variability of the monsoon trough (MT) and the western North Pacific subtropical high (WNPSH). In the active GBA TC years, intensified and westward-shifted MT and northeastward-shrunk WNPSH cause anomalous southeasterly wind over the southeast coast of China, and hence more TCs move northwestward to the GBA. Furthermore, the cyclonic convergent conditions related to the tacit-and-mutual configurations of MT and WNPSH favor more TC genesis in the west of 140° E over the WNP via significant larger meridional shear vorticity of the zonal winds, ascending motions, and positive vorticity. Opposite features of wind anomalies and TC genesis are seen in the inactive GBA TC years. Both statistical and numerical analyses confirm that the meridional Rossby wave train is associated with a Matsuno–Gill response to the anomalous convective activity over the western Pacific warm pool, which is maintained by the ascending branches of the La Niña-type Walker circulation over the Pacific and the monsoon-enhanced Walker circulation over the Indian Ocean.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac9744"
+  },
+  {
+    "title": "Characterizing the spatial and temporal variation of the land surface temperature hotspots in Wuhan from a local scale",
+    "authors": [
+      "Chen Yang,",
+      "Qingming Zhan,",
+      "Sihang Gao,",
+      "Huimin Liu"
+    ],
+    "doi": "https://doi.org/10.1080/10095020.2020.1834882",
+    "journalVolume": "Vol. 23,\n                                no. 4\n                                \n                                  pp.\n                                  327\n                                  – 340",
+    "issn": "1009-5020 (Print)",
+    "publisher": "1993-5153 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography",
+      "Science: Astronomy: Geodesy"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgsi",
+    "abstract": "Land Surface Temperature (LST) derived from space-borne Thermal-infrared (TIR) sensors is a key parameter of urban climate studies. Current studies are inefficient to capture the spatial and temporal variations of LST for only one snapshot adopted at one time. Focusing on the characterization of the spatial and temporal of LST variations at local scales, the latent patterns, and morphological characteristics are extracted in this study. Technically, sixteen MODerate-resolution Imaging Spectroradiometer (MODIS) eight-day synthesized LST products (MYD11A2) in 2002, 2007, 2012, and 2017 are employed. First, the non-parametric Multi-Task Gaussian Process Model (MTGP) is used to extract the smooth and continuous Latent LST (LLST) patterns using one LST subset and its temporally adjacent images. Second, the Multi-Scale Shape Index (MSSI) is then applied to quantify the morphological characteristics at the optimal scale. Then, the LLST patterns and MSSI maps are clustered into multiple spatial categories. The specific clusters with the highest LLST and MSSI values are considered as local LLST hotspots. The Hotspots Weighted Mean Center (HSWMC) and standard deviation ellipse are adopted to further investigate the spatiotemporal change of hotspots orientation, direction, and trajectories. Results revealed that Impervious Surfaces (IS) composition is the most significant external forcing of local LST anomalies. The configuration factors (e.g., shape index, aggregation index) also have a noticeable local warming effect. This study represents a latent pattern and morphology-based framework for LST hotspots spatial and temporal variations characterization, catering to the zoning and grading strategies in urban planning.",
+    "readLink": "http://dx.doi.org/10.1080/10095020.2020.1834882"
+  }
+]

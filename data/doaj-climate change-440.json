@@ -1,0 +1,215 @@
+[
+  {
+    "title": "Early retirement of power plants in climate mitigation scenarios",
+    "authors": [
+      "Robert Fofrich,",
+      "Dan Tong,",
+      "Katherine Calvin,",
+      "Harmen Sytze De Boer,",
+      "Johannes Emmerling,",
+      "Oliver Fricko,",
+      "Shinichiro Fujimori,",
+      "Gunnar Luderer,",
+      "Joeri Rogelj,",
+      "Steven J Davis"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ab96d3",
+    "journalVolume": "Vol. 15,\n                                no. 9\n                                \n                                  p.\n                                  094064",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "International efforts to avoid dangerous climate change aim for large and rapid reductions of fossil fuel CO _2 emissions worldwide, including nearly complete decarbonization of the electric power sector. However, achieving such rapid reductions may depend on early retirement of coal- and natural gas-fired power plants. Here, we analyze future fossil fuel electricity demand in 171 energy-emissions scenarios from Integrated Assessment Models (IAMs), evaluating the implicit retirements and/or reduced operation of generating infrastructure. Although IAMs calculate retirements endogenously, the structure and methods of each model differ; we use a standard approach to infer retirements in outputs from all six major IAMs and—unlike the IAMs themselves—we begin with the age distribution and region-specific operating capacities of the existing power fleet. We find that coal-fired power plants in scenarios consistent with international climate targets (i.e. keeping global warming well-below 2 °C or 1.5 °C) retire one to three decades earlier than historically has been the case. If plants are built to meet projected fossil electricity demand and instead allowed to operate at the level and over the lifetimes they have historically, the roughly 200 Gt CO _2 of additional emissions this century would be incompatible with keeping global warming well-below 2 °C. Thus, ambitious climate mitigation scenarios entail drastic, and perhaps un-appreciated, changes in the operating and/or retirement schedules of power infrastructure.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ab96d3"
+  },
+  {
+    "title": "DELINEATION WATER OF PEARL RIVER BASIN USING LANDSAT IMAGES FROM GOOGLE EARTH ENGINE",
+    "authors": [
+      "L. Bi,",
+      "B. L. Fu,",
+      "P. Q. Lou,",
+      "T. Y. Tang"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLII-3-W10-5-2020",
+    "journalVolume": "Vol. XLII-3-W10\n                                \n                                \n                                  pp.\n                                  5\n                                  – 10",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Surface water plays an important role in ecological circulation. Global climate change and urbanization affect the distribution and quality of water. In order to obtain surface water information quickly and accurately, this study uses Google Earth Engine (GEE) as a data processing tool, 309 Landsat 8 series images from 2016 to 2019 are selected to calculate 4 different water indexes, including Normalized Difference Water Index (NDWI), Modified NDWI (MNDWI), Automated Water Extraction Index (AWEIsh) and Multi- Band Water Index (MBWI) to extract surface water in Pearl River Basin. In order to remove the influence of other ground objects, Normalized Vegetation Index (NDVI), Normalized Difference Building Index (NDBI) and Digital Surface Model (DSM) are combined with the above four water indexes, and threshold segmentation is used to eliminate the influence of vegetation, buildings and mountains. Finally, take the advantage of morphological filtering algorithm to eliminate non-water pixels. The results show that GEE is able to extract surface water in a very short time; AWEIsh has the highest overall accuracy of 94.12%, which is 7.20% higher than the classical NDWI method; There is no significant difference in the width and shape of rivers from 2015 to 2018; The locations of the rivers extracted by the four methods are consistent with the 1 : 100,000 river system basic data of 2015 provided by the Ministry of Water Resources of the People’s Republic of China.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W10/5/2020/isprs-archives-XLII-3-W10-5-2020.pdf"
+  },
+  {
+    "title": "Error Correction of Meteorological Data Obtained with Mini-AWSs Based on Machine Learning",
+    "authors": [
+      "Ji-Hun Ha,",
+      "Yong-Hyuk Kim,",
+      "Hyo-Hyuc Im,",
+      "Na-Young Kim,",
+      "Sangjin Sim,",
+      "Yourim Yoon"
+    ],
+    "doi": "https://doi.org/10.1155/2018/7210137",
+    "journalVolume": "Vol. 2018",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "Severe weather events occur more frequently due to climate change; therefore, accurate weather forecasts are necessary, in addition to the development of numerical weather prediction (NWP) of the past several decades. A method to improve the accuracy of weather forecasts based on NWP is the collection of more meteorological data by reducing the observation interval. However, in many areas, it is economically and locally difficult to collect observation data by installing automatic weather stations (AWSs). We developed a Mini-AWS, much smaller than AWSs, to complement the shortcomings of AWSs. The installation and maintenance costs of Mini-AWSs are lower than those of AWSs; Mini-AWSs have fewer spatial constraints with respect to the installation than AWSs. However, it is necessary to correct the data collected with Mini-AWSs because they might be affected by the external environment depending on the installation area. In this paper, we propose a novel error correction of atmospheric pressure data observed with a Mini-AWS based on machine learning. Using the proposed method, we obtained corrected atmospheric pressure data, reaching the standard of the World Meteorological Organization (WMO; ±0.1 hPa), and confirmed the potential of corrected atmospheric pressure data as an auxiliary resource for AWSs.",
+    "readLink": "http://dx.doi.org/10.1155/2018/7210137"
+  },
+  {
+    "title": "Precipitation and Potential Evapotranspiration Temporal Variability and Their Relationship in Two Forest Ecosystems in Greece",
+    "authors": [
+      "Stefanos Stefanidis,",
+      "Vasileios Alexandridis"
+    ],
+    "doi": "https://doi.org/10.3390/hydrology8040160",
+    "journalVolume": "Vol. 8,\n                                no. 160\n                                \n                                  p.\n                                  160",
+    "issn": "2306-5338 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/hydrology",
+    "abstract": "The assessment of drought conditions is important in forestry because it affects forest growth and species diversity. In this study, temporal variability and trends of precipitation (P), potential evapotranspiration (PET), and their relationship (P/PET) were examined in two selected forest ecosystems that present different climatic conditions and vegetation types due to their location and hypsometric zone. The study area includes the forests of Pertouli and Taxiarchis, which are managed by the Aristotle University Forest Administration and Management Fund. The Pertouli is a coniferous forest in Central Greece with a maximum elevation of 2073 m a.s.l, and Taxiarchis is a broadleaved forest in Northern Greece with a maximum elevation of 1200 m a.s.l. To accomplish the goals of the current research, long–term (1974–2016) monthly precipitation and air temperature data from two mountainous meteorological were collected and processed. The PET was estimated using a parametric model based on simplified formulation of the Penman–Monteith equation rather than the commonly used Thornthwaite approach. Seasonal and annual precipitation, potential evapotranspiration (PET), and their ratio (P/PET) values were subjected to Mann–Kendall tests to assess the possible upward or downward trends, and Sen’s slope method was used to estimate the trends magnitude. The results indicated that the examined climatic variables vary greatly between seasons. In general, negative trends were detected for the precipitation time series of Pertouli, whereas positive trends were found in Taxiarchis; both were statistically insignificant. In contrast, statistically significant positive trends were reported for PET in both forest ecosystems. These circumstances led to different drought conditions between the two forests due to the differences of their elevation. Regarding Pertouli, drought trend analysis indicated downward trends for annual, winter, spring, and summer values, whereas autumn showed a slight upward trend. In addition, the average magnitude trend per decade was approximately −2.5%, −3.5%, +4.8%, −0.8%, and +3.3% for annual, winter, autumn, spring, and summer seasons, respectively. On the contrary, the drought trend and the associated magnitude per decade for the Taxiarchis forest were found to be as follows: annual (+2.2%), winter (+6.2%), autumn (+9.2%), spring (+1.0%), and summer (−5.0%). The performed statistical test showed that the reported trend was statistically insignificant at a 5% significance level. These results may be a useful tool as a forest management practice and can enhance the adaptation and resilience of forest ecosystems to climate change.",
+    "readLink": "https://www.mdpi.com/2306-5338/8/4/160"
+  },
+  {
+    "title": "Coastal vulnerability modelling and social vulnerability assessment under anthropogenic impacts",
+    "authors": [
+      "Jingfang Lu,",
+      "Yibo Zhang,",
+      "Honghua Shi,",
+      "Honghua Shi,",
+      "Xianqing Lv"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.1015781",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Coastal regions are highly vulnerable to the impacts of human activities, land cover change, sea level rise (SLR), and climate extremes. In this study, we attempt to address this issue by simulating the spatial interactions among natural hazards, ever-increasing human activities, and social vulnerability in the south coast of the Bohai Sea, China. It is found that the activities occurring on land, especially within coastal environments, such as agricultural pond and ports, and those in the ocean (tide and residual current) both impose disaster risks on the marine environment. In 2020, 25.2% of the total study area is highly vulnerable, which is 21% larger than that in 1997. The socially vulnerable areas are mainly distributed in the southeast coast of the Laizhou Bay. These areas should be strengthened to reduce and prevent the storm surge and flood disasters. Ultimately, we emphasize the urgent needs to implement effective policy measures for reducing tomorrow’s risks from natural hazards.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.1015781/full"
+  },
+  {
+    "title": "A China na ordem ambiental internacional das mudanças climáticas",
+    "authors": [
+      "HELENA MARGARIDO MOREIRA,",
+      "WAGNER COSTA RIBEIRO"
+    ],
+    "doi": "https://doi.org/10.1590/S0103-40142016.30870013",
+    "journalVolume": "Vol. 30,\n                                no. 87\n                                \n                                  pp.\n                                  213\n                                  – 234",
+    "issn": "0103-4014 (Print)",
+    "publisher": "1806-9592 (Online)",
+    "countryOfPublisher": "Universidade de São Paulo",
+    "lcc": [
+      "Brazil",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.scielo.br/scielo.php?pid=0103-4014&script=sci_serial",
+    "abstract": "resumo As mudanças climáticas são consideradas um dos grandes desafios globais do século XXI. A China, como ator global e principal emissor de gases de efeito estufa, é um país-chave na política climática internacional. Sua posição é fundamental para o desenho do acordo futuro que substituirá o Protocolo de Kyoto e que regulará a ação humana sobre o sistema climático terrestre, dando continuidade ao conjunto de decisões internacionais que formam a ordem ambiental internacional das mudanças climáticas. Atendo-se à defesa do princípio das \"responsabilidades comuns, porém diferenciadas\", a China vem construindo seu posicionamento como um dos protagonistas dessa ordem desde o seu início, com a assinatura da Convenção do Clima em 1992. Este artigo parte do argumento de que a postura chinesa nas negociações internacionais sobre mudanças climáticas, apesar de muito participativa e fundamental para o encaminhamento das decisões globais sobre o tema, é definida em termos do interesse desenvolvimentista do Estado chinês. Durante as negociações das Conferências analisadas, a China agiu como liderança do G77 e em defesa dos seus próprios interesses, buscando garantir as responsabilidades diferenciadas e a classificação da China como país em desenvolvimento, evitando comprometer seus objetivos domésticos de desenvolvimento econômico. A última Conferência do Clima, em Lima, 2014, manteve o princípio das responsabilidades diferenciadas reforçando o interesse chinês, ainda que tenha estabelecido que todos os países apresentem metas voluntárias de redução das emissões.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142016000200213&lng=en&tlng=en"
+  },
+  {
+    "title": "Temperature and Tree Size Explain the Mean Time to Fall of Dead Standing Trees across Large Scales",
+    "authors": [
+      "Antje Gärtner,",
+      "Anna Maria Jönsson,",
+      "Daniel B. Metcalfe,",
+      "Thomas A. M. Pugh,",
+      "Torbern Tagesson,",
+      "Anders Ahlström"
+    ],
+    "doi": "https://doi.org/10.3390/f14051017",
+    "journalVolume": "Vol. 14,\n                                no. 1017\n                                \n                                  p.\n                                  1017",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Dead standing trees (DSTs) generally decompose slower than wood in contact with the forest floor. In many regions, DSTs are being created at an increasing rate due to accelerating tree mortality caused by climate change. Therefore, factors determining DST fall are crucial for predicting dead wood turnover time but remain poorly constrained. Here, we conduct a re-analysis of published DST fall data to provide standardized information on the mean time to fall (MTF) of DSTs across biomes. We used multiple linear regression to test covariates considered important for DST fall, while controlling for mortality and management effects. DSTs of species killed by fire, insects and other causes stood on average for 48, 13 and 19 years, but MTF calculations were sensitive to how tree size was accounted for. Species’ MTFs differed significantly between DSTs killed by fire and other causes, between coniferous and broadleaved plant functional types (PFTs) and between managed and unmanaged sites, but management did not explain MTFs when we distinguished by mortality cause. Mean annual temperature (MAT) negatively affected MTFs, whereas larger tree size or being coniferous caused DSTs to stand longer. The most important explanatory variables were MAT and tree size, with minor contributions of management and plant functional type depending on mortality cause. Our results provide a basis to improve the representation of dead wood decomposition in carbon cycle assessments.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/5/1017"
+  },
+  {
+    "title": "Urban Green Corridors Analysis for a Rapid Urbanization City Exemplified in Gaoyou City, Jiangsu",
+    "authors": [
+      "Hefei Wang,",
+      "Zongping Pei"
+    ],
+    "doi": "https://doi.org/10.3390/f11121374",
+    "journalVolume": "Vol. 11,\n                                no. 1374\n                                \n                                  p.\n                                  1374",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The undergoing trend and development towards urbanization and the consequences of socio-ecological and climate change are increasing the pressure on cities worldwide. The planning of urban green and blue spaces is essential for sustainable urban development, especially for the conservation of urban ecosystems in fast-growing cities. In this context, the spatial-explicit and ecological connectivity analyses of urban green infrastructure are helpful tools for planning and the evaluation of spatial patterns and their changes for the sustainability of urban development. The aim of this study is to understand the influence of urban expansion on the urban green corridors. In this paper, we present an analysis of ecological networks for green infrastructure planning at the city level, making the most out of morphological spatial pattern analysis (MSPA) techniques and social-ecological analysis methods. The findings reveal the changes of spatial patterns of urban green and blue areas in Gaoyou city and disclose its ecological corridors and connectivity from 1990 to 2012. The urban green corridors analysis method proposed here can be used in other cities and allow for the production of spatially detailed urban ecological connectivity assessment and monitoring. Recommendations to enhance and conserve green corridors and ecological networks such as reserving networks in the east of the example city have been concluded. The conclusion obtained using our spatial analysis method can be used in other municipalities to serve as spatial-explicit tools for urban green spaces and land use planning.",
+    "readLink": "https://www.mdpi.com/1999-4907/11/12/1374"
+  },
+  {
+    "title": "Expert’s opinion on Irish potato farmers awareness and preferences towards climate smart agriculture practices attributes in Kenya; A conjoint analysis",
+    "authors": [
+      "Robert John O Ogola,",
+      "Kevin Okoth Ouko"
+    ],
+    "doi": "https://doi.org/10.1080/23311932.2021.1968163",
+    "journalVolume": "Vol. 7,\n                                no. 1",
+    "issn": "2331-1932 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Agriculture",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/oafa",
+    "abstract": "Climate change is an environmental threat to all sectors, especially the agricultural sector around the globe. Climate Smart Agriculture (CSA) is one of the essential strategies to overcome low productivity, adaptation and mitigation problems in the face of global climate change challenges in developing countries including Kenya. Despite considerable efforts to improve adoption of CSA practices in Kenya, increasing awareness does not necessarily imply that farmers have access to innovative CSA practices preferred. There is no empirical evidence on how previous research adequately addressed how CSA attributes are compatible with Irish potato farmers’ awareness and preferences. A Delphi study was conducted to elicit information on farmers awareness and preference towards CSA practices and their pillar attributes from 22 experts from varied Irish potato and climate research organizations in Kenya. Descriptive statistics were used to analyse farmers awareness of CSA practices while conjoint experiment method was employed to identify the most preferred attributes of CSA pillars. The results showed that farmers were aware (76%) of the listed CSA practices even though the CSA practices uptake was still low (40%). Furthermore, the findings indicated high adaptation, medium mitigation and high productivity were the most preferred CSA combination across the pillars by the farmers. Contrary to this low adaptation, low mitigation and low productivity were the least preferred CSA combination across the pillars. In addition, the result revealed that adaptation and mitigation were the most important factors that influence farmers preferences for CSA practices in Irish potato farming. Based on these findings, the study, therefore, calls for the need to set the level of priority towards climate change and adaptation and establish a solid strategy of creating awareness in the implementation of CSA practices. There is a need to plan for a coordinated and effective capacity-building effort focusing on CSA pillars tradeoffs.",
+    "readLink": "http://dx.doi.org/10.1080/23311932.2021.1968163"
+  },
+  {
+    "title": "Sensory Qualities of Oysters Unaltered by a Short Exposure to Combined Elevated pCO2 and Temperature",
+    "authors": [
+      "Anaëlle J. Lemasson,",
+      "Victor Kuri,",
+      "Jason M. Hall-Spencer,",
+      "Jason M. Hall-Spencer,",
+      "Stephen Fletcher,",
+      "Stephen Fletcher,",
+      "Roy Moate,",
+      "Antony M. Knights"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2017.00352",
+    "journalVolume": "Vol. 4",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Reliance on the marine environment for the provision of food is ever-increasing, but future climate change threatens production. Despite this concern, the impact on seafood quality and success of the seafood industry is unknown. Using a short-term study, we test these concerns using a major aquaculture species—Crassostrea gigas—exposing them to three acidification and warming scenarios: (1) ambient pCO2 (~400 ppm) & control temperature (15°C), (2) ambient pCO2 (~400 ppm) & elevated temperature (20°C), (3) elevated pCO2 (~1,000 ppm) & elevated temperature (20°C). Oyster quality was assessed by scoring appearance, aroma, taste, and overall acceptability. A panel of five experts was asked to score nine oysters—three from each treatment—according to agreed criteria. Results indicate that these levels of acidification and warming did not significantly alter the sensory properties of C. gigas, and notably the overall acceptability remained unchanged. Non-statistically supported trends suggest that several sensory attributes—opacity, mouthfeel, aspect of meat, shininess, meat resistance, meat texture, and creaminess—may improve under acidification and warming scenarios. These findings can be considered positive for the future of the aquaculture and food sectors. Crassostrea gigas therefore is expected to remain a key species for food security that is resilient to climate change, whilst retaining its valuable attributes.",
+    "readLink": "http://journal.frontiersin.org/article/10.3389/fmars.2017.00352/full"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "title": "A Simple Methodology for Estimating the Potential Biomethane Production in a Region: Application in a Case Study",
+    "authors": [
+      "Eduardo Sánchez Nocete,",
+      "Javier Pérez Rodríguez"
+    ],
+    "doi": "https://doi.org/10.3390/su142315978",
+    "journalVolume": "Vol. 14,\n                                no. 15978\n                                \n                                  p.\n                                  15978",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Biomethane is an example of a biofuel that is currently gaining interest due to its possible use as a substitute for natural gas and due to its generation in a “power to gas” production scheme. It can be injected into the gas network under certain purity requirements. It can also act as a source for the production of “green hydrogen”. This paper proposes a simple methodology to estimate the potential to obtain biomethane through the anaerobic digestion of biowaste in a delimited region. The mentioned methodology consists of the following main steps: (i) estimation of the potential biowaste from different sources in the region; (ii) characterization of each type of biowaste production; (iii) estimation of biogas production for each type of biowaste according to the selected anaerobic digestion process; and (iv) estimation of potential biomethane production through the purification of the biogas produced. The different types of biowaste that this methodology considers are the organic fraction of municipal solid waste, agroindustrial solid biowaste (biowaste from the food industry and livestock), and sewage sludge (urban and industrial). Energy crops are not considered because they are not treated as biowaste. After defining the proposed methodology, it is applied to a Spanish case study, in which the potential to obtain biomethane in Spain in 2019 is estimated. The results show that in Spain, around 4499 ktoe could be obtained if all biowaste was destined to produce biomethane, which would allow 31.6% of the final demand for natural gas to be satisfied in a sustainable way. In that sense, a double effect on climate change mitigation can be obtained, reducing use of fossil fuels and minimizing the final biowaste disposal into landfills.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/23/15978"
+  },
+  {
+    "title": "Estimating the Risk of River Flow under Climate Change in the Tsengwen River Basin",
+    "authors": [
+      "Hsiao-Ping Wei,",
+      "Keh-Chia Yeh,",
+      "Jun-Jih Liou,",
+      "Yung-Ming Chen,",
+      "Chao-Tzuen Cheng"
+    ],
+    "doi": "https://doi.org/10.3390/w8030081",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  p.\n                                  81",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "This study evaluated the overflow risk of the Tsengwen River under a climate change scenario by using bias-corrected dynamic downscaled data as inputs for a SOBEK model (Deltares, the Netherlands). The results showed that the simulated river flow rate at Yufeng Bridge (upstream), Erxi Bridge (midstream), and XinZong (1) (downstream) stations are at risk of exceeding the management plan’s flow rate for three projection periods (1979–2003, 2015–2039, 2075–2099). After validation with the geomorphic and hydrological data collected in this study, the frequency at which the flow rate exceeded the design flood was 2 in 88 events in the base period (1979–2003), 6 in 82 events in the near future (2015–2039), and 10 in 81 events at the end of the century (2075–2099).",
+    "readLink": "http://www.mdpi.com/2073-4441/8/3/81"
+  },
+  {
+    "title": "Fertilizers for food and nutrition security in sub-Saharan Africa: An overview of soil health implications",
+    "authors": [
+      "Christian Dimkpa,",
+      "William Adzawla,",
+      "Renu Pandey,",
+      "Williams K. Atakora,",
+      "Anselme K. Kouame,",
+      "Martin Jemo,",
+      "Prem S. Bindraban"
+    ],
+    "doi": "https://doi.org/10.3389/fsoil.2023.1123931",
+    "journalVolume": "Vol. 3",
+    "issn": "2673-8619 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Chemistry",
+      "Technology: Engineering (General). Civil engineering (General): Engineering geology. Rock mechanics. Soil mechanics. Underground construction"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/soil-science",
+    "abstract": "Sub-Saharan Africa (SSA) faces chronic food insecurity associated with soil degradation and the peculiar aftermath of climate change and exacerbated by rising population and historically poor agricultural practices. Notably, use of mineral fertilizers has the potential to counteract soil degradation in SSA; it drives an increased agricultural production required to feed the rising population while sustaining the quality and health of soils. However, limited financial resources deprive SSA of the promise of fertilizers, wherein application rates are historically low, and regimes are characterized by unbalanced nutrient composition and poor fertilizer quality. Although current global fertilizer use is generally characterized by low efficiency, SSA is most affected due to the already low usage and the quality of available fertilizer products. About 70% of fertilizer-nitrogen is lost through unregulated transformation to ammonia, nitrous oxide, and nitrate that are either volatilized or emitted into the atmosphere or leached into water bodies. Similarly, the preponderance of fertilizer-phosphorus is lost via run-off and leaching, unavailing it to plants while overloading streams and rivers and, together with nitrate, causing eutrophication. These environmental problems are accentuated in SSA where fertilizer quantity and quality issues are already a limiting factor. Notably, recent advances happening outside of SSA indicate that nutrients, when strategically formulated, such as by nano packaging, (bio)polymer encapsulation, and tunable to respond to environmental cues, can provide multiple outcomes, particularly, healthy soils with higher productivity. Therefore, presumably, a proper synthesis of the gamut of soil properties influencing plant nutrient release and availability, options for plant exposure and uptake is critical for realizing these benefits in SSA. Despite these possibilities, there is a lack of deeper context on fertilizer-related issues as they affect food and nutrition security and the health of soils in SSA. This paper provides an overview of the fertilizer-nutrient and associated agronomic, food insecurity and soil environmental challenges and opportunities, which though not exclusive to SSA per se, can be reasoned with the peculiarity of the region. This provides the impetus to increase fertilizer use efficiency, improve soil and environmental health, sustainable crop production, and food and nutrition security in SSA.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fsoil.2023.1123931/full"
+  },
+  {
+    "title": "Status and prospects of maize research in Nepal",
+    "authors": [
+      "Govind KC,",
+      "Tika B Karki,",
+      "Jiban Shrestha,",
+      "Buddhi B Achhami"
+    ],
+    "doi": "https://doi.org/10.3126/jmrd.v1i1.14239",
+    "journalVolume": "Vol. 1,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2467-9291 (Print)",
+    "publisher": "2467-9305 (Online)",
+    "countryOfPublisher": "Government of Nepal, Nepal Agricultural Research Council, National Maize Research Program",
+    "lcc": [
+      "Nepal",
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://nmrp.gov.np/journal-of-maize-research-and-development/",
+    "abstract": "Food and nutritional securities are the major threats coupled with declining factor productivity and climate change effects in Nepal. Maize being the principal food crops of the majority of the hill people and source of animal feed for ever growing livestock industries in Terai of Nepal. Despite the many efforts made to increase the maize productivity in the country, the results are not much encouraging. Many of the maize based technologies developed and recommended for the farmers to date are not fully adopted. Therefore, problem is either on technology development or on dissemination or on both. Considering the above facts, some of the innovative and modern approaches of plant breeding and crop management technologies to increase the maize yield need to be developed and disseminated. There is a need for location-specific maize production technologies, especially for lowland winter maize, marginal upland maize production system, and resource poor farmers. Research efforts can be targeted to address both yield potential and on-farm yields by reducing the impacts of abiotic and biotic constraints. Therefore, in order to streamline the future direction of maize research in Nepal, an attempt has been made in this article to highlight the present status and future prospects with few key pathways.",
+    "readLink": "http://www.nepjol.info/index.php/JMRD/article/view/14239"
+  },
+  {
+    "title": "Prediction of Spatiotemporal Invasive Risk by the Red Imported Fire Ant (Hymenoptera: Formicidae) in South Korea",
+    "authors": [
+      "Dae-hyeon Byeon,",
+      "Jong-Ho Lee,",
+      "Heung-Sik Lee,",
+      "Youngjin Park,",
+      "Sunghoon Jung,",
+      "Wang-Hee Lee"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy10060875",
+    "journalVolume": "Vol. 10,\n                                no. 875\n                                \n                                  p.\n                                  875",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "In this study, we analyzed the potential distribution of red imported fire ant, Solenopsis invicta Buren (Hymenoptera: Formicidae), in response to climate change in South Korea using CLIMEX, a species distribution model. We further attempted to evaluate the risk of the distribution/invasion and subsequent dispersion by considering climatic suitability, and functional characteristics of cities and covered cultivated areas. The climatic suitability has extended from the southern and coastal regions to inland regions due to climate change. The number of areas with EI (Ecoclimatic Index) values of more than 20 was 9 (12%) in the current climate; the value was assumed to increase to 23% (2040), 24% (2060), 42% (2080), and 62% (2100) from the South Korea coast to inland. We predicted that May to October would be the most active period in seven domestic high-habitation areas. We also analyzed the invasive risk of the red imported fire ant into covered domestic cultivation areas. Considering climatic suitability, we determined that Jeju, Pohang, Busan, Ulsan, Mokpo, and Gosan would be the most affected areas. This study can provide baseline data for the management of invasive species nationally and for regional control through predictions of the probability of settlement and direction of spread.",
+    "readLink": "https://www.mdpi.com/2073-4395/10/6/875"
+  },
+  {
+    "title": "Spatiotemporal Variation and Climate Influence Factors of Vegetation Ecological Quality in the Sanjiangyuan National Park",
+    "authors": [
+      "Qianying Sun,",
+      "Weiwei Liu,",
+      "Yanni Gao,",
+      "Junsheng Li,",
+      "Chunyan Yang"
+    ],
+    "doi": "https://doi.org/10.3390/su12166634",
+    "journalVolume": "Vol. 12,\n                                no. 6634\n                                \n                                  p.\n                                  6634",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The Sanjiangyuan National Park is the first Chinese national park system, and the ecological environment is inherently fragile and sensitive. Therefore, for environmental protection, it is imperative to understand the spatiotemporal variation characteristics of the ecological quality of vegetation and its climate influence factors. We used the MODIS normalized difference vegetation index (NDVI) dataset, meteorological dataset, and Carnegie–Ames–Stanford Approach (CASA) model to investigate the spatiotemporal patterns and change trends of the NDVI and the net primary productivity (NPP) of the vegetation in the Sanjiangyuan National Park from 2000 to 2016. A linear regression model was used to explore the influence of the ecological quality of vegetation and climatic factors. The results showed that (1) the NDVI and NPP were high in the southeast area and low in the northwest area. The Yangtze River headwater region had the lowest NDVI (0–0.3) and NPP (0–100 gC/m2). The Lancang River had the highest NDVI (0.4–0.8) and NPP (100–250 gC/m2). (2) From 2000–2016, approximately 23.46% of the area showed a significant positive trend of the NDVI that was mainly distributed in the prairie areas in the midlands and the north of the Yangtze River headwater region, and was scattered in the midlands and the north of Yellow River headwater region. Furthermore, 24.32% of the NPP was determined to have increased significantly, which was mainly distributed in the midlands and the north of the Yangtze River headwater region, as well as the midlands and the east of the Yellow River headwater region. (3) The vegetation growth in the Sanjiangyuan National Park was regulated by both water and heat conditions. The NDVI was significantly affected by precipitation during the growing season and by the annual precipitation. In addition, the NPP was significantly affected by temperature during the growing season and by the annual average temperature of the study area.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/16/6634"
+  },
+  {
+    "title": "A Knowledge Review on Integrated Landscape Approaches",
+    "authors": [
+      "Norma M. Pedroza-Arceo,",
+      "Norbert Weber,",
+      "Alejandro Ortega-Argueta"
+    ],
+    "doi": "https://doi.org/10.3390/f13020312",
+    "journalVolume": "Vol. 13,\n                                no. 312\n                                \n                                  p.\n                                  312",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Holistic and multi-transdisciplinary approaches, where multiple goals are achieved in order to improve resilience in societies and ecosystems in the short, medium, and long term, are ideal, even utopian. Hence, science has come together with practical experiences that highlight the importance of working at a ‘landscape’ level. Landscapes, as socio-ecological systems, are key for sustainability and sustainable development, and they represent a realistic unit to interconnect local, national, and ultimately global scales. International efforts regarding holistic natural resources management approaches are not new; however, they are currently pointing to an Integrated Landscape Approach (ILA). Based on a documentation review and analysis, the present article review aims to promote the disambiguation of the ILA concept and provide an updated synthesis knowledge on the ILA. Especially for the forest sector, the ILA has been identified as particularly beneficial, strongly highlighted by the scientific literature, and with an infrastructure of organizations that are encouraging it. The paper presents the rationale of the science behind the concept, as well as the main principles, we identified a variety of definitions with some significant points of overlap, we highlight the inclusion of ILAs in the current international arena and the relationship of ILA’s and Jurisdictional Approaches, and we make a review of the ILA in a challenging world of rapid change. Our review recognizes ILAs socio-ecological management strategy to reconcile conservation, development, climate change, and human well-being goals. ILAs naturally have a social and idealistic construction behind it, which might be just as necessary andsignificant as the journey toward sustainability itself.",
+    "readLink": "https://www.mdpi.com/1999-4907/13/2/312"
+  },
+  {
+    "title": "Aboveground net primary productivity not CO2 exchange remain stable under three timing of extreme drought in a semi-arid steppe.",
+    "authors": [
+      "Hui Zhang,",
+      "Hua Yu,",
+      "Chaoting Zhou,",
+      "Haitao Zhao,",
+      "Xiaoqing Qian"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0214418",
+    "journalVolume": "Vol. 14,\n                                no. 3\n                                \n                                  p.\n                                  e0214418",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Precipitation patterns are expected to change in the semi-arid region within the next decades, with projected increasing in extreme drought events. Meanwhile, the timing of extreme drought also shows great uncertainty, suggesting that the timing of drought, especially during growing season, may subsequently impose stronger stress on ecosystem functions than drought itself. However, how the timing of extreme drought will impact on community productivity and carbon cycle is still not clear. In this study, three timing of extreme drought (a consecutive 30-day period without precipitation event) experiments were set up separately in early-, mid- and late-growing season in a temperate steppe in Inner Mongolia since 2013. The data, including soil water content (SWC), soil temperature (ST) chlorophyll fluorescence parameter (Fv/Fm), ecosystem respiration (Re), gross primary productivity (GPP), net ecosystem carbon absorption (NEE) and aboveground net primary productivity (ANPP) were collected in growing season (from May to September) of 2016. In this study, extreme drought significantly decreased SWC during the drought treatment but not for the whole growing season. Extreme drought decreased maximum quantum efficiency of plant photosystem II (Fv/Fm) under \"optimum\" value (0.75~0.85) of two dominant species (Leymus chinensis and Stipa grandis). While ANPP kept stable under extreme drought treatments due to the different responses of two dominant species, which brought a compensating effect in relative abundance and biomass. In addition, only early-growing season drought significantly decreased the average Re (P < 0.01) and GPP (P < 0.01) and depressed net CO2 uptake (P < 0.01) than mid- and late-growing season drought. ST and SWC influenced the changes of GPP directly and indirectly through photosynthetic ability of the dominant species by path analysis. Our results indicated that the timing of drought should be considered in carbon cycle models to accurately estimate carbon exchange and productivity of semi-arid grasslands in the context of changing climate.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0214418"
+  },
+  {
+    "title": "The highly toxic and cryptogenic clinging jellyfish Gonionemus sp. (Hydrozoa, Limnomedusae) on the Swedish west coast",
+    "authors": [
+      "Annette F. Govindarajan,",
+      "Björn Källström,",
+      "Erik Selander,",
+      "Carina Östman,",
+      "Thomas G. Dahlgren"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.6883",
+    "journalVolume": "Vol. 7\n                                \n                                \n                                  p.\n                                  e6883",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "The clinging jellyfish Gonionemus sp. is a small hydromedusa species known historically from the Swedish west coast but not reported in recent times. This species is thought to be native to the northwest Pacific where it is notorious for causing severe stings in humans and is considered invasive or cryptogenic elsewhere. This year, unlike in the past, severe stings in swimmers making contact with Gonionemus sp. medusae occurred in Swedish waters from a sheltered eelgrass bed in the inner Skagerrak archipelago. To the best of our knowledge, this is only the second sting record of Gonionemus sp. from the Northeast Atlantic—with the first record occurring off the Belgian coast in the 1970s. Stinging Gonionemus sp. medusae have also been recently reported from the northwestern Atlantic coast, where, like on the Swedish coast, stings were not reported in the past. We analyzed sea surface temperature data from the past 30 years and show that 2018 had an exceptionally cold spring followed by an exceptionally hot summer. It is suggested that the 2018 temperature anomalies contributed to the Swedish outbreak. An analysis of mitochondrial COI sequences showed that Swedish medusae belong to the same clade as those from toxic populations in the Sea of Japan and northwest Atlantic. Gonionemus sp. is particularly prone to human-mediated dispersal and we suggest that it is possible that this year’s outbreak is the result of anthropogenic factors either through a climate-driven northward range shift or an introduction via shipping activity. We examined medusa growth rates and details of medusa morphology including nematocysts. Two types of penetrating nematocysts: euryteles and b-mastigophores were observed, suggesting that Gonionemus sp. medusae are able to feed on hard-bodied organisms like copepods and cladocerans. Given the now-regular occurrence and regional spread of Gonionemus sp. in the northwest Atlantic, it seems likely that outbreaks in Sweden will continue. More information on its life cycle, dispersal mechanisms, and ecology are thus desirable.",
+    "readLink": "https://peerj.com/articles/6883.pdf"
+  },
+  {
+    "title": "Evaluation of OPTIMISE (Online Programme to Tackle Individual’s Meat Intake Through Self-regulation): Cohort Study",
+    "authors": [
+      "Cristina Stewart,",
+      "Carmen Piernas,",
+      "Kerstin Frie,",
+      "Brian Cook,",
+      "Susan A Jebb"
+    ],
+    "doi": "https://doi.org/10.2196/37389",
+    "journalVolume": "Vol. 24,\n                                no. 12\n                                \n                                  p.\n                                  e37389",
+    "issn": "1438-8871 (Online)",
+    "publisher": "JMIR Publications",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.jmir.org",
+    "abstract": "BackgroundThere is an urgent need to reduce society’s meat consumption to help mitigate climate change and reduce noncommunicable diseases. ObjectiveThis study aimed to investigate changes in meat intake after participation in an online, multicomponent, self-regulation intervention. MethodsWe conducted a pre-post observational study among adult meat eaters in the United Kingdom who signed up to a website offering support based on self-regulation theory to reduce meat consumption. The program lasted 9 weeks (including a 1-week baseline phase, a 4-week active intervention phase, and a 4-week maintenance phase), comprising self-monitoring, goal setting, action planning, and health and environmental feedback. Meat intake was estimated during weeks 1, 5, and 9 using a 7-day meat frequency questionnaire. We analyzed the change in mean daily meat intake from baseline to week 5 and week 9 among those reporting data using a hierarchical linear mixed model. We assessed changes in attitudes toward meat consumption by questionnaire and considered the acceptability and feasibility of the intervention. ResultsThe baseline cohort consisted of 289 participants, of whom 77 were analyzed at week 5 (26.6% of the baseline sample) and 55 at week 9 (71.4% of the week 5 sample). We observed large reductions in meat intake at 5 and 9 weeks: –57 (95% CI –70 to –43) g/day (P<.001) and –49 (95% CI –64 to –34) g/day (P<.001), respectively. Participants’ meat-free self-efficacy increased, meat-eating identities moved toward reduced-meat and non–meat-eating identities, and perceptions of meat consumption as the social norm reduced. Participants who completed the study reported high engagement and satisfaction with the intervention. ConclusionsAmong people motivated to engage, this online self-regulation program may lead to large reductions in meat intake for more than 2 months, with promising signs of a change in meat-eating identity toward more plant-based diets. This digital behavior change intervention could be offered to complement population-level interventions to support reduction of meat consumption.",
+    "readLink": "https://www.jmir.org/2022/12/e37389"
+  }
+]

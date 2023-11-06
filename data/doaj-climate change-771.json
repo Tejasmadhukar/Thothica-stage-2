@@ -1,0 +1,217 @@
+[
+  {
+    "title": "An Approach for Simulating Soil Loss from  an Agro-Ecosystem Using Multi-Agent Simulation:  A Case Study for Semi-Arid Ghana",
+    "authors": [
+      "Biola K. Badmos,",
+      "Sampson K. Agodzo,",
+      "Grace B. Villamor,",
+      "Samuel N. Odai"
+    ],
+    "doi": "https://doi.org/10.3390/land4030607",
+    "journalVolume": "Vol. 4,\n                                no. 3\n                                \n                                  pp.\n                                  607\n                                  – 626",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Soil loss is not limited to change from forest or woodland to other land uses/covers. It may occur when there is agricultural land-use/cover modification or conversion. Soil loss may influence loss of carbon from the soil, hence implication on greenhouse gas emission. Changing land use could be considered actually or potentially successful in adapting to climate change, or may be considered maladaptation if it creates environmental degradation. In semi-arid northern Ghana, changing agricultural practices have been identified amongst other climate variability and climate change adaptation measures. Similarly, some of the policies aimed at improving farm household resilience toward climate change impact might necessitate land use change. The heterogeneity of farm household (agents) cannot be ignored when addressing land use/cover change issues, especially when livelihood is dependent on land. This paper therefore presents an approach for simulating soil loss from an agro-ecosystem using multi-agent simulation (MAS). We adapted a universal soil loss equation as a soil loss sub-model in the Vea-LUDAS model (a MAS model). Furthermore, for a 20-year simulation period, we presented the impact of agricultural land-use adaptation strategy (maize cultivation credit i.e., maize credit scenario) on soil loss and compared it with the baseline scenario i.e., business-as-usual. Adoption of maize as influenced by maize cultivation credit significantly influenced agricultural land-use change in the study area. Although there was no significant difference in the soil loss under the tested scenarios, the incorporation of human decision-making in a temporal manner allowed us to view patterns that cannot be seen in single step modeling. The study shows that opening up cropland on soil with a high erosion risk has implications for soil loss. Hence, effective measures should be put in place to prevent the opening up of lands that have high erosion risk.",
+    "readLink": "http://www.mdpi.com/2073-445X/4/3/607"
+  },
+  {
+    "title": "Extreme winds over Europe in the ENSEMBLES regional climate models",
+    "authors": [
+      "S. D. Outten,",
+      "I. Esau"
+    ],
+    "doi": "https://doi.org/10.5194/acp-13-5163-2013",
+    "journalVolume": "Vol. 13,\n                                no. 10\n                                \n                                  pp.\n                                  5163\n                                  – 5172",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Extreme winds cause vast amounts of damage every year and represent a major concern for numerous industries including construction, afforestation, wind energy and many others. Under a changing climate, the intensity and frequency of extreme events are expected to change, and accurate projections of these changes will be invaluable to decision makers and society as a whole. This work examines four regional climate model downscalings over Europe following the SRES A1B scenario from the \"ENSEMBLE-based Predictions of Climate Changes and their Impacts\" project (ENSEMBLES). It investigates the projected changes in the 50 yr return wind speeds and the associated uncertainties. This is accomplished by employing the peaks-over-threshold method with the use of the generalised Pareto distribution. The models show that, for much of Europe, the 50 yr return wind is projected to change by less than 2 m s−1, while the uncertainties associated with the statistical estimates are larger than this. In keeping with previous works in this field, the largest source of uncertainty is found to be the inter-model spread, with some locations showing differences in the 50 yr return wind of over 20 m s−1 between two different downscalings.",
+    "readLink": "http://www.atmos-chem-phys.net/13/5163/2013/acp-13-5163-2013.pdf"
+  },
+  {
+    "title": "From theoretical to actual ecosystem services: mapping beneficiaries and spatial flows in ecosystem service assessments",
+    "authors": [
+      "Kenneth J. Bagstad,",
+      "Ferdinando Villa,",
+      "David Batker,",
+      "Jennifer Harrison-Cox,",
+      "Brian Voigt,",
+      "Gary W. Johnson"
+    ],
+    "doi": "https://doi.org/10.5751/ES-06523-190264",
+    "journalVolume": "Vol. 19,\n                                no. 2\n                                \n                                  p.\n                                  64",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Ecosystem services mapping and modeling has focused more on supply than demand, until recently. Whereas the potential provision of economic benefits from ecosystems to people is often quantified through ecological production functions, the use of and demand for ecosystem services has received less attention, as have the spatial flows of services from ecosystems to people. However, new modeling approaches that map and quantify service-specific sources (ecosystem capacity to provide a service), sinks (biophysical or anthropogenic features that deplete or alter service flows), users (user locations and level of demand), and spatial flows can provide a more complete understanding of ecosystem services. Through a case study in Puget Sound, Washington State, USA, we quantify and differentiate between the theoretical or in situ provision of services, i.e., ecosystems' capacity to supply services, and their actual provision when accounting for the location of beneficiaries and the spatial connections that mediate service flows between people and ecosystems. Our analysis includes five ecosystem services: carbon sequestration and storage, riverine flood regulation, sediment regulation for reservoirs, open space proximity, and scenic viewsheds. Each ecosystem service is characterized by different beneficiary groups and means of service flow. Using the ARtificial Intelligence for Ecosystem Services (ARIES) methodology we map service supply, demand, and flow, extending on simpler approaches used by past studies to map service provision and use. With the exception of the carbon sequestration service, regions that actually provided services to people, i.e., connected to beneficiaries via flow paths, amounted to 16-66% of those theoretically capable of supplying services, i.e., all ecosystems across the landscape. These results offer a more complete understanding of the spatial dynamics of ecosystem services and their effects, and may provide a sounder basis for economic valuation and policy applications than studies that consider only theoretical service provision and/or use.",
+    "readLink": "http://www.ecologyandsociety.org/vol19/iss2/art64/"
+  },
+  {
+    "title": "Integrated assessment of the influence of climate change on current and future intra-annual water availability in the Vaal River catchment",
+    "authors": [
+      "Akanbi T. Remilekun,",
+      "Ndarana Thando,",
+      "Davis Nerhene,",
+      "Emma Archer"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2020.269",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  pp.\n                                  533\n                                  – 551",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "Increasing water demand due to population growth, economic expansion and the need for development puts a strain on the supply capacity of the Vaal River catchment in South Africa. Climate change presents additional challenges in the catchment which supports the country's economic hub, more than 30% of its population and over 70% of its maize production. This study evaluates the influence of climate change on current and future intra-annual water availability and demand using a multi-tiered approach where climate scenarios, hydrological modelling and socio-economic considerations were applied. Results shows exacerbated water supply challenges for the future. Temperature increases of between 0.07 and 5 °C and precipitation reductions ranging from 0.4 to 30% for Representative Concentration Pathways (RCPs) 4.5 and 8.5, respectively, are also predicted by the end of the century. The highest monthly average streamflow reductions (8–10%) are predicted for the summer months beyond 2040. Water Evaluation and Planning (WEAP) simulations project an increase in future water requirements, gaps in future water assurance and highlight limitations in existing management strategies. The study recommends a combination of adaptation plans, climatic/non-climatic stressor monitoring, wastewater-reuse, conservation, demand management and inter-basin transfers to reduce future uncertainty in monthly water sustainability.",
+    "readLink": "http://jwcc.iwaponline.com/content/12/2/533"
+  },
+  {
+    "title": "Focus on Climate Action: What Level of Synergy and Trade-Off Is There between SDG 13; Climate Action and Other SDGs in Nepal?",
+    "authors": [
+      "Prashamsa Thapa,",
+      "Brijesh Mainali,",
+      "Shobhakar Dhakal"
+    ],
+    "doi": "https://doi.org/10.3390/en16010566",
+    "journalVolume": "Vol. 16,\n                                no. 566\n                                \n                                  p.\n                                  566",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The Sixth Assessment Report of Inter-Governmental Panel on Climate Change (IPCC) has highlighted the urgency of accelerated climate actions harnessing synergies and minimizing trade-offs with various SDG. This calls for a clear understanding of linkages between climate goals and other SDGs at national level for formulating synergistic policies and strategies and developing different sectoral programs and coherent cross-sectoral policies. This is even more important for least developed countries such as Nepal where these linkages are less understood and development challenges are multifaceted. In this context, this paper aims to evaluate potential synergies and trade-offs among selected SDGs and their associated targets in Nepal in a linear pairwise comparison. Synergies and trade-offs related to climate action (SDG 13), access to energy (SDG 7), sustainable consumption and production (SDG 12), and life on land (SDG 15) have been evaluated using historical data for the period from 1990 to 2018 employing a mixed methods approach. Network analysis to map the conceptual linkages between the SDGs and their targets was combined with the advance sustainability analysis (ASA) to quantitatively evaluate the synergy and trade-offs between SDGs. The results illustrate the presences of a continual trade-off between emission reductions targets of SDG 13 with per capita energy consumption and share of renewable energy of SDG 7, land use for agricultural production target of SDG 12, and forest area target of SDG 15. This indicates that climate action is strongly interlinked with GHG emissions from economic activities and energy consumption. The results of the study represent a valuable input for the policy makers, supporting coherent and sustainable development planning as Nepal plans to graduate to a middle-income country.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/1/566"
+  },
+  {
+    "title": "Seagrass contribution to blue carbon in a shallow karstic coastal area of the Gulf of Mexico",
+    "authors": [
+      "Tania C. Cota Lucero,",
+      "Jorge A. Herrera-Silveira"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.12109",
+    "journalVolume": "Vol. 9\n                                \n                                \n                                  p.\n                                  e12109",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Seagrass meadows provide multiple ecosystem services, including carbon sequestration. However, seagrass meadows are among the most threatened ecosystems worldwide. Determining the magnitude of the carbon stocks in seagrass meadows at the regional scale allows for the estimation of their global magnitude and identification of their importance in regional environmental mitigation strategies. The objective of the present study was to determine the structure of seagrass meadows in the Los Petenes Biosfera Reserve (LPBR) and evaluate their contributions to sinks of carbon in this system, located in Yucatan, which is considered the region with the largest seagrass extension in Mexico. Analyses of the seagrass meadows were executed following standardized protocols (spectral analysis, and isotope and carbon stock analyses). The LPBR stores an average of 2.2 ± 1.7 Mg C ha−1 in living biomass and 318 ± 215 Mg C ha−1 in sediment (top 1 m), and this carbon stock decreases with water depth. The seagrass community extends 149,613 ha, which represents the largest organic carbon stock (47 Tg C) documented in seagrass meadows in Mexico. Macroalgae and seagrass represent 76% of the organic carbon stored in sediment. If LPBR seagrass meadows are lost due to natural or anthropogenic impacts, 173 Tg CO2eqemissions could be released, which corresponds to the emissions generated by fossil fuel combustion of 27% of the current Mexican population. This information emphasizes the importance of seagrass meadows as a carbon sink in the region and their contribution to climate change mitigation, thus allowing for the implementation of necessary conservation strategies.",
+    "readLink": "https://peerj.com/articles/12109.pdf"
+  },
+  {
+    "title": "A Model between Near-Surface Air Temperature Change and Dynamic Influencing Factors in the Eastern Tibetan Plateau, China",
+    "authors": [
+      "Wentao Xu,",
+      "Qinjun Wang,",
+      "Dingkun Chang,",
+      "Jingjing Xie,",
+      "Jingyi Yang"
+    ],
+    "doi": "https://doi.org/10.3390/s22166196",
+    "journalVolume": "Vol. 22,\n                                no. 6196\n                                \n                                  p.\n                                  6196",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Climate change, characterized by global warming, is profoundly affecting the global environment, politics, economy, and social security. Finding the main causes of climate change and determining their quantitative contributions are key points to making climate decisions on responses to climate change. The Tibetan Plateau (TP) is sensitive to global climate change. Taking the 100 km buffer zones of 45 meteorological stations in the eastern TP as research objects, we conducted an experimental study on temperature change and its influencing factors. Using the least squares multivariate statistical analysis method, a model between the annual and seasonal standardized temperature change and its dynamic influencing factors in the past 20 years was established. The results showed that, in the eastern TP, temperature change was affected by different factors in different periods. Vegetation cover and snow cover were the most correlated factors to temperature change. The influence of carbon dioxide, vegetation cover, and water cover was subject to seasonal changes. Urban cover and bare land cover did not pass the t-test. This research not only provides a theoretical basis for the analysis of temperature change over the TP, but also points out the direction for the analysis of temperature change causes in three polar regions.",
+    "readLink": "https://www.mdpi.com/1424-8220/22/16/6196"
+  },
+  {
+    "title": "Understanding the Impact of the Intercropping System on Carbon Dioxide (CO2) Emissions and Soil Carbon Stocks in Limpopo Province, South Africa",
+    "authors": [
+      "Tlou E. Mogale,",
+      "Kwabena K. Ayisi,",
+      "Lawrence Munjonji,",
+      "Yehenew G. Kifle,",
+      "Kabisheng E. Mabitsela"
+    ],
+    "doi": "https://doi.org/10.1155/2023/6307673",
+    "journalVolume": "Vol. 2023",
+    "issn": "1687-8159 (Print)",
+    "publisher": "1687-8167 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/ija/",
+    "abstract": "Understanding the carbon dioxide emission rates under different agricultural practices is a critical step in determining the role of agriculture in greenhouse gas emissions. One of the challenges in advocating for an intercropping system as a sustainable practice in the face of climate change is the lack of information on how much CO2 is emitted by the system. A factorial randomized complete block design study was set up at two distinct agroecological locations (Syferkuil and Ofcolaco) in the Limpopo Province of South Africa to investigate carbon dynamics in sorghum-cowpea intercropping and sole cropping system over two seasons. Intercropping system emitted less CO2 compared to sole cropping system. In 2018/19 at Syferkuil and 2020/21 at Ofcolaco, intercropping systems emitted 11% and 19% less CO2, respectively, than sole cropping systems. In both agroecological regions, low cowpea density consistently resulted in higher CO2 emissions than high density. During the 2018/19 cropping season, sorghum emitted more CO2 of 5.87 t·ha−1 than cowpea with 5.14 t·ha−1 in a sole cropping system at Syferkuil. Cowpea, on the other hand, emitted more CO2 of 6.5 t·ha−1 and 10.18 t·ha−1 than sorghum during the 2020/21 cropping season at Syferkuil and Ofcolaco, respectively. Furthermore, intercropping improved the carbon emission efficiency (CEE) of the individual crops in the system. The treatments used in the intercropping and sole cropping systems had a significant impact on the strength of the relationship between carbon stocks and CEE. Our results revealed that sorghum-cowpea intercropping system at a relatively higher cowpea density in a no-till system reduces the amount of CO2 lost to the atmosphere. The system can thus, be promoted as one of the sustainable farming practices to reduce emissions and improve carbon storage in the soil.",
+    "readLink": "http://dx.doi.org/10.1155/2023/6307673"
+  },
+  {
+    "title": "Global CO2 Consumption by Silicate Rock Chemical Weathering: Its Past and Future",
+    "authors": [
+      "Sirui Zhang,",
+      "Xiaoyong Bai,",
+      "Cuiwei Zhao,",
+      "Qiu Tan,",
+      "Guangjie Luo,",
+      "Jinfeng Wang,",
+      "Qin Li,",
+      "Luhua Wu,",
+      "Fei Chen,",
+      "Chaojun Li,",
+      "Yuanhong Deng,",
+      "Yujie Yang,",
+      "Huipeng Xi"
+    ],
+    "doi": "https://doi.org/10.1029/2020EF001938",
+    "journalVolume": "Vol. 9,\n                                no. 5\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Silicate rock weathering maintains a stable and long‐term absorption of CO2. However, the magnitude, spatial pattern, and evolution characteristics of global silicate rock weathering carbon sink (SCS) remain unclear. To solve this problem, based on high‐precision hydrometeorological data (1996–2017) and CMIP5 data (2041–2060), using the Celine model, we calculated the global silicate rock weathering carbon sink flux (SCSF) magnitude and spatio‐temporal distribution for 1996–2017. We also predicted the SCSF under two future greenhouse gas emission scenarios (RCP 4.5 and RCP 8.5). Then, we produced a spatial data set (0.5 × 0.5) of global SCSF from 1996 to 2017 and found that the global average annual SCSF was 1.67 t/km2/yr, and the SCS was 127.11 Tg/yr. In particular, Brazil's silicate rock contribution accounts for nearly a quarter of the global SCS (24.41%). Although the GEM‐CO2 model is now widely used, the SCSF, without considering the temperature, may be overestimated by 5.4%, and the maximum contribution of temperature to it can reach 240 kg/km2/yr. Moreover, the global SCS is now showing a downward trend, but the global emission of greenhouse gases in the future (2041–2060) will continue to increase the carbon sink capacity (23.8%) due to temperature changes. In summary, we have produced a set of high‐resolution spatiotemporal data of the past and the future. The above results fill up the large‐scale data gap of SCSF and provide a scientific basis for quantitatively assessing the impact of climate change on SCS.",
+    "readLink": "https://doi.org/10.1029/2020EF001938"
+  },
+  {
+    "title": "Multi-Criteria Method for Sustainable Design of Energy Conversion Systems",
+    "authors": [
+      "Kathleen Mallard,",
+      "Vincent Debusschere,",
+      "Lauric Garbuio"
+    ],
+    "doi": "https://doi.org/10.3390/su12166513",
+    "journalVolume": "Vol. 12,\n                                no. 6513\n                                \n                                  p.\n                                  6513",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Energy production systems for isolated communities lacking national energy grids are, in many countries, associated with first energy access of rural or developing regions. Those communities require innovative design methods to select relevant solutions for sustainable developments in a context of continuously strengthening climate change conditions. The design of an innovative solution goes through multiple stages. After identifying opportunities, analyzing a context and identifying a problem, we are interested here in the process of imagining solutions and guiding reflections so that the resulting solutions are sustainable. Sustainability is analyzed from technical, economic, environmental and social angles. The two main visions for imagining solutions, the value proposition and the technical solution, are discussed. We are then developing a multi-criteria method of sustainable design to imagine the technical solution of an electricity production system in a context of first access to energy for isolated communities. This method serves as decision and discussion support between all stakeholders (community, decision makers, project managers) so that they collectively build a sustainable solution. As the exchanges progress, criteria from different fields meet and complement each other to allow the development of the specifications for the energy production solution which will be ultimately developed.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/16/6513"
+  }
+]

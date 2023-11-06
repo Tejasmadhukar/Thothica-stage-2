@@ -1,0 +1,227 @@
+[
+  {
+    "title": "An Operational Web-Based Indicator System for Integrated Coastal Zone Management",
+    "authors": [
+      "Henning Sten Hansen,",
+      "Morten Fuglsang"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi3010326",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  326\n                                  – 344",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "Coastal zones are under severe pressure from anthropogenic activities, as well as on-going climate change with associated sea level rise and increased storminess. These challenges call for integrated and forward looking solutions. The concept on Integrated Coastal Zone Management, as defined during the last twenty years, provides the overall policy frames, but tools to support the planning and management efforts are almost lacking. Furthermore, the forward-looking dimension to embrace the effects of climate change is nearly absent in most implementations. The BLAST project, financed by the European Union Regional Fund through the INTERREG IV North Sea Region Programme, aimed at developing a web-based decision support system to assist Integrated Coastal Zone Management from a climate change perspective, and the current paper describes the methods used and the computing platform for implementing a decision support system. The software applied in developing the system is mainly Open Source components, thus, facilitating a more widespread use of the system.",
+    "readLink": "http://www.mdpi.com/2220-9964/3/1/326"
+  },
+  {
+    "title": "Biomass partitioning of C3- and C4-dominated grasslands in response to climatic variability and climate extremes",
+    "authors": [
+      "Md Lokman Hossain,",
+      "Jianfeng Li"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac027a",
+    "journalVolume": "Vol. 16,\n                                no. 7\n                                \n                                  p.\n                                  074016",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The rising temperature, altering precipitation, and increasing extreme events under climate warming affect the stability and sustainability of grassland ecosystems. The dynamics of above-ground biomass (AGB), below-ground biomass (BGB), and biomass partitioning (BGB:AGB ratio) of grasslands are of fundamental importance to understand their feedback to climate change. In this study, we used grassland productivity data extracted from the Oak Ridge National Laboratory Distributed Active Archive Center, Tennessee, USA, in which the AGB was collected within a 1.0 m × 0.25 m quadrat and the BGB was sampled within the center of the quadrat. Using multiple pairwise tests and Pearson’s correlation analysis, we assessed the variations of grassland productivity and examined the response of single-harvest and annual biomass partitioning of C _3 - and C _4 -dominated grasslands to the growing-season and annual climatic variability and climate extremes in seven sites belonging to four ecoregions (i.e. cold steppe, humid temperate, humid savanna, and savanna). The results show that the annual and single-harvest BGB:AGB ratio varied significantly across the plant types and ecoregions. Overall, the C _3 -dominated grasslands exhibited a higher BGB:AGB ratio than that of C _4 -dominated grasslands. Growing-season temperatures (GSTs) were found to be the key determinants in explaining the single-harvest BGB:AGB ratio rather than growing-season precipitation. For instance, the single-harvest BGB:AGB ratio of C _4 -dominated grasslands increased, while that of C _3 -dominated grasslands decreased with elevated GSTs. The growing-season extreme dry climates significantly increased the single-harvest BGB:AGB ratio of C _4 plants by a large reduction of AGB, potentially affecting the ecosystem functioning and stability. The C _3 -dominated grasslands in the cold steppe ecoregion are at great threat of drought-induced stress, as we observed that growing-season extreme dry climates reduced, albeit insignificantly, both the single-harvest AGB and BGB. This study provides key insights into factors influencing the biomass partitioning of C _3 - and C _4 -dominated grasslands and has important implications for assessing the grassland functioning and stability under increasing climate extremes.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac027a"
+  },
+  {
+    "title": "Monitoring of Inland Excess Water Inundations Using Machine Learning Algorithms",
+    "authors": [
+      "Balázs Kajári,",
+      "Csaba Bozán,",
+      "Boudewijn Van Leeuwen"
+    ],
+    "doi": "https://doi.org/10.3390/land12010036",
+    "journalVolume": "Vol. 12,\n                                no. 36\n                                \n                                  p.\n                                  36",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Nowadays, climate change not only leads to riverine floods and flash floods but also to inland excess water (IEW) inundations and drought due to extreme hydrological processes. The Carpathian Basin is extremely affected by fast-changing weather conditions during the year. IEW (sometimes referred to as water logging) is formed when, due to limited runoff, infiltration, and evaporation, surplus water remains on the surface or in places where groundwater flowing to lower areas appears on the surface by leaking through porous soil. In this study, eight different machine learning approaches were applied to derive IEW inundations on three different dates in 2021 (23 February, 7 March, 20 March). Index-based approaches are simple and provide relatively good results, but they need to be adapted to specific circumstances for each area and date. With an overall accuracy of 0.98, a Kappa of 0.65, and a QADI score of 0.020, the deep learning method Convolutional Neural Network (CNN) gave the best results, compared to the more traditional machine learning approaches Maximum Likelihood (ML), Random Forest (RF), Support Vector Machine (SVM) and artificial neural network (ANN) that were evaluated. The CNN-based IEW maps can be used in operational inland excess water control by water management authorities.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/1/36"
+  },
+  {
+    "title": "Think Piece: Action Competence through Ethno-Geography",
+    "authors": [
+      "Søren W. Clausen"
+    ],
+    "doi": "Vol. 34\n                                \n                                \n                                  pp.\n                                  121\n                                  – 127",
+    "issn": "0256-7504 (Print)",
+    "publisher": "2411-5959 (Online)",
+    "countryOfPublisher": "Environmental Association of Southern Africa",
+    "lcc": [
+      "South Africa",
+      "Education",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Philosophy. Psychology. Religion: Ethics"
+    ],
+    "journalUrl": "http://www.ajol.info/sajee",
+    "abstract": "Climate change is due to the accelerated greenhouse effect caused by modern Western ways of living, in which factors like the burning of fossil fuels for energy and the high consumption of beef are perceived to be an essential part of living, but which emit increasing levels of greenhouse gases (e.g. carbon dioxide [CO2] and methane) into the atmosphere. Greenhouse gases prevent long-wave radiation from escaping the Earth’s atmosphere, thus causing a rise in the global temperature. People living in different places around the world may or may not experience the various consequences of this temperature rise in their daily lives. Depending on where one lives, these consequences might range from extended droughts to an increased number and intensity of storms, precipitation and flooding. This two-sided problem, people’s modern way of living influencing the global climate and their living conditions in turn being highly influenced by climate changes, is exemplary for the subject of Geography, which is about humans’ interaction with nature (Physical Geography).",
+    "readLink": "https://www.ajol.info/index.php/sajee/article/view/172216"
+  },
+  {
+    "title": "The role of spatial self-organization in the design of agroforestry systems.",
+    "authors": [
+      "Omer Tzuk,",
+      "Hannes Uecker,",
+      "Ehud Meron"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0236325",
+    "journalVolume": "Vol. 15,\n                                no. 7\n                                \n                                  p.\n                                  e0236325",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The development of sustainable agricultural systems in drylands is currently a crucial issue in the context of mitigating the outcomes of population growth under the conditions of climatic changes. The need to meet the growing demand for food, fodder, and fuel, together with the hazards due to climate change, requires cross-disciplinary studies of ways to increase livelihood while minimizing the impact on the environment. Practices of agroforestry systems, in which herbaceous species are intercropped between rows of woody species plantations, have been shown to mitigate several of the predicaments of climatic changes. Focusing on agroforestry in drylands, we address the question of how we can improve the performance of agroforestry systems in those areas. As vegetation in drylands tends to self-organize in various patterns, it seems essential to explore the various patterns that agroforestry systems tend to form and their impact on the performance of these systems in terms of biomass production, resilience to droughts, and water use efficiency. We use a two-soil-layers vegetation model to study the relationship between deep-rooted woody vegetation and shallow herbaceous vegetation, and explore how self-organization in different spatial patterns influences the performance of agroforestry systems. We focus on three generic classes of patterns, spots, gaps, and stripes, assess these patterns using common metrics for agroforestry systems, and examine their resilience to droughts. We show that in contrast to the widespread practice of planting the woody and herbaceous species in alternating rows, that is, in a stripe pattern, planting the woody species in hexagonal spot patterns may increase the system's resilience to droughts. Furthermore, hexagonal spot patterns reduce the suppression of herbs growth by the woody vegetation, therefore maintaining higher crop yields. We conclude by discussing some limitations of this study and their significance.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0236325"
+  },
+  {
+    "title": "The Effects of Tunnel Technology on Crop Productivity and Livelihood of Smallholder Farmers in Nepal",
+    "authors": [
+      "Diwakar KC,",
+      "Dinesh Jamarkattel,",
+      "Tek Maraseni,",
+      "Dilip Nandwani,",
+      "Pratibha Karki"
+    ],
+    "doi": "https://doi.org/10.3390/su13147935",
+    "journalVolume": "Vol. 13,\n                                no. 7935\n                                \n                                  p.\n                                  7935",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Technologies-based production practices are critical for agricultural growth and sustainable development in low-income countries like Nepal. In the last few years, tunnel house has been increasingly promoted as tools to enhance smallholder farmers’ livelihood and tackle climate adversaries. However, little is known about what factor determines its adoption and whether it helps smallholders adapt to climate change and experience better livelihood. We address these gaps using the cross-sectional survey data collected from 62 adopters and 92 non-adopters in three municipalities of Bagmati Province. We employed descriptive analysis and probit model and found out that age, farm size, and ethnicity strongly influence the technology adoption amongst smallholder farmers. Additionally, treatment model and ordinary least square (OLS) regression were utilized to examine tunnel technology’s effect. Our study shows that tunnel significantly increases production by 32 tons/year/hectare and protects crops from climate change effects such as heavy rainfall and temperature change. Likewise, tunnel technology increases the net crop income by $1700/year/hectare. However, the economic benefit is not substantial compared to technology’s adoption cost as adopters incur enormous costs of $12,000/year/hectare on equipment, labor and resources. These results suggest policymakers should concentrate on reducing the technology’s cost, which could be achieved through subsidies, financial support, or price control mechanisms. Ensuring technology’s affordability can contribute to smallholder farmers’ sustainable livelihood in Nepal and countries with similar contexts.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/14/7935"
+  },
+  {
+    "title": "Lignocellulosic Biomass Transformations via Greener Oxidative Pretreatment Processes: Access to Energy and Value-Added Chemicals",
+    "authors": [
+      "Walter Den,",
+      "Virender K. Sharma,",
+      "Mengshan Lee,",
+      "Govind Nadadur,",
+      "Rajender S. Varma"
+    ],
+    "doi": "https://doi.org/10.3389/fchem.2018.00141",
+    "journalVolume": "Vol. 6",
+    "issn": "2296-2646 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/chemistry",
+    "abstract": "Anthropogenic climate change, principally induced by the large volume of carbon dioxide emission from the global economy driven by fossil fuels, has been observed and scientifically proven as a major threat to civilization. Meanwhile, fossil fuel depletion has been identified as a future challenge. Lignocellulosic biomass in the form of organic residues appears to be the most promising option as renewable feedstock for the generation of energy and platform chemicals. As of today, relatively little bioenergy comes from lignocellulosic biomass as compared to feedstock such as starch and sugarcane, primarily due to high cost of production involving pretreatment steps required to fragment biomass components via disruption of the natural recalcitrant structure of these rigid polymers; low efficiency of enzymatic hydrolysis of refractory feedstock presents a major challenge. The valorization of lignin and cellulose into energy products or chemical products is contingent on the effectiveness of selective depolymerization of the pretreatment regime which typically involve harsh pyrolytic and solvothermal processes assisted by corrosive acids or alkaline reagents. These unselective methods decompose lignin into many products that may not be energetically or chemically valuable, or even biologically inhibitory. Exploring milder, selective and greener processes, therefore, has become a critical subject of study for the valorization of these materials in the last decade. Efficient alternative activation processes such as microwave- and ultrasound irradiation are being explored as replacements for pyrolysis and hydrothermolysis, while milder options such as advanced oxidative and catalytic processes should be considered as choices to harsher acid and alkaline processes. Herein, we critically abridge the research on chemical oxidative techniques for the pretreatment of lignocellulosics with the explicit aim to rationalize the objectives of the biomass pretreatment step and the problems associated with the conventional processes. The mechanisms of reaction pathways, selectivity and efficiency of end-products obtained using greener processes such as ozonolysis, photocatalysis, oxidative catalysis, electrochemical oxidation, and Fenton or Fenton-like reactions, as applied to depolymerization of lignocellulosic biomass are summarized with deliberation on future prospects of biorefineries with greener pretreatment processes in the context of the life cycle assessment.",
+    "readLink": "http://journal.frontiersin.org/article/10.3389/fchem.2018.00141/full"
+  },
+  {
+    "title": "Variable coastal hypoxia exposure and drivers across the southern California Current",
+    "authors": [
+      "Natalie H. N. Low,",
+      "Fiorenza Micheli,",
+      "Juan Domingo Aguilar,",
+      "Daniel Romero Arce,",
+      "Charles A. Boch,",
+      "Juan Carlos Bonilla,",
+      "Miguel Ángel Bracamontes,",
+      "Giulio De Leo,",
+      "Eduardo Diaz,",
+      "Eduardo Enríquez,",
+      "Arturo Hernandez,",
+      "Ramón Martinez,",
+      "Ramon Mendoza,",
+      "Claudia Miranda,",
+      "Stephen Monismith,",
+      "Mario Ramade,",
+      "Laura Rogers-Bennett,",
+      "Alfonso Romero,",
+      "Carmina Salinas,",
+      "Alexandra E. Smith,",
+      "Jorge Torre,",
+      "Gustavo Villavicencio,",
+      "C. Brock Woodson"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-89928-4",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Declining oxygen is one of the most drastic changes in the ocean, and this trend is expected to worsen under future climate change scenarios. Spatial variability in dissolved oxygen dynamics and hypoxia exposures can drive differences in vulnerabilities of coastal ecosystems and resources, but documentation of variability at regional scales is rare in open-coast systems. Using a regional collaborative network of dissolved oxygen and temperature sensors maintained by scientists and fishing cooperatives from California, USA, and Baja California, Mexico, we characterize spatial and temporal variability in dissolved oxygen and seawater temperature dynamics in kelp forest ecosystems across 13° of latitude in the productive California Current upwelling system. We find distinct latitudinal patterns of hypoxia exposure and evidence for upwelling and respiration as regional drivers of oxygen dynamics, as well as more localized effects. This regional and small-scale spatial variability in dissolved oxygen dynamics supports the use of adaptive management at local scales, and highlights the value of collaborative, large-scale coastal monitoring networks for informing effective adaptation strategies for coastal communities and fisheries in a changing climate.",
+    "readLink": "https://doi.org/10.1038/s41598-021-89928-4"
+  },
+  {
+    "title": "Origin and Pathways of Dissolved Organic Carbon in a Small Catchment in the Lena River Delta",
+    "authors": [
+      "Lydia Stolpmann,",
+      "Lydia Stolpmann,",
+      "Gesine Mollenhauer,",
+      "Anne Morgenstern,",
+      "Jens S. Hammes,",
+      "Julia Boike,",
+      "Julia Boike,",
+      "Pier Paul Overduin,",
+      "Guido Grosse,",
+      "Guido Grosse"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2021.759085",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "The Arctic is rich in aquatic systems and experiences rapid warming due to climate change. The accelerated warming causes permafrost thaw and the mobilization of organic carbon. When dissolved organic carbon is mobilized, this DOC can be transported to aquatic systems and degraded in the water bodies and further downstream. Here, we analyze the influence of different landscape components on DOC concentrations and export in a small (6.45 km2) stream catchment in the Lena River Delta. The catchment includes lakes and ponds, with the flow path from Pleistocene yedoma deposits across Holocene non-yedoma deposits to the river outlet. In addition to DOC concentrations, we use radiocarbon dating of DOC as well as stable oxygen and hydrogen isotopes (δ18O and δD) to assess the origin of DOC. We find significantly higher DOC concentrations in the Pleistocene yedoma area of the catchment compared to the Holocene non-yedoma area with medians of 5 and 4.5 mg L−1 (p < 0.05), respectively. When yedoma thaw streams with high DOC concentration reach a large yedoma thermokarst lake, we observe an abrupt decrease in DOC concentration, which we attribute to dilution and lake processes such as mineralization. The DOC ages in the large thermokarst lake (between 3,428 and 3,637 14C y BP) can be attributed to a mixing of mobilized old yedoma and Holocene carbon. Further downstream after the large thermokarst lake, we find progressively younger DOC ages in the stream water to its mouth, paired with decreasing DOC concentrations. This process could result from dilution with leaching water from Holocene deposits and/or emission of ancient yedoma carbon to the atmosphere. Our study shows that thermokarst lakes and ponds may act as DOC filters, predominantly by diluting incoming waters of higher DOC concentrations or by re-mineralizing DOC to CO2 and CH4. Nevertheless, our results also confirm that the small catchment still contributes DOC on the order of 1.2 kg km−2 per day from a permafrost landscape with ice-rich yedoma deposits to the Lena River.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2021.759085/full"
+  },
+  {
+    "title": "Study of the use of a micro hydro in knockdown container completed with a cylindrical form housing of francis hydraulic turbine to support the development program of energy self-sustainability for remote and isolated areas in Indonesia",
+    "authors": [
+      "Kamal Samsul,",
+      "Prajitno,",
+      "Pardadi Janu"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/20172306001",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  p.\n                                  06001",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "With an intention to reduce the consumption of energy from fossil fuels and the CO2 emission in relation with the climate change solution, Indonesian Government has targeted that the role of the New and Renewable Energy (NRE) resources reaches at least 23% , or about 27 GW , in 2025 and it is expected to increase to the extent of about 134 GW in 2050 within the scenario of mixed energy supply. Geographically Indonesia has many remote and isolated areas with lack of appropriate infrastructure supports. But in the most of the areas, huge potential of new and renewable energy are available such as hydro energy is about 75 GW, biomass energy is about 32 GW and bio fuel is about 32 GW. The total utilization of the energy from small hydro energy up to this year for example is only about 300 MW. The significant obstacle in optimizing the utilization of small hydro energy in the areas is mainly on the infrastructure conditions and the local manufacture capabilities. Difficulties in mobilization of experts, skill worker , parts and constructions material result in very time consuming and costly for site construction. In this research a hydro turbine built in knock down container completed with a Francis turbine in cylindrical form housing is proposed and reported its performance on implementation. The hydro in a knock down container concept comes from the idea to manufacture hydro power solutions in a knock down container, readymade to be transported to installation sites. It can be easily manufactured in a quality controlled and cost effective environment, transported and installed in remote areas, to operate and maintain with minimal amount of equipment. It shows that the implementation of the unit in a remote area has reduced the total site construction time by 1/3 compared to the predicted one with conventional unit. The performance of the Francis turbine with cylindrical form housing has shown comparable with the conventional one which has volute form housing. The superiority was even more pronounced by introducing a deflection insert in its input flow channel. The insertion was capable to create more distributed flow into the runner. Efficiency of the turbine up to 80% was performed in this research. Local manufacture for turbine usually use many craft work and welding to built a volute form housing for the Francis turbine. The cylindrical form housing here has also proven significantly in reducing the time and price for the turbine manufacturing process.",
+    "readLink": "https://doi.org/10.1051/e3sconf/20172306001"
+  }
+]

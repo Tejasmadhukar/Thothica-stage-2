@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Capability of C-Band SAR for Operational Wetland Monitoring at High Latitudes",
+    "authors": [
+      "Julia Reschke,",
+      "Dmitry Schepaschenko,",
+      "Stefan Schlaffer,",
+      "Annett Bartsch"
+    ],
+    "doi": "https://doi.org/10.3390/rs4102923",
+    "journalVolume": "Vol. 4,\n                                no. 10\n                                \n                                  pp.\n                                  2923\n                                  – 2943",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Wetlands store large amounts of carbon, and depending on their status and type, they release specific amounts of methane gas to the atmosphere. The connection between wetland type and methane emission has been investigated in various studies and utilized in climate change monitoring and modelling. For improved estimation of methane emissions, land surface models require information such as the wetland fraction and its dynamics over large areas. Existing datasets of wetland dynamics present the total amount of wetland (fraction) for each model grid cell, but do not discriminate the different wetland types like permanent lakes, periodically inundated areas or peatlands. Wetland types differently influence methane fluxes and thus their contribution to the total wetland fraction should be quantified. Especially wetlands of permafrost regions are expected to have a strong impact on future climate due to soil thawing. In this study ENIVSAT ASAR Wide Swath data was tested for operational monitoring of the distribution of areas with a long-term SW near 1 (hSW) in northern Russia (SW = degree of saturation with water, 1 = saturated), which is a specific characteristic of peatlands. For the whole northern Russia, areas with hSW were delineated and discriminated from dynamic and open water bodies for the years 2007 and 2008. The area identified with this method amounts to approximately 300,000 km2 in northern Siberia in 2007. It overlaps with zones of high carbon storage. Comparison with a range of related datasets (static and dynamic) showed that hSW represents not only peatlands but also temporary wetlands associated with post-forest fire conditions in permafrost regions. Annual long-term monitoring of change in boreal and tundra environments is possible with the presented approach. Sentinel-1, the successor of ENVISAT ASAR, will provide data that may allow continuous monitoring of these wetland dynamics in the future complementing global observations of wetland fraction.",
+    "readLink": "http://www.mdpi.com/2072-4292/4/10/2923"
+  },
+  {
+    "title": "RISC-KIT: Resilience-increasing Strategies for Coasts",
+    "authors": [
+      "van Dongeren Ap,",
+      "Ciavola Paolo,",
+      "Martinez Grit,",
+      "Viavattene Christophe,",
+      "DeKleermaeker Simone,",
+      "Ferreira Oscar,",
+      "Costa Cristina,",
+      "McCall Robert"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/20160717001",
+    "journalVolume": "Vol. 7\n                                \n                                \n                                  p.\n                                  17001",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "High-impact storm events have demonstrated the vulnerability of coastal zones in Europe and beyond. These impacts are likely to increase due to predicted climate change and ongoing coastal development. In order to reduce impacts, disaster risk reduction (DRR) measures need to be taken, which prevent or mitigate the effects of storm events. To drive the DRR agenda, the UNISDR formulated the Sendai Framework for Action, and the EU has issued the Floods Directive. However, neither is specific about the methods to be used to develop actionable DRR measures in the coastal zone. Therefore, there is a need to develop methods, tools and approaches which make it possible to: identify and prioritize the coastal zones which are most at risk through a Coastal Risk Assessment Framework, and to evaluate the effectiveness of DRR options for these coastal areas, using an Early Warning/Decision Support System, which can be used both in the planning and event-phase. This paper gives an overview of the products and results obtained in the FP7-funded project RISC-KIT, which aims to develop and apply a set of tools with which highly-vulnerable coastal areas (so-called “hotspots”) can be identified.",
+    "readLink": "http://dx.doi.org/10.1051/e3sconf/20160717001"
+  },
+  {
+    "title": "Interactive Simulator for Teaching of Climate Change Risk",
+    "authors": [
+      "Antonio Torres Valle,",
+      "Erich Martínez Martín"
+    ],
+    "doi": "https://doi.org/10.1234/rci.v6i3.395",
+    "journalVolume": "Vol. 6,\n                                no. 3\n                                \n                                  pp.\n                                  13\n                                  – 21",
+    "issn": "2223-1781 (Print)",
+    "publisher": "Instituto Superior Politécnico José Antonio Echeverría (Cujae)",
+    "countryOfPublisher": "Cuba",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://rci.cujae.edu.cu",
+    "abstract": "The use of simulators is good practice for teaching or training in the operation of complex processes. This is the case of climate change, the one associated with multiple phenomena that cannot be played as isolated laboratory practices. The experts themselves of the Intergovernmental Panel on Climate Change (IPCC) have suggested qualitative indicators tomeasure the components of this risk (hazard, vulnerability and exposure) and still, its complexity is remarkable for the multi, inter and transdisciplinary knowledge necessary for evaluation. One of the most important challenges of teaching these topics is the multiplicity of combinations that can occur for a variety of inputs of tax risk factors in each area of the world studied. Therefore, the presentation of an interdependent matrix system that maps the global and regional variables concerning the risks of climate change and a recursive system for evaluation are the basis of the simulator proposed in this paper. The same has been tested with global and regional scenarios, which have been incorporated into computercode developed for the preparation of prewritten didactic exercises and a recommendation for the implementation of new case studies.",
+    "readLink": "http://rci.cujae.edu.cu/index.php/rci/article/view/395"
+  },
+  {
+    "title": "Availability and Environmental Performance of Wood for a Second-Generation Biorefinery",
+    "authors": [
+      "Cecilia Rachid-Casnati,",
+      "Fernando Resquin,",
+      "Leonidas Carrasco-Letelier"
+    ],
+    "doi": "https://doi.org/10.3390/f12111609",
+    "journalVolume": "Vol. 12,\n                                no. 1609\n                                \n                                  p.\n                                  1609",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The current global climate change, the 2030 Agenda, and the planetary boundaries have driven new development strategies, such as the circular economy, bioeconomy, and biorefineries. In this framework, this study analyzes the potential availability and sustainability of the wood supply chain for a small-scale biorefinery aiming at producing 280–300 L of bioethanol per ton of dry biomass, consuming 30,000 t of dry biomass per year harvested in a 50 km radius. This wood production goal was assessed from Eucalyptus grandis stands planted for solid wood in northeastern Uruguay. Moreover, to understand the environmental performance of this biomass supply chain, the energy return on investment (EROI), carbon footprint (CF), and potential soil erosion were also assessed. The results showed that the potential wood production would supply an average of 81,800 t of dry mass per year, maintaining the soil erosion below the upper threshold recommended, an EROI of 2.3, and annual CF of 1.22 kg CO2−eq m−3 (2.6 g CO2−eq MJ−1). Combined with the environmental performance of the bioethanol biorefinery facility, these results would show acceptable values of sustainability according to EU Directive 2009/28/ec because the bioethanol CF becomes 1.7% of this petrol’s CF.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/11/1609"
+  },
+  {
+    "title": "Performance of solar roof top panels with disparate particulate accumulation: Exergy analysis on an indoor lab study.",
+    "authors": [
+      "Muhammad Alam Zaib Khan,",
+      "Abdul Wahab,",
+      "Fawad Ali,",
+      "Naveed Ahmad,",
+      "Muhammad Ali Kamran,",
+      "Ali Hassan"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0291018",
+    "journalVolume": "Vol. 18,\n                                no. 9\n                                \n                                  p.\n                                  e0291018",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Deployment of solar photovoltaic panels are significantly rising to tackle adverse effects of climate change however, factors affecting output need to be categorized in addition to latitude angle and space. It is important to consider the atmospheric impact which can drastically change output power of solar panels. This study covers dust accumulation of soil, sand and ash at variable weights to foresee its effects on panel power output. Mixtures of these particles at multiple constituents were also analyzed. Experimental results indicated that clean panel gives maximum power output of 21.37W and exergy efficiency of 7.96% whereas ash accumulation showed worst results of 2.88W power output and 1.07% exergy efficiency at 700W/m2 and 50g dust accumulation. Other parameters like energy destruction, exergy losses and sustainability index were also analyzed. Trends have been illustrated in graphs along with the change in solar intensity and dust accumulations.",
+    "readLink": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0291018&type=printable"
+  },
+  {
+    "title": "Spatiotemporal variation in runoff and baseflow in watersheds located across a regional precipitation gradient",
+    "authors": [
+      "Breanna Rivera Waterman,",
+      "Gonzalo Alcantar,",
+      "Samantha G. Thomas,",
+      "Matthew F. Kirk"
+    ],
+    "doi": "Vol. 41\n                                \n                                \n                                  p.\n                                  101071",
+    "issn": "2214-5818 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-hydrology-regional-studies/",
+    "abstract": "Study region: Regional precipitation gradient across Kansas, USA. Study focus: As precipitation increases, baseflow and surface runoff generally increase, but it is unclear whether they increase proportionally and how proportions respond to climate and land use changes. This study examined variation in streamflow components of perennial streams across the study region and its relationships with watershed properties. We evaluated streamflow components with hydrograph separation and used Spearman’s rank correlation tests and principal component analysis (PCA) to assess spatial trends (28 sites) and Mann-Kendall and Sen’s Slope tests to assess temporal relationships (9 sites, 1960–2018). New hydrological insights for region: Runoff and baseflow both increase eastward with precipitation but the increase is greater for runoff. As such, baseflow index (BFI, baseflow/streamflow) decreases with increasing precipitation, potentially reflecting the limits of infiltration on recharge/runoff partitioning. Spatial patterns in variables that influence infiltration (land use and soil texture) also vary with precipitation, consistent with long-term influences of climate on landscapes. Since 1960, the watersheds included in our temporal analysis experienced small, mainly insignificant increases in precipitation and temperature and large, significant increases in irrigation. During this time, BFI increased significantly only in semi-arid, agriculture-dominated catchments overlaying higher permeability deposits. These findings underscore the importance of watershed characteristics as controls on current spatial patterns in streamflow and BFI and also the sensitivity of streamflow and BFI to climate and land use changes over time.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214581822000842"
+  },
+  {
+    "title": "Interplay of eco-friendly factors and islamic religiosity towards recycled package products: A cross-cultural study",
+    "authors": [
+      "Qingyu Zhang,",
+      "Mudassir Husnain,",
+      "Muhammad Usman,",
+      "Muhammad Waheed Akhtar,",
+      "Muhammad Waheed Akhtar,",
+      "Saqib Ali,",
+      "Mussadiq Ali Khan,",
+      "Qamar Abbas,",
+      "Qamar Abbas,",
+      "Riffat Ismail,",
+      "Tayyab Rehman,",
+      "Muhammad Akram"
+    ],
+    "doi": "https://doi.org/10.3389/fpsyg.2022.840711",
+    "journalVolume": "Vol. 13",
+    "issn": "1664-1078 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Psychology"
+    ],
+    "journalUrl": "http://frontiersin.org/psychology",
+    "abstract": "Climate change has increasingly been recognised and associated with consumer behaviour: Practitioners are developing their strategies to reduce environmental degradation while increasing the management of sustainable consumption; it needs to better understand consumer attitudes and eco-friendly factors about the issue. Therefore, the current study focused to understand the effects of pro-environmental factors on individuals’ environmental attitudes (purchase behaviour towards products with recycled packaging) through the lens of theory of planned behaviour in a cross-cultural setting. Moreover, present research focuses on the moderating role that religiosity plays in causal pathways between certain determinants (attitude, subjective norms, and perceived behavioural control) and intentions in this context. A multi-wave time-lagged research design was employed in this study, and university students from two developing countries were surveyed (N = 324, 266). The findings revealed pronounced similarities between the two examined countries. Overwhelmingly, pro-environmental factors examined (environmental values, environmental knowledge, and environmental concern) were found to be positively related to attitude formation. Further results showed that attitude and subjective norms are significant predictors of the intention to purchase products with recycled packaging. Moreover, with the exception of perceived behavioural control, religiosity moderates the relationships between all the determinants of TPB and intention to purchase recycled packaged products. Present study offers insightful implications to management of these emerging and/or similar cultural markets regarding customer value for green products. Using TPB, present study broadened and deepen extant stream of literature on consumption of recycled packaged products in two highly emerging markets; Pakistan and Malaysia.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.840711/full"
+  },
+  {
+    "title": "Development and Assessment of Feed Forward Back Propagation Neural Network Models to Predict Sunshine Duration",
+    "authors": [
+      "Berivan H. Mahdi,",
+      "Jwan A. Mohammed,",
+      "Amera I. Melhum"
+    ],
+    "doi": "https://doi.org/10.30723/ijp.v20i3.1015",
+    "journalVolume": "Vol. 20,\n                                no. 3",
+    "issn": "2070-4003 (Print)",
+    "publisher": "2664-5548 (Online)",
+    "countryOfPublisher": "University of Baghdad",
+    "lcc": [
+      "Iraq",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://ijp.uobaghdad.edu.iq",
+    "abstract": "The duration of sunshine is one of the important indicators and one of the variables for measuring the amount of solar radiation collected in a particular area. Duration of solar brightness has been used to study atmospheric energy balance, sustainable development, ecosystem evolution and climate change. Predicting the average values of sunshine duration (SD) for Duhok city, Iraq on a daily basis using the approach of artificial neural network (ANN) is the focus of this paper. Many different ANN models with different input variables were used in the prediction processes. The daily average of the month, average temperature, maximum temperature, minimum temperature, relative humidity, wind direction, cloud level and atmospheric pressure were used as input parameters in order to obtain the daily average of sunshine duration (SD) as the output. The eight-year data were divided into two categories. The first category covers whole years (annually) and the second category is seasonal. To recognize and assess the influence of different input parameters on sunshine duration, six models of ANN have been evolved. The findings showed that in the annual models, the outcomes of RMSE, MAE and R for the model with input parameters (Month, Cloud Level and Average Temperature) were the best results 1.82, 1.175 and 0.89, respectively. As for the season models, the outcomes of RMSE, MAE and R for the autumn season were the best results 1.450, 1.009 and 0.94, respectively. Accordingly, the performance of the artificial neural network is considerably effective in predicting the sunshine duration.",
+    "readLink": "https://ijp.uobaghdad.edu.iq/index.php/physics/article/view/1015"
+  },
+  {
+    "title": "Expansion of irrigation led to inland lake shrinking in semi-arid agro-pastoral region, China: A case study of Chahannur Lake",
+    "authors": [
+      "Xiaolu Chen,",
+      "Yanfang Wang,",
+      "Hongwei Pei,",
+      "Ying Guo,",
+      "Jing Zhang,",
+      "Yanjun Shen"
+    ],
+    "doi": "Vol. 41\n                                \n                                \n                                  p.\n                                  101086",
+    "issn": "2214-5818 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-hydrology-regional-studies/",
+    "abstract": "Study region: Chahannur Lake, an inland lake of the Inner Mongolia Plateau, is located in the typical agro-pastoral ecotone, China. Study focus: Change of lake area is highly sensitive to climate change and human activities, but the internal driving mechanism so far remains unclear. In this study, the spatiotemporal distribution of Chahannur Lake over the past 30 years was accurately extracted using the NDVI data, and the corresponding driver analysis was conducted. New hydrological insights for the region: Before 2000, Chahannur Lake was always remaining watery state throughout the year and the maximum area reached 90 km2; however, after 2000 it became a seasonal lake with a long-term dry state. During the observed period, the recovery of water body had only occurred in two stages both of which belonged to historically heavy rain years, and the maximum lake area was only 40 km2. Although the climate has tended to be warm and humid after 2000, it cannot completely reverse the lake’s drying. Additionally, the irrigated arable increased by 392 km2 in 2000–2017, and the increased arable consumed substantial groundwater for meeting agricultural demands, which consequently caused rapid shrinkage of the Lake. Notably, the increase of NDVI is widely distributed in irrigated arable with high water-consuming crops. Overall, groundwater over-exploitation and strong water consumption from crops have jointly led to the drying of Chahannur lake.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214581822000994"
+  },
+  {
+    "title": "Time of emergence of trends in ocean biogeochemistry",
+    "authors": [
+      "K. M. Keller,",
+      "F. Joos,",
+      "C. C. Raible"
+    ],
+    "doi": "https://doi.org/10.5194/bg-11-3647-2014",
+    "journalVolume": "Vol. 11,\n                                no. 13\n                                \n                                  pp.\n                                  3647\n                                  – 3659",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "For the detection of climate change, not only the magnitude of a trend signal is of significance. An essential issue is the time period required by the trend to be detectable in the first place. An illustrative measure for this is time of emergence (ToE), that is, the point in time when a signal finally emerges from the background noise of natural variability. We investigate the ToE of trend signals in different biogeochemical and physical surface variables utilizing a multi-model ensemble comprising simulations of 17 Earth system models (ESMs). We find that signals in ocean biogeochemical variables emerge on much shorter timescales than the physical variable sea surface temperature (SST). The ToE patterns of pCO2 and pH are spatially very similar to DIC (dissolved inorganic carbon), yet the trends emerge much faster – after roughly 12 yr for the majority of the global ocean area, compared to between 10 and 30 yr for DIC. ToE of 45–90 yr are even larger for SST. In general, the background noise is of higher importance in determining ToE than the strength of the trend signal. In areas with high natural variability, even strong trends both in the physical climate and carbon cycle system are masked by variability over decadal timescales. In contrast to the trend, natural variability is affected by the seasonal cycle. This has important implications for observations, since it implies that intra-annual variability could question the representativeness of irregularly sampled seasonal measurements for the entire year and, thus, the interpretation of observed trends.",
+    "readLink": "http://www.biogeosciences.net/11/3647/2014/bg-11-3647-2014.pdf"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Global model simulations of the impact of ocean-going ships on aerosols, clouds, and the radiation budget",
+    "authors": [
+      "A. Lauer,",
+      "V. Eyring,",
+      "J. Hendricks,",
+      "P. Jöckel,",
+      "U. Lohmann"
+    ],
+    "doi": "Vol. 7,\n                                no. 19\n                                \n                                  pp.\n                                  5061\n                                  – 5079",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "International shipping contributes significantly to the fuel consumption of all transport related activities. Specific emissions of pollutants such as sulfur dioxide (SO<sub>2</sub>) per kg of fuel emitted are higher than for road transport or aviation. Besides gaseous pollutants, ships also emit various types of particulate matter. The aerosol impacts the Earth's radiation budget directly by scattering and absorbing the solar and thermal radiation and indirectly by changing cloud properties. Here we use ECHAM5/MESSy1-MADE, a global climate model with detailed aerosol and cloud microphysics to study the climate impacts of international shipping. The simulations show that emissions from ships significantly increase the cloud droplet number concentration of low marine water clouds by up to 5% to 30% depending on the ship emission inventory and the geographic region. Whereas the cloud liquid water content remains nearly unchanged in these simulations, effective radii of cloud droplets decrease, leading to cloud optical thickness increase of up to 5&ndash;10%. The sensitivity of the results is estimated by using three different emission inventories for present-day conditions. The sensitivity analysis reveals that shipping contributes to 2.3% to 3.6% of the total sulfate burden and 0.4% to 1.4% to the total black carbon burden in the year 2000 on the global mean. In addition to changes in aerosol chemical composition, shipping increases the aerosol number concentration, e.g. up to 25% in the size range of the accumulation mode (typically &gt;0.1 μm) over the Atlantic. The total aerosol optical thickness over the Indian Ocean, the Gulf of Mexico and the Northeastern Pacific increases by up to 8&ndash;10% depending on the emission inventory. Changes in aerosol optical thickness caused by shipping induced modification of aerosol particle number concentration and chemical composition lead to a change in the shortwave radiation budget at the top of the atmosphere (ToA) under clear-sky condition of about &minus;0.014 W/m² to &minus;0.038 W/m² for a global annual average. The corresponding all-sky direct aerosol forcing ranges between &minus;0.011 W/m² and &minus;0.013 W/m². The indirect aerosol effect of ships on climate is found to be far larger than previously estimated. An indirect radiative effect of &minus;0.19 W/m² to &minus;0.60 W/m² (a change in the atmospheric shortwave radiative flux at ToA) is calculated here, contributing 17% to 39% of the total indirect effect of anthropogenic aerosols. This contribution is high because ship emissions are released in regions with frequent low marine clouds in an otherwise clean environment. In addition, the potential impact of particulate matter on the radiation budget is larger over the dark ocean surface than over polluted regions over land.",
+    "readLink": "http://www.atmos-chem-phys.net/7/5061/2007/acp-7-5061-2007.pdf"
+  },
+  {
+    "title": "Loss of coastal ecosystem services in Mexico: An approach to economic valuation in the face of sea level rise",
+    "authors": [
+      "Violeta Z. Fernández-Díaz,",
+      "Román A. Canul Turriza,",
+      "Román A. Canul Turriza,",
+      "Angel Kuc Castilla,",
+      "Osvel Hinojosa-Huerta"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.898904",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The economic valuation of coastal ecosystem services is a critical step for the design of sound public policies that support the preservation of the services that nature provides to society in the context of climate change. Using the value transfer method, we obtained the economic valuation that represents the loss of coastal ecosystem services caused by sea level rise in Mexico. Using the Bathtub method, digital elevation models and sea level data, we identified the areas in the country prone to flooding and the associated ecosystem impacts. In Mexico, the annual economic loss caused by the disappearance of coastal ecosystem services is estimated at $6,476,402,405 USD, where wetlands represent the greatest economic losses, since they represent the largest affected ecosystem by area. However, beaches and dunes are the most valued ecosystem due to the economic activities that occur in these areas. In the mangroves, the service as habitat, refuge and nursery is the most valued for its positive relationship with fisheries. The states with the most economic losses are Baja California Sur, Sinaloa and Campeche. The protection of the coastal zone in Mexico should be a priority in the development strategies in the country because its loss and/or rehabilitation imply high economic costs and compromises the wellbeing of society.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.898904/full"
+  },
+  {
+    "title": "Effect of winds and waves on salt intrusion in the Pearl River estuary",
+    "authors": [
+      "W. Gong,",
+      "W. Gong,",
+      "Z. Lin,",
+      "Z. Lin,",
+      "Y. Chen,",
+      "Y. Chen,",
+      "Z. Chen,",
+      "Z. Chen,",
+      "H. Zhang,",
+      "H. Zhang,",
+      "H. Zhang"
+    ],
+    "doi": "https://doi.org/10.5194/os-14-139-2018",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  139\n                                  – 159",
+    "issn": "1812-0784 (Print)",
+    "publisher": "1812-0792 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.ocean-science.net/index.html",
+    "abstract": "Salt intrusion in the Pearl River estuary (PRE) is a dynamic process that is influenced by a range of factors and to date, few studies have examined the effects of winds and waves on salt intrusion in the PRE. We investigate these effects using the Coupled Ocean-Atmosphere-Wave-Sediment Transport (COAWST) modeling system applied to the PRE. After careful validation, the model is used for a series of diagnostic simulations. It is revealed that the local wind considerably strengthens the salt intrusion by lowering the water level in the eastern part of the estuary and increasing the bottom landward flow. The remote wind increases the water mixing on the continental shelf, elevates the water level on the shelf and in the PRE and pumps saltier shelf water into the estuary by Ekman transport. Enhancement of the salt intrusion is comparable between the remote and local winds. Waves decrease the salt intrusion by increasing the water mixing. Sensitivity analysis shows that the axial down-estuary wind, is most efficient in driving increases in salt intrusion via wind straining effect.",
+    "readLink": "https://www.ocean-sci.net/14/139/2018/os-14-139-2018.pdf"
+  },
+  {
+    "title": "The Initiative “4 per 1000” - a new global challenge for the soils of Russia",
+    "authors": [
+      "A. L. Ivanov,",
+      "V. S. Stolbovoy"
+    ],
+    "doi": "https://doi.org/10.19047/0136-1694-2019-98-185-202",
+    "journalVolume": "Vol. 0,\n                                no. 98\n                                \n                                  pp.\n                                  185\n                                  – 202",
+    "issn": "0136-1694 (Print)",
+    "publisher": "2312-4202 (Online)",
+    "countryOfPublisher": "V.V. Dokuchaev Soil Science Institute",
+    "lcc": [
+      "Russian Federation",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://bulletin.esoil.ru/",
+    "abstract": "The implementation of the “4 per mille” or “4 per 1000” Initiative in Russia can be one of the instruments mitigating concentration of the greenhouse gases in the atmosphere. It is estimated that the total annual absorption of carbon dioxide (CO2), including natural dynamics and application of carbon saving technologies in agriculture, can be as much as 23–28 % of annual emission of the gas into the atmosphere. The “4 per 1000” Initiative mechanism will operate successfully for 12–15 years, which corresponds to the time of saturation of arable soil with carbon. The implementation of the “4 per mille” Initiative is not only Russia's positioning among the countries that support sustainable, energy-efficient and environmentally friendly development, but also demonstrates the ability of the country to realize its competitive advantages in demand in the low-carbon world.",
+    "readLink": "https://bulletin.esoil.ru/jour/article/view/384"
+  },
+  {
+    "title": "Flood trends along the Rhine: the role of river training",
+    "authors": [
+      "S. Vorogushyn,",
+      "B. Merz"
+    ],
+    "doi": "https://doi.org/10.5194/hess-17-3871-2013",
+    "journalVolume": "Vol. 17,\n                                no. 10\n                                \n                                  pp.\n                                  3871\n                                  – 3884",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Several previous studies have detected positive trends in flood flows in German rivers, among others, at Rhine gauges over the past six decades. The presence and detectability of the climate change signal in flood records has been controversially discussed, particularly against the background of massive river training measures in the Rhine. In the past the Rhine catchment has been heavily trained, including the construction of the Rhine weir cascade, flood protection dikes and detention basins. The present study investigates the role of river training on changes in annual maximum daily flows at Rhine gauges starting from Maxau down to Lobith. In particular, the effect of the Rhine weir cascade and of a series of detention basins was investigated. By homogenising the original flood flow records in the period from 1952 till 2009, the annual maximum series were computed that would have been recorded had river training measures not been in place. Using multiple trend analysis, relative changes in the homogenised time series were found to be from a few percentage points to more than 10 percentage points smaller compared to the original records. This effect is attributable to the river training measures, and primarily to the construction of the Rhine weir cascade. The increase in Rhine flood discharges during this period was partly caused by an unfavourable superposition of the Rhine and Neckar flood waves. This superposition resulted from an acceleration of the Rhine waves due to the construction of the weir cascade and associated channelisation and dike heightening. However, at the same time, tributary flows across the entire Upper and Lower Rhine, which enhance annual maximum Rhine peaks, showed strong positive trends. This suggests the dominance of another driver or drivers which acted alongside river training.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/17/3871/2013/hess-17-3871-2013.pdf"
+  },
+  {
+    "title": "Scenario Analysis on Climate Change Impacts of Urban Land Expansion under Different Urbanization Patterns: A Case Study of Wuhan Metropolitan",
+    "authors": [
+      "Xinli Ke,",
+      "Feng Wu,",
+      "Caixue Ma"
+    ],
+    "doi": "https://doi.org/10.1155/2013/293636",
+    "journalVolume": "Vol. 2013",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "Urban land expansion plays an important role in climate change. It is significant to select a reasonable urban expansion pattern to mitigate the impact of urban land expansion on the regional climate in the rapid urbanization process. In this paper, taking Wuhan metropolitan as the case study area, and three urbanization patterns scenarios are designed to simulate spatial patterns of urban land expansion in the future using the Partitioned and Asynchronous Cellular Automata Model. Then, simulation results of land use are adjusted and inputted into WRF (Weather Research and Forecast) model to simulate regional climate change. The results show that: (1) warming effect is strongest under centralized urbanization while it is on the opposite under decentralized scenario; (2) the warming effect is stronger and wider in centralized urbanization scenario than in decentralized urbanization scenario; (3) the impact trends of urban land use expansion on precipitation are basically the same under different scenarios; (4) and spatial distribution of rainfall was more concentrated under centralized urbanization scenario, and there is a rainfall center of wider scope, greater intensity. Accordingly, it can be concluded that decentralized urbanization is a reasonable urbanization pattern to mitigate climate change in rapid urbanization period.",
+    "readLink": "http://dx.doi.org/10.1155/2013/293636"
+  },
+  {
+    "title": "Effects of Last Glacial Maximum (LGM) sea surface temperature and sea ice extent on the isotope–temperature slope at polar ice core sites",
+    "authors": [
+      "A. Cauquoin,",
+      "A. Abe-Ouchi,",
+      "T. Obase,",
+      "W.-L. Chan,",
+      "A. Paul,",
+      "M. Werner"
+    ],
+    "doi": "https://doi.org/10.5194/cp-19-1275-2023",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  1275\n                                  – 1294",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "Stable water isotopes in polar ice cores are widely used to reconstruct past temperature variations over several orbital climatic cycles. One way to calibrate the isotope–temperature relationship is to apply the present-day spatial relationship as a surrogate for the temporal one. However, this method leads to large uncertainties because several factors like the sea surface conditions or the origin and transport of water vapor influence the isotope–temperature temporal slope. In this study, we investigate how the sea surface temperature (SST), the sea ice extent, and the strength of the Atlantic Meridional Overturning Circulation (AMOC) affect these temporal slopes in Greenland and Antarctica for Last Glacial Maximum (LGM, ∼ 21 000 years ago) to preindustrial climate change. For that, we use the isotope-enabled atmosphere climate model ECHAM6-wiso, forced with a set of sea surface boundary condition datasets based on reconstructions (e.g., GLOMAP) or MIROC 4m simulation outputs. We found that the isotope–temperature temporal slopes in East Antarctic coastal areas are mainly controlled by the sea ice extent, while the sea surface temperature cooling affects the temporal slope values inland more. On the other hand, ECHAM6-wiso simulates the impact of sea ice extent on the EPICA Dome C (EDC) and Vostok sites through the contribution of water vapor from lower latitudes. Effects of sea surface boundary condition changes on modeled isotope–temperature temporal slopes are variable in West Antarctica. This is partly due to the transport of water vapor from the Southern Ocean to this area that can dampen the influence of local temperature on the changes in the isotopic composition of precipitation and snow. In the Greenland area, the isotope–temperature temporal slopes are influenced by the sea surface temperatures near the coasts of the continent. The greater the LGM cooling off the coast of southeastern Greenland, the greater the transport of water vapor from the North Atlantic, and the larger the temporal slopes. The presence or absence of sea ice very near the coast has a large influence in Baffin Bay and the Greenland Sea and influences the slopes at some inland ice core stations. The extent of the sea ice far south slightly influences the temporal slopes in Greenland through the transport of more depleted water vapor from lower latitudes to this area. The seasonal variations of sea ice distribution, especially its retreat in summer, influence the isotopic composition of the water vapor in this region and the modeled isotope–temperature temporal slopes in the eastern part of Greenland. A stronger LGM AMOC decreases LGM-to-preindustrial isotopic anomalies in precipitation in Greenland, degrading the isotopic model–data agreement. The AMOC strength modifies the temporal slopes over inner Greenland slightly and by a little on the coasts along the Greenland Sea where the changes in surface temperature and sea ice distribution due to the AMOC strength mainly occur.",
+    "readLink": "https://cp.copernicus.org/articles/19/1275/2023/cp-19-1275-2023.pdf"
+  },
+  {
+    "title": "Comprehensive Review and Analysis of Glazing Systems towards Nearly Zero-Energy Buildings: Energy Performance, Thermal Comfort, Cost-Effectiveness, and Environmental Impact Perspectives",
+    "authors": [
+      "Saman Abolghasemi Moghaddam,",
+      "Catarina Serra,",
+      "Manuel Gameiro da Silva,",
+      "Nuno Simões"
+    ],
+    "doi": "https://doi.org/10.3390/en16176283",
+    "journalVolume": "Vol. 16,\n                                no. 6283\n                                \n                                  p.\n                                  6283",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The global interest in nearly zero-energy buildings (NZEBs) has led to their establishment as mandatory building objectives in Europe for all new constructions starting in 2021. The principles outlined in the Energy Performance of Building Directive (EPBD) emphasize the significance of reducing energy demand through various energy efficiency measures to achieve NZEB status. Among these measures, the utilization of high-performance glazing systems plays a crucial role in ensuring natural light, ventilation, favorable solar gain, aesthetics, and positive psychological effects in buildings, while maintaining high energy performance and thermal comfort without burdening the budget or harming the environment. The use of increasingly larger glazing areas makes this topic of great relevance. Nevertheless, numerous studies frequently overlook certain crucial aspects of glazing systems in their assessments. This review study aims to assess different glazing solutions based on four critical perspectives called “EThCE”: Energy performance, thermal comfort, cost-effectiveness, and environmental impact, considering their interrelationships. Furthermore, the importance of adopting a comprehensive approach for selecting the optimal glazing solution for NZEBs is discussed. Additionally, the relationship between glazing systems and climate change is taken into account. Ultimately, the authors propose a comprehensive approach, including all the influential factors, to assist designers and homeowners in making informed decisions regarding glazing system selection for new NZEBs or NZEB retrofits in different situations.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/17/6283"
+  },
+  {
+    "title": "Analysis of phase change materials for regulating the thermal environment of greenhouses in different climatic conditions in Highland areas",
+    "authors": [
+      "Zhao Yan,",
+      "Liu Chaofu,",
+      "Li Yanqiong,",
+      "Qiu Yan"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202125703079",
+    "journalVolume": "Vol. 257\n                                \n                                \n                                  p.\n                                  03079",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Phase change materials have good peak-shaving and valley-filling effects, which are effective for improving the thermal environment of passive thermal storage buildings. In this paper, phase change materials were applied to a solar greenhouse in the plateau area, and the indoor temperature is measured and analyzed under different meteorological conditions. It was concluded that when phase change materials were applied in the central region of Yunnan, where the temperature difference between day and night was large, it had a significant improvement effect on the thermal environment inside the solar greenhouse. The average outdoor air temperature, the maximum outdoor temperature difference between day and night, and solar radiation were the main factors affecting the temperature in the greenhouse. By analyzing and evaluating the effect of using phase change materials in solar greenhouses under different outdoor climate conditions, the advantages and limitations of using phase change greenhouses in different areas of the plateau were discussed.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/33/e3sconf_aesee2021_03079.pdf"
+  },
+  {
+    "title": "A Regional Comparison of Factors Affecting Global Sorghum Production: The Case of North America, Asia and Africa’s Sahel",
+    "authors": [
+      "Clara  W. Mundia,",
+      "Silvia Secchi,",
+      "Kofi Akamani,",
+      "Guangxing Wang"
+    ],
+    "doi": "https://doi.org/10.3390/su11072135",
+    "journalVolume": "Vol. 11,\n                                no. 7\n                                \n                                  p.\n                                  2135",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Understanding the dynamics of food production is critical to improving food security. This is particularly important in regions that rely on subsistence agriculture with little adaptive capacity to climate change. Sorghum plays an important role in food security in some of the poorest parts of the world. This article reviews the literature to identify and examine the major factors affecting sorghum production in three major production regions. Factors were not categorized ex ante but rather determined from the review. Ten major factors were identified as having notable impacts on sorghum production: climate change, population growth/economic development, non-food demand, agricultural inputs, demand for other crops, agricultural resources scarcity, biodiversity, cultural influence, price and armed conflict. This synthesis revealed that (1) multiple factors simultaneously affect sorghum production; (2) the effect of each factor is greatly influenced by the magnitude and certainty of one or more other factors; and, (3) factors differ in relevance and degree with regard to geography. Generally, improved agricultural inputs, population growth/economic development and climate change have substantial influence on sorghum production. However, local dynamics likely go beyond these broad trends and more exhaustive, locally-focused studies are needed for actionable planning purposes.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/7/2135"
+  }
+]

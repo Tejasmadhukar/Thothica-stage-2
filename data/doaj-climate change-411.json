@@ -1,0 +1,202 @@
+[
+  null,
+  {
+    "title": "Spatiotemporal Characteristics of US Floods: Current Status and Forecast Under a Future Warmer Climate",
+    "authors": [
+      "Zhi Li,",
+      "Shang Gao,",
+      "Mengye Chen,",
+      "Jonathan J. Gourley,",
+      "Yang Hong"
+    ],
+    "doi": "https://doi.org/10.1029/2022EF002700",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Floods in the US exhibit strong spatiotemporal variability, mainly controlled by precipitation types and catchment attributes. In a future warmer climate, it remains largely unclear how such features change, relative to the current climate. Global Climate Models at coarse resolution cannot resolve convective‐scale storms which is one of the major weather systems causing devastating floods in the US. Alternatively, coupled, high‐resolution and continental‐scale climate and flood simulations can advance our understanding. In this study, we couple a 4‐km convection‐permitting climate simulation model with a 1‐km hydrologic model to simulate the spatiotemporal variability of rainfall and flooding over the contiguous US. In particular, changes in rainfall and flood frequency, spatial scale, and seasonality are explored in major climate divisions. We found: (a) an overall increase in flood frequency (+101.7%) and spatial extent (+44.9%), mainly attributed to more extreme rainfall and variability in the future; (b) weakening rainfall and flood seasonality, resulting in more random and unpredictable events throughout the year; (c) earlier flooding season onsets in the West and snow‐dominated regions while delayed onsets in the East driven by drier antecedent soil moisture; (d) correlation between extreme rainfall and flood onsets is becoming stronger in the West yet weaker in the East in the future. Findings in this study can potentially serve as a basis for future flood exposure and risk assessments, as well as more scientific understanding of changing flood‐generating mechanisms across the CONUS.",
+    "readLink": "https://doi.org/10.1029/2022EF002700"
+  },
+  {
+    "title": "Exploration of solar radiation data from three geo-political zones in Nigeria",
+    "authors": [
+      "Adebowale O. Adejumo,",
+      "Esivue A. Suleiman,",
+      "Hilary I. Okagbue"
+    ],
+    "doi": "Vol. 13\n                                \n                                \n                                  pp.\n                                  60\n                                  – 68",
+    "issn": "2352-3409 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/data-in-brief/",
+    "abstract": "In this paper, readings of solar radiation received at three meteorological sites in Nigeria were analysed. Analysis of Variance (ANOVA) statistical test was carried out on the data set to observe the significant differences on radiations for each quarter of the specified years. The data were obtained in raw form from Nigerian Meteorological Agency (NIMET), Oshodi, Lagos. In order to get a clear description and visualization of the fluctuations of the radiation data, each year were considered independently, where it was discovered that for the 3rd quarter of each year, there is a great fall in the intensity of the solar radiation to as low as 73.27 (W/m2), 101.66 (W/m2), 158.51 (W/m2) for Ibadan, Port-Harcourt and Sokoto respectively. A detailed data description is available for the averages across months for each quarter. The data can provide insights on the health implications of exposure to solar radiation and the effect of solar radiation on climate change, food production, rainfall and flood patterns. Keywords: ANOVA, Solar radiation, Tukey׳s Post Hoc, Port Harcourt, Sokoto, Ibadan",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352340917302081"
+  },
+  {
+    "title": "Bayesian Multi-Scale Spatio-Temporal Modeling of Precipitation in the Indus Watershed",
+    "authors": [
+      "Michael F. Christensen,",
+      "Matthew J. Heaton,",
+      "Summer Rupper,",
+      "C. Shane Reese,",
+      "William F. Christensen"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2019.00210",
+    "journalVolume": "Vol. 7",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "The Indus watershed is a highly populated region that contains parts of India, Pakistan, China, and Afghanistan. Changes in precipitation patterns and rates of glacial melt have significantly impacted the region in recent years, and climate change is projected to result in further serious human and environmental consequences. To understand the climate dynamics of the Indus watershed and surrounding regions, reanalysis and satellite data from products such as APHRODITE-2, TRMM, ERA5, and MERRA-2 are often used, yet these products are not always in agreement regarding critical variables such as precipitation. Here we objectively evaluate the level of agreement between precipitation from these four products. Because these data are on different spatial scales, we propose a low-rank spatio-temporal dynamic linear model for precipitation that integrates information from each of the above climate products. Specifically, we model each data source as the combination of a modified shared process, a discrepancy process, and Gaussian noise. We define the shared process at a high spatial resolution that can be upscaled according to the resolution of the observed data. Our proposed model's shared process provides a cohesive picture of monthly precipitation in the Indus watershed from 2000 to 2009, while the product-specific discrepancies provide insight into how and where the products differ from one another.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/feart.2019.00210/full"
+  },
+  {
+    "title": "Record Low Arctic Stratospheric Ozone in Spring 2020: Measurements of Ground-Based Differential Optical Absorption Spectroscopy in Ny-Ålesund during 2017–2021",
+    "authors": [
+      "Qidi Li,",
+      "Yuhan Luo,",
+      "Yuanyuan Qian,",
+      "Ke Dou,",
+      "Fuqi Si,",
+      "Wenqing Liu"
+    ],
+    "doi": "https://doi.org/10.3390/rs15194882",
+    "journalVolume": "Vol. 15,\n                                no. 4882\n                                \n                                  p.\n                                  4882",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The Arctic stratospheric ozone depletion event in spring 2020 was the most severe compared with previous years. We retrieved the critical indicator ozone vertical column density (VCD) using zenith scattered light differential optical absorption spectroscopy (ZSL-DOAS) from March 2017 to September 2021 in Ny-Ålesund, Svalbard, Norway. The average ozone VCD over Ny-Ålesund between 18 March and 18 April 2020 was approximately 274.8 Dobson units (DU), which was only 64.7 ± 0.1% of that recorded in other years (2017, 2018, 2019, and 2021). The daily peak difference was 195.7 DU during this period. The retrieved daily averages of ozone VCDs were compared with satellite observations from the Global Ozone Monitoring Experiment-2 (GOME-2), a Brewer spectrophotometer, and a Système d’Analyze par Observation Zénithale (SAOZ) spectrometer at Ny-Ålesund. As determined using the empirical cumulative density function, ozone VCDs from the ZSL-DOAS dataset were strongly correlated with data from the GOME-2 and SAOZ at lower and higher values, and ozone VCDs from the Brewer instrument were overestimated. The resulting Pearson correlation coefficients were relatively high at 0.97, 0.87, and 0.91, respectively. In addition, the relative deviations were 2.3%, 3.1%, and 3.5%, respectively. Sounding and ERA5 data indicated that severe ozone depletion occurred between mid-March and mid-April 2020 in the 16–20 km altitude range over Ny-Ålesund, which was strongly associated with the overall persistently low temperatures in the winter of 2019/2020. Using ZSL-DOAS observations, we obtained ozone VCDs and provided evidence for the unprecedented ozone depletion during the Arctic spring of 2020. This is essential for the study of polar ozone changes and their effect on climate change and ecological conditions.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/19/4882"
+  },
+  {
+    "title": "Synthetic Fertilizer Application Coupled with Bioslurry Optimizes Potato (<i>Solanum tuberosum</i>) Growth and Yield",
+    "authors": [
+      "Zeqiang Shao,",
+      "Emmanuel R. Mwakidoshi,",
+      "Esther M. Muindi,",
+      "Rogério P. Soratto,",
+      "Shivani Ranjan,",
+      "Smruti Ranjan Padhan,",
+      "Andrew W. Wamukota,",
+      "Sumit Sow,",
+      "Daniel O. Wasonga,",
+      "Jamal Nasar,",
+      "Mahmoud F. Seleiman,",
+      "Harun I. Gitari"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy13082162",
+    "journalVolume": "Vol. 13,\n                                no. 2162\n                                \n                                  p.\n                                  2162",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "Biogas bioslurry, which is normally a bio-digestion product from livestock refuse, can be utilized as an inorganic fertilizer, thus boosting not only soil fertility but also crop growth and yield. Its use can mitigate climate change by reducing methane gas emissions, which are associated with the direct application of fresh animal manure. The current study was carried out on farmer’s fields based at Wusi-Kishamba and Werugha wards in Taita Taveta County, Kenya, and it aimed at investigating the effect of bioslurry coupled with synthetic fertilizer on potato (Solanum tuberosum L.) growth and yield. There were four treatments: sole bioslurry, sole fertilizer (DAP), bioslurry + DAP, and control, which were replicated five times in a randomized, complete block-designed layout. Data were collected on plant growth (plant height and leaf length) and yield (marketable and unmarketable tubers and the number of tubers plant−1). The results indicated a general increase in plant height from week one to week seven, where peak values were noted with sole slurry, sole fertilizer, and bioslurry + DAP treatments, which recorded 9, 18, and 43% taller plants, respectively, relative to control. Further, the combined application of bioslurry and DAP fertilizer significantly (p ≤ 0.05) improved potato growth and yield. For instance, there was a higher (23.3 t ha−1) yield in bioslurry + DAP treatment compared to the respective least record of 14.2 t ha−1 in control. Therefore, the study recommends a synergistic application of synthetic fertilizer (DAP) and bioslurry to potato crops for optimal crop growth and production.",
+    "readLink": "https://www.mdpi.com/2073-4395/13/8/2162"
+  },
+  {
+    "title": "Biotic and Environmental Drivers of Plant Microbiomes Across a Permafrost Thaw Gradient",
+    "authors": [
+      "Moira Hough,",
+      "Amelia McClure,",
+      "Benjamin Bolduc,",
+      "Ellen Dorrepaal,",
+      "Scott Saleska,",
+      "Vanja Klepac-Ceraj,",
+      "Virginia Rich"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2020.00796",
+    "journalVolume": "Vol. 11",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "Plant-associated microbiomes are structured by environmental conditions and plant associates, both of which are being altered by climate change. The future structure of plant microbiomes will depend on the, largely unknown, relative importance of each. This uncertainty is particularly relevant for arctic peatlands, which are undergoing large shifts in plant communities and soil microbiomes as permafrost thaws, and are potentially appreciable sources of climate change feedbacks due to their soil carbon (C) storage. We characterized phyllosphere and rhizosphere microbiomes of six plant species, and bulk peat, across a permafrost thaw progression (from intact permafrost, to partially- and fully-thawed stages) via 16S rRNA gene amplicon sequencing. We tested the hypothesis that the relative influence of biotic versus environmental filtering (the role of plant species versus thaw-defined habitat) in structuring microbial communities would differ among phyllosphere, rhizosphere, and bulk peat. Using both abundance- and phylogenetic-based approaches, we found that phyllosphere microbial composition was more strongly explained by plant associate, with little influence of habitat, whereas in the rhizosphere, plant and habitat had similar influence. Network-based community analyses showed that keystone taxa exhibited similar patterns with stronger responses to drivers. However, plant associates appeared to have a larger influence on organisms belonging to families associated with methane-cycling than the bulk community. Putative methanogens were more strongly influenced by plant than habitat in the rhizosphere, and in the phyllosphere putative methanotrophs were more strongly influenced by plant than was the community at large. We conclude that biotic effects can be stronger than environmental filtering, but their relative importance varies among microbial groups. For most microbes in this system, biotic filtering was stronger aboveground than belowground. However, for putative methane-cyclers, plant associations have a stronger influence on community composition than environment despite major hydrological changes with thaw. This suggests that plant successional dynamics may be as important as hydrological changes in determining microbial relevance to C-cycling climate feedbacks. By partitioning the degree that plant versus environmental filtering drives microbiome composition and function we can improve our ability to predict the consequences of warming for C-cycling in other arctic areas undergoing similar permafrost thaw transitions.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmicb.2020.00796/full"
+  },
+  {
+    "title": "The Use of Non-Conventional Water Resources as a Means of Adaptation to Drought and Climate Change in Semi-Arid Regions: South-Eastern Spain",
+    "authors": [
+      "Álvaro-Francisco Morote,",
+      "Jorge Olcina,",
+      "María Hernández"
+    ],
+    "doi": "https://doi.org/10.3390/w11010093",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  p.\n                                  93",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Drought is a climatic risk with notable repercussions on water supply systems. The aim of this study is to analyze the principal measures for management and planning implemented during recent decades in south-eastern Spain (Segura River Basin) to respond to drought situations, focusing on the role played by non-conventional water resources (desalination and treated water). The results demonstrate that the study area (despite being one of the driest places of Spain) is less vulnerable to drought than regions with an Atlantic climate and greater availability of water. This has been possible thanks to the integration of non-conventional water resources as a means of adaptation to confront this natural risk, which is estimated to become more intense and frequent in the future owing to climate change.",
+    "readLink": "http://www.mdpi.com/2073-4441/11/1/93"
+  },
+  {
+    "title": "Key global climate governance problems and Chinese countermeasures",
+    "authors": [
+      "Hailin Wang,",
+      "Xiaodan Huang,",
+      "Xiaofan Zhao,",
+      "Jiankun He"
+    ],
+    "doi": "Vol. 19,\n                                no. 2\n                                \n                                  pp.\n                                  125\n                                  – 132",
+    "issn": "2096-9589 (Print)",
+    "publisher": "2325-4262 (Online)",
+    "countryOfPublisher": "KeAi Communications Co., Ltd.",
+    "lcc": [
+      "China",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.keaipublishing.com/en/journals/chinese-journal-of-population-resources-and-environment/",
+    "abstract": "Presently, the full implementation of the negotiations and collaborations under the Paris Agreement faces new key problems and severe challenges. These problems and challenges include the following: how to honor the principle of “common but differentiated responsibilities” to facilitate a comprehensive, balanced, and effective implementation of the key elements of the Paris Agreement, such as adaptation, mitigation, finance, technology, capacity building, and transparency; how to uphold and maintain the status of China and other emerging countries as developing countries in light of the requirements of the United Nations Framework Convention on Climate Change and the historical responsibilities of these countries; and how to assess the goal of limiting the global temperature increase to 1.5°C and what constitutes an equitable carbon mitigation pathway for different types of countries. Developed countries and developing countries have drastically diverging views on carbon border adjustment measures for trade with developing countries proposed by several developed countries such as the European Union. Developed countries have demonstrated obvious intentions and actions designed to weaken and neglect the principle of “common but differentiated responsibilities”, to impose mitigation pressure on developing countries, to shift the responsibilities for emissions onto others, and to pass on the costs of mitigation. The maneuvering among different types of countries and interest groups has become increasingly intense. In response, China must maintain its strategic focus, adhere to the goals and principles established by the Paris Agreement, stick to its strategic positioning as a developing country, solidify strategic support from the developing world, and safeguard the legitimate rights and interests of developing countries. China played a conducive role in facilitating the Paris Agreement and has become an active participant, contributor, and leader in global climate governance. China must continue to follow Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era and its conception of ecological civilization and the concept of building a community of common destiny, to actively lead the cooperation process in the construction of a global climate governance system characterized by equity, justice, and win–win collaborations, and to promote compliance with the Paris Agreement. At the same time, China should accelerate the green, low-carbon, circular transformation of its economy; accelerate the coordinated governance of the economy, environment, and climate change; and formulate and implement a long-term low-carbon development strategy. By the middle of the 21st century, while achieving the goal of building a great modern socialist country, China can also achieve a deep decarbonization development path that is in line with the goal of limiting the global temperature increase to well below 2 °C and pursuing efforts to limit the increase to 1.5°C.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2325426221000917"
+  },
+  {
+    "title": "Re-Thinking Sustainable Development within Islamic Worldviews: A Systematic Literature Review",
+    "authors": [
+      "Odeh Al-Jayyousi,",
+      "Evren Tok,",
+      "Shereeza Mohamed Saniff,",
+      "Wan Norhaniza Wan Hasan,",
+      "Noora Abdulla Janahi,",
+      "Abdurahman J. Yesuf"
+    ],
+    "doi": "https://doi.org/10.3390/su14127300",
+    "journalVolume": "Vol. 14,\n                                no. 7300\n                                \n                                  p.\n                                  7300",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Many models of economic growth and sustainable development like circular economy, doughnut economy, and sharing economy were articulated to address the global issues including poverty, climate change, and inequity. However, these models were not informed by traditional value-based worldviews. This systematic literature review aims to gain insights on the different models, practices, and drivers for Islamic sustainable development to inform a new discourse for sustainability. Besides, it intends to define emerging themes in sustainable development and explore the viability for adopting Islamic development models to promote inclusive, pro-poor, and human-centred development. The methodology adopted is systematic literature review to identify sustainability models, practices, and drivers in Islam. Policy recommendations and strategic directions are outlined based on the review.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/12/7300"
+  }
+]

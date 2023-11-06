@@ -1,0 +1,224 @@
+[
+  {
+    "title": "A GIS-Based Simulation Method for Regional Food Potential and Demand",
+    "authors": [
+      "Keyu Bao,",
+      "Rushikesh Padsala,",
+      "Volker Coors,",
+      "Daniela Thrän,",
+      "Bastian Schröter"
+    ],
+    "doi": "https://doi.org/10.3390/land10080880",
+    "journalVolume": "Vol. 10,\n                                no. 880\n                                \n                                  p.\n                                  880",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "A quantitative assessment of food-water-energy interactions is important to assess pathways and scenarios towards a holistically sustainable regional development. While a range of tools and methods exist that assess energetic demands and potentials on a regional scale, the same is not true for assessments of regional food demand and potential. This work introduces a new food simulation workflow to address local food potential and demand at the regional level, by extending an existing regional energy-water simulation platform. The goal of this work is to develop a GIS-based bottom-up approach to simulate regional food demand that can be linked to similarly GIS-based workflows assessing regional water demands and energetic demands and potentials. This allows us to study food-water-energy issues on a local scale. For this, a CityGML land use data model is extended with a feed and animal potential raster map as well as a soil type map to serve as the main inputs. The workflow simulates: (1) the vegetal and animal product food potentials by taking climate, crop type, soil type, organic farming, and food waste parameters into account; (2) the food demand of vegetal and animal products influenced by population change, body weight, age, human development index, and other indicators. The method is tested and validated in three German counties with various land use coverages. The results show that restricting land used exclusively for energy crop production is the most effective way to increase annual food production potential. Climate change by 2050 is expected to result in annual biomass yield changes between −4% and 2% depending on the region. The amount of animal product consumption is expected to rise by 16% by 2050, while 4% fewer vegetal products are excepted to be consumed.",
+    "readLink": "https://www.mdpi.com/2073-445X/10/8/880"
+  },
+  {
+    "title": "Kinetics and product identification of water-dissolved nitroguaiacol photolysis under artificial sunlight",
+    "authors": [
+      "Ajda Delić,",
+      "Ajda Delić,",
+      "Urša Skube,",
+      "Martin Šala,",
+      "Ana Kroflič,",
+      "Ana Kroflič"
+    ],
+    "doi": "https://doi.org/10.3389/fchem.2023.1211061",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-2646 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/chemistry",
+    "abstract": "Nitroguaiacols are typical constituents of biomass-burning emissions, including absorbing aerosols which contribute to climate change. Although they are also harmful to humans and plants, their atmospheric fate and lifetimes are still very speculative. Therefore, in this work, the photolysis kinetics of aqueous-phase 4-nitroguaiacol (4NG) and 5-nitroguaiacol (5NG), and the resulting photo-formed products were investigated under artificial sunlight, observing also the effect of sunlight on the absorption properties of the solutions. We found the photolysis of 5NG slower than that of 4NG, whereas the absorbance in the visible range prevailed in the 5NG solutions at the end of experiments. Although we identified dinitroguaiacol as one of the 4NG photolysis products, which increased light absorption of 4NG-containing solutions, considerably more chromophores formed in the 5NG photolyzed solutions, implying its stronger potential for secondary BrC formation in the atmosphere. In general, denitration, carbon loss, hydroxylation, nitration, and carbon gain were characteristic of 4NG phototransformation, while carbon loss, hydroxylation, and carbon gain were observed in the case of 5NG. The photolysis kinetics was found of the first order at low precursor concentrations (<0.45 mM), resulting in their lifetimes in the order of days (125 and 167 h illumination for 4NG and 5NG, respectively), which suggests long-range transport of the investigated compounds in the atmosphere and proposes their use as biomass-burning aerosol tracer compounds.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fchem.2023.1211061/full"
+  },
+  {
+    "title": "Deep sea nature-based solutions to climate change",
+    "authors": [
+      "Nathalie Hilmi,",
+      "Michael Sutherland,",
+      "Shekoofeh Farahmand,",
+      "Gunnar Haraldsson,",
+      "Erik van Doorn,",
+      "Ekkehard Ernst,",
+      "Mary S. Wisz,",
+      "Astrid Claudel Rusin,",
+      "Laura G. Elsler,",
+      "Lisa A. Levin"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2023.1169665",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "The deep sea (below 200 m depth) is the largest carbon sink on Earth. It hosts abundant biodiversity that underpins the carbon cycle and provides provisioning, supporting, regulating and cultural ecosystem services. There is growing attention to climate-regulating ocean ecosystem services from the scientific, business and political sectors. In this essay we synthesize the unique biophysical, socioeconomic and governance characteristics of the deep sea to critically assess opportunities for deep-sea blue carbon to mitigate climate change. Deep-sea blue carbon consists of carbon fluxes and storage including carbon transferred from the atmosphere by the inorganic and organic carbon pumps to deep water, carbon sequestered in the skeletons and bodies of deep-sea organisms, carbon buried within sediments or captured in carbonate rock. However, mitigating climate change through deep-sea blue carbon enhancement suffers from lack of scientific knowledge and verification, technological limitations, potential environmental impacts, a lack of cooperation and collaboration, and underdeveloped governance. Together, these issues suggest that deep-sea climate change mitigation is limited. Thus, we suggest that a strong focus on blue carbon is too limited a framework for managing the deep sea to contribute to international goals, including the Sustainable Development Goals (SDGs), the Paris Agreement and the post-2020 Biodiversity Goals. Instead, the deep sea can be viewed as a more holistic nature-based solution, including many ecosystem services and biodiversity in addition to climate. Environmental impact assessments (EIAs), area-based management, pollution reduction, moratoria, carbon accounting and fisheries management are tools in international treaties that could help realize benefits from deep-sea, nature-based solutions.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2023.1169665/full"
+  },
+  {
+    "title": "Effects of Guangzhou seasonal climate change on the development of Aedes albopictus and its susceptibility to DENV-2.",
+    "authors": [
+      "Shanshan Wu,",
+      "Yulan He,",
+      "Yong Wei,",
+      "Peiyang Fan,",
+      "Weigui Ni,",
+      "Daibin Zhong,",
+      "Guofa Zhou,",
+      "Xueli Zheng"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0266128",
+    "journalVolume": "Vol. 17,\n                                no. 4\n                                \n                                  p.\n                                  e0266128",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The susceptibility of Asian tiger mosquitoes to DENV-2 in different seasons was observed in simulated field environments as a reference to design dengue fever control strategies in Guangzhou. The life table experiments of mosquitoes in four seasons were carried out in the field. The susceptibility of Ae. albopictus to dengue virus was observed in both environments in Guangzhou in summer and winter. Ae. albopictus was infected with dengue virus by oral feeding. On day 7 and 14 after infection, the viral load in the head, ovary, and midgut of the mosquito was detected using real-time fluorescent quantitative PCR. Immune-associated gene expression in infected mosquitoes was performed using quantitative real-time reverse transcriptase PCR. The hatching rate and pupation rate of Ae. albopictus larvae in different seasons differed significantly. The winter hatching rate of larvae was lower than that in summer, and the incubation time was longer than in summer. In the winter field environment, Ae. albopictus still underwent basic growth and development processes. Mosquitoes in the simulated field environment were more susceptible to DENV-2 than those in the simulated laboratory environment. In the midgut, viral RNA levels on day 7 in summer were higher than those on day 7 in winter (F = 14.459, P = 0.01); ovarian viral RNA levels on day 7 in summer were higher than those on day 7 in winter (F = 8.656, P 0.05). Dicer-2 mRNA expression on day 7 in winter was 4.071 times than that on day 7 in summer: the viral load and Dicer-2 expression correlated moderately. Ae. albopictus could still develop and transmit dengue virus in winter in Guangzhou. Mosquitoes under simulated field conditions were more susceptible to DENV-2 than those under simulated laboratory conditions.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0266128"
+  },
+  {
+    "title": "Latitude-Induced and Behaviorally Thermoregulated Variations in Upper Thermal Tolerance of Two Anuran Species",
+    "authors": [
+      "Ye Inn Kim,",
+      "Ming-Feng Chuang,",
+      "Amaël Borzée,",
+      "Sera Kwon,",
+      "Yikweon Jang"
+    ],
+    "doi": "https://doi.org/10.3390/biology11101506",
+    "journalVolume": "Vol. 11,\n                                no. 1506\n                                \n                                  p.\n                                  1506",
+    "issn": "2079-7737 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/biology",
+    "abstract": "Although thermal tolerance along geographical gradients gives an insight into species’ response to climate change, current studies on thermal tolerance are strongly skewed towards global-scale patterns. As a result, intraspecific variations are often assumed to be constant, despite a lack of evidence. To understand population-specific responses to thermal stress, we investigated the presence of intraspecific variations in the critical thermal maximum (CTmax) of tadpoles in two anuran species, Rana uenoi and Bufo sachalinensis. The study was conducted across a five-degree latitudinal gradient in the Republic of Korea. We exposed the tadpoles to increasing temperatures and recorded the CTmax for 270 R. uenoi individuals from 11 sites, collected in rice paddies, and for 240 B. sachalinensis individuals from ten sites, collected in reservoirs. We also recorded the swimming performance and behavior of the tadpoles when placed in an experimental apparatus during CTmax measurements. We then used linear regressions to determine the relationship between abiotic factors and CTmax. In R. uenoi, we found a positive relationship between latitude and CTmax, but the tadpoles did not display specific thermoregulatory behaviors. In B. sachalinensis, none of the abiotic factors such as climate and geographic coordinates were related to CTmax, but we detected a tendency to swim close to the water surface when water temperature was increasing. For R. uenoi, we tentatively relate the CTmax variability across the latitudinal gradient to a physiological adaptive response associated with habitat characteristics that are assumed to be fluctuating, as the species inhabits small water bodies prone to drying out. In the case of B. sachalinensis, the behavior observed may be linked to oxygen depletion and thermoregulation, as it may buffer temperature changes in the absence of physiological adjustment. These findings suggest that intra-specific variations in CTmax are greater than generally accounted for, and thermal conditions of natural environments are important for understanding thermal tolerance in ectothermic species. Our results highlight that species’ specific responses to climate warmings need to be studied to better protect species against climate change.",
+    "readLink": "https://www.mdpi.com/2079-7737/11/10/1506"
+  },
+  {
+    "title": "Climate-Related Distribution Shifts of Migratory Songbirds and Sciurids in the White Mountain National Forest",
+    "authors": [
+      "Aimee Van Tatenhove,",
+      "Emily Filiberti,",
+      "T. Scott Sillett,",
+      "Nicholas Rodenhouse,",
+      "Michael Hallworth"
+    ],
+    "doi": "https://doi.org/10.3390/f10020084",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  p.\n                                  84",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Climate change has been linked to distribution shifts and population declines of numerous animal and plant species, particularly in montane ecosystems. The majority of studies suggest both that low-elevation avian and small mammal species are shifting up in elevation and that high-elevation avian communities are either shifting further upslope or relocating completely with an increase in average local temperatures. However, recent research suggests numerous high elevation montane species are either not shifting or are shifting down in elevation despite the local increasing temperature trends, perhaps as a result of the increased precipitation at high elevations. In this study, we examine common vertebrate species distributions across the Hubbard Brook valley in the White Mountain National Forest, including resident and migratory songbirds and small mammals, in relation to historic spring temperature and precipitation. We found no directional change in distributions through time for any of the species. However, we show that the majority of low-elevation bird species in our study area respond to warm spring temperatures by shifting upslope. All bird species that shifted were long-distance migrants. Each low-elevation migrant species responded differently to warm spring temperatures, through upslope distribution expansion, downslope distribution contraction, or total distribution shift upslope. In contrast, we found a majority of high-elevation bird species and both high- and low-elevation mammal species did not shift in response to spring temperature or precipitation and may be subject to more complex climate trends. The heterogeneous response to climate change highlights the need for more comprehensive studies on the subject and careful consideration for appropriate species and habitat management plans in northeastern montane regions.",
+    "readLink": "https://www.mdpi.com/1999-4907/10/2/84"
+  },
+  {
+    "title": "Mineralogical Record for Stepwise Hydroclimatic Changes in Lake Qinghai Sediments Since the Last Glacial Period",
+    "authors": [
+      "Yougui Song,",
+      "Xiulan Zong,",
+      "Linbo Qian,",
+      "Huifang Liu,",
+      "Jibao Dong,",
+      "Hong Chang,",
+      "Mingyu Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/min10110963",
+    "journalVolume": "Vol. 10,\n                                no. 963\n                                \n                                  p.\n                                  963",
+    "issn": "2075-163X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Geology: Mineralogy"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/minerals",
+    "abstract": "Lake Qinghai is sensitive to climatic changes because of its pivotal location between mid-latitude Westerlies and the low-latitude East Asian monsoon. An 18.6 m long drilling core (1Fs) from Lake Qinghai provides new information on the hydroclimatic dynamics since the last glacial period. Here, we present the results of bulk mineral assemblages of this core. X-ray diffraction (XRD) results showed that the bulk minerals of the core sediments consist of major clastic minerals (e.g., quartz, feldspar, muscovite), carbonates (e.g., calcite, aragonite, dolomite), and minor clay minerals (e.g., chlorite). Quartz as an exogenous detrital mineral in lake sediments, its abundance is related to lake level changes resulting from regional climate changes via fluvial/aeolian transportation. Aragonite was precipitated from water solutions or chemical alteration of pre-existing minerals or biogenic mediation, closely related to lake hydroclimate change. Mineral assemblages revealed remarkable stepwise hydroclimatic changes. High quartz content and low calcite without aragonite suggested a cold-wet climate condition under predominant westerlies during the last glacial period from 35 to 25.3 ka. Afterward, quartz decreased and aragonite occasionally appeared, indicating an unstable hydroclimatic condition during the last deglaciation. Since the Early Holocene (11.9–8.2 ka), predominant minerals shifted from terrigenous quartz to authigenic carbonates, suggesting an increasing lake level, possibly due to intensified Asian summer monsoon with increased effective moisture. Aragonite became the primary carbonate mineral, implying a warming and humid hydroclimate environment with a relatively higher lake-level. During the Middle Holocene (8.2–4.2 ka), aragonite showed a decreasing trend indicating a higher lake level with weak evaporation. During the Late Holocene since 4.2 ka, there were lower quartz and aragonite, suggesting a deep lake with a weak summer monsoon. Our quartz and carbonate minerals record provided essential clues to reconstruct hydroclimate change in Lake Qinghai since the last glacial period.",
+    "readLink": "https://www.mdpi.com/2075-163X/10/11/963"
+  },
+  {
+    "title": "Functional responses of recently emerged seedlings of an endemic Mexican oak (<em>Quercus eduardii</em>) under climate change conditions",
+    "authors": [
+      "Ernesto I. Badano,",
+      "Francisco A. Guerra-Coss,",
+      "Sandra M. Gelviz-Gelvez,",
+      "Joel Flores,",
+      "Pablo Delgado-Sánchez"
+    ],
+    "doi": "https://doi.org/10.17129/botsci.1988",
+    "journalVolume": "Vol. 96,\n                                no. 4",
+    "issn": "2007-4298 (Print)",
+    "publisher": "2007-4476 (Online)",
+    "countryOfPublisher": "Sociedad Botánica de México, A. C.",
+    "lcc": [
+      "Mexico",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.botanicalsciences.com.mx/",
+    "abstract": "Background: Climate change will increase temperature and reduce rainfall across temperate forests of Mexico. This can alter tree establishment dynamics within forest and in neighbouring man-made clearings. Hypotheses: Climate change will reduce emergence and survival of tree seedlings, and surviving plants will display functional responses matching with these changes. These effects should be more noticeable in clearings due to the lack of canopy cover. Studied species: Quercus eduardii (Fagaceae, section Lobatae) an oak species endemic to Mexico. Study site and years of study: Tree growing season 2015-2016 (rainy season) in a mature oak forest and a neighbouring clearing in Sierra de Álvarez, state of San Luis Potosí. Methods: In both habitats, we established control plots (under current climatic conditions) and climate change simulation plots (increased temperature and reduced rainfall). At the beginning of the growing season, we sowed acorns of Q. eduardii in these plots and monitored the emergence, survival and growth of seedlings. At the end of the growing season, we assessed functional responses on surviving seedlings. Results: Seedling emergence and survival were lower in climate change plots from both habitats. However, differences in survival between climate treatments were larger within the forest. Seedlings from climate change plots displayed functional responses indicating higher levels of thermal and water stress. Conclusions: This study indicates that climate change will constrain tree recruitment in Mexican oak forests. However, contrary to our expectations, it seems that these effects will be higher within forests than in man-made clearings.",
+    "readLink": "https://www.botanicalsciences.com.mx/index.php/botanicalSciences/article/view/1988"
+  },
+  {
+    "title": "Evaluating the Causal Relations between the Kaya Identity Index and ODIAC-Based Fossil Fuel CO<sub>2 </sub>Flux",
+    "authors": [
+      "YoungSeok Hwang,",
+      "Jung-Sup Um,",
+      "JunHwa Hwang,",
+      "Stephan Schlüter"
+    ],
+    "doi": "https://doi.org/10.3390/en13226009",
+    "journalVolume": "Vol. 13,\n                                no. 6009\n                                \n                                  p.\n                                  6009",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The Kaya identity is a powerful index displaying the influence of individual carbon dioxide (CO2) sources on CO2 emissions. The sources are disaggregated into representative factors such as population, gross domestic product (GDP) per capita, energy intensity of the GDP, and carbon footprint of energy. However, the Kaya identity has limitations as it is merely an accounting equation and does not allow for an examination of the hidden causalities among the factors. Analyzing the causal relationships between the individual Kaya identity factors and their respective subcomponents is necessary to identify the real and relevant drivers of CO2 emissions. In this study we evaluated these causal relationships by conducting a parallel multiple mediation analysis, whereby we used the fossil fuel CO2 flux based on the Open-Source Data Inventory of Anthropogenic CO2 emissions (ODIAC). We found out that the indirect effects from the decomposed variables on the CO2 flux are significant. However, the Kaya identity factors show neither strong nor even significant mediating effects. This demonstrates that the influence individual Kaya identity factors have on CO2 directly emitted to the atmosphere is not primarily due to changes in their input factors, namely the decomposed variables.",
+    "readLink": "https://www.mdpi.com/1996-1073/13/22/6009"
+  },
+  {
+    "title": "Determining the Climate Risk in the City Using the Risk Matrix Method - Examples from Poland",
+    "authors": [
+      "Wojciech Szymalski,",
+      "Andrzej Kassenberg"
+    ],
+    "doi": "https://doi.org/10.21697/seb.2022.16",
+    "journalVolume": "Vol. 20,\n                                no. 3",
+    "issn": "1733-1218 (Print)",
+    "publisher": "2719-826X (Online)",
+    "countryOfPublisher": "Wydawnictwo Naukowe Uniwersytetu Kardynała Stefana Wyszyńskiego",
+    "lcc": [
+      "Poland",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology",
+      "Philosophy. Psychology. Religion: Philosophy (General)"
+    ],
+    "journalUrl": "https://czasopisma.uksw.edu.pl/index.php/seb",
+    "abstract": "The preparation of urban adaptation plans in Poland required application of tools, hitherto rarely used in geographical sciences. One of them is the risk matrix, the application of which originates from management science. The original application of the risk matrix is the business environment. The first prepared municipal plan for adaptation in Poland is The Climate Change adaptation strategy for the city of Warsaw by 2030 (The City of Warsaw 2019). The ongoing analytical work related to the preparation of this plan for adaptation was completed with the preparation of the draft strategy in 2017. The preparation of the draft took place during a workshop held with a group of stakeholders, called the Warsaw Climate Change Adaptation Roundtable (the so-called “WOSAK”). During this workshop, a risk matrix was used for the first time to determine climate risk in Warsaw. Subsequently, the method was used in other cities in Poland. This paper will present the basis for the application of the risk matrix method, in the assessment of a city’s climate risk. The results and evaluation of the application of the method in the city’s adaptation plans prepared so far by the team of the Institute for Sustainable Development Foundation, will also be presented.",
+    "readLink": "https://czasopisma.uksw.edu.pl/index.php/seb/article/view/10194"
+  }
+]

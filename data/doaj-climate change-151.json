@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Design and Evaluation of Green Space In Situ Rainwater Regulation and Storage Systems for Combating Extreme Rainfall Events: Design of Shanghai Gongkang Green Space to Adapt to Climate Change",
+    "authors": [
+      "Changkun Xie,",
+      "Zhedong Wang,",
+      "Bingqin Yu,",
+      "Shengquan Che"
+    ],
+    "doi": "https://doi.org/10.3390/land11060777",
+    "journalVolume": "Vol. 11,\n                                no. 777\n                                \n                                  p.\n                                  777",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Global climate change has led to more extreme rainfall events. Exploring the different design schemes of rainwater in situ regulation and storage systems in green spaces to cope with extreme rainfall events is critical to cities for combating flood disasters. Using the Gongkang green space as the research object and the XPDrainage software program as the simulation tool, this study explored and evaluated different design schemes of rainwater in situ regulation and storage systems in green spaces and their responses to extreme rainfall events in Shanghai. Based on the simulated results of the runoff curves, paths and ponding area of the Gongkang green space, the ideal number and position of rainwater regulation and storage facilities were determined. Four different schemes were examined: Scheme A (diversion-oriented), Scheme B (infiltration- and detention-oriented) and schemes C and D (comprehensive rainwater regulation and storage systems). From the simulation evaluation, the total runoff volume capture rate of Scheme C reached 100%, 99.8% and 98.2% under one-, three- and five-year return period rainfall events, respectively. For the 210 mm extraordinary rainstorm event, Scheme C’s and Scheme D’s total runoff volume capture rates reached 81.9% and 94.7%, respectively. Therefore, the comprehensive rainwater regulation and storage schemes (schemes C and D) met the runoff control requirements under extreme rainfall events in the Gongkang green space. This study provides a technical reference for the optimal design of a rainwater in situ regulation and storage system in a green space and promotes the construction of resilient cities.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/6/777"
+  },
+  {
+    "title": "Influence of Quasi-Periodic Oscillation of Atmospheric Variables on Radiation Fog over A Mountainous Region of Korea",
+    "authors": [
+      "Inyeob La,",
+      "Seong Soo Yum,",
+      "Ismail Gultepe,",
+      "Jae Min Yeom,",
+      "Jae In Song,",
+      "Joo Wan Cha"
+    ],
+    "doi": "https://doi.org/10.3390/atmos11030230",
+    "journalVolume": "Vol. 11,\n                                no. 3\n                                \n                                  p.\n                                  230",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "To enhance our understanding of fog processes over complex terrain, various fog events that occurred during the International Collaborative Experiments for Pyeongchang 2018 Winter Olympics and Paralympics (ICE-POP) campaign were selected. Investigation of thermodynamic, dynamic, and microphysical conditions within fog layers affected by quasi-periodic oscillation of atmospheric variables was conducted using observations from a Fog Monitor-120 (FM-120) and other in-situ meteorological instruments. A total of nine radiation fog cases that occurred in the autumn and winter seasons during the campaign over the mountainous region of Pyeongchang, Korea were selected. The wavelet analysis was used to study quasi-period oscillations of dynamic, microphysical, and thermodynamic variables. By decomposing the time series into the time-frequency space, we can determine both dominant periods and how these dominant periods change in time. Quasi-period oscillations of liquid water content (LWC), pressure, temperature, and horizontal/vertical velocity, which have periods of 15−40 min, were observed during the fog formation stages. We hypothesize that these quasi-periodic oscillations were induced by Kelvin−Helmholtz instability. The results suggest that Kelvin−Helmholtz instability events near the surface can be explained by an increase in the vertical shear of horizontal wind and by a simultaneous increase in wind speed when fog forms. In the mature stages, fluctuations of the variables did not appear near the surface anymore.",
+    "readLink": "https://www.mdpi.com/2073-4433/11/3/230"
+  },
+  {
+    "title": "Examining Scale Dependent Environmental Effects on American Lobster (Homarus americanus) Spatial Distribution in a Changing Gulf of Maine",
+    "authors": [
+      "Jamie Behan,",
+      "Bai Li,",
+      "Yong Chen"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2021.680541",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The Gulf of Maine (GOM) is a highly complex environment and previous studies have suggested the need to account for spatial nonstationarity in species distribution models (SDMs) for the American lobster (Homarus americanus). To explore impacts of spatial nonstationarity on species distribution, we compared models with the following three assumptions : (1) large-scale and stationary relationships between species distributions and environmental variables; (2) meso-scale models where estimated relationships differ between eastern and western GOM, and (3) finer-scale models where estimated relationships vary across eastern, central, and western regions of the GOM. The spatial scales used in these models were largely determined by the GOM coastal currents. Lobster data were sourced from the Maine-New Hampshire Inshore Bottom Trawl Survey from years 2000–2019. We considered spatial and environmental variables including latitude and longitude, bottom temperature, bottom salinity, distance from shore, and sediment grain size in the study. We forecasted distributions for the period 2028–2055 using each of these models under the Representative Concentration Pathway (RCP) 8.5 “business as usual” climate warming scenario. We found that the model with the third assumption (i.e., finest scale) performed best. This suggests that accounting for spatial nonstationarity in the GOM leads to improved distribution estimates. Large-scale models revealed a tendency to estimate global relationships that better represented a specific location within the study area, rather than estimating relationships appropriate across all spatial areas. Forecasted distributions revealed that the largest scale models tended to comparatively overestimate most season × sex × size group lobster abundances in western GOM, underestimate in the western portion of central GOM, and overestimate in the eastern portion of central GOM, with slightly less consistent and patchy trends amongst groups in eastern GOM. The differences between model estimates were greatest between the largest and finest scale models, suggesting that fine-scale models may be useful for capturing effects of unique dependencies that may operate at localized scales. We demonstrate how estimates of season-, sex-, and size- specific American lobster spatial distribution would vary based on the spatial scale assumption of nonstationarity in the GOM. This information may help develop appropriate local adaptation measures in a region that is susceptible to climate change.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2021.680541/full"
+  },
+  {
+    "title": "Understanding Determinants of Hunting Trip Productivity in an Arctic Community",
+    "authors": [
+      "Angus W. Naylor,",
+      "Angus W. Naylor,",
+      "Tristan Pearce,",
+      "James D. Ford,",
+      "James D. Ford,",
+      "David Fawcett,",
+      "Peter Collings,",
+      "Sherilee L. Harper"
+    ],
+    "doi": "https://doi.org/10.3389/fsufs.2021.688350",
+    "journalVolume": "Vol. 5",
+    "issn": "2571-581X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-food-systems#",
+    "abstract": "We examine factors underlying hunting productivity among Inuit in Ulukhaktok, Northwest Territories, Canada. Specifically, we focus on the role of gasoline use as the main variable of interest—commonly cited as a crucial determinant of hunting participation. Over the course of 12 months, 10 hunters recorded their on-the-land activities using a GPS tracking system, participatory mapping sessions, and bi-weekly interviews. A multivariable linear regression model (MvLRM) was applied to assess whether factors such as consumables used (i.e. heating fuel, gasoline, oil, food), distances traveled, or the number of companions on a trip were associated with the mass of edible foods returned to the community. Results indicate that, despite being positively associated with hunting trip productivity when assessed through a univariable linear regression model, gasoline is not a statistically significant determinant of standalone trip yield when adjusting for other variables in a multivariable linear regression. Instead, factors relating to seasonality, number of companions, and days on the land emerged as more significant and substantive drivers of productivity while out on the land. The findings do not suggest that access to, or the availability of, gasoline does not affect whether a hunting trip commences or is planned, nor that an increase in the amount of gasoline available to a hunter might increase the frequency of trips (and therefore annual productivity). Rather, this work demonstrates that the volume of gasoline used by harvesters on standalone hunting trips represent a poor a priori predictor of the edible weight that harvesters are likely to return to the community.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fsufs.2021.688350/full"
+  },
+  {
+    "title": "Karst Landscape Governance in the Guilin World Heritage Site, China",
+    "authors": [
+      "Guizhen He,",
+      "Mingzhao Yu,",
+      "Xiang Zhao,",
+      "Lei Zhang,",
+      "Lina Shen"
+    ],
+    "doi": "https://doi.org/10.3390/heritage6060237",
+    "journalVolume": "Vol. 6,\n                                no. 237\n                                \n                                  pp.\n                                  4492\n                                  – 4508",
+    "issn": "2571-9408 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Auxiliary sciences of history: Archaeology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/heritage",
+    "abstract": "Sustaining karst landscape areas in World Heritage Sites under increasing human pressures and climate change is an emerging challenge. Growing evidence has highlighted the transition from traditional government-oriented regulation to the collaborative governance of different stakeholders in governing karst landscape resources. However, the complexity and dynamics of karst landscape policy and stakeholder networks are poorly understood. This study combined a legislative analysis, network analysis, and public survey to explore effective methods of karst landscape conservation in the Guilin World Heritage Site, China. The policy analysis showed that various national laws and local regulations have been enacted in China, but these regulations often focused on individual aspects of karst–human interactions. The network analysis indicated the complexity and relationship of networks in karst World Heritage Site governance at the national, provincial, and municipal scales. The majority of questionnaire respondents (65–89%) reported a medium and high level of karst landscape governance effectiveness. The insights in the present study may be valuable for other karst World Heritage Sites facing complex challenges, especially in developing countries.",
+    "readLink": "https://www.mdpi.com/2571-9408/6/6/237"
+  },
+  {
+    "title": "Regulation of Methane Emissions in a Constructed Wetland by Water Table Changes",
+    "authors": [
+      "Chenyan Sha,",
+      "Qiang Wang,",
+      "Jian Wu,",
+      "Wenan Hu,",
+      "Cheng Shen,",
+      "Beier Zhang,",
+      "Min Wang"
+    ],
+    "doi": "https://doi.org/10.3390/su15021536",
+    "journalVolume": "Vol. 15,\n                                no. 1536\n                                \n                                  p.\n                                  1536",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Riparian wetlands release greenhouse gases and sequestration carbon as well, so their carbon source and carbon sink functions have become some of the key research issues of global climate change. In this present paper, the main controllable factors of the self-designed and constructed riparian wetland, namely hydrological conditions and additional carbon sources, were artificially regulated, and then methane fluxes were measured. The results proved that the methane emissions were significantly positively correlated with the water level heights, and the methane emissions increased exponentially with the rise of water level when the water level was between −20 cm and +20 cm. According to the −20~0 cm water level, a small number of methane emissions was significantly different from the 10 cm and 20 cm water levels, which indicated that higher water level could significantly promote methane emission. When the water level reached above 0 cm, the methane emission gradually increased as the flooding time became longer; it reached the peak value after more than 20 days of flooding after which it decreased, which provided a scientific basis for optimal design and effective management of restored and constructed riparian wetlands, minimizing the methane emissions of riparian wetlands.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/2/1536"
+  },
+  {
+    "title": "Vegetation Changes in the Permafrost Regions of the Qinghai-Tibetan Plateau from 1982-2012: Different Responses Related to Geographical Locations and Vegetation Types in High-Altitude Areas.",
+    "authors": [
+      "Zhiwei Wang,",
+      "Qian Wang,",
+      "Xiaodong Wu,",
+      "Lin Zhao,",
+      "Guangyang Yue,",
+      "Zhuotong Nan,",
+      "Puchang Wang,",
+      "Shuhua Yi,",
+      "Defu Zou,",
+      "Yu Qin,",
+      "Tonghua Wu,",
+      "Jianzong Shi"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0169732",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  p.\n                                  e0169732",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "The Qinghai-Tibetan Plateau (QTP) contains the largest permafrost area in a high-altitude region in the world, and the unique hydrothermal environments of the active layers in this region have an important impact on vegetation growth. Geographical locations present different climatic conditions, and in combination with the permafrost environments, these conditions comprehensively affect the local vegetation activity. Therefore, the responses of vegetation to climate change in the permafrost region of the QTP may be varied differently by geographical location and vegetation condition. In this study, using the latest Global Inventory Modeling and Mapping Studies (GIMMS) Normalized Difference Vegetation Index (NDVI) product based on turning points (TPs), which were calculated using a piecewise linear model, 9 areas within the permafrost region of the QTP were selected to investigate the effect of geographical location and vegetation type on vegetation growth from 1982 to 2012. The following 4 vegetation types were observed in the 9 selected study areas: alpine swamp meadow, alpine meadow, alpine steppe and alpine desert. The research results show that, in these study areas, TPs mainly appeared in 2000 and 2001, and almost 55.1% and 35.0% of the TPs were located in 2000 and 2001. The global standardized precipitation evapotranspiration index (SPEI) and 7 meteorological variables were selected to analyze their correlations with NDVI. We found that the main correlative variables to vegetation productivity in study areas from 1982 to 2012 were precipitation, surface downward long-wave radiation and temperature. Furthermore, NDVI changes exhibited by different vegetation types within the same study area followed similar trends. The results show that regional effects rather than vegetation type had a larger impact on changes in vegetation growth in the permafrost regions of the QTP, indicating that climatic factors had a larger impact in the permafrost regions than the environmental factors (including permafrost) related to the underlying surface conditions.",
+    "readLink": "http://europepmc.org/articles/PMC5222499?pdf=render"
+  },
+  {
+    "title": "Investigation of the Effects of Climate Change on Tropical Storms and their Genesis in the Bay of Bengal",
+    "authors": [
+      "Md. Abdul Al Mohit,",
+      "Md. Towhiduzzaman,",
+      "Mossa. Samima Nasrin,",
+      "Mst. Rabiba Khatun"
+    ],
+    "doi": "https://doi.org/10.56532/mjsat.v2i4.78",
+    "journalVolume": "Vol. 2,\n                                no. 4",
+    "issn": "2785-8901 (Online)",
+    "publisher": "Penteract Technology",
+    "countryOfPublisher": "Malaysia",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "https://mjsat.com.my",
+    "abstract": "This study investigates the impact of climate change on the genesis of storms in the Bay of Bengal. Almost all the countries of the world are facing losses due to the global warming issue and related climate disasters. Bangladesh is one of the most vulnerable countries in South Asia facing damage due to climate change. In this study, the characteristic features of genesis have been analysed using the probability formula in the small latitude area of 2 degrees. To analyse the characteristics of Genesis's behaviour, we reviewed storms that occurred in the 21st century. A reliable probability calibration is derived for every 2 degrees of latitude that explains the changes of genesis due to climate changes. For a clear view of climate change's impact on cyclone genesis, we have regenerated the study domain in a 1 by 1-degree longitude and latitude box. Which represents the clear view of genesis probability. And, it is clearly viewed that the genesis will be shifted from low latitude to high latitude.",
+    "readLink": "https://mjsat.com.my/index.php/mjsat/article/view/78"
+  },
+  {
+    "title": "2021 ESC Guidelines on cardiovascular disease prevention in clinical practice",
+    "authors": [
+      "article Editorial"
+    ],
+    "doi": "https://doi.org/10.15829/1560-4071-2022-5155",
+    "journalVolume": "Vol. 27,\n                                no. 7",
+    "issn": "1560-4071 (Print)",
+    "publisher": "2618-7620 (Online)",
+    "countryOfPublisher": "«FIRMA «SILICEA» LLC",
+    "lcc": [
+      "Russian Federation",
+      "Medicine: Internal medicine: Specialties of internal medicine: Diseases of the circulatory (Cardiovascular) system"
+    ],
+    "journalUrl": "https://russjcardiol.elpub.ru",
+    "abstract": "Developed by the Task Force for cardiovascular disease prevention in clinical practice with representatives of the European Society of Cardiology and 12 medical societies with the special contribution of the European Association of Preventive Cardiology (EAPC).",
+    "readLink": "https://russjcardiol.elpub.ru/jour/article/view/5155"
+  },
+  {
+    "title": "Climate-induced speleothem radiocarbon variability on Socotra Island from the Last Glacial Maximum to the Younger Dryas",
+    "authors": [
+      "S. Therre,",
+      "J. Fohlmeister,",
+      "J. Fohlmeister,",
+      "D. Fleitmann,",
+      "A. Matter,",
+      "S. J. Burns,",
+      "J. Arps,",
+      "A. Schröder-Ritzrau,",
+      "R. Friedrich,",
+      "N. Frank"
+    ],
+    "doi": "https://doi.org/10.5194/cp-16-409-2020",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  409\n                                  – 421",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "In this study, the dead carbon fraction (DCF) variations in stalagmite M1-5 from Socotra Island in the western Arabian Sea were investigated through a new set of high-precision U-series and radiocarbon (14C) dates. The data reveal an extreme case of very high and also climate-dependent DCF. For M1-5, an average DCF of 56.2±3.4 % is observed between 27 and 18 kyr BP. Such high DCF values indicate a high influence of aged soil organic matter (SOM) and nearly completely closed-system carbonate dissolution conditions. Towards the end of the last glacial period, decreasing Mg∕Ca ratios suggest an increase in precipitation which caused a marked change in the soil carbon cycling as indicated by sharply decreasing DCF. This is in contrast to the relation of soil infiltration and DCF as seen in stalagmites from temperate zones. For Socotra Island, which is influenced by the East African–Indian monsoon, we propose that more humid conditions and enhanced net infiltration after the Last Glacial Maximum (LGM) led to dense vegetation and thus lowered the DCF by increasing 14CO2 input into the soil zone. At the onset of the Younger Dryas (YD) a sudden change in DCF towards much higher, and extremely variable, values is observed. Our study highlights the dramatic variability of soil carbon cycling processes and vegetation feedback on Socotra Island manifested in stalagmite DCF on both long-term trends and sub-centennial timescales, thus providing evidence for climate influence on stalagmite radiocarbon. This is of particular relevance for speleothem studies that aim to reconstruct past atmospheric 14C (e.g., for the purposes of 14C calibration), as these would rely on largely climate-independent soil carbon cycling above the cave.",
+    "readLink": "https://www.clim-past.net/16/409/2020/cp-16-409-2020.pdf"
+  }
+]

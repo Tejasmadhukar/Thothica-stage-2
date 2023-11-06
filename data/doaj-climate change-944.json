@@ -1,0 +1,235 @@
+[
+  {
+    "title": "The influence of an extended Atlantic hurricane season on inland flooding potential in the southeastern United States",
+    "authors": [
+      "M. H. Stone,",
+      "S. Cohen"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-17-439-2017",
+    "journalVolume": "Vol. 17,\n                                no. 3\n                                \n                                  pp.\n                                  439\n                                  – 447",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "Recent tropical cyclones, like Hurricane Katrina, have been some of the worst the United States has experienced. Tropical cyclones are expected to intensify, bringing about 20 % more precipitation, in the near future in response to global climate warming. Further, global climate warming may extend the hurricane season. This study focuses on four major river basins (Neches, Pearl, Mobile, and Roanoke) in the southeastern United States that are frequently impacted by tropical cyclones. An analysis of the timing of tropical cyclones that impact these river basins found that most occur during the low-discharge season and thus rarely produce riverine flooding conditions. However, an extension of the current hurricane season of June–November could encroach upon the high-discharge seasons in these basins, increasing the susceptibility for riverine hurricane-induced flooding. Our results indicate that 28–180 % more days would be at risk of flooding from an average tropical cyclone with an extension of the hurricane season to May–December (just 2 months longer). Future research should aim to extend this analysis to all river basins in the United States that are impacted by tropical cyclones in order to provide a bigger picture of which areas are likely to experience the worst increases in flooding risk due to a probable extension of the hurricane season with expected global climate change in the near future.",
+    "readLink": "http://www.nat-hazards-earth-syst-sci.net/17/439/2017/nhess-17-439-2017.pdf"
+  },
+  {
+    "title": "Modeling current and future groundwater demands in the White Volta River Basin of Ghana under climate change and socio-economic scenarios",
+    "authors": [
+      "Jacob Kofi Mensah,",
+      "Eric A. Ofosu,",
+      "Komlavi Akpoti,",
+      "Amos T. Kabo-Bah,",
+      "Samuel A. Okyereh,",
+      "Sandow Mark Yidana"
+    ],
+    "doi": "Vol. 41\n                                \n                                \n                                  p.\n                                  101117",
+    "issn": "2214-5818 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-hydrology-regional-studies/",
+    "abstract": "Study region: White Volta River Basin, Ghana. Study focus: Groundwater sustainability is becoming a major concern in the face of population growth, land use land cover (LULC), and climate changes. The Water Evaluation and Planning (WEAP) model is used in this study to analyse the current and future groundwater demands for the period of 2015–2070. Two Representative Concentration Pathways (RCP4.5 and RCP 8.5) scenarios from statistically downscaled fifteen CMIP5 models were combined three Shared Socioeconomic Pathways (SSPs 2,3 and 5) scenarios in the nine sub-catchments of the White Volta River Basin. New hydrological insights for the study region: The WEAP model was calibrated (2006–2012) and validated (2013–2020) using streamflow data from six gauges in five sub-catchments. The findings show that climatic change and socio-economic development will result in a disparity between groundwater supply and demand in sub-catchments with greater socioeconomic growth, especially those with higher population density and arable agricultural land. Among the basin's nine sub-catchments, four will experience water scarcity under all future scenarios. While the groundwater flow and recharge data may be evaluated using several physical hydrological models, the calibration and validation results suggest that the current modeling approach is capable of reliably predicting future groundwater demand with associated uncertainties. The study establishes a link between climate change, socio-economic growth, and groundwater availability in the White Volta River Basin.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214581822001306"
+  },
+  {
+    "title": "THEA-CODE: a design tool for the conceptual design of hybrid-electric aircraft with conventional or unconventional airframe configurations",
+    "authors": [
+      "Palaia Giuseppe,",
+      "Zanetti Davide,",
+      "Abu Salem Karim,",
+      "Cipolla Vittorio,",
+      "Binante Vincenzo"
+    ],
+    "doi": "https://doi.org/10.1051/meca/2021012",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  p.\n                                  19",
+    "issn": "2257-7777 (Print)",
+    "publisher": "2257-7750 (Online)",
+    "countryOfPublisher": "EDP Sciences",
+    "lcc": [
+      "France",
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Materials of engineering and construction. Mechanics of materials"
+    ],
+    "journalUrl": "https://www.mechanics-industry.org/",
+    "abstract": "The aviation world is dealing with the development of new and greener aviation. The need for reducing greenhouse gas emission as well as the noise is a critical requirement for the aviation of the future. The aviation world is struggling with it, and a compelling alternative can be the electric propulsion. This work aims to present THEA-CODE, a tool for the conceptual design of hybrid-electric aircraft. The tool evaluates the potential benefits of the electric propulsion in terms of fuel burnt and direct and indirect CO2 emissions. THEA-CODE is suitable not only for conventional “wing-tube” configurations but also for unconventional ones, such as the box-wing. The results show a significant reduction of fuel burnt adopting batteries with energy density higher than the current state of the art. A procedure to find the potential best compromise configurations is presented as well.",
+    "readLink": "https://www.mechanics-industry.org/articles/meca/full_html/2021/01/mi200235/mi200235.html"
+  },
+  {
+    "title": "A multi-division convolutional neural network-based plant identification system",
+    "authors": [
+      "Muammer Turkoglu,",
+      "Muzaffer Aslan,",
+      "Ali Arı,",
+      "Zeynep Mine Alçin,",
+      "Davut Hanbay"
+    ],
+    "doi": "https://doi.org/10.7717/peerj-cs.572",
+    "journalVolume": "Vol. 7\n                                \n                                \n                                  p.\n                                  e572",
+    "issn": "2376-5992 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science"
+    ],
+    "journalUrl": "https://peerj.com/computer-science/",
+    "abstract": "Background Plants have an important place in the life of all living things. Today, there is a risk of extinction for many plant species due to climate change and its environmental impact. Therefore, researchers have conducted various studies with the aim of protecting the diversity of the planet’s plant life. Generally, research in this area is aimed at determining plant species and diseases, with works predominantly based on plant images. Advances in deep learning techniques have provided very successful results in this field, and have become widely used in research studies to identify plant species. Methods In this paper, a Multi-Division Convolutional Neural Network (MD-CNN)-based plant recognition system was developed in order to address an agricultural problem related to the classification of plant species. In the proposed system, we divide plant images into equal nxn-sized pieces, and then deep features are extracted for each piece using a Convolutional Neural Network (CNN). For each part of the obtained deep features, effective features are selected using the Principal Component Analysis (PCA) algorithm. Finally, the obtained effective features are combined and classification conducted using the Support Vector Machine (SVM) method. Results In order to test the performance of the proposed deep-based system, eight different plant datasets were used: Flavia, Swedish, ICL, Foliage, Folio, Flower17, Flower102, and LeafSnap. According to the results of these experimental studies, 100% accuracy scores were achieved for the Flavia, Swedish, and Folio datasets, whilst the ICL, Foliage, Flower17, Flower102, and LeafSnap datasets achieved results of 99.77%, 99.93%, 97.87%, 98.03%, and 94.38%, respectively.",
+    "readLink": "https://peerj.com/articles/cs-572.pdf"
+  },
+  {
+    "title": "The Influence of the Provenance and Spatial Structure on the Growth of European Silver Fir (<i>Abies alba</i> Mill.) of Autochthonous Origin in a Forest Plantation in the Białowieża Forest",
+    "authors": [
+      "Aleh Marozau,",
+      "Uladzimir Kotszan,",
+      "Justyna Nowakowska,",
+      "Daria Berezovska,",
+      "Warren Keith Moser,",
+      "Tom Hsiang,",
+      "Tomasz Oszako"
+    ],
+    "doi": "https://doi.org/10.3390/f13060831",
+    "journalVolume": "Vol. 13,\n                                no. 831\n                                \n                                  p.\n                                  831",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Currently, a change in the species composition of the Białowieża Forest, eastern Poland, is occurring. Parallel to the dying of spruce (Picea abies L. Karst.), caused by Ips typographus (L.), there is a spread of deciduous tree species, among which hornbeam (Carpinus betulus L.) is the most active. Against the background of climate change, it is of interest to consider the possibility of reintroducing relict species in areas occupied until recently by spruce. One of these is silver fir (Abies alba Mill.), which is biologically and ecologically very similar to spruce. The Tisovik tract (the Belarusian part of the Białowieża Forest) is the most northeastern and the only preserved refuge of autochthonous silver fir in the region. Therefore, it is the most suitable source of propagation of this species outside the mountainous part of its range. The target area of our study was a 26-year old artificial stand included in the information system of forest genetic resources conserved in Europe. It was created in 1996 in the Polish part of the Białowieża Forest in the Hajnówka Forest District (Forestry Wilczy Jar) from 10 half-sib families originating from seeds collected in the Tisovik tract. The goal of the study was to assess the influence of provenance factors and spatial structure on productivity and phenotypic variation as measured by diameter (DBH). The study’s initial results showed that the provenance factor’s influence at the pole wood stage manifests itself more clearly than spatial structure. Even within the framework of individual half-sibs, there was a clear differentiation of diameters between investigated trees. Interpretation of the obtained results allowed us to conclude that there is a “threshold value” of the distance between trees in a stand of a given age, which determines the point when its increase no longer contributes to an increase in DBH. The most promising phenotypes were selected for further research and practical actions to reproduce silver fir further.",
+    "readLink": "https://www.mdpi.com/1999-4907/13/6/831"
+  },
+  {
+    "title": "Meteorological driving factors effecting the surface area of Ebinur Lake and determining associated trends and shifts",
+    "authors": [
+      "Chenglong Yao,",
+      "Chenglong Yao,",
+      "Yuejian Wang,",
+      "Yuejian Wang,",
+      "Yuejiao Chen,",
+      "Yuejiao Chen,",
+      "Lei Wang,",
+      "Lei Wang,",
+      "Junqiang Yao,",
+      "Baofei Xia,",
+      "Baofei Xia"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2022.994260",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "Changes in lake water resources and regional hydrological processes in response to climate change and human activity necessitates timely and accurate access to lake change information to monitor water cycles and water security. The Ebinur Lake Basin has experienced a serious ecological crisis in recent years, which is majorly due to excess use of its water. Therefore, in this study, we used Ebinur Lake as a research object, and used Geographic Information System and remote sensing technology, Landsat, Sentinel, and MODIS images, the Google Earth Engine platform, and the water body index method to determine the changes in lake area from April to October of 2011–2020. Daily data from the Alashankou and Jinghe meteorological stations from 2011 to 2020 were collected. The center of gravity-geographically and temporally weighted regression model was used to analyze the factors changes in surface area. The results showed obvious spatial and temporal heterogeneities for the surface area. Except for 2016, which had unusual/extreme weather, in the last decade, the lake surface area generally showed a monthly decreasing trend from April to October. When Ebinur Lake is one water body, the surface area ranges between 530 and 560 km2. We concluded that the spatio-temporal characteristics of Ebinur Lake can be divided into two levels. When the southeast and northwest regions of the lake merge, it represents the largest possible surface area of Ebinur Lake; this was called the “water storage level”. Historically, Ebinur Lake has lost significant amounts of water, and there is no water body connecting the two main parts of the lake (thereby dividing the lake into two areas); this was called “water demand level”. The trajectory of the center of gravity of the lake is linear, with a slope of 45° and a direction of northwest to southeast. The lake gravity center has different aggregation states. According to the season, it can be divided into spring gathering and autumn gathering. The variation in the surface area of Ebinur Lake is highly correlated with the meteorological and hydrological variation during the year. The highest correlation was observed between lake surface area and wind speed. This study aimed to supplement other studies that explore the lake annually and provide a reference for future water resources management and planning.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2022.994260/full"
+  },
+  {
+    "title": "Preparing local climate change scenarios for the Netherlands using resampling of climate model output",
+    "authors": [
+      "G Lenderink,",
+      "B J J M van den Hurk,",
+      "A M G Klein Tank,",
+      "G J van Oldenborgh,",
+      "E van Meijgaard,",
+      "H de Vries,",
+      "J J Beersma"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/9/11/115008",
+    "journalVolume": "Vol. 9,\n                                no. 11\n                                \n                                  p.\n                                  115008",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "A method to prepare a set of four climate scenarios for the Netherlands is presented. These scenarios for climate change in 2050 and 2085 (compared to present-day) are intended for general use in climate change adaptation in the Netherlands. An ensemble of eight simulations with the global model EC-Earth and the regional climate model RACMO2 (run at 12 km resolution) is used. For each scenario time horizon, two target values of the global mean temperature rise are chosen based on the spread in the CMIP5 simulations. Next, the corresponding time periods in the EC-Earth/RACMO2 simulations are selected in which these target values of the global temperature rise are reached. The model output for these periods is then resampled using blocks of 5 yr periods. The rationale of resampling is that natural variations in the EC-Earth/RACMO2 ensemble are used to represent (part of the) uncertainty in the CMIP5 projections. Samples are then chosen with the aim of reconstructing the spread in seasonal temperature and precipitation changes in CMIP5 for the Netherlands. These selected samples form the basis of the scenarios. The resulting four scenarios represent 50–80% of the CMIP5 spread for summer and winter changes in seasonal means as well as a limited number of monthly statistics (warm, cold, wet and dry months). The strong point of the method—also in relation to the previous set of the climate scenarios for the Netherlands issued in 2006—is that it preserves nearly all physical inter-variable consistencies as they exist in the original model output in both space and time.",
+    "readLink": "https://doi.org/10.1088/1748-9326/9/11/115008"
+  },
+  {
+    "title": "Protecting Coastlines from Flooding in a Changing Climate: A Preliminary Experimental Study to Investigate a Sustainable Approach",
+    "authors": [
+      "Matteo Rubinato,",
+      "Jacob Heyworth,",
+      "James Hart"
+    ],
+    "doi": "https://doi.org/10.3390/w12092471",
+    "journalVolume": "Vol. 12,\n                                no. 2471\n                                \n                                  p.\n                                  2471",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Rising sea levels are causing more frequent flooding events in coastal areas and generate many issues for coastal communities such as loss of property or damages to infrastructures. To address this issue, this paper reviews measures currently in place and identifies possible control measures that can be implemented to aid preservation of coastlines in the future. Breakwaters present a unique opportunity to proactively address the impact of coastal flooding. However, there is currently a lack of research into combined hard and soft engineering techniques. To address the global need for developing sustainable solutions, three specific breakwater configurations were designed and experimentally compared in the hydraulic laboratory at Coventry University to assess their performance in reducing overtopping and the impact of waves, quantifying the effectiveness of each. The investigation confirmed that stepped configurations work effectively in high amplitudes waves, especially with the presence of a slope angle to aid wave reflection. These results provide a very valuable preliminary investigation into novel sustainable solutions incorporating both artificial and natural based strategies that could be considered by local and national authorities for the planning of future mitigation strategies to defend coastal areas from flooding and erosion.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/9/2471"
+  },
+  {
+    "title": "Temperature effects in single or combined with chemicals to the aquatic organisms: An overview of thermo-chemical stress",
+    "authors": [
+      "Syed Shabi Ul Hassan Kazmi,",
+      "Yolina Yu Lin Wang,",
+      "Yan-Er Cai,",
+      "Zhen Wang"
+    ],
+    "doi": "Vol. 143\n                                \n                                \n                                  p.\n                                  109354",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Climatic change (global warming) not only limited to the terrestrial environmental variations but also transforming the aquatic environments. Recent studies have reported that both coastal and freshwater bodies have experienced the progressive warming and will intensify (giant leap) during this century. Same time the bewildering array of thermal stresses poses serious threats to the aquatic organisms. Although, there is a growing body of literature and scientific consensus regarding the effects of temperature to the aquatic biota. Hitherto, the extent to which the thermo-chemical stress on aquatic organisms intensifying is not fully elaborated. We have summarized following declarations: • Temperature variations induce a range of physiological and biological responses in aquatic organisms including; corticosteroid response, metabolic response, immune responses, heat shock proteins, and wavering in haemolymph parameters. • The observed responses due to temperature fluctuations are actually attributed to the whole organism level performances like, acclimation and adaptation, fitness, feeding and food conversion ratio, growth and development. • Temperature dependent chemical toxicities are subjected to influence the chemical processes and underlying molecular/genetic mechanisms of aquatic organisms at individual population and community levels.Additionally, this review outlined the series of mechanisms in aquatic organisms associated with temperature changes in single or combined with chemicals. These observations provide significant evidence that the climate change and temperature variations are critical and there is pressing need to carefully evaluate the conditions and responses at large geographical scales.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X22008275"
+  },
+  {
+    "title": "Ice sheet model dependency of the simulated Greenland Ice Sheet in the mid-Pliocene",
+    "authors": [
+      "S. J. Koenig,",
+      "A. M. Dolan,",
+      "B. de Boer,",
+      "E. J. Stone,",
+      "D. J. Hill,",
+      "R. M. DeConto,",
+      "A. Abe-Ouchi,",
+      "D. J. Lunt,",
+      "D. Pollard,",
+      "A. Quiquet,",
+      "F. Saito,",
+      "J. Savage,",
+      "R. van de Wal"
+    ],
+    "doi": "https://doi.org/10.5194/cp-11-369-2015",
+    "journalVolume": "Vol. 11,\n                                no. 3\n                                \n                                  pp.\n                                  369\n                                  – 381",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "The understanding of the nature and behavior of ice sheets in past warm periods is important for constraining the potential impacts of future climate change. The Pliocene warm period (between 3.264 and 3.025 Ma) saw global temperatures similar to those projected for future climates; nevertheless, Pliocene ice locations and extents are still poorly constrained. We present results from the efforts to simulate mid-Pliocene Greenland Ice Sheets by means of the international Pliocene Ice Sheet Modeling Intercomparison Project (PLISMIP). We compare the performance of existing numerical ice sheet models in simulating modern control and mid-Pliocene ice sheets with a suite of sensitivity experiments guided by available proxy records. We quantify equilibrated ice sheet volume on Greenland, identifying a potential range in sea level contributions from warm Pliocene scenarios. A series of statistical measures are performed to quantify the confidence of simulations with focus on inter-model and inter-scenario differences. We find that Pliocene Greenland Ice Sheets are less sensitive to differences in ice sheet model configurations and internal physical quantities than to changes in imposed climate forcing. We conclude that Pliocene ice was most likely to be limited to the highest elevations in eastern and southern Greenland as simulated with the highest confidence and by synthesizing available regional proxies; however, the extent of those ice caps needs to be further constrained by using a range of general circulation model (GCM) climate forcings.",
+    "readLink": "http://www.clim-past.net/11/369/2015/cp-11-369-2015.pdf"
+  }
+]

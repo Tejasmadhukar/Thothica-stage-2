@@ -1,0 +1,231 @@
+[
+  {
+    "title": "Impact of Climate Change on Water Resources in Taiwan",
+    "authors": [
+      "An-Yuan Tsai Wen-Cheng Huang"
+    ],
+    "doi": "https://doi.org/10.3319/TAO.2011.04.15.01(Hy)",
+    "journalVolume": "Vol. 22,\n                                no. 5\n                                \n                                  p.\n                                  507",
+    "issn": "1017-0839 (Print)",
+    "publisher": "2311-7680 (Online)",
+    "countryOfPublisher": "Springer",
+    "lcc": [
+      "Singapore",
+      "Science: Geology",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://www.springer.com/journal/44195",
+    "abstract": "This paper establishes a comprehensive assessment model to measure the regional impact of climate change on Taiwan¡¦s water resources. Working from future rainfall data simulated by Japan¡¦s high-resolution GCM model JMA/MRI TL959L60 in a SRES-A1B scenario, we first apply climate change to an assessment model of renewable water resources to estimate the volume of renewable water resources on a regional basis. We then conduct a water resources system simulation based on estimates of future water needs, regional reservoir effective capacity and renewable water resource volume. This paper uses three water resource assessment indicators: the annual water utilization ratio indicator, the water shortage indicator and the extreme event occurrence indicator. Through fuzzy comprehensive assessment, we divide the evaluation set into five levels: very good (L1), good (L2), fair (L3), poor (L4) and very poor (L5). Results indicate that, given the effects of future climate change (2080 - 2099) and the increase in water demand, future water resources conditions in northern and eastern Taiwan will not be significantly different from historical levels (1979 - 1998) and will maintain a ¡§good¡¨ level (L2), while the conditions in southern Taiwan will visibly deteriorate from its historical ¡§fair¡¨ level (L3) to ¡§poor¡¨ (L4); and the future conditions for central Taiwan will be ¡§poor¡¨ (L4). The initiation of adaptation options for water management in southern and central Taiwan would be needed by increasing reservoir capacity and reducing overall water use.",
+    "readLink": "\nhttp://tao.cgu.org.tw/images/attachments/v225p507.pdf\n"
+  },
+  {
+    "title": "Estimation of Soil Organic Carbon Contents in Croplands of Bavaria from SCMaP Soil Reflectance Composites",
+    "authors": [
+      "Simone Zepp,",
+      "Uta Heiden,",
+      "Martin Bachmann,",
+      "Martin Wiesmeier,",
+      "Michael Steininger,",
+      "Bas van Wesemael"
+    ],
+    "doi": "https://doi.org/10.3390/rs13163141",
+    "journalVolume": "Vol. 13,\n                                no. 3141\n                                \n                                  p.\n                                  3141",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "For food security issues or global climate change, there is a growing need for large-scale knowledge of soil organic carbon (SOC) contents in agricultural soils. To capture and quantify SOC contents at a field scale, Earth Observation (EO) can be a valuable data source for area-wide mapping. The extraction of exposed soils from EO data is challenging due to temporal or permanent vegetation cover, the influence of soil moisture or the condition of the soil surface. Compositing techniques of multitemporal satellite images provide an alternative to retrieve exposed soils and to produce a data source. The repeatable soil composites, containing averaged exposed soil areas over several years, are relatively independent from seasonal soil moisture and surface conditions and provide a new EO-based data source that can be used to estimate SOC contents over large geographical areas with a high spatial resolution. Here, we applied the Soil Composite Mapping Processor (SCMaP) to the Landsat archive between 1984 and 2014 of images covering Bavaria, Germany. Compared to existing SOC modeling approaches based on single scenes, the 30-year SCMaP soil reflectance composite (SRC) with a spatial resolution of 30 m is used. The SRC spectral information is correlated with point soil data using different machine learning algorithms to estimate the SOC contents in cropland topsoils of Bavaria. We developed a pre-processing technique to address the issue of combining point information with EO pixels for the purpose of modeling. We applied different modeling methods often used in EO soil studies to choose the best SOC prediction model. Based on the model accuracies and performances, the Random Forest (RF) showed the best capabilities to predict the SOC contents in Bavaria (R² = 0.67, RMSE = 1.24%, RPD = 1.77, CCC = 0.78). We further validated the model results with an independent dataset. The comparison between the measured and predicted SOC contents showed a mean difference of 0.11% SOC using the best RF model. The SCMaP SRC is a promising approach to predict the spatial SOC distribution over large geographical extents with a high spatial resolution (30 m).",
+    "readLink": "https://www.mdpi.com/2072-4292/13/16/3141"
+  },
+  {
+    "title": "Public perception of climate change in a period of economic crisis in Puerto Rico",
+    "authors": [
+      "María Santos-Corrada,",
+      "Rafael Méndez-Tejeda"
+    ],
+    "doi": "https://doi.org/10.3934/environsci.2017.1.83",
+    "journalVolume": "Vol. 4,\n                                no. 1\n                                \n                                  pp.\n                                  83\n                                  – 93",
+    "issn": "2372-0352 (Online)",
+    "publisher": "AIMS Press",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.aimspress.com/journal/environmental",
+    "abstract": "In this study, an analysis is performed to measure Puerto Rican citizens’ perceptions of environmental issues and global climate change (GCC). Puerto Rico (PR) is presently facing an economic crisis that began in 2010. In addition, the island has faced many extreme weather events that have greatly impacted the economy, including a dry period that lasted from the beginning of 2014 until the end of 2015 [1]. By replicating a study done in Greece (GR), [2] found that the citizens of PR are more informed about GCC (43%) than Greeks (34%). However, only 29% of Puerto Ricans said they knew about the effects of greenhouse gases, as compared to 44% of Greeks. The citizens of PR (67%) and GR (91%) claim they do not have confidence that their respective governments and agencies will be able to face GCC. In both cases, they have a higher confidence level in environmental organizations than in the scientific community. In PR, 89% of the citizens are concerned about the degradation of natural resources. At 64%, this concern is also significant in the case of GR, although the figure has decreased from previous years. Both countries place more responsibility in the hands of those in government and industry to take action on GCC. That being said, the people of GR have made it known they are willing to perform individual actions as well.",
+    "readLink": "http://www.aimspress.com/environmental/article/1247/fulltext.html"
+  },
+  {
+    "title": "Detectable Anthropogenic Intensification of the Summer Compound Hot and Dry Events Over Global Land Areas",
+    "authors": [
+      "Rongyun Pan,",
+      "Wei Li,",
+      "Qirong Wang,",
+      "Aihaiti Ailiyaer"
+    ],
+    "doi": "https://doi.org/10.1029/2022EF003254",
+    "journalVolume": "Vol. 11,\n                                no. 6\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Compound hot and dry events (CHDEs) pose an increasing threat to global warming and have received growing attention in recent decades. We conducted a detection and attribution analysis (D&A) using the optimal fingerprint technique to analyze the changes in observed CHDEs at continental and sub‐continental scales from 1961 to 2014. The responses of CHDEs changes to anthropogenic (ANT), greenhouse gases (GHG), aerosols (AER), and natural (NAT) forcings were obtained from the Coupled Model Intercomparison Project phase 6 forcing experiment. In a two‐signal D&A analysis that considered ANT and NAT simultaneously, ANT signals were robustly detected and separated from NAT in all continental domains and more than 65% of subcontinental domains (29 out of 44 domains). The trend attributed to the ANT forcing is comparable to the observed trend over domains where the ANT signal is detectable. We also conducted a three‐signal D&A analysis that regressed observation onto GHG, AER, and NAT simultaneously. The GHG signals were detectable in all continents except Oceania, and it contributed dominantly to the observed trend over 22 out of 29 regions where ANT signals had emerged. Multivariate biases correction can largely reduce the models' biases in simulating the marginal distribution and the dependence structure, which can provide a more accurate future risk of CDHEs. We found that limiting global warming to 1.5℃ rather than 2.0℃ can significantly mitigate the impact of compound events in most areas of global land, particularly in South America, Africa, and Oceania.",
+    "readLink": "https://doi.org/10.1029/2022EF003254"
+  },
+  {
+    "title": "Harnessing diverse knowledge and belief systems to adapt to climate change in semi-arid rural Africa",
+    "authors": [
+      "Dian Spear,",
+      "Janet C. Selato,",
+      "Bonolo Mosime,",
+      "Admire M. Nyamwanza"
+    ],
+    "doi": "Vol. 14\n                                \n                                \n                                  pp.\n                                  31\n                                  – 36",
+    "issn": "2405-8807 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-services/",
+    "abstract": "Farmers in semi-arid regions have historically coped using long established practices such as place-based climate forecasting using observations. However, this is becoming less reliable with climatic changes. Meteorological forecasting based on numerical prediction provides an alternative that is also now widely available to enable adaptation. However, this climate information has constraints including uncertainty and a broad spatial and temporal scale. The use of these two sources of forecast information is also affected by farmer perceptions of its advantages and disadvantages as well as beliefs and social norms. This study uses the case of Bobirwa subdistrict in Botswana to investigate the role of traditional norms and religious beliefs in the use of place-based and national meteorological forecast information to inform adaptation. Semi-structured interviews were conducted with 82 farmers from 8 different communities. We found that whilst some farmers use national meteorological information, others use place-based forecast information only and some combine the two. We also found that certain religious beliefs and traditional norms prevent the use of national meteorological forecast information by some farmers. An integrated climate information system that is credible and accessible to farmers from different belief systems will provide opportunity for farmers to use this climate information to adapt better to climate variability and change.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405880718301110"
+  },
+  {
+    "title": "The nano- and meso-scale structure of amorphous calcium carbonate",
+    "authors": [
+      "Simon M. Clark,",
+      "Bruno Colas,",
+      "Dorrit E. Jacob,",
+      "Joerg C. Neuefeind,",
+      "Hsiu-Wen Wang,",
+      "Katherine L. Page,",
+      "Alan K. Soper,",
+      "Philipp I. Schodder,",
+      "Patrick Duchstein,",
+      "Benjamin Apeleo Zubiri,",
+      "Tadahiro Yokosawa,",
+      "Vitaliy Pipich,",
+      "Dirk Zahn,",
+      "Erdmann Spiecker,",
+      "Stephan E. Wolf"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-022-10627-9",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Understanding the underlying processes of biomineralization is crucial to a range of disciplines allowing us to quantify the effects of climate change on marine organisms, decipher the details of paleoclimate records and advance the development of biomimetic materials. Many biological minerals form via intermediate amorphous phases, which are hard to characterize due to their transient nature and a lack of long-range order. Here, using Monte Carlo simulations constrained by X-ray and neutron scattering data together with model building, we demonstrate a method for determining the structure of these intermediates with a study of amorphous calcium carbonate (ACC) which is a precursor in the bio-formation of crystalline calcium carbonates. We find that ACC consists of highly ordered anhydrous nano-domains of approx. 2 nm that can be described as nanocrystalline. These nano-domains are held together by an interstitial net-like matrix of water molecules which generate, on the mesoscale, a heterogeneous and gel-like structure of ACC. We probed the structural stability and dynamics of our model on the nanosecond timescale by molecular dynamics simulations. These simulations revealed a gel-like and glassy nature of ACC due to the water molecules and carbonate ions in the interstitial matrix featuring pronounced orientational and translational flexibility. This allows for viscous mobility with diffusion constants four to five orders of magnitude lower than those observed in solutions. Small and ultra-small angle neutron scattering indicates a hierarchically-ordered organization of ACC across length scales that allow us, based on our nano-domain model, to build a comprehensive picture of ACC formation by cluster assembly from solution. This contribution provides a new atomic-scale understanding of ACC and provides a framework for the general exploration of biomineralization and biomimetic processes.",
+    "readLink": "https://doi.org/10.1038/s41598-022-10627-9"
+  },
+  {
+    "title": "Conceptual Model for Integrating the Green-Blue Infrastructure in Planning Using Geospatial Tools: Case Study of Bucharest, Romania Metropolitan Area",
+    "authors": [
+      "Antonio-Valentin Tache,",
+      "Oana-Cătălina Popescu,",
+      "Alexandru-Ionuț Petrișor"
+    ],
+    "doi": "https://doi.org/10.3390/land12071432",
+    "journalVolume": "Vol. 12,\n                                no. 1432\n                                \n                                  p.\n                                  1432",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "A green-blue infrastructure is essential for achieving the European Green Deal objectives and can be used to protect large cities and their metropolitan areas against urban sprawl. Green-blue infrastructure is an important research topic, because green-blue planning networks provide solutions for mitigating contemporary growing urban and climate challenges. Our study aims to create an innovative methodology for defining and analyzing the elements of green-blue infrastructure and their connectivity within Bucharest, Romania and its metropolitan area, to serve as a planning model. The methodology consists of merging European geodata sets with metropolitan and local data, using GIS tools, and analyzing the connectivity within the study area. All connections resulted from implementing the Linkage Mapper tool were operationalized, using high-resolution satellite images and correcting obtained connections, so that deviations from reality were minimized. The results consist of a conceptual model for planning the green-blue infrastructure within Bucharest and in its metropolitan area, embedding an analysis of its connectivity. The study contributes to implementing the concept of green infrastructure in urban and spatial planning, providing tools for planning the green-blue infrastructures of large cities and their metropolitan areas and, implicitly, reducing urban sprawl, improving air quality and mitigating environmental threats due to climate change.",
+    "readLink": "https://www.mdpi.com/2073-445X/12/7/1432"
+  },
+  {
+    "title": "Use of Household Survey Data as a Tool to Assess the Carbon Footprint of Rural Tourist Accommodation and Related Services in China: A Case Study of Mount Qingcheng",
+    "authors": [
+      "Jun Liu,",
+      "Chu Lin,",
+      "Li Huang,",
+      "Jianghuan Zhu,",
+      "Lijun Wu,",
+      "Yunyun Li"
+    ],
+    "doi": "https://doi.org/10.3390/su9101680",
+    "journalVolume": "Vol. 9,\n                                no. 10\n                                \n                                  p.\n                                  1680",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The need to improve the accuracy of carbon emission measurements is a major issue which the tourism industry must resolve in order to reduce adverse impacts on climate change and the environment. This study established a detailed consumption list based on household survey data and calculated the carbon emissions of accommodation and services of the rural tourism industry of Mount Qingcheng using the input–output and lifecycle methods. Further, it analysed the key factors affecting carbon emissions. The results indicate that within the surveyed area, carbon emissions from accommodation and services amounted to 30.27 kg CO2/per person per day; these emissions were primarily from indirect sources, which accounted for 74.99% of the total emissions. Emissions from construction and production of durable goods accounted for 13.08% and 21.58% of the total emissions. The omission of these sources of carbon emissions was the primary reason for the carbon emission levels of the tourism industry being underestimated previously. For each additional 10,000 yuan in revenue, accommodation and related services of the rural tourism industry emit an additional 1412.08 kg of CO2. This is higher than the level of carbon emissions of the agriculture industry, but lower than those of the processing and manufacturing industries. Tourist consumption behaviours and types of tourism operations are important factors affecting carbon emissions. Effective emission reduction strategies include guiding tourist consumption behavioural changes, optimizing tourism operation portfolios, and extending the service life of constructions and durable goods.",
+    "readLink": "https://www.mdpi.com/2071-1050/9/10/1680"
+  },
+  {
+    "title": "Green Bonds - Sustainable Solution for Financing the Environmental Projects in Romania",
+    "authors": [
+      "Moisescu Florentina ,",
+      "Bandrabur Cosmina"
+    ],
+    "doi": "Vol. 1,\n                                no. 1\n                                \n                                  pp.\n                                  304\n                                  – 318",
+    "issn": "2067-0532 (Online)",
+    "publisher": "Dunarea de Jos University of Galati",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Social Sciences: Economic theory. Demography: Economics as a science"
+    ],
+    "journalUrl": "http://www.rce.feaa.ugal.ro/",
+    "abstract": "This article presents an analysis of the solution that the states of the world have found to combat pollution and global warming, namely the financing of projects related to the environment by issuing green bonds and the particularities of their use in Romania. The environmental concern of states, corporations and financial institutions in recent years has become a priority because the consequences of global warming are being felt more and more, since 2010 and until now being registered the warmest 6 years. The need and why not the obligation to pay attention to climate change, to reduce the effects of global warming, but also to improve the living conditions of the population, makes in recent years a global concern to find solutions to existing problems, but also innovations to anticipate future effects. Starting from the examples of good practice such as Sweden and China, we consider that the solution of issuing green bonds for the environment can be a feasible opportunity for Romania as well. Following the study, we consider that in Romania, with the obtaining of the status of Emerging Secondary Market, in September 2020, the financing of investments from the bond issue can become an attractive solution for both investors and issuers, being able to channel investment funds that may aim the transition to climate neutrality.",
+    "readLink": "http://www.rce.feaa.ugal.ro/images/stories/RCE2021/MoisescuBandrabur.pdf"
+  },
+  {
+    "title": "Rescuing historical weather observations improves quantification of severe windstorm risks",
+    "authors": [
+      "E. Hawkins,",
+      "P. Brohan,",
+      "S. N. Burgess,",
+      "S. Burt,",
+      "G. P. Compo,",
+      "G. P. Compo,",
+      "S. L. Gray,",
+      "I. D. Haigh,",
+      "H. Hersbach,",
+      "K. Kuijjer,",
+      "O. Martínez-Alvarado,",
+      "O. Martínez-Alvarado,",
+      "C. McColl,",
+      "C. McColl,",
+      "A. P. Schurer,",
+      "L. Slivinski,",
+      "L. Slivinski,",
+      "J. Williams"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-23-1465-2023",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  pp.\n                                  1465\n                                  – 1482",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "Billions of historical climatological observations remain unavailable to science as they exist only on paper, stored in numerous archives around the world. The conversion of these data from paper to digital could transform our understanding of historical climate variations, including extreme weather events. Here we demonstrate how the rescue of such paper observations has improved our understanding of a severe windstorm that occurred in February 1903 and its significant impacts. By assimilating newly rescued atmospheric pressure observations, the storm is now credibly represented in an improved reanalysis of the event. In some locations this storm produced stronger winds than any event during the modern period (1950–2015) and it is in the top-4 storms for strongest winds anywhere over land in England and Wales. As a result, estimates of risk from severe storms, based on modern period data, may need to be revised. Examining the atmospheric structure of the storm suggests that it is a classic Shapiro–Keyser-type cyclone with “sting-jet” precursors and associated extreme winds at locations and times of known significant damage. Comparison with both independent observations and qualitative information, such as photographs and written accounts, provides additional evidence of the credibility of the atmospheric reconstruction, including sub-daily rainfall variations. Simulations of the storm surge resulting from this storm show a large coastal surge of around 2.5 m, comparing favourably with newly rescued tide gauge observations and adding to our confidence in the reconstruction. Combining historical rescued weather observations with modern reanalysis techniques has allowed us to plausibly reconstruct a severe windstorm and associated storm surge from more than 100 years ago, establishing an invaluable end-to-end tool to improve assessments of risks from extreme weather.",
+    "readLink": "https://nhess.copernicus.org/articles/23/1465/2023/nhess-23-1465-2023.pdf"
+  }
+]

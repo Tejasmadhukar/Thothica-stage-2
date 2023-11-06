@@ -1,0 +1,240 @@
+[
+  {
+    "title": "Mainstreaming zero carbon: lessons for built-environment education and training",
+    "authors": [
+      "Fionn Stevenson,",
+      "Alison Kwok"
+    ],
+    "doi": "https://doi.org/10.5334/bc.84",
+    "journalVolume": "Vol. 1,\n                                no. 1",
+    "issn": "2632-6655 (Online)",
+    "publisher": "Ubiquity Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Building construction: Architectural engineering. Structural engineering of buildings"
+    ],
+    "journalUrl": "https://journal-buildingscities.org/",
+    "abstract": "Highlights Education and training are identified as a key means of reducing carbon emissions from buildings to help address the climate emergency. Institutional, industry and organisational responses are shown to be failing in this regard. This editorial introduces the themes and individual papers in the special issue and then explores the current state of the art through pedagogy, theory, training, policy, practice and standards. These areas are interrogated through three fundamental questions. How can education and training be rapidly changed to ensure the creation of zero-carbon built environments? How can this transition be implemented successfully? What positive examples and models can be drawn upon or adapted? In proposing an agenda for change, a new approach to education is set out which combines learning outcomes with new standards and personal values within a continual questioning and holding to account of all stakeholders involved through evidenced outcomes. This draws on evidence from the special issue and Capability Theory which allies competency with personhood to create capability through agency. The process to make this change requires: (1) government intervention, to ensure that the lowest common denominator is zero-carbon best practice within a negotiated, holistic approach to developing the built environment sustainably; (2) new ethical, interdisciplinary and collective educational working practices underpinned by new pedagogical theory and accreditation processes; and (3) rapid auditing and upskilling in climate literacy to bring pressure to bear on governments and institutions to carry out reforms.",
+    "readLink": "https://journal-buildingscities.org/articles/84"
+  },
+  {
+    "title": "Effects of biochar and wood ash amendments in the soil-water-plant environment of two temperate forest plantations",
+    "authors": [
+      "Lur Moragues-Saitua,",
+      "Lur Moragues-Saitua,",
+      "Ander Arias-González,",
+      "Fernando Blanco,",
+      "Garazi Benito-Carnero,",
+      "Garazi Benito-Carnero,",
+      "Nahia Gartzia-Bengoetxea"
+    ],
+    "doi": "https://doi.org/10.3389/ffgc.2022.878217",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-893X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Forestry",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/forests-and-global-change#",
+    "abstract": "Forest biomass is considered an alternative to fossil fuels in energy production, as part of global strategies for climate change mitigation. Application of by-products such as wood ash (WA) and biochar (BC) to soil could replace the nutrients removed by tree harvesting and could also increase soil carbon stocks. However, the extent to which these amendments can provide benefits depends on how the by-products interact with the soil-water-plant system. We studied the short-term responses of WA and BC application in two different mineral soil-water-plant systems in temperate forests: A. Typic Udorthent (TU) with mature Pinus radiata; B. Typic Dystrudept (TD) with young Quercus pyrenaica, to test the following hypotheses: (1) the application of WA and BC will increase nutrient uptake by plants, but (2) these products could induce toxicity in the soil-water-plant system, and (3) in case of no toxicity, plant biomass growth in these temperate forest soils will increase due to increased plant nutrient uptake. Biochar was applied at rates of 3.5, 10, and 20 Mg ha–1 and WA at rates of 1.5, 4.5, and 9 Mg ha–1 (calcium equivalent). A nitrogen enriched treatment was applied with the intermediate doses. Ecotoxicity testing indicated that WA and BC were not toxic, although Ni uptake increased in biomass of the TU after BC + N application. BC increased SOC stocks of both sites, depending on treatment. In TD BC increased K uptake by plants, but did not increase biomass. In summary, this study shows that the application of BC and WA had different effects on the soil -water-plant system in two different forest soils. This difference was attributed to (i) the soil characteristics, (ii) the application rates and (iii) whether or not nitrogen was applied. Long-term field experiments are required to test the performance and potential toxicity of these by-products as soil enhancers.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/ffgc.2022.878217/full"
+  },
+  {
+    "title": "MODIS Vegetation Continuous Fields tree cover needs  calibrating in tropical savannas",
+    "authors": [
+      "R. Adzhar,",
+      "R. Adzhar,",
+      "R. Adzhar,",
+      "D. I. Kelley,",
+      "N. Dong,",
+      "N. Dong,",
+      "C. George,",
+      "M. Torello Raventos,",
+      "E. Veenendaal,",
+      "T. R. Feldpausch,",
+      "O. L. Phillips,",
+      "S. L. Lewis,",
+      "S. L. Lewis,",
+      "B. Sonké,",
+      "H. Taedoumg,",
+      "B. Schwantes Marimon,",
+      "T. Domingues,",
+      "L. Arroyo,",
+      "G. Djagbletey,",
+      "G. Saiz,",
+      "F. Gerard"
+    ],
+    "doi": "https://doi.org/10.5194/bg-19-1377-2022",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  1377\n                                  – 1394",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "The Moderate Resolution Imaging Spectroradiometer Vegetation Continuous Fields (MODIS VCF) Earth observation product is widely used to estimate forest cover changes and to parameterize vegetation and Earth system models and as a reference for validation or calibration where field data are limited. However, although limited independent validations of MODIS VCF have shown that MODIS VCF's accuracy decreases when estimating tree cover in sparsely vegetated areas such as tropical savannas, no study has yet assessed the impact this may have on the VCF-based tree cover data used by many in their research. Using tropical forest and savanna inventory data collected by the Tropical Biomes in Transition (TROBIT) project, we produce a series of calibration scenarios that take into account (i) the spatial disparity between the in situ plot size and the MODIS VCF pixel and (ii) the trees' spatial distribution within in situ plots. To identify if a disparity also exists in products trained using VCF, we used a similar approach to evaluate the finer-scale Landsat Tree Canopy Cover (TCC) product. For MODIS VCF, we then applied our calibrations to areas identified as forest or savanna in the International Geosphere-Biosphere Programme (IGBP) land cover mapping product. All IGBP classes identified as “savanna” show substantial increases in cover after calibration, indicating that the most recent version of MODIS VCF consistently underestimates woody cover in tropical savannas. We also found that these biases are propagated in the finer-scale Landsat TCC. Our scenarios suggest that MODIS VCF accuracy can vary substantially, with tree cover underestimation ranging from 0 % to 29 %. Models that use MODIS VCF as their benchmark could therefore be underestimating the carbon uptake in forest–savanna areas and misrepresenting forest–savanna dynamics. Because of the limited in situ plot number, our results are designed to be used as an indicator of where the product is potentially more or less reliable. Until more in situ data are available to produce more accurate calibrations, we recommend caution when using uncalibrated MODIS VCF data in tropical savannas.",
+    "readLink": "https://bg.copernicus.org/articles/19/1377/2022/bg-19-1377-2022.pdf"
+  },
+  {
+    "title": "In situ nuclear magnetic resonance response of permafrost and active layer soil in boreal and tundra ecosystems",
+    "authors": [
+      "M. A. Kass,",
+      "M. A. Kass,",
+      "T. P. Irons,",
+      "B. J. Minsley,",
+      "N. J. Pastick,",
+      "N. J. Pastick,",
+      "D. R. N. Brown,",
+      "B. K. Wylie"
+    ],
+    "doi": "https://doi.org/10.5194/tc-11-2943-2017",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  2943\n                                  – 2955",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Characterization of permafrost, particularly warm and near-surface permafrost which can contain significant liquid water, is critical to understanding complex interrelationships with climate change, ecosystems, and disturbances such as wildfires. Understanding the vulnerability and resilience of permafrost requires an interdisciplinary approach, relying on (for example) geophysical investigations, ecological characterization, direct observations, remote sensing, and more. As part of a multiyear investigation into the impacts of wildfires on permafrost, we have collected in situ measurements of the nuclear magnetic resonance (NMR) response of the active layer and permafrost in a variety of soil conditions, types, and saturations. In this paper, we summarize the NMR data and present quantitative relationships between active layer and permafrost liquid water content and pore sizes and show the efficacy of borehole NMR (bNMR) to permafrost studies. Through statistical analyses and synthetic freezing simulations, we also demonstrate that borehole NMR is sensitive to the nucleation of ice within soil pore spaces.",
+    "readLink": "https://www.the-cryosphere.net/11/2943/2017/tc-11-2943-2017.pdf"
+  },
+  {
+    "title": "Agricultural Water Use Efficiency: Is There Any Spatial Correlation between Different Regions?",
+    "authors": [
+      "Yanling Zhi,",
+      "Fan Zhang,",
+      "Huimin Wang,",
+      "Teng Qin,",
+      "Jinping Tong,",
+      "Ting Wang,",
+      "Zhiqiang Wang,",
+      "Jinle Kang,",
+      "Zhou Fang"
+    ],
+    "doi": "https://doi.org/10.3390/land11010077",
+    "journalVolume": "Vol. 11,\n                                no. 77\n                                \n                                  p.\n                                  77",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Affected by global climate change and water shortages, food security continues to be challenged. Improving agricultural water use efficiency is essential to guarantee food security. China has been suffering from water scarcity for a long time, and insufficient water supply in the agricultural sector has seriously threatened regional food security and sustainable development. This study adopted the super-efficiency slack-based model (SBM) to measure the provincial agricultural water use efficiency (AWUE). Then, we applied the vector autoregression (VAR) Granger causality test and social network analysis (SNA) method to explore the spatial correlation of AWUE between different provinces and reveal the interprovincial transmission mechanism of spillover effects in AWUE. The results show the following: (1) In China, the provincial AWUE was significantly enhanced, and the gaps in provincial AWUE have widened in the past 20 years. (2) There were apparent spatial heterogeneity and correlations of provincial AWUE. The provinces with higher AWUE were mainly located in economically developed and coastal areas. (3) The correlation of AWUE between provinces showed significant network structure characteristics. Fujian, Hebei, Jiangsu, Shandong, and Hubei Qinghai were central to the network, with high centrality. (4) The AWUE spatial correlation network could be divided into four blocks. Each block played a different role in the cross-provincial transmission of spillover effects. Therefore, it is necessary to manage the agricultural water resources and improve water use efficiency from the perspective of the network.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/1/77"
+  },
+  {
+    "title": "Effects of intra-annual precipitation patterns on grassland productivity moderated by the dominant species phenology",
+    "authors": [
+      "Ze Zhang,",
+      "Ze Zhang,",
+      "Zhihao Zhang,",
+      "Zhihao Zhang,",
+      "Yann Hautier,",
+      "Hua Qing,",
+      "Hua Qing,",
+      "Jie Yang,",
+      "Jie Yang,",
+      "Tiejun Bao,",
+      "Tiejun Bao,",
+      "Olivia L. Hajek,",
+      "Alan K. Knapp"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2023.1142786",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Phenology and productivity are important functional indicators of grassland ecosystems. However, our understanding of how intra-annual precipitation patterns affect plant phenology and productivity in grasslands is still limited. Here, we conducted a two-year precipitation manipulation experiment to explore the responses of plant phenology and productivity to intra-annual precipitation patterns at the community and dominant species levels in a temperate grassland. We found that increased early growing season precipitation enhanced the above-ground biomass of the dominant rhizome grass, Leymus chinensis, by advancing its flowering date, while increased late growing season precipitation increased the above-ground biomass of the dominant bunchgrass, Stipa grandis, by delaying senescence. The complementary effects in phenology and biomass of the dominant species, L. chinensis and S. grandis, maintained stable dynamics of the community above-ground biomass under intra-annual precipitation pattern variations. Our results highlight the critical role that intra-annual precipitation and soil moisture patterns play in the phenology of temperate grasslands. By understanding the response of phenology to intra-annual precipitation patterns, we can more accurately predict the productivity of temperate grasslands under future climate change.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1142786/full"
+  },
+  {
+    "title": "A Systems Thinking Approach to Exploring the Influence of the Media on How Publics Engage With and Develop Dialogues Relating to Electric Vehicles",
+    "authors": [
+      "Shukru Esmene,",
+      "Timothy J. Taylor,",
+      "Michael Leyshon"
+    ],
+    "doi": "https://doi.org/10.3389/fcomm.2020.00059",
+    "journalVolume": "Vol. 5",
+    "issn": "2297-900X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Language and Literature: Philology. Linguistics: Communication. Mass media"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/communication",
+    "abstract": "Electric vehicles (EVs) are the most popular alternative to petrol and diesel vehicles and are becoming a central part of climate change mitigation strategies. This paper draws attention to how publics engage with communication strategies relating to EVs. By focusing on the interlinked relationships between an individual's location, socio-demographic characteristics and their experiences with media sources, the paper demonstrates how EV-related knowledges are publicly engaged with. By using systems thinking as a critical analytical lens, we examine how these individuals use knowledges and/or refer to hegemonic framings of alternative technologies to discuss EVs. These constructs focus predominantly on consumerist framings of EVs and how they compare to petrol and diesel vehicles as a commodity. In this context, the paper provides an understanding of how to improve public engagement with EV-related communications by using a systems thinking approach. In doing so, the paper further offers a critical perspective on the relevance of EVs to publics beyond being a consumer product. These considerations can provide researchers with valuable insights into effective and more engaging communication strategies for particular contexts.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fcomm.2020.00059/full"
+  },
+  {
+    "title": "Potential Risks of Plant Invasions in Protected Areas of Sri Lanka under Climate Change with Special Reference to Threatened Vertebrates",
+    "authors": [
+      "Champika  S. Kariyawasam,",
+      "Lalit Kumar,",
+      "Sujith  S. Ratnayake"
+    ],
+    "doi": "https://doi.org/10.3390/cli8040051",
+    "journalVolume": "Vol. 8,\n                                no. 51\n                                \n                                  p.\n                                  51",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "There is substantial global concern over the potential impacts of plant invasions on native biodiversity in protected areas (PAs). Protected areas in tropical island countries that host rich biodiversity face an imminent risk from the potential spread of invasive alien plant species. Thus, the aim of this study was to gain a general understanding of the potential risks of multiple plant invasions in PAs located in the tropical island of Sri Lanka under projected climate change. We conducted a further analysis of a multi-species climate suitability assessment, based on a previous study using the Maximum Entropy (MaxEnt) modeling approach, and tested how species invasion may change in protected areas under climate change. We evaluated how the climate suitability of 14 nationally recognized invasive alien plant species (IAPS) will vary within PAs and outside PAs by 2050 under two climate change scenarios, representative concentration pathways (RCP) 4.5 and 8.5. Our findings suggest that there will be increased risks from multiple IAPS inside PAs and outside PAs in Sri Lanka in the future; however, the potential risk is comparatively less in PAs. We provide an overview of the species richness of selected threatened vertebrate groups, which can be potentially impacted by IAPS in PAs. The findings of this study highlight important implications for the strategic management of plant invasions in PAs in order to safeguard native biodiversity, with special reference to vertebrates.",
+    "readLink": "https://www.mdpi.com/2225-1154/8/4/51"
+  },
+  {
+    "title": "Scenario analysis and land use change modelling reveal opportunities and challenges for sustainable expansion of aquaculture in Nigeria",
+    "authors": [
+      "Suleiman O. Yakubu,",
+      "Lynne Falconer,",
+      "Trevor C. Telfer"
+    ],
+    "doi": "Vol. 23\n                                \n                                \n                                  p.\n                                  101071",
+    "issn": "2352-5134 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Agriculture: Aquaculture. Fisheries. Angling"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/aquaculture-reports/",
+    "abstract": "This study explores the critical factors of pond aquaculture development in Nigeria, and opportunities and challenges for sustainable expansion of the sector. Aquaculture’s role in food security especially in developing countries has been recognized, including its growth potential. However, Nigeria’s aquaculture development remains slow. Using Delphi technique, key factors influencing aquaculture were identified: availability/cost of aquafeed, land use change, government policy and climate change. Then scenario planning was used to develop four alternative but plausible pathways (scenarios) for Nigerian aquaculture development to 2035, depicting baseline, favourable, somewhat favourable, and unfavourable situations. For each scenario, future pond aquaculture production was estimated by modelling future changes in land use and pond yield potential. Government estimates suggest a potential of producing 2.5 million metric tonnes (t) of fish annually, but our results suggest Nigeria is unlikely to reach this estimate by 2035 without interventions. While the qualitative scenarios are useful to enhance discussions on potential interventions for improving aquaculture production and sustainability, the quantitative projections can be used for evaluating these interventions.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352513422000679"
+  },
+  {
+    "title": "Incentives and disincentives for diversified agroforestry systems from different actors’ perspectives in Bolivia",
+    "authors": [
+      "Johanna Jacobi,",
+      "Stephan Rist,",
+      "Miguel A. Altieri"
+    ],
+    "doi": "https://doi.org/10.1080/14735903.2017.1332140",
+    "journalVolume": "Vol. 15,\n                                no. 4\n                                \n                                  pp.\n                                  365\n                                  – 379",
+    "issn": "1473-5903 (Print)",
+    "publisher": "1747-762X (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Agriculture"
+    ],
+    "journalUrl": "https://www.tandfonline.com/tags",
+    "abstract": "Even though diversified agroforestry systems can provide sustainable livelihoods and a resilient production of different goods, adoption remains limited in Bolivia. We examine major obstacles to agroforestry adoption and possible incentives proposed by farmers and civil-society organizations, and relate them to governance and international mechanisms that might play a role in agroforestry adoption. Market access for produce from diversified agroforestry remains difficult, as does its processing and transport. Moreover, farmers have difficulties in achieving the quantities and homogenous quality demanded by markets in the major cities. But most importantly, farmers and civil-society organizations saw little government support, although ‘ecological production in harmony with Mother Earth’ is prescribed by law and the constitution. Agroforestry farmers needed support most urgently in the initial phase, when investment costs are high and returns low. They suggested affordable credits, subsidies for diversified farming systems, and insurance against fire. We identified important albeit small steps towards developing markets for agroforestry products, but government support – mostly in the form of diesel subsidies, materials, and infrastructure – mainly benefitted large-scale monocultures and cattle ranching. In response to this, interviewees opted for strengthening farmers’ organizations, for demanding support with the help of civil-society organizations, and for disseminating best practices.",
+    "readLink": "http://dx.doi.org/10.1080/14735903.2017.1332140"
+  }
+]

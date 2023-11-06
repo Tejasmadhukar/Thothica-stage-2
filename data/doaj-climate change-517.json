@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Rural, un territoire pour ralentir ?",
+    "authors": [
+      "Marie Huyghe"
+    ],
+    "doi": "https://doi.org/10.4000/tem.4399",
+    "journalVolume": "Vol. 37",
+    "issn": "1950-5698 (Online)",
+    "publisher": "Université Lille 1",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://tem.revues.org/",
+    "abstract": "According to a recent study led by the Forum Vies Mobiles with 12000 people, 78% of the households surveyed intend to slow down. Rural households share that longing for slowing down, being subject to strong time constraints and injunctions to speed and productivity. Yet, rural households are also subject to territorial constraints which make car use compulsory.Based on the analyses of 75 semi-directive interviews conducted with rural households, we seek to answer the following questions. Which strategies are implemented by the households in order to conciliate all those aspirations, injunctions and constraints? How do they manage to slow down in societies and territories in which speed and car are necessities? Are rural areas suitable, or even favorable, for a slowing down of the households’ pace of life?",
+    "readLink": "http://journals.openedition.org/tem/4399"
+  },
+  {
+    "title": "Aboveground biomass of marshes in Northeast China: Spatial pattern and annual changes responding to climate change",
+    "authors": [
+      "Yongxing Ren,",
+      "Yongxing Ren,",
+      "Dehua Mao,",
+      "Xiaoyan Li,",
+      "Zongming Wang,",
+      "Yanbiao Xi,",
+      "Kaidong Feng"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2022.1043811",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Examining vegetation aboveground biomass (AGB) changes is important to understanding wetland carbon sequestration. Here, we combined the field-measured AGB data (458 samples) from 2009 to 2021, moderate resolution imaging spectroradiometer reflectance products, and climatic data to reveal the AGB variations of marshes in Northeast China by comparing various models driven by different indicators. The results indicated that random forest model driven by six vegetation indices, land surface temperature, and land surface water index achieved accurate marsh AGB estimation with R2 being 0.78 and relative error being 16.71%. The mean marsh AGB in Northeast China from 2000 to 2021 was 682.89 ± 31.69 g·m−2, which generally increased from north to south in space. Temporally, annual marsh AGB declined slowly at a rate of 3.45 g·m−2·year−1 during the past 21 years driven mainly by the decrease in summer mean temperature that was characterized by a significantly positive correlation between them. Nevertheless, we highlighted that the temporal changes of marsh AGB spatially varied in response to inconsistent climate change, thus place-based measures are required for sustainable management of marshes.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2022.1043811/full"
+  },
+  {
+    "title": "Evaluation of global teleconnections in CMIP6 climate projections using complex networks",
+    "authors": [
+      "C. Dalelane,",
+      "K. Winderlich,",
+      "A. Walter"
+    ],
+    "doi": "https://doi.org/10.5194/esd-14-17-2023",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  17\n                                  – 37",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "In climatological research, the evaluation of climate models is one of the central research subjects. As an expression of large-scale dynamical processes, global teleconnections play a major role in interannual to decadal climate variability. Their realistic representation is an indispensable requirement for the simulation of climate change, both natural and anthropogenic. Therefore, the evaluation of global teleconnections is of utmost importance when assessing the physical plausibility of climate projections. We present an application of the graph-theoretical analysis tool δ-MAPS, which constructs complex networks on the basis of spatio-temporal gridded data sets, here sea surface temperature and geopotential height at 500 hPa. Complex networks complement more traditional methods in the analysis of climate variability, like the classification of circulation regimes or empirical orthogonal functions, assuming a new non-linear perspective. While doing so, a number of technical tools and metrics, borrowed from different fields of data science, are implemented into the δ-MAPS framework in order to overcome specific challenges posed by our target problem. Those are trend empirical orthogonal functions (EOFs), distance correlation and distance multicorrelation, and the structural similarity index. δ-MAPS is a two-stage algorithm. In the first place, it assembles grid cells with highly coherent temporal evolution into so-called domains. In a second step, the teleconnections between the domains are inferred by means of the non-linear distance correlation. We construct 2 unipartite and 1 bipartite network for 22 historical CMIP6 climate projections and 2 century-long coupled reanalyses (CERA-20C and 20CRv3). Potential non-stationarity is taken into account by the use of moving time windows. The networks derived from projection data are compared to those from reanalyses. Our results indicate that no single climate projection outperforms all others in every aspect of the evaluation. But there are indeed models which tend to perform better/worse in many aspects. Differences in model performance are generally low within the geopotential height unipartite networks but higher in sea surface temperature and most pronounced in the bipartite network representing the interaction between ocean and atmosphere.",
+    "readLink": "https://esd.copernicus.org/articles/14/17/2023/esd-14-17-2023.pdf"
+  },
+  {
+    "title": "Estimates of Daily Evapotranspiration in the Source Region of the Yellow River Combining Visible/Near-Infrared and Microwave Remote Sensing",
+    "authors": [
+      "Rong Liu,",
+      "Jun Wen,",
+      "Xin Wang,",
+      "Zuoliang Wang,",
+      "Yu Liu,",
+      "Ming Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/rs13010053",
+    "journalVolume": "Vol. 13,\n                                no. 53\n                                \n                                  p.\n                                  53",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The spatial variation of surface net radiation, soil heat flux, sensible heat flux, and latent heat flux at different times of the day over the northern Tibetan Plateau were estimated using the Surface Energy Balance System algorithm, data from the FY-2G geostationary meteorological satellite, and microwave data from the FY-3C polar-orbiting meteorological satellite. In addition, the evaporative fraction was analyzed, and the total evapotranspiration (ET) was obtained by the effective evaporative fraction to avoid the error from accumulation. The hourly change of latent heat flux presented a sound unimodal diurnal variation. The results showed the regional ET ranged between 2.0 and 4.0 mm over the Source Region of the Yellow River. The conditional expectations of surface energy components during the experimental period of the study area were statistically analyzed, and the correspondence between different surface temperatures and the effective energy distribution was examined. The effective energy distribution of the surface changed significantly with the increase in temperature; in particular, when the surface temperature exceeded 290 K, the effective energy was mainly used for surface ET. The aim of this study was to avoid the use of surface meteorological observations that are not readily available over large areas, and the findings lay a foundation for the commercialization of land surface evapotranspiration.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/1/53"
+  },
+  {
+    "title": "Survival, growth and carbon content in a forest plantation established after a clear-cutting in Durango, Mexico",
+    "authors": [
+      "Jesús Alejandro Soto-Cervantes,",
+      "Artemio Carrillo-Parra,",
+      "Rodrigo Rodríguez-Laguna,",
+      "José Javier Corral-Rivas,",
+      "Marín Pompa-García,",
+      "Pedro Antonio Dominguez-Calleros"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.9506",
+    "journalVolume": "Vol. 8\n                                \n                                \n                                  p.\n                                  e9506",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background Forest plantations play an important role in carbon sequestration, helping to mitigate climate change. In this study, survival, biomass, growth rings and annual carbon content storage were evaluated in a mixed Pinus durangensis and P. cooperi plantation that was established after a clear-cutting. The plantation is eight years old and covers an area of 21.40 ha. Methods Sixteen sites of 100 m2 were distributed randomly. At each site, two trees distributed proportionally to the diametric categories were destructively sampled (one per tree species). Two cross-sections were cut from each tree: The first at the base of the stump and the second at 1.30 m. The width of tree rings of the first cross-section was measured using a stereoscopic microscope with precision in microns (µm). The year-by-year basal diameter of each tree was recorded and biomass and carbon content was estimated using allometric equations. Results The estimated survival was 75.2%. The results of the ANOVA showed significant differences between the year-by-year width records of tree rings, the highest value corresponding to the fifth year. The average carbon sequestration per year is 0.30 kg for both studied tree species. Conclusions P. durangensis and P. cooperi plantations adapt and develop well in Durango forests when they are established in areas that are subjected to clear-cutting.",
+    "readLink": "https://peerj.com/articles/9506.pdf"
+  },
+  {
+    "title": "Conservation planning under uncertainty in urban development and vegetation dynamics.",
+    "authors": [
+      "David Troupin,",
+      "Yohay Carmel"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0195429",
+    "journalVolume": "Vol. 13,\n                                no. 4\n                                \n                                  p.\n                                  e0195429",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Systematic conservation planning is a framework for optimally locating and prioritizing areas for conservation. An often-noted shortcoming of most conservation planning studies is that they do not address future uncertainty. The selection of protected areas that are intended to ensure the long-term persistence of biodiversity is often based on a snapshot of the current situation, ignoring processes such as climate change. Scenarios, in the sense of being accounts of plausible futures, can be utilized to identify conservation area portfolios that are robust to future uncertainty. We compared three approaches for utilizing scenarios in conservation area selection: considering a full set of scenarios (all-scenarios portfolio), assuming the realization of specific scenarios, and a reference strategy based on the current situation (current distributions portfolio). Our objective was to compare the robustness of these approaches in terms of their relative performance across future scenarios. We focused on breeding bird species in Israel's Mediterranean region. We simulated urban development and vegetation dynamics scenarios 60 years into the future using DINAMICA-EGO, a cellular-automata simulation model. For each scenario, we mapped the target species' available habitat distribution, identified conservation priority areas using the site-selection software MARXAN, and constructed conservation area portfolios using the three aforementioned strategies. We then assessed portfolio performance based on the number of species for which representation targets were met in each scenario. The all-scenarios portfolio consistently outperformed the other portfolios, and was more robust to 'errors' (e.g., when an assumed specific scenario did not occur). On average, the all-scenarios portfolio achieved representation targets for five additional species compared with the current distributions portfolio (approximately 33 versus 28 species). Our findings highlight the importance of considering a broad and meaningful set of scenarios, rather than relying on the current situation, the expected occurrence of specific scenarios, or the worst-case scenario.",
+    "readLink": "http://europepmc.org/articles/PMC5886564?pdf=render"
+  },
+  {
+    "title": "A synthesis of the implementation ambivalence of REDD+ in Sub-Saharan Africa and Southeast Asia",
+    "authors": [
+      "Divine Odame Appiah,",
+      "Stephanie Esinu Adjoa Gbeddy"
+    ],
+    "doi": "https://doi.org/10.24259/fs.v2i1.2918",
+    "journalVolume": "Vol. 2,\n                                no. 1\n                                \n                                  pp.\n                                  92\n                                  – 111",
+    "issn": "2549-4724 (Print)",
+    "publisher": "2549-4333 (Online)",
+    "countryOfPublisher": "Hasanuddin University",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://journal.unhas.ac.id/index.php/fs",
+    "abstract": "Reducing emission from deforestation and forest degradation and associated benefits (REDD+), has received much attention as one of the most controversial climate change initiatives, especially by forest fringed community actors in sub-Saharan Africa (SSA) and Southeast Asia, (SEA) who are skeptical of the scheme.The object of this paper is to examine the seeming potential benefits and accompanying risks and challenges of REDD+ on the livelihoods among smallholder farmers in SSA and SEA. The paper espouses the sustainability context of REDD+ projects as pro-poor forest management mechanisms; through the provision of alternative livelihood. This is achieved through critical review and critique of scientific articles, project reports and relevant documents on REDD+ interventions from a worldwide, regional to local scale. The paper identifies projects that seem to solidify claims that REDD+ projects are simply a new form of colonialism; which the West is using to take advantage of vulnerable groups in the South. The paper concludes with the need to actively engage sub-Saharan African and Southeast Asian women in climate change mitigation benefit schemes on account of the expedient role women play in agricultural activities (which may involve deforestation and forest land degradation).",
+    "readLink": "http://journal.unhas.ac.id/index.php/fs/article/view/2918/pdf"
+  },
+  {
+    "title": "Student knowledge and perceptions of climate change and environmental sustainability at the Faculty of Health Sciences, University of Cape Town, South Africa",
+    "authors": [
+      "J Irlam,",
+      "Z Razzack,",
+      "H-A Rother"
+    ],
+    "doi": "https://doi.org/10.7196/AJHPE.2023.v15i1.1659",
+    "issn": "2078-5127 (Online)",
+    "publisher": "Health and Medical Publishing Group",
+    "countryOfPublisher": "South Africa",
+    "lcc": [
+      "Education: Education (General)",
+      "Medicine: Medicine (General)"
+    ],
+    "journalUrl": "http://www.ajhpe.org.za/index.php/ajhpe/index",
+    "abstract": "Background. Climate change and polluting healthcare systems are significant threats to public health. Education about planetary health and environmentally sustainable healthcare is needed to equip health professionals to meet these challenges. Objectives. To assess the knowledge, perceptions and understanding of climate change and environmental sustainability among undergraduate health sciences students at the Faculty of Health Sciences (FHS), University of Cape Town (UCT). Methods. Two student-led focus groups helped to design a cross-sectional survey of all undergraduate health sciences students. The survey findings were analysed quantitatively and thematically. Results. The 264 respondents included 211 medical and 53 health and rehabilitation students. Two-thirds of respondents (64.4%) claimed awareness but little understanding of climate change, which was understood mainly as changes in weather and climate patterns (40%) as a result of human activities (96.6%). Most (72%) were aware of the concept of environmental sustainability, but with little understanding. Students’ main sources of information about climate change were the internet (84.1%) and social media (77.3%). Two-thirds believed that climate change will highly impact their patients’ health and quality of life. Most (58.3%) thought that health professionals can help to prevent climate change by educating patients and promoting sustainable lifestyles. Nearly half (47.3%) thought it important to teach climate change and environmental sustainability in the curriculum. Conclusion. Climate change and environmental sustainability have been poorly incorporated into current FHS, UCT curricula. Students acknowledged that these concepts are important and should be taught. The FHS should integrate planetary health and environmental sustainability into its curricula, in line with global efforts.",
+    "readLink": "https://samajournals.co.za/index.php/ajhpe/article/view/656"
+  },
+  {
+    "title": "Characteristics of Land Use/Cover and Macroscopic Ecological Changes in the Headwaters of the Yangtze River and of the Yellow River over the Past 30 Years",
+    "authors": [
+      "Lulu Liu,",
+      "Wei Cao,",
+      "Quanqin Shao,",
+      "Lin Huang,",
+      "Tian He"
+    ],
+    "doi": "https://doi.org/10.3390/su8030237",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  p.\n                                  237",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Based on land use and land cover (LULC) datasets in the late 1970s, the early 1990s, 2004 and 2012, we analyzed characteristics of LULC change in the headwaters of the Yangtze River and Yellow River over the past 30 years contrastively, using the transition matrix and LULC change index. The results showed that, in 2012, the LULC in the headwaters of the Yellow River were different compared to those of the headwaters of the Yangtze River, with more grassland and wet- and marshland. In the past 30 years, the grassland and wet- and marshland increasing at the expense of sand, gobi, and bare land and desert were the main LULC change types in the headwaters of the Yangtze River, with the macro-ecological situation experiencing a process of degeneration, slight melioration, and continuous melioration, in that order. In the headwaters of the Yellow River, severe reduction of grassland coverage, shrinkage of wet- and marshland and the consequential expansion of sand, gobi and bare land were noticed. The macro-ecological situation experienced a process of degeneration, obvious degeneration, and slight melioration, in that order, and the overall change in magnitude was more dramatic than that in the headwaters of the Yangtze River. These different LULC change courses were jointly driven by climate change, grassland-grazing pressure, and the implementation of ecological construction projects.",
+    "readLink": "http://www.mdpi.com/2071-1050/8/3/237"
+  },
+  {
+    "title": "Propuesta de un parque temático de las energías renovables en Cienfuegos, Cuba",
+    "authors": [
+      "Raúl Rodríguez Muñoz,",
+      "Alleyne Antonio Formoso Mieres,",
+      "Conrado Manuel Ramírez Cutiño,",
+      "Yovany Llody García"
+    ],
+    "doi": "Vol. 5,\n                                no. 2\n                                \n                                  pp.\n                                  6\n                                  – 16",
+    "issn": "2661-6521 (Print)",
+    "publisher": "2631-2662 (Online)",
+    "countryOfPublisher": "Universidad Metropolitana de Ecuador",
+    "lcc": [
+      "Ecuador",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://remca.umet.edu.ec/index.php/REMCA/index",
+    "abstract": "necesidad para mantener equilibrios ambientales y elevar la resiliencia necesaria al cambio climático. La comunidad localizada en el Consejo Popular Pastorita de Cienfuegos, Cuba se vincula con instituciones educativas a través de una secundaria básica, tres escuelas primarias y la Universidad de Cienfuegos. Es un contexto en el que las instituciones educativas pueden influir en el manejo adecuado de los recursos naturales agua, mar, tierra, aire y sol mediante propuestas de educación ambiental para las fuentes renovables de energía, con apoyo en los Modelos de difusión de tecnologías energéticas renovables. Es por ello que el objetivo del presente trabajo es proponer un marco teórico inicial para un proyecto de parque temático, el cual permita difundir las tecnologías de uso de las fuentes renovables de energía hacia la práctica comunitaria. Se concluye reafirmando que es una necesidad impostergable mantener los recursos y el ambiente, lo cual incluye a todos los miembros de las comunidades urbanas debido a que los problemas ambientales implican soluciones más globales. Palabras clave: Parque temático, recursos naturales, energía, renovables. ABSTRACT Environmental education must adjust to socioeconomic changes, it remains a necessity to maintain environmental balance and the necessary resilience to climate change. The community located in the Pastorita Popular Council of Cienfuegos, Cuba is linked to the educational sector through a basic secondary school, three primary schools and the University of Cienfuegos. It is a context in which educational institutions can influence the proper management of natural resources water, sea, land, air and sun through proposals for environmental education for renewable energy sources, with support in the diffusion models of renewable energy technologies. That is why the objective of this work is to propose an initial theoretical framework for a theme park project, which allows the dissemination of technologies for the use of renewable energy sources towards community practice. It concludes by reaffirming that it is an urgent need to maintain resources and the environment, which includes all members of urban communities, since environmental problems imply more global solutions. Keywords: Theme park, natural resources, energy, renewables.",
+    "readLink": "https://remca.umet.edu.ec/index.php/REMCA/article/view/492"
+  }
+]

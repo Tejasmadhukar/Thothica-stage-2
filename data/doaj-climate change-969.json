@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Frequency of Extreme Heat Event as a Surrogate Exposure Metric for Examining the Human Health Effects of Climate Change.",
+    "authors": [
+      "Crystal Romeo Upperman,",
+      "Jennifer Parker,",
+      "Chengsheng Jiang,",
+      "Xin He,",
+      "Raghuram Murtugudde,",
+      "Amir Sapkota"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0144202",
+    "journalVolume": "Vol. 10,\n                                no. 12\n                                \n                                  p.\n                                  e0144202",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Epidemiological investigation of the impact of climate change on human health, particularly chronic diseases, is hindered by the lack of exposure metrics that can be used as a marker of climate change that are compatible with health data. Here, we present a surrogate exposure metric created using a 30-year baseline (1960-1989) that allows users to quantify long-term changes in exposure to frequency of extreme heat events with near unabridged spatial coverage in a scale that is compatible with national/state health outcome data. We evaluate the exposure metric by decade, seasonality, area of the country, and its ability to capture long-term changes in weather (climate), including natural climate modes. Our findings show that this generic exposure metric is potentially useful to monitor trends in the frequency of extreme heat events across varying regions because it captures long-term changes; is sensitive to the natural climate modes (ENSO events); responds well to spatial variability, and; is amenable to spatial/temporal aggregation, making it useful for epidemiological studies.",
+    "readLink": "http://europepmc.org/articles/PMC4671592?pdf=render"
+  },
+  {
+    "title": "Climate Change and the Trading System: After Doha and Doha",
+    "authors": [
+      "Dan Ciuriak,",
+      "Natassia Ciuriak"
+    ],
+    "doi": "https://doi.org/10.11575/sppp.v6i0.42449",
+    "journalVolume": "Vol. 6,\n                                no. 34\n                                \n                                  pp.\n                                  1\n                                  – 58",
+    "issn": "2560-8312 (Print)",
+    "publisher": "2560-8320 (Online)",
+    "countryOfPublisher": "University of Calgary",
+    "lcc": [
+      "Canada",
+      "Political science: Political institutions and public administration (General)"
+    ],
+    "journalUrl": "https://journalhosting.ucalgary.ca/index.php/sppp/index",
+    "abstract": "The international trade dispute over Ontario’s “green energy” policies is a harbinger of similar problems to come; an early example of the emerging conflict between industry rules aimed at reducing greenhouse gas emissions, and existing trade deals between national governments. We live in a world without formalized and sweeping multilateral climate change treaties between major economies, but one with many sweeping trade treaties between them. That discrepancy is setting up the conditions for more trade disputes in the future. Governments have every incentive to position climate change policies, as Ontario has, as support for new growth industries and the creation of local “green jobs.” But they also have every incentive to want to prevent the leakage of those envisioned economic benefits to outside parties, at the very least when those outside parties come from places that do not share the burden of climate change mitigation. The current trade-law framework has lent itself to the interpretation, by arbitration panels, that “free riders” — that is, industries and countries that bear little to no responsibility for shouldering the costs of climate change policies — are nevertheless entitled to share in the commercial benefits that may be created by climate policies in jurisdictions that do make efforts to reduce carbon emissions. In short, if a corporation or state-owned enterprise from a country lacking climate change policies wants to take advantage of the economic benefits of Ontario’s feed-in-tariff program, it would seem there is little Ontario can do to stop it, without running afoul of trade agreements. The result is a worst-case scenario. The problem of climate change continues to worsen, while governments — national and sub-national — face disincentives for implementing regulations and subsidies that might help mitigate the problem. This is because they cannot be sure that they will not be left to shoulder the cost while foreign actors, without similar environmental commitments, take advantage of the attendant economic benefits. There is also the real possibility that some governments may disguise anti-trade motives by cloaking them under the cover of environmental policy. These conflicts need not happen and, if we are committed to slowing climate change, it cannot be allowed to happen. The global trading community must find ways to exempt domestic climate change policies from traditional tariff and trade commitments, while also guarding against the potential abuse of that exemption. One possibility is exempting from tariff restrictions “border carbon adjustments” (BCAs), which apply varying tariffs to goods moving across borders based on the carbon emitted across the supply chain. The corporate sector’s increasing sophistication in quantifying supply-chain emissions, as part of corporate competitive efforts, makes BCAs more feasible for governments to implement. And there is already some evidence to suggest that BCAs can be accommodated within the current WTO rules, although some bending of the rules may be required. Still, the climate change threat is grave and urgent. If ever there was a reason to bend global trade rules, accommodating earnest climate-change-mitigation efforts is arguably the best one yet.",
+    "readLink": "https://www.policyschool.ca/wp-content/uploads/2016/03/ciuriak-climate-change-final.pdf"
+  },
+  {
+    "title": "An Evidence Theory and Fuzzy Logic Combined Approach for the Prediction of Potential ARF-Regulated Genes in Quinoa",
+    "authors": [
+      "Nesrine Sghaier,",
+      "Jemaa Essemine,",
+      "Rayda Ben Ayed,",
+      "Mustapha Gorai,",
+      "Riadh Ben Marzoug,",
+      "Ahmed Rebai,",
+      "Mingnan Qu"
+    ],
+    "doi": "https://doi.org/10.3390/plants12010071",
+    "journalVolume": "Vol. 12,\n                                no. 71\n                                \n                                  p.\n                                  71",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "Quinoa constitutes among the tolerant plants to the challenging and harmful abiotic environmental factors. Quinoa was selected as among the model crops destined for bio-saline agriculture that could contribute to the staple food security for an ever-growing worldwide population under various climate change scenarios. The auxin response factors (ARFs) constitute the main contributors in the plant adaptation to severe environmental conditions. Thus, the determination of the ARF-binding sites represents the major step that could provide promising insights helping in plant breeding programs and improving agronomic traits. Hence, determining the ARF-binding sites is a challenging task, particularly in species with large genome sizes. In this report, we present a data fusion approach based on Dempster–Shafer evidence theory and fuzzy set theory to predict the ARF-binding sites. We then performed an “In-silico” identification of the ARF-binding sites in Chenopodium quinoa. The characterization of some known pathways implicated in the auxin signaling in other higher plants confirms our prediction reliability. Furthermore, several pathways with no or little available information about their functions were identified to play important roles in the adaptation of quinoa to environmental conditions. The predictive auxin response genes associated with the detected ARF-binding sites may certainly help to explore the biological roles of some unknown genes newly identified in quinoa.",
+    "readLink": "https://www.mdpi.com/2223-7747/12/1/71"
+  },
+  {
+    "title": "The Impact of Climate Change on Sustainable Development: The Case of Vojvodina",
+    "authors": [
+      "Aleksandra Pavlović,",
+      "Ana Frank,",
+      "Andrea Ivanišević,",
+      "Ivana Katić"
+    ],
+    "doi": "https://doi.org/10.24867/IJIEM-2021-2-283",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  pp.\n                                  141\n                                  – 150",
+    "issn": "2217-2661 (Print)",
+    "publisher": "2683-345X (Online)",
+    "countryOfPublisher": "University of Novi Sad, Faculty of Technical Sciences",
+    "lcc": [
+      "Serbia",
+      "Technology: Technology (General): Industrial engineering. Management engineering"
+    ],
+    "journalUrl": "http://ijiemjournal.uns.ac.rs/",
+    "abstract": "Sustainability Development Goals require each country and region to adjust their environmental and social policies to ensure a timely global response, stabilization of climate, and social equality. Vojvodina's area has unique challenges due to its political status and significant dependence on environmental resources to ensure its economy, energy supply and food security. The researchers reviewed potential challenges to Vojvodina's sustainable development based on analysis of long-term trend changes of temperature and water flow. To support sustainable development, Vojvodina region needs to strive for the integral concept of flood protection, which includes harmonization of “human” demands component and “environmental” demands components.",
+    "readLink": "http://www.ijiemjournal.uns.ac.rs/images/journal/volume12/IJIEM_283.pdf"
+  },
+  {
+    "title": "Are CH<sub>4</sub>, CO<sub>2</sub>, and N<sub>2</sub>O Emissions from Soil Affected by the Sources and Doses of N in Warm-Season Pasture?",
+    "authors": [
+      "Darlena  Caroline da Cruz Corrêa,",
+      "Abmael  da Silva Cardoso,",
+      "Mariane  Rodrigues Ferreira,",
+      "Débora Siniscalchi,",
+      "Ariana  Desie Toniello,",
+      "Gilmar  Cotrin de Lima,",
+      "Ricardo  Andrade Reis,",
+      "Ana  Claudia Ruggieri"
+    ],
+    "doi": "https://doi.org/10.3390/atmos12060697",
+    "journalVolume": "Vol. 12,\n                                no. 697\n                                \n                                  p.\n                                  697",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "The intensification of pasture production has increased the use of N fertilizers—a practice that can alter soil greenhouse gas (GHG) fluxes. The objective of the present study was to evaluate the fluxes of CH4, CO2, and N2O in the soil of Urochloa brizantha ‘Marandu’ pastures fertilized with different sources and doses of N. Two field experiments were conducted to evaluate GHG fluxes following N fertilization with urea, ammonium nitrate, and ammonium sulfate at doses of 0, 90, 180, and 270 kg N ha−1. GHG fluxes were quantified using the static chamber technique and gas chromatography. In both experiments, the sources and doses of N did not significantly affect cumulative GHG emissions, while N fertilization significantly affected cumulative N2O and CO2 emissions compared to the control treatment. The N2O emission factor following fertilization with urea, ammonium nitrate, and ammonium sulfate was lower than the United Nations’ Intergovernmental Panel on Climate Change standard (0.35%, 0.24%, and 0.21%, respectively, with fractionation fertilization and 1.00%, 0.83%, and 1.03%, respectively, with single fertilization). These findings are important for integrating national inventories and improving GHG estimation in tropical regions.",
+    "readLink": "https://www.mdpi.com/2073-4433/12/6/697"
+  },
+  {
+    "title": "Stress in wildlife: comparison of the stress response among domestic, captive, and free-ranging animals",
+    "authors": [
+      "Mina Cansu Karaer,",
+      "Nina Čebulj-Kadunc,",
+      "Tomaž Snoj"
+    ],
+    "doi": "https://doi.org/10.3389/fvets.2023.1167016",
+    "journalVolume": "Vol. 10",
+    "issn": "2297-1769 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Animal culture: Veterinary medicine"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Veterinary_Science",
+    "abstract": "The stress response, which involves joint activity of the nervous and endocrine systems, is one of the basic adaptive mechanisms that ensures the survival of the individual. The activation of the sympathetic nervous system, the sympathetic-adrenal-medullary axis, and the hypothalamic–pituitary–adrenal axis enables organisms to respond to endogenous and exogenous challenges. Repeated short-term stress leads to long-term stress, which disrupts physiological homeostasis. Unlike domestic animals, wild animals are not protected from environmental and weather influences or treated for diseases. In addition, climate change, habitat fragmentation and loss, and urban stressors (such as light, noise and chemical pollution; xenobiotics; traffic; and buildings) affect individual wildlife and populations. In this review, we have attempted to depict the magnitude of the stress response in wildlife and related domestic animals as well as in captive and free-ranging animals. The intensity of the stress response can be estimated by determining the concentration of glucocorticoids in body fluids, tissues, and excreta. A comparison of results from different studies suggests that domestic animals have lower fecal and hair glucocorticoid concentrations than related wild animals. Additionally, fecal and hair glucocorticoid concentrations in captive animals are higher than in free-ranging animals of the same species. As there are limited data on this topic, we cannot draw definitive conclusions about glucocorticoid concentration and stress response. Further studies are needed to clarify these issues.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fvets.2023.1167016/full"
+  },
+  {
+    "title": "pyClim-SDM: Service for generation of statistically downscaled climate change projections supporting national adaptation strategies",
+    "authors": [
+      "Alfonso Hernanz,",
+      "Carlos Correa,",
+      "Juan Andrés García-Valero,",
+      "Marta Domínguez,",
+      "Esteban Rodríguez-Guisado,",
+      "Ernesto Rodríguez-Camino"
+    ],
+    "doi": "Vol. 32\n                                \n                                \n                                  p.\n                                  100408",
+    "issn": "2405-8807 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-services/",
+    "abstract": "The climate change impact and adaptation communities need future scenarios with sufficient high resolution, which are frequently achieved by applying Statistical Downscaling Models (SDMs) over global climate models. A large variety of SDMs exists, and some can be more suitable than others for each specific purpose. For this reason, it is important to develop tools to facilitate the evaluation and generation of downscaled scenarios following different approaches. In this paper we present a service, ‘pyClim-SDM’, which allows users to generate and evaluate their own downscaled scenarios with a very simple and user-friendly graphical interface. This tool includes a large collection of state-of-the-art methods belonging to different families to downscale daily data of the following surface variables: temperature, precipitation, wind, relative humidity and cloud coverage. Additionally, the software is prepared to be applied over any other user-defined target variable. Thus, multivariable indexes can be tackled as target variables themselves, instead of being calculated from the downscaled primary variables. With this possibility, potential intervariable inconsistencies are avoided. An application example for a Fire Weather Index, dependent on temperature, wind, humidity and precipitation, is shown. The service here presented -mainly based on a new downscaling software and a user-friendly graphical interface- is an essential piece for evaluating and generating high-resolution projection data within the Spanish national climate change adaptation strategy which includes, among other elements, a common database for all sectors, viewer and data distribution portal, etc.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405880723000705"
+  },
+  {
+    "title": "Key regions in the modulation of seasonal GMST variability by analyzing the two hottest years: 2016 vs. 2020",
+    "authors": [
+      "Ke-Xin Li,",
+      "Fei Zheng,",
+      "De-Yang Luo,",
+      "Cheng Sun,",
+      "Jiang Zhu"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac8dab",
+    "journalVolume": "Vol. 17,\n                                no. 9\n                                \n                                  p.\n                                  094034",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Following the end of the decadal-warming-hiatus in 2016, the global mean surface temperature (GMST) abruptly showed a 3 yr warming slowdown and peaked again in 2020, overturning the conventional concept that highest GMST occurs with strong El Niño. The high GMST in 2016 was controlled by secular trend and annual variability (ANV). However, the dominator of the sharp GMST rise in 2020 was SCT alone because the ANVs in different seasons canceled each other out in 2020, contributing little to the annual mean GMST. By analyzing the two hottest years, 2016 and 2020, we identified that seasonally varying ANVs are mainly located in Eurasia, North America, the Arctic Ocean, and the tropical eastern Pacific Ocean. Dominance by surface temperatures over the four crucial regions on the subseasonal-to-seasonal (S2S) GMST variations was also observed in 73% of the years during 1982–2021, indicating a potential opportunity to improve the S2S GMST forecast.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac8dab"
+  },
+  {
+    "title": "Projected change in rangeland fractional component cover across the sagebrush biome under climate change through 2085",
+    "authors": [
+      "Matthew Rigge,",
+      "Hua Shi,",
+      "Kory Postma"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.3538",
+    "journalVolume": "Vol. 12,\n                                no. 6\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract Climate change over the past century has altered vegetation community composition and species distributions across rangelands in the western United States. The scale and magnitude of climatic influences are unknown. While many studies have projected the effects of climate change using several modeling approaches, none has evaluated the impacts to fractional component cover at a 30‐m resolution across the full sagebrush (Artemisia spp.) biome. We used fractional component cover data for rangeland functional groups and weather data from the 1985 to 2018 reference period in conjunction with soils and topography data to develop empirical models describing the spatiotemporal variation in component cover. To investigate the ramifications of future change across the western United States, we extended models based on historical relationships over the reference period to model landscape effects based on future weather conditions from two emission scenarios and three time periods (2020s, 2050s, and 2080s). We tested both generalized additive models (GAMs) and regression tree models, finding that the former led to superior spatial and statistical results. Our results indicate more xeric vegetation across most of the study area, with an increasing dominance of non‐sagebrush shrubs, annual herbaceous cover, and bare ground over herbaceous and sagebrush cover in both the representative concentration pathway (RCP) 4.5 and 8.5 scenarios. In general, both scenarios yielded similar results, but RCP 8.5 tended to be more extreme, with greater change relative to the reference period. Results demonstrate that in cool sites some degree of warming to growing season maximum temperature or nongrowing season minimum temperature could be beneficial to sagebrush and shrub growth. However, warming nongrowing season maximum temperature was beneficial to shrub, but not to sagebrush growth. Our results inform rangeland managers of potential future vegetation composition, cover, and species distributions, which could improve prioritization of conservation and restoration efforts.",
+    "readLink": "https://doi.org/10.1002/ecs2.3538"
+  },
+  {
+    "title": "Avi Brisman, Bill McClanahan, Nigel South and Reece Walters (2018) Water, Crime and Security in the Twenty-First Century. London: Palgrave Macmillan.",
+    "authors": [
+      "James R Gacek"
+    ],
+    "doi": "https://doi.org/10.5204/ijcjsd.v8i1.1096",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  161\n                                  – 163",
+    "issn": "2202-7998 (Print)",
+    "publisher": "2202-8005 (Online)",
+    "countryOfPublisher": "Queensland University of Technology",
+    "lcc": [
+      "Australia",
+      "Social Sciences: Social pathology. Social and public welfare. Criminology"
+    ],
+    "journalUrl": "https://www.crimejusticejournal.com/index",
+    "abstract": "Not applicable",
+    "readLink": "https://www.crimejusticejournal.com/article/view/1096"
+  }
+]

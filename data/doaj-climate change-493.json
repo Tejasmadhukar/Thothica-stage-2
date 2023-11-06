@@ -1,0 +1,240 @@
+[
+  {
+    "title": "Representing Climate Change through the Lens of Environmental Security: Thirty Years of the Department of Defense Defining a Threat Multiplier and Military Resilience",
+    "authors": [
+      "Michael STRICOF"
+    ],
+    "doi": "https://doi.org/10.4000/erea.11609",
+    "journalVolume": "Vol. 18,\n                                no. 2",
+    "issn": "1638-1718 (Online)",
+    "publisher": "Laboratoire d’Etudes et de Recherches sur le Monde Anglophone (LERMA)",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Language and Literature: English language",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://erea.revues.org/",
+    "abstract": "One of the key ways in which environmental emergency is recognized in the United States is as a military issue through the lens of environmental security. This article proposes an expanded understanding of this concept by taking a historical look at the evolving role of the Department of Defense in defining environmental security from the late 1980s, when the term first gained traction, through the Donald Trump administration. This approach highlights consistent themes in the Pentagon’s environmental mitigation and adaptation plans, notably through its definition of climate change as a threat multiplier and the need to increase the military’s resilience to changing weather conditions. By tracing the Department of Defense’s response to environmental risks over more than three decades, a consistently refined narrative emerges which allows us to understand defense climate priorities, regardless of varying political leadership.",
+    "readLink": "http://journals.openedition.org/erea/11609"
+  },
+  {
+    "title": "Tribute to Professor Anthony J. McMichael",
+    "authors": [
+      "Ashwin Swaminathan,",
+      "Robyn M. Lucas,",
+      "David Harley"
+    ],
+    "doi": "https://doi.org/10.3390/children1030457",
+    "journalVolume": "Vol. 1,\n                                no. 3\n                                \n                                  pp.\n                                  457\n                                  – 460",
+    "issn": "2227-9067 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine: Pediatrics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/children",
+    "abstract": "Emeritus Professor A. J. “Tony” McMichael (1942–2014) was an internationally renowned and pioneering Australian academic and advocate in epidemiology, who was passionate about understanding the influences of the environment on human health. In an illustrious career spanning more than four decades, he made significant contributions to the scientific community and policy discourse—including ground-breaking research related to the health of children. McMichael was a prolific academic writer with over 300 peer-reviewed papers; 160 book chapters and two sole-authored books. However, his outstanding talent was for integrating complex and seemingly unrelated strands from the environmental and health sciences into a cohesive narrative—and highlighting its relevance to lay persons, scientists and governments alike. He was instrumental in validating this nascent field of research and inspiring many others to follow his lead.",
+    "readLink": "http://www.mdpi.com/2227-9067/1/3/457"
+  },
+  {
+    "title": "Sequential fermentation using non-Saccharomyces yeasts for the reduction of alcohol content in wine",
+    "authors": [
+      "Ciani Maurizio,",
+      "Canonico Laura,",
+      "Oro Lucia,",
+      "Comitini Francesca"
+    ],
+    "doi": "https://doi.org/10.1051/bioconf/20140302015",
+    "journalVolume": "Vol. 3\n                                \n                                \n                                  p.\n                                  02015",
+    "issn": "2117-4458 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Science: Microbiology",
+      "Science: Physiology",
+      "Science: Zoology"
+    ],
+    "journalUrl": "http://www.bio-conferences.org",
+    "abstract": "Over the last few decades there has been a progressive increase in wine ethanol content due to global climate change and modified wine styles that involved viticulture and oenology practices. Among the different approaches and strategies to reduce alcohol content in wine we propose a sequential fermentation using immobilized non-Saccharomyces wine yeasts. Preliminary results showed that sequential fermentations with Hanseniaspora osmophila, Hanseniaspora uvarum, Metschnikowia pulcherrima, Starmerella bombicola and Saccharomyces cerevisiae strains showed an ethanol reduction when compared with pure S. cerevisiae fermentation trials.",
+    "readLink": "http://dx.doi.org/10.1051/bioconf/20140302015"
+  },
+  {
+    "title": "Improved Lithological Map of Large Complex Semi-Arid Regions Using Spectral and Textural Datasets within Google Earth Engine and Fused Machine Learning Multi-Classifiers",
+    "authors": [
+      "Imane Serbouti,",
+      "Mohammed Raji,",
+      "Mustapha Hakdaoui,",
+      "Fouad El Kamel,",
+      "Biswajeet Pradhan,",
+      "Shilpa Gite,",
+      "Abdullah Alamri,",
+      "Khairul Nizam Abdul Maulud,",
+      "Abhirup Dikshit"
+    ],
+    "doi": "https://doi.org/10.3390/rs14215498",
+    "journalVolume": "Vol. 14,\n                                no. 5498\n                                \n                                  p.\n                                  5498",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "In this era of free and open-access satellite and spatial data, modern innovations in cloud computing and machine-learning algorithms (MLAs) are transforming how Earth-observation (EO) datasets are utilized for geological mapping. This study aims to exploit the potentialities of the Google Earth Engine (GEE) cloud platform using powerful MLAs. The proposed method is implemented in three steps: (1) Based on GEE and Sentinel 2A imagery (spectral and textural features), that cover 1283 km2 area, a variety of lithological maps are generated using five supervised classifiers (random forest (RF), support vector machine (SVM), classification and regression tree (CART), minimum distance (MD), naïve Bayes (NB)); (2) the accuracy assessments for each class are performed, by estimating overall accuracy (OA) and kappa coefficient (K) for each classifier; (3) finally, the fusion of classification maps is performed using Dempster–Shafer Theory (DST) for mapping lithological units of the northern part of the complex Paleozoic massif of Rehamna, a large semi-arid region located in the SW of the western Moroccan Meseta. The results were quantitatively compared with existing geological maps, enhanced color composite and validated by field survey investigation. In comparison of individual classifiers, the SVM yields better accuracy of nearly 88%, which was 12% higher than the RF MLA; otherwise, the parametric MLAs produce the weakest lithological maps among other classifiers, with a lower OA of approximately 67%, 54% and 52% for CART, MD and NB, respectively. Noticeably, the highest OA value of 96% is achieved for the proposed approach. Therefore, we conclude that this method allows geoscientists to update previous geological maps and rapidly produce more precise lithological maps, especially for hard-to-reach regions.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/21/5498"
+  },
+  {
+    "title": "Climate Change in the Discourse of Central Banks. Influence on Financial Stability at the European Level",
+    "authors": [
+      "Lupu Iulia,",
+      "Criste Adina"
+    ],
+    "doi": "https://doi.org/10.2478/sbe-2023-0034",
+    "journalVolume": "Vol. 18,\n                                no. 2\n                                \n                                  pp.\n                                  235\n                                  – 246",
+    "issn": "2344-5416 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Social Sciences: Commerce: Business"
+    ],
+    "journalUrl": "https://sciendo.com/journal/SBE",
+    "abstract": "Climate change and environmental constraints are the biggest challenges facing the economy and society. Because they influence price and financial stability, controversial or trade-off decisions are sometimes required. In recent years, we have observed an increasing interest concerning central banks’ role in addressing these issues and supporting green finance development. This article proposes to evidence the impact of central banks’ climate change discourse on financial stability at the European banking level, considering their role in financial stability. We employed an event study methodology on systemic risk measures computed for 181 banks listed on European stock exchanges, using daily observations for 2015-2021. On the other side, we identified speeches of European central bank governors related to their involvement in climate change policy. The empirical results confirm the assumption that participation by central banks generally has positive effects on financial stability and some concrete measures were visible. While central banks cannot make climate policy and are not the critical element in this area, along with other economic, financial and governmental institutions, they can play an important role.",
+    "readLink": "https://doi.org/10.2478/sbe-2023-0034"
+  },
+  {
+    "title": "Large contribution of meteorological factors to inter-decadal changes in regional aerosol optical depth",
+    "authors": [
+      "H. Che,",
+      "H. Che,",
+      "K. Gui,",
+      "K. Gui,",
+      "K. Gui,",
+      "X. Xia,",
+      "X. Xia,",
+      "Y. Wang,",
+      "Y. Wang,",
+      "B. N. Holben,",
+      "P. Goloub,",
+      "E. Cuevas-Agulló,",
+      "H. Wang,",
+      "H. Wang,",
+      "Y. Zheng,",
+      "Y. Zheng,",
+      "Y. Zheng,",
+      "H. Zhao,",
+      "H. Zhao,",
+      "X. Zhang,",
+      "X. Zhang"
+    ],
+    "doi": "https://doi.org/10.5194/acp-19-10497-2019",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  10497\n                                  – 10523",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Aerosol optical depth (AOD) has become a crucial metric for assessing global climate change. Although global and regional AOD trends have been studied extensively, it remains unclear what factors are driving the inter-decadal variations in regional AOD and how to quantify the relative contribution of each dominant factor. This study used a long-term (1980–2016) aerosol dataset from the Modern-Era Retrospective Analysis for Research and Applications, version 2 (MERRA-2) reanalysis, along with two satellite-based AOD datasets (MODIS/Terra and MISR) from 2001 to 2016, to investigate the long-term trends in global and regional aerosol loading. Statistical models based on emission factors and meteorological parameters were developed to identify the main factors driving the inter-decadal changes of regional AOD and to quantify their contribution. Evaluation of the MERRA-2 AOD with the ground-based measurements of AERONET indicated significant spatial agreement on the global scale (r= 0.85, root-mean-square error = 0.12, mean fractional error = 38.7 %, fractional gross error = 9.86 % and index of agreement = 0.94). However, when AOD observations from the China Aerosol Remote Sensing Network (CARSNET) were employed for independent verification, the results showed that MERRA-2 AODs generally underestimated CARSNET AODs in China (relative mean bias = 0.72 and fractional gross error =-34.3 %). In general, MERRA-2 was able to quantitatively reproduce the annual and seasonal AOD trends on both regional and global scales, as observed by MODIS/Terra, although some differences were found when compared to MISR. Over the 37-year period in this study, significant decreasing trends were observed over Europe and the eastern United States. In contrast, eastern China and southern Asia showed AOD increases, but the increasing trend of the former reversed sharply in the most recent decade. The statistical analyses suggested that the meteorological parameters explained a larger proportion of the AOD variability (20.4 %–72.8 %) over almost all regions of interest (ROIs) during 1980–2014 when compared with emission factors (0 %–56 %). Further analysis also showed that SO2 was the dominant emission factor, explaining 12.7 %–32.6 % of the variation in AOD over anthropogenic-aerosol-dominant regions, while black carbon or organic carbon was the leading factor over the biomass-burning-dominant (BBD) regions, contributing 24.0 %–27.7 % of the variation. Additionally, wind speed was found to be the leading meteorological parameter, explaining 11.8 %–30.3 % of the variance over the mineral-dust-dominant regions, while ambient humidity (including soil moisture and relative humidity) was the top meteorological parameter over the BBD regions, accounting for 11.7 %–35.5 % of the variation. The results of this study indicate that the variation in meteorological parameters is a key factor in determining the inter-decadal change in regional AOD.",
+    "readLink": "https://www.atmos-chem-phys.net/19/10497/2019/acp-19-10497-2019.pdf"
+  },
+  {
+    "title": "Climate-Wise Habitat Connectivity Takes Sustained Stakeholder Engagement",
+    "authors": [
+      "Morgan Gray,",
+      "Elisabeth Micheli,",
+      "Tosha Comendant,",
+      "Adina Merenlender"
+    ],
+    "doi": "https://doi.org/10.3390/land9110413",
+    "journalVolume": "Vol. 9,\n                                no. 413\n                                \n                                  p.\n                                  413",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Well-managed and connected protected area networks are needed to combat the 6th mass extinction, yet the implementation of plans intended to secure landscape connectivity remains insufficient. The failure to translate planning efforts into effective action (i.e., the research-implementation gap) hinders our ability to conserve biodiversity threatened by ongoing climate change and habitat fragmentation. Sustained collaboration between researchers and practitioners to co-produce conservation strategies can bridge this gap by providing end-users with implementation guidance based on legitimate, relevant, and trusted information. However, few case studies capture methods for the co-production and use of climate-wise connectivity knowledge. Here we describe the framework for sustained engagement used by a multi-jurisdictional practitioner network to co-produce climate-wise linkages for the interior coastal ranges in Northern California. We found iterative co-production shaped ecological objectives, input data, analytical methods, and implementation priorities. Stakeholders used both co-produced and local socio-ecological (e.g., development threat, management priorities) knowledge to finalize corridor implementation plans. Priority corridors afforded greater climate benefit and were more likely to connect lands managed by participant organizations. Our results demonstrate how collaborative partnerships can bridge the gap between connectivity research and implementation. Lessons learned, outcomes, and future plans provide insights to advance landscape-scale resilience to climate change.",
+    "readLink": "https://www.mdpi.com/2073-445X/9/11/413"
+  },
+  {
+    "title": "The Impacts of Aerosol Emissions on Historical Climate in UKESM1",
+    "authors": [
+      "Jeongbyn Seo,",
+      "Sungbo Shim,",
+      "Sang-Hoon Kwon,",
+      "Kyung-On Boo,",
+      "Yeon-Hee Kim,",
+      "Fiona O’Connor,",
+      "Ben Johnson,",
+      "Mohit Dalvi,",
+      "Gerd Folberth,",
+      "Joao Teixeira,",
+      "Jane Mulcahy,",
+      "Catherine Hardacre,",
+      "Steven Turnock,",
+      "Stephanie Woodward,",
+      "Luke Abraham,",
+      "James Keeble,",
+      "Paul Griffiths,",
+      "Alex Archibald,",
+      "Mark Richardson,",
+      "Chris Dearden,",
+      "Ken Carslaw,",
+      "Jonny Williams,",
+      "Guang Zeng,",
+      "Olaf Morgenstern"
+    ],
+    "doi": "https://doi.org/10.3390/atmos11101095",
+    "journalVolume": "Vol. 11,\n                                no. 1095\n                                \n                                  p.\n                                  1095",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "As one of the main drivers for climate change, it is important to understand changes in anthropogenic aerosol emissions and evaluate the climate impact. Anthropogenic aerosols have affected global climate while exerting a much larger influence on regional climate by their short lifetime and heterogeneous spatial distribution. In this study, the effective radiative forcing (ERF), which has been accepted as a useful index for quantifying the effect of climate forcing, was evaluated to understand the effects of aerosol on regional climate over a historical period (1850–2014). Eastern United States (EUS), Western European Union (WEU), and Eastern Central China (ECC), are regions that predominantly emit anthropogenic aerosols and were analyzed using Coupled Model Intercomparison Project 6 (CMIP6) simulations implemented within the framework of the Aerosol Chemistry Model Intercomparison Project (AerChemMIP) in the UK’s Earth System Model (UKESM1). In EUS and WEU, where industrialization occurred relatively earlier, the negative ERF seems to have been recovering in recent decades based on the decreasing trend of aerosol emissions. Conversely, the radiative cooling in ECC seems to be strengthened as aerosol emission continuously increases. These aerosol ERFs have been largely attributed to atmospheric rapid adjustments, driven mainly by aerosol-cloud interactions rather than direct effects of aerosol such as scattering and absorption.",
+    "readLink": "https://www.mdpi.com/2073-4433/11/10/1095"
+  },
+  {
+    "title": "Safeguarding our future by protecting biodiversity",
+    "authors": [
+      "Richard T. Corlett"
+    ],
+    "doi": "Vol. 42,\n                                no. 4\n                                \n                                  pp.\n                                  221\n                                  – 228",
+    "issn": "2468-2659 (Online)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Biology (General)",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/plant-diversity/",
+    "abstract": "The Anthropocene is marked by twin crises: climate change and biodiversity loss. Climate change has tended to dominate the headlines, reflecting, in part, the greater complexity of the biodiversity crisis. Biodiversity itself is a difficult concept. Land plants dominate the global biomass and terrestrial arthropods probably dominate in terms of numbers of species, but most of the Tree of Life consists of single-celled eukaryotes, bacteria, and archaea. Wild plants provide a huge variety of products and services to people, ranging from those that are species-specific, such as food, medicine, and genetic resources, to many which are partly interchangeable, such as timber and forage for domestic animals, and others which depend on the whole community, but not on individual species, such as regulation of water supply and carbon sequestration. The use of information from remote sensing has encouraged a simplified view of the values of nature's contributions to people, but this does not match the way most people value nature. We can currently estimate the proportion of species threatened by human impacts only for a few well-assessed groups, for which it ranges from 14% (birds) to 63% (cycads). Less than 8% of land plants have been assessed, but it has been estimated that 30–44% are threatened, although there are still few (0.2%) well-documented extinctions. Priorities for improving protection of biodiversity include: improving the inventory, with surveys focused on geographical areas and taxonomic groups which are under-collected; expanding the protected area system and its representativeness; controlling overexploitation; managing invasive species; conserving threatened species ex situ; restoring degraded ecosystems; and controlling climate change. The Convention on Biological Diversity (CBD) COP15 and the United Nations Framework Convention on Climate Change (UNFCCC) COP26 meetings, both postponed to 2021, will provide an opportunity to address both crises, but success will require high ambition from all participants.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2468265920300354"
+  },
+  {
+    "title": "Land Use and Ambient Air Quality in Bahir Dar and Hawassa, Ethiopia",
+    "authors": [
+      "Oluwasinaayomi Faith Kasim,",
+      "Muluneh Woldetisadik Abshare,",
+      "Truphena Eshibukule Mukuna,",
+      "Bolanle Wahab"
+    ],
+    "doi": "https://doi.org/10.1177/1178622117752138",
+    "journalVolume": "Vol. 11",
+    "issn": "1178-6221 (Online)",
+    "publisher": "SAGE Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://journals.sagepub.com/home/asw",
+    "abstract": "Land use, air pollution, and climate change are closely related. This article analysed the contributions of urban land use to ambient air quality in Bahir Dar and Hawassa cities. A total of 32 geo-referenced locations, 16 each in Bahir Dar and Hawassa, representing different land uses, were assessed for carbon monoxide (CO), carbon dioxide (CO 2 ), and volatile organic compound (VOC). CO 2 concentration (ppm) for Bahir Dar and Hawassa ranged from 385.10 ± 15.34 ppm (recreational land use) to 555.50 ± 80.79 ppm (commercial land use) and 388.07 ± 19.79 ppm (recreational land use) to 444.50 ± 54.05 ppm (industrial land use), respectively, whereas mean concentration of CO was 0.01 ± 0.01 ppm (recreational land use) to 2.59 ± 0.69 ppm (circulation land use) and 0.12 ± 0.11 ppm (recreational land use) to 4.66 ± 1.41 ppm (circulation land use), respectively. The VOC values were 882.10 ± 147.05 ppm (residential land use) to 1436.00 ± 932.06 ppm (institutional land use) and 1377.30 ± 233.23 ppm (institutional land use) to 2132.33 ± 739.71 ppm (circulation land use). Inadequate monitoring, occasioned by dearth of equipment, poor urban management strategy, fossil fuel combustion, and aged vehicles were some of the factors responsible for the observed concentrations. Elevated levels of CO, CO 2 , and VOC in the atmosphere have a significant impact on global warming, with adverse effects on human health. Capacity for monitoring, analysis, reporting, and validation of air quality data in the cities should be strengthened.",
+    "readLink": "https://doi.org/10.1177/1178622117752138"
+  }
+]

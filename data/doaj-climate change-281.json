@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Simulation of the potential distribution of rare and endangered Satyrium species in China under climate change",
+    "authors": [
+      "Xianheng Ouyang,",
+      "Shihao Bai,",
+      "Garry Brien Strachan,",
+      "Anliang Chen"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.9054",
+    "journalVolume": "Vol. 12,\n                                no. 7\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Satyrium is an endangered and rare genus of plant that has various pharmacodynamic functions. In this study, optimized MaxEnt models were used in analyzing potential geographical distributions under current and future climatic conditions (the 2050s and 2070s) and dominant environmental variables influencing their geographic distribution. The results provided reference for implementation of long‐term conservation and management approaches for the species. The results showed that the area of the total suitable habitat for Satyrium ciliatum (S. ciliatum) in China is 32.51 × 104 km2, the total suitable habitat area for Satyrium nepalense (S. nepalense) in China is 61.76 × 104 km2, and the area of the total suitable habitat for Satyrium yunnanense (S. yunnanense) in China is 89.73 × 104 km2 under current climatic conditions. The potential suitable habitat of Satyrium is mainly distributed in Southwest China. The major environmental variables influencing the geographical distribution of S. ciliatum were isothermality (bio3), temperature seasonality (bio4), and mean temperature of coldest quarter (bio11). Environmental variables such as isothermality (bio3), temperature seasonality (bio4), and precipitation of coldest quarter (bio19) affected the geographical distribution of S. nepalense; and environmental variables such as isothermality (bio3), temperature seasonality (bio4), and lower temperature of coldest month (bio6) affected the geographical distribution of S. yunnanense. The distribution range of Satyrium was extended as global warming increased, showing emissions of greenhouse gases with lower concentration (SSP1‐2.6) and higher concentration (SSP5‐8.5). According to the study, the distribution of suitable habitat will shift with a change to higher elevation areas and higher latitude areas in the future.",
+    "readLink": "https://doi.org/10.1002/ece3.9054"
+  },
+  {
+    "title": "Application of the MUSLE Model and Potential Effects of Climate Change in a Small Alpine Catchment in Northern Italy",
+    "authors": [
+      "Francesca Berteni,",
+      "Arianna Dada,",
+      "Giovanna Grossi"
+    ],
+    "doi": "https://doi.org/10.3390/w13192679",
+    "journalVolume": "Vol. 13,\n                                no. 2679\n                                \n                                  p.\n                                  2679",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The evaluation of sediment yield by water erosion taking into consideration the possible impact of climate change is the object of this work, concerning the use of the Modified Universal Soil Loss Equation (MUSLE) in an Italian case study. This empirical model was implemented in a Geographical Information System, taking into account Alpine hydrology and geomorphological and climate parameters, which are crucial in the analysis of the intensity and variability of sediment yield production processes. The case study is the Guerna Creek basin, a small-sized mountain watershed placed in Lombardy, in the South-Central Alps (Northern Italy). In recent decades it has been hit at the same time by floods and erosive phenomena, showing its hydraulic-hydrological weakness. Three future climate change scenarios from 2041 to 2060, around the middle of this century, were built according to CORDEX data referring to three different Representative Concentration Pathways (RCP 2.6, RCP 4.5, RCP 8.5). The findings showed that in the future climate, the sediment yield at the basin scale might change by 24–44% for a single heavy storm in the middle of the current century.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/19/2679"
+  },
+  {
+    "title": "Modeling Climate Change Impacts on Water Balance of a Mediterranean Watershed Using SWAT+",
+    "authors": [
+      "Giuseppe Pulighe,",
+      "Flavio Lupia,",
+      "Huajin Chen,",
+      "Hailong Yin"
+    ],
+    "doi": "https://doi.org/10.3390/hydrology8040157",
+    "journalVolume": "Vol. 8,\n                                no. 157\n                                \n                                  p.\n                                  157",
+    "issn": "2306-5338 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/hydrology",
+    "abstract": "The consequences of climate change on food security in arid and semi-arid regions can be serious. Understanding climate change impacts on water balance is critical to assess future crop performance and develop sustainable adaptation strategies. This paper presents a climate change impact study on the water balance components of an agricultural watershed in the Mediterranean region. The restructured version of the Soil and Water Assessment Tool (SWAT+) model was used to simulate the hydrological components in the Sulcis watershed (Sardinia, Italy) for the baseline period and compared to future climate projections at the end of the 21st century. The model was forced using data from two Regional Climate Models under the representative concentration pathways RCP4.5 and RCP8.5 scenarios developed at a high resolution over the European domain. River discharge data were used to calibrate and validate the SWAT+ model for the baseline period, while the future hydrological response was evaluated for the mid-century (2006–2050) and late-century (2051–2098). The model simulations indicated a future increase in temperature, decrease in precipitation, and consequently increase in potential evapotranspiration in both RCP scenarios. Results show that these changes will significantly decrease water yield, surface runoff, groundwater recharge, and baseflow. These results highlight how hydrological components alteration by climate change can benefit from modelling high-resolution future scenarios that are useful for planning mitigation measures in agricultural semi-arid Mediterranean regions.",
+    "readLink": "https://www.mdpi.com/2306-5338/8/4/157"
+  },
+  {
+    "title": "Vulnerability of Coastal Beach Tourism to Flooding: A Case Study of Galicia, Spain",
+    "authors": [
+      "Diego R. Toubes,",
+      "Stefan Gössling,",
+      "C. Michael Hall,",
+      "Daniel Scott"
+    ],
+    "doi": "https://doi.org/10.3390/environments4040083",
+    "journalVolume": "Vol. 4,\n                                no. 4\n                                \n                                  p.\n                                  83",
+    "issn": "2076-3298 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/environments",
+    "abstract": "Flooding, as a result of heavy rains and/or storm surges, is a persistent problem in coastal areas. Under scenarios of climate change, there are expectations that flooding events will become more frequent in some areas and potentially more intense. This poses a potential threat to coastal communities relying heavily on coastal resources, such as beaches for tourism. This paper develops a methodology for the assessment of coastal flooding risks, based on an index that compares 16 hydrogeomorphological, biophysical, human exposure and resilience indicators, with a specific focus on tourism. The paper then uses an existing flood vulnerability assessment of 724 beaches in Galicia (Spain) to test the index for tourism. Results indicate that approximately 10% of tourism beaches are at high risk to flooding, including 10 urban and 36 rural beaches. Implications for adaptation and coastal management are discussed.",
+    "readLink": "https://www.mdpi.com/2076-3298/4/4/83"
+  },
+  {
+    "title": "Optimization of Multidimensional Energy Security: An Index Based Assessment",
+    "authors": [
+      "Fahad Bin Abdullah,",
+      "Rizwan Iqbal,",
+      "Sadique Ahmad,",
+      "Mohammed A. El-Affendi,",
+      "Pardeep Kumar"
+    ],
+    "doi": "https://doi.org/10.3390/en15113929",
+    "journalVolume": "Vol. 15,\n                                no. 3929\n                                \n                                  p.\n                                  3929",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "This study introduces Pakistan’s multidimensional energy security index (PMESI) and indices across dimensions from 1991 to 2020 through indicator optimization. Based on criteria, expert participation, and reliability testing, 27 indicators were identified and weighted based on dimension reduction utilizing the Varimax Rotation technique. As a result of robust evaluation framework, there has been a considerable change in Pakistan’s energy security when compared to other studies such as the energy security indicator of Pakistan (ESIP) and the energy security index of Pakistan (ESIOP). According to the findings, energy security decreased by 25% between 1991 and 2012, followed by a modest increase through 2020. During the study period, the “Affordability” dimension improved; however, the other four dimensions, namely “Availability,” “Technology,” “Governance,” and “Environment,” regressed. Few goals under the petroleum policy (1991), petroleum policy (2012), and power policy (2013) were partially met, while conservation programs, such as the renewable policy (2006) and national climate change policy (2012), fell short. Indicators such as price, reserves, governance, corruption, and consumption contributed to PMESI across five dimensions. Thus, PMESI and indices guiding policymakers to focus on improving governance and exploiting local energy resources in order to provide affordable and sufficient energy in the long run.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/11/3929"
+  },
+  {
+    "title": "Quantifying Southern Annular Mode paleo-reconstruction skill in a model framework",
+    "authors": [
+      "W. Huiskamp,",
+      "W. Huiskamp,",
+      "S. McGregor"
+    ],
+    "doi": "https://doi.org/10.5194/cp-17-1819-2021",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  1819\n                                  – 1839",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "Past attempts to reconstruct the Southern Annular Mode (SAM) using paleo-archives have resulted in records which can differ significantly from one another prior to the window over which the proxies are calibrated. This study attempts to quantify not only the skill with which we may expect to reconstruct the SAM but also to assess the contribution of regional bias in proxy selection and the impact of non-stationary proxy–SAM teleconnections on a resulting reconstruction. This is achieved using a pseudoproxy framework with output from the GFDL CM2.1 global climate model. Reconstructions derived from precipitation fields perform better, with 89 % of the reconstructions calibrated over a 61 year window able to reproduce at least 50 % of the inter-annual variance in the SAM, as opposed to just 25 % for surface air temperature (SAT)-derived reconstructions. Non-stationarity of proxy–SAM teleconnections, as defined here, plays a small role in reconstructions, but the range in reconstruction skill is not negligible. Reconstructions are most likely to be skilful when proxies are sourced from a geographically broad region with a network size of at least 70 proxies.",
+    "readLink": "https://cp.copernicus.org/articles/17/1819/2021/cp-17-1819-2021.pdf"
+  },
+  {
+    "title": "Key Initiatives for Digital Transformation, Green New Deal and Recovery after COVID-19 within the Construction Industry in Korea",
+    "authors": [
+      "Siyeon Kim,",
+      "Meesung Lee,",
+      "Ilhan Yu,",
+      "JeongWook Son"
+    ],
+    "doi": "https://doi.org/10.3390/su14148726",
+    "journalVolume": "Vol. 14,\n                                no. 8726\n                                \n                                  p.\n                                  8726",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The low productivity of the construction industry has been identified as a chronic problem, and this has been exacerbated by recent environmental factors, including COVID-19 and climate change. As a response to these environmental changes, policies related to recovery after COVID-19, digital transformation, and the Green New Deal have been established worldwide, and related projects have been launched. These three issues may seem to have different goals but they are interrelated, and guidelines for the direction of the construction industry should be outlined. In this study, key initiatives that need to be prioritized to successfully achieve the goals of the three issues are identified. Based on these, strategic directions and mid- to long-term measures to address environmental changes are suggested. This study surveys the perceptions of construction experts to establish the key initiatives via the analytic hierarchy process method, and their expected utility was evaluated. This study is significant in that it analyzes how construction experts perceive environmental changes and contributes to the development of the construction industry by identifying key initiatives that should be undertaken.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/14/8726"
+  },
+  {
+    "title": "Exploring the dietary niche of Atlantolacerta andreanskyi (Lacertidae) using DNA metabarcoding",
+    "authors": [
+      "Abderrahim S’Khifa,",
+      "Ana Pereira,",
+      "Mohamed Amine Samlali,",
+      "Tahar Slimani,",
+      "D. James Harris,",
+      "Raquel Xavier"
+    ],
+    "doi": "https://doi.org/10.3897/herpetozoa.36.e103198",
+    "journalVolume": "Vol. 36\n                                \n                                \n                                  pp.\n                                  281\n                                  – 287",
+    "issn": "1013-4425 (Print)",
+    "publisher": "2682-955X (Online)",
+    "countryOfPublisher": "Pensoft Publishers",
+    "lcc": [
+      "Bulgaria",
+      "Science: Zoology"
+    ],
+    "journalUrl": "https://herpetozoa.pensoft.net",
+    "abstract": "Determining the dietary niche is an essential part of any conservation strategy, and for modeling the community responses to climate change. DNA metabarcoding methods are revolutionizing such approaches, allowing higher taxonomic resolution than typically possible using microscopy. However, few studies have compared directly the approaches to evaluate the differences in methodology. Here we assess the dietary niches of two genetically diverse populations of Atlantolacerta andreanskyi, a lizard endemic to the Atlas Mountains, Morocco, using DNA metabarcoding of faecal samples, and for one of these we compared the results to two previously published assessments of diets obtained using microscopy of pellets and stomach contents respectively. While results at the Order level were similar, the higher taxonomic resolution obtained in this study provided new insights into the dietary niche of this species. Comparisons between the two populations further highlighted how ecologically distinct these are.",
+    "readLink": "https://herpetozoa.pensoft.net/article/103198/download/pdf/"
+  },
+  {
+    "title": "The Management of Invasive Non-Native Trees in the Mediterranean Protected Areas: Sicily as a Case Study",
+    "authors": [
+      "Emilio Badalamenti"
+    ],
+    "doi": "https://doi.org/10.3390/IECF2022-13087",
+    "journalVolume": "Vol. 22,\n                                no. 32\n                                \n                                  p.\n                                  32",
+    "issn": "2673-4931 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/environsciproc",
+    "abstract": "Invasive non-native trees (INNTs) are increasingly recognized to have negative effects on biodiversity and ecosystem services in protected areas. The management of INNTs is one of the major challenges to preserving native species and ecosystems, to which more and more efforts and resources are bound to be destined in the coming decades. Indeed, the combined effects of climate change and increasing disturbance factors (e.g. wildfires) are likely to aid the spread of many INNTs in the Mediterranean protected areas, as well as favouring their competitive relationships with native species. However, the effective implementation of control measures is far from being fully achieved. I assessed how the problem of INNTs is currently addressed within the Natura 2000 sites in Sicily, designed according to the Habitats Directive (92/43/EEC). In particular, I will check the management plans of some selected Special Areas of Conservation searching for the activities provided for the management and control of INNTs. My research will be focused on the most widespread INNTs occurring on the island, such as Ailanthus altissima and Acacia saligna, along with taxa characterized by a very recent spread such as Parkinsonia aculeata and Vachellia karroo. Furthermore, some of these non-native trees are included in the list of Invasive Alien Species of Union concern pursuant to Regulation (EU) 1143/2014 on invasive alien species. The study will address some main questions: (1) Are invasive non-native trees well managed in protected sites in Sicily? (2) Do different protected sites deal with the same non-native species in the same way? (3) Are planned activities effectively implemented and successful? The result of the study could be used to favour the cooperation and exchange of information about the control of INNTs between the managing bodies of different protected sites, thus increasing the efficacy of the necessary interventions.",
+    "readLink": "https://www.mdpi.com/2673-4931/22/1/32"
+  },
+  {
+    "title": "Cost Projection of State of the Art Lithium-Ion Batteries for Electric Vehicles Up to 2030",
+    "authors": [
+      "Gert Berckmans,",
+      "Maarten Messagie,",
+      "Jelle Smekens,",
+      "Noshin Omar,",
+      "Lieselot Vanhaverbeke,",
+      "Joeri Van Mierlo"
+    ],
+    "doi": "https://doi.org/10.3390/en10091314",
+    "journalVolume": "Vol. 10,\n                                no. 9\n                                \n                                  p.\n                                  1314",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "The negative impact of the automotive industry on climate change can be tackled by changing from fossil driven vehicles towards battery electric vehicles with no tailpipe emissions. However their adoption mainly depends on the willingness to pay for the extra cost of the traction battery. The goal of this paper is to predict the cost of a battery pack in 2030 when considering two aspects: firstly a decade of research will ensure an improvement in material sciences altering a battery’s chemical composition. Secondly by considering the price erosion due to the production cost optimization, by maturing of the market and by evolving towards to a mass-manufacturing situation. The cost of a lithium Nickel Manganese Cobalt Oxide (NMC) battery (Cathode: NMC 6:2:2 ; Anode: graphite) as well as silicon based lithium-ion battery (Cathode: NMC 6:2:2 ; Anode: silicon alloy), expected to be on the market in 10 years, will be predicted to tackle the first aspect. The second aspect will be considered by combining process-based cost calculations with learning curves, which takes the increasing battery market into account. The 100 dollar/kWh sales barrier will be reached respectively between 2020-2025 for silicon based lithium-ion batteries and 2025–2030 for NMC batteries, which will give a boost to global electric vehicle adoption.",
+    "readLink": "https://www.mdpi.com/1996-1073/10/9/1314"
+  }
+]

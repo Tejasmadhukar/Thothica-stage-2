@@ -1,0 +1,229 @@
+[
+  {
+    "title": "Dynamics of sea-ice biogeochemistry in the coastal Antarctica during transition from summer to winter",
+    "authors": [
+      "Suhas Shetye,",
+      "Babula Jena,",
+      "Rahul Mohan"
+    ],
+    "doi": "https://doi.org/10.1016/j.gsf.2016.05.002",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  pp.\n                                  507\n                                  – 516",
+    "issn": "1674-9871 (Print)",
+    "publisher": "2588-9192 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/geoscience-frontiers",
+    "abstract": "The seasonality of carbon dioxide partial pressure (pCO2), air-sea CO2 fluxes and associated environmental parameters were investigated in the Antarctic coastal waters. The in-situ survey was carried out from the austral summer till the onset of winter (January 2012, February 2010 and March 2009) in the Enderby Basin. Rapid decrease in pCO2 was evident under the sea-ice cover in January, when both water column and sea-ice algal activity resulted in the removal of nutrients and dissolved inorganic carbon (DIC) and increase in pH. The major highlight of this study is the shift in the dominant biogeochemical factors from summer to early winter. Nutrient limitation (low Si/N), sea-ice cover, low photosynthetically active radiation (PAR), deep mixed layer and high upwelling velocity contributed towards higher pCO2 during March (early winter). CO2 fluxes suggest that the Enderby Basin acts as a strong CO2 sink during January (−81 mmol m−2 d−1), however it acts as a weak sink of CO2 with −2.4 and −1.7 mmol m−2 d−1 during February and March, respectively. The present work, concludes that sea ice plays a dual role towards climate change, by decreasing sea surface pCO2 in summer and enhancing in early winter. Our observations emphasize the need to address seasonal sea-ice driven CO2 flux dynamics in assessing Antarctic contributions to the global oceanic CO2 budget.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1674987116300330"
+  },
+  {
+    "title": "Mapping the changing distribution of two important pollinating giant honeybees across 21000 years",
+    "authors": [
+      "Man-Juan Huang,",
+      "Alice C. Hughes,",
+      "Chun-Yang Xu,",
+      "Bai-Ge Miao,",
+      "Jie Gao,",
+      "Yan-Qiong Peng"
+    ],
+    "doi": "Vol. 39\n                                \n                                \n                                  p.\n                                  e02282",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Pollinators play an important role in ecosystems, but global climate change threatens the diversity and geographical distribution of pollinators. Bees are some of the most important pollinators and are particularly sensitive to climate change and environmental change. Apis laboriosa and Apis dorsata are two species of giant honeybees distributed in Asia, and play important roles in their ecosystems. In this study, we analyzed the key factors affecting the distribution of two species, as well as their potential suitable areas and possible co-existence regional changes under the global climate change. We collected and filtered global distribution data of A. laboriosa and A. dorsata, then used eight climatic variables and Community Climate System Model version 4 (CCSM4) to simulate their potential suitable areas for the past, present and future (using two different climate scenarios) using MaxEnt. Finally, we used ArcGIS 10.2 and ENMTools to calculate range overlap and niche overlap of the two species in order to infer areas of co-existence. Temperature-related variables had the largest contribution to the model simulation. Among these variables, temperature seasonality (Bio 4) and mean temperature of coldest quarter (Bio 11) showed the strongest influence on the distributions of two giant honeybees. Under the current climate scenario, the species overlap in Nepal and Yunnan of China, with low niche overlap index. Between the last-glacial maximum to the present both honeybees moved northwest to their present range. A. laboriosa is projected to move to the northeast and A. dorsata may move southeast. Only 6.6% of overlapping distribution is currently protected, and further work is needed to protect these key areas.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989422002840"
+  },
+  {
+    "title": "Tidal cues reduce thermal risk of climate change in a foraging marine snail",
+    "authors": [
+      "Hilary A. Hayford,",
+      "Sarah E. Gilman,",
+      "Emily Carrington"
+    ],
+    "doi": "Vol. 1\n                                \n                                \n                                  p.\n                                  100003",
+    "issn": "2666-9005 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-change-ecology",
+    "abstract": "Accurate predictions of the effects of warming temperatures under climate change on an individual species require an accurate characterization of its current and future thermal environment. Behavioral responses to environmental heterogeneity are an important but poorly understood determinant of species’ body temperatures and thermal risks. In this paper we describe the steps necessary for determining a species’ opportunities for behavioral buffering of climate change, and provide examples using a combination of previously published studies and new results for the intertidal snail Nucella ostrina. We find that N. ostrina’s current patterns of daily microhabitat selection have the potential to buffer it from warming temperatures under climate change. N. ostrina’s foraging behavior is highly correlated with the 14.5 d semilunar tidal cycle, shielding it from both current and future thermal stress.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666900521000034"
+  },
+  {
+    "title": "Simulation of atmospheric N<sub>2</sub>O with GEOS-Chem and its adjoint: evaluation of observational constraints",
+    "authors": [
+      "K. C. Wells,",
+      "D. B. Millet,",
+      "N. Bousserez,",
+      "D. K. Henze,",
+      "S. Chaliyakunnel,",
+      "T. J. Griffis,",
+      "Y. Luan,",
+      "E. J. Dlugokencky,",
+      "R. G. Prinn,",
+      "S. O'Doherty,",
+      "R. F. Weiss,",
+      "G. S. Dutton,",
+      "J. W. Elkins,",
+      "P. B. Krummel,",
+      "R. Langenfelds,",
+      "L. P. Steele,",
+      "E. A. Kort,",
+      "S. C. Wofsy,",
+      "T. Umezawa"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-8-3179-2015",
+    "journalVolume": "Vol. 8,\n                                no. 10\n                                \n                                  pp.\n                                  3179\n                                  – 3198",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "We describe a new 4D-Var inversion framework for nitrous oxide (N2O) based on the GEOS-Chem chemical transport model and its adjoint, and apply it in a series of observing system simulation experiments to assess how well N2O sources and sinks can be constrained by the current global observing network. The employed measurement ensemble includes approximately weekly and quasi-continuous N2O measurements (hourly averages used) from several long-term monitoring networks, N2O measurements collected from discrete air samples onboard a commercial aircraft (Civil Aircraft for the Regular Investigation of the atmosphere Based on an Instrument Container; CARIBIC), and quasi-continuous measurements from the airborne HIAPER Pole-to-Pole Observations (HIPPO) campaigns. For a 2-year inversion, we find that the surface and HIPPO observations can accurately resolve a uniform bias in emissions during the first year; CARIBIC data provide a somewhat weaker constraint. Variable emission errors are much more difficult to resolve given the long lifetime of N2O, and major parts of the world lack significant constraints on the seasonal cycle of fluxes. Current observations can largely correct a global bias in the stratospheric sink of N2O if emissions are known, but do not provide information on the temporal and spatial distribution of the sink. However, for the more realistic scenario where source and sink are both uncertain, we find that simultaneously optimizing both would require unrealistically small errors in model transport. Regardless, a bias in the magnitude of the N2O sink would not affect the a posteriori N2O emissions for the 2-year timescale used here, given realistic initial conditions, due to the timescale required for stratosphere–troposphere exchange (STE). The same does not apply to model errors in the rate of STE itself, which we show exerts a larger influence on the tropospheric burden of N2O than does the chemical loss rate over short (2O emissions. There, averaging kernels (describing the sensitivity of the inversion to emissions in each grid square) are highly smeared spatially and extend even to the midlatitudes, so that tropical emissions risk being conflated with those elsewhere. For global inversions, therefore, the current lack of constraints on the tropics also places an important limit on our ability to understand extratropical emissions. Based on the error reduction statistics from the inverse Hessian, we characterize the atmospheric distribution of unconstrained N2O, and identify regions in and downwind of South America, central Africa, and Southeast Asia where new surface or profile measurements would have the most value for reducing present uncertainty in the global N2O budget.",
+    "readLink": "http://www.geosci-model-dev.net/8/3179/2015/gmd-8-3179-2015.pdf"
+  },
+  {
+    "title": "Sustainable Green Roof Ecosystems: 100 Years of Functioning on Fortifications—A Case Study",
+    "authors": [
+      "Łukasz Pardela,",
+      "Tomasz Kowalczyk,",
+      "Adam Bogacz,",
+      "Dorota Kasowska"
+    ],
+    "doi": "https://doi.org/10.3390/su12114721",
+    "journalVolume": "Vol. 12,\n                                no. 4721\n                                \n                                  p.\n                                  4721",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Green roofs have received much attention in recent years due to their ability to retain rainwater, increase urban diversity, and mitigate climate change in cities. This interdisciplinary study was carried out on three historical green roofs covering bunkers in Wrocław, located in southwestern Poland. It presents the results of a three-year investigation of the water storage of these roofs. The study also presents soil conditions and spontaneous vegetation after their functioning for over 100 years. The soils covering the bunkers are made of sandy, sandy-loam, and loamy-sand deposits. This historical construction ensures good drainage and runoff of rainwater, and is able to absorb torrential rainfall ranging from 100 to 150 mm. It provides suitable conditions for vegetation growth, and forest communities with layers formed there. In their synanthropic flora, species of European deciduous forests dominate, which are characteristic of fresh or moist and eutrophic soils with a neutral reaction. Some invasive species, such as Robinia pseudoacacia, Padus serotina, and Impatiens parviflora, also occur with high abundance. Nowadays, historical green roofs on fortifications, although they have lost their primary military role, are of historical and natural value. These roofs can promote the nonmilitary functions of historical fortifications in order to strengthen the ties between nature and heritage. Protecting and monitoring historical green roofs should be included in the elements of the process of sustainable development and the conservation of these structures in order to mitigate climate change in the outskirts of the city. For this, it is necessary to ensure proper conservational protection, which, in addition to maintaining the original structure, profiles, and layout of the building, should include protection of their natural value.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/11/4721"
+  },
+  {
+    "title": "Taking care of the Italian forests, we will talk about it at the next SISEF congress",
+    "authors": [
+      "Borghetti M"
+    ],
+    "doi": "https://doi.org/10.3832/efor0048-019",
+    "journalVolume": "Vol. 19,\n                                no. 1\n                                \n                                  pp.\n                                  49\n                                  – 51",
+    "issn": "1824-0119 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://foresta.sisef.org/",
+    "abstract": "Italian forests have expanded considerably in recent decades and accumulated much woody biomass. It opens up new horizons in silviculture and forest management. Recently, we heard some calls for an increase in harvests in Italian forests. However, there are some cautions to be considered. In many cases (large areas in the centre-south of the Italian peninsula, for example), Italian forests start from conditions in which the woody biomass stock was very low due to over-exploitation, which lasted many centuries. This makes the path towards ecosystem functionality and safety long and uncertain. The climate crisis also advises against considering the current dynamics of growth and carbon uptake as granted. We recognize that the Italian furniture industry needs wood and that currently almost 80% of this wood is imported from abroad, involving environmental and ethical issues. However, for various reasons (composition, structure, cultivation methods, etc.), the type of wood asked for by furniture manufacturers is scarcely present in Italian forests, and it is unlikely that this will change in the next few years. Therefore, the forecasted increase in harvesting to replace the wood that industries import today from abroad is by no means sure it will be effective. In general, it is necessary to avoid the most simple solutions, which in Italy are often coppice cutting and coppice wood for energy purposes. The recovery from a condition of past degradation and the accumulation of biomass in Italian forests is an opportunity and opens up a vast horizon for innovative forest management and silviculture. Provided we know how to orient ourselves within this horizon and implement a true culture and care of the forest (extensive closeR-to-nature silviculture towards continuity in forest cover, above all), in full respect of the “rights” of the forest, the safeguarding of which guarantees the major benefits that the forest provides to the society.",
+    "readLink": "https://foresta.sisef.org/contents/?id=efor0048-019&lang=en"
+  },
+  {
+    "title": "KARAKTERISTIK HUTAN RAKYAT DI JAWA",
+    "authors": [
+      "Nur Ainun Jariyah,",
+      "Nining Wahyuningrum"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2008.5.1.43-56",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  43\n                                  – 56",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "Karakteristik hutan yang ada di Jawa bisa dibagi dalam tiga karakter yaitu (1) hutan rakyat yang murni ditanami kayu-kayuan, (2) hutan rakyat yang ditanam kayu dan tanaman buah-buahan, dan (3) hutan rakyat yang ditanam kayu, buah-buahan dan empon-empon. Penelitian ini dilakukan di Jawa, tepatnya di Jawa Timur yaitu Pasuruan, Tulungagung dan Nganjuk, di Jawa Tengah yaitu Semarang, Magelang, Pemalang dan Gunung Kidul dan Jawa Barat yaitu Sumedang, Majalengka dan Cirebon. Pemilihan lokasi ini berdasarkan perbedaan beberapa karakteristik hutan rakyat di Jawa. Diharapkan pemilihan beberapa karakter dapat mewakili hutan rakyat yang ada di Jawa. Data yang diambil adalah data primer dan data sekunder. Analisis data yang dilakukan yaitu analisis data sosial ekonomi. Analisis sosial dilakukan secara deskriptif kualitatif, sedangkan analisis ekonomi dilakukan menggunakan analisis rugi laba yang digunakan untuk mengetahui keuntungan penanaman hutan rakyat selama daur tebang. Hasil yang dicapai adalah (1) jenis tanaman yang menjadi karakter petani di Jawa adalah tanaman jati, mahoni, suren, akasia, pinus dan sonokeling, (2) perbedaan hasil hutan rakyat suatu jenis tanaman dari satu kabupaten dengan kabupaten lainnya dapat terjadi karena perbedaan biofisik setempat dan juga kerapatan tanaman, (3) penanaman jenis tanaman berdasarkan perbedaan ketinggian tempat yaitu untuk dataran rendah ditanami jati, mahoni, sonokeling, dan akasia, dataran sering ditanami mahoni, suren dan albizia, sedangkan tinggi ditanami albizia, afrika dan pinus, (4) pemilihan jenis tanaman berdasarkan harga jual yang tinggi, mudah dalam pemasaran, disukai petani, mudah ditanam dan mudah dalam pengelolaannya, sedangkan keuntungan lebih banyak dipengaruhi harga pasar, daur tebang dan kerapatan tanaman, dan (5) nilai kelayakan tertinggi adalah albizia yaitu untuk lokasi di Jawa Barat dan Jawa Timur yaitu memberikan kisaran BCR 2,73-13,46, IRR 13%-38% dan NPV Rp. 709960351-65.429.565/Ha sedangkan analisis finansial untuk jati menunjukkan nilai yang tidak layak.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/380"
+  },
+  {
+    "title": "Monitoring soil carbon will prepare growers for a carbon trading system",
+    "authors": [
+      "Emma C. Suddick,",
+      "Moffatt K. Ngugi,",
+      "Keith Paustian,",
+      "Johan Six"
+    ],
+    "doi": "https://doi.org/10.3733/ca.v067n03p162",
+    "journalVolume": "Vol. 67,\n                                no. 3\n                                \n                                  pp.\n                                  162\n                                  – 171",
+    "issn": "0008-0845 (Print)",
+    "publisher": "2160-8091 (Online)",
+    "countryOfPublisher": "University of California Agriculture and Natural Resources",
+    "lcc": [
+      "United States",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://calag.ucanr.edu/",
+    "abstract": "California growers could reap financial benefits from the low-carbon economy and cap-and-trade system envisioned by the state's AB 32 law, which seeks to lower greenhouse gas emissions statewide. Growers could gain carbon credits by reducing greenhouse gas emissions and sequestering carbon through reduced tillage and increased biomass residue incorporation. First, however, baseline stocks of soil carbon need to be assessed for various cropping systems and management practices. We designed and set up a pilot soil carbon and land-use monitoring network at several perennial cropping systems in Northern California. We compared soil carbon content in two vineyards and two orchards (walnut and almond), looking at conventional and conservation management practices, as well as in native grassland and oak woodland. We then calculated baseline estimates of the total carbon in almond, wine grape and walnut acreages statewide. The organic walnut orchard had the highest total soil carbon, and no-till vineyards had 27% more carbon in the surface soil than tilled vineyards. We estimated wine grape vineyards are storing significantly more soil carbon per acre than almond and walnut orchards. The data can be used to provide accurate information about soil carbon stocks in perennial cropping systems for a future carbon trading system.",
+    "readLink": "http://calag.ucanr.edu/archive/?article=ca.v067n03p162"
+  },
+  {
+    "title": "A 1&thinsp;km global dataset of historical (1979–2013) and future (2020–2100) Köppen–Geiger climate classification and bioclimatic variables",
+    "authors": [
+      "D. Cui,",
+      "S. Liang,",
+      "D. Wang,",
+      "Z. Liu"
+    ],
+    "doi": "https://doi.org/10.5194/essd-13-5087-2021",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  5087\n                                  – 5114",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "The Köppen–Geiger classification scheme provides an effective and ecologically meaningful way to characterize climatic conditions and has been widely applied in climate change studies. Significant changes in the Köppen climates have been observed and projected in the last 2 centuries. Current accuracy, temporal coverage and spatial and temporal resolution of historical and future climate classification maps cannot sufficiently fulfill the current needs of climate change research. Comprehensive assessment of climate change impacts requires a more accurate depiction of fine-grained climatic conditions and continuous long-term time coverage. Here, we present a series of improved 1 km Köppen–Geiger climate classification maps for six historical periods in 1979–2013 and four future periods in 2020–2099 under RCP2.6, 4.5, 6.0, and 8.5. The historical maps are derived from multiple downscaled observational datasets, and the future maps are derived from an ensemble of bias-corrected downscaled CMIP5 projections. In addition to climate classification maps, we calculate 12 bioclimatic variables at 1 km resolution, providing detailed descriptions of annual averages, seasonality, and stressful conditions of climates. The new maps offer higher classification accuracy than existing climate map products and demonstrate the ability to capture recent and future projected changes in spatial distributions of climate zones. On regional and continental scales, the new maps show accurate depictions of topographic features and correspond closely with vegetation distributions. We also provide a heuristic application example to detect long-term global-scale area changes of climate zones. This high-resolution dataset of the Köppen–Geiger climate classification and bioclimatic variables can be used in conjunction with species distribution models to promote biodiversity conservation and to analyze and identify recent and future interannual or interdecadal changes in climate zones on a global or regional scale. The dataset referred to as KGClim is publicly available via http://glass.umd.edu/KGClim (Cui et al., 2021d)​​​​​​​ and can also be downloaded at https://doi.org/10.5281/zenodo.5347837 (Cui et al., 2021c) for historical climate and https://doi.org/10.5281/zenodo.4542076 (Cui et al., 2021b) for future climate.",
+    "readLink": "https://essd.copernicus.org/articles/13/5087/2021/essd-13-5087-2021.pdf"
+  },
+  {
+    "title": "Solar Energy Utilization Techniques, Policies, Potentials, Progresses, Challenges and Recommendations in ASEAN Countries",
+    "authors": [
+      "A. K. Pandey,",
+      "B. Kalidasan,",
+      "R. Reji Kumar,",
+      "Saidur Rahman,",
+      "V. V. Tyagi,",
+      "Krismadinata,",
+      "Zafar Said,",
+      "P. Abdul Salam,",
+      "Dranreb Earl Juanico,",
+      "Jamal Uddin Ahamed,",
+      "Kamal Sharma,",
+      "M. Samykano,",
+      "S. K. Tyagi"
+    ],
+    "doi": "https://doi.org/10.3390/su141811193",
+    "journalVolume": "Vol. 14,\n                                no. 11193\n                                \n                                  p.\n                                  11193",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Sustainable development goals not only contributes towards a clean environment but also towards better climatic conditions. Within Asia next to China and India, the Association of Southeast Asian Nations (ASEAN) are the actively developing countries in terms of economy and technologies. On the verge of achieving development, the ASEAN countries highly depend on fossil fuels for their energy needs. The ASEAN countries have taken visionary steps towards increasing the renewable energy mix with the conventional grid without hampering the ongoing development; this study presents the solar energy utilization policies, potential, progresses, and challenges adopted in ASEAN countries; furthermore, in these nations there is a huge potential of solar energy being located near the equator, therefore, they should focus on both solar to electrical and solar to thermal energy applications; however, in order to meet the peak demand and ensure the reliability of renewable energy like solar power, the development of advanced energy storage systems could be the key areas, and concrete efforts are required. Therefore, this article is a spotlight on government policies and goals focusing on energy potential, major progress in terms of energy storage and challenges in implementation of renewable energy systems in ASEAN countries; furthermore the recommended highlights on policies to accelerate the exploitation of renewable energy usage among the people are also discussed in detail, besides, the insights on reduction of carbon footprints over the next decade through incorporation of advanced energy storage systems. The issues discussed in this article will be helpful for exploring the desired energy storage systems and energy policies to be followed, which will eventually attract the stakeholders for small and medium-scale entrepreneurs for the development of renewable energy business in the region, if implemented on the ground.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/18/11193"
+  }
+]

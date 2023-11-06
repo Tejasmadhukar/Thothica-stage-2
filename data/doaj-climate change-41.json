@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Thermal Performance of Seaweeds and Seagrasses Across a Regional Climate Gradient",
+    "authors": [
+      "Scott Bennett,",
+      "Scott Bennett,",
+      "Raquel Vaquer-Sunyer,",
+      "Gabriel Jordá,",
+      "Marina Forteza,",
+      "Guillem Roca,",
+      "Núria Marbà"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2022.733315",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Comparative patterns in thermal performance between populations have fundamental implications for a species thermal sensitivity to warming and extreme events. Despite this, within-species variation in thermal performance is seldom measured. Here we compare thermal performance both within-species and between-species, for two species of seagrass (Posidonia oceanica and Cymodocea nodosa) and two species of seaweed (Padina pavonica and Cystoseira compressa) across the Mediterranean Sea. Experimental populations from four locations representing between 75 and 99% of each species thermal distribution and a 6°C gradient in summer temperatures, were exposed to 10 temperature treatments between 15 and 36°C. Experimental thermal performance displayed the greatest variability between species, with optimal temperatures differing by over 10°C within the same location. Within-species differences in thermal performance were also important for P. oceanica which displayed large thermal safety margins within cool and warm-edge populations and small safety margins within central populations. Our findings suggest patterns of thermal performance in Mediterranean seagrasses and seaweeds retain deep “pre-Mediterranean” evolutionary legacies, suggesting marked differences in sensitivity to warming within and between benthic marine communities.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2022.733315/full"
+  },
+  {
+    "title": "Phenological parameters trend of the southern Zagros forests based on MODIS-NDVI time series during 2000-2017",
+    "authors": [
+      "M Masihpoor,",
+      "A.A. Darvishsefat,",
+      "R. Rahmani,",
+      "P. Fatehi"
+    ],
+    "doi": "https://doi.org/10.22034/ijf.2021.127807",
+    "journalVolume": "Vol. 12,\n                                no. 4\n                                \n                                  pp.\n                                  577\n                                  – 590",
+    "issn": "2008-6113 (Print)",
+    "publisher": "2423-4435 (Online)",
+    "countryOfPublisher": "Iranian Society of Forestry",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://www.ijf-isaforestry.ir/?lang=en",
+    "abstract": "Climate change and human interventions as a whole have had negative and remarkable effects on the quantity and quality of forests. Beside the change in the forests extent, which has always been considered and monitored, its phenological changes have also been investigated in the last decade. The NDVI Vegetation Index derived from satellite data is an appropriate proxy for quantifying and expressing forest status including phenological changes. This study aimed to characterize the trend of start, end, and length of growing season using NDVI satellite time series dataset over 18-year time periods and then assess their relationship with precipitation and temperature parameters. This study was carried out over the southern Zagros forests using MODIS-NDVI time series with temporal and spatial resolution of 16-day and 250 meters, respectively. The precipitation and temperature datasets were also collected from regional synoptic meteorological stations. After preprocessing steps, 414 NDVI images during 2000-2017 were analyzed pixel by pixel to extract the start, end, and length of the growing season using Midpoint method, considering 50% and 35% thresholds of NDVI annual amplitude for start and end of the growing season, respectively. Then, the statistical significance of phenological metrics was assessed. Based on the results, the mean dates for the start and the end of growing season were 16th March and 15th August, respectively, with the mean length of growing season of 151 days in the study period from 2000 to 2017. Considering 35% of NDVI annual amplitude for the end of growing season, the mean date for the end of growing season was 8th September and the mean length of growing season was 190 days. The seasonal trend showed that the start and the end of growing season has occurred respectively 0.02 and 1.04 days earlier per year in the southern Zagros forests during 2000-2017. The length of growing season has been shortened 1.02 day per year. However, variation in the start and the end dates and the length of growing season have not been significant in 93%, 81% and 81% of the region, respectively, at 90 % confident level. Generally, the change in the occurrence of the end of growing season was greater than the start of growing season. A weak correlation was observed between phenological changes and climate parameters like temperature and precipitation in the study area.",
+    "readLink": "http://www.ijf-isaforestry.ir/article_127807_7c954197dfb483246cc994e809c88795.pdf"
+  },
+  {
+    "title": "PATRONES ATMOSFÉRICOS SIMULADOS EN EL CLIMA PRESENTE Y FUTURO ASOCIADOS AL DESCENSO DE TEMPERATURA EN EL SUDESTE DE SUDAMERICA",
+    "authors": [
+      "Cintia Rabelo da.Rocha Repinaldo,",
+      "Gabriela Viviana Müller,",
+      "Kelens Martins Andrada"
+    ],
+    "doi": "Vol. 39\n                                \n                                \n                                  pp.\n                                  13\n                                  – 34",
+    "issn": "0326-1735 (Print)",
+    "publisher": "2313-903X (Online)",
+    "countryOfPublisher": "Departamento de Geografía, Facultad de Humanidades, Universidad Nacional del Comahue",
+    "lcc": [
+      "Argentina",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://bibliocentral.uncoma.edu.ar/revele/index.php/geografia/index",
+    "abstract": "The atmospheric features associated with extreme cold events, identified by the temperature drop in the winter, in three regions of southeastern South America are analyzed with reanalysis data from NCEP / NCAR as well as simulations of the coupled ocean-atmosphere HadCM3 and GFDL-CM2.0 models for the present and CMIP3 A2 future scenario. In the present climate, GFDL-CM2.0 represents better the reanalysis fields, being more coherent with the post-frontal high pressure and the 0°C and better the reanalysis fields, being more coherent with the post-frontal high pressure and the 0°C and10°C isotherms. For the future climate, GFDL-CM2.0 projects weakening of temperature anomalies and lower advance of the extreme events of temperature drop in direction to the Equator, while the HadCM3 projection also indicates lower latitudinal range, but in general, higher intensity of these events.",
+    "readLink": "http://revele.uncoma.edu.ar/htdoc/revele/index.php/geografia/article/view/1752/1786"
+  },
+  {
+    "title": "Impact of Deforestation on Land–Atmosphere Coupling Strength and Climate in Southeast Asia",
+    "authors": [
+      "Merja  H. Tölle"
+    ],
+    "doi": "https://doi.org/10.3390/su12156140",
+    "journalVolume": "Vol. 12,\n                                no. 6140\n                                \n                                  p.\n                                  6140",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Southeast Asia (SEA) is a deforestation hotspot. A thorough understanding of the accompanying biogeophysical consequences is crucial for sustainable future development of the region’s ecosystem functions and society. In this study, data from ERA-Interim driven simulations conducted with the state-of-the-art regional climate model COSMO-CLM (CCLM; version 4.8.17) at 14 km horizontal resolution are analyzed over SEA for the period from 1990 to 2004, and during El Niño–Southern Oscillation (ENSO) events for November to March. A simulation with large-scale deforested land cover is compared to a simulation with no land cover change. In order to attribute the differences due to deforestation to feedback mechanisms, the coupling strength concept is applied based on Pearson correlation coefficients. The correlations were calculated based on 10-day means between the latent heat flux and maximum temperature, the latent and sensible heat flux, and the latent heat flux and planetary boundary layer height. The results show that the coupling strength between land and atmosphere increased for all correlations due to deforestation. This implies a strong impact of the land on the atmosphere after deforestation. Differences in environmental conditions due to deforestation are most effective during La Niña years. The strength of La Nina events on the region is reduced as the impact of deforestation on the atmosphere with drier and warmer conditions superimpose this effect. The correlation strength also intensified and shifted towards stronger coupling during El Niño events for both Control and Grass simulations. However, El Niño years have the potential to become even warmer and drier than during usual conditions without deforestation. This could favor an increase in the formation of tropical cyclones. Whether deforestation will lead to a permanent transition to agricultural production increases in this region cannot be concluded. Rather, the impact of deforestation will be an additional threat besides global warming in the next decades due to the increase in the occurrence of multiple extreme events. This may change the type and severity of upcoming impacts and the vulnerability and sustainability of our society.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/15/6140"
+  },
+  {
+    "title": "Public Health Impacts of Climate Change in Nepal",
+    "authors": [
+      "H D Joshi,",
+      "B Dhimal,",
+      "M Dhimal,",
+      "C L Bhusal"
+    ],
+    "doi": "https://doi.org/10.33314/jnhrc.v0i0.259",
+    "issn": "1727-5482 (Print)",
+    "publisher": "1999-6217 (Online)",
+    "countryOfPublisher": "Nepal Health Research Council",
+    "lcc": [
+      "Nepal",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "http://jnhrc.com.np",
+    "abstract": "Climate change is a global issue in this century which has challenged the survival of living creatures affecting the life supporting systems of the earth: atmosphere, hydrosphere and lithosphere. Scientists have reached in a consensus that climate change is happening. The anthropogenic emission of greenhouse gases is responsible for global warming and therefore climate change. Climate change may directly or indirectly affect human health through a range of pathways related to temperature and precipitation. The aim of this article is to share knowledge on how climate change can affect public health in Nepal based on scientific evidence from global studies and experience gained locally. In this review attempt has been made to critically analyze the scientific studies as well as policy documents of Nepalese Government and shed light on public health impact of climate change in the context of Nepal. Detailed scientific study is recommended to discern impact of climate change on public health problems in Nepal. Keywords: cardio-respiratory, climate change, injuries, malnutrition, psychological stress, public health, vectorborne diseases.",
+    "readLink": "https://www.jnhrc.com.np/index.php/jnhrc/article/view/259"
+  },
+  {
+    "title": "Projected heat-related mortality under climate change in the metropolitan area of Skopje",
+    "authors": [
+      "Gerardo Sanchez Martinez,",
+      "Michela Baccini,",
+      "Koen De Ridder,",
+      "Hans Hooyberghs,",
+      "Wouter Lefebvre,",
+      "Vladimir Kendrovski,",
+      "Kristen Scott,",
+      "Margarita Spasenovska"
+    ],
+    "doi": "https://doi.org/10.1186/s12889-016-3077-y",
+    "journalVolume": "Vol. 16,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "1471-2458 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://bmcpublichealth.biomedcentral.com",
+    "abstract": "Abstract Background Excessive summer heat is a serious environmental health problem in Skopje, the capital and largest city of the former Yugoslav Republic of Macedonia. This paper attempts to forecast the impact of heat on mortality in Skopje in two future periods under climate change and compare it with a historical baseline period. Methods After ascertaining the relationship between daily mean ambient air temperature and daily mortality in Skopje, we modelled the evolution of ambient temperatures in the city under a Representative Concentration Pathway scenario (RCP8.5) and the evolution of the city population in two future time periods: 2026–2045 and 2081–2100, and in a past time period (1986–2005) to serve as baseline for comparison. We then calculated the projected average annual mortality attributable to heat in the absence of adaptation or acclimatization during those time windows, and evaluated the contribution of each source of uncertainty on the final impact. Results Our estimates suggest that, compared to the baseline period (1986–2005), heat-related mortality in Skopje would more than double in 2026–2045, and more than quadruple in 2081–2100. When considering the impact in 2081–2100, sampling variability around the heat–mortality relationship and climate model explained 40.3 and 46.6 % of total variability. Conclusion These results highlight the importance of a long-term perspective in the public health prevention of heat exposure, particularly in the context of a changing climate.",
+    "readLink": "http://link.springer.com/article/10.1186/s12889-016-3077-y"
+  },
+  null,
+  {
+    "title": "How global change impacted the rise and fall of the Guge Kingdom",
+    "authors": [
+      "Likun Han,",
+      "Xunming Wang,",
+      "Zhixin Hao,",
+      "Jingyun Zheng,",
+      "Danfeng Li,",
+      "Xin Geng"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aca700",
+    "journalVolume": "Vol. 17,\n                                no. 12\n                                \n                                  p.\n                                  124033",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Climate changes and its influences on human society are of increasing concern in science communities. Based on the reconstructed climate data and CENTURY model, we simulated net primary productivity of grassland and the grain yield of highland barley during the pre-industrial millennium in Ali Prefecture, Tibet Autonomous Region. It showed that the variation of precipitation and temperature together affected the fluctuation of land productivity. Wavelet analysis results showed that the land productivity in Ali fluctuated within main periodic bands of 180 yr. We found that the rise and falls of the Guge Kingdom in Ali was synchronic with the fluctuation of land productivity, and the collapse of the Guge Kingdom was obviously related to the sudden change of climate in the 17th century, which turned dry and cold. By combining with historical studies, this study further proposes the mechanism of land productivity fluctuation under climate change on Guge Kingdom. Our findings are helpful to understand the relationship between climate change and social vulnerability, especially providing a typical case study of ancient plateau countries.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aca700"
+  },
+  {
+    "title": "Women and planetary health in Asia-Pacific",
+    "authors": [
+      "Connie Cai Ru Gan,",
+      "Connie Cai Ru Gan,",
+      "Caitlin McNamara,",
+      "Hasini Gunasiri,",
+      "Hasini Gunasiri,",
+      "Pats Oliva,",
+      "Pats Oliva,",
+      "Bernadette Sebar"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2023.1058432",
+    "journalVolume": "Vol. 5",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "In the face of climate change, women's preconceived vulnerability and virtuousness often deflect focus from gender inequality in decision-making and leadership. Within environmental, political, and social crises, women are capable and proficient leaders who are pivotal to climate change action and are already inspiring social change in innovative ways. This article presents examples of women-led environment movements in the Asia-Pacific that challenge the patriarchal notions that women must be rescued rather than actively participate in their salvation. Historically, strategies have been centered on eco-conscious activism and organized protests. As climate change effects become more evident, engagement has transformed into emergency response and preparedness, with women's groups shepherding and leveraging through healthcare settings and grassroots and community networks. The way forward is to urge meaningful policy actions to support women as effective planetary stewards and campaigners against environmental challenges. This will be achieved through funding mechanisms, gender-inclusive representation mentorships, and pathways that transcend political boundaries.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2023.1058432/full"
+  },
+  {
+    "title": "Combined Effects of Temperature and Salinity on Polyps and Ephyrae of <i>Aurelia solida</i> (Cnidaria: Scyphozoa)",
+    "authors": [
+      "Susanne Schäfer,",
+      "Sonia K. M. Gueroun,",
+      "Carlos Andrade,",
+      "João Canning-Clode"
+    ],
+    "doi": "https://doi.org/10.3390/d13110573",
+    "journalVolume": "Vol. 13,\n                                no. 573\n                                \n                                  p.\n                                  573",
+    "issn": "1424-2818 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/diversity/",
+    "abstract": "Jellyfish outbreaks are conspicuous natural events in marine ecosystems that have a substantial impact on the structure and dynamics of marine ecosystems and different economic sectors of human activities. Understanding the life cycle strategies of jellyfish species is therefore critical to mitigate the impacts these organisms may have. In this context, the present study investigated the effect of different temperature and salinity regimes on the rearing success of the jellyfish Aurelia solida in microcosm experiments on two different life stages: polyps and ephyrae. Polyps showed high survival rates across the different conditions (except at 28 °C/20 psu) and reproduced asexually in all combinations, with the highest budding activity at 20 °C and 30 psu. Strobilation occurred mainly at 16 °C and 35 psu. Although ephyra survival was highest at low salinities (20 psu) and lower temperatures (10 and 15 °C), the highest growth rates were reached at intermediate temperatures (20 °C). The comparison to other Aurelia species underlines the differences between even closely related species. Given the high tolerance capacity that A. solida presented in the experiments, the species has the potential to cope well under current climate change scenarios and possibly adapt successfully to other regions and ecosystems.",
+    "readLink": "https://www.mdpi.com/1424-2818/13/11/573"
+  }
+]

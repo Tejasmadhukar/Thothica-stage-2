@@ -1,0 +1,206 @@
+[
+  {
+    "title": "bbsBayes: An R Package for Hierarchical Bayesian Analysis of North American Breeding Bird Survey Data",
+    "authors": [
+      "Brandon P. M. Edwards,",
+      "Adam C. Smith"
+    ],
+    "doi": "https://doi.org/10.5334/jors.329",
+    "journalVolume": "Vol. 9,\n                                no. 1",
+    "issn": "2049-9647 (Online)",
+    "publisher": "Ubiquity Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science: Computer software"
+    ],
+    "journalUrl": "http://openresearchsoftware.metajnl.com/",
+    "abstract": "The North American Breeding Bird Survey (BBS) is the primary ecological monitoring program used to assess the population, status, and trends of North American birds. As such, accessible analysis of BBS data is crucial to wildlife conservation/management and ecological science in North America. The R package 'bbsBayes' was developed as a wrapper for the analysis of BBS data using hierarchical Bayesian models, including the models currently used by the Canadian Wildlife Service and the United States Geological Survey. The goal of 'bbsBayes' is to provide an accessible package for anyone in the conservation community to estimate population trajectories (time-series) and trends (rates of change) for any of the 400+ bird species monitored by the BBS, and to allow more advance users to easily access the data and model-templates necessary to customize an analysis for their research.",
+    "readLink": "https://openresearchsoftware.metajnl.com/articles/329"
+  },
+  {
+    "title": "Effect of Growing Season Drought and Flood on Yield of Spring Maize in Three Northeast Provinces of China",
+    "authors": [
+      "WANG Weidan,",
+      "SUN Li,",
+      "PEI Zhiyuan,",
+      "MA Shangjie,",
+      "CHEN Yuanyuan,",
+      "SUN Juanying,",
+      "DONG Mo"
+    ],
+    "doi": "https://doi.org/10.12133/j.smartag.2021.3.2.202106-SA004",
+    "journalVolume": "Vol. 3,\n                                no. 2\n                                \n                                  pp.\n                                  126\n                                  – 137",
+    "issn": "2096-8094 (Print)",
+    "publisher": "Editorial Office of Smart Agriculture",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Agriculture: Agriculture (General)",
+      "Technology: Technology (General)"
+    ],
+    "journalUrl": "http://www.smartag.net.cn/EN/2096-8094/home.shtml",
+    "abstract": "With the change of global climate, extreme weather events such as drought and flood disasters occur frequently. These have a great impact on crop yields. As an important main grain producing area, the impact of drought and flood on the agricultural production of the three provinces in three northeast provinces of China cannot be ignored. Based on historic meteorological data such as daily precipitation, maximum temperature, minimum temperature, 2 m average wind speed, sunshine hours and relative humidity, etc., the standardized precipitation index (SPI) and standardized precipitation evapotranspiration index (SPEI) during 1988－2017 in three northeast provinces of China were calculated with different time scales. Through comparing with characterization of drought and flood disasters in history, SPEI was chosen to judge drought and flood in the growth season of spring maize. With the purpose of evaluating the effects of drought and flood on spring maize yield, based on the distance correlation analysis method, the index of reasonable time scale and key month were selected to analyze the relationship between the index and the relative meteorological yield of spring maize. The relationship between water conditions at different growth stages and the yield was also analyzed. The results showed that: (1) both SPI and SPEI could represent the drought and flood conditions in three northeast provinces of China. Compared with SPI, SPEI had higher correlation with the drought and flood disaster rate, and SPEI was more advantageous in characterizing the drought and flood conditions in the study area; (2) relative meteorological yield was significantly correlated with drought disaster rate in all three provinces (P<0.01), and reached 0.05 significant level with flood disaster rate in Liaoning province, but not significant in Jilin and Heilongjiang province; (3) the distance correlation coefficient between SPEI3-8 and relative meteorological in Liaoning province was the largest, and that between SPEI6-8 and relative meteorological yield in Jilin and Heilongjiang province was the largest. SPEI and relative meteorological yield showed a downward parabolic trend. Overall, the impact of waterlogging on the yield in Liaoning was slightly less than that of drought, mild drought or moderate wet could lead to a decrease in yield. The impact of drought disaster in Jilin and Heilongjiang was much greater than that of flood, but severe humidity could lead to a decrease in yield. Compared with other provinces, the maize yield in Liaoning province fluctuated more sharply with the change of dry and wet; (4) in Liaoning province, maize may reach the highest yield when the jointing-heading period was close to severe wet, which was mainly affected by drought. In the late growing season, the impact of flood disasters was more severe than that of the early growing season, and both drought and flood disasters had effects on the yield. In Jilin province, the highest yield of spring maize was reached when SPEI was about 1.0 during the period of emergence-jointing and jointing-heading, and the effect of drought was more serious during the period heading-milking. The key growth periods in Heilongjiang province were mainly affected by drought, and the maximum yield was reached in the normal-wet years of emergence-jointing and jointing-heading stages, but medium-scale size or more severe floods still led to the decrease of maize yield. The high yield could be achieved in the slightly wet years in period of heading-milking stage, while the decrease could be caused by flood when it was severely wet. This research can provide a reference for estimating the impact of drought and flood disasters on spring maize and taking disaster prevention measures in three northeast provinces of China.",
+    "readLink": "http://www.smartag.net.cn/article/2021/2096-8094/2096-8094-2021-3-2-126.shtml"
+  },
+  {
+    "title": "Evaluating the Spatial and Temporal Characteristics of Summer Urban Overheating through Weather Types in the Attica Region, Greece",
+    "authors": [
+      "Ilias Petrou,",
+      "Nikolaos Kyriazis,",
+      "Pavlos Kassomenos"
+    ],
+    "doi": "https://doi.org/10.3390/su151310633",
+    "journalVolume": "Vol. 15,\n                                no. 10633\n                                \n                                  p.\n                                  10633",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "In this study, we investigated the association between weather type (WT) and urban heat island intensity (UHII) in the region of Attica (Greece). The application of the methodology resulted in ten WTs over the Attica region. The UHII was calculated for every hour of the day from 2008 to 2017, using a new air temperature dataset produced by Copernicus Climate Change Service. To obtain more definitive findings about the relationship between WTs and UHII, we also used the upper 5% of UHII (urban overheating, UO). UO was estimated for two time intervals (daytime and nighttime) and for the warm period (June–September). The UHII frequency distribution, as well as the spatiotemporal characteristics of the UO, were also investigated. It was found that UO was amplified under WT2 during the night, while WT10 was mainly related to increased UO magnitudes in the daytime in all months. Furthermore, analysis results revealed that the UO effect is more pronounced in Athens during the night, especially at the Athens center. The daytime hot spots identified were mainly in suburban and rural areas. Therefore, this methodology may help with heat mitigation strategies and climate adaptation measures in urban environments.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/13/10633"
+  },
+  {
+    "title": "CERES Top-of-Atmosphere Earth Radiation Budget Climate Data Record: Accounting for in-Orbit Changes in Instrument Calibration",
+    "authors": [
+      "Norman G. Loeb,",
+      "Natividad Manalo-Smith,",
+      "Wenying Su,",
+      "Mohan Shankar,",
+      "Susan Thomas"
+    ],
+    "doi": "https://doi.org/10.3390/rs8030182",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  p.\n                                  182",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The Clouds and the Earth’s Radiant Energy System (CERES) project provides observations of Earth’s radiation budget using measurements from CERES instruments onboard the Terra, Aqua and Suomi National Polar-orbiting Partnership (S-NPP) satellites. As the objective is to create a long-term climate data record, it is necessary to periodically reprocess the data in order to incorporate the latest calibration changes and algorithm improvements. Here, we focus on the improvements and validation of CERES Terra and Aqua radiances in Edition 4, which are used to generate higher-level climate data products. Onboard sources indicate that the total (TOT) channel response to longwave (LW) radiation has increased relative to the start of the missions by 0.4% to 1%. In the shortwave (SW), the sensor response change ranges from −0.4% to 0.6%. To account for in-orbit changes in SW spectral response function (SRF), direct nadir radiance comparisons between instrument pairs on the same satellite are made and an improved wavelength dependent degradation model is used to adjust the SRF of the instrument operating in a rotating azimuth plane scan mode. After applying SRF corrections independently to CERES Terra and Aqua, monthly variations amongst these instruments are highly correlated and the standard deviation in the difference of monthly anomalies is 0.2 Wm−2 for ocean and 0.3 Wm−2 for land/desert. Additionally, trends in CERES Terra and Aqua monthly anomalies are consistent to 0.21 Wm−2 per decade for ocean and 0.31 Wm−2 per decade for land/desert. In the LW, adjustments to the TOT channel SRF are made to ensure that removal of the contribution from the SW portion of the TOT channel with SW channel radiance measurements during daytime is consistent throughout the mission. Accordingly, anomalies in day–night LW difference in Edition 4 are more consistent compared to Edition 3, particularly for the Aqua land/desert case.",
+    "readLink": "http://www.mdpi.com/2072-4292/8/3/182"
+  },
+  {
+    "title": "Fitness consequences of timing of migration and breeding in cormorants.",
+    "authors": [
+      "Phillip Gienapp,",
+      "Thomas Bregnballe"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0046165",
+    "journalVolume": "Vol. 7,\n                                no. 9\n                                \n                                  p.\n                                  e46165",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "In most bird species timing of breeding affects reproductive success whereby early breeding is favoured. In migratory species migration time, especially arrival at the breeding grounds, and breeding time are expected to be correlated. Consequently, migration time should also have fitness consequences. However, in contrast to breeding time, evidence for fitness consequences of migration time is much more limited. Climate change has been shown to negatively affect the synchrony between trophic levels thereby leading to directional selection on timing but again direct evidence in avian migration time is scarce. We here analysed fitness consequences of migration and breeding time in great cormorants and tested whether climate change has led to increased selection on timing using a long-term data set from a breeding colony on the island of Vorsø (Denmark). Reproductive success, measured as number of fledglings, correlated with breeding time and arrival time at the colony and declined during the season. This seasonal decline became steeper during the study period for both migration and breeding time and was positively correlated to winter/spring climate, i.e. selection was stronger after warmer winters/springs. However, the increasing selection pressure on timing seems to be unrelated to climate change as the climatic variables that were related to selection strength did not increase during the study period. There is indirect evidence that phenology or abundances of preferred prey species have changed which could have altered selection on timing of migration and breeding.",
+    "readLink": "http://europepmc.org/articles/PMC3458008?pdf=render"
+  },
+  {
+    "title": "Large-Scale Hydrological Modelling of the Upper Paraná River Basin",
+    "authors": [
+      "Sameh  A. Abou Rafee,",
+      "Cintia  B. Uvo,",
+      "Jorge  A. Martins,",
+      "Leonardo  M. Domingues,",
+      "Anderson  P. Rudke,",
+      "Thais Fujita,",
+      "Edmilson  D. Freitas"
+    ],
+    "doi": "https://doi.org/10.3390/w11050882",
+    "journalVolume": "Vol. 11,\n                                no. 5\n                                \n                                  p.\n                                  882",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Upper Paraná River Basin (UPRB) has undergone many rapid land use changes in recent decades, due to accelerating population growth. Thus, the prediction of water resources has crucial importance in improving planning and sustainable management. This paper presents a large-scale hydrological modelling of the UPRB, using the Soil and Water Assessment Tool (SWAT) model. The model was calibrated and validated for 78 outlets, over a 32-year simulation period between 1984 and 2015. The results and the comparison between observed and simulated values showed that after the calibration process, most of the outlets performed to a satisfactory level or better in all objective functions analyzed with 86%, 92%, 76%, 88%, and 74% for Percent bias, Coefficient of determination, Nash-Sutcliffe efficiency, Kling-Gupta efficiency, and the Ratio of Standard deviation of observations to root mean square error, respectively. The model output provided in this work could be used in further simulations, such as the evaluation of the impacts of land use change or climate change on river flows of the Upper Paraná Basin.",
+    "readLink": "https://www.mdpi.com/2073-4441/11/5/882"
+  },
+  {
+    "title": "Climate Change, Politics and Religion: Australian Churchgoers’ Beliefs about Climate Change",
+    "authors": [
+      "Miriam Pepper,",
+      "Rosemary Leonard"
+    ],
+    "doi": "https://doi.org/10.3390/rel7050047",
+    "journalVolume": "Vol. 7,\n                                no. 5\n                                \n                                  p.\n                                  47",
+    "issn": "2077-1444 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Religions. Mythology. Rationalism"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/religions/",
+    "abstract": "A growing literature has sought to understand the relationships between religion, politics and views about climate change and climate change policy in the United States. However, little comparative research has been conducted in other countries. This study draws on data from the 2011 Australian National Church Life Survey to examine the beliefs of Australian churchgoers from some 20 denominations about climate change—whether or not it is real and whether it is caused by humans—and political factors that explain variation in these beliefs. Pentecostals, Baptist and Churches of Christ churchgoers, and people from the smallest Protestant denominations were less likely than other churchgoers to believe in anthropogenic climate change, and voting and hierarchical and individualistic views about society predicted beliefs. There was some evidence that these views function differently in relation to climate change beliefs depending on churchgoers’ degree of opposition to gay rights. These findings are of interest not only for the sake of international comparisons, but also in a context where Australia plays a role in international climate change politics that is disproportionate to its small population.",
+    "readLink": "http://www.mdpi.com/2077-1444/7/5/47"
+  },
+  {
+    "title": "Novel Approach to the Actions for Causes Elimination of Staff Resistance to Innovative Change",
+    "authors": [
+      "Drejeris R,",
+      "Drejeriene E"
+    ],
+    "doi": "Vol. Volume 15\n                                \n                                \n                                  pp.\n                                  1011\n                                  – 1022",
+    "issn": "1178-2390 (Online)",
+    "publisher": "Dove Medical Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Medicine (General)"
+    ],
+    "journalUrl": "https://www.dovepress.com/journal-of-multidisciplinary-healthcare-journal",
+    "abstract": "Rolandas Drejeris,1 Egle Drejeriene2 1Faculty of Bioeconomy Development, Vytautas Magnus University, Kaunas, Lithuania; 2Medicine Academy, Lithuanian University of Health Sciences, Kaunas, LithuaniaCorrespondence: Rolandas Drejeris, Faculty of Bioeconomy Development, Vytautas Magnus University, Kaunas distr., Lithuania, Tel +37061150872, Email rolandas.drejeris@vdu.ltPurpose: Commonly, employees’ resistance to innovation is one of the main barriers to innovative change and one of the negative stimuli of employment relationships in the health-care institutions. Identifying the reasons of resistance is a topical issue for every organization, as the speed of change always affect their competitiveness. Aim of the study is to develop a methodology, which would facilitate the choice of an appropriate strategy necessary to enable the health-care organizations to eliminate or at least to reduce resistance to often essential innovative changes.Methods: The model was formed on the basis of the empirical research as a result of voluntary survey. The new approach manifests itself in original solutions by applying the method of quantitative modeling. This method is designed to calculate the strength of the resistance impact to innovation. A total of 217 employees were interviewed in two of the most innovative public Lithuanian primary health-care clinics (Vilnius and Kaunas university clinics).Results: Using a mathematical approach, the causes of change resistance were ranked and the suggested respective strategies were represented graphically and expressed in the form of a model. Its use will enhance the innovation capacity of the organization by avoiding or mitigating staff resistance.Conclusion: Based on aggregate information from numerous sources, the article pinpoints the causes and briefly reviews possible ways to eliminate resistance to innovation. Suggested methodology is based on quantitative modeling method. Such use of modeling methodology can help the administrators of health-care institutions to eliminate causes of staff resistance for change, and such circumstances will accelerate innovation development. The article reviews the strategies for resistance elimination and assigns them to each specific cause.Keywords: innovation, resistance, staff behavior, employment relationship, strategy, organizational climate",
+    "readLink": "https://www.dovepress.com/novel-approach-to-the-actions-for-causes-elimination-of-staff-resistan-peer-reviewed-fulltext-article-JMDH"
+  },
+  {
+    "title": "Bison influences on composition and diversity of riparian plant communities in Yellowstone National Park",
+    "authors": [
+      "J. Boone Kauffman,",
+      "Dian Lyn Cummings,",
+      "Cimarron Kauffman,",
+      "Robert L. Beschta,",
+      "Jeremy Brooks,",
+      "Keeley MacNeill,",
+      "William J. Ripple"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.4406",
+    "journalVolume": "Vol. 14,\n                                no. 2\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract Riparian zones are among the most biologically diverse ecosystems in the Intermountain West, USA, and provide valuable ecosystem services, including high rates of biotic productivity, nutrient processing, and carbon storage. Thus, their sustainability is a high priority for land managers. Large ungulates affect composition and structure of riparian/stream ecosystems through herbivory and physical effects, via trailing and trampling. Bison (Bison bison) in Yellowstone National Park (YNP) have been characterized as “ecosystem engineers” because of their demonstrated effects on phenology, aboveground productivity of grasses, and woody vegetation structure. Bison have greatly increased in numbers during the last two decades and spend large periods of time in the broad open floodplains of the Northern Range of the Park, where they are hypothesized to have multiple effects on plant species composition and diversity. We sampled indicators of bison use as well as riparian vegetation composition, diversity, and structure along eight headwater streams within YNP's Northern Range. Total fecal density ranged from 333 to 1833 fecal chips and/or piles/ha, stubble heights ranged from 7 to 49 cm, and streambank disturbance ranged from 9% to 62%. High levels of bison use were positively correlated with exotic species dominance and negatively correlated with species richness, native species diversity, willow (Salix spp.) cover, and wetland species dominance. At three sites, the intensity of bison use exceeded recommended utilization thresholds to avoid degradation of streams and riparian zones on public lands. The influences of large herbivores, principally bison, on vegetation composition and structure suggest the cumulative effects of the current densities on the Northern Range are contributing to biotic impoverishment, representing the loss of ecosystem services that are provided by native riparian plant communities. In addition, contemporary levels of bison use may be exacerbating climate change effects as observed through ungulate‐related shifts in composition toward plant assemblages adapted to warmer and drier conditions. However, the resilience of native riparian vegetation suggests that sites currently heavily utilized by bison would have the potential for recovery with a reduction in pressure by this herbivore.",
+    "readLink": "https://doi.org/10.1002/ecs2.4406"
+  },
+  {
+    "title": "A bibliometric analysis of ecotourism: A safeguard strategy in protected areas",
+    "authors": [
+      "Uswathul Hasana,",
+      "Sampada Kumar Swain,",
+      "Babu George"
+    ],
+    "doi": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  27\n                                  – 40",
+    "issn": "2666-660X (Online)",
+    "publisher": "KeAi Communications Co. Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Science: Science (General)",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/regional-sustainability/",
+    "abstract": "Ecotourism projects are mostly implemented in naturally fragile ecosystems as a savior of nature, culture, and indigenous people. This paper aims to make quantitative study of ecotourism in protected areas by using bibliometric analysis. VOSviewer, a popular bibliometric software, was used to analyze as many as 1182 research articles published from 2002 to 2020. Those articles were collected from the Scopus database. The study measured three distinct types of bibliometric indicators (quantity, quality, and structural indicators) to analyze the published articles scientifically. The analysis uncovers ecotourism research in protected areas as an emerging and predominant field of research with a sound growth in annual publications and citations. Importantly, the majority of ecotourism research articles are published in the United States, the United Kingdom, Australia, South Africa, Canada, and China. Nevertheless, ecotourism as a relevant research theme of is getting due importance in African and Asian countries for two key reasons: (1) wildlife and tribal populations, and (2) uncontaminated ecology and environment of ecotourism sites. Further, the main research themes of articles in the field of ecotourism in protected areas are broadly focused on conservation, visitor management, and community. Our findings reveal that controversial issues surrounding ecotourism and its relationship to protected areas, dominated by human-wildlife conflict, gender, and climate change, are attracting the attention of researchers worldwide.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666660X22000159"
+  }
+]

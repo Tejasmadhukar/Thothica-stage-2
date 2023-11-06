@@ -1,0 +1,205 @@
+[
+  {
+    "title": "ANALYSIS OF EXTREME PRECIPITATION INDICES IN THE EAST HERZEGOVINA (BOSNIA AND HERZEGOVINA)",
+    "authors": [
+      "Tatjana  Popov,",
+      "Slobodan  Gnjato,",
+      "Goran  Trbić,",
+      "Marko  Ivanišević"
+    ],
+    "doi": "Vol. 69,\n                                no. 1",
+    "issn": "1821-2808 (Online)",
+    "publisher": "Geographical Institute \"Jovan Cvijić\" SASA",
+    "countryOfPublisher": "Serbia",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://ojs.gi.sanu.ac.rs/index.php/zbornik",
+    "abstract": "The changes in annual and seasonal extreme precipitation indices over the East Herzegovina region (Bosnia and Herzegovina) were examined. The data on daily precipitation during the period 1961–2016 from 13 meteorological stations were used for the calculation of 12 extreme precipitation indices recommended by the Expert Team on Climate Change Detection and Indices for the climate change assessment. The results show a downward trend in the precipitation on wet days (PRCPTOT) and in the frequency of days with precipitation (R0.1mm, R1mm, R10mm, and R20mm), whereas the duration of dry spells increases (CDD) over the entire East Herzegovina region. The trends that indicate increasing dryness are particularly pronounced and significant in the summer season. Although the total precipitation decreases, the upward trends in heavy precipitation events such as RX1day, RX5day, SDII, and R95p indicate changes towards more intense precipitation (particularly pronounced since the beginning of the 21st century). Precipitation variability was strongly dictated by the large-scale atmospheric circulations—the North Atlantic Oscillation, the East Atlantic/West Russia pattern and the Arctic Oscillation, especially during the winter season—the significant negative correlation was determined for the majority of extreme precipitation indices.",
+    "readLink": "http://ojs.gi.sanu.ac.rs/index.php/zbornik/article/view/365"
+  },
+  {
+    "title": "Characteristics of greenhouse gas concentrations derived from ground-based FTS spectra at Anmyeondo, South Korea",
+    "authors": [
+      "Y.-S. Oh,",
+      "Y.-S. Oh,",
+      "S. T. Kenea,",
+      "T.-Y. Goo,",
+      "K.-S. Chung,",
+      "J.-S. Rhee,",
+      "M.-L. Ou,",
+      "Y.-H. Byun,",
+      "P. O. Wennberg,",
+      "P. O. Wennberg,",
+      "M. Kiel,",
+      "J. P. DiGangi,",
+      "G. S. Diskin,",
+      "V. A. Velazco,",
+      "D. W. T. Griffith"
+    ],
+    "doi": "https://doi.org/10.5194/amt-11-2361-2018",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  2361\n                                  – 2374",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "Since the late 1990s, the meteorological observatory established in Anmyeondo (36.5382° N, 126.3311° E, and 30 m above mean sea level) has been monitoring several greenhouse gases such as CO2, CH4, N2O, CFCs, and SF6 as a part of the Global Atmosphere Watch (GAW) Program. A high resolution ground-based (g-b) Fourier transform spectrometer (FTS) was installed at this observation site in 2013 and has been operated within the frame work of the Total Carbon Column Observing Network (TCCON) since August 2014. The solar spectra recorded by the g-b FTS cover the spectral range 3800 to 16 000 cm−1 at a resolution of 0.02 cm−1. In this work, the GGG2014 version of the TCCON standard retrieval algorithm was used to retrieve total column average CO2 and CH4 dry mole fractions (XCO2, XCH4) and from the FTS spectra. Spectral bands of CO2 (at 6220.0 and 6339.5 cm−1 center wavenumbers, CH4 at 6002 cm−1 wavenumber, and O2 near 7880 cm−1 ) were used to derive the XCO2 and XCH4. In this paper, we provide comparisons of XCO2 and XCH4 between the aircraft observations and g-b FTS over Anmyeondo station. A comparison of 13 coincident observations of XCO2 between g-b FTS and OCO-2 (Orbiting Carbon Observatory) satellite measurements are also presented for the measurement period between February 2014 and November 2017. OCO-2 observations are highly correlated with the g-b FTS measurements (r2 = 0.884) and exhibited a small positive bias (0.189 ppm). Both data set capture seasonal variations of the target species with maximum and minimum values in spring and late summer, respectively. In the future, it is planned to further utilize the FTS measurements for the evaluation of satellite observations such as Greenhouse Gases Observing Satellite (GOSAT, GOSAT-2). This is the first report of the g-b FTS observations of XCO2 species over the Anmyeondo station.",
+    "readLink": "https://www.atmos-meas-tech.net/11/2361/2018/amt-11-2361-2018.pdf"
+  },
+  {
+    "title": "Fluorescence-Based Approach to Estimate the Chlorophyll-A Concentration of a Phytoplankton Bloom in Ardley Cove (Antarctica)",
+    "authors": [
+      "Chen Zeng,",
+      "Tao Zeng,",
+      "Andrew M. Fischer,",
+      "Huiping Xu"
+    ],
+    "doi": "https://doi.org/10.3390/rs9030210",
+    "journalVolume": "Vol. 9,\n                                no. 3\n                                \n                                  p.\n                                  210",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "A phytoplankton bloom occurred in Ardley Cove, King George Island in January 2016, during which maximum chlorophyll-a reached 9.87 mg/m3. Records show that blooms have previously not occurred in this area prior to 2010 and the average chlorophyll-a concentration between 1991 and 2009 was less than 2 mg/m3. Given the lack of in situ measurements and the poor performance of satellite algorithms in the Southern Ocean and Antarctic waters, we validate and assess several chlorophyll-a algorithms and apply an improved baseline fluorescence approach to examine this bloom event. In situ water properties including in vivo fluorescence, water leaving radiance, and solar irradiance were collected to evaluate satellite algorithms and characterize chlorophyll-a concentration, as well as dominant phytoplankton groups. The results validated the nFLH fluorescence baseline approach, resulting in a good agreement at this high latitude, high chlorophyll-a region with correlation at 59.46%. The dominant phytoplankton group within the bloom was micro-phytoplankton, occupying 79.58% of the total phytoplankton community. Increasing sea ice coverage and sea ice concentration are likely responsible for increasing phytoplankton blooms in the recent decade. Given the profound influence of climate change on sea-ice and phytoplankton dynamics in the region, it is imperative to develop accurate methods of estimating the spatial distribution and concentrations of the increasing occurrence of bloom events.",
+    "readLink": "http://www.mdpi.com/2072-4292/9/3/210"
+  },
+  {
+    "title": "Rainfall Forecasting in Banyuwangi Using Adaptive Neuro Fuzzy Inference System",
+    "authors": [
+      "Gusti Ahmad Fanshuri Alfarisy,",
+      "Wayan Firdaus Mahmudy"
+    ],
+    "doi": "https://doi.org/10.25126/jitecs.20161212",
+    "journalVolume": "Vol. 1,\n                                no. 2\n                                \n                                  pp.\n                                  65\n                                  – 71",
+    "issn": "2540-9433 (Print)",
+    "publisher": "2540-9824 (Online)",
+    "countryOfPublisher": "University of Brawijaya",
+    "lcc": [
+      "Indonesia",
+      "Technology: Technology (General)"
+    ],
+    "journalUrl": "http://jitecs.ub.ac.id/index.php/jitecs/index",
+    "abstract": "Rainfall forcasting is a non-linear forecasting process that varies according to area and strongly influenced by climate change. It is a difficult process due to complexity of rainfall trend in the previous event and the popularity of Adaptive Neuro Fuzzy Inference System (ANFIS) with hybrid learning method give high prediction for rainfall as a forecasting model. Thus, in this study we investigate the efficient membership function of ANFIS for predicting rainfall in Banyuwangi, Indonesia. The number of different membership functions that use hybrid learning method is compared. The validation process shows that 3 or 4 membership function gives minimum RMSE results that use temperature, wind speed and relative humidity as parameters.",
+    "readLink": "http://jitecs.ub.ac.id/index.php/jitecs/article/view/12"
+  },
+  {
+    "title": "Addressing Climate Change Communication: Effective Engagement of Populations for Climate Action in the US and Globally",
+    "authors": [
+      "Ana Viamonte Ros,",
+      "Regina LaRocque,",
+      "Rachel Fortinsky,",
+      "Patrice Nicholas"
+    ],
+    "doi": "https://doi.org/10.5334/aogh.2900",
+    "journalVolume": "Vol. 86,\n                                no. 1",
+    "issn": "2214-9996 (Online)",
+    "publisher": "Ubiquity Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Infectious and parasitic diseases",
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.annalsofglobalhealth.org/",
+    "abstract": "Background: Communication about climate change is critical in addressing the greatest public health challenge of our time. Public health professionals must convey the human implications of climate change and educating populations regarding climate change as a threat to the health and wellbeing of people globally. Effective communication to engage individuals, communities, and populations is critical to debate as we focus on the most urgent public health problem of our time. Objective: Public health professionals are aware of the deleterious health consequences related to climate change; however, key segments of the population are not. This paper addressed key concepts related to climate change communication. Methods: Databases were searched including PubMed, CINAHL, and Scopus from 2015 to 2020 to obtain the most recent relevant literature using search terms that included climate change, climate communication, climate action, and climate change engagement. Findings: Climate change communication as viewed through the lens of Six Americas—a national survey that categorized people regarding their beliefs about climate change from those who are Dismissive, Doubtful, Disengaged, Cautious, Concerned, or Alarmed is a valid perspective for engaging populations in climate communication and climate action. Conclusions: Using the framework developed by the George Mason University Center for Climate Change Communication and the Yale Program on Climate Change Communication, we suggest that adopting this framework from a US perspective to a global perspective and surveying across countries and context is imperative to advance global understanding of the impact of climate change on health.",
+    "readLink": "https://annalsofglobalhealth.org/articles/2900"
+  },
+  {
+    "title": "The market for climate services in the tourism sector – An analysis of Austrian stakeholders’ perceptions",
+    "authors": [
+      "Andrea Damm,",
+      "Judith Köberl,",
+      "Peter Stegmaier,",
+      "Elisa Jiménez Alonso,",
+      "Atte Harjanne"
+    ],
+    "doi": "Vol. 17",
+    "issn": "2405-8807 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-services/",
+    "abstract": "Climate services (CS) are promoted as a means to support decision-making processes in order to better prepare and adapt to the risks and opportunities of climate variability and change. The current market for CS is still in its early stages. In this paper, we report the findings from our recent investigation into the actual and potential market for CS in the Austrian tourism sector. In close collaboration with tourism stakeholders and CS providers, we explored main barriers hampering the actual use and effectiveness of climate services and identified potential drivers to support further product development and widespread uptake of CS.Despite the high vulnerability of tourism to climate variability and change, the actual use of CS among Austrian tourism stakeholders is rather limited. The main barriers to the use of CS in tourism include wide-spread low levels of risk awareness, a certain degree of risk denial, a lacking sense of urgency due to (yet still) little financial pressure, and rather short business decision cycles, which lead to a low prioritization of climate issues. Furthermore, lack of knowledge of existing services and their benefits, lack of applicability, and distrust in climate services restrict their use.Recommendations for an enhanced uptake of CS thus include the improved demonstration and communication of their added value. In addition, the market would benefit from an increase in intermediaries who bridge the gap between research and applicability. It is further recommended to increasingly integrate climate information into existing services and products already in use. Keywords: Climate services, Tourism, Market development, Climate change adaptation",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405880718300931"
+  },
+  {
+    "title": "THE WIND AS AN IMPORTANT ASPECT AND ITS IMPACT ON POPULATION TRENDS AND DEMOGRAPHIC CONDITIONS IN TRIPOLITANIA DURING LATE PLEISTOCENE/EARLY HOLOCENE",
+    "authors": [
+      "Amran Khalifa,",
+      "Mirjana Nešić"
+    ],
+    "doi": "Vol. 66,\n                                no. 3",
+    "issn": "1821-2808 (Online)",
+    "publisher": "Geographical Institute \"Jovan Cvijić\" SASA",
+    "countryOfPublisher": "Serbia",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://ojs.gi.sanu.ac.rs/index.php/zbornik",
+    "abstract": "The vast majority of Tripolitania sites are open surface sites, but after the introduction of paleoclimatology in archaeological research during 1980’s, even with the insufficient amount of research, we were given a new vision of the archaeology of the region in regards to technology, adaptation, and behaviourism. The archaeological study of the region has developed within its own right, producing individual characteristics, including the sub-regional parts of Northern Africa. From the 1990’s up through today, the archaeology of Tripolitania has benefited from these new developments with the introduction of climatology inclusive of geology, physical anthropology with genetic data, and the new methods of chronology and interpretations of cultural activities. This article will attempt to show the importance of the introduction of climatology and geomorphology in the study of surface sites where systematic excavations for whatever reasons had not been possible, yet certainly preferred. The geographical positioning of the sites in correlation with their surroundings, and the appearance and composition of the sediments in context with the archaeological artefacts, could provide us with valuable information about the connection between the cultures that inhabited this region. With these developments in research, we are now able to trace the cultural evolution of Tripolitania by paying particular attention to periods impacted by climate change (particularly wind), which had caused new geological and geomorphological conditions that forced the individuals of this culture to adapt in order to survive.",
+    "readLink": "http://www.gi.sanu.ac.rs/zbornik/index.php/zbornik/article/view/9"
+  },
+  {
+    "title": "Land use and climate change-induced soil erosion mapping in a sub-tropical environment",
+    "authors": [
+      "Subodh Chandra Pal,",
+      "Rabin Chakrabortty,",
+      "Abu Reza Md. Towfiqul Islam,",
+      "Paramita Roy,",
+      "Indrajit Chowdhuri,",
+      "Asish Saha,",
+      "Aznarul Islam,",
+      "Romulus Costache,",
+      "Edris Alam"
+    ],
+    "doi": "https://doi.org/10.1080/19475705.2023.2270129",
+    "journalVolume": "Vol. 14,\n                                no. 1",
+    "issn": "1947-5705 (Print)",
+    "publisher": "1947-5713 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Industries. Land use. Labor: Management. Industrial management: Risk in industry. Risk management"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgnh",
+    "abstract": "AbstractOne of the most important aspects of the ‘sub-tropical’ monsoon-influenced environment is the issue of ‘soil erosion’ and its related ‘land degradation’. On the other hand, the climate in this area has become quite extreme. According to this viewpoint, it is important to research a future ‘soil erosion’ scenario in front of the probable effects of climate change and land use change. For the objective of assessing the extent of soil erosion in this area, this study took into account both the USLE and the RUSLE. Compared to the USLE that has been validated, RUSLE has a comparatively greater quantitative efficiency. In RUSLE, the ‘very high’ (>20) and ‘high’ (15–20) ‘soil erosion’ zones tend to be associated with the ‘north-western, western, south-western, and southern’ regions of the river basin. The ‘soil erosion’ that will occur in the future has been estimated by taking into account the projected rainfall, land use and land cover (LULC). ‘Soil erosion’ has increased from the previous time to the projected time. Predicted R factor values for SSP 585 range from 399.92 to 493.72. In addition, a growing erosion tendency associated with increased shared socio-economic pathways (SSPs) has been found.",
+    "readLink": "https://www.tandfonline.com/doi/10.1080/19475705.2023.2270129"
+  },
+  null,
+  {
+    "title": "The Impact of Applying Individually Perturbed Parametrization Tendency Scheme on the Simulated El Niño-Southern Oscillation in the Community Earth System Model",
+    "authors": [
+      "Tianjie Wu,",
+      "Tianjie Wu,",
+      "Shushi Zhang,",
+      "Shushi Zhang,",
+      "Kefeng Zhu,",
+      "Kefeng Zhu,",
+      "Kefeng Zhu,",
+      "Hongyun Ma"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2021.627170",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "The ensemble technique is considered to be an effective approach in enhancing the model capacity of intra-seasonal climate change. Since El Niño-Southern Oscillation is one of the critical modes of interannual variability in the tropical Pacific, an appropriate ensemble technique may help minimize model bias in ENSO forecast. This research includes a modified stochastically perturbed parameterization tendencies scheme in the Community Earth System Model to investigate its impact on ENSO prediction. This revised scheme uses independent noise patterns to perturb the tendencies from different physical parameterizations. In the original scheme, only the same noise is employed. The result suggests that the altered approach is in a position to further reduce sea surface temperatures and gain more skill in uncertainty estimation compared to the original one. ENSO’s amplitude is improved especially of its warm phase El Niño, but there is a limited improvement in its spatial structure. The modified scheme also ameliorated the variability of ENSO by increasing the magnitude toward observation. The power spectrum exhibits an increased representation. Besides those findings, we notice that simple ensemble mean may not be able to represent the climate status as it smoothes out some useful signals.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2021.627170/full"
+  }
+]

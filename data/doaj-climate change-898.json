@@ -1,0 +1,224 @@
+[
+  {
+    "title": "Extending the HIRS Data Record with IASI Measurements",
+    "authors": [
+      "Anand K. Inamdar,",
+      "Lei Shi,",
+      "Hai-Tien Lee,",
+      "Darren L. Jackson,",
+      "Jessica L. Matthews"
+    ],
+    "doi": "https://doi.org/10.3390/rs15030717",
+    "journalVolume": "Vol. 15,\n                                no. 717\n                                \n                                  p.\n                                  717",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The High-Resolution Infrared Radiation Sounder (HIRS) on the NOAA and the MetOp satellite series have provided global sounding measurements since the late 1970s, spanning over 40 years. These measurements have been useful in climate change detection, numerical weather prediction, and development of long-term climate data records of profiles of atmospheric temperature and humidity, cloud climatology, upper tropospheric water vapor, outgoing longwave radiation, etc. However, the HIRS instrument is being replaced by the new generation of sounders such as the hyperspectral Infrared Atmospheric Sounding Interferometer (IASI) on recently launched satellites. In order to continue and extend the HIRS record, we use IASI measurements to simulate and derive HIRS-like data for the 12 HIRS longwave channels. The MetOp satellite operated by EUMETSAT carries both the HIRS and the hyper-spectral IASI instrument with accurate spectral and radiometric calibration, providing a great opportunity to consistently calibrate the measurements. The IASI radiances are convolved with the HIRS spectral response functions to produce IASI-simulated HIRS (IHIRS) for the longwave channels. In the present work, IHIRS data are collocated and compared with HIRS observed radiances on the same satellite to develop a calibration table for each of the ascending/descending orbits and cloudy and clear categories. The resulting inter-instrument calibrated IHIRS data was found to agree with HIRS brightness temperatures within 0.05 K for all longwave channels.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/3/717"
+  },
+  {
+    "title": "Evaluation of Dynamical Seasonal Prediction Skills for Tropical Cyclone Activity over the South China Sea in FGOALS-f2",
+    "authors": [
+      "Jinxiao Li,",
+      "Qun Tian,",
+      "Zili Shen,",
+      "Zixiang Yan,",
+      "Majun Li,",
+      "Jiaqing Xue,",
+      "Yaoxian Yang,",
+      "Lingjun Zeng,",
+      "Yuxin Zang,",
+      "Siyuan Li"
+    ],
+    "doi": "https://doi.org/10.3390/atmos14010085",
+    "journalVolume": "Vol. 14,\n                                no. 85\n                                \n                                  p.\n                                  85",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Based on 35-year (1981–2015) ensemble (24 members) hindcasts of the IAP/LASG global seasonal prediction system named FGOALS-f2 V1.0 (FGOALS-f2), the tropical cyclone (TC) seasonal prediction skills over the South China Sea (SCS) during the TC peak season (July–November) are evaluated. Starting the prediction from June 20th, FGOALS-f2 can well capture the seasonal mean characteristics for both the genesis location and track of TCs over the SCS. For seasonal anomalous TC numbers, FGOALS-f2 underestimates the maximum and minimum of the TC number compared to the observation. The temporal correlation coefficients (TCCs) between FGOALS-f2 and the observation are 0.39 for the TC number and 0.51 for accumulated cyclone energy (ACE) over the SCS, respectively, which are both above the 95% significant level. Additionally, FGOALS-f2 has acceptable prediction skill for the seasonal mean number of TCs landing on three areas (coastal southeastern China, Indochina Peninsula, and Philippines) surrounding the SCS. The skillful prediction of SCS TCs could be ascribed to the well-predicted tropical anomaly of sea surface temperature (SSTA), TC and El Niño-Southern Oscillation (TC-ENSO) relations, and Genesis potential index (GPI).",
+    "readLink": "https://www.mdpi.com/2073-4433/14/1/85"
+  },
+  {
+    "title": "Predicting Climate Change Impacts on the Rare and Endangered <i>Horsfieldia tetratepala</i> in China",
+    "authors": [
+      "Chaonan Cai,",
+      "Xiaoyan Zhang,",
+      "Jianjun Zha,",
+      "Jie Li,",
+      "Junmin Li"
+    ],
+    "doi": "https://doi.org/10.3390/f13071051",
+    "journalVolume": "Vol. 13,\n                                no. 1051\n                                \n                                  p.\n                                  1051",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Global climate change has become a major threat to biodiversity, posing severe challenges to species conservation. This is particularly true for species such as Horsfieldia tetratepala that have extremely small populations in the wild. Little is known about the species distribution of H. tetratepala in the current climate, as well as how that will change with potential future climates. The key environmental factors that influence its expansion, especially its habitat sustainability and its potential to adapt to climate change, are also unknown, though such information is vital for the protection of this endangered species. Based on six climate factors and 25 species distribution points, this study used the maximum entropy model (MaxEnt) to simulate the potential distribution for H. tetratepala in three periods (current, 2050s, and 2070s), and to investigate the changes in distribution patterns and the main environmental factors affecting species distribution. The modeling results show that the most important bioclimatic variables affecting H. tetratepala were precipitation of the warmest quarter (Bio_18) and temperature seasonality (Bio_4). The suitable areas for H. tetratepala will gradually be lost in Yunnan but will be generally offset in the northeastward direction, expanding in Hainan, Guangzhou, and Taiwan provinces under the future climate conditions. Therefore, we recommend protecting the habitats of H. tetratepala in Yunnan and strengthening the in-depth species investigation and monitoring in areas (Hainan, Guangzhou, and Taiwan) where no related reports of H. tetratepala have been reported. The results improve our understanding of this species’ response under the changing climate and benefit strategies for its conservation.",
+    "readLink": "https://www.mdpi.com/1999-4907/13/7/1051"
+  },
+  {
+    "title": "Climate Change and Potential Demise of the Indian Deserts",
+    "authors": [
+      "P. V. Rajesh,",
+      "B. N. Goswami"
+    ],
+    "doi": "https://doi.org/10.1029/2022EF003459",
+    "journalVolume": "Vol. 11,\n                                no. 8\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract In contrast to the “wet gets wetter and dry gets drier” paradigm, here, using observations and climate model simulations, we show that the mean rainfall over the semi‐arid northwest parts of India and Pakistan has increased by 10%–50% during 1901–2015 and is expected to increase by 50%–200% under moderate greenhouse gas (GHG) scenarios. The GHG forcing primarily drives the westward expansion of the Indian summer monsoon rainfall (ISMR) and is facilitated by a westward expansion of the Indian Ocean (IO) warm pool. Mechanistically, the westward expansion of ISMR is a consequence of the episodic genesis over IO and the northward propagation of an expanded Inter‐Tropical Convergence Zone on a sub‐seasonal time scale. While an adaptation strategy to increased hydrological disasters is a must, harnessing the augmented rainfall would lead to a substantial boost in food productivity, bringing transformative changes in the socio‐economic condition of people in the region.",
+    "readLink": "https://doi.org/10.1029/2022EF003459"
+  },
+  {
+    "title": "A tale of conquest and crisis: invasion history and status of the American mink (Neovison vison) in Iceland",
+    "authors": [
+      "Robert A. Stefansson,",
+      "Menja von Schmalensee,",
+      "Jakub Skorupski"
+    ],
+    "doi": "https://doi.org/10.18276/ab.2016.23-08",
+    "journalVolume": "Vol. 23",
+    "issn": "2450-8330 (Print)",
+    "publisher": "2353-3013 (Online)",
+    "countryOfPublisher": "Szczecin University Press",
+    "lcc": [
+      "Poland",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://wnus.edu.pl/ab/en/",
+    "abstract": "Invasive alien species are among the major drivers of biodiversity loss, being destructive to native ecosystems, and human economy and well-being. Despite their severe negative impact, tracking the paths of biological invasions and distribution dynamics of invasive species, as well as assessing the scope and character of their interactions with resident species and ecosystems, can be difficult. An interesting case is the naturalization of the American mink in Iceland, with subsequent intensive culling and accurate registration of the number of mink killed by year and area, providing information on mink’s distributional history. Additionally, the Icelandic ecosystem is relatively simple compared to other areas within the non-native range of the American mink. The species was introduced to Iceland in 1931 for commercial fur farming. Escapees spread and multiplied in the following decades. A bounty system for culling was established early, but was unable to halt population growth and the spread of the species. Hunting statistics seem to reflect actual changes in population size and show that population density kept on increasing for three decades after the mink had colonised all suitable habitats. After 2003, the numbers show a rapid > 60% decrease, probably at least in part caused by climate change influencing the marine food web. The American mink seems to have had a negative impact on some bird and freshwater fish populations. The case of the invasive American mink in Iceland improves our understanding of biological invasions, and aids in organizing eradication programmes or control of the species.",
+    "readLink": "https://wnus.edu.pl/ab/en/issue/277/article/3928/"
+  },
+  {
+    "title": "A chemical transport model study of plume-rise and particle size distribution for the Athabasca oil sands",
+    "authors": [
+      "A. Akingunola,",
+      "P. A. Makar,",
+      "J. Zhang,",
+      "A. Darlington,",
+      "S.-M. Li,",
+      "M. Gordon,",
+      "M. D. Moran,",
+      "Q. Zheng"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-8667-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  8667\n                                  – 8688",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "We evaluate four high-resolution model simulations of pollutant emissions, chemical transformation, and downwind transport for the Athabasca oil sands using the Global Environmental Multiscale – Modelling Air-quality and Chemistry (GEM-MACH) model, and compare model results with surface monitoring network and aircraft observations of multiple pollutants, for simulations spanning a time period corresponding to an aircraft measurement campaign in the summer of 2013. We have focussed here on the impact of different representations of the model's aerosol size distribution and plume-rise parameterization on model results. The use of a more finely resolved representation of the aerosol size distribution was found to have a significant impact on model performance, reducing the magnitude of the original surface PM2.5 negative biases 32 %, from −2.62 to −1.72 µg m−3. We compared model predictions of SO2, NO2, and speciated particulate matter concentrations from simulations employing the commonly used Briggs (1984) plume-rise algorithms to redistribute emissions from large stacks, with stack plume observations. As in our companion paper (Gordon et al., 2017), we found that Briggs algorithms based on estimates of atmospheric stability at the stack height resulted in under-predictions of plume rise, with 116 out of 176 test cases falling below the model : observation 1 : 2 line, 59 cases falling within a factor of 2 of the observed plume heights, and an average model plume height of 289 m compared to an average observed plume height of 822 m. We used a high-resolution meteorological model to confirm the presence of significant horizontal heterogeneity in the local meteorological conditions driving plume rise. Using these simulated meteorological conditions at the stack locations, we found that a layered buoyancy approach for estimating plume rise in stable to neutral atmospheres, coupled with the assumption of free rise in convectively unstable atmospheres, resulted in much better model performance relative to observations (124 out of 176 cases falling within a factor of 2 of the observed plume height, with 69 of these cases above and 55 of these cases below the 1 : 1 line and within a factor of 2 of observed values). This is in contrast to our companion paper, wherein this layered approach (driven by meteorological observations not co-located with the stacks) showed a relatively modest impact on predicted plume heights. Persistent issues with over-fumigation of plumes in the model were linked to a more rapid decrease in simulated temperature with increasing height than was observed. This in turn may have led to overestimates of near-surface diffusivity, resulting in excessive fumigation.",
+    "readLink": "https://www.atmos-chem-phys.net/18/8667/2018/acp-18-8667-2018.pdf"
+  },
+  {
+    "title": "Video features predicting engagement in climate change education",
+    "authors": [
+      "Christodoulou Vasiliki,",
+      "Saprikis Vaggelis,",
+      "Kythreotou Louiza,",
+      "Christodoulos Monogios,",
+      "Calikus Ece,",
+      "Joselowitz Jared"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202343606009",
+    "journalVolume": "Vol. 436\n                                \n                                \n                                  p.\n                                  06009",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Climate change is a substantial threat. Awareness-raising and education are key goals. Social media provide an opportune context for the delivery of science education content. However, little research has examined which video features elicit engagement on climate change. This project focused on YouTube and aimed to identify the most predictive factors of video engagement on the topic of climate change. Video engagement was defined as an algorithmic composite of outcomes derived through YouTube API such as the number of views and number of comments, among other measures. A search of YouTube videos revealed an original list of 183 videos on climate change. A random selection of 90 videos was manually coded on engagement predictor variables (i.e., video type, presenter type, audio-visual elements, video content, and other features). Results indicated that most YouTube videos are consistent with a widely accepted scientific viewpoint on the topic although their scientific quality and video argumentation content do not appear to affect video engagement. Rather, presenter and video characteristics associated with entertainment emerge as more specific predictors influencing video engagement. Social media can be used as a fruitful avenue for imparting education on pertinent issues such as climate change although it is important to consider ways of balancing quality education with entertainment features.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/73/e3sconf_iced2023_06009.pdf"
+  },
+  {
+    "title": "Contribution of the coupled atmosphere–ocean–sea ice–vegetation model COSMOS to the PlioMIP2",
+    "authors": [
+      "C. Stepanek,",
+      "E. Samakinwa,",
+      "E. Samakinwa,",
+      "E. Samakinwa,",
+      "G. Knorr,",
+      "G. Lohmann,",
+      "G. Lohmann"
+    ],
+    "doi": "https://doi.org/10.5194/cp-16-2275-2020",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  2275\n                                  – 2323",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "We present the Alfred Wegener Institute's contribution to the Pliocene Model Intercomparison Project Phase 2 (PlioMIP2) wherein we employ the Community Earth System Models (COSMOS) that include a dynamic vegetation scheme. This work builds on our contribution to Phase 1 of the Pliocene Model Intercomparison Project (PlioMIP1) wherein we employed the same model without dynamic vegetation. Our input to the PlioMIP2 special issue of Climate of the Past is twofold. In an accompanying paper we compare results derived with COSMOS in the framework of PlioMIP2 and PlioMIP1. With this paper we present details of our contribution with COSMOS to PlioMIP2. We provide a description of the model and of methods employed to transfer reconstructed mid-Pliocene geography, as provided by the Pliocene Reconstruction and Synoptic Mapping Initiative Phase 4 (PRISM4), to model boundary conditions. We describe the spin-up procedure for creating the COSMOS PlioMIP2 simulation ensemble and present large-scale climate patterns of the COSMOS PlioMIP2 mid-Pliocene core simulation. Furthermore, we quantify the contribution of individual components of PRISM4 boundary conditions to characteristics of simulated mid-Pliocene climate and discuss implications for anthropogenic warming. When exposed to PRISM4 boundary conditions, COSMOS provides insight into a mid-Pliocene climate that is characterised by increased rainfall (+0.17 mm d−1) and elevated surface temperature (+3.37 ∘C) in comparison to the pre-industrial (PI). About two-thirds of the mid-Pliocene core temperature anomaly can be directly attributed to carbon dioxide that is elevated with respect to PI. The contribution of topography and ice sheets to mid-Pliocene warmth is much smaller in contrast – about one-quarter and one-eighth, respectively, and nonlinearities are negligible. The simulated mid-Pliocene climate comprises pronounced polar amplification, a reduced meridional temperature gradient, a northwards-shifted tropical rain belt, an Arctic Ocean that is nearly free of sea ice during boreal summer, and muted seasonality at Northern Hemisphere high latitudes. Simulated mid-Pliocene precipitation patterns are defined by both carbon dioxide and PRISM4 paleogeography. Our COSMOS simulations confirm long-standing characteristics of the mid-Pliocene Earth system, among these increased meridional volume transport in the Atlantic Ocean, an extended and intensified equatorial warm pool, and pronounced poleward expansion of vegetation cover. By means of a comparison of our results to a reconstruction of the sea surface temperature (SST) of the mid-Pliocene we find that COSMOS reproduces reconstructed SST best if exposed to a carbon dioxide concentration of 400 ppmv. In the Atlantic to Arctic Ocean the simulated mid-Pliocene core climate state is too cold in comparison to the SST reconstruction. The discord can be mitigated to some extent by increasing carbon dioxide that causes increased mismatch between the model and reconstruction in other regions.",
+    "readLink": "https://cp.copernicus.org/articles/16/2275/2020/cp-16-2275-2020.pdf"
+  },
+  {
+    "title": "Externalising Europe’s energy policy in EU Free Trade Agreements: A cognitive dissonance between promoting sustainable development and ensuring security of supply?",
+    "authors": [
+      "Anna-Alexandra Marhold"
+    ],
+    "doi": "https://doi.org/10.14324/111.444.ewlj.2019.17",
+    "journalVolume": "Vol. 3",
+    "issn": "2399-2875 (Online)",
+    "publisher": "UCL Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Law: Law of Europe",
+      "Law: Law in general. Comparative and uniform law. Jurisprudence: Comparative law. International uniform law"
+    ],
+    "journalUrl": "https://www.uclpress.co.uk/pages/europe-and-the-world-a-law-review",
+    "abstract": "It is no secret that while the European Union (EU) has taken up commitments to combat climate change under the United Nations Framework Convention on Climate Change Paris Agreement and its own 2020 and 2030 climate and energy package strategy, the Union continues to be heavily dependent on the import of fossil fuels from abroad. One may even say that this leads to a cognitive dissonance, i.e. the discomfort which ensues if one holds two contradictory values, with respect to the externalisation of the Union’s energy and sustainable development policy. On the one hand, the EU aims to become a global frontrunner in the field of promoting renewable energy and sustainable development. This expresses itself through the inclusion of specific chapters on Trade and Sustainable Development in the EU’s Free Trade Agreements (FTAs) (standard since the 2011 EU-South Korea FTA). On the other, the EU realises that it is imperative to secure the Union’s security of energy supply, still largely guaranteed by fossil fuels. Therefore, the Union in parallel attempts to eliminate discriminatory practices in international fossil fuel trade in its bilateral agreements (e.g. in the EU-Ukraine Deep and Comprehensive Free Trade Agreement). This paper will explore the root causes of this cognitive dissonance and research what elements could contribute to ensuring more coherence in EU external energy policy. The objectives of sustainable development and security of supply are not necessarily contradictory per se. However, clearer delineations between the two objectives are necessary in EU external relations in general, and in the Union’s FTAs more specifically. This also applies to relations between Member States and the Union in this area, as well as to the interactions between the relevant EU institutions tasked with energy, sustainable development and the environment.",
+    "readLink": "https://uclpress.scienceopen.com/hosted-document?doi=10.14324/111.444.ewlj.2019.17"
+  },
+  {
+    "title": "Lake Ice Will Be Less Safe for Recreation and Transportation Under Future Warming",
+    "authors": [
+      "R. Iestyn Woolway,",
+      "Lei Huang,",
+      "Sapna Sharma,",
+      "Sun‐Seon Lee,",
+      "Keith B. Rodgers,",
+      "Axel Timmermann"
+    ],
+    "doi": "https://doi.org/10.1029/2022EF002907",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Millions of lakes from around the world freeze during winter. These frozen surfaces provide essential ecosystem services that are vital to many northern communities. However, the availability of safe lake ice that is oftentimes required to support these services is under threat from climate change. Here we use a 100‐member ensemble of climate model simulations to investigate changes in the presence of safe lake ice for different recreation and provisioning activities across the Northern Hemisphere. Our projections suggest that the duration of safe ice for recreational purposes will shorten, on average, by 13, 17, and 24 days within a 1.5°C, 2°C, and 3°C warmer world (relative to 1900–1929), respectively. The projected change in the duration of safe ice will be greater in higher latitudes, but with the most densely populated lower‐latitude regions experiencing the greatest percent change. The use of lake ice to support critical transportation infrastructure will also be influenced by future warming through the loss of thicker ice this century. However, our projections suggest that the magnitude of change in the duration of safe ice will differ depending on the ice thickness requirements. For transportation that requires the thickest ice cover, the number of days with safe ice will decline by 90%, 95%, and 99% with 1.5°C, 2°C, and 3°C global warming, respectively. We highlight the need for the development and implementation of adaptation plans to address the imminent loss of critical wintertime transportation infrastructure across the Northern Hemisphere.",
+    "readLink": "https://doi.org/10.1029/2022EF002907"
+  }
+]

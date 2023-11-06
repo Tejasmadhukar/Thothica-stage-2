@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Landscape of stress: Tree mortality influences physiological stress and survival in a native mesocarnivore.",
+    "authors": [
+      "Jennifer R Kordosky,",
+      "Eric M Gese,",
+      "Craig M Thompson,",
+      "Patricia A Terletzky,",
+      "Lorin A Neuman-Lee,",
+      "Jon D Schneiderman,",
+      "Kathryn L Purcell,",
+      "Susannah S French"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0253604",
+    "journalVolume": "Vol. 16,\n                                no. 7\n                                \n                                  p.\n                                  e0253604",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Climate change and anthropogenic modifications to the landscape can have both positive and negative effects on an animal. Linking landscape change to physiological stress and fitness of an animal is a fundamental tenet to be examined in applied ecology. Cortisol is a glucocorticoid hormone that can be used to indicate an animal's physiological stress response. In the Sierra Nevada Mountains of California, fishers (Pekania pennanti) are a threatened mesocarnivore that have been subjected to rapid landscape changes due to anthropogenic modifications and tree mortality related to a 4-year drought. We measured cortisol concentrations in the hair of 64 fishers (41 females, 23 males) captured and radio-collared in the Sierra National Forest, California. We addressed two main questions: (1) Is the physiological stress response of fishers influenced by anthropogenic factors, habitat type, canopy cover, and tree mortality due to drought in their home range? (2) Does the physiological stress response influence survival, reproduction, or body condition? We examined these factors within a fisher home range at 3 scales (30, 60, 95% isopleths). Using model selection, we found that tree mortality was the principle driver influencing stress levels among individual fishers with female and male fishers having increasing cortisol levels in home ranges with increasing tree mortality. Most importantly, we also found a link between physiological stress and demography where female fishers with low cortisol levels had the highest annual survival rate (0.94), whereas females with medium and high cortisol had lower annual survival rates, 0.78 and 0.81, respectively. We found no significant relationships between cortisol levels and body condition, male survival, or litter size. We concluded that tree mortality related to a 4-year drought has created a \"landscape of stress\" for this small, isolated fisher population.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0253604"
+  },
+  {
+    "title": "Effects of Measuring Devices and Sampling Strategies on the Interpretation of Monitoring Data for Long-Term Trend Analysis",
+    "authors": [
+      "Philipp Fischer,",
+      "Philipp Fischer,",
+      "Peter Dietrich,",
+      "Peter Dietrich,",
+      "Eric P. Achterberg,",
+      "Norbert Anselm,",
+      "Holger Brix,",
+      "Ingeborg Bussmann,",
+      "Ingeborg Bussmann,",
+      "Laura Eickelmann,",
+      "Götz Flöser,",
+      "Madlen Friedrich,",
+      "Hendrik Rust,",
+      "Claudia Schütze,",
+      "Uta Koedel"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2021.770977",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "A thorough and reliable assessment of changes in sea surface water temperatures (SSWTs) is essential for understanding the effects of global warming on long-term trends in marine ecosystems and their communities. The first long-term temperature measurements were established almost a century ago, especially in coastal areas, and some of them are still in operation. However, while in earlier times these measurements were done by hand every day, current environmental long-term observation stations (ELTOS) are often fully automated and integrated in cabled underwater observatories (UWOs). With this new technology, year-round measurements became feasible even in remote or difficult to access areas, such as coastal areas of the Arctic Ocean in winter, where measurements were almost impossible just a decade ago. In this context, there is a question over what extent the sampling frequency and accuracy influence results in long-term monitoring approaches. In this paper, we address this with a combination of lab experiments on sensor accuracy and precision and a simulated sampling program with different sampling frequencies based on a continuous water temperature dataset from Svalbard, Arctic, from 2012 to 2017. Our laboratory experiments showed that temperature measurements with 12 different temperature sensor types at different price ranges all provided measurements accurate enough to resolve temperature changes over years on a level discussed in the literature when addressing climate change effects in coastal waters. However, the experiments also revealed that some sensors are more suitable for measuring absolute temperature changes over time, while others are more suitable for determining relative temperature changes. Our simulated sampling program in Svalbard coastal waters over 5 years revealed that the selection of a proper sampling frequency is most relevant for discriminating significant long-term temperature changes from random daily, seasonal, or interannual fluctuations. While hourly and daily sampling could deliver reliable, stable, and comparable results concerning temperature increases over time, weekly sampling was less able to reliably detect overall significant trends. With even lower sampling frequencies (monthly sampling), no significant temperature trend over time could be detected. Although the results were obtained for a specific site, they are transferable to other aquatic research questions and non-polar regions.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2021.770977/full"
+  },
+  {
+    "title": "A vital link: water and vegetation in the Anthropocene",
+    "authors": [
+      "D. Gerten"
+    ],
+    "doi": "https://doi.org/10.5194/hess-17-3841-2013",
+    "journalVolume": "Vol. 17,\n                                no. 10\n                                \n                                  pp.\n                                  3841\n                                  – 3852",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "This paper argues that the interplay of water, carbon and vegetation dynamics fundamentally links some global trends in the current and conceivable future Anthropocene, such as cropland expansion, freshwater use, and climate change and its impacts. Based on a review of recent literature including geographically explicit simulation studies with the process-based LPJmL global biosphere model, it demonstrates that the connectivity of water and vegetation dynamics is vital for water security, food security and (terrestrial) ecosystem dynamics alike. The water limitation of net primary production of both natural and agricultural plants – already pronounced in many regions – is shown to increase in many places under projected climate change, though this development is partially offset by water-saving direct CO2 effects. Natural vegetation can to some degree adapt dynamically to higher water limitation, but agricultural crops usually require some form of active management to overcome it – among them irrigation, soil conservation and eventually shifts of cropland to areas that are less water-limited due to more favourable climatic conditions. While crucial to secure food production for a growing world population, such human interventions in water–vegetation systems have, as also shown, repercussions on the water cycle. Indeed, land use changes are shown to be the second-most important influence on the terrestrial water balance in recent times. Furthermore, climate change (warming and precipitation changes) will in many regions increase irrigation demand and decrease water availability, impeding rainfed and irrigated food production (if not CO2 effects counterbalance this impact – which is unlikely at least in poorly managed systems). Drawing from these exemplary investigations, some research perspectives on how to further improve our knowledge of human–water–vegetation interactions in the Anthropocene are outlined.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/17/3841/2013/hess-17-3841-2013.pdf"
+  },
+  {
+    "title": "El diario de Ana: una historia de futuros sobre el cambio climático y la crisis ambiental",
+    "authors": [
+      "Laura García Capurro"
+    ],
+    "doi": "Vol. 0,\n                                no. 5\n                                \n                                  pp.\n                                  171\n                                  – 179",
+    "issn": "1696-2060 (Print)",
+    "publisher": "Asociación de Historia Actual",
+    "countryOfPublisher": "Spain",
+    "lcc": [
+      "History (General) and history of Europe: History (General)"
+    ],
+    "journalUrl": "http://www.historia-actual.org/Publicaciones/index.php/haol/index",
+    "abstract": "Este texto sintetiza, recurriendo a la metáfora, un trabajo científico de prospectiva referido a los futuros del cambio climático, en el que los posibles escenarios futuros se desarrollan, de forma innovadora, en una secuencia cronológica continua. El artículo no pretende predecir el futuro, sino ofrecer uno de los posibles itinerarios de lo que podría ocurrir, recurriendo a una historia-ficción contada por los miembros de una familia marcada por su preocupación por la supervivencia del Planeta. La temática gira en torno al cambio climático que estamos viviendo en la actualidad y que podría tener nefastas consecuencias en un futuro no muy lejano, haciendo hincapié en el carácter social, y también global, de esta problemática, ya que se ven afectados todos los ámbitos de la vida en la Tierra. Se concluye que \"otro mundo es posible\", pero también, y por ello, que \"otra sociedad es posible\".____________ABSTRACT:This text summarizes, using the metaphor, a scientific paper referred to the future prospects of climate change, in which possible future scenarios are developed, in an innovative way, in a continuous chronological sequence. It is not intended to predict the future, but to offer one possible vision of what might happen, using a fiction story developed by the members of a family marked by its concern for the survival of the planet. The theme is about the climate change we are experiencing at present and that could have dire consequences in a future not too far, emphasizing the social and global character of this problem as it affects all areas of life on Earth. It concludes that \"another world is possible\", and so that \"another society is possible.\"",
+    "readLink": "http://historia-actual.org/Publicaciones/index.php/haol/article/view/71"
+  },
+  {
+    "title": "Kicking the Habit",
+    "authors": [
+      "Max Crumley-Effinger,",
+      "Blanca Torres-Olave"
+    ],
+    "doi": "https://doi.org/10.32674/jis.v11iS1.3845",
+    "journalVolume": "Vol. 11,\n                                no. S1",
+    "issn": "2162-3104 (Print)",
+    "publisher": "2166-3750 (Online)",
+    "countryOfPublisher": "Journal of International Students",
+    "lcc": [
+      "United States",
+      "Education: Special aspects of education"
+    ],
+    "journalUrl": "http://ojed.org/index.php/jis/index",
+    "abstract": "Examining the hypermobility of many “elite” academic workers, this article situates mobility within the context of higher education and sustainability, decoloniality, and institutionalized expectations for academic travel. The mobility of HEI workers is described in relation to Anthropogenic climate change (ACC), which highlights the need for: (a) critical examination of and responses to the carbon footprint of academic workers; (b) exerting pressure to reduce greenhouse gas (GHG) production associated with expected mobility; and (c) deliberate changes to professional mobility approaches that take into account issues of equity vis-à-vis knowledge production, the effects of ACC, and GHG production from academic air travel. We offer an instrument—in the form of queries—to provide starting points for individual deliberations and collective actions to begin addressing these three issue areas.",
+    "readLink": "https://www.ojed.org/index.php/jis/article/view/3845"
+  },
+  {
+    "title": "Discourses of climate delay",
+    "authors": [
+      "William F. Lamb,",
+      "Giulio Mattioli,",
+      "Sebastian Levi,",
+      "J. Timmons Roberts,",
+      "Stuart Capstick,",
+      "Felix Creutzig,",
+      "Jan C. Minx,",
+      "Finn Müller-Hansen,",
+      "Trevor Culhane,",
+      "Julia K. Steinberger"
+    ],
+    "doi": "https://doi.org/10.1017/sus.2020.13",
+    "journalVolume": "Vol. 3",
+    "issn": "2059-4798 (Online)",
+    "publisher": "Cambridge University Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/global-sustainability",
+    "abstract": "‘Discourses of climate delay’ pervade current debates on climate action. These discourses accept the existence of climate change, but justify inaction or inadequate efforts. In contemporary discussions on what actions should be taken, by whom and how fast, proponents of climate delay would argue for minimal action or action taken by others. They focus attention on the negative social effects of climate policies and raise doubt that mitigation is possible. Here, we outline the common features of climate delay discourses and provide a guide to identifying them.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S2059479820000137/type/journal_article"
+  },
+  {
+    "title": "Exceedance and Return Period of High Temperature in the African Region",
+    "authors": [
+      "Alemtsehai  A. Turasie"
+    ],
+    "doi": "https://doi.org/10.3390/cli9040053",
+    "journalVolume": "Vol. 9,\n                                no. 53\n                                \n                                  p.\n                                  53",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Several studies have indicated that the social, economic and other impacts of global warming can be linked with changes in the frequency and intensity of extreme weather/climate events. Developing countries, particularly in the African region, are highly affected by extreme events such as high temperature, usually followed/accompanied by drought. Therefore, studying the probability of occurrence and return period of extreme temperatures, and possible change in these parameters, is of high importance for climate-related policy making and preparedness works in the region. This study aims to address these issues by assessing probability of exceedance and return period of extremes in annual maximum and annual mean temperatures. The analyses of historical data in this study showed that extremes in both annual maximum and mean temperature are highly likely to be exceeded more often in the future compared to the past. For the extreme event marker (threshold) defined in this study, probability of 3 exceedances in the following 19 years (for instance), at any gridpoint, is estimated to be at least 10% for extremes in annual maxima and at least 15% for those in annual means. Most places in the region, however, have much higher (up to 20%) probability of exceedance. The estimated probability of exceedance has shown increasing tendency with time. Return period, based on the most recent data, of extremes in annual maximum temperature is found to be less than 6.5 years at about 48% of the gridpoints in the region. Similarly, return period of extremes in annual mean temperature is estimated to be less than 5.5 years at about 82% of places in the region. These estimates have also shown a strong tendency of getting shorter as time goes on. On average, extremes in annual mean temperature were found to have shorter return periods (4–7 years) compared to those in annual maximum temperature (6–10 years), at 95% confidence. The empirical results presented in this study are generally in agreement with IPCC’s projections of increased warming trend. This data-driven, robust method is used in the present study and the results can also be considered as an alternative approach for detecting changes in climate via estimating and assessing possible changes in frequency of extreme events with time.",
+    "readLink": "https://www.mdpi.com/2225-1154/9/4/53"
+  },
+  {
+    "title": "Landscape-scale characterization of Arctic tundra vegetation composition, structure, and function with a multi-sensor unoccupied aerial system",
+    "authors": [
+      "Dedi Yang,",
+      "Bailey D Morrison,",
+      "Wouter Hantson,",
+      "Amy L Breen,",
+      "Andrew McMahon,",
+      "Qianyu Li,",
+      "Verity G Salmon,",
+      "Daniel J Hayes,",
+      "Shawn P Serbin"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac1291",
+    "journalVolume": "Vol. 16,\n                                no. 8\n                                \n                                  p.\n                                  085005",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The Arctic is experiencing some of the most rapid climate change on Earth, with strong impacts on tundra ecosystems that are characterized by high land-surface and vegetation heterogeneity. Previous studies have explored this complexity using satellite remote sensing, however these typically coarse spatial resolution data have generally missed sub-pixel heterogeneity, leaving critical gaps in our understanding of tundra vegetation dynamics from the community to landscape scales. To address these gaps, we collected very high-resolution (1–5 cm) optical, structural, and thermal data at three low-Arctic tundra sites on the Seward Peninsula, Alaska, using a multi-sensor unoccupied aerial system (UAS). We examined the application of these data to studying tundra vegetation dynamics, by quantifying (a) canopy height and thermoregulation (leaf–air temperature) of representative plant functional types (PFTs), (b) fine-scale patterns of vegetation composition across landscapes, and (c) impacts of fine-scale vegetation composition on landscape-scale variation of canopy height and thermoregulation. Our results show that deciduous tall shrubs (those that can potentially grow >2 m) had a strong cooling effect, with canopy temperatures significantly lower than local air temperatures and other PFTs. Increased cover of tall shrubs also had the potential to reduce the cover of low-stature PFTs across the landscape, potentially associated with their closed canopy (i.e. increased light competition) and strong thermoregulation. To understand the connections between fine-scale vegetation composition and large-scale ecosystem processes, we produced a random forest model which showed that fine-scale PFT composition accounted for 86.8% and 74.2% of the landscape-scale variation in canopy height and thermoregulation, respectively. These findings highlight the importance of spatially detailed characterization of tundra PFTs to improve our ecological understanding and model representation of tundra vegetation, also transcend our study to show the need for continued collection of similar datasets to better understand the impacts of surface heterogeneity on the mapping and modeling of tundra ecosystem dynamics, as well as assist with conservation management and biodiversity monitoring strategies.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac1291"
+  },
+  {
+    "title": "The Implementation of the Precautionary Principle in Nuclear Safety Regulation: Challenges and Prospects",
+    "authors": [
+      "Miaomiao Yin,",
+      "Keyuan Zou"
+    ],
+    "doi": "https://doi.org/10.3390/su132414033",
+    "journalVolume": "Vol. 13,\n                                no. 14033\n                                \n                                  p.\n                                  14033",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The precautionary principle has been implemented in many fields including environment protection, biological diversity, and climate change. In the field of international nuclear safety regulation, the implementation of this principle is in an ongoing process. Since Japan declared to discharge Fukushima nuclear waste water into the ocean, the precautionary principle was put on the stage, and some debates are invoked on it. As is observed by this article, the precautionary principle has not been effectively implemented in nuclear safety regulation, specifically in nuclear safety law making, law enforcement, and judicial application. The reasons can be found from two main challenges: indeterminacy of perceived risk level required to justify precautionary action and hard balance of national interest and community interest in nuclear safety. In a long-term perspective, the framework of international nuclear safety regulation has to respond to these challenges, both by clarifying the precautionary principle in legal binding nuclear safety documents and moving towards a more transparent, fair, and effective enforcement regime in order to promote safer, more sustainable, and efficient civilian nuclear utilization around the world.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/24/14033"
+  },
+  {
+    "title": "First case of community acquired giardiasis in Nuuk, Greenland",
+    "authors": [
+      "Astrid Thomas,",
+      "Heidi L Enemark,",
+      "Peter Mogens Poulsen,",
+      "Michael Lynge Pedersen"
+    ],
+    "doi": "https://doi.org/10.1080/22423982.2021.1954363",
+    "journalVolume": "Vol. 80,\n                                no. 1",
+    "issn": "2242-3982 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Internal medicine: Special situations and conditions: Arctic medicine. Tropical medicine"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/zich",
+    "abstract": "We report a case of community acquired giardiasis, in Nuuk, Greenland. Likely source of infection being consumption of untreated water from a local reservoir, alternatively through contact with sewage. Giardia is widespread worldwide but has not commonly been considered a cause of gastrointestinal distress in patients in Greenland, without relevant travel history. This may be due to under diagnosis, or historically low prevalence of Giardia in the region. Climate change with increasing temperatures, growing tourism and pet travel may influence the presence of Giardia in the region. This case highlights the need to include giardiasis as a differential diagnosis in patients presenting with suspected infectious gastroenteritis in Greenland.",
+    "readLink": "http://dx.doi.org/10.1080/22423982.2021.1954363"
+  }
+]

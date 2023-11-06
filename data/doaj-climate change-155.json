@@ -1,0 +1,204 @@
+[
+  {
+    "title": "An Experimental Study on Mechanisms for Sediment Transformation Due to Riverbank Collapse",
+    "authors": [
+      "Anping Shu,",
+      "Guosheng Duan,",
+      "Matteo Rubinato,",
+      "Lu Tian,",
+      "Mengyao Wang,",
+      "Shu Wang"
+    ],
+    "doi": "https://doi.org/10.3390/w11030529",
+    "journalVolume": "Vol. 11,\n                                no. 3\n                                \n                                  p.\n                                  529",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Riverbank erosion is a natural process in rivers that can become exacerbated by direct and indirect human impacts. Unfortunately, riverbank degradation can cause societal impacts such as property loss and sedimentation of in-stream structures, as well as environmental impacts such as water quality impact. The frequency, magnitude, and impact of riverbank collapse events in China and worldwide are forecasted to increase under climate change. To understand and mitigate the risk of riverbank collapse, experimental/field data in real conditions are required to provide robust calibration and validation of hydraulic and mathematical models. This paper presents an experimental set of tests conducted to characterize riverbank erosion and sediment transport for banks with slopes of 45°, 60°, 75°, and 90° and quantify the amount of sediments transported by the river, deposited within the bank toe or settled in the riverbed after having been removed due to erosion. The results showed interesting comprehension about the characterization of riverbank erosion and sediment transport along the river. These insights can be used for calibration and validation of new and existing numerical models.",
+    "readLink": "http://www.mdpi.com/2073-4441/11/3/529"
+  },
+  {
+    "title": "Using the combined gene approach and multiple analytical methods to improve the phylogeny and classification of Bombus (Hymenoptera, Apidae) in China",
+    "authors": [
+      "Liu-Hao Wang,",
+      "Shan Liu,",
+      "Yu-Jie Tang,",
+      "Yan-Ping Chen,",
+      "Jie Wu,",
+      "Ji-Lian Li"
+    ],
+    "doi": "https://doi.org/10.3897/zookeys.1007.34105",
+    "journalVolume": "Vol. 1007\n                                \n                                \n                                  pp.\n                                  1\n                                  – 21",
+    "issn": "1313-2989 (Print)",
+    "publisher": "1313-2970 (Online)",
+    "countryOfPublisher": "Pensoft Publishers",
+    "lcc": [
+      "Bulgaria",
+      "Science: Zoology"
+    ],
+    "journalUrl": "http://zookeys.pensoft.net/",
+    "abstract": "Bumble bees are vital to our agro-ecological system, with approximately 250 species reported around the world in the single genus Bombus. However, the health of bumble bees is threatened by multiple factors: habitat loss, climate change, pesticide use, and disease caused by pathogens and parasites. It is therefore vitally important to have a fully developed phylogeny for bumble bee species as part of our conservation efforts. The purpose of this study was to explore the phylogenetic relationships of the dominant bumble bees on the Tibetan plateau and in northern China as well as their placement and classification within the genus Bombus. The study used combined gene analysis consisting of sequence fragments from six genes, 16S rRNA, COI, EF-1α, Argk, Opsin and PEPCK, and the phylogenetic relationships of 209 Bombus species were explored. Twenty-six species, including 152 gene sequences, were collected from different regions throughout China, and 1037 gene sequences representing 183 species were obtained from GenBank or BOLD. The results suggest that the 209 analyzed species belong to fifteen subgenera and that most of the subgenera in Bombus are monophyletic, which is in accordance with conventional morphology-based classifications. The phylogenetic trees also show that nearly all subgenera easily fall into two distinct clades: short-faced and long-faced. The study is the first to investigate the phylogenetic placement of Bombus turneri (Richards), Bombus opulentus Smith, Bombus pyrosoma Morawitz, Bombus longipennis Friese, Bombus minshanensis Bischoff, and Bombus lantschouensis Vogt, all of which are widely distributed throughout different regions of China. The knowledge and understanding gained from the findings can provide a molecular basis to accurately classify Bombus in China and to define strategies to conserve biodiversity and promote pollinator populations.",
+    "readLink": "https://zookeys.pensoft.net/article/34105/download/pdf/"
+  },
+  {
+    "title": "Remote Sensing Grassland Productivity Attributes: A Systematic Review",
+    "authors": [
+      "Tsitsi Bangira,",
+      "Onisimo Mutanga,",
+      "Mbulisi Sibanda,",
+      "Timothy Dube,",
+      "Tafadzwanashe Mabhaudhi"
+    ],
+    "doi": "https://doi.org/10.3390/rs15082043",
+    "journalVolume": "Vol. 15,\n                                no. 2043\n                                \n                                  p.\n                                  2043",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "A third of the land on the Earth is composed of grasslands, mainly used for forage. Much effort is being conducted to develop tools to estimate grassland productivity (GP) at different extents, concentrating on spatial and seasonal variability pertaining to climate change. GP is a reliable indicator of how well an ecosystem works because of its close connection to the ecological system equilibrium. The most commonly used proxies of GP in ecological studies are aboveground biomass (AGB), leaf area index (LAI), canopy storage capacity (CSC), and chlorophyll and nitrogen content. Grassland science gains much information from the capacity of remote sensing (RS) techniques to calculate GP proxies. An overview of the studies on RS-based GP prediction techniques and a discussion of current matters determining GP monitoring are critical for improving future GP prediction performance. A systematic review of articles published between 1970 and October 2021 (203 peer-reviewed articles from Web of Science, Scopus, and DirectScience databases) showed a trend in the choice of the sensors, and the approaches to use are largely dependent on the extent of monitoring and assessment. Notably, all the reviewed articles demonstrate the growing demand for high-resolution sensors, such as hyperspectral scanners and computationally efficient image-processing techniques for the high prediction accuracy of GP at various scales of application. Further research is required to attract the synthesis of optical and radar data, multi-sensor data, and the selection of appropriate techniques for GP prediction at different scales. Mastering and listing major uncertainties associated with different algorithms for the GP prediction and pledging to reduce these errors are critical.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/8/2043"
+  },
+  {
+    "title": "Deep learning of sea-level variability and flood for coastal city resilience",
+    "authors": [
+      "Omid Memarian Sorkhabi,",
+      "Behnaz Shadmanfar,",
+      "Mohammed M. Al-Amidi"
+    ],
+    "doi": "Vol. 17\n                                \n                                \n                                  p.\n                                  100098",
+    "issn": "2590-2520 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/city-and-environment-interactions",
+    "abstract": "Due to climate change, it is important to study the relationship between floods and sea-level rise in coastal city resilience. In this research sea surface temperature (SST) from MODIS, wind speed, precipitation, and sea-level rise from satellite altimetry are investigated for dynamic sea-level variability. An annual SST increase of 0.1C° is observed around the Gothenburg coast. Also in the middle of the North Sea, an annual increase of about 0.2C° is evident. The annual sea surface height (SSH) trend is 3 mm on the Gothenburg coast. We have a strong positive spatial correlation between SST and SSH near the Gothenburg coast. In the next step, dynamic sea-level variability is predicted with a convolution neural network and long short term memory. Root mean square error of wind speed, precipitation, SST, and mean sea-level forecasts are ±0.84 m/s, ±48.75 mm, ±3.48C° and ±24 mm, respectively. The 5-year trends of mean seal level show a significant increase from 28 mm/year to 46 mm/year in the last 5 year periods and the rate of increase has doubled. In the final step, the water rise of 5–10 m in Gothenburg city was simulated, and in the worst scenario, more than 50 % of the city will be damaged.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2590252022000204"
+  },
+  {
+    "title": "Spatial Analysis of the Impact of Flood and Drought on Food Security Index",
+    "authors": [
+      "A. C. T. Rosalia, Suryanto and L. Hakim"
+    ],
+    "doi": "https://doi.org/10.46488/NEPT.2021.v20i02.031",
+    "journalVolume": "Vol. 20,\n                                no. 2\n                                \n                                  pp.\n                                  721\n                                  – 727",
+    "issn": "0972-6268 (Print)",
+    "publisher": "2395-3454 (Online)",
+    "countryOfPublisher": "Technoscience Publications",
+    "lcc": [
+      "India",
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://neptjournal.com",
+    "abstract": "This research aims to spatially analyze the impacts of climate change, specifically flood and drought on the level of food security in the Bengawan Solo watershed. Agriculture is one of the sectors that is significantly affected by the phenomenon. Flood and drought disrupt agricultural productivity, resulting in farmers having difficulty accessing their livelihoods. This has the potential to threaten food security. This research was conducted in the Bengawan Solo watershed which flows through three provinces on the island of Java. Widespread watersheds and inadequate infrastructure make it difficult to monitor so that the areas through which rivers flow are vulnerable to flood and drought. The impact of these climate-related problems on food availability makes this research important. This research was started with the calculation of the food security index in each regency/city in the Bengawan Solo watershed regions and mapped it with a Geographic Information System (GIS). The step then proceeded to the impact assessment of flood and drought on food security using the quantitative method of panel data regression in the 2014-2018 period. To sum up, flood and drought contributed in a negative way to the level of food security. Information about food security is useful in planning the allocation of resources by the government. Therefore, efforts to strengthen food security can be more directed according to the needs.",
+    "readLink": "https://neptjournal.com/upload-images/(31)B-1139.pdf"
+  },
+  {
+    "title": "Effect of Moringa oleifera biodiesel–diesel–carbon black water emulsion blends in diesel engine characteristics",
+    "authors": [
+      "Selvakumar Ramalingam,",
+      "Babu Dharmalingam,",
+      "R. Deepakkumar,",
+      "Malinee Sriariyanun"
+    ],
+    "doi": "Vol. 8\n                                \n                                \n                                  pp.\n                                  9598\n                                  – 9609",
+    "issn": "2352-4847 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/energy-reports/",
+    "abstract": "Day to day fuel prices is getting increased due to fossil fuel depletion, industrialization, and technological development. However, more utilization of fossil in industries has caused environmental pollution and climate change. Hence, the present research work investigates the impact of Moringa oleifera biodiesel–diesel–carbon black water emulsion blends in diesel engine characteristics. The test was carried out on a conventional diesel under loads. B20, B60, B20–D75–CBWE5, B60–D35–CBWE5, and B95–CBWE5​ were chosen for further engine research based on their fuel properties remaining blends were eliminated. Experimental studies reveal that the B20–D75–CBWE5 mixture has the lowest BSFC of 0.381 kg/kWh and the highest BTE of 25.9% compared to other blends. However, as compared to other fuel blends, B100 has the highest BSFC, and that was reduced by dropping biodiesel blends in emulsion fuel to 20%. Also, the B100 produces the least carbon monoxide, nitric oxide, and unburned hydrocarbon emissions at full load. Similarly, the B20 blend produces the least NO emission of 746 ppm, which was 31% less than diesel. The use of moringa oleifera biodiesel–diesel–carbon emulsion mixtures in a diesel engine results in slightly different combustion parameters including ignition delay period, rate of pressure rise, net heat release rate, and peak pressure as well as significant reduction. Moringa oleifera carbon black water emulsion blends have similar combustion, emission, and performance characteristics to conventional diesel, and biodiesel blends with a small content of carbon black could help to control the air pollution, without sacrificing engine power, economy and emissions.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352484722014135"
+  },
+  {
+    "title": "Factors Determining the Adoption of Strategies Used by Smallholder Farmers to Cope with Climate Variability in the Eastern Free State, South Africa",
+    "authors": [
+      "Lindumusa Myeni,",
+      "Mokhele Edmond Moeletsi"
+    ],
+    "doi": "https://doi.org/10.3390/agriculture10090410",
+    "journalVolume": "Vol. 10,\n                                no. 410\n                                \n                                  p.\n                                  410",
+    "issn": "2077-0472 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agriculture",
+    "abstract": "This study was undertaken to understand the smallholder farmer’s perception of the effects of climate variability, their adaptation strategies to cope with climate variability and factors determining the adoption of their adaptation strategies in the eastern Free State Province of South Africa. Adaptation strategies were grouped into two categories, i.e., traditional adaptation strategies and scientific adaptation strategies. Traditional adaptation strategies consisted of practices that require minimal technical expertise and less external inputs such as changing from crops to livestock, crop diversification, increasing land under production, changing crop type and water harvesting. Scientific adaptation strategies consisted of practices that require additional external inputs, labour, and some level of technical expertise such as changing crop variety, improving soil fertility and soil conservation. Data were collected from 391 smallholder farmers using a structured household questionnaire and were verified through focus group discussion meetings with key informants. Data were analysed using the descriptive statistics, frequency analysis and a binary logistic model. Results indicated that the majority of smallholder farmers perceived that climate change had triggered food-related impacts in the study area and had adopted at least one adaptation strategy. This study showed that awareness and knowledge were the key factors that determined the adoption of traditional adaptation strategies in the study area. The adoption of scientific adaptation strategies was additionally determined by the availability of external financial investments. It is recommended that the promotion of traditional practices should focus on raising awareness of climate change and adaptation strategies while the promotion of scientific practices additionally requires the provision and accessibility of financial institutional support and incentives.",
+    "readLink": "https://www.mdpi.com/2077-0472/10/9/410"
+  },
+  {
+    "title": "Climate Change and Macro Prices in Nigeria: A Nonlinear Analysis",
+    "authors": [
+      "Victoria  Foye"
+    ],
+    "doi": "https://doi.org/10.26493/1854-6935.20.167-203",
+    "journalVolume": "Vol. 20,\n                                no. 2",
+    "issn": "1581-6311 (Print)",
+    "publisher": "1854-6935 (Online)",
+    "countryOfPublisher": "University of Primorska",
+    "lcc": [
+      "Slovenia",
+      "Social Sciences: Industries. Land use. Labor: Economic growth, development, planning"
+    ],
+    "journalUrl": "http://www.mgt.fm-kp.si",
+    "abstract": "The study analyses the impacts of climate change on macro prices (food prices, interest rate, and exchange rate). Secondary data from 1960–2019 are used, and the nonlinear autoregressive distributed lag method is employed accordingly. The results reveal that there is a long-run relationship among the variables employed. In addition, asymmetry only exists between food prices and exchange rate in the short run while it only subsists for all macro prices, except interest rate as a dependent variable, in the long run. Also, the relative effects of climate change on macro prices grade food prices with the highest effect. In fact, the continual need for climate policies in both financial and real sectors to douse the effect of climate change on macro prices cannot be overemphasised. Therefore, this study recommends that the Nigerian government and policymakers should ratify and pursue policy initiatives and strategies based on both negative and positive changes in macro prices.",
+    "readLink": "https://ojs.upr.si/index.php/fm/article/view/77"
+  },
+  {
+    "title": "Grazing effects on intraspecific trait variability vary with changing precipitation patterns in Mongolian rangelands",
+    "authors": [
+      "Birgit Lang,",
+      "Julian Ahlborn,",
+      "Munkhzuul Oyunbileg,",
+      "Anna Geiger,",
+      "Henrik vonWehrden,",
+      "Karsten Wesche,",
+      "Batlai Oyuntsetseg,",
+      "Christine Römermann"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.5895",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  pp.\n                                  678\n                                  – 691",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Functional traits are proxies for plant physiology and performance, which do not only differ between species but also within species. In this work, we hypothesized that (a) with increasing precipitation, the percentage of focal species which significantly respond to changes in grazing intensity increases, while under dry conditions, climate‐induced stress is so high that plant species hardly respond to any changes in grazing intensity and that (b) the magnitude with which species change their trait values in response to grazing, reflected by coefficients of variation (CVs), increases with increasing precipitation. Chosen plant traits were canopy height, plant width, specific leaf area (SLA), chlorophyll fluorescence, performance index, stomatal pore area index (SPI), and individual aboveground biomass of 15 species along a precipitation gradient with different grazing intensities in Mongolian rangelands. We used linear models for each trait to assess whether the percentage of species that respond to grazing changes along the precipitation gradient. To test the second hypothesis, we assessed the magnitude of intraspecific trait variability (ITV) response to grazing, per species, trait, and precipitation level by calculating CVs across the different grazing intensities. ITV was most prominent for SLA and SPI under highest precipitation, confirming our first hypothesis. Accordingly, CVs of canopy height, SPI, and SLA increased with increasing precipitation, partly confirming our second hypothesis. CVs of the species over all traits increased with increasing precipitation only for three species. This study shows that it remains challenging to predict how plant performance will shift under changing environmental conditions based on their traits alone. In this context, the implications for the use of community‐weighted mean trait values are discussed, as not only species abundances change in response to changing environmental conditions, but also values of traits considerably change. Including this aspect in further studies will improve our understanding of processes acting within and among communities.",
+    "readLink": "https://doi.org/10.1002/ece3.5895"
+  },
+  {
+    "title": "Baseline scenarios of heat-related ambulance transportations under climate change in Tokyo, Japan",
+    "authors": [
+      "Marie Fujimoto,",
+      "Hiroshi Nishiura"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.13838",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  p.\n                                  e13838",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background Predictive scenarios of heatstroke over the long-term future have yet to be formulated. The purpose of the present study was to generate baseline scenarios of heat-related ambulance transportations using climate change scenario datasets in Tokyo, Japan. Methods Data on the number of heat-related ambulance transportations in Tokyo from 2015 to 2019 were examined, and the relationship between the risk of heat-related ambulance transportations and the daily maximum wet-bulb globe temperature (WBGT) was modeled using three simple dose–response models. To quantify the risk of heatstroke, future climatological variables were then retrieved to compute the WBGT up to the year 2100 from climate change scenarios (i.e., RCP2.6, RCP4.5, and RCP8.5) using two scenario models. The predicted risk of heat-related ambulance transportations was embedded onto the future age-specific projected population. Results The proportion of the number of days with a WBGT above 28°C is predicted to increase every five years by 0.16% for RCP2.6, 0.31% for RCP4.5, and 0.68% for RCP8.5. In 2100, compared with 2000, the number of heat-related ambulance transportations is predicted to be more than three times greater among people aged 0–64 years and six times greater among people aged 65 years or older. The variance of the heatstroke risk becomes greater as the WBGT increases. Conclusions The increased risk of heatstroke for the long-term future was demonstrated using a simple statistical approach. Even with the RCP2.6 scenario, with the mildest impact of global warming, the risk of heatstroke is expected to increase. The future course of heatstroke predicted by our approach acts as a baseline for future studies.",
+    "readLink": "https://peerj.com/articles/13838.pdf"
+  }
+]

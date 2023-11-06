@@ -1,0 +1,235 @@
+[
+  {
+    "title": "Thermokarst Lake Susceptibility Assessment Induced by Permafrost Degradation in the Qinghai–Tibet Plateau Using Machine Learning Methods",
+    "authors": [
+      "Rui Wang,",
+      "Lanlan Guo,",
+      "Yuting Yang,",
+      "Hao Zheng,",
+      "Lianyou Liu,",
+      "Hong Jia,",
+      "Baijian Diao,",
+      "Jifu Liu"
+    ],
+    "doi": "https://doi.org/10.3390/rs15133331",
+    "journalVolume": "Vol. 15,\n                                no. 3331\n                                \n                                  p.\n                                  3331",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The rapidly warming climate on the Qinghai–Tibet Plateau (QTP) leads to permafrost degradation, and the thawing of ice-rich permafrost induces land subsidence to facilitate the development of thermokarst lakes. Thermokarst lakes exacerbate the instability of permafrost, which significantly alters regional geomorphology and hydrology, affecting biogeochemical cycles. However, the spatial distribution and future changes in thermokarst lakes have rarely been assessed at large scales. In this study, we combined various conditioning factors and an inventory of thermokarst lakes to assess the spatial distribution of susceptibility maps using machine-learning algorithms. The results showed that the extremely randomized trees (EXT) performed the best in the susceptibility modeling process, followed by random forest (RF) and logistic regression (LR). According to the assessment based on EXT, the high- and very high-susceptibility area of the present (2000–2016) susceptibility map was 196,222 km2, covering 19.67% of the permafrost region of the QTP. In the future (the 2070s), the area of the susceptibility map was predicted to shrink significantly under various representative concentration pathway scenarios (RCPs). The susceptibility map area would be reduced to 37.06% of the present area in RCP 8.5. This paper also performed correlation and importance analysis on the conditioning factors and thermokarst lakes, which indicated that thermokarst lakes tended to form in areas with flat topography and high soil moisture. The uncertainty of the susceptibility map was further assessed by the coefficient of variation (CV). Our results demonstrate a way to study the spatial distribution of thermokarst lakes at the QTP scale and provide a scientific basis for understanding thermokarst processes in response to climate change.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/13/3331"
+  },
+  {
+    "title": "System Dynamics Approach for Assessing the Behaviour of the Lim Reservoir System (Serbia) under Changing Climate Conditions",
+    "authors": [
+      "Milan Stojkovic,",
+      "Slobodan  P. Simonovic"
+    ],
+    "doi": "https://doi.org/10.3390/w11081620",
+    "journalVolume": "Vol. 11,\n                                no. 8\n                                \n                                  p.\n                                  1620",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Investigating the impact of climate change on the management of a complex multipurpose water system is a critical issue. The presented study focuses on different steps of the climate change impact analysis process: (i) Use of three regional climate models (RCMs), (ii) use of four bias correction methods (BCMs), (iii) use of three concentration scenarios (CSs), (iv) use of two model averaging procedures, (v) use of the hydrological model and (vi) use of the system dynamics simulation model (SDSM). The analyses are performed for a future period, from 2006 to 2055 and the reference period, from 1971 to 2000. As a case study area, the Lim water system in Serbia (southeast Europe) is used. The Lim river system consists of four hydraulically connected reservoirs (Uvac, Kokin Brod, Radojnja, Potpec) with a primary purpose of hydropower generation. The results of the climate change impact analyses indicate change in the future hydropower generation at the annual level from −3.5% to +17.9%. The change has a seasonal variation with an increase for the winter season up to +20.3% and decrease for the summer season up to −33.6%. Furthermore, the study analyzes the uncertainty in the SDSM outputs introduced by different steps of the modelling process. The most dominant source of uncertainty in power production is the choice of BCMs (54%), followed by the selection of RCMs (41%). The least significant source of uncertainty is the choice of CSs (6%). The uncertainty in the inflows and outflows is equally dominated by the choice of BCM (49%) and RCM (45%).",
+    "readLink": "https://www.mdpi.com/2073-4441/11/8/1620"
+  },
+  {
+    "title": "The Alberta smoke plume observation study",
+    "authors": [
+      "K. Anderson,",
+      "A. Pankratz,",
+      "C. Mooney,",
+      "K. Fleetham"
+    ],
+    "doi": "https://doi.org/10.5194/essd-10-325-2018",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  325\n                                  – 337",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "A field project was conducted to observe and measure smoke plumes from wildland fires in Alberta. This study used handheld inclinometer measurements and photos taken at lookout towers in the province. Observations of 222 plumes were collected from 21 lookout towers over a 6-year period from 2010 to 2015. Observers reported the equilibrium and maximum plume heights based on the plumes' final levelling heights and the maximum lofting heights, respectively. Observations were tabulated at the end of each year and matched to reported fires. Fire sizes at assessment times and forest fuel types were reported by the province. Fire weather conditions were obtained from the Canadian Wildland Fire Information System (CWFIS). Assessed fire sizes were adjusted to the appropriate size at plume observation time using elliptical fire-growth projections. Though a logical method to collect plume observations in principle, many unanticipated issues were uncovered as the project developed. Instrument limitations and environmental conditions presented challenges to the investigators, whereas human error and the subjectivity of observations affected data quality. Despite these problems, the data set showed that responses to fire behaviour conditions were consistent with the physical processes leading to plume rise. The Alberta smoke plume observation study data can be found on the Canadian Wildland Fire Information System datamart (Natural Resources Canada, 2018) at http://cwfis.cfs.nrcan.gc.ca/datamart.",
+    "readLink": "https://www.earth-syst-sci-data.net/10/325/2018/essd-10-325-2018.pdf"
+  },
+  {
+    "title": "Estimation of Aboveground Biomass in Agroforestry Systems over Three Climatic Regions in West Africa Using Sentinel-1, Sentinel-2, ALOS, and GEDI Data",
+    "authors": [
+      "Dan Kanmegne Tamga,",
+      "Hooman Latifi,",
+      "Tobias Ullmann,",
+      "Roland Baumhauer,",
+      "Jules Bayala,",
+      "Michael Thiel"
+    ],
+    "doi": "https://doi.org/10.3390/s23010349",
+    "journalVolume": "Vol. 23,\n                                no. 349\n                                \n                                  p.\n                                  349",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Agroforestry systems (AFS) offer viable solutions for climate change because of the aboveground biomass (AGB) that is maintained by the tree component. Therefore, spatially explicit estimation of their AGB is crucial for reporting emission reduction efforts, which can be enabled using remote sensing (RS) data and methods. However, multiple factors including the spatial distributions within the AFS, their structure, their composition, and their variable extents hinder an accurate RS-assisted estimation of the AGB across AFS. The aim of this study is to (i) evaluate the potential of spaceborne optical, SAR and LiDAR data for AGB estimations in AFS and (ii) estimate the AGB of different AFS in various climatic regions. The study was carried out in three climatic regions covering Côte d’Ivoire and Burkina Faso. Two AGB reference data sources were assessed: (i) AGB estimations derived from field measurements using allometric equations and (ii) AGB predictions from the GEDI level 4A (L4A) product. Vegetation indices and texture parameters were generated from optical (Sentinel-2) and SAR data (Sentinel-1 and ALOS-2) respectively and were used as predictors. Machine learning regression models were trained and evaluated by means of the coefficient of determination (R2) and the RMSE. It was found that the prediction error was reduced by 31.2% after the stratification based on the climatic conditions. For the AGB prediction, the combination of random forest algorithm and Sentinel-1 and -2 data returned the best score. The GEDI L4A product was applicable only in the Guineo-Congolian region, but the prediction error was approx. nine times higher than the ground truth. Moreover, the AGB level varied across AFS including cocoa (7.51 ± 0.6 Mg ha−1) and rubber (7.33 ± 0.33 Mg ha−1) in the Guineo-Congolian region, cashew (13.78 ± 0.98 Mg ha−1) and mango (12.82 ± 0.65 Mg ha−1) in the Guinean region. The AFS farms in the Sudanian region showed the highest AGB level (6.59 to 82.11 Mg ha−1). AGB in an AFS was mainly determined by the diameter (R2 = 0.45), the height (R2 = 0.13) and the tree density (R2 = 0.10). Nevertheless, RS-based estimation of AGB remain challenging because of the spectral similarities between AFS. Therefore, spatial assessment of the prediction uncertainties should complement AGB maps in AFS.",
+    "readLink": "https://www.mdpi.com/1424-8220/23/1/349"
+  },
+  {
+    "title": "Passive soil heating using an inexpensive infrared mirror design – a proof of concept",
+    "authors": [
+      "C. Rasmussen,",
+      "R. E. Gallery,",
+      "J. S. Fehmi"
+    ],
+    "doi": "https://doi.org/10.5194/soil-1-631-2015",
+    "journalVolume": "Vol. 1,\n                                no. 2\n                                \n                                  pp.\n                                  631\n                                  – 639",
+    "issn": "2199-3971 (Print)",
+    "publisher": "2199-398X (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.soil-journal.net/",
+    "abstract": "There is a need to understand the soil system response to warming in order to model the soil process response to predicted climate change. Current methods for soil warming include expensive and difficult to implement active and passive techniques. Here we test a simple, inexpensive in situ passive soil heating approach, based on easy to construct infrared mirrors that do not require automation or enclosures. The infrared mirrors consisted of 61 × 61 cm glass panels coated with infrared reflecting film. The mirrors as constructed are effective for soil heating in environments typified by an open vegetation canopy. Mirror tests were performed on three soils of varying texture, organic matter content, and heat capacity in a warm semi-arid environment. Results indicated that the infrared mirrors yielded significant heating and drying of soil surface and shallow subsurface relative to unwarmed control treatments, and that warming and drying effects were soil specific with greater potential warming on soils with lower volumetric heat capacity. Partial shading from the mirror frame did produce periods of relative cooling at specific times of the day but overall the mirrors yielded a net soil warming. The results demonstrate proof of concept that the infrared mirrors may be used to passively heat the near soil surface, providing an inexpensive, low-maintenance alternative to other passive and active soil heating technologies.",
+    "readLink": "http://www.soil-journal.net/1/631/2015/soil-1-631-2015.pdf"
+  },
+  {
+    "title": "The Influence of Landcover and Climate Change on the Hydrology of the Minjiang River Watershed",
+    "authors": [
+      "Haroon Rashid,",
+      "Kaijie Yang,",
+      "Aicong Zeng,",
+      "Song Ju,",
+      "Abdur Rashid,",
+      "Futao Guo,",
+      "Siren Lan"
+    ],
+    "doi": "https://doi.org/10.3390/w13243554",
+    "journalVolume": "Vol. 13,\n                                no. 3554\n                                \n                                  p.\n                                  3554",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Changes in the climate and landcover are the two most important factors that influence terrestrial hydrological systems. Today, watershed-scale hydrological models are widely used to estimate the individual impacts of changes in the climate and landcover on watershed hydrology. The Minjiang river watershed is an ecologically and economically important, humid, subtropical watershed, located in south-eastern China. Several studies are available on the impacts of recent climate change on the watershed; however, no efforts have been made to separate the individual contributions of climate and landcover changes. This study is an attempt to separate the individual impacts of recent (1989–2018) climate and landcover changes on some of the important hydrological components of the watershed, and highlight the most influential changes in climate parameters and landcover classes. A calibrated soil and water assessment tool (SWAT) was employed for the study. The outcomes revealed that, during the study period, water yield decreased by 6.76%, while evapotranspiration, surface runoff and sediment yield increased by 1.08%, 24.11% and 33.85% respectively. The relative contribution of climate change to landcover change for the decrease in the water yield was 95%, while its contribution to the increases in evapotranspiration, surface runoff and sediment yield was 56%, 77% and 51%, respectively. The changes in climate parameters that were most likely responsible for changes in ET were increasing solar radiation and temperature and decreasing wind speed, those for changes in the water yield were decreasing autumn precipitation and increasing solar radiation and temperature, those for the increase in surface runoff were increasing summer and one-day maximum precipitation, while those for the increasing sediment yield were increasing winter and one-day maximum precipitation. Similarly, an increase in the croplands at the expense of needle-leaved forests was the landcover change that was most likely responsible for a decrease in the water yield and an increase in ET and sediment yield, while an increase in the amount of urban land at the expense of broadleaved forests and wetlands was the landcover change that was most likely responsible for increasing surface runoff. The findings of the study can provide support for improving management and protection of the watershed in the context of landcover and climate change.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/24/3554"
+  },
+  {
+    "title": "The application of FORMOSAT-2 high-temporal- and high-spatial resolution imagery for monitoring open straw burning and carbon emission detection",
+    "authors": [
+      "C.-C. Liu,",
+      "P.-Y. Tseng,",
+      "C.-Y. Chen"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-13-575-2013",
+    "journalVolume": "Vol. 13,\n                                no. 3\n                                \n                                  pp.\n                                  575\n                                  – 582",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "Rice is produced in more than 95 countries worldwide and is a staple food for over half of the world's population. Rice is also a major food crop of Taiwan. There are numerous rice crops planted on the western plains of Taiwan, and, after the harvest season, the left-over straw is often burned on-site. The air pollutants from the burning emissions include CO2, CO, CH4 and other suspended particles, most of these being the greenhouse gases which cause global climate change. In this study FORMOSAT-2 satellite images and ground-truth data from 2008 and 2009 are used to conduct supervised classification and calculate the extent of the straw burning areas. It was found that 10% of the paddies in the study area were burned after harvest during this 2-yr period. On this pro rata basis, we calculated the overall carbon emissions from the burning of the straw. The findings showed that these few farmers produced up to 34 000 tons of carbon emissions in 2008, and 40 000 tons in 2009. The study results indicate that remotely sensed images can be used to efficiently evaluate the important characteristics for carbon emission detection. It also provides quantitative results that are relevant to tracking sources of transport pollution, postharvest burning, and Asian dust in Taiwan.",
+    "readLink": "http://www.nat-hazards-earth-syst-sci.net/13/575/2013/nhess-13-575-2013.pdf"
+  },
+  {
+    "title": "Under-Ice Phytoplankton Blooms: Shedding Light on the “Invisible” Part of Arctic Primary Production",
+    "authors": [
+      "Mathieu Ardyna,",
+      "Mathieu Ardyna,",
+      "C. J. Mundy,",
+      "Nicolas Mayot,",
+      "Nicolas Mayot,",
+      "Lisa C. Matthes,",
+      "Laurent Oziel,",
+      "Laurent Oziel,",
+      "Laurent Oziel,",
+      "Christopher Horvat,",
+      "Eva Leu,",
+      "Philipp Assmy,",
+      "Victoria Hill,",
+      "Patricia A. Matrai,",
+      "Matthew Gale,",
+      "Matthew Gale,",
+      "Igor A. Melnikov,",
+      "Kevin R. Arrigo"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2020.608032",
+    "journalVolume": "Vol. 7",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The growth of phytoplankton at high latitudes was generally thought to begin in open waters of the marginal ice zone once the highly reflective sea ice retreats in spring, solar elevation increases, and surface waters become stratified by the addition of sea-ice melt water. In fact, virtually all recent large-scale estimates of primary production in the Arctic Ocean (AO) assume that phytoplankton production in the water column under sea ice is negligible. However, over the past two decades, an emerging literature showing significant under-ice phytoplankton production on a pan-Arctic scale has challenged our paradigms of Arctic phytoplankton ecology and phenology. This evidence, which builds on previous, but scarce reports, requires the Arctic scientific community to change its perception of traditional AO phenology and urgently revise it. In particular, it is essential to better comprehend, on small and large scales, the changing and variable icescapes, the under-ice light field and biogeochemical cycles during the transition from sea-ice covered to ice-free Arctic waters. Here, we provide a baseline of our current knowledge of under-ice blooms (UIBs), by defining their ecology and their environmental setting, but also their regional peculiarities (in terms of occurrence, magnitude, and assemblages), which is shaped by a complex AO. To this end, a multidisciplinary approach, i.e., combining expeditions and modern autonomous technologies, satellite, and modeling analyses, has been used to provide an overview of this pan-Arctic phenological feature, which will become increasingly important in future marine Arctic biogeochemical cycles.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2020.608032/full"
+  },
+  {
+    "title": "Transcriptomic Response of Differentiating Porcine Myotubes to Thermal Stress and Donor Piglet Age",
+    "authors": [
+      "Fabio Sarais,",
+      "Katharina Metzger,",
+      "Frieder Hadlich,",
+      "Claudia Kalbe,",
+      "Siriluck Ponsuksili"
+    ],
+    "doi": "https://doi.org/10.3390/ijms241713599",
+    "journalVolume": "Vol. 24,\n                                no. 13599\n                                \n                                  p.\n                                  13599",
+    "issn": "1661-6596 (Print)",
+    "publisher": "1422-0067 (Online)",
+    "countryOfPublisher": "MDPI AG",
+    "lcc": [
+      "Switzerland",
+      "Science: Biology (General)",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijms",
+    "abstract": "Climate change is a current concern that directly and indirectly affects agriculture, especially the livestock sector. Neonatal piglets have a limited thermoregulatory capacity and are particularly stressed by ambient temperatures outside their optimal physiological range, which has a major impact on their survival rate. In this study, we focused on the effects of thermal stress (35 °C, 39 °C, and 41 °C compared to 37 °C) on differentiating myotubes derived from the satellite cells of Musculus rhomboideus, isolated from two different developmental stages of thermolabile 5-day-old (p5) and thermostable 20-day-old piglets (p20). Analysis revealed statistically significant differential expression genes (DEGs) between the different cultivation temperatures, with a higher number of genes responding to cold treatment. These DEGs were involved in the macromolecule degradation and actin kinase cytoskeleton categories and were observed at lower temperatures (35 °C), whereas at higher temperatures (39 °C and 41 °C), the protein transport system, endoplasmic reticulum system, and ATP activity were more pronounced. Gene expression profiling of HSP and RBM gene families, which are commonly associated with cold and heat responses, exhibited a pattern dependent on temperature variability. Moreover, thermal stress exhibited an inhibitory effect on cell cycle, with a more pronounced downregulation during cold stress driven by ADGR genes. Additionally, our analysis revealed DEGs from donors with an undeveloped thermoregulation capacity (p5) and those with a fully developed thermoregulation capacity (p20) under various cultivation temperature. The highest number of DEGs and significant GO terms was observed under temperatures of 35 °C and 37 °C. In particular, under 35 °C, the DEGs were enriched in insulin, thyroid hormone, and calcium signaling pathways. This result suggests that the different thermoregulatory capacities of the donor piglets determined the ability of the primary muscle cell culture to differentiate into myotubes at different temperatures. This work sheds new light on the underlying molecular mechanisms that govern piglet differentiating myotube response to thermal stress and can be leveraged to develop effective thermal management strategies to enhance skeletal muscle growth.",
+    "readLink": "https://www.mdpi.com/1422-0067/24/17/13599"
+  },
+  {
+    "title": "Meteorological Applications Benefiting from an Improved Understanding of Atmospheric Exchange Processes over Mountains",
+    "authors": [
+      "Stephan  F. J. De Wekker,",
+      "Meinolf Kossmann,",
+      "Jason  C. Knievel,",
+      "Lorenzo Giovannini,",
+      "Ethan  D. Gutmann,",
+      "Dino Zardi"
+    ],
+    "doi": "https://doi.org/10.3390/atmos9100371",
+    "journalVolume": "Vol. 9,\n                                no. 10\n                                \n                                  p.\n                                  371",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "This paper reviews the benefits of a better understanding of atmospheric exchange processes over mountains. These processes affect weather and climate variables that are important in meteorological applications related to many scientific disciplines and sectors of the economy. We focus this review on examples of meteorological applications in hydrology, ecology, agriculture, urban planning, wind energy, transportation, air pollution, and climate change. These examples demonstrate the benefits of a more accurate knowledge of atmospheric exchange processes over mountains, including a better understanding of snow redistribution, microclimate, land-cover change, frost hazards, urban ventilation, wind gusts, road temperatures, air pollution, and the impacts of climate change. The examples show that continued research on atmospheric exchange processes over mountains is warranted, and that a recognition of the potential benefits can inspire new research directions. An awareness of the links between basic research topics and applications is important to the success and impact of new efforts that aim at better understanding atmospheric exchange processes over mountains. To maximize the benefits of future research for meteorological applications, coordinated international efforts involving scientists studying atmospheric exchange processes, as well as scientists and stakeholders representing many other scientific disciplines and economic sectors are required.",
+    "readLink": "http://www.mdpi.com/2073-4433/9/10/371"
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Impacts of soil carbon on hydrological responses – a sensitivity study of scenarios across diverse climatic zones in South Africa",
+    "authors": [
+      "Stefanie Schütte,",
+      "Roland E. Schulze,",
+      "Mary  Scholes"
+    ],
+    "doi": "https://doi.org/10.17159/sajs.2021/8118",
+    "journalVolume": "Vol. 117,\n                                no. 5/6",
+    "issn": "0038-2353 (Print)",
+    "publisher": "1996-7489 (Online)",
+    "countryOfPublisher": "Academy of Science of South Africa",
+    "lcc": [
+      "South Africa",
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.sajs.co.za",
+    "abstract": "Soil organic carbon (SOC) content and the water holding capacity of soils are two properties which link the carbon and hydrological cycles. Hydrological model inputs seldom include soil carbon as a parameter even though soil carbon content is known to influence soil water retention capacities. This study is a sensitivity analysis of changes in hydrological responses when the model inputs include different soil carbon percentages for the topsoil horizon. Sensitivities of hydrological responses such as transpiration, runoff volumes, the stormflow component of runoff and extreme runoff events to SOC content were quantified under various climatic conditions in South Africa. The soil water holding capacities at the drained upper limit (i.e. field capacity), permanent wilting point and saturation were calculated for the topsoil horizon, using SOC dependent pedo (soil)-transfer functions for different soil carbon scenarios and locations in South Africa. These variables, together with other pre-determined soil- and locationrelated inputs, as well as 50 years of daily climate, were then used as inputs in a process-based hydrological model. Overall, it was found that increased SOC content in the topsoil horizon leads to an increase in transpiration, a reduction in runoff, especially in its stormflow component, and a reduction of extreme runoff events. However, these changes are relatively small compared to the influence of climate, particularly of rainfall amount and distribution. Significance: • Organic carbon content of the soil and the water holding capacity of soils link the carbon and hydrological cycles. • Management interventions that increase SOC lead to win-win situations because, in addition to climate change mitigation, plant water availability improves, and overall surface runoff ‘flashiness’ becomes more regulated. • While rainfall amount and distribution over space and time remain the most critical determinants of hydrological responses, increased SOC in the topsoil horizon leads to increases in transpiration and thus plant growth, and to a reduction in runoff, especially in its stormflow component, and hence to a small reduction of severe flooding events.",
+    "readLink": "https://sajs.co.za/article/view/8118"
+  },
+  {
+    "title": "Using machine learning to understand microgeographic determinants of the Zika vector, Aedes aegypti.",
+    "authors": [
+      "Jagger Alexander,",
+      "André Barretto Bruno Wilke,",
+      "Alejandro Mantero,",
+      "Chalmers Vasquez,",
+      "William Petrie,",
+      "Naresh Kumar,",
+      "John C Beier"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0265472",
+    "journalVolume": "Vol. 17,\n                                no. 12\n                                \n                                  p.\n                                  e0265472",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "There are limited data on why the 2016 Zika outbreak in Miami-Dade County, Florida was confined to certain neighborhoods. In this research, Aedes aegypti, the primary vector of Zika virus, are studied to examine neighborhood-level differences in their population dynamics and underlying processes. Weekly mosquito data were acquired from the Miami-Dade County Mosquito Control Division from 2016 to 2020 from 172 traps deployed around Miami-Dade County. Using random forest, a machine learning method, predictive models of spatiotemporal dynamics of Ae. aegypti in response to meteorological conditions and neighborhood-specific socio-demographic and physical characteristics, such as land-use and land-cover type and income level, were created. The study area was divided into two groups: areas affected by local transmission of Zika during the 2016 outbreak and unaffected areas. Ae. aegypti populations in areas affected by Zika were more strongly influenced by 14- and 21-day lagged weather conditions. In the unaffected areas, mosquito populations were more strongly influenced by land-use and day-of-collection weather conditions. There are neighborhood-scale differences in Ae. aegypti population dynamics. These differences in turn influence vector-borne disease diffusion in a region. These results have implications for vector control experts to lead neighborhood-specific vector control strategies and for epidemiologists to guide vector-borne disease risk preparations, especially for containing the spread of vector-borne disease in response to ongoing climate change.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0265472"
+  },
+  {
+    "title": "Method of Selecting the Means of Transport of the Winning, Taking into Account Environmental Aspects",
+    "authors": [
+      "Arkadiusz Kowalski,",
+      "Robert Waszkowski"
+    ],
+    "doi": "https://doi.org/10.3390/app11125512",
+    "journalVolume": "Vol. 11,\n                                no. 5512\n                                \n                                  p.\n                                  5512",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "The transport of the winning in deep mines, using the room and pillar mining system, is most often performed with bucket loaders and haul trucks. In the era of attempts to stop rapid climate change, it is crucial to choose the transport means for the winning both in terms of efficiency and cost-effectiveness and to consider its environmental aspect. Permissible levels of pollutant emissions in exhaust gases are defined for this type of means of transport by the EU Stage Standards. There is a discernible need to develop a multi-criteria method supporting the decision-making process, which should reward loaders and haul trucks that meet more stringent emission standards. The article proposes an innovative idea of taking environmental aspects into account when selecting loaders and haul trucks for excavated material transport tasks, so that the amount of pollutants emitted by them in exhaust gases, e.g., the sum of hydrocarbons and nitrogen oxides (HC+NOx), is also taken into consideration when assigning means of transport to particular tasks. Based on simulation studies for a specific case, it was found that a 20% reduction of HC+NOx emission is possible with only a 2% increase in the transport costs of the winning. For this purpose, an objective function was used formulated on the basis of two criteria: minimization of the transport cost of the winning and the level of pollutant emissions in the exhaust gases. Since dozens of mining machines are operated continuously in deep mines of non-ferrous metal ores, the application of the proposed method would significantly reduce the emission of pollutants in the used air coming out of ventilation shafts.",
+    "readLink": "https://www.mdpi.com/2076-3417/11/12/5512"
+  },
+  {
+    "title": "Addressing the Water–Energy–Food Nexus through Enhanced Green Roof Performance",
+    "authors": [
+      "Jeremy Wright,",
+      "Jeremy Lytle,",
+      "Devon Santillo,",
+      "Luzalen Marcos,",
+      "Kristiina  Valter Mai"
+    ],
+    "doi": "https://doi.org/10.3390/su13041972",
+    "journalVolume": "Vol. 13,\n                                no. 1972\n                                \n                                  p.\n                                  1972",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Urban densification and climate change are creating a multitude of issues for cities around the globe. Contributing factors include increased impervious surfaces that result in poor stormwater management, rising urban temperatures, poor air quality, and a lack of available green space. In the context of volatile weather, there are growing concerns regarding the effects of increased intense rainfalls and how they affect highly populated areas. Green roofs are becoming a stormwater management tool, occupying a growing area of urban roof space in many developed cities. In addition to the water-centric approach to the implementation of green roofs, these systems offer a multitude of benefits across the urban water–energy–food nexus. This paper provides insight to green roof systems available that can be utilized as tools to mitigate the effects of climate change in urbanized areas. A new array of green roof testing modules is presented along with research methods employed to address current issues related to food, energy and water performance optimization. Rainwater runoff after three rain events was observed to be reduced commensurate with the presence of a blue roof retention membrane in the testbed, the growing media depth and type, as well as the productive nature of the plants in the testbed. Preliminary observations indicate that more productive green roof systems may have increasingly positive benefits across the water–energy–food nexus in dense urban areas that are vulnerable to climate disruption.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/4/1972"
+  },
+  {
+    "title": "Upstream structural management measures for an urban area flooding in Turkey",
+    "authors": [
+      "Z. Akyurek,",
+      "B. Bozoğlu,",
+      "S. Sürer,",
+      "H. Mumcu"
+    ],
+    "doi": "https://doi.org/10.5194/piahs-370-45-2015",
+    "journalVolume": "Vol. 370\n                                \n                                \n                                  pp.\n                                  45\n                                  – 50",
+    "issn": "2199-8981 (Print)",
+    "publisher": "2199-899X (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.proceedings-international-association-of-hydrological-sciences.net/",
+    "abstract": "In recent years, flooding has become an increasing concern across many parts of the world of both the general public and their governments. The climate change inducing more intense rainfall events occurring in short period of time lead flooding in rural and urban areas. In this study the flood modelling in an urbanized area, namely Samsun-Terme in Blacksea region of Turkey is performed. MIKE21 with flexible grid is used in 2-dimensional shallow water flow modelling. 1 × 1000−1 scaled maps with the buildings for the urbanized area and 1 × 5000−1 scaled maps for the rural parts are used to obtain DTM needed in the flood modelling. The bathymetry of the river is obtained from additional surveys. The main river passing through the urbanized area has a capacity of 500 m3 s−1 according to the design discharge obtained by simple ungauged discharge estimation depending on catchment area only. The upstream structural base precautions against flooding are modelled. The effect of four main upstream catchments on the flooding in the downstream urban area are modelled as different scenarios. It is observed that if the flow from the upstream catchments can be retarded through a detention pond constructed in one of the upstream catchments, estimated Q100 flood can be conveyed by the river without overtopping from the river channel. The operation of the upstream detention ponds and the scenarios to convey Q500 without causing flooding are also presented. Structural management measures to address changes in flood characteristics in water management planning are discussed.",
+    "readLink": "https://www.proc-iahs.net/370/45/2015/piahs-370-45-2015.pdf"
+  },
+  {
+    "title": "Mainstreaming biodiversity and wildlife management into climate change policy frameworks in selected east and southern African countries",
+    "authors": [
+      "Olga L. Kupika,",
+      "Godwell Nhamo"
+    ],
+    "doi": "https://doi.org/10.4102/jamba.v8i3.254",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  pp.\n                                  e1\n                                  – e9",
+    "issn": "2072-845X (Print)",
+    "publisher": "1996-1421 (Online)",
+    "countryOfPublisher": "AOSIS",
+    "lcc": [
+      "South Africa",
+      "Social Sciences: Industries. Land use. Labor: Management. Industrial management: Risk in industry. Risk management"
+    ],
+    "journalUrl": "https://www.jamba.org.za",
+    "abstract": "The Rio+20 outcomes document, the Future We Want, enshrines green economy as one of the platforms to attain sustainable development and calls for measures that seek to address climate change and biodiversity management. This paper audits climate change policies from selected east and southern African countries to determine the extent to which climate change legislation mainstreams biodiversity and wildlife management. A scan of international, continental, regional and national climate change policies was conducted to assess whether they include biodiversity and/or wildlife management issues. The key finding is that many climate change policy–related documents, particularly the National Adaptation Programme of Actions (NAPAs), address threats to biodiversity and wildlife resources. However, international policies like the United Nations Framework Convention on Climate Change and Kyoto Protocol do not address the matter under deliberation. Regional climate change policies such as the East African Community, Common Market for Eastern and Southern Africa and African Union address biodiversity and/or wildlife issues whilst the Southern African Development Community region does not have a stand-alone policy for climate change. Progressive countries like Rwanda, Uganda, Tanzania and Zambia have recently put in place detailed NAPAs which are mainstream responsive strategies intended to address climate change adaptation in the wildlife sector. Keywords: mainstreaming, biodiversity, wildlife, climate change policy, east and southern Africa",
+    "readLink": "https://jamba.org.za/index.php/jamba/article/view/254"
+  },
+  {
+    "title": "Extremeness Comparison of Regional Drought Events in Yunnan Province, Southwest China: Based on Different Drought Characteristics and Joint Return Periods",
+    "authors": [
+      "Ruxin Zhao,",
+      "Siquan Yang,",
+      "Hongquan Sun,",
+      "Lei Zhou,",
+      "Ming Li,",
+      "Lisong Xing,",
+      "Rong Tian"
+    ],
+    "doi": "https://doi.org/10.3390/atmos14071153",
+    "journalVolume": "Vol. 14,\n                                no. 1153\n                                \n                                  p.\n                                  1153",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Droughts frequently occur in Yunnan province, the southwest of China, which leads to crop loss, ecosystem degradation, and difficulties in drinking water for people. In order to assess and compare the extremeness for different drought events, this study quantified it by utilizing the joint return period of drought multi-characteristics. Three characteristics at the regional scale: drought duration, severity, and affected areas were obtained by a simple regional drought process methodology, and their relationship was considered based on three types of Archimedean Copulas. Standard Precipitation Evapotranspiration Index at a six-month time scale was selected as the optimal drought index based on actual drought impact data. Results showed that drought events in Yunnan province were mostly short drought duration, low severity, and high drought-affected areas. By comparing the historical reported droughts’ loss, the return periods of drought events calculated by the combination of duration and severity and drought-affected area are much more suitable to reflect the real drought situations than those calculated by one- or two-dimensional drought characteristics, especially for extreme drought events. On average, the drought in Yunnan province was almost shown a return period of ~10 yr. The frequency of droughts in Yunnan province has gradually increased due to climate change, and droughts with ~100 yr or even larger return periods occurred in 2009–2010 and 2011–2013.",
+    "readLink": "https://www.mdpi.com/2073-4433/14/7/1153"
+  },
+  {
+    "title": "Developing and optimizing shrub parameters representing sagebrush (<i>Artemisia</i> spp.) ecosystems in the northern Great Basin using the Ecosystem Demography (EDv2.2) model",
+    "authors": [
+      "K. Pandit,",
+      "H. Dashti,",
+      "N. F. Glenn,",
+      "A. N. Flores,",
+      "K. C. Maguire,",
+      "D. J. Shinneman,",
+      "G. N. Flerchinger,",
+      "A. W. Fellows"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-12-4585-2019",
+    "journalVolume": "Vol. 12\n                                \n                                \n                                  pp.\n                                  4585\n                                  – 4601",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Ecosystem dynamic models are useful for understanding ecosystem characteristics over time and space because of their efficiency over direct field measurements and applicability to broad spatial extents. Their application, however, is challenging due to internal model uncertainties and complexities arising from distinct qualities of the ecosystems being analyzed. The sagebrush-steppe ecosystem in western North America, for example, has substantial spatial and temporal heterogeneity as well as variability due to anthropogenic disturbance, invasive species, climate change, and altered fire regimes, which collectively make modeling dynamic ecosystem processes difficult. Ecosystem Demography (EDv2.2) is a robust ecosystem dynamic model, initially developed for tropical forests, that simulates energy, water, and carbon fluxes at fine scales. Although EDv2.2 has since been tested on different ecosystems via development of different plant functional types (PFT), it still lacks a shrub PFT. In this study, we developed and parameterized a shrub PFT representative of sagebrush (Artemisia spp.) ecosystems in order to initialize and test it within EDv2.2, and to promote future broad-scale analysis of restoration activities, climate change, and fire regimes in the sagebrush-steppe ecosystem. Specifically, we parameterized the sagebrush PFT within EDv2.2 to estimate gross primary production (GPP) using data from two sagebrush study sites in the northern Great Basin. To accomplish this, we employed a three-tier approach. (1) To initially parameterize the sagebrush PFT, we fitted allometric relationships for sagebrush using field-collected data, information from existing sagebrush literature, and parameters from other land models. (2) To determine influential parameters in GPP prediction, we used a sensitivity analysis to identify the five most sensitive parameters. (3) To improve model performance and validate results, we optimized these five parameters using an exhaustive search method to estimate GPP, and compared results with observations from two eddy covariance (EC) sites in the study area. Our modeled results were encouraging, with reasonable fidelity to observed values, although some negative biases (i.e., seasonal underestimates of GPP) were apparent. Our finding on preliminary parameterization of the sagebrush shrub PFT is an important step towards subsequent studies on shrubland ecosystems using EDv2.2 or any other process-based ecosystem model.",
+    "readLink": "https://www.geosci-model-dev.net/12/4585/2019/gmd-12-4585-2019.pdf"
+  },
+  {
+    "title": "Physical Modelling of Arctic Coastlines—Progress and Limitations",
+    "authors": [
+      "Sophia Korte,",
+      "Rebekka Gieschen,",
+      "Jacob Stolle,",
+      "Nils Goseberg"
+    ],
+    "doi": "https://doi.org/10.3390/w12082254",
+    "journalVolume": "Vol. 12,\n                                no. 2254\n                                \n                                  p.\n                                  2254",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Permafrost coastlines represent a large portion of the world’s coastal area and these areas have become increasingly vulnerable in the face of climate change. The predominant mechanism of coastal erosion in these areas has been identified through several observational studies as thermomechanical erosion—a joint removal of sediment through the melting of interstitial ice (thermal energy) and abrasion from incoming waves (mechanical energy). However, further developments are needed looking how common design parameters in coastal engineering (such as wave height, period, sediment size, etc.) contribute to the process. This paper presents the current state of the art with the objective of establishing the necessary research background to develop a process-based approach to predicting permafrost erosion. To that end, an overarching framework is presented that includes all major, erosion-relevant processes, while delineating means to accomplish permafrost modelling in experimental studies. Preliminary modelling of generations zero and one models, within this novel framework, was also performed to allow for early conclusions as to how well permafrost erosion can currently be modelled without more sophisticated setups.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/8/2254"
+  },
+  {
+    "title": "Wood and water: How trees modify wood development to cope with drought",
+    "authors": [
+      "F. Daniela Rodriguez‐Zaccaro,",
+      "Andrew Groover"
+    ],
+    "doi": "https://doi.org/10.1002/ppp3.29",
+    "journalVolume": "Vol. 1,\n                                no. 4\n                                \n                                  pp.\n                                  346\n                                  – 355",
+    "issn": "2572-2611 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Botany"
+    ],
+    "journalUrl": "https://nph.onlinelibrary.wiley.com/journal/25722611",
+    "abstract": "Societal Impact Statement Drought plays a conspicuous role in forest mortality, and is expected to become more severe in future climate scenarios. Recent surges in drought‐associated forest tree mortality have been documented worldwide. For example, recent droughts in California and Texas killed approximately 129 million and 300 million trees, respectively. Drought has also induced acute pine tree mortality across east‐central China, and across extensive areas in southwest China. Understanding the biological processes that enable trees to modify wood development to mitigate the adverse effects of drought will be crucial for the development of successful strategies for future forest management and conservation. Summary Drought is a recurrent stress to forests, causing periodic forest mortality with enormous economic and environmental costs. Wood is the water‐conducting tissue of tree stems, and trees modify wood development to create anatomical features and hydraulic properties that can mitigate drought stress. This modification of wood development can be seen in tree rings where not only the amount of wood but also the morphology of the water‐conducting cells are modified in response to environmental conditions. In this review, we provide an overview of how trees conduct water, and how trees modify wood development to affect water conduction properties in response to drought. We discuss key needs for new research, and how new knowledge of wood formation can play a role in the conservation of forests under threat by climate change.",
+    "readLink": "https://doi.org/10.1002/ppp3.29"
+  }
+]

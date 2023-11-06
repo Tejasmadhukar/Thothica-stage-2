@@ -1,0 +1,231 @@
+[
+  {
+    "title": "TM5-FASST: a global atmospheric source–receptor model for rapid impact analysis of emission changes on air quality and short-lived climate pollutants",
+    "authors": [
+      "R. Van Dingenen,",
+      "F. Dentener,",
+      "M. Crippa,",
+      "J. Leitao,",
+      "J. Leitao,",
+      "E. Marmer,",
+      "E. Marmer,",
+      "S. Rao,",
+      "E. Solazzo,",
+      "L. Valentini"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-16173-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  16173\n                                  – 16211",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "This paper describes, documents, and validates the TM5-FAst Scenario Screening Tool (TM5-FASST), a global reduced-form air quality source–receptor model that has been designed to compute ambient pollutant concentrations as well as a broad range of pollutant-related impacts on human health, agricultural crop production, and short-lived pollutant climate metrics, taking as input annual pollutant emission data aggregated at the national or regional level. The TM5-FASST tool, providing a trade-off between accuracy and applicability, is based on linearized emission-concentration sensitivities derived with the full chemistry-transport model TM5. The tool has been extensively applied in various recent critical studies. Although informal and fragmented validation has already been performed in various publications, this paper provides a comprehensive documentation of all components of the model and a validation against the full TM5 model. We find that the simplifications introduced in order to generate immediate results from emission scenarios do not compromise the validity of the output and as such TM5-FASST is proven to be a useful tool in science-policy analysis. Furthermore, it constitutes a suitable architecture for implementing the ensemble of source–receptor relations obtained in the frame of the HTAP modelling exercises, thus creating a link between the scientific community and policy-oriented users.",
+    "readLink": "https://www.atmos-chem-phys.net/18/16173/2018/acp-18-16173-2018.pdf"
+  },
+  {
+    "title": "Analysis of a Building Energy Efficiency Certification System in Korea",
+    "authors": [
+      "Duk Joon Park,",
+      "Ki Hyung Yu,",
+      "Yong Sang Yoon,",
+      "Kee Han Kim,",
+      "Sun Sook Kim"
+    ],
+    "doi": "https://doi.org/10.3390/su71215804",
+    "journalVolume": "Vol. 7,\n                                no. 12\n                                \n                                  pp.\n                                  16086\n                                  – 16107",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The Korean government has established a national plan for the promotion of zero energy buildings to respond to climate change and energy crises. To achieve this plan, several energy efficiency policies for new and existing buildings have been developed. The Building Energy Efficiency Certification System (BEECS) aims to promote the spread of high energy-efficient buildings by evaluating and certifying building energy performance. This study discussed Korean building energy efficiency policies and analyzed especially the influence of the BEECS on the actual energy consumption of a residential building and calculated energy performance of non-residential buildings. The BEECS was evaluated to have influence on gas and district heating consumption in residential buildings. For non-residential buildings, a decreasing trend was shown in calculated primary energy consumption in the years since the BEECS has been enacted. Appropriate improvements of the certification system were also discussed by analyzing relationship between building characteristics and their energy consumptions.",
+    "readLink": "http://www.mdpi.com/2071-1050/7/12/15804"
+  },
+  {
+    "title": "RAINFALL VARIABILITY OVER BANGKA BELITUNG ISLAND  BASED ON VALIDATED TRMM PRODUCT",
+    "authors": [
+      "Supari Supari,",
+      "Nur Setiawan"
+    ],
+    "doi": "https://doi.org/10.31172/jmg.v14i1.140",
+    "journalVolume": "Vol. 14,\n                                no. 1",
+    "issn": "1411-3082 (Print)",
+    "publisher": "2527-5372 (Online)",
+    "countryOfPublisher": "Pusat Penelitian dan Pengembangan Badan Meteorologi Klimatologi dan Geofisika",
+    "lcc": [
+      "Indonesia",
+      "Science: Physics: Meteorology. Climatology",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://puslitbang.bmkg.go.id/jmg/index.php/jmg/index",
+    "abstract": "Varialibilitas hujan di Propinsi Kepulauan Bangka Belitung dipelajari dengan menggunakan data estimasi hujan dari satelit, TMPA 3B42RT yang telah divalidasi. Untuk hujan dasarian rata-rata selama sepuluh tahun (2001–2010), teknik validasi mampu meningkatkan akurasi data TMPA, ditandai dengan meningkatnya koefisien korelasi dari 0.82 menjadi 0.9. Secara umum, Propinsi Kepulauan Bangka Belitung menerima hujan tahunan yang cukup berlimpah, antara 1800–3000 mm. Wilayah paling kering terdapat di Kabupaten Bangka bagian utara sedangkan wilayah paling basah adalah Kabupaten Bangka Barat bagian tengah dan Kabupaten Bangka Selatan bagian utara. Dibandingkan dengan peta distribusi hujan masa lalu, pola hujan tahunan dalam studi ini menunjukkan adanya kemungkinan perubahan yang signifikan baik dalam intensitas maupun pola sebarannya. Musim hujan terjadi mulai akhir Bulan Oktober hingga Mei sedangkan musim kemarau berlangsung mulai awal Bulan Juni hingga pertengahan Oktober. Seluruh zona musim mengalami puncak hujan dua kali dalam setahun, yaitu April dan Desember. Temuan ini membuktikan bahwa curah hujan di Bangka Belitung sangat dipengaruhi oleh pergerakan ITCZ dan sekaligus monsoon. The rainfall variability over Bangka Belitung Island Province is investigated using validated TMPA 3B42RT satellite rainfall data. For 10 years average (2001-2010), we find that the validation process could improve the performance of TMPA series at dasarian scale by increasing correlation coefficient from 0.82 to 0.9. In general, the area receives considerably high annual rainfall ranging from 1800 to 3000 mm. The northern part of Bangka District is identified as driest area while the central part of West Bangka District and northern part of South Bangka District is detected as the wettest area. Compared to past rainfall atlas, recent annual rainfall pattern displays possible significant change both in intensity and spatial distribution. Wet season is observed starting from the end of October till May while dry season is detected starting from the early of June till mid of October. There are double peaks of monthly rainfall i.e. April and December over all climate zone of the Province. The findings prove that rainfall patterns are very much affected by interrelation of ITCZ movement and monsoon.",
+    "readLink": "http://puslitbang.bmkg.go.id/jmg/index.php/jmg/article/view/140"
+  },
+  {
+    "title": "Potential global distribution of the guava root-knot nematode Meloidogyne enterolobii under different climate change scenarios using MaxEnt ecological niche modeling",
+    "authors": [
+      "Song PAN,",
+      "De-liang PENG,",
+      "Ying-mei LI,",
+      "Zhi-jie CHEN,",
+      "Ying-yan ZHAI,",
+      "Chen LIU,",
+      "Bo HONG"
+    ],
+    "doi": "Vol. 22,\n                                no. 7\n                                \n                                  pp.\n                                  2138\n                                  – 2150",
+    "issn": "2095-3119 (Print)",
+    "publisher": "2352-3425 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/journal-of-integrative-agriculture",
+    "abstract": "In recent years, Meloidogyne enterolobii has emerged as a major parasitic nematode infesting many plants in tropical or subtropical areas. However, the regions of potential distribution and the main contributing environmental variables for this nematode are unclear. Under the current climate scenario, we predicted the potential geographic distributions of M. enterolobii worldwide and in China using a Maximum Entropy (MaxEnt) model with the occurrence data of this species. Furthermore, the potential distributions of M. enterolobii were projected under three future climate scenarios (BCC-CSM2-MR, CanESM5 and CNRM-CM6-1) for the periods 2050s and 2090s. Changes in the potential distribution were also predicted under different climate conditions. The results showed that highly suitable regions for M. enterolobii were concentrated in Africa, South America, Asia, and North America between latitudes 30°S to 30°N. Bio16 (precipitation of the wettest quarter), bio10 (mean temperature of the warmest quarter), and bio11 (mean temperature of the coldest quarter) were the variables contributing most in predicting potential distributions of M. enterolobii. In addition, the potential suitable areas for M. enterolobii will shift toward higher latitudes under future climate scenarios. This study provides a theoretical basis for controlling and managing this nematode.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2095311923001971"
+  },
+  {
+    "title": "EU Water Governance: Striking the Right Balance between Regulatory Flexibility and Enforcement?",
+    "authors": [
+      "Olivia O. Green,",
+      "Ahjond S. Garmestani,",
+      "Helena F. M. W. van Rijswick,",
+      "Andrea M. Keessen"
+    ],
+    "doi": "https://doi.org/10.5751/ES-05357-180210",
+    "journalVolume": "Vol. 18,\n                                no. 2\n                                \n                                  p.\n                                  10",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Considering the challenges and threats currently facing water management and the exacerbation of uncertainty by climate change, the need for flexible yet robust and legitimate environmental regulation is evident. The European Union took a novel approach toward sustainable water resource management with the passage of the EU Water Framework Directive in 2000. The Directive promotes sustainable water use through long-term protection of available water resources, progressively reduces discharges of hazardous substances in ground and surface waters, and mitigates the effects of floods and droughts. The lofty goal of achieving good status of all waters requires strong adaptive capacity, given the large amounts of uncertainty in water management. Striking the right balance between flexibility in local implementation and robust and enforceable standards is essential to promoting adaptive capacity in water governance, yet achieving these goals simultaneously poses unique difficulty. Applied resilience science reveals a conceptual framework for analyzing the adaptive capacity of governance structures that includes multiple overlapping levels of control or coordination, information flow horizontally and vertically, meaningful public participation, local capacity building, authority to respond to changed circumstances, and robust monitoring, system feedback, and enforcement. Analyzing the Directive through the lens of resilience science, we highlight key elements of modern European water management and their contribution to the resilience of the system and conclude that the potential lack of enforcement and adequate feedback of monitoring results does not promote managing for resilience. However, the scale-appropriate governance aspects of the EU approach promotes adaptive capacity by enabling vertical and horizontal information flow, building local capacity, and delegating control at multiple relevant scales.",
+    "readLink": "http://www.ecologyandsociety.org/vol18/iss2/art10/"
+  },
+  {
+    "title": "The NUIST Earth System Model (NESM) version 3: description and preliminary evaluation",
+    "authors": [
+      "J. Cao,",
+      "J. Cao,",
+      "B. Wang,",
+      "B. Wang,",
+      "Y.-M. Yang,",
+      "L. Ma,",
+      "L. Ma,",
+      "J. Li,",
+      "J. Li,",
+      "B. Sun,",
+      "B. Sun,",
+      "Y. Bao,",
+      "Y. Bao,",
+      "J. He,",
+      "J. He,",
+      "X. Zhou,",
+      "L. Wu"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-11-2975-2018",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  pp.\n                                  2975\n                                  – 2993",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "The Nanjing University of Information Science and Technology Earth System Model version 3 (NESM v3) has been developed, aiming to provide a numerical modeling platform for cross-disciplinary Earth system studies, project future Earth climate and environment changes, and conduct subseasonal-to-seasonal prediction. While the previous model version NESM v1 simulates the internal modes of climate variability well, it has no vegetation dynamics and suffers considerable radiative energy imbalance at the top of the atmosphere and surface, resulting in large biases in the global mean surface air temperature, which limits its utility to simulate past and project future climate changes. The NESM v3 has upgraded atmospheric and land surface model components and improved physical parameterization and conservation of coupling variables. Here we describe the new version's basic features and how the major improvements were made. We demonstrate the v3 model's fidelity and suitability to address global climate variability and change issues. The 500-year preindustrial (PI) experiment shows negligible trends in the net heat flux at the top of atmosphere and the Earth surface. Consistently, the simulated global mean surface air temperature, land surface temperature, and sea surface temperature (SST) are all in a quasi-equilibrium state. The conservation of global water is demonstrated by the stable evolution of the global mean precipitation, sea surface salinity (SSS), and sea water salinity. The sea ice extents (SIEs), as a major indication of high-latitude climate, also maintain a balanced state. The simulated spatial patterns of the energy states, SST, precipitation, and SSS fields are realistic, but the model suffers from a cold bias in the North Atlantic, a warm bias in the Southern Ocean, and associated deficient Antarctic sea ice area, as well as a delicate sign of the double ITCZ syndrome. The estimated radiative forcing of quadrupling carbon dioxide is about 7.24 W m−2, yielding a climate sensitivity feedback parameter of −0.98 W m−2 K−1, and the equilibrium climate sensitivity is 3.69 K. The transient climate response from the 1 % yr−1 CO2 (1pctCO2) increase experiment is 2.16 K. The model's performance on internal modes and responses to external forcing during the historical period will be documented in an accompanying paper.",
+    "readLink": "https://www.geosci-model-dev.net/11/2975/2018/gmd-11-2975-2018.pdf"
+  },
+  {
+    "title": "The development of phytosanitary monitoring methods – creating of a schematic scale for as-sessing the development of Alternariosis on grape leaves",
+    "authors": [
+      "Aleinikova Natalia,",
+      "Galkina Yevgenia,",
+      "Andreyev Vladimir,",
+      "Bolotianskaya Elena,",
+      "Belash Sergey"
+    ],
+    "doi": "https://doi.org/10.1051/bioconf/20224705007",
+    "journalVolume": "Vol. 47\n                                \n                                \n                                  p.\n                                  05007",
+    "issn": "2117-4458 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Science: Microbiology",
+      "Science: Physiology",
+      "Science: Zoology"
+    ],
+    "journalUrl": "http://www.bio-conferences.org",
+    "abstract": "To ensure consistent good quality grape yields it is necessary to minimize losses associated with affection of grape plants by various dis-eases. One of the main conditions to ensure the effective control of phyto-pathogens is a timely monitoring, revealing and assessing of harmful or-ganisms development intensity. In modern research, in order to improve the accuracy and reliability of quantitative characteristics of disease devel-opment intensity, as well as comparability of the results obtained, it is pro-posed to use a “set of standard diagrams” or a “schematic scale” - a set of illustrations depicting an increasing percentage of damage to the surface of one or another plant organ. To date, similar \"sets of standard diagrams\" were proposed for such grape diseases as mildew, anthracnose and grape leave rust. The article presents the results of creating a new \"schematic scale\" for assessing the development intensity of grape Alternariosis as a disease with the recorded increasing importance at a recent time of climate change. The scale was developed using colored and black–and-white pho-tographs of grape leaves affected by Alternariosis to varying degrees to de-termine the real intensity of the disease in digital form. Scale levels were established in accordance with minimum and maximum values of damage degree. Validation was carried out by two groups of assessors with differ-ent experience in accounting. The determination coefficient (R2) of regres-sion line and the absolute error variance demonstrated an increase in accu-racy, repeatability and reproducibility of estimates using the developed “schematic scale”. Using of the developed scale made it possible to in-crease the accuracy of quantitative assessment of intensity of Alternariosis damage to grape leaves.",
+    "readLink": "https://www.bio-conferences.org/articles/bioconf/pdf/2022/06/bioconf_itia2022_05007.pdf"
+  },
+  {
+    "title": "EXPLORING BIOPHILIC WALKABLE BRIDGES AS A PARADIGM FOR SUSTAINABLE CITIES",
+    "authors": [
+      "Nora Mohammed Rehan,",
+      "Nisreen Samy Abdeen"
+    ],
+    "doi": "https://doi.org/10.21608/jur.2023.127682.1091",
+    "journalVolume": "Vol. 47,\n                                no. 3\n                                \n                                  pp.\n                                  82\n                                  – 100",
+    "issn": "2090-0694 (Print)",
+    "publisher": "2682-4515 (Online)",
+    "countryOfPublisher": "Cairo University, Faculty of Urban and Regional Planning in Cooperation with The Egyptian Knowledge Bank (EKB).",
+    "lcc": [
+      "Egypt",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography: Settlements: Cities. Urban geography",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology: Urbanization. City and country"
+    ],
+    "journalUrl": "https://jur.journals.ekb.eg/",
+    "abstract": "The Egyptian cities' urban renewal movement has succeeded in enhancing the planning of road and vehicle bridge networks. Bridges are frequently recognized as a symbol of a city's economic potential and prosperity, but the disappearance of green features is considered one of the negatives, particularly after the construction of many bridges and the consequent difficulties faced by pedestrians. Because the visual quality of bridge experiences might influence on urban sustainability, biophilic urbanism that has arisen to incorporate nature more purposefully into cities. Adding visual value (using bridge sidewalks) and creating more enjoyable spaces can solve many urban space informality issues while preserving the city's visual and aesthetic elements. As a result, the research aims to develop a green approach for building walkable green bridges over these car bridges to connect the vertical and horizontal green elements together, revitalizing the city's green image. From this point of view, this paper focuses on two main issues: first, the theoretical approach, which will focus on the biophilic urban design and the benefits of integration with the urban design of streets based on environmental, social, and economic functions. Secondly: the evaluation and analysis of the area in Egypt (Nasr City) to reduce the impact of climate change by applying a balance between green and built spaces to upgrade urban streets. Based on the theoretical and applied approaches, the research proposes a green framework for the design of green biophilic pedestrian bridges to be a link between vertical and horizontal green elements to achieve sustainability. نجحت حركة التطور العمراني التي تشهدها المدن المصرية في تطوير تخطيط شبكات الطرق وجسور المركبات وتعتبر هذه الجسور رمزا للإمكانيات الاقتصادية في المدينة وازدهارها. لكن اختفاء العناصر الخضراء يعتبر أحد السلبيات خاصة بعد بناء العديد من الجسور وما يترتب على ذلك من صعوبات يواجهها المشاة. ونظرًا لأن جودة الصورة البصرية المرئية للجسور تؤثر على الاستدامة الحضرية، فهذا يستدعي انتهاج مبدأ العمران البيوفيليكي لدمج الطبيعة بشكل هادف مع المدن، ويتضمن ذلك إدخالها في المدن وإليها ، وكذلك داخل المباني والبنية التحتية وفيما بينها ، لتعزيز الاتصال بين الناس والبيئة مع الاستفادة أيضًا من الخدمات والوظائف الطبيعية. إن إضافة قيمة بصرية (باستخدام أرصفة وجوانب الجسور) وايجاد المزيد من الفراغات والأنشطة الممتعة تؤدي إلى حل العديد من المشكلات والقضايا في المناطق العمرانية مع الحفاظ على الصورة المرئية للمدينة والعناصر الجمالية. ونتيجة لذلك فإن الهدف من البحث هو ايجاد منهجية خضراء لإنشاء جسور خضراء قابلة للمشي فوق جسور السيارات هذه لربط العناصر الخضراء الرأسية والأفقية معًا، وتنشيط الصورة الخضراء للمدينة والتغلب على الصعوبات التي يواجهها المشاة. من هذا المنطلق تركز هذه الورقة على مدخلين رئيسيين: أولا المدخل النظري الذي سيركز على التصميم الحضري الحيوي البيوفيليكي، وفوائد التكامل مع التصميم الحضري للشوارع على أساس الوظائف البيئية والاجتماعية والاقتصادية. ثانيًا: المدخل التطبيقي ويتناول تقييم وتحليل منطقة من أهم المناطق العمرانية في مصر (مدينة نصر) للحد من تأثير التغير المناخي من خلال تطبيق التوازن بين المساحات الخضراء والمساحات المبنية لتطوير الطرق والفراغات العمرانية. واستنادا على المنهجين النظري والتطبيقي، يقترح البحث إطارًا أخضر لتصميم جسور المشاة الخضراء الحيوية لتكون رابطًا بين العناصر الخضراء الرأسية والأفقية لدمج الطبيعة في التصميم الحضري للمدن وربط الإنسان بالطبيعة لتحقيق الاستدامة .",
+    "readLink": "https://jur.journals.ekb.eg/article_292904_9eccdb06547dff10ce43c215bc176532.pdf"
+  },
+  {
+    "title": "Investigation of the Effective Factors on the Subsidence in Tehran South-East Plain Due to Excessive Groundwater Exploitation",
+    "authors": [
+      "Omid Tavasoli,",
+      "Hasan Karbin,",
+      "Mina Torabi ,",
+      "Adel Asakereh"
+    ],
+    "doi": "https://doi.org/10.22112/JWWSE.2019.168559.1138",
+    "journalVolume": "Vol. 4,\n                                no. 2\n                                \n                                  pp.\n                                  58\n                                  – 72",
+    "issn": "2588-395X (Online)",
+    "publisher": "Iran Water and Wastewater Association",
+    "countryOfPublisher": "Iran, Islamic Republic of",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.jwwse.ir/?lang=en",
+    "abstract": "Land subsidence is amongst the issues that occur due to excessive groundwater exploitation, causing deep gaps in the ground, tilting of wells and collapse of buildings. In most areas of the country, the main reason for this phenomenon is water table draw-down, which is caused by the lack of rainfall due to climate change and excessive exploitation of groundwater. In this paper, in order to investigate the effective factors on the subsidence in the South-East plain of Tehran, various stations in this area have been studied and numerically modeled using the finite element method. GEOSTUDIO software has been used to analyze the geotechnical and hydraulic data in the region in comparison to the results of previous studies. The results indicated that the level of water changes and depth of drilled boreholes had an effect on the amount of land subsidence, and with decreasing water recharge to groundwater table, the subsidence rate increased by up to 55%. Also by increasing the percentage of changes in water exploitation, the subsidence rate was increased by about 40%.",
+    "readLink": "http://www.jwwse.ir/article_91690_633a227e54e7ed5078013ab398946cf5.pdf?lang=en"
+  },
+  {
+    "title": "Variation of Relative Humidity as Seen through Linking Water Vapor to Air Temperature: An Assessment of Interannual Variations in the Near-Surface Atmosphere",
+    "authors": [
+      "Jiawei Hao,",
+      "Er Lu"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13081171",
+    "journalVolume": "Vol. 13,\n                                no. 1171\n                                \n                                  p.\n                                  1171",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "It has generally been regarded that, in the warming climate, atmospheric water vapor may increase due to the enhancement in surface evaporation, which is expected from the Clausius–Clapeyron (C–C) equation, along with the assumption that relative humidity experiences small changes. If the variation in relative humidity is small, the response of water vapor to temperature will be closely in line with the C–C equation. However, whether relative humidity experiences large or small changes needs be assessed, and the change of relative humidity should be compared with the change in surface–air temperature. In this study, we link surface vapor pressure, which characterizes atmospheric water vapor, to surface-air temperature, and treat both the temperature and relative humidity as influencing factors. A method based on linear regression is applied to compare the interannual variabilities of relative humidity and temperature in the interannual variation in surface vapor pressure. Whether the year-to-year perturbation of relative humidity is important, compared with the perturbation in surface-air temperature, is explored Results show that, at high latitudes of both hemispheres, the variation in vapor pressure is dominated by air temperature, and relative humidity has small positive contributions. Thus, the variation in relative humidity over these regions is comparably small, and the response of water vapor to temperature can well follow the C–C equation. Differently, at mid-low latitudes, especially on land, air temperature plays a negative role in the variation in vapor pressure. Relative humidity offsets the negative contribution and dominates the variation in vapor pressure, suggesting that the variation in the relative humidity over these regions is comparably large. Hence, the response of water vapor to temperature deviate from the C–C equation. Analysis indicates that the different results of the dominance from the two influencing factors are affected by the dual effects of precipitation or wet-air transport over land. Both precipitation and the transport of cold wet air could break the C–C relation between water vapor pressure and temperature.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/8/1171"
+  }
+]

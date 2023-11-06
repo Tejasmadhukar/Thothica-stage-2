@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Effects of elevated [CO2] and low soil moisture on the physiological responses of Mountain Maple (Acer spicatum L.) seedlings to light.",
+    "authors": [
+      "Gabriel Danyagri,",
+      "Qing-Lai Dang"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0076586",
+    "journalVolume": "Vol. 8,\n                                no. 10\n                                \n                                  p.\n                                  e76586",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Global climate change is expected to affect how plants respond to their physical and biological environments. In this study, we examined the effects of elevated CO2 ([CO2]) and low soil moisture on the physiological responses of mountain maple (Acer spicatum L.) seedlings to light availability. The seedlings were grown at ambient (392 µmol mol(-1)) and elevated (784 µmol mol(-1)) [CO2], low and high soil moisture (M) regimes, at high light (100%) and low light (30%) in the greenhouse for one growing season. We measured net photosynthesis (A), stomatal conductance (g s), instantaneous water use efficiency (IWUE), maximum rate of carboxylation (V cmax), rate of photosynthetic electron transport (J), triose phosphate utilization (TPU)), leaf respiration (R d), light compensation point (LCP) and mid-day shoot water potential (Ψx). A and g s did not show significant responses to light treatment in seedlings grown at low soil moisture treatment, but the high light significantly decreased the C i/C a in those seedlings. IWUE was significantly higher in the elevated compared with the ambient [CO2], and the effect was greater at high than the low light treatment. LCP did not respond to the soil moisture treatments when seedlings were grown in high light under both [CO2]. The low soil moisture significantly reduced Ψx but had no significant effect on the responses of other physiological traits to light or [CO2]. These results suggest that as the atmospheric [CO2] rises, the physiological performance of mountain maple seedlings in high light environments may be enhanced, particularly when soil moisture conditions are favourable.",
+    "readLink": "http://europepmc.org/articles/PMC3798557?pdf=render"
+  },
+  {
+    "title": "The Framework of Technical Evaluation Indicators for Constructing Low-Carbon Communities in China",
+    "authors": [
+      "Yifei Bai,",
+      "Weirong Zhang,",
+      "Xiu Yang,",
+      "Shen Wei,",
+      "Yang Yu"
+    ],
+    "doi": "https://doi.org/10.3390/buildings11100479",
+    "journalVolume": "Vol. 11,\n                                no. 479\n                                \n                                  p.\n                                  479",
+    "issn": "2075-5309 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Building construction"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/buildings",
+    "abstract": "In recent years, in order to promote the construction of low-carbon communities (LCCs) in China, many scholars have proposed an evaluation indicator system of LCC. The existing indicator systems are mostly established from the macro perspective of environmental impact and resource conservation, but few are from the micro technical perspective. Thus, the aim of this study is to construct a micro technical evaluation indicator system for LCCs. Firstly, the index system was divided into three categories: low-carbon building, low-carbon transportation, and low-carbon environment. Then, the technical indicators were selected through empirical analysis. The indicator weights were assigned by the improved analytic hierarchy process (AHP) and the multi-level fuzzy comprehensive evaluation method was used as the evaluation method of the indicators. Finally, in order to examine the practicality of the indicator system, two typical communities in Tianjin and Shanghai were selected as case studies. The results showed that the indicator system gave a reasonable low-carbon level for the two communities, which was in line with the actual low-carbon construction status of each community. In addition, the evaluation results pointed out that the low-carbon community (LCC) in Tianjin needs to further strengthen the construction of the low-carbon environment, including community compactness, rainwater collection and utilization, and waste recycling. For the LCC in Shanghai, it was pointed out that the construction of the low-carbon building and low-carbon transportation needs to be strengthened. The indicator system can be used as a tool for urban planning and construction personnel to evaluate the construction progress and low-carbon degree of LCC.",
+    "readLink": "https://www.mdpi.com/2075-5309/11/10/479"
+  },
+  {
+    "title": "Estimation of Soil Moisture Applying Modified Dubois Model to Sentinel-1; A Regional Study from Central India",
+    "authors": [
+      "Abhilash Singh,",
+      "Kumar Gaurav,",
+      "Ganesh  Kumar Meena,",
+      "Shashi Kumar"
+    ],
+    "doi": "https://doi.org/10.3390/rs12142266",
+    "journalVolume": "Vol. 12,\n                                no. 2266\n                                \n                                  p.\n                                  2266",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Surface soil moisture has a wide application in climate change, agronomy, water resources, and in many other domain of science and engineering. Measurement of soil moisture at high spatial and temporal resolution at regional and global scale is needed for the prediction of flood, drought, planning and management of agricultural productivity to ensure food security. Recent advancement in microwave remote sensing, especially after the launch of Sentinel operational satellites has enabled the scientific community to estimate soil moisture at higher spatial and temporal resolution with greater accuracy. This study evaluates the potential of Sentinel-1A satellite images to estimate soil moisture in a semi-arid region. Exactly at the time when satellite passes over the study area, we have collected soil samples at 37 different locations and measured the soil moisture from 5 cm below the ground surface using ML3 theta probe. We processed the soil samples in laboratory to obtain volumetric soil moisture using the oven dry method. We found soil moisture measured from calibrated theta probe and oven dry method are in good agreement with Root Mean Square Error (RMSE) 0.025 m 3 /m 3 and coefficient of determination (R 2 ) 0.85. We then processed Sentinel-1A images and applied modified Dubois model to calculate relative permittivity of the soil from the backscatter values ( σ ∘ ). The volumetric soil moisture at each pixel is then calculated by applying the universal Topp’s model. Finally, we masked the pixels whose Normalised Difference Vegetation Index (NDVI) value is greater than 0.4 to generate soil moisture map as per the Dubois NDVI criterion. Our modelled soil moisture accord with the measured values with RMSE = 0.035 and R 2 = 0.75. We found a small bias in the modelled soil moisture ( 0.02 m 3 / m 3 ). However, this has reduced significantly ( 0.001 m 3 / m 3 ) after applying a bias correction based on Cumulative Distribution Function (CDF) matching. Our approach provides a first-order estimate of soil moisture from Sentinel-1A images in sparsely vegetated agricultural land.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/14/2266"
+  },
+  {
+    "title": "Projected Impacts of Bioenergy-Demand-Induced Land Use and Cover Changes on Regional Climate in Central Europe",
+    "authors": [
+      "Fang Yin,",
+      "Yihui Xiong,",
+      "Li Jiang,",
+      "Zhiguo Pang"
+    ],
+    "doi": "https://doi.org/10.1155/2013/293937",
+    "journalVolume": "Vol. 2013",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "Energy shortfalls are becoming more and more serious all over the world, and worldwide governments have tried to promote the development of biofuels in order to mitigate the climatic impacts of massive fossil fuel consumption. Since the land is the main input factor of the bioenergy production, the development of biofuels will inevitably lead to change of the land use structure and allocation and thereby affect the climate system. With Central Europe as the study area, this study explored the impacts of land use/land cover change (LUCC) on climate under the influence of demand of bioenergy production for land resources. First, the land use structure from 2010 to 2050 is simulated with the Agriculture and Land Use model in MiniCam. The result indicates that the main conversion will be mainly from grassland and forest to cropland and from cropland to grassland. Then the Dynamics of Land System model was used to spatially simulate the LUCC in the future. The impacts of LUCC on the climate were analyzed on the basis of simulation with the Weather Research and Forecasting (WRF) model. The climate change will be characterized by the increase of latent heat flux and temperature and the decrease of precipitation.",
+    "readLink": "http://dx.doi.org/10.1155/2013/293937"
+  },
+  {
+    "title": "Breeding mason bees for the pollination of fruit orchards in Central Europe",
+    "authors": [
+      "Martin Šlachta,",
+      "Alena Votavová,",
+      "Tomáš Erban,",
+      "Ondřej Cudlín,",
+      "Pavel Cudlín"
+    ],
+    "doi": "https://doi.org/10.14712/23361964.2022.2",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  16\n                                  – 20",
+    "issn": "1805-0174 (Print)",
+    "publisher": "2336-1964 (Online)",
+    "countryOfPublisher": "Karolinum Press",
+    "lcc": [
+      "Czechia",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ejes.cz",
+    "abstract": "Solitary bees pollinate wild plants and crops. In the temperate zone, they mainly pollinate fruit trees. Most species nest in the soil, but mason bees nest in wooden cavities above ground. Their presence in orchards can be augmented by provision of artificial nesting sites. Two species of mason bees frequently use these artificial nesting opportunities in Central Europe. The red mason bee (Osmia bicornis) is the most common species in this region, which preferentially collects pollen from oak trees. The European orchard bee (Osmia cornuta) prefers pollen from fruit trees, but it is more thermophilic. Its spread to higher altitudes can be expected in response to climate change. A breeding technology based on detachable wooden nests is summarized in this paper based on a literature review and experimental experience in fruit orchards in Czechia.",
+    "readLink": "https://ejes.cz/index.php/ejes/article/view/877"
+  },
+  {
+    "title": "Flooding of Sandy Beaches in a Changing Climate. The Case of the Balearic Islands (NW Mediterranean)",
+    "authors": [
+      "Miguel Agulles,",
+      "Miguel Agulles,",
+      "Gabriel Jordà,",
+      "Gabriel Jordà,",
+      "Piero Lionello,",
+      "Piero Lionello"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2021.760725",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The fate of the beaches around the world has paramount importance as they are one of the main assets for touristic activities and act as a natural barrier for coastal protection in front of marine storms. Climate change could put them at risk as sea levels rise and changes in the wave characteristics may dramatically modify their shape. In this work, a new methodology has been developed to determine the flooding of sandy beaches due to changes in sea level and waves. The methodology allows a cost-effective and yet accurate estimation of the wave runup for a wide range of beach equilibrium profiles and for different seagrass coverage. This, combined with regional projections of sea level and wave evolution, has allowed a quantification of the future total water level and coastline retreat for 869 beaches across the Balearic Islands for the next decades as a function of greenhouse gases emission scenario. The most pessimistic scenario (RCP8.5) at the end of the century yields an averaged percentage of flooded area of 66% under mean conditions which increases up to 86% under extreme conditions. Moreover, 72 of the 869 beaches of the region would permanently disappear while 314 would be completely flooded during storm episodes. Under a moderate scenario of emissions (RCP4.5), 37 beaches would permanently disappear while 254 would disappear only during storm episodes. In both cases, the average permanent loss of beach surface at the end of the century would be larger than 50%, rising over 80% during storm conditions. The results obtained for the Balearic Islands can be extrapolated to the rest of the Mediterranean as the beaches in all the regions have similar characteristics and will be affected by similar changes in sea level and wave climate. These projections indicate that adaptation plans for beach areas should be put in place as soon as possible.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2021.760725/full"
+  },
+  {
+    "title": "Media Coverage and Perceived Policy Influence of Environmental Actors: Good Strategy or Pyrrhic Victory?",
+    "authors": [
+      "Adam C. Howe,",
+      "Mark C. J. Stoddart,",
+      "David B. Tindall"
+    ],
+    "doi": "https://doi.org/10.17645/pag.v8i2.2595",
+    "journalVolume": "Vol. 8,\n                                no. 2\n                                \n                                  pp.\n                                  298\n                                  – 310",
+    "issn": "2183-2463 (Online)",
+    "publisher": "Cogitatio",
+    "countryOfPublisher": "Portugal",
+    "lcc": [
+      "Political science: Political science (General)"
+    ],
+    "journalUrl": "http://www.cogitatiopress.com/politicsandgovernance",
+    "abstract": "In this article we analyze how media coverage for environmental actors (individual environmental activists and environmental movement organizations) is associated with their perceived policy influence in Canadian climate change policy networks. We conceptualize media coverage as the total number of media mentions an actor received in Canada’s two main national newspapers—the Globe and Mail and National Post. We conceptualize perceived policy influence as the total number of times an actor was nominated by other actors in a policy network as being perceived to be influential in domestic climate change policy making in Canada. Literature from the field of social movements, agenda setting, and policy networks suggests that environmental actors who garner more media coverage should be perceived as more influential in policy networks than actors who garner less coverage. We assess support for this main hypothesis in two ways. First, we analyze how actor attributes (such as the type of actor) are associated with the amount of media coverage an actor receives. Second, we evaluate whether being an environmental actor shapes the association between media coverage and perceived policy influence. We find a negative association between media coverage and perceived policy influence for individual activists, but not for environmental movement organizations. This case raises fundamental theoretical questions about the nature of relations between media and policy spheres, and the efficacy of media for signaling and mobilizing policy influence.",
+    "readLink": "https://www.cogitatiopress.com/politicsandgovernance/article/view/2595"
+  },
+  {
+    "title": "Effects of the Long-Term Climate Change and Selective Discharge Schemes on the Thermal Stratification of a Large Deep Reservoir, Xin’anjiang Reservoir, China",
+    "authors": [
+      "Huiyun Li,",
+      "Jia Lan,",
+      "Boqiang Qin,",
+      "Liancong Luo,",
+      "Junliang Jin,",
+      "Guangwei Zhu,",
+      "Zhixu Wu"
+    ],
+    "doi": "https://doi.org/10.3390/w14203279",
+    "journalVolume": "Vol. 14,\n                                no. 3279\n                                \n                                  p.\n                                  3279",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The effects of global warming and precipitation changes on water temperature and thermocline parameters, such as thermocline depth, thickness, and strength, were assessed. A catchment model, coupled with a reservoir thermal model with meteorological input calculated by a downscaled general circulation model (GCM) projection under three representative concentration pathways (RCPs), was applied to the Xin’anjiang Reservoir, located in southeast China. The results indicate that water temperature in each layer increased (decreased) with the rise (decline) in air temperature, especially the surface water temperature. There was a significant negative (positive) correlation between thermocline depth (strength) and air temperature during the period of stratification weakness. The most sensitive phenomenon of water temperature-to-precipitation changes occurred in the middle layer (depth = 30 m). Additionally, the thermocline depth and thickness increased with decreases in hydraulic residence time, which were caused by precipitation increases. According to the simulation experiments driven by RCP outputs, mean water temperature in each water layer in the future (2096–2100) has a strong response to increases in air temperature, which is projected to increase by 0.11–0.62 °C for RCP2.6, 0.76–1.19 °C for RCP4.5, and 1.50–2.35 °C for RCP8.5, compared to the baseline (2012–2016). However, mean water temperature in each water layer from 2096 to 2100 underwent a slight decrease caused by precipitation changes, with a 0.03–0.25 °C decrease for RCP2.6, 0.07–0.40 °C for RCP4.5, and 0.04–0.29 °C for RCP8.5, compared to 2012–2016. The mean thermocline depth in the future (2096–2100) will be significantly decreased, while the mean thermocline thickness will be slightly increased. Over a multiyear timescale, the impacts of air temperature changes are stronger than those induced by precipitation variations. However, the effects of hydraulic residence time changes caused by precipitation changes (especially rainstorm) should be considered in the management of deep reservoirs.",
+    "readLink": "https://www.mdpi.com/2073-4441/14/20/3279"
+  },
+  {
+    "title": "A Rule-Based Control Strategy of Driver Demand to Enhance Energy Efficiency of Hybrid Electric Vehicles",
+    "authors": [
+      "Kuohsiu David Huang,",
+      "Minh-Khoa Nguyen,",
+      "Po-Tuan Chen"
+    ],
+    "doi": "https://doi.org/10.3390/app12178507",
+    "journalVolume": "Vol. 12,\n                                no. 8507\n                                \n                                  p.\n                                  8507",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "In recent years, hybrid electric vehicles (HEVs) have increased significantly due to climate change and the demand for high-efficiency power sources. HEVs that combine an internal combustion engine (ICE) and an electric motor (EM) can improve the power output of the ICE and overcome the challenges of the insufficient battery life of electric vehicles. In this study, a parallel HEV with a power distribution mechanism is developed for energy saving and carbon reduction. The driver′s power demands are used as input sources, and a rule-based control strategy is used to determine the power distribution of the generator, EM, and ICE. The NEDC2000 driving cycle is used as the test benchmark to demonstrate the performance of the HEV. In comparison to ICE vehicles, the fuel efficiency of HEVs significantly improved. In addition, other parameters, including the average brake-specific fuel consumption (BSFC), brake-specific carbon monoxide emission (BSCO), and brake-specific hydrocarbons (BSHCs), were lower, which can effectively save fossil fuel and reduce air pollution.",
+    "readLink": "https://www.mdpi.com/2076-3417/12/17/8507"
+  },
+  {
+    "title": "Negative emissions—Part 3: Innovation and upscaling",
+    "authors": [
+      "Gregory F Nemet,",
+      "Max W Callaghan,",
+      "Felix Creutzig,",
+      "Sabine Fuss,",
+      "Jens Hartmann,",
+      "Jérôme Hilaire,",
+      "William F Lamb,",
+      "Jan C Minx,",
+      "Sophia Rogers,",
+      "Pete Smith"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aabff4",
+    "journalVolume": "Vol. 13,\n                                no. 6\n                                \n                                  p.\n                                  063003",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "We assess the literature on innovation and upscaling for negative emissions technologies (NETs) using a systematic and reproducible literature coding procedure. To structure our review, we employ the framework of sequential stages in the innovation process, with which we code each NETs article in innovation space. We find that while there is a growing body of innovation literature on NETs, 59% of the articles are focused on the earliest stages of the innovation process, ‘research and development’ (R&D). The subsequent stages of innovation are also represented in the literature, but at much lower levels of activity than R&D. Distinguishing between innovation stages that are related to the supply of the technology (R&D, demonstrations, scale up) and demand for the technology (demand pull, niche markets, public acceptance), we find an overwhelming emphasis (83%) on the supply side. BECCS articles have an above average share of demand-side articles while direct air carbon capture and storage has a very low share. Innovation in NETs has much to learn from successfully diffused technologies; appealing to heterogeneous users, managing policy risk, as well as understanding and addressing public concerns are all crucial yet not well represented in the extant literature. Results from integrated assessment models show that while NETs play a key role in the second half of the 21st century for 1.5 °C and 2 °C scenarios, the major period of new NETs deployment is between 2030 and 2050. Given that the broader innovation literature consistently finds long time periods involved in scaling up and deploying novel technologies, there is an urgency to developing NETs that is largely unappreciated. This challenge is exacerbated by the thousands to millions of actors that potentially need to adopt these technologies for them to achieve planetary scale. This urgency is reflected neither in the Paris Agreement nor in most of the literature we review here. If NETs are to be deployed at the levels required to meet 1.5 °C and 2 °C targets, then important post-R&D issues will need to be addressed in the literature, including incentives for early deployment, niche markets, scale-up, demand, and—particularly if deployment is to be hastened—public acceptance.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aabff4"
+  }
+]

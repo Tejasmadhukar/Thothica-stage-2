@@ -1,0 +1,221 @@
+[
+  {
+    "title": "Climate-driven changes of production regions in Central Europe",
+    "authors": [
+      "M. Trnka,",
+      "J. Eitzinger,",
+      "P. Hlavinka,",
+      "M. Dubrovský,",
+      "D. Semerádová,",
+      "P. Štěpánek,",
+      "S. Thaler,",
+      "Z. Žalud,",
+      "M. Možný,",
+      "H. Formayer"
+    ],
+    "doi": "https://doi.org/10.17221/1017-PSE",
+    "journalVolume": "Vol. 55,\n                                no. 6\n                                \n                                  pp.\n                                  257\n                                  – 266",
+    "issn": "1214-1178 (Print)",
+    "publisher": "1805-9368 (Online)",
+    "countryOfPublisher": "Czech Academy of Agricultural Sciences",
+    "lcc": [
+      "Czechia",
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "https://pse.agriculturejournals.cz/",
+    "abstract": "The presented work complements studies on agroclimatic zoning that were performed during 19th and 20th century in the Czech Republic and Austria and allows estimating the effect of climate change on the spatial distribution of agroclimatic conditions within both countries. The main conclusions of the study are: (1) The combination of increased air temperature and changes in the amount and distribution of precipitation will lead to significant shifts in the agroclimatic zones by the 2020's. The current most productive areas will be reduced and replaced by warmer but drier conditions, which are considered less suitable for rainfed farming. (2) While trends in the changes expected in lowlands are mostly negative (especially for non-irrigated crops), higher elevations might experience improvement in their agroclimatic production potential. However, the production potential of these regions is usually limited by other factors such as the soil quality and terrain accessibility. Additionally, these positive effects might be shortlived, as by the 2050's, even the areas in higher altitudes might experience much drier conditions than nowadays. (3) Dairy-oriented agriculture (based on permanent grassland production) at higher altitudes could suffer through an increased evapotranspiration demand combined with a decrease in precipitation, leading to higher water deficits and yield variations. (4) All above listed changes will most likely occur within less than four decades. The rate of change might be so high that the concept of agroclimatic zoning itself might lose its relevance due to the perpetual change.",
+    "readLink": "https://pse.agriculturejournals.cz/artkey/pse-200906-0006_climate-driven-changes-of-production-regions-in-central-europe.php"
+  },
+  {
+    "title": "Recording Urban Land Dynamic and Its Effects during 2000–2019 at 15-m Resolution by Cloud Computing with Landsat Series",
+    "authors": [
+      "Yulin Dong,",
+      "Zhibin Ren,",
+      "Yao Fu,",
+      "Zhenghong Miao,",
+      "Ran Yang,",
+      "Yuanhe Sun,",
+      "Xingyuan He"
+    ],
+    "doi": "https://doi.org/10.3390/rs12152451",
+    "journalVolume": "Vol. 12,\n                                no. 2451\n                                \n                                  p.\n                                  2451",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Cities, the core of the global climate change and economic development, are high impact land cover land use change (LCLUC) hotspots. Comprehensive records of land cover land use dynamics in urban regions are essential for strategic climate change adaption and mitigation and sustainable urban development. This study aims to develop a Google Earth Engine (GEE) application for high-resolution (15-m) urban LCLUC mapping with a novel classification scheme using pan-sharpened Landsat images. With this approach, we quantified the annual LCLUC in Changchun, China, from 2000 to 2019, and detected the abrupt changes (turning points of LCLUC). Ancillary data on social-economic status were used to provide insights on potential drivers of LCLUC by examining their correlation with change rate. We also examined the impacts of LCLUC on environment, specifically air pollution. Using this approach, we can classify annual LCLUC in Changchun with high accuracy (all above 0.91). The change detection based on the high-resolution wall-to-wall maps show intensive urban expansion with the compromise of cropland from 2000 to 2019. We also found the growth of green space in urban regions as the result of green space development and management in recent years. The changing rate of different land types were the largest in the early years of the observation period. Turning points of land types were primarily observed in 2009 and 2010. Further analysis showed that economic and industry development and population migration collectively drove the urban expansion in Changchun. Increasing built-up areas could slow wind velocity and air exchange, and ultimately led to the accumulation of PM2.5. Our implement of pan-sharpened Landsat images facilitates the wall-to-wall mapping of temporal land dynamics at high spatial resolution. The primary use of GEE for mapping urban land makes it replicable and transferable by other users. This approach is a first crucial step towards understanding the drivers of change and supporting better decision-making for sustainable urban development and climate change mitigation.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/15/2451"
+  },
+  {
+    "title": "Drought-Induced Reduction in Net Primary Productivity across Mainland China from 1982 to 2015",
+    "authors": [
+      "Chengguang Lai,",
+      "Jun Li,",
+      "Zhaoli Wang,",
+      "Xiaoqing Wu,",
+      "Zhaoyang Zeng,",
+      "Xiaohong Chen,",
+      "Yanqing Lian,",
+      "Haijun Yu,",
+      "Peng Wang,",
+      "Xiaoyan Bai"
+    ],
+    "doi": "https://doi.org/10.3390/rs10091433",
+    "journalVolume": "Vol. 10,\n                                no. 9\n                                \n                                  p.\n                                  1433",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Terrestrial net primary productivity (NPP) plays an essential role in the global carbon cycle as well as for climate change. However, in the past three decades, terrestrial ecosystems across mainland China suffered from frequent drought and, to date, the adverse impacts on NPP remain uncertain. This study explored the spatiotemporal features of NPP and discussed the influences of drought on NPP across mainland China from 1982 to 2015 using the Carnegie Ames Stanford Application (CASA) model and the standardized precipitation evapotranspiration index (SPEI). The obtained results indicate that: (1) The total annual NPP across mainland China showed an non-significantly increasing trend from 1982 to 2015, with annual increase of 0.025 Pg C; the spring NPP exhibited a significant increasing trend (0.031 Pg C year−1, p < 0.05) while the summer NPP showed a higher decreasing trend (0.019 Pg C year−1). (2) Most areas of mainland China were spatially dominated by a positive correlation between annual NPP and SPEI and a significant positive correlation was mainly observed for Northern China; specific to the nine sub-regions, annual NPP and SPEI shared similar temporal patterns with a significant positive relation in Northeastern China, Huang-Huai-Hai, Inner Mongolia, and the Gan-Xin Region. (3) During the five typical drought events, more than 23% areas of mainland China experienced drought ravage; the drought events generally caused about 30% of the NPP reduction in most of the sub-regions while the NPP in the Qinghai-Tibet Plateau Region generally decreased by about 10%.",
+    "readLink": "http://www.mdpi.com/2072-4292/10/9/1433"
+  },
+  {
+    "title": "Vitals rates and seasonal movements of two isolated greater sage-grouse populations in Utah's West Desert",
+    "authors": [
+      "Jason D. Robinson,",
+      "Terry A. Messmer"
+    ],
+    "doi": "https://doi.org/10.26077/gxyx-py18",
+    "journalVolume": "Vol. 7,\n                                no. 2",
+    "issn": "2155-3874 (Online)",
+    "publisher": "Utah State University",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "https://digitalcommons.usu.edu/hwi/",
+    "abstract": "Declines in greater sage-grouse (Centrocercus urophasianus; hereafter, sage-grouse) populations in Utah over the last century parallel range-wide trends. However, little is known about the ecology of sage-grouse populations that inhabit Utah’s naturally fragmented habitats. Utah’s West Desert sage-grouse populations occupy sagebrush (Artemisia spp.) habitats that are geographically separated by the Great Salt Lake, and largely confined to the Sheeprock and Deep Creek watersheds. From 2005 to 2006, we monitored sage-grouse that were radio-collared in each watershed to determine the factors affecting the vital rates in these isolated populations. Livestock grazing by domestic cattle was the dominate land use, and mammalian predator control for livestock protection was conducted in both watersheds. Corvid control was conducted only in the Sheeprock watershed. During the study, we identified 6 leks that had not been previously documented. Seasonal migration patterns for individual radio-collared sage-grouse in both watersheds varied across the sites. Habitat structure metrics were similar at brood-rearing and random sites for both areas. Nesting and brood success and the ratio of chicks per successful brood were higher for both populations in 2005 than 2006. We attributed these annual differences in vital rates to seasonal variation in precipitation. Spring precipitation in 2005 was twice the 30-year average following a 5 year drought. However, chick recruitment estimates for both populations regardless of year were lower than reported in the published literature. Adult sage-grouse survival rate estimates in Sheeprock and Deep Creek watersheds were lower and higher, respectively, than published reports indicated. These differences may reflect a difference in meso-predators communities. Sage-grouse conservation strategies in both areas should continue to emphasize protection of brood-rearing and seasonal habitat, but the risk of population extirpation as a consequence of extended droughts predicted by climate change models and the invasion of small meso-predators may remain problematic for these populations.",
+    "readLink": "https://digitalcommons.usu.edu/hwi/vol7/iss2/12"
+  },
+  {
+    "title": "Spatial and Temporal Variations of Temperature in the Punjab Province, Pakistan",
+    "authors": [
+      "Sohail Abbas, Safdar Ali Shirazi, Nausheen Mazhar, Kashif Mahmood, Ashfak Ahmad Khan"
+    ],
+    "doi": "https://doi.org/10.46660/ijeeg.Vol12.Iss1.2021.564",
+    "journalVolume": "Vol. 12,\n                                no. 01\n                                \n                                  pp.\n                                  67\n                                  – 75",
+    "issn": "2223-957X (Online)",
+    "publisher": "Society of Economic Geologists and Mineral Technologists",
+    "countryOfPublisher": "Pakistan",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.econ-environ-geol.org",
+    "abstract": "Identifying the temperature change at a regional level is one of the essential parameters to determine theintensity of climate change. The current investigation provides an examination of changing trends of temperature in thePunjab province from 1970 to 2019. Sen's slope estimator method is applied to monthly data of mean temperature(Tmean), maximum temperature (Tmax), and minimum temperature (Tmin) to calculate the rate of temperature change.Statistical methods were used to find out the level of significance in terms of negative or positive trends to examine thevariability among various weather observatories. Moreover, predicted values have also been observed for a detailedanalysis of temperature variability and trends. Significant and pronounced changes in the mean temperature (T mean) are distinguished all over the Punjab regions with an increasing trend from North to South Punjab. In the case of maximum temperature (Tmax), a faster rate of rising in temperature is observed over the Southern and Western regionsof Punjab. In contrast, the minimum temperature (Tmin) shows an increasing trend in Central Punjab. The findings provide detailed insight to policymakers for the planning of mitigating efforts and adaptation strategies in response to climate change.",
+    "readLink": "https://www.econ-environ-geol.org/index.php/ojs/article/view/564/356"
+  },
+  {
+    "title": "Increasing Alaskan river discharge during the cold season is driven by recent warming",
+    "authors": [
+      "Dylan Blaskey,",
+      "Joshua C Koch,",
+      "Michael N Gooseff,",
+      "Andrew J Newman,",
+      "Yifan Cheng,",
+      "Jonathan A O’Donnell,",
+      "Keith N Musselman"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/acb661",
+    "journalVolume": "Vol. 18,\n                                no. 2\n                                \n                                  p.\n                                  024042",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Arctic hydrology is experiencing rapid changes including earlier snow melt, permafrost degradation, increasing active layer depth, and reduced river ice, all of which are expected to lead to changes in stream flow regimes. Recently, long-term (>60 years) climate reanalysis and river discharge observation data have become available. We utilized these data to assess long-term changes in discharge and their hydroclimatic drivers. River discharge during the cold season (October–April) increased by 10% per decade. The most widespread discharge increase occurred in April (15% per decade), the month of ice break-up for the majority of basins. In October, when river ice formation generally begins, average monthly discharge increased by 7% per decade. Long-term air temperature increases in October and April increased the number of days above freezing (+1.1 d per decade) resulting in increased snow ablation (20% per decade) and decreased snow water equivalent (−12% per decade). Compared to the historical period (1960–1989), mean April and October air temperature in the recent period (1990–2019) have greater correlation with monthly discharge from 0.33 to 0.68 and 0.0–0.48, respectively. This indicates that the recent increases in air temperature are directly related to these discharge changes. Ubiquitous increases in cold and shoulder-season discharge demonstrate the scale at which hydrologic and biogeochemical fluxes are being altered in the Arctic.",
+    "readLink": "https://doi.org/10.1088/1748-9326/acb661"
+  },
+  {
+    "title": "Using historical tropical cyclone climate datasets to examine wind speed recurrence for coastal Australia",
+    "authors": [
+      "S. S. Bell,",
+      "A. J. Dowdy,",
+      "H. A. Ramsay,",
+      "S. S. Chand,",
+      "C-H Su,",
+      "H. Ye"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-022-14842-2",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Likelihood estimates of extreme winds, including those from tropical cyclones (TCs) at certain locations are used to inform wind load standards for structural design. Here, wind speed average recurrence intervals (ARIs) determined from TC climate data dating back to the 1970s in two quantile–quantile adjusted reanalysis datasets (ERA5 and BARRA [1990]), and best-track observations for context, were compared with Standardized ARIs (AS/NZS) across seven tropical and two subtropical Australian inland coastal regions. The novelty of this work lies in determining TC-wind speed ARIs from a range of datasets that are not typically used to evaluate this metric. Inherent differences between the data used to determine the Standard ARIs (large sample size allow for larger extrapolations; GEV function) and TC data ARIs (smaller sample size and less certain data; the more asymptotic Lognormal/Weibull functions are used) led to the use of different extreme value functions. Results indicated that although these are two distinct ways of determining design wind speeds, when they are considered equivalent, there was a moderate reproduction of the ARI curves with respect to the Standard in both reanalysis datasets, suggesting that similar analyses using climate model products can provide useful information on these types of metrics with some caveats. Trends in TC wind strength affecting coastal Australia were also analyzed, indicating a potential slight downtrend in tropical West coast TC wind strength and slight uptrend for tropical East coast TC wind strength, noting considerable uncertainty given the short time period and limitations of data quality including over longer time periods. Such trends are not only limited to the relationship between TC intensity and anthropogenic warming, but also to regional changes in TC frequency and track direction. This could lead to significant trends emerging in regional Australian TC wind gust strength before several decades of warming have occurred. It is hoped that climate models can provide both longer-term and a more homogenous base for these types of evaluations and subsequent projections with respect to climate change simulations.",
+    "readLink": "https://doi.org/10.1038/s41598-022-14842-2"
+  },
+  {
+    "title": "Consequences of Hatch Phenology on Stages of Fish Recruitment.",
+    "authors": [
+      "David M Bogner,",
+      "Mark A Kaemingk,",
+      "Melissa R Wuellner"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0164980",
+    "journalVolume": "Vol. 11,\n                                no. 10\n                                \n                                  p.\n                                  e0164980",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Little is known about how hatch phenology (e.g., the start, peak, and duration of hatching) could influence subsequent recruitment of freshwater fishes into a population. We used two commonly sympatric fish species that exhibit different hatching phenologies to examine recruitment across multiple life stages. Nine yellow perch (Perca flavescens) and bluegill (Lepomis macrochirus) annual cohorts were sampled from 2004 through 2013 across larval, age-0, age-1, and age-2 life stages in a Nebraska (U.S.A.) Sandhill lake. Yellow perch hatched earlier in the season and displayed a more truncated hatch duration compared to bluegill. The timing of hatch influenced recruitment dynamics for both species but important hatching metrics were not similar between species across life stages. A longer hatch duration resulted in greater larval yellow perch abundance but greater age-1 bluegill abundance. In contrast, bluegill larval and age-0 abundances were greater during years when hatching duration was shorter and commenced earlier, whereas age-0 yellow perch abundance was greater when hatching occurred earlier. As a result of hatch phenology, yellow perch recruitment variability was minimized sooner (age-0 life stage) than bluegill (age-1 life stage). Collectively, hatch phenology influenced recruitment dynamics across multiple life stages but was unique for each species. Understanding the complexities of when progeny enter an environment and how this influences eventual recruitment into a population will be critical in the face of ongoing climate change.",
+    "readLink": "http://europepmc.org/articles/PMC5072656?pdf=render"
+  },
+  {
+    "title": "Thailand’s mid-century greenhouse gas emission pathways to achieve the 2 degrees Celsius target",
+    "authors": [
+      "Achiraya Chaichaloempreecha,",
+      "Puttipong Chunark,",
+      "Tatsuya Hanaoka,",
+      "Bundit Limmeechokchai"
+    ],
+    "doi": "https://doi.org/10.1186/s13705-022-00349-1",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 20",
+    "issn": "2192-0567 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://energsustainsoc.biomedcentral.com/",
+    "abstract": "Abstract Background The Paris Agreement aims at minimizing threats of climate change by keeping global temperature rise well below 2 degrees Celsius above the pre-industrial level and to pursue efforts to limit the rise to 1.5 degrees Celsius. The Representative Concentration Pathways (RCPs) are developed to investigate GHG emission pathways. RCP2.6 focuses on limiting the global temperature rise to less than 2 degrees Celsius. This paper assesses the impacts of carbon price and CCS on energy and GHG emissions in Thailand. The no carbon price (T0) and the carbon price pathways are compared. In addition, the net-zero emissions and year are discussed. Results The decarbonized energy system with low-carbon power generation and increased electricity usage in the final energy consumption is the main pillar of GHG mitigation. Imposing carbon prices; increasing solar, wind, and biomass electricity generation; energy efficiency improvements in power generation; and energy savings in the industry and the building sectors, will be the key options for clean power generation in the carbon prices (CT) scenarios. Renewable electricity, coal and natural gas, coupled with CCS and bio-energy with CCS (BECCS) will be utilized significantly to curb GHG emissions. The increase of renewable energy and the electrification of end-use plays a key role in reducing GHG emissions. Fuel switching from diesel to biodiesel, energy efficiency improvement and electric pick-ups and trucks will help reducing GHG emissions in the transport sector. Conclusions There are three major policy implications to meet Thailand’s 2 degrees Celsius target. First, carbon prices will be the mechanism to accelerate the transformation in the energy sector. Wind and solar electricity will be key pillars of clean electricity in 2050. Policy-makers should update the renewable electricity plans to meet Thailand’s 2 degrees Celsius target in 2050. Second, coal- and gas-fired plants, and BECCS will become important options in reducing CO2 emissions. The policy-makers should investigate the application of CCS in the power sector and the storage location. Third, a major transformation in the transport sector is critically needed. Liquid biofuel and electrification in pick-ups, sedans, and trucks will help reduce GHG emissions.",
+    "readLink": "https://doi.org/10.1186/s13705-022-00349-1"
+  },
+  {
+    "title": "THE EUROPEAN UNION AS A LEADER IN INTERNATIONAL CLIMATE CHANGE POLITICS",
+    "authors": [
+      "Victoria BEVZIUC"
+    ],
+    "doi": "https://doi.org/10.5281/zenodo.3980403",
+    "journalVolume": "Vol. 89,\n                                no. 2\n                                \n                                  pp.\n                                  10\n                                  – 23",
+    "issn": "1812-2566 (Print)",
+    "publisher": "2587-4063 (Online)",
+    "countryOfPublisher": "Universitatea de Studii Politice și Economice Europene C. Stere",
+    "lcc": [
+      "Moldova, Republic of",
+      "Education: Education (General)"
+    ],
+    "journalUrl": "https://revistestiintifice.md/moldoscopie/",
+    "abstract": "The phenomenon of climate change is very complex one. Climate change and problems of its causes and effects are being reserched and analyzed by many researchers, scholars, authors and by representatives of other sciences. A number of books and articles have been written on the climate change process. This is determined by the specificity of the researched problem, which is requiring to analyze it through an interdisciplinary approach, more specific through geopolitical perspective. Since the late 1990s, the European Union (EU) has racked up a series of apparently impressive climate policy achievements which lend substance to the oft-heard claim that it is a global leader in the field. In this context, novel ways to share the efforts required to reduce emissions between its Member States and across different economic sectors have been developed.",
+    "readLink": "https://ibn.idsi.md/sites/default/files/imag_file/10-23_3.pdf"
+  }
+]

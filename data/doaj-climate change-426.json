@@ -1,0 +1,229 @@
+[
+  {
+    "title": "Silicone v1.0.0: an open-source Python package for inferring missing emissions data for climate change research",
+    "authors": [
+      "R. D. Lamboll,",
+      "Z. R. J. Nicholls,",
+      "Z. R. J. Nicholls,",
+      "J. S. Kikstra,",
+      "J. S. Kikstra,",
+      "M. Meinshausen,",
+      "M. Meinshausen,",
+      "J. Rogelj,",
+      "J. Rogelj"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-13-5259-2020",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  5259\n                                  – 5275",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Integrated assessment models (IAMs) project future anthropogenic emissions which can be used as input for climate models. However, the full list of climate-relevant emissions is lengthy and most IAMs do not model all of them. Here we present Silicone, an open-source Python package which infers anthropogenic emissions of unmodelled species based on other reported emissions projections. For example, it can infer nitrous oxide emissions in one scenario based on carbon dioxide emissions from that scenario plus the relationship between nitrous oxide and carbon dioxide emissions found in other scenarios. Infilling broadens the range of IAMs available for exploring projections of future climate change, and hence Silicone forms part of the open-source pipeline for assessments of the climate implications of IAM scenarios, led by the Integrated Assessment Modelling Consortium (IAMC). This paper presents a variety of infilling options and outlines their suitability for different cases. We recommend certain infilling techniques as good defaults but emphasise that considering the specifics of the model being infilled will produce better results. We demonstrate the package's utility with three examples: infilling all required gases for a pathway with data for only one emission species, splitting up a Kyoto emissions total into separate gases, and complementing a set of idealised emissions curves to provide a complete, consistent emissions portfolio. The code and notebooks explaining details of the package and how to use it are available on GitHub (https://github.com/GranthamImperial/silicone, last access: 2 November 2020). The repository with this paper's examples and uses of the code to complement existing research is available at https://github.com/GranthamImperial/silicone_examples (last access: 2 November 2020).",
+    "readLink": "https://gmd.copernicus.org/articles/13/5259/2020/gmd-13-5259-2020.pdf"
+  },
+  {
+    "title": "A Sustainability-driven Integrated model of strategic management for coastal urban projects",
+    "authors": [
+      "Truc Thi-Minh Huynh,",
+      "Long Le-Hoai,",
+      "Anh-Duc Pham"
+    ],
+    "doi": "https://doi.org/10.1080/13467581.2023.2270024",
+    "journalVolume": "Vol. 0,\n                                no. 0\n                                \n                                  pp.\n                                  1\n                                  – 22",
+    "issn": "1347-2852 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Fine Arts: Architecture",
+      "Technology: Building construction"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tabe",
+    "abstract": "Amidst today’s climate change-related environmental risks, both new and experienced investors may face uncertainty and lack of direction when preparing for investments, particularly in large-scale urban development projects. Therefore, guidance in construction investment, especially during the planning stage, becomes crucial to enhance the likelihood of success in coastal urban development projects and promote sustainable development. This study offers a valuable tool that integrates quantitative approaches like the “Balanced Scorecard” (BSC), “Analytical Network Process” (ANP), fuzzy theory, and “Decision Making Trial and Evaluation Laboratory” (DEMATEL) to create a strategic performance management framework focused on sustainable development. The model emphasizes the significance of investing in human resources, IT systems, and enterprise culture to foster business growth and development in urban coastal projects. Additionally, the study underscores the importance of internal control over project time, technology, quality, legal compliance, and resources, which serve as the driving forces behind operational processes. Furthermore, effective and flexible management of financial, social, and environmental activities is vital to ensure enterprise success while adhering to environmental, health, and safety requirements.",
+    "readLink": "http://dx.doi.org/10.1080/13467581.2023.2270024"
+  },
+  {
+    "title": "Assessment to China's Recent Emission Pattern Shifts",
+    "authors": [
+      "Yuru Guan,",
+      "Yuli Shan,",
+      "Qi Huang,",
+      "Huilin Chen,",
+      "Dan Wang,",
+      "Klaus Hubacek"
+    ],
+    "doi": "https://doi.org/10.1029/2021EF002241",
+    "journalVolume": "Vol. 9,\n                                no. 11\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Energy and emission data are crucial to climate change research and mitigation efforts. The accuracy of energy statistics is essential for mitigation strategies and evaluating the performance of low carbon energy transition efforts. This study provides the most up‐to‐date emission inventories for China and its provinces for 2018 and 2019. We also update the carbon dioxide (CO2) emission inventories of China and 30 provinces since 2012 based on the newly revised energy statistics. The inventories are compiled in a combined accounting approach of scope 1 (Intergovernmental Panel on Climate Change territorial emissions from 17 types of fossil fuel combustion and cement production by 47 socioeconomic sectors) and scope 2 (emissions from purchased electricity and heat consumption). The most recent energy revision led to an increase in reported national CO2 emissions by an average of 0.3% from 2014 to 2017. The results show that data revisions raised China's carbon intensity mitigation baseline (in 2005) by 5.1%–10.8% and thus made it more challenging to fulfill the mitigation pledges. However, the 2020 carbon intensity mitigation target was achieved ahead of schedule in 2018. A preliminary estimate of China's national emissions for 2020 shows that the COVID‐19 pandemic and lockdown was not able to offset China's annual increase in CO2 emissions. These emissions inventories provide an improved evidence base for China's policies toward net‐zero emissions.",
+    "readLink": "https://doi.org/10.1029/2021EF002241"
+  },
+  {
+    "title": "Monitoring and mapping of snow cover variability using topographically derived NDSI model over north Indian Himalayas during the period 2008–19",
+    "authors": [
+      "Vishakha Sood,",
+      "Sartajvir Singh,",
+      "Ajay Kumar Taloor,",
+      "Shivendu Prashar,",
+      "Ravneet Kaur"
+    ],
+    "doi": "Vol. 8\n                                \n                                \n                                  p.\n                                  100040",
+    "issn": "2590-1974 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation",
+      "Science: Geology",
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/applied-computing-and-geosciences",
+    "abstract": "The Himalayas is an essential component of the cryosphere due to the large extent of snow or ice cover. The mapping and monitoring of snow cover variability over the Himalayas is the focus of many scientific studies due to the major source of water for Asian countries and equally important for climate change studies. This study describes the analysis of snow cover variability over North Indian Himalayas (NIH) covering Western Himalayas and Karakoram mountain ranges. The snow cover area (SCA) has been analyzed in three different climate zones such as upper Himalayan zone (UHZ) (Ladakh and Karakoram range), middle Himalayan zone (MHZ) (Great Himalaya and Zanskar) and lower Himalayan zone (LHZ) (Pir Panjal and Shamshbari range) at various elevation levels as well as aspect levels during the past decade (2008–2019). The snow cover maps have been generated for NIH and its climate zones from Moderate Resolution Imaging Spectroradiometer (MODIS) data. Experimental outcomes have represented that mean annual SCA over LHZ, MHZ, and UHZ has been observed as ~40,000 ​Km2, ~60,000 ​Km2, and ~1,00,000 ​Km2 and also, shown a shift of one month of snow accumulation and snowmelt since the past decade. This study delivers the essential information regarding the present status of snow cover area estimation over NIH. The study has many applications in climatology, hydrology, cryosphere, and glaciology.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2590197420300227"
+  },
+  {
+    "title": "Applying Analytic Hierarchy Process to Adaptation to Saltwater Intrusion in Vietnam",
+    "authors": [
+      "Thi  Dieu Linh Nguyen,",
+      "Brent Bleys"
+    ],
+    "doi": "https://doi.org/10.3390/su13042311",
+    "journalVolume": "Vol. 13,\n                                no. 2311\n                                \n                                  p.\n                                  2311",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Given the multidimensional nature of climate change issues, decision-making in climate change adaptation is a complex process, and suitable decision support methods are needed. The aim of this paper was to rank saltwater intrusion adaptation options for farmers in two provinces in the central coastal region of Vietnam using the analytical hierarchy process method. Data for the analysis were obtained through a literature review, field observations, and face-to-face interviews and focus group discussions with key informants. We combined two ways of weighting to arrive at final scores for each of the identified adaptation options: prioritizing criteria and subcriteria by pairwise comparison and rating the different alternatives with respect to the lowest level subcriteria. In doing so, we also investigated differences in the priority sets and final rankings of the analytical hierarchy process applications in both provinces. In our study, we worked with group consensus scores on both the criteria weights and the ratings for the different adaptation options for each of the criteria. Our results revealed that “sustainability and equity” was the most important criteria, while coherence ranked lowest. The final ranking of adaptation options differed between both provinces due to differences in the geographical and socioeconomic characteristics of the study areas. The consistency ratios for all pairwise matrices were less than 0.1, indicating that judgments from the focus group discussions with respect to the different criteria were highly consistent. A sensitivity analysis of our results confirmed the robustness of the rankings in our research.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/4/2311"
+  },
+  {
+    "title": "The Evaluation of the Temperature Reduction Effects of Cool Roofs and Cool Pavements as Urban Heatwave Mitigation Strategies",
+    "authors": [
+      "Sunmin Lee,",
+      "Young-Il Cho,",
+      "Moung-Jin Lee,",
+      "Young-Shin Lim"
+    ],
+    "doi": "https://doi.org/10.3390/app132011451",
+    "journalVolume": "Vol. 13,\n                                no. 11451\n                                \n                                  p.\n                                  11451",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "Various types of damage, including health risks, caused by abnormal climate conditions have gradually increased in recent years, particularly in cities with a high degree of complexity. In particular, it is important to address heatwave damage risk from both technical and policy perspectives because it poses risks to older adults and/or disadvantaged individuals. This study was performed to assess the quantitative effects of two heatwave mitigation measures, cool roofs and cool pavements, in the Jangyumugye district of Gimhae, Republic of Korea. Thermal imaging cameras were used to measure surface temperatures after the installation of these measures; after the installation of cool roofs, indoor temperatures were also measured using temperature measurement data loggers. Then, a survey was conducted to obtain feedback from users of the associated facilities. From August to October 2019, surface temperatures were significantly reduced following the installation of cool roofs and cool pavements. Cool roofs constructed using slabs and panels provided average temperature reductions of 15.5 °C and 11.6 °C, respectively. Cool pavements showed a temperature reduction of ≥4 °C in both parking lot and alley sites. More than 30% of users noticed a reduction in temperature as a result of heatwave measure installation. These results may be used by the city to make informed policy decisions regarding the implementation of heatwave mitigation measures.",
+    "readLink": "https://www.mdpi.com/2076-3417/13/20/11451"
+  },
+  {
+    "title": "Greenhouse gas emission, carbon stock, adaptation and mitigation strategies at smallholder coffee plantation in West Nusa Tenggara",
+    "authors": [
+      "Ali Pramono,",
+      "Sadmaka"
+    ],
+    "doi": "https://doi.org/10.22302/iribb.jur.mp.294",
+    "journalVolume": "Vol. 86,\n                                no. 2\n                                \n                                  pp.\n                                  62\n                                  – 71",
+    "issn": "0125-9318 (Print)",
+    "publisher": "1858-3768 (Online)",
+    "countryOfPublisher": "indonesian research institute for biotechnology and bioindustry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://mp.iribb.org/index.php/mpjurnal/index",
+    "abstract": "Global warming and climate change are the world's major environmental, social and economic problems. The agricultural sector can act as an affected victim, greenhouse gas (GHG) contributor, and GHG absorber. Plantations have a very strategic role in the national action plan in GHG mitigation, because it has a great ability to absorb CO2. Therefore, it is necessary to determine the carbon stocks and GHG emissions from plantation management. The objectivesof the study wereto measure GHG emissions,to determine carbon stocks,and to define adaptation and mitigation strategies on climate change in existing coffee plantation systems. Gas samples were taken from 5 sampling points as replications by closedchamber method. Carbon stock estimation was done by destructive technique, including biomass of understorey and non-wood necromass. The results showed that the coffee plantations less than 10 years-oldat the study sites emitted 47 tons CO2-e/ha/year and stored carbon of 91.4 tons C/ha. Climate change adaptation strategies can be done by the application of good agricultural practices (GAP)andthe use of drought-tolerantclones, mulches,shade trees,multiple cropping systems, silt pitsand biophore techniques. The GHG mitigation can be done by the utilization of plantation waste as a source of organic fertilizer, biochar, animal feed, and bioenergy sources through the development of models of integration crop and livestock systems, as well as rejuvenation of plantation crops to increase carbon sinks and stocks.",
+    "readLink": "http://mp.iribb.org/index.php/mpjurnal/article/view/294"
+  },
+  {
+    "title": "Simulated stable water isotopes during the mid-Holocene and pre-industrial periods using AWI-ESM-2.1-wiso",
+    "authors": [
+      "X. Shi,",
+      "X. Shi,",
+      "A. Cauquoin,",
+      "G. Lohmann,",
+      "G. Lohmann,",
+      "L. Jonkers,",
+      "Q. Wang,",
+      "H. Yang,",
+      "H. Yang,",
+      "Y. Sun,",
+      "M. Werner"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-16-5153-2023",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  5153\n                                  – 5178",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "Numerical simulations employing prognostic stable water isotopes can not only facilitate our understanding of hydrological processes and climate change but also allow for a direct comparison between isotope signals obtained from models and various archives. In the current work, we describe the performance and explore the potential of a new version of the Earth system model AWI-ESM (Alfred Wegener Institute Earth System Model), labeled AWI-ESM-2.1-wiso, in which we incorporated three isotope tracers into all relevant components of the water cycle. We present here the results of pre-industrial (PI) and mid-Holocene (MH) simulations. The model reproduces the observed PI isotope compositions in both precipitation and seawater well and captures their major differences from the MH conditions. The simulated relationship between the isotope composition in precipitation (δ18Op) and surface air temperature is very similar between the PI and MH conditions, and it is largely consistent with modern observations despite some regional model biases. The ratio of the MH–PI difference in δ18Op to the MH–PI difference in surface air temperature is comparable to proxy records over Greenland and Antarctica only when summertime air temperature is considered. An amount effect is evident over the North African monsoon domain, where a negative correlation between δ18Op and the amount of precipitation is simulated. As an example of model applications, we studied the onset and withdrawal date of the MH West African summer monsoon (WASM) using daily variables. We find that defining the WASM onset based on precipitation alone may yield erroneous results due to the substantial daily variations in precipitation, which may obscure the distinction between pre-monsoon and monsoon seasons. Combining precipitation and isotope indicators, we suggest in this work a novel method for identifying the commencement of the WASM. Moreover, we do not find an obvious difference between the MH and PI periods in terms of the mean onset of the WASM. However, an advancement in the WASM withdrawal is found in the MH compared to the PI period due to an earlier decline in insolation over the northern location of Intertropical Convergence Zone (ITCZ).",
+    "readLink": "https://gmd.copernicus.org/articles/16/5153/2023/gmd-16-5153-2023.pdf"
+  },
+  {
+    "title": "From the Arctic Circle to the Canadian prairies – a case study of silver birch acclimation capacity",
+    "authors": [
+      "Rousi, Matti,",
+      "Possen, Boy,",
+      "Hagqvist, Risto,",
+      "Thomas, Barb"
+    ],
+    "doi": "https://doi.org/10.14214/sf.46",
+    "journalVolume": "Vol. 46,\n                                no. 3",
+    "issn": "2242-4075 (Online)",
+    "publisher": "Finnish Society of Forest Science",
+    "countryOfPublisher": "Finland",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://silvafennica.fi/",
+    "abstract": "Earlier provenance research has indicated poor success even in short distance transfers (> 2â3Â° latitude) of silver birch (Betula pendula Roth) southward from their origin. These results may indicate poor adaptability of silver birch to a warming climate. Some of the scenarios for a warming climate in Finland suggest effective heat sums are likely to double in the north and increase 1.5 fold in the south for the period of 2070â2099. Consequently, the outlook for silver birch appears bleak. To study the acclimation of birch to this projected change we established a provenance trial in northeastern Alberta, Canada, at the temperature area currently predicted for Central Finland (lat. 64â66Â°N) at the turn of this century (1400 dd). Our 10-year experiment showed that all the Finnish provenances (origins 61â67Â°N) have acclimated well to the warmer growth conditions experienced in Alberta at 54Â°N. These results suggest that silver birch has the potential to acclimate to thermal conditions predicted for Finland at the end of the 21st century. Our results also indicate that silver birch has the potential as a plantation species in Canada, where the Finnish birch grew faster in the boreal forest region of Canada than local paper birch (Betula papyrifera Marsh.) provenances.",
+    "readLink": "https://www.silvafennica.fi/article/46"
+  },
+  {
+    "title": "A comprehensive genome-wide scan detects genomic regions related to local adaptation and climate resilience in Mediterranean domestic sheep",
+    "authors": [
+      "Valentina Tsartsianidou,",
+      "Enrique Sánchez-Molano,",
+      "Vanessa Varvara Kapsona,",
+      "Zoitsa Basdagianni,",
+      "Dimitrios Chatziplis,",
+      "Georgios Arsenos,",
+      "Alexandros Triantafyllidis,",
+      "Georgios Banos"
+    ],
+    "doi": "https://doi.org/10.1186/s12711-021-00682-7",
+    "journalVolume": "Vol. 53,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 17",
+    "issn": "0999-193X (Print)",
+    "publisher": "1297-9686 (Online)",
+    "countryOfPublisher": "BMC",
+    "lcc": [
+      "United Kingdom",
+      "Agriculture: Animal culture",
+      "Science: Biology (General): Genetics"
+    ],
+    "journalUrl": "https://gsejournal.biomedcentral.com/",
+    "abstract": "Abstract Background The management of farm animal genetic resources and the adaptation of animals to climate change will probably have major effects on the long-term sustainability of the livestock sector. Genomic data harbour useful relevant information that needs to be harnessed for effectively managing genetic resources. In this paper, we report the genome characterization of the highly productive Mediterranean Chios dairy sheep and focus on genetic diversity measures related with local adaptation and selection and the genetic architecture of animal resilience to weather fluctuations as a novel adaptative trait linked to climate change. Results We detected runs of homozygosity (ROH) and heterozygosity (ROHet) that revealed multiple highly homozygous and heterozygous hotspots across the Chios sheep genome. A particularly highly homozygous region was identified on chromosome 13 as a candidate of directional genetic selection associated with milk traits, which includes annotated genes that were previously shown to be linked to local adaptation to harsh environmental conditions. Favourable heterozygosity related with a potentially protective role against livestock diseases and enhanced overall fitness was revealed in heterozygous-rich regions on sheep chromosomes 3, 10, 13 and 19. Furthermore, genomic analyses were conducted on sheep resilience phenotypes that display changes in milk production in response to weather variation. Sheep resilience to heat stress was a significantly heritable trait (h2 = 0.26) and genetically antagonistic to milk production. Genome-wide association and regional heritability mapping analyses revealed novel genomic markers and regions on chromosome 5 that were significantly associated with sheep resilience to climate change. Subsequently, an annotation analysis detected a set of genes on chromosome 5 that were associated with olfactory receptor complexes that could participate in heat stress mitigation through changes in respiration rate and respiratory evaporation. Other genes were grouped in previously reported biological processes relevant to livestock heat dissipation, including stress and immune response. Conclusions Our results may contribute to the optimal management of sheep genetic resources and inform modern selective breeding programmes that aim at mitigating future environmental challenges towards sustainable farming, while better balancing animal adaptation and productivity. Our results are directly relevant to the studied breed and the respective environmental conditions; however, the methodology may be extended to other livestock species of interest.",
+    "readLink": "https://doi.org/10.1186/s12711-021-00682-7"
+  }
+]

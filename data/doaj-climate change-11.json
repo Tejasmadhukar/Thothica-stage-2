@@ -1,0 +1,235 @@
+[
+  {
+    "title": "Influence of Variations of Hydrothermal Conditions on Normalized Difference Vegetation Index in Typical Temperature Zones Along the East Coast of China",
+    "authors": [
+      "Guangxin He,",
+      "Guangxin He,",
+      "Guangxin He,",
+      "Guangxin He,",
+      "Xiaoju Zhen,",
+      "Zhongliang Li,",
+      "Zhongliang Li,",
+      "Weishou Shen,",
+      "Jing Han,",
+      "Lu Zhang,",
+      "Xun Li,",
+      "Ran Zhang"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2020.574101",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "The eastern coastal areas of China span multiple climatic zones, and the impacts of climate warming on their ecological environment show regional differences. In this research, the Normalized Difference Vegetation Index (NDVI) was used as the indicator to characterize the ecological environment, and selected Guangdong, Jiangsu, and Liaoning as its typical research areas. The authors selected the NDVI, average temperature, and precipitation data of the yearly growth season, respectively, from 1982 to 2016. This study adopted the copula functions model based on Markov Chain Monte Carlo to carry out the research of bivariate joint distribution so as to calculate the joint probability, the joint exceedance probability, the joint return period and the co-occurrence return period. The results showed that 1) the temperature and precipitation in the three regions were respectively related to the NDVI sequence showing the characteristic that was correlated at the upper tail and asymptotically independent at the lower tail, which demonstrated that the temperature and precipitation had little effect on NDVI when they reached their minimum values, and the temperature and precipitation had obvious effect on NDVI when they reached their maximum values. 2) The shorter the return period was, the wider the ranges of the climate factor and the NDVI were, showing that when the climate factor was constant, the probability of the NDVI having a shorter return period was higher. The greater the climate factor was, the longer the return period was, indicating that the probability of plant growth inhibition was higher when the climate factor exceeded a certain threshold. 3) The suitable temperature and precipitation for vegetation growth in the three regions gradually decreased from south to north. These results provide some theoretical guidance and scientific foundation for the protection of regional ecological environment and enhance the understanding of the impact of climate change on the ecosystem.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/feart.2020.574101/full"
+  },
+  {
+    "title": "The mark of vegetation change on Earth’s surface energy balance",
+    "authors": [
+      "Gregory Duveiller,",
+      "Josh Hooker,",
+      "Alessandro Cescatti"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-017-02810-8",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Depending on where and when it occurs, vegetation cover change can affect local climate by altering the surface energy balance. Based on satellite data, this study provides the first data-driven assessment of such effects for multiple vegetation transitions at global scale.",
+    "readLink": "https://doi.org/10.1038/s41467-017-02810-8"
+  },
+  {
+    "title": "Happiness Index Determination by Analyzing Satellite Images for Urbanization",
+    "authors": [
+      "Yasir Afaq,",
+      "Ankush Manocha"
+    ],
+    "doi": "https://doi.org/10.1080/08839514.2021.1982533",
+    "journalVolume": "Vol. 35,\n                                no. 15\n                                \n                                  pp.\n                                  1466\n                                  – 1489",
+    "issn": "0883-9514 (Print)",
+    "publisher": "1087-6545 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Science: Mathematics: Instruments and machines: Electronic computers. Computer science",
+      "Science: Science (General): Cybernetics"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/uaai",
+    "abstract": "Waterbody identification from satellite images in an automated manner is one of the difficult tasks in the domain of Remote Sensing (RS). In recent years, several image processing approaches have been developed to process RGB or multispectral images to analyze the availability of land, water prediction, object detection, climate change, LULC, and many others. In this study, a Multi-data Fusion Network (MDFN) is developed to extract the sources of water by utilizing Sentinel-2 satellite images. The spatial features are extracted by proposed model from RS images by comprising multiple structural learning-assisted feature fusion layers for water resource prediction. To justify the prediction performance, the calculated outcomes of developed solution are correlated with the other approaches such as DeepLabv3+, VGG, NDWI, SegNet, DenseNet, and ResNet. The calculated outcomes define the prediction superiority over the other models by registering the high value of Precision, F1-score, Recall, and IoU with the value of 0.958%, 0.928%, 0.899%, and 0.874%, respectively.",
+    "readLink": "http://dx.doi.org/10.1080/08839514.2021.1982533"
+  },
+  {
+    "title": "Human influence on the 2021 British Columbia floods",
+    "authors": [
+      "Nathan P. Gillett,",
+      "Alex J. Cannon,",
+      "Elizaveta Malinina,",
+      "Markus Schnorbus,",
+      "Faron Anslow,",
+      "Qiaohong Sun,",
+      "Megan Kirchmeier-Young,",
+      "Francis Zwiers,",
+      "Christian Seiler,",
+      "Xuebin Zhang,",
+      "Greg Flato,",
+      "Hui Wan,",
+      "Guilong Li,",
+      "Armel Castellan"
+    ],
+    "doi": "Vol. 36\n                                \n                                \n                                  p.\n                                  100441",
+    "issn": "2212-0947 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/weather-and-climate-extremes/",
+    "abstract": "A strong atmospheric river made landfall in southwestern British Columbia, Canada on November 14th, 2021, bringing two days of intense precipitation to the region. The resulting floods and landslides led to the loss of at least five lives, cut Vancouver off entirely from the rest of Canada by road and rail, and made this the costliest natural disaster in the province's history. Here we show that when characterised in terms of storm-averaged water vapour transport, the variable typically used to characterise the intensity of atmospheric rivers, westerly atmospheric river events of this magnitude are approximately one in ten year events in the current climate of this region, and that such events have been made at least 60% more likely by the effects of human-induced climate change. Characterised in terms of the associated two-day precipitation, the event is substantially more extreme, approximately a one in fifty to one in a hundred year event, and the probability of events at least this large has been increased by a best estimate of 45% by human-induced climate change. The effects of this precipitation on streamflow were exacerbated by already wet conditions preceding the event, and by rising temperatures during the event that led to significant snowmelt, which led to streamflow maxima exceeding estimated one in a hundred year events in several basins in the region. Based on a large ensemble of simulations with a hydrological model which integrates the effects of multiple climatic drivers, we find that the probability of such extreme streamflow events in October to December has been increased by human-induced climate change by a best estimate of 120–330%. Together these results demonstrate the substantial human influence on this compound extreme event, and help motivate efforts to increase resiliency in the face of more frequent events of this kind in the future.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212094722000287"
+  },
+  {
+    "title": "The surface temperatures of Earth: steps towards integrated understanding of variability and change",
+    "authors": [
+      "C. J. Merchant,",
+      "S. Matthiesen,",
+      "N. A. Rayner,",
+      "J. J. Remedios,",
+      "P. D. Jones,",
+      "F. Olesen,",
+      "B. Trewin,",
+      "P. W. Thorne,",
+      "R. Auchmann,",
+      "G. K. Corlett,",
+      "P. C. Guillevic,",
+      "G. C. Hulley"
+    ],
+    "doi": "https://doi.org/10.5194/gi-2-305-2013",
+    "journalVolume": "Vol. 2,\n                                no. 2\n                                \n                                  pp.\n                                  305\n                                  – 321",
+    "issn": "2193-0856 (Print)",
+    "publisher": "2193-0864 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.geoscientific-instrumentation-methods-and-data-systems.net",
+    "abstract": "Surface temperature is a key aspect of weather and climate, but the term may refer to different quantities that play interconnected roles and are observed by different means. In a community-based activity in June 2012, the EarthTemp Network brought together 55 researchers from five continents to improve the interaction between scientific communities who focus on surface temperature in particular domains, to exploit the strengths of different observing systems and to better meet the needs of different communities. The workshop identified key needs for progress towards meeting scientific and societal requirements for surface temperature understanding and information, which are presented in this community paper. A \"whole-Earth\" perspective is required with more integrated, collaborative approaches to observing and understanding Earth's various surface temperatures. It is necessary to build understanding of the relationships between different surface temperatures, where presently inadequate, and undertake large-scale systematic intercomparisons. Datasets need to be easier to obtain and exploit for a wide constituency of users, with the differences and complementarities communicated in readily understood terms, and realistic and consistent uncertainty information provided. Steps were also recommended to curate and make available data that are presently inaccessible, develop new observing systems and build capacities to accelerate progress in the accuracy and usability of surface temperature datasets.",
+    "readLink": "http://www.geosci-instrum-method-data-syst.net/2/305/2013/gi-2-305-2013.pdf"
+  },
+  {
+    "title": "Salinity Constraints for Small-Scale Agriculture and Impact on Adaptation in North Aceh, Indonesia",
+    "authors": [
+      "Elvira Sari Dewi,",
+      "Issaka Abdulai,",
+      "Gennady Bracho-Mujica,",
+      "Reimund P. Rötter"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy12020341",
+    "journalVolume": "Vol. 12,\n                                no. 341\n                                \n                                  p.\n                                  341",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "We investigated the perceived effects of salinity on farming practices, income, and challenges for crop production in Blang Nibong village in North Aceh, Indonesia. We surveyed 120 smallholder farmers chosen in consultation with local leaders considering their agricultural activities and salinity susceptibility. Farmers’ perceptions of major crop production constraints (e.g., salinity) and potential adaptation strategies were assessed using open and closed questions. The study revealed that farmers in the study region primarily grew rain-fed rice using traditional monoculture. Salinity was identified as the primary crop production constraint by all respondents, resulting in plant mortality, decreased soil health and water quality, limited plant growth, and low yields. Additionally, salinity has reduced the arable area (>0.5 ha), resulting in lower total production. The implications of the salinity were further corroborated by the low farmers’ income. In fact, farming activities are not contributing positively to farmers’ income as the results revealed off-farm activities (77%) as the main source of income. Based on the farmer’s current activities to overcome salinity problems on their farms, they were clustered into adaptive and non-adaptive farmers. The non-adaptive group prefers to convert their land to pasture (81%), whereas the adaptive group prefers to improve the irrigation system (77%).",
+    "readLink": "https://www.mdpi.com/2073-4395/12/2/341"
+  },
+  {
+    "title": "São Paulo: avanços e recuos, após quase uma década da política de mudança do clima",
+    "authors": [
+      "Jane Zilda dos Santos Ramires,",
+      "Neli Aparecida de Mello-Théry"
+    ],
+    "doi": "https://doi.org/10.4000/confins.17041",
+    "issn": "1958-9212 (Online)",
+    "publisher": "Confins",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation"
+    ],
+    "journalUrl": "http://confins.revues.org/",
+    "abstract": "In 2009, at the forefront of the state and federal governments, São Paulo enacted the climate change law, an important and significant step to the largest megacities on the planet that accumulates all the socio-environmental problems of an aggressive and disorderly urban expansion. As the city expands the rates of water and atmospheric pollution increase, its green areas and springs decrease and areas of risk are forged to accommodate the lower income population, who do not support the price to live in legal city. Issues related to traffic, mobility and energy generation further highlight the challenges to be faced by the local governments. To make the cities and the human settlements, inclusive, safe, resilient and sustainable is what advocate The New Urban Agenda of the United Nations (UN) approved at the Third United Nations Conference on Housing and Sustainable Development (Habitat III) in 2016. This article intends to analyze local public actions, starting in 2009, considering the context of climate change and UN objectives, in particular regarding mitigation and adaptation to climate change, favoring the use and occupation of the soil in the city of Sao Paulo.",
+    "readLink": "http://journals.openedition.org/confins/17041"
+  },
+  {
+    "title": "Biosequestration potential of trees outside forest in the plains of District Samba, J&K, India",
+    "authors": [
+      "Kulvinder  Kour ,",
+      "Sanjay  Sharma"
+    ],
+    "doi": "https://doi.org/10.36953/ECJ.2017.181218",
+    "journalVolume": "Vol. 18,\n                                no. 1&2",
+    "issn": "0972-3099 (Print)",
+    "publisher": "2278-5124 (Online)",
+    "countryOfPublisher": "Action for Sustainable Efficacious Development and Awareness",
+    "lcc": [
+      "India",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://environcj.in/",
+    "abstract": "There is a growing awareness all over the world about the various adverse impacts of green house gas emission and the consequent climate change. Trees absorb CO2 from the atmosphere and store the carbon in their trunk, branches and roots. Generally, extensive tree wealth exists outside continuous forested areas in every country termed as ‘Trees Outside Forests’ (TOF) which also serve as the world’s most important carbon sink. The present study was conducted in the plains of district Samba, J&K. On the basis of classification, the classes of TOF selected for the study in the area were agriculture fields, strips along the link roads, distributaries/canals, defence ditches as well as sample plots in sacred groves. Out of the total growing stock, biomass and carbon sequestered in the study area, sacred groves accounted for the highest values for growing stock (497.95 m3/ha), biomass (257.13 t/ha) and carbon (123.43 t/ha) followed by agricultural fields i.e. growing stock (17.61 m3/ha ) biomass (9.19 t/ha) and carbon (4.5 t/ha) whereas least in case, along defence ditches i.e. growing stock (0.73 m3/ha) biomass (0.41 t/ha) and carbon (0.19 t/ha). Among all the tree species in the study area Ficus benghalensis showed highest value of average growing stock, biomass and carbon followed by Ficus religiosa.",
+    "readLink": "https://journal.environcj.in/index.php/ecj/article/view/289"
+  },
+  {
+    "title": "Sunlight-driven nitrate loss records Antarctic surface mass balance",
+    "authors": [
+      "Pete D. Akers,",
+      "Joël Savarino,",
+      "Nicolas Caillon,",
+      "Aymeric P. M. Servettaz,",
+      "Emmanuel Le Meur,",
+      "Olivier Magand,",
+      "Jean Martins,",
+      "Cécile Agosta,",
+      "Peter Crockford,",
+      "Kanon Kobayashi,",
+      "Shohei Hattori,",
+      "Mark Curran,",
+      "Tas van Ommen,",
+      "Lenneke Jong,",
+      "Jason L. Roberts"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-022-31855-7",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Snow accumulation rates in Antarctica can now be reconstructed from nitrate isotopes in snow and ice. This independent technique offers scientists a new tool for studying how Antarctic climate changed in the past and how it may change in the future.",
+    "readLink": "https://doi.org/10.1038/s41467-022-31855-7"
+  },
+  {
+    "title": "Analysis of Carbon Emission Reduction in International Civil Aviation through the Lens of Shared Triple Bottom Line Value Creation",
+    "authors": [
+      "Hong Guan,",
+      "Hao Liu,",
+      "Raafat George Saadé"
+    ],
+    "doi": "https://doi.org/10.3390/su14148513",
+    "journalVolume": "Vol. 14,\n                                no. 8513\n                                \n                                  p.\n                                  8513",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Overall, climate concerns have been on the global agenda for many years now. However, the aviation sector’s impact on climate change has been receiving increased attention recently. This is primarily due to the adoption of the 2016 carbon offsetting and reduction scheme for international civil aviation (CORSIA) which was introduced by the international civil aviation organization (ICAO). The aims of our study are to analyze ICAO’s carbon offsetting reduction scheme through the lens of the triple bottom line (TBL) value creation dimensions and to explore implementation issues relevant to its success and alignment between regulatory and commercial capabilities. Findings from our analysis were presented to a pilot focus group to further our understanding of the area. After cross-examination of the carbon emission reduction implementation issues against the TBL dimensions, we show the gap between regulatory schemes and the realities of the sustainable commercial aviation sector to meet climate goals. By highlighting the regulatory versus commercial social capabilities, our study illuminates the dimensions which need to be considered in regulatory practice, emphasizing the necessity for commercial sustainability. We finally provide recommendations to be considered for the successful implementation of CORSIA.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/14/8513"
+  }
+]

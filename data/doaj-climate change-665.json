@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Potential impacts of climate-related decline of seafood harvest on nutritional status of coastal First Nations in British Columbia, Canada.",
+    "authors": [
+      "Lesya Marushka,",
+      "Tiff-Annie Kenny,",
+      "Malek Batal,",
+      "William W L Cheung,",
+      "Karen Fediuk,",
+      "Christopher D Golden,",
+      "Anne K Salomon,",
+      "Tonio Sadik,",
+      "Lauren V Weatherdon,",
+      "Hing Man Chan"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0211473",
+    "journalVolume": "Vol. 14,\n                                no. 2\n                                \n                                  p.\n                                  e0211473",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "BACKGROUND:Traditional food systems are under pressure from various stressors, including climate change which is projected to negatively alter the abundance of marine species harvested by coastal First Nations (FNs) in British Columbia (BC). OBJECTIVE:To model the potential impacts of the climate-related declines in seafood production on the nutritional status of coastal BC FNs. In addition, we projected potential changes in nutrient intakes, under different scenarios of substitution where traditional seafood is replaced with alternative non-traditional foods. METHODS:The study design is a mixed-method approach that combines two datasets: projected scenarios of climate-related change on seafood catch potential for coastal BC FNs and data derived from the cross-sectional First Nations Food, Nutrition, and Environment Study. The consumption of seafood was estimated using a food frequency questionnaire among 356 FNs. The contribution of seafood consumption to protein, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), vitamins (A, B12, D, niacin), and minerals (zinc, selenium and iron) requirements was assessed using Dietary Reference Intakes (DRIs). RESULTS:Traditional seafood consumption provided daily recommendations of EPA+DHA (74-184%) and vitamin B12 (84-152%) and substantial levels of niacin (28-55%), selenium (29-55%), vitamin D (15-30%) and protein (14-30%). Projected climate change was estimated to reduce the intakes of essential nutrients by 21% and 31% under 'strong mitigation' (Representative Concentration Pathway, RCP2.6) and 'business-as-usual' (RCP8.5) climate change scenarios, respectively, by the year 2050 relative to 2000. The hypothetical substitution of seafood with selected alternative non-traditional foods does not provide adequate amounts of nutrients. CONCLUSION:Traditionally-harvested seafood remains fundamental to the contemporary diet and health of coastal BC FNs. Potential dietary shifts aggravated by climate-related declines in seafood consumption may have significant nutritional and health implications for BC FN. Strategies to improve access to seafood harvest potential in coastal communities are needed to ensure nutritional health and overall well-being and to promote food security and food sovereignty in coastal FNs.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0211473"
+  },
+  {
+    "title": "Modeling streamflow sensitivity to climate change in New York City water supply streams using a stochastic weather generator",
+    "authors": [
+      "Rajith Mukundan,",
+      "Nachiketa Acharya,",
+      "Rakesh K. Gelda,",
+      "Allan Frei,",
+      "Emmet M. Owens"
+    ],
+    "doi": "Vol. 21\n                                \n                                \n                                  pp.\n                                  147\n                                  – 158",
+    "issn": "2214-5818 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/journal-of-hydrology-regional-studies/",
+    "abstract": "Study region: The New York City water supply watersheds Study focus: This study is a modeling analysis on climate change impact on streamflow using a stochastic weather generator (SWG), a hydrologic model, and downscaled future climate scenarios. Streamflow generated using synthetic time series of precipitation and air temperature from a SWG were compared to those simulated from observed historical and projected future weather. New hydrologic insights for the region: Synthetic weather was able to mimic the observed annual streamflow cycle for the six watersheds studied, including the seasonal pattern as well as magnitude and occurrence of extreme hydrologic events. Streamflow simulations using projected climate from 20 global climate models (GCM) for one of the New York City water supply watersheds indicate the potential for changes in the hydrologic regime in this region. The models indicate a shift in the timing of spring melt runoff from a distinct peak in late March and April under historical (1950–2009) conditions towards earlier in the year for mid-century (2041–2060) period. Results indicate that the region may experience an overall increase in mean streamflow in the future due to the combined effect of decreasing spring runoff peak and increasing streamflow during other seasons. More importantly, the magnitude and frequency of extreme hydrological events are projected to increase under future scenarios. These results have implications for future operation and management of the water supply. Keywords: Climate change, Extreme events, NYC water supply, Scenarios, Water resources",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2214581818300880"
+  },
+  {
+    "title": "Estimating vadose zone water fluxes from soil water monitoring data: a comprehensive field study in Austria",
+    "authors": [
+      "M. Schübl,",
+      "G. Brunetti,",
+      "G. Fuchs,",
+      "C. Stumpp"
+    ],
+    "doi": "https://doi.org/10.5194/hess-27-1431-2023",
+    "journalVolume": "Vol. 27\n                                \n                                \n                                  pp.\n                                  1431\n                                  – 1455",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Groundwater recharge is a key component of the hydrological cycle, yet its direct measurement is complex and often difficult to achieve. An alternative is its inverse estimation through a combination of numerical models and transient observations from distributed soil water monitoring stations. However, an often neglected aspect of this approach is the effect of model predictive uncertainty on simulated water fluxes. In this study, we made use of long-term soil water content measurements at 14 locations from the Austrian soil water monitoring program to quantify and compare local potential groundwater recharge rates and their temporal variability. Observations were coupled with a Bayesian probabilistic framework to calibrate the HYDRUS-1D model and assess the effect of model predictive uncertainty on long-term simulated recharge fluxes. Estimated annual potential recharge rates ranged from 44 to 1319 mm a−1 with a relative uncertainty (95 % interquantile range/median) in the estimation of between 1 % and 39 %. Recharge rates decreased longitudinally, with high rates and lower seasonality at western sites and low rates with high seasonality and extended periods without recharge at the southeastern and eastern Austrian sites. Higher recharge rates and lower actual evapotranspiration were related to sandy soils; however, climatic factors had a stronger influence on estimated potential groundwater recharge than soil properties, underscoring the vulnerability of groundwater recharge to the effects of climate change.",
+    "readLink": "https://hess.copernicus.org/articles/27/1431/2023/hess-27-1431-2023.pdf"
+  },
+  {
+    "title": "Green Revolution to Gene Revolution: Technological Advances in Agriculture to Feed the World",
+    "authors": [
+      "Mohd Fadhli Hamdan,",
+      "Siti Nurfadhlina Mohd Noor,",
+      "Nazrin Abd-Aziz,",
+      "Teen-Lee Pua,",
+      "Boon Chin Tan"
+    ],
+    "doi": "https://doi.org/10.3390/plants11101297",
+    "journalVolume": "Vol. 11,\n                                no. 1297\n                                \n                                  p.\n                                  1297",
+    "issn": "2223-7747 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/plants",
+    "abstract": "Technological applications in agriculture have evolved substantially to increase crop yields and quality to meet global food demand. Conventional techniques, such as seed saving, selective breeding, and mutation breeding (variation breeding), have dramatically increased crop production, especially during the ‘Green Revolution’ in the 1990s. However, newer issues, such as limited arable lands, climate change, and ever-increasing food demand, pose challenges to agricultural production and threaten food security. In the following ‘Gene Revolution’ era, rapid innovations in the biotechnology field provide alternative strategies to further improve crop yield, quality, and resilience towards biotic and abiotic stresses. These innovations include the introduction of DNA recombinant technology and applications of genome editing techniques, such as transcription activator-like effector (TALEN), zinc-finger nucleases (ZFN), and clustered regularly interspaced short palindromic repeats/CRISPR associated (CRISPR/Cas) systems. However, the acceptance and future of these modern tools rely on the regulatory frameworks governing their development and production in various countries. Herein, we examine the evolution of technological applications in agriculture, focusing on the motivations for their introduction, technical challenges, possible benefits and concerns, and regulatory frameworks governing genetically engineered product development and production.",
+    "readLink": "https://www.mdpi.com/2223-7747/11/10/1297"
+  },
+  {
+    "title": "Ecosystem physio-phenology revealed using circular statistics",
+    "authors": [
+      "D. E. Pabon-Moreno,",
+      "T. Musavi,",
+      "M. Migliavacca,",
+      "M. Reichstein,",
+      "M. Reichstein,",
+      "C. Römermann,",
+      "C. Römermann,",
+      "M. D. Mahecha,",
+      "M. D. Mahecha,",
+      "M. D. Mahecha"
+    ],
+    "doi": "https://doi.org/10.5194/bg-17-3991-2020",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  3991\n                                  – 4006",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "Quantifying how vegetation phenology responds to climate variability is a key prerequisite to predicting how ecosystem dynamics will shift with climate change. So far, many studies have focused on responses of classical phenological events (e.g., budburst or flowering) to climatic variability for individual species. Comparatively little is known on the dynamics of physio-phenological events such as the timing of maximum gross primary production (DOYGPPmax), i.e., quantities that are relevant for understanding terrestrial carbon cycle responses to climate variability and change. In this study, we aim to understand how DOYGPPmax depends on climate drivers across 52 eddy covariance (EC) sites in the FLUXNET network for different regions of the world. Most phenological studies rely on linear methods that cannot be generalized across both hemispheres and therefore do not allow for deriving general rules that can be applied for future predictions. One solution could be a new class of circular–linear (here called circular) regression approaches. Circular regression allows circular variables (in our case phenological events) to be related to linear predictor variables as climate conditions. As a proof of concept, we compare the performance of linear and circular regression to recover original coefficients of a predefined circular model for artificial data. We then quantify the sensitivity of DOYGPPmax across FLUXNET sites to air temperature, shortwave incoming radiation, precipitation, and vapor pressure deficit. Finally, we evaluate the predictive power of the circular regression model for different vegetation types. Our results show that the joint effects of radiation, temperature, and vapor pressure deficit are the most relevant controlling factor of DOYGPPmax across sites. Woody savannas are an exception, where the most important factor is precipitation. Although the sensitivity of the DOYGPPmax to climate drivers is site-specific, it is possible to generalize the circular regression models across specific vegetation types. From a methodological point of view, our results reveal that circular regression is a robust alternative to conventional phenological analytic frameworks. The analysis of phenological events at the global scale can benefit from the use of circular statistics. Such an approach yields substantially more robust results for analyzing phenological dynamics in regions characterized by two growing seasons per year or when the phenological event under scrutiny occurs between 2 years (i.e., DOYGPPmax in the Southern Hemisphere).",
+    "readLink": "https://bg.copernicus.org/articles/17/3991/2020/bg-17-3991-2020.pdf"
+  },
+  {
+    "title": "Temperature impact on the economic growth effect: method development and model performance evaluation with subnational data in China",
+    "authors": [
+      "Yu Song,",
+      "Zhihua Pan,",
+      "Fei Lun,",
+      "Buju Long,",
+      "Siyu Liu,",
+      "Guolin Han,",
+      "Jialin Wang,",
+      "Na Huang,",
+      "Ziyuan Zhang,",
+      "Shangqian Ma,",
+      "Guofeng Sun,",
+      "Cong Liu"
+    ],
+    "doi": "https://doi.org/10.1140/epjds/s13688-023-00425-2",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 24",
+    "issn": "2193-1127 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics"
+    ],
+    "journalUrl": "http://www.epjdatascience.com/",
+    "abstract": "Abstract Temperature-economic growth relationships are computed to quantify the impact of climate change on the economy. However, model performance and differences of predictions among research complicate the use of climate econometric estimation. Machine learning methods provide an alternative that might improve the predictive effects. However, time series and extrapolation issues constrain methods such as random forests. We apply a simple thought experiment with national marginal GDP growth by aggregating subnational climate impact to alleviate the shortcomings in random forests. This paper uses random forests, multivariate cubic regression, and linear spline regression to examine the direct impacts of temperature on economic development and conducts a performance comparison of the methods. The model results indicate an optimal temperature of 15°C, 15°C or 21°C for each model. Furthermore, a thought experiment indicates that the marginal predictions of national GDP changes by approximately 1%, −3%, or −6% for models with 1°C warming. The performance comparison suggests that random forests have stable model performance and better prediction performance in bootstrapping. However, the extrapolation problem in random forests causes underestimation of climate impact in 5% of cells under 6°C warming. Overall, our results suggest that temperature should be considered in economic projections under climate change scenarios. We also suggest the use of more machine learning methods in climate impact assessment.",
+    "readLink": "https://doi.org/10.1140/epjds/s13688-023-00425-2"
+  },
+  {
+    "title": "Controlled Drainage Effectiveness in Reducing Nutrient Outflow in Light of Climate Changes",
+    "authors": [
+      "Barbara Kęsicka,",
+      "Michał Kozłowski,",
+      "Rafał Stasik,",
+      "Iwona Pińskwar"
+    ],
+    "doi": "https://doi.org/10.3390/app13169077",
+    "journalVolume": "Vol. 13,\n                                no. 9077\n                                \n                                  p.\n                                  9077",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "This modeling study focused on the hydrological and water quality effects of controlled drainage (CD) when operated using a subsurface drainage system in an agricultural field in the Wielkopolska region. The DRAINMOD hydrologic model was well calibrated and validated in an experimental field. This model was used in the performance of CD and free drainage (FD) combinations (108 and 27, respectively) in a near-future climate change scenario. The objective was to understand the potential of CD on the groundwater table (GWT), drainage outflow, surface runoff, and nitrogen and phosphorus reduction under projected climate conditions in Poland during the 21st century with shared socioeconomic pathway SSP370. The results indicated that the earliest start of CD practice is the most effective in increasing GWT. Compared to current climatic conditions, when applying CD on 1 March in the near future, with an initial GWT of 60 and 80 cm b.s.l. in wet years, drainage outflows will increase by 33% and 80% for the GFDL model, by 30% and 40% for the MPI model, and by 17% and 23% for the UKESM model. Comparing the surface runoff values obtained to current climate conditions, the MPI, GFDL, and UKESM models predict a significant increase in surface runoff in the near future, which is due to the predicted increase in precipitation. The annual NO3–N reduction was by 22, 19, and 15 kg per hectare for wet, normal, and dry years, respectively, in the near future. Among the climate scenarios, the UKESM model predicted higher NO3–N and PO4 leaching values compared to the MPI and GFDL models.",
+    "readLink": "https://www.mdpi.com/2076-3417/13/16/9077"
+  },
+  {
+    "title": "Frost-acclimation of photosynthesis in overwintering Mediterranean holm oak, grown in Central Europe",
+    "authors": [
+      "Ellen Pflug,",
+      "Wolfgang Brüggemann"
+    ],
+    "doi": "https://doi.org/10.4081/pb.2012.e1",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  e1\n                                  – e1",
+    "issn": "2037-0164 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/ijpb",
+    "abstract": "As a consequence of global change, forestry in Central Europe has to expect and be prepared for an increase of hot and dry summers in the near future. In two model plantations of the Mediterranean holm oak (Quercus ilex L.) in Central Europe (Rhine-Main basin) we tested its potential as a future forestry tree for drought-threatened stands by studying its overwintering strategy under harsh winter conditions. During prolonged frost periods, chronic photoinhibition was developed, which lasted until the end of the frost period. Nearly all plants survived minimum temperatures of - 16 to -18°C and their photosynthetic apparatus recovered completely during late winter. A detailed study of the temperature dependence of chlorophyll (chl) fluorescence parameters of the OJIP test revealed statistically significant correlations between minimum temperature and maximum quantum yield of primary photochemistry (Fv/Fm), absorption rate/reaction centre (ABS/RC), dissipation rate/reaction centre (DI0/RC) and electron transport rate/reaction centre (ET0/RC) as well as with the deepoxidation state (DES) of the xanthophyll pigments. The DES correlated with Fv/Fm, ABS/RC, DI0/RC and ET0/RC. It is concluded, that from the point of view of the winter hardiness of the photosynthetic apparatus, Q. ilex should be further investigated as a potential future forestry tree also for very dry and warm stands in Central Europe under the scenarios of climate change.",
+    "readLink": "http://www.pagepress.org/journals/index.php/pb/article/view/2280"
+  },
+  {
+    "title": "Assessing Genetic Diversity and Searching for Selection Signatures by Comparison between the Indigenous Livni and Duroc Breeds in Local Livestock of the Central Region of Russia",
+    "authors": [
+      "Irina Chernukha,",
+      "Alexandra Abdelmanova,",
+      "Elena Kotenkova,",
+      "Veronika Kharzinova,",
+      "Natalia A. Zinovieva"
+    ],
+    "doi": "https://doi.org/10.3390/d14100859",
+    "journalVolume": "Vol. 14,\n                                no. 859\n                                \n                                  p.\n                                  859",
+    "issn": "1424-2818 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/diversity/",
+    "abstract": "Indigenous pig breeds are mainly associated with the adaptive capacity that is necessary to respond adequately to climate change, food security, and livelihood needs, and natural resources conservation. Livni pigs are an indigenous fat-type breed farmed in a single farm in the Orel region and located in the Central European part of the Russian Federation. To determine the genomic regions and genes that are affected by artificial selection, we conducted the comparative study of two pig breeds with different breeding histories and breeding objectives, i.e., the native fat-type Livni and meat-type Duroc breeds using the Porcine GGP HD BeadChip, which contains ~80,000 SNPs. To check the Livni pigs for possible admixture, the Landrace and the Large White breeds were included into the study of genetic diversity as these breeds participated in the formation of the Livni pigs. We observed the highest level of genetic diversity in Livni pigs compared to commercial breeds (UHE = 0.409 vs. 0.319–0.359, p AR = 1.995 vs. 1.894–1.964, p < 0.001). A slight excess of heterozygotes was found in all of the breeds. We identified 291 candidate genes, which were localized within the regions under putative selection, including 22 and 228 genes, which were specific for Livni and Duroc breeds, respectively, and 41 genes common for both breeds. A detailed analysis of the molecular functions identified the genes, which were related to the formation of meat and fat traits, and adaptation to environmental stress, including extreme temperatures, which were different between breeds. Our research results are useful for conservation and sustainable breeding of Livni breed, which shows a high level of genetic diversity. This makes Livni one of the valuable national pig genetic resources.",
+    "readLink": "https://www.mdpi.com/1424-2818/14/10/859"
+  },
+  {
+    "title": "Drought affects sex ratio and growth of painted turtles in a long-term study in Nebraska",
+    "authors": [
+      "Larkin A. Powell,",
+      "Ellen P. Dolph,",
+      "Charrissa R. Neil"
+    ],
+    "doi": "Vol. 5\n                                \n                                \n                                  p.\n                                  100072",
+    "issn": "2666-9005 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-change-ecology",
+    "abstract": "Climate forecasts suggest the Great Plains of North America have increased risk of droughts during global warming. Environmental factors have potential to influence turtle populations in aquatic habitats through temperature-dependent sex determination and influences on food availability. Long-term studies are critical to evaluate the influence of climatic variation on turtles. We used a 12-year set of mark-recapture data collected from painted turtles (Chrysemys picta, n = 162) in a pond in Keith County, Nebraska during 2005–2016 to assess variation in sex ratio and growth dynamics. Southwest Nebraska experienced two periods of drought during our study (Palmer Hydrologic Drought Index [PHDI] range: -4.5 to 6.7). Despite a relatively stable depth of water in our study pond, the proportion of males in the second size class (carapace length 95–130 mm) decreased when the PHDI during their incubation period indicated hotter, drier conditions. Discrete, mean annual growth (G) of females >30 mm below asymptotic carapace length was greater during wetter years (Gnon-drought = 15.0, Gdrought = 11.5), and a drought coefficient (D) in our modified von Bertalanffy model reflected reduced growth of both males (D = -0.0226) and females (D = -0.0393) during drought years. Our long-term research provides context to the complexity by which turtle species may respond to changes in long-term climate conditions.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666900523000084"
+  }
+]

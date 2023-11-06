@@ -1,0 +1,228 @@
+[
+  {
+    "title": "Flood Management, Characterization and Vulnerability Analysis Using an Integrated RS-GIS and 2D Hydrodynamic Modelling Approach: The Case of Deg Nullah, Pakistan",
+    "authors": [
+      "Ijaz Ahmad,",
+      "Xiuquan Wang,",
+      "Muhammad Waseem,",
+      "Muhammad Zaman,",
+      "Farhan Aziz,",
+      "Rana Zain Nabi Khan,",
+      "Muhammad Ashraf"
+    ],
+    "doi": "https://doi.org/10.3390/rs14092138",
+    "journalVolume": "Vol. 14,\n                                no. 2138\n                                \n                                  p.\n                                  2138",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "One-dimensional (1D) hydraulic models have been extensively used to conduct flood simulations for investigating flood depth and extent maps. However, the 1D models cannot simulate many other flood characteristics, such as flood velocity, duration, arrival time and recession time when the flow is not restricted within the channel. These flood characteristics cannot be disregarded as they play an important role in developing flood mitigation and evacuation strategies. This study formulates a two-dimensional (2D) hydrodynamic model combined with remote sensing (RS) and geographic information system (GIS) approach to generate additional flood characteristic maps that cannot be produced with 1D models. The model was applied to a transboundary river of Deg Nullah in Pakistan to simulate an extreme flood event experience in 2014. The flood extent images from the moderate resolution imaging spectroradiometer (MODIS) and observed flood extents were used to evaluate the model performance. Moreover, an entropy distance-based approach was proposed to facilitate the integrated multivariate flood vulnerability classification. The simulated 2D flood modeling results showed a good agreement with the flood extents registered by MODIS and the observed ones. The northwest parts of Deg Nullah near Seowal, Dullam Kahalwan and Zafarwal were the most vulnerable areas due to high flood depths and prolonged flooding duration. Whereas high flood velocities, short flood arrival time, prolonged flood duration and recession times were observed in the upper reach of Deg Nullah thereby making it the most susceptible, critical and vulnerable region to flooding events.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/9/2138"
+  },
+  {
+    "title": "KAJIAN DISTRIBUSI BIAYA DAN MANFAAT HUTAN LINDUNG SEBAGAI PENGATUR TATA AIR",
+    "authors": [
+      "Sylviani Sylviani"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2008.5.2.95-109",
+    "journalVolume": "Vol. 5,\n                                no. 2\n                                \n                                  pp.\n                                  95\n                                  – 109",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "Hutan Lindung yang berfungsi sebagai pengatur tata air perlu dijaga agar kualitas, ketersediaan air serta kelestariannya. Permasalahan yang dihadapi adalah adanya beberapa pihak yang terlibat dalam pengelolaannya baik sebagai pengatur tata air maupun sebagai pengguna jasa air yang belum mempunyai standar harga. Penelitian bertujuan mengetahui nilai kompensasi yang selayaknya diterima oleh para pengelola kawasan hutan lindung dan bagaimana mekanisme serta distribusi biaya atas manfaat jasa lingkungan. Lokasi penelitian dilakukan di kawasan DAS Brantas sekitar kawasan lindung Perum Perhutani, Taman Nasional Bromo Tengger Semeru, Taman Hutan Raya Suryo di Propinsi Jawa Timur. Penelitian dilakukan dengan metode diskriptif kualitatif dan kuantitatif. Hasil penelitian menunjukkan bahwa potensi produksi air yang dapat dihasilkan disekitar kawasan lindung masing-masing 73,37 juta m3 untuk Perum Perhutani, 41,48 juta m3 TNBTS dan 83,88 juta m3 untuk Tahura Suryo per tahun. Besarnya kompensasi biaya yang selayaknya diterima sebagai biaya pemeliharaan dan konservasi masing-masing pengelola adalah Rp 8 691 085/ha untuk Tahura Suryo, TNBTS Rp 2 052 450/ha dan Perum Perhutani Rp 978 349/ha. Kompensasi yang diterima dari pengguna jasa air atas manfaat jasa lingkungan merupakan sumber dana yang dapat digunakan untuk biaya pemeliharaan di kawasan lindung sebagai daerah tangkapan air. Agar mekanisme penyaluran nilai jasa lingkungan dapat diterapkan dan berjalan dengan baik perlu dirumuskan dalam suatu kebijakan dan aturan tentang pemanfaatan sumberdaya alam.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/375"
+  },
+  {
+    "title": "Meteo-Hydrological Sensors within the Lake Maggiore Catchment: System Establishment, Functioning and Data Validation",
+    "authors": [
+      "Marzia Ciampittiello,",
+      "Dario Manca,",
+      "Claudia Dresti,",
+      "Stefano Grisoni,",
+      "Andrea Lami,",
+      "Helmi Saidi"
+    ],
+    "doi": "https://doi.org/10.3390/s21248300",
+    "journalVolume": "Vol. 21,\n                                no. 8300\n                                \n                                  p.\n                                  8300",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Climate change and human activities have a strong impact on lakes and their catchments, so to understand ongoing processes it is fundamental to monitor environmental variables with a spatially well-distributed and high frequency network and efficiently share data. An effective sharing and interoperability of environmental information between technician and end-user fosters an in-depth knowledge of the territory and its critical environmental issues. In this paper, we present the approaches and the results obtained during the PITAGORA project (Interoperable Technological Platform for Acquisition, Management and Organization of Environmental data, related to the lake basin). PITAGORA was aimed at developing both instruments and data management, including pre-processing and quality control of raw data to ensure that data are findable, accessible, interoperable, and reusable (FAIR principles). The main results show that the developed instrumentation is low-cost, easily implementable and reliable, and can be applied to the measurement of diverse environmental parameters such as meteorological, hydrological, physico-chemical, and geological. The flexibility of the solutions proposed make our system adaptable to different monitoring purposes, research, management, and civil protection. The real time access to environmental information can improve management of a territory and ecosystems, safety of the population, and sustainable socio-economic development.",
+    "readLink": "https://www.mdpi.com/1424-8220/21/24/8300"
+  },
+  {
+    "title": "Modeling present and future distribution of plankton populations in a coastal upwelling zone: the copepod Calanus chilensis as a study case",
+    "authors": [
+      "Reinaldo Rivera,",
+      "Rubén Escribano,",
+      "Carolina E. González,",
+      "Manuela Pérez-Aragón"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-023-29541-9",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Predicting species distribution in the ocean has become a crucial task to assess marine ecosystem responses to ongoing climate change. In the Humboldt Current System (HCS), the endemic copepod Calanus chilensis is one of the key species bioindicator of productivity and water masses. Here we modeled the geographic distribution of Calanus chilensis for two bathymetric ranges, 0–200 and 200–400 m. For the 0–200 m layer, we used the Bayesian Additive Regression Trees (BART) method, whereas, for the 200–400 m layer, we used the Ensembles of Small Models (ESMs) method and then projected the models into two future scenarios to assess changes in geographic distribution patterns. The models were evaluated using the multi-metric approach. We identified that chlorophyll-a (0.34), Mixed Layer Depth (0.302) and salinity (0.36) explained the distribution of C. chilensis. The geographic prediction of the BART model revealed a continuous distribution from Ecuador to the southernmost area of South America for the 0–200 m depth range, whereas the ESM model indicated a discontinuous distribution with greater suitability for the coast of Chile for the 200–400 m depth range. A reduction of the distribution range of C. chilensis is projected in the future. Our study suggests that the distribution of C. chilensis is conditioned by productivity and mesoscale processes, with both processes closely related to upwelling intensity. These models serve as a tool for proposing indicators of changes in the ocean. We further propose that the species C. chilensis is a high productivity and low salinity indicator at the HCS. We recommend further examining multiple spatial and temporal scales for stronger inference.",
+    "readLink": "https://doi.org/10.1038/s41598-023-29541-9"
+  },
+  {
+    "title": "Impacts of Medicanes on Geomorphology and Infrastructure in the Eastern Mediterranean, the Case of Medicane Ianos and the Ionian Islands in Western Greece",
+    "authors": [
+      "Michalis Diakakis,",
+      "Spyridon Mavroulis,",
+      "Christos Filis,",
+      "Stylianos Lozios,",
+      "Emmanuel Vassilakis,",
+      "Giorgos Naoum,",
+      "Konstantinos Soukis,",
+      "Aliki Konsolaki,",
+      "Evelina Kotsi,",
+      "Dimitra Theodorakatou,",
+      "Emmanuel Skourtsos,",
+      "Haralambos Kranis,",
+      "Marilia Gogou,",
+      "Nafsika Ioanna Spyrou,",
+      "Katerina-Navsika Katsetsiadou,",
+      "Efthymios Lekkas"
+    ],
+    "doi": "https://doi.org/10.3390/w15061026",
+    "journalVolume": "Vol. 15,\n                                no. 1026\n                                \n                                  p.\n                                  1026",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Despite being relatively rare, Mediterranean tropical-like cyclones, also known as Medicanes, induce significant impacts on coastal Mediterranean areas. Under climate change, it is possible that these effects will increase in frequency and severity. Currently, there is only a broad understanding of the types and mechanisms of these impacts. This work studied Medicane Ianos (September 2020) and its effects on the Ionian Islands, in Greece, by developing a database of distinct impact elements based on field surveys and public records. Through this archive, the study explored the range of Ianos’ impacts to develop a systematic categorization. Results showed different types of effects induced on the natural and the built environment that can be grouped into 3 categories and 39 sub-categories in inland and coastal areas, indicating an extensive diversity of impacts, ranging from flooding and geomorphic effects to damages in various facilities, vehicles and infrastructure. The systematic description of the typology of Medicanes’ effects presented in this study is a contribution to a better understanding of their consequences as means to improve our ability to prepare for, respond to, and recover from them, a necessary stepping stone in improving the overall preparedness of both the general public and relevant authorities.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/6/1026"
+  },
+  {
+    "title": "Species conflict at Earth’s edges – Contests, climate, and coveted resources",
+    "authors": [
+      "Joel Berger,",
+      "Joel Berger,",
+      "Mark Biel,",
+      "Forest P. Hayes"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2022.991714",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Direct conflict between species is an infrequently witnessed biological phenomenon. Potential drivers of such contests can include climate change, especially at Earth’s high elevation and latitudinal extremes where temperatures warm 2–5 times faster than elsewhere and hydro-geomorphic processes such as glacial recession and soil erosion affect species access to abiotic resources. We addressed a component of this broader issue by empirical assessments of mammalian conflict over access to four abiotic resources – minerals, water, snow, and shade – by annotation of past studies and by empirical data collection. Evidence for Nearctic and Palearctic mammals indicates that when desert waters are in short supply, contests intensify, generally favoring larger species regardless of their status as native or exotic. Our empirical data indicate that contests between two large and approximately similarly-sized mammals – mountain goats (Oreamnos americanus) and bighorn sheep (Ovis canadensis) – along a 2,500 km gradient at three high-altitude (above tree-line) sites in the Rocky Mountains of North America, result in striking asymmetries; goats dominated > 95% of interactions. Despite far fewer observations of encounters to access shade or snow patches, an increasingly prominent dialog needs to be held about rarely explored biological phenomena where less is known than we might otherwise presume, whether induced by climate or increasing anthropological alteration because of underpinnings to understand community structure and conservation planning. Observations on the frequency and intensity by which individuals escalate behavior to access abiotic resources remains an underappreciated arena to help identify the proximate importance of scarcity in the natural environment. Notwithstanding Darwin’s prediction some 165 years ago that populations in extreme environments (high-latitude, high-altitude) are more likely to be impacted by abiotic variables than biotic, conflict between species may be reflective of climate degradation coupled with the changing nature of coveted resources.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2022.991714/full"
+  },
+  {
+    "title": "What about Gender in Climate Change? Twelve Feminist Lessons from Development",
+    "authors": [
+      "Anne Jerneck"
+    ],
+    "doi": "https://doi.org/10.3390/su10030627",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  p.\n                                  627",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Adaptation and mitigation are two key responses to climate change. In the global South they prompt many questions: what is the direction and degree of change needed? How can new climate change policies be aligned with existing development initiatives? How are core social relations such as gender understood and prioritized in relation to technical and other solutions? In search of synergies between adaptation, development and mitigation, this article asks a pertinent question for sub-Saharan small-scale agriculture in particular: what can adaptation and mitigation learn from development debates on social goal setting, institutional change and gender equality? From the perspective of sustainability science and feminist literature, three main findings emerge. First, as regards social goal setting, adaptation and mitigation should, like development, support the escape out of poverty, ill-health and food-insecurity. Second, as regards institutions, adaptation and mitigation should address how gender regulates access to, use of and control over resources in terms of labor, land and strategic decision-making power. Third, as regards gender equality, adaptation and mitigation should learn from how development in theory and practice has addressed gender, women, nature and the environment. At its core, the analysis contributes twelve salient themes that can significantly inform adaptation and mitigation in research, policy and practice, thus serving as inspiration for a critical debate on much needed synergetic trajectories.",
+    "readLink": "http://www.mdpi.com/2071-1050/10/3/627"
+  },
+  {
+    "title": "The effect of climatic variability on population dynamics of the Cucuteni-Tripolye cultural complex and the rise of the Western Tripolye giant-settlements",
+    "authors": [
+      "Harper, Thomas"
+    ],
+    "doi": "Vol. 3\n                                \n                                \n                                  pp.\n                                  28\n                                  – 46",
+    "issn": "2159-9904 (Print)",
+    "publisher": "2159-9912 (Online)",
+    "countryOfPublisher": "Institute for European and Mediterranean Archaeology",
+    "lcc": [
+      "United States",
+      "Auxiliary sciences of history: Archaeology"
+    ],
+    "journalUrl": "http://www.chronikajournal.com",
+    "abstract": "This paper presents the results of a multi-scalar analysis of 1800 years of Cucuteni-Tripolye population dynamics, with particular emphasis on the rapid Western Tripolye migrations beginning c. 4150 B.C.E. that led to the development of the giant-settlement phenomenon in Central Ukraine. In addition to macro-scale population modeling, statistical analysis is performed to demonstrate a significant correlation between giant-settlement formation in the Southern Bug-Dnieper interfluve and proxies for a concurrent period of sudden, global climate change. Through the use of high-resolution climate data, this research compliments and expands upon existing theories of climate effects on Cucuteni-Tripolye population dynamics and settlement agglomeration.",
+    "readLink": "http://www.chronikajournal.com/resources/Harper.pdf"
+  },
+  {
+    "title": "Comparing regional precipitation and temperature extremes in climate model and reanalysis products",
+    "authors": [
+      "Oliver Angélil,",
+      "Sarah Perkins-Kirkpatrick,",
+      "Lisa V. Alexander,",
+      "Dáithí Stone,",
+      "Markus G. Donat,",
+      "Michael Wehner,",
+      "Hideo Shiogama,",
+      "Andrew Ciavarella,",
+      "Nikolaos Christidis"
+    ],
+    "doi": "https://doi.org/10.1016/j.wace.2016.07.001",
+    "journalVolume": "Vol. 13,\n                                no. C\n                                \n                                  pp.\n                                  35\n                                  – 43",
+    "issn": "2212-0947 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/weather-and-climate-extremes/",
+    "abstract": "A growing field of research aims to characterise the contribution of anthropogenic emissions to the likelihood of extreme weather and climate events. These analyses can be sensitive to the shapes of the tails of simulated distributions. If tails are found to be unrealistically short or long, the anthropogenic signal emerges more or less clearly, respectively, from the noise of possible weather. Here we compare the chance of daily land-surface precipitation and near-surface temperature extremes generated by three Atmospheric Global Climate Models typically used for event attribution, with distributions from six reanalysis products. The likelihoods of extremes are compared for area-averages over grid cell and regional sized spatial domains. Results suggest a bias favouring overly strong attribution estimates for hot and cold events over many regions of Africa and Australia, and a bias favouring overly weak attribution estimates over regions of North America and Asia. For rainfall, results are more sensitive to geographic location. Although the three models show similar results over many regions, they do disagree over others. Equally, results highlight the discrepancy amongst reanalyses products. This emphasises the importance of using multiple reanalysis and/or observation products, as well as multiple models in event attribution studies.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212094716300202"
+  },
+  {
+    "title": "Metagenomics reveals pervasive bacterial populations and reduced community diversity across the Alaska tundra ecosystem",
+    "authors": [
+      "Eric Robert Johnston,",
+      "Luis Miguel Rodríguez-R,",
+      "Chengwei eLuo,",
+      "Mengting M Yuan,",
+      "Liyou eWu,",
+      "Zhili eHe,",
+      "Edward A.G. Schuur,",
+      "Yiqi eLuo,",
+      "James M. Tiedje,",
+      "Jizhong eZhou,",
+      "Konstantinos T Konstantinidis"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2016.00579",
+    "journalVolume": "Vol. 7",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "How soil microbial communities contrast with respect to taxonomic and functional composition within and between ecosystems remains an unresolved question that is central to predicting how global anthropogenic change will affect soil functioning and services. In particular, it remains unclear how small-scale observations of soil communities based on the typical volume sampled (1-2 grams) are generalizable to ecosystem-scale responses and processes. This is especially relevant for remote, northern latitude soils, which are challenging to sample and are also thought to be more vulnerable to climate change compared to temperate soils. Here, we employed well-replicated shotgun metagenome and 16S rRNA gene amplicon sequencing to characterize community composition and metabolic potential in Alaskan tundra soils, combining our own datasets with those publically available from distant tundra and temperate grassland and agriculture habitats. We found that the abundance of many taxa and metabolic functions differed substantially between tundra soil metagenomes relative to those from temperate soils, and that a high degree of OTU-sharing exists between tundra locations. Tundra soils were an order of magnitude less complex than their temperate counterparts, allowing for near-complete coverage of microbial community richness (~92% breadth) by sequencing, and the recovery of twenty-seven high-quality, almost complete (>80% completeness) population bins. These population bins, collectively, made up to ~10% of the metagenomic datasets, and represented diverse taxonomic groups and metabolic lifestyles tuned toward sulfur cycling, hydrogen metabolism, methanotrophy, and organic matter oxidation. Several population bins, including members of Acidobacteria, Actinobacteria, and Proteobacteria, were also present in geographically distant (~100-530 km apart) tundra habitats (full genome representation and up to 99.6% genome-derived average nucleotide identity). Collectively, our results revealed that Alaska tundra microbial communities are less diverse and more homogenous across spatial scales than previously anticipated, and provided DNA sequences of abundant populations and genes that would be relevant for future studies of the effects of environmental change on tundra ecosystems.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fmicb.2016.00579/full"
+  }
+]

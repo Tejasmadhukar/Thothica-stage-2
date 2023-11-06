@@ -1,0 +1,241 @@
+[
+  {
+    "title": "Stable water isotopes in the coupled atmosphere–land surface model ECHAM5-JSBACH",
+    "authors": [
+      "B. Haese,",
+      "M. Werner,",
+      "G. Lohmann"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-6-1463-2013",
+    "journalVolume": "Vol. 6,\n                                no. 5\n                                \n                                  pp.\n                                  1463\n                                  – 1480",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "In this study we present first results of a new model development, ECHAM5-JSBACH-wiso, where we have incorporated the stable water isotopes H218O and HDO as tracers in the hydrological cycle of the coupled atmosphere–land surface model ECHAM5-JSBACH. The ECHAM5-JSBACH-wiso model was run under present-day climate conditions at two different resolutions (T31L19, T63L31). A comparison between ECHAM5-JSBACH-wiso and ECHAM5-wiso shows that the coupling has a strong impact on the simulated temperature and soil wetness. Caused by these changes of temperature and the hydrological cycle, the δ18O in precipitation also shows variations from −4‰ up to 4‰. One of the strongest anomalies is shown over northeast Asia where, due to an increase of temperature, the δ18O in precipitation increases as well. In order to analyze the sensitivity of the fractionation processes over land, we compare a set of simulations with various implementations of these processes over the land surface. The simulations allow us to distinguish between no fractionation, fractionation included in the evaporation flux (from bare soil) and also fractionation included in both evaporation and transpiration (from water transport through plants) fluxes. While the isotopic composition of the soil water may change for δ18O by up to +8&permil:, the simulated δ18O in precipitation shows only slight differences on the order of ±1‰. The simulated isotopic composition of precipitation fits well with the available observations from the GNIP (Global Network of Isotopes in Precipitation) database.",
+    "readLink": "http://www.geosci-model-dev.net/6/1463/2013/gmd-6-1463-2013.pdf"
+  },
+  {
+    "title": "The International Whaling Commission – Beyond Whaling",
+    "authors": [
+      "Andrew John Wright,",
+      "Mark Peter Simmonds,",
+      "Barbara Galletti Vernazzani"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2016.00158",
+    "journalVolume": "Vol. 3",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Since its establishment in 1946 as the international body intended to manage whaling, the International Whaling Commission (IWC) has expanded its areas of interest to ensure the wider conservation of whales. Several key conservation topics have been taken forward under its auspices including climate change, chemical and noise pollution, marine debris and whale watching. Work on each of these topics at the IWC has grown substantially since the 1990s and remains ongoing. Important developments were the establishment of the Standing Working Group on Environmental Concerns in 1996 and the IWC’s Conservation Committee in 2003. Trying to address this diverse set of issues is obviously a challenge but will be necessary if the long term conservation of cetaceans is to be achieved. Through research, workshops, resolutions and collaboration with other organisations, the IWC has advanced both the understanding of the various issues and the means to manage them with increasing effectiveness. The IWC is likely to remain on the forefront of continuing efforts to address these, and other, conservation concerns and ensure the continued viability of cetacean populations around the globe.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fmars.2016.00158/full"
+  },
+  {
+    "title": "ERS International Congress 2022: highlights from the Basic and Translational Science Assembly",
+    "authors": [
+      "Sara Cuevas Ocaña,",
+      "Natalia El-Merhie,",
+      "Merian E. Kuipers,",
+      "Mareike Lehmann,",
+      "Sara Rolandsson Enes,",
+      "Carola Voss,",
+      "Lareb S.N. Dean,",
+      "Matthew Loxham,",
+      "Agnes W. Boots,",
+      "Suzanne M. Cloonan,",
+      "Catherine M. Greene,",
+      "Irene H. Heijink,",
+      "Audrey Joannes,",
+      "Arnaud A. Mailleux,",
+      "Nahal Mansouri,",
+      "Niki L. Reynaert,",
+      "Anne M. van der Does,",
+      "Darcy E. Wagner,",
+      "Niki Ubags"
+    ],
+    "doi": "https://doi.org/10.1183/23120541.00561-2022",
+    "journalVolume": "Vol. 9,\n                                no. 2",
+    "issn": "2312-0541 (Online)",
+    "publisher": "European Respiratory Society",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://openres.ersjournals.com/",
+    "abstract": "In this review, the Basic and Translational Science Assembly of the European Respiratory Society provides an overview of the 2022 International Congress highlights. We discuss the consequences of respiratory events from birth until old age regarding climate change related alterations in air quality due to pollution caused by increased ozone, pollen, wildfires and fuel combustion as well as the increasing presence of microplastic and microfibres. Early life events such as the effect of hyperoxia in the context of bronchopulmonary dysplasia and crucial effects of the intrauterine environment in the context of pre-eclampsia were discussed. The Human Lung Cell Atlas (HLCA) was put forward as a new point of reference for healthy human lungs. The combination of single-cell RNA sequencing and spatial data in the HLCA has enabled the discovery of new cell types/states and niches, and served as a platform that facilitates further investigation of mechanistic perturbations. The role of cell death modalities in regulating the onset and progression of chronic lung diseases and its potential as a therapeutic target was also discussed. Translational studies identified novel therapeutic targets and immunoregulatory mechanisms in asthma. Lastly, it was highlighted that the choice of regenerative therapy depends on disease severity, ranging from transplantation to cell therapies and regenerative pharmacology.",
+    "readLink": "http://openres.ersjournals.com/content/9/2/00561-2022.full"
+  },
+  {
+    "title": "The Use of LiDAR-Derived DEM in Flood Applications: A Review",
+    "authors": [
+      "Nur  Atirah Muhadi,",
+      "Ahmad  Fikri Abdullah,",
+      "Siti  Khairunniza Bejo,",
+      "Muhammad  Razif Mahadi,",
+      "Ana Mijic"
+    ],
+    "doi": "https://doi.org/10.3390/rs12142308",
+    "journalVolume": "Vol. 12,\n                                no. 2308\n                                \n                                  p.\n                                  2308",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Flood occurrence is increasing due to escalated urbanization and extreme climate change; hence, various studies on this issue and methods of flood monitoring and mapping are also increasing to reduce the severe impacts of flood disasters. The advancement of current technologies such as light detection and ranging (LiDAR) systems facilitated and improved flood applications. In a LiDAR system, a laser emits light that travels to the ground and reflects off objects like buildings and trees. The reflected light energy returns to the sensor, whereby the time interval is recorded. Since the conventional methods cannot produce high-resolution digital elevation model (DEM) data, which results in low accuracy of flood simulation results, LiDAR data are extensively used as an alternative. This review aims to study the potential and the applications of LiDAR-derived DEM in flood studies. It also provides insight into the operating principles of different LiDAR systems, system components, and advantages and disadvantages of each system. This paper discusses several topics relevant to flood studies from a LiDAR-derived DEM perspective. Furthermore, the challenges and future perspectives regarding DEM LiDAR data for flood mapping and assessment are also reviewed. This study demonstrates that LiDAR-derived data are useful in flood risk management, especially in the future assessment of flood-related problems.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/14/2308"
+  },
+  {
+    "title": "Towards Sustainable Water Resources Management Considering Climate Change in the Case of Saudi Arabia",
+    "authors": [
+      "Abdullah Alodah"
+    ],
+    "doi": "https://doi.org/10.3390/su152014674",
+    "journalVolume": "Vol. 15,\n                                no. 14674\n                                \n                                  p.\n                                  14674",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Saudi Arabia is one of the most water-scarce nations in the world, with a huge demand-supply gap, and the situation is expected to worsen due to climate change. Conventional surface water resources are limited, while nonrenewable groundwater sources are depleted. To build a more resilient and sustainable water sector, the production of non-conventional water resources, specifically desalinated seawater and treated domestic wastewater, has steadily increased in recent years. As the country lacks perennial water resources, such as rivers or water bodies, it relies mainly on nonrenewable groundwater and desalinated water to meet its daily requirements. Although the government is attempting to regulate the agricultural sector, water consumption in agriculture remains relatively high. It presents an environmental challenge due to its heavy reliance on non-renewable groundwater resources. The anticipated increase in temperature and highly uncertain changes in the rainfall patterns in Saudi Arabia could lead to greater uncertainty when attempting to develop effective water resource management plans. In this work, we review the status of the present and future of water resources and the challenges local authorities face in managing water resources amidst a changing climate in Saudi Arabia. This study employed a narrative research methodology, utilizing various databases, including Scopus, Web of Science, and Science Direct, to extract relevant articles within the subject area. This study proposes a number of recommendations and conclusions aimed at improving decision-makers’ ability to adapt to and mitigate the anticipated adverse impacts of climate change to manage scarce water resources sustainably.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/20/14674"
+  },
+  {
+    "title": "Assessment of Climate Change Impacts on the Water, Food, and Energy Sectors in Sittaung River Basin, Myanmar",
+    "authors": [
+      "Uttam Ghimire,",
+      "Thanapon Piman,",
+      "Manish Shrestha,",
+      "Anil Aryal,",
+      "Chayanis Krittasudthacheewa"
+    ],
+    "doi": "https://doi.org/10.3390/w14213434",
+    "journalVolume": "Vol. 14,\n                                no. 3434\n                                \n                                  p.\n                                  3434",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Sittaung river basin (SRB) remains one of the least studied basins of Myanmar in terms of the assessment of the impact of climate change. As several reservoirs already exist in the basin, much research is needed to understand how projected climate change impacts rainfall, temperature, flows, domestic and agricultural demands, and hydropower generation. Given the limitation in observed data on the ground, a combination of satellite-derived meteorological data and digital elevation data is used to generate inputs to a Water Evaluation and Planning (WEAP) model. Five CMIP5 GCMs are used in the WEAP to assess the impact of climate change on the water, food, and energy production of the SRB for the baseline (BL: 1985–2014), near future (NF: 2021–2050), and far future (FF: 2051–2080) periods. The results indicate that the average temperature and rainfall are likely to increase in the future for the SRB. December and January are expected to be drier and warmer, whereas rainy months are expected to be wetter and warmer in the future. The BL flows (1091 m3/s) are expected to increase by 7–10% during NF and by 16–19% during FF at the basin outlet. Meanwhile, the unmet domestic demand during BL (1.3 MCM) is expected to decrease further by approximately 50% in the future. However, the unmet agricultural demand (667 MCM) for food production is estimated to increase from the BL by 11–15% during NF and by 14–19% during FF. Similarly, the total energy generation of nine hydropower projects (4.12 million MWh) is expected to increase by 9–11% during NF and by 16–17% during FF. Thus, the riverine flows are expected to increase in the future, thus positively impacting the domestic and hydropower sectors, whereas the unmet demands in the agricultural sector likely remain unsatisfied. These results will help the water, agriculture, and energy sectors to develop strategies to maximize benefits and cope with the impacts of climate change in the near and long-term future.",
+    "readLink": "https://www.mdpi.com/2073-4441/14/21/3434"
+  },
+  {
+    "title": "Global Warming and Tea Production—The Bibliometric View on a Newly Emerging Research Topic",
+    "authors": [
+      "Werner Marx,",
+      "Robin Haunschild,",
+      "Lutz Bornmann"
+    ],
+    "doi": "https://doi.org/10.3390/cli5030046",
+    "journalVolume": "Vol. 5,\n                                no. 3\n                                \n                                  p.\n                                  46",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "In this study, we analyzed the newly emerging research field of climate change in combination with tea production. We adapted a valid search query to cover the relevant literature as completely as possible and to exclude irrelevant literature. The search resulted in a publication set of 14 key papers dealing with the implications of climate change for tea production as well as 71 papers citing at least one of the 14 key papers. The VOSviewer software was used for revealing the thematic content of the publication set based on the analysis of the keywords. The analysis illustrates the importance of climate change for tea production and mirrors the emerging discussion on climate change impacts and adaptation strategies. Questions regarding the historical context of research fields or specific research topics can be answered by using a bibliometric method called “Reference Publication Year Spectroscopy” (RPYS). The standard RPYS, as well as RPYS-CO, which is based on co-citations of a marker paper, were applied and the most important publication in the historical context of climate change in combination with tea production was identified: both RPYS analyses revealed a paper by M.A. Wijeratne working at the Tea Research Institute (TRI) in Sri Lanka as the starting point of the newly emerging research topic. Currently, the research topic is stimulated by research projects and publications of Selena Ahmed at the Montana State University (USA).",
+    "readLink": "https://www.mdpi.com/2225-1154/5/3/46"
+  },
+  {
+    "title": "Do Electric Vehicles Mitigate Urban Heat? The Case of a Tropical City",
+    "authors": [
+      "Gianluca Mussetti,",
+      "Edouard L. Davin,",
+      "Edouard L. Davin,",
+      "Jonas Schwaab,",
+      "Juan A. Acero,",
+      "Jordan Ivanchev,",
+      "Vivek Kumar Singh,",
+      "Luxi Jin,",
+      "Sonia I. Seneviratne"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2022.810342",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "On top of their well known positive impact on air quality and CO2 emissions, electric vehicles generate less exhaust heat compared to traditional vehicles thanks to their high engine efficiency. As such, electric vehicles have the potential to mitigate the excessive heat in urban areas—a problem which has been exacerbated due to urbanisation and climate change. Still, the heat mitigation potential of electric vehicles has not been fully understood. Here, we combine high-resolution traffic heat emission inventories with an urban climate model to simulate the impact of the fleet electrification to the near-surface air temperature in the tropical city of Singapore. We show that a full replacement of traditional internal combustion engine vehicles with electric vehicles reduces the near-surface air temperature by up to 0.6°C. The heat mitigation potential is highest during the morning traffic peak and over areas with the largest traffic density. Interestingly, the reduction in exhaust heat emissions due to the fleet electrification during the evening traffic peak hardly leads to a reduction of near-surface air-temperatures, which is attributed to the different atmospheric conditions during morning and evening. This study presents a new quantification of the city-wide impact of electric vehicles on the air temperature in a tropical urban area. The results may support policy-makers toward designing holistic solutions to address the challenge of climate change adaptation and mitigation in cities.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2022.810342/full"
+  },
+  {
+    "title": "Harvesting the benefits of nutritional research to address global challenges in the 21st century",
+    "authors": [
+      "Brett Glencross,",
+      "Débora Machado Fracalossi,",
+      "Katheline Hua,",
+      "Marisol Izquierdo,",
+      "Kangsen Mai,",
+      "Margareth Øverland,",
+      "David Robb,",
+      "Rodrigo Roubach,",
+      "Johan Schrama,",
+      "Brian Small,",
+      "Albert Tacon,",
+      "Luisa M. P. Valente,",
+      "Maria‐Teresa Viana,",
+      "Shouqi Xie,",
+      "Amararatne Yakupityage"
+    ],
+    "doi": "https://doi.org/10.1111/jwas.12948",
+    "journalVolume": "Vol. 54,\n                                no. 2\n                                \n                                  pp.\n                                  343\n                                  – 363",
+    "issn": "0893-8849 (Print)",
+    "publisher": "1749-7345 (Online)",
+    "countryOfPublisher": "Wiley",
+    "lcc": [
+      "United States",
+      "Agriculture: Aquaculture. Fisheries. Angling"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/17497345",
+    "abstract": "Abstract Over the past 20 years, substantial progress has been made in improving feeds and feeding technologies for most aquaculture species. Notable improvements in feed conversion efficiency (through a better understanding of requirements and improved feed management) and ingredient sustainability (through increased capability to use a wider range of ingredients) have been achieved. While advances have been made in understanding the requirements of many of the main aquaculture species, there is still much to be done in defining requirements, especially for many of the species being farmed in the developing world. Gains in the efficiency of feeds are slowing for developed species, but potential gains are still appreciable for less developed species. There is a growing need to more precisely prescribe the required levels of essential nutrients and various additives in the diet based on age, genotype, environment, and immune status to deliver a “precision nutrition” approach to farming aquaculture species. There is still further need to diversify our ingredient options to provide greater resilience, as the sustainability of different feed ingredient sources, including possible climate change impacts, is becoming a growing issue. There is a growing demand for biocircularity in our feed ingredient supply chains. Ultimately, what is needed to sustain future feed ingredient needs are sustainable sources of cost‐effective protein, some essential amino acid additives, some omega‐3 fatty acid resources, and various minerals and vitamin additives. The increasing use of new and varied resources will ensure that food safety remains an important issue throughout the world. Feed manufacturing has evolved from a simplistic exercise to a highly complex science with state‐of‐the‐art engineering, but its application is not consistent across all sectors, as there is still widespread use of pelleting, mash, and trash fish feeding in the developing world. Similarly, feed management has also dichotomized between the developed and developing world, with a high reliance on manual skilled labor in the developing world, whereas more advanced aquaculture systems are becoming increasingly reliant on automated computer‐controlled feeding systems.",
+    "readLink": "https://doi.org/10.1111/jwas.12948"
+  },
+  {
+    "title": "Morphodynamic Controls for Growth and Evolution of a Rubble Coral Island",
+    "authors": [
+      "Lara Talavera,",
+      "Ana Vila-Concejo,",
+      "Jody  M. Webster,",
+      "Courtney Smith,",
+      "Stephanie Duce,",
+      "Thomas  E. Fellowes,",
+      "Tristan Salles,",
+      "Daniel Harris,",
+      "Jon Hill,",
+      "Will Figueira,",
+      "Jörg Hacker"
+    ],
+    "doi": "https://doi.org/10.3390/rs13081582",
+    "journalVolume": "Vol. 13,\n                                no. 1582\n                                \n                                  p.\n                                  1582",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Rubble islands are dynamic sedimentary features present on reef platforms that evolve under a variety of morphodynamic processes and controlling mechanisms. They provide valuable inhabitable land for small island nations, critical habitat for numerous species, and are threatened by climate change. Aiming to investigate the controlling mechanisms dictating the evolution of One Tree Island (OTI), a rubble island in the Southern Great Barrier Reef, we combined different remotely-sensed data across varying timescales with wave data extracted from satellite altimetry and cyclone activity. Our findings show that (1) OTI had expanded by 7% between 1978 and 2019, (2) significant gross planform decadal adjustments were governed by the amount, intensity, proximity, and relative position of cyclones as well as El Niño Southern Oscillation (ENSO) phases, and (3) the mechanisms of island growth involve rubble spits delivering and redistributing rubble to the island through alongshore sediment transport and wave overtopping. Frequent short-term monitoring of the island and further research coupling variations in the different factors driving island change (i.e., sediment availability, reef-wave interactions, and extreme events) are needed to shed light on the future trajectory of OTI and other rubble islands under a climate change scenario.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/8/1582"
+  }
+]

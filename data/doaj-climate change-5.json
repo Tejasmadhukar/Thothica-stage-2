@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system",
+    "authors": [
+      "Chang Suk Lee,",
+      "Kyung-Soo Han,",
+      "Jong-Min Yeom,",
+      "Kyeong-sang Lee,",
+      "Minji Seo,",
+      "Jinkyu Hong,",
+      "Je-Woo Hong,",
+      "Keunmin Lee,",
+      "Jinho Shin,",
+      "In-Chul Shin,",
+      "Junghwa Chun,",
+      "Jean-Louis Roujean"
+    ],
+    "doi": "https://doi.org/10.1080/15481603.2017.1360578",
+    "journalVolume": "Vol. 55,\n                                no. 1\n                                \n                                  pp.\n                                  38\n                                  – 62",
+    "issn": "1548-1603 (Print)",
+    "publisher": "1943-7226 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Mathematical geography. Cartography",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/tgrs",
+    "abstract": "The surface albedo is an essential climate variable that is considered in many applications used for predicting climate and understanding the mechanisms of climate change. In this study, surface albedo was estimated using a bidirectional reflectance distribution function model based on Communication, Ocean and Meteorological Satellite/Meteorological Imager data. Geostationary orbiting satellite data are suitable for a level 2 product like albedo, which requires a synthetic process to estimate. The authors modified established methods to consider the geometry of the solar-surface-sensor of COMS/MI. Of note, the viewing zenith angle term was removed from the kernel integration used for estimating spectral albedo. Finally, the spectral (narrow) albedo was converted into the broadband albedo with shortwave length (approximately 0.3–2.5 μm). This study determined conversion coefficients using only one spectral albedo of visible channel. The estimated albedo had a relatively high correlation with Satellite Pour l’Observation de la Terre/Vegetation and low unweighted error values specific for land types or times. The validation results show that estimated albedo has a root mean square error of 0.0134 at Jeju flux site that indicates accuracy similar to that of other satellite-based products.",
+    "readLink": "http://dx.doi.org/10.1080/15481603.2017.1360578"
+  },
+  {
+    "title": "Life Cycle Assessment of Biogas Production from Unused Grassland Biomass Pretreated by Steam Explosion Using a System Expansion Method",
+    "authors": [
+      "Iris Kral,",
+      "Gerhard Piringer,",
+      "Molly  K. Saylor,",
+      "Javier Lizasoain,",
+      "Andreas Gronauer,",
+      "Alexander Bauer"
+    ],
+    "doi": "https://doi.org/10.3390/su12239945",
+    "journalVolume": "Vol. 12,\n                                no. 9945\n                                \n                                  p.\n                                  9945",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Reforestation is a threat to permanent grasslands in many alpine regions. Using these areas to produce biogas energy may help to preserve these important landscapes and save fossil fuels by adding a renewable local heat and electricity source. This case study compares (a) a status quo (SQ) reference scenario with heating oil, wood-chips, and grid electricity as municipal energy sources, and (b) a hypothetical local biogas (LB) scenario (to also be used as a municipal energy source) based on a 500-kWel biogas plant with steam explosion pretreatment. Here, hay from previously unused grassland is the main biogas substrate, whereas, in the reference SQ scenario, these grasslands remain unused. Life cycle assessment (LCA) results for LB and SQ scenarios are significantly different at p 2-eq kWhel-1 versus 0.501 CO2-eq kWhel-1). Dominant contributions to climate change in the SQ scenario are from the extant municipal energy sources that the LB biogas plant would replace; in the LB scenario, important contributions include unburned methane from the biogas plant, as well as CO2 emissions from hay production machines. In summary, important environmental impacts can be reduced and alpine grasslands can be preserved by biogas production from that grass. The advantages of integrating a local biogas plant in municipal energy and waste systems depend strongly on the extant municipal energy system characteristics.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/23/9945"
+  },
+  {
+    "title": "Water Status of Polylepis Forests Related to Altitudinal Gradient, Microclimate Variables and Slope",
+    "authors": [
+      "Raúl Marino Yaranga Cano,",
+      "Marco Aurelio Arizapana Almonacid,",
+      "Edith Pilar Orellana Mendoza,",
+      "Victor Henry Pariona Antonio,",
+      "Marco Italo Castañeda Tinco"
+    ],
+    "doi": "https://doi.org/10.12911/22998993/132425",
+    "journalVolume": "Vol. 22,\n                                no. 3\n                                \n                                  pp.\n                                  151\n                                  – 160",
+    "issn": "2299-8993 (Online)",
+    "publisher": "Polish Society of Ecological Engineering (PTIE)",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.jeeng.net",
+    "abstract": "The Polylepis forests in the central Andes of Peru remain in hostile environments due to their location above 4000 meters of altitude. They are home to a great biodiversity with a high level of endemism and are extremely vulnerable to climate change and human pressure. Variations in rainfall and temperature have been affecting plant health. These aspects have led to the analysis of the physiological response of plants through water stress and NDVI, in dry periods and related to altitudinal gradients and slope, of five forests located in the regions of Junin and Lima, where the species Polylepis rodolfo vasquezii, P. canoi and P. flavilpila are found. Seven 15 x 21 m plots and 10 sub-plots were established, distributed in the lower, middle and upper parts of the forest. The water potential of leaflets was measured by a Scholander pressure pump in a Pascale unit, microclimate variations by means of installed soil and air humidity and temperature sensors; the NDVI by means of multispectral images captured by an unmanned airborne vehicle. Water stress was different among species and changed according to the altitudinal gradient, soil hydrological variation and temperature. Leaflet size adaptation related to stress changes and a high correlation of NDVI with plant stress status were observed.",
+    "readLink": "http://www.jeeng.net/Water-Status-of-Polylepis-Forests-Related-to-Altitudinal-Gradient-Microclimate-Variables,132425,0,2.html"
+  },
+  {
+    "title": "Groundwater Vulnerability in the Piedmont Region under Climate Change",
+    "authors": [
+      "Mărgărit-Mircea Nistor"
+    ],
+    "doi": "https://doi.org/10.3390/atmos11080779",
+    "journalVolume": "Vol. 11,\n                                no. 779\n                                \n                                  p.\n                                  779",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Groundwater vulnerability has increased in recent decades due to several factors, but mainly due to climate change. In this study, we applied a complex approach to determine groundwater vulnerability at a regional scale in the Piedmont region including high-resolution climate models. Aquifers, terrain model, climate data, land cover, and groundwater monitoring stations data of nitrate (NO3) concentration were the main layers used for the vulnerability and risk mapping. Validation of the groundwater vulnerability map consisted of pixel pair comparison (PPC) using the quality status of a monitored groundwater station, dating from 2005 to 2012. The groundwater vulnerability maps that related to the 1990s and 2020s periods indicated very high and high vulnerability of groundwater in the central and eastern parts of the region, especially in the porous aquifers of Po Plain. The areas with very low and low vulnerability extend into the north and west, mainly in the non-aquiferous media and fissured aquifers. The future scenarios of groundwater vulnerability indicate a consistent increase of the very high vulnerability class, from the 1990s to the 2050s periods, in all scenarios, and mainly in the Po Plain.",
+    "readLink": "https://www.mdpi.com/2073-4433/11/8/779"
+  },
+  {
+    "title": "Borrelia burgdorferi and Borrelia miyamotoi in Atlantic Canadian wildlife",
+    "authors": [
+      "Christopher B. Zinck,",
+      "Vett K. Lloyd"
+    ],
+    "doi": "Vol. 17,\n                                no. 1",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Borrelia burgdorferi and Borrelia miyamotoi are tick-vectored zoonotic pathogens maintained in wildlife species. Tick populations are establishing in new areas globally in response to climate change and other factors. New Brunswick is a Canadian maritime province at the advancing front of tick population establishment and has seen increasing numbers of ticks carrying B. burgdorferi, and more recently B. miyamotoi. Further, it is part of a region of Atlantic Canada with wildlife species composition differing from much of continental North America and little information exists as to the presence and frequency of infection of Borrelia spp. in wildlife in this region. We used a citizen science approach to collect a wide range of animals including migratory birds, medium-sized mammals, and small mammals. In total we tested 339 animals representing 20 species for the presence of B. burgdorferi and B. miyamotoi. We have developed new nested PCR primers and a protocol with excellent specificity for detecting both of these Borrelia species, both single and double infections, in tissues and organs of various wildlife species. The positive animals were primarily small non-migratory mammals, approximately twice as many were infected with B. burgdorferi than B. miyamotoi and one animal was found infected with both. In addition to established reservoir species, the jumping mouse (Napaeozapus insignis) was found frequently infected; this species had the highest infection prevalence for both B. burgdorferi and B. miyamotoi and has not previously been identified as an important carrier for either Borrelia species. Comprehensive testing of tissues found that all instances of B. burgdorferi infection were limited to one tissue within the host, whereas two of the five B. miyamotoi infections were diffuse and found in multiple systems. In the one coinfected specimen, two fetuses were also recovered and found infected with B. miyamotoi. This presumptive transplacental transmission suggests that vertical transmission in mammals is possible. This finding implies that B. miyamotoi could rapidly spread into wildlife populations, as well as having potential human health implications.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8782396/?tool=EBI"
+  },
+  {
+    "title": "Stronger sexual selection in warmer waters: the case of a sex role reversed pipefish.",
+    "authors": [
+      "Nuno M Monteiro,",
+      "David O Lyons"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0044251",
+    "journalVolume": "Vol. 7,\n                                no. 8\n                                \n                                  p.\n                                  e44251",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "In order to answer broader questions about sexual selection, one needs to measure selection on a wide array of phenotypic traits, simultaneously through space and time. Nevertheless, studies that simultaneously address temporal and spatial variation in reproduction are scarce. Here, we aimed to investigate the reproductive dynamics of a cold-water pipefish simultaneously through time (encompassing variation within each breeding cycle and as individuals grow) and space (by contrasting populations experiencing distinct water temperature regimes) in order to test hypothesized differences in sexual selection. Even though the sampled populations inhabited locations with very different water temperature regimes, they exhibited considerable similarities in reproductive parameters. The most striking was the existence of a well-defined substructure in reproductive activity, where larger individuals reproduce for longer periods, which seemed dependent on a high temperature threshold for breeding rather than on the low temperatures that vary heavily according to latitude. Furthermore, the perceived disparities among populations, such as size at first reproduction, female reproductive investment, or degree of sexual size dimorphism, seemed dependent on the interplay between seawater temperature and the operational sex ratio (OSR). Contrary to our expectations of an enhanced opportunity for sexual selection in the north, we found the opposite: higher female reproductive investment coupled with increased sexual size dimorphism in warmer waters, implying that a prolonged breeding season does not necessarily translate into reduced sexual selection pressure. In fact, if the limited sex has the ability to reproduce either continuously or recurrently during the entire breeding season, an increased opportunity for sexual selection might arise from the need to compete for available partners under strongly biased OSRs across protracted breeding seasons. A more general discussion on the effects of climate change in the pressure of sexual selection is also presented.",
+    "readLink": "http://europepmc.org/articles/PMC3428351?pdf=render"
+  },
+  {
+    "title": "Predicting the current and future distributions of Pennisetum alopecuroides (L.) in China under climate change based on the MaxEnt model.",
+    "authors": [
+      "Yuandong Xu,",
+      "Ruifen Zhu,",
+      "Lifang Gao,",
+      "Dejun Huang,",
+      "Yan Fan,",
+      "Chang Liu,",
+      "Jishan Chen"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0281254",
+    "journalVolume": "Vol. 18,\n                                no. 4\n                                \n                                  p.\n                                  e0281254",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Pennisetum alopecuroides (L.), one of the important exotic plants, gives great economic value to animal husbandry in China. In order to study the distribution of Pennisetum alopecuroides (L.) in China and its response to climate change, based on the distribution records of Pennisetum alopecuroides (L.), our study used the Maximum Entropy (MaxEnt) model and geographic information system (GIS) methods, combined with environmental factors such as climate and terrain, to predict the potential distribution areas suitable for Pennisetum alopecuroides (L.) under current and future climate scenarios. The results showed that annual precipitation was the most important factor affecting the distribution of Pennisetum alopecuroides (L.). In current climate scenario, the total area of suitable for Pennisetum alopecuroides (L.) growth was about 576.5 km2, accounting for about 60.5% of the total land area of China. Among all the suitable areas, the area of low, middle and high fitness areas accounted for 5.69%, 20.55% and 33.81% of the total area respectively. In future climate scenarios (RCP4.5), the suitable area of Pennisetum alopecuroides (L.) would decrease with climate change, showing a clear trend of northward expansion in China. A concentrated and contiguous distribution region for Pennisetum alopecuroides (L.) would appear in northeast China. The model was tested by the receiver operating characteristic curve (ROC), and the average area under the curve of ROC of the training set was 0.985, which was reliable. This work provided an important reference and theoretical basis for the efficient utilization and plant regionalization of Pennisetum alopecuroides (L.) in future.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0281254"
+  },
+  {
+    "title": "Behavioral responses to spring snow conditions contribute to long-term shift in migration phenology in American robins",
+    "authors": [
+      "Ruth Y Oliver,",
+      "Peter J Mahoney,",
+      "Eliezer Gurarie,",
+      "Nicole Krikun,",
+      "Brian C Weeks,",
+      "Mark Hebblewhite,",
+      "Glen Liston,",
+      "Natalie Boelman"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ab71a0",
+    "journalVolume": "Vol. 15,\n                                no. 4\n                                \n                                  p.\n                                  045003",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Migratory birds have the capacity to shift their migration phenology in response to climatic change. Yet the mechanistic underpinning of changes in migratory timing remain poorly understood. We employed newly developed global positioning system (GPS) tracking devices and long-term dataset of migration passage timing to investigate how behavioral responses to environmental conditions relate to phenological shifts in American robins ( Turdus migratorius ) during spring migration to Arctic-boreal breeding grounds. We found that over the past quarter-century (1994–2018), robins have migrated ca. 5 d/decade earlier. Based on GPS data collected for 55 robins over three springs (2016–2018), we found the arrival timing and likelihood of stopovers, and timing of arrival to breeding grounds, were strongly influenced by dynamics in snow conditions along migratory paths. These findings suggest plasticity in migratory behavior may be an important mechanism for how long-distance migrants adjust their breeding phenology to keep pace with advancement of spring on breeding grounds.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ab71a0"
+  },
+  {
+    "title": "An Adaptive Architecture for Long Term Energy Programme Management",
+    "authors": [
+      "Noran Ovidiu"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/201911106033",
+    "journalVolume": "Vol. 111\n                                \n                                \n                                  p.\n                                  06033",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Climate change, population growth, changing energy consumption patterns and the advent of feasible renewable energy sources has prompted governments worldwide to set targets for carbon emission reductions. The transition to a ‘near zero emissions’ industry and energy production presents significant opportunities but also caveats in relation to maintaining the balance of the ‘energy triangle’ aspects, namely economic, security and environmental. Various regions and countries find themselves in different economic, cultural and geopolitical situations which require customised approaches. Moreover, the transition is likely to take significant time, with disruptive technologies emerging in the meantime; therefore, a purely technical solution is unlikely to be viable in the long run. Hence, it would be helpful to complement the supportive, albeit high-level artefacts developed by various global organisations with strategic plans satisfying and abiding by principles that maximise the chances of success. Importantly, such strategic planning must follow a method that is transferable between geographical regions and their local maturity levels in respect to energy triangle viewpoints. This paper describes challenges and highlights of planning such a strategy, including guiding principles for the solution architecture and dynamic business models describing the possible structure and relations between an energy transition programme and its projects.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/37/e3sconf_clima2019_06033.pdf"
+  },
+  {
+    "title": "Characterization of Annual Air Emissions Reported by Pulp and Paper Mills in Atlantic Canada",
+    "authors": [
+      "Gianina Giacosa,",
+      "Codey Barnett,",
+      "Daniel G. Rainham,",
+      "Tony R. Walker"
+    ],
+    "doi": "https://doi.org/10.3390/pollutants2020011",
+    "journalVolume": "Vol. 2,\n                                no. 11\n                                \n                                  pp.\n                                  135\n                                  – 155",
+    "issn": "2673-4672 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/pollutants",
+    "abstract": "The pulp and paper industry is a major contributor to water and air pollution globally. Pulp and paper processing is an intensive energy consuming process that produces multiple contaminants that pollute water, air, and affect ecological and human health. In Canada, the National Pollutant Release Inventory (NPRI) is used to assess the release of air pollutants into the atmosphere from industrial facilities (including pulp and paper mills) and provides a repository of annual emissions reported by individual facilities. This study compared annual air emissions of carbon monoxide, nitrogen oxides, total particulate matter (TPM), PM2.5, PM10, sulphur dioxide, and volatile organic compounds from nine different pulp and/or paper mills in Atlantic Canada from three provinces (Nova Scotia, New Brunswick, and Newfoundland and Labrador) between 2002 and 2019. Results revealed that annual releases were several orders of magnitude higher than federal reporting thresholds suggested by Environment and Climate Change Canada. Pulp mills emit higher pollutant loads than those producing paper. The highest exceedance of a reporting threshold was for particulate matter (PM2.5) at Northern Pulp in Nova Scotia. The emissions of PM2.5 were on average (over a 17-year period) about 100,000% above the reporting threshold of 0.3 tonnes per year.",
+    "readLink": "https://www.mdpi.com/2673-4672/2/2/11"
+  }
+]

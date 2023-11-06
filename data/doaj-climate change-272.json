@@ -1,0 +1,193 @@
+[
+  {
+    "title": "How climate change will change the potential distribution of two wood-decaying fungi?",
+    "authors": [
+      "Danilo C. Santos,",
+      "Ailton M. A. Oliveira,",
+      "Renato L. M. Alvarenga,",
+      "Tatiana B. Gibertoni"
+    ],
+    "doi": "https://doi.org/10.1590/1677-941x-abb-2023-0021",
+    "journalVolume": "Vol. 37",
+    "issn": "0102-3306 (Print)",
+    "publisher": "1677-941X (Online)",
+    "countryOfPublisher": "Sociedade Botânica do Brasil",
+    "lcc": [
+      "Brazil",
+      "Science: Botany"
+    ],
+    "journalUrl": "https://www.scielo.br/j/abb/",
+    "abstract": "Abstract Changes in climate, which can be understood as fluctuations in climate patterns as a reflection of natural or anthropic interventions, can generate changes in the environment and consequently affect the diversity of organisms. Fungi are extremely important in organic matter cycling in different environments, mainly forest areas, decomposing dead wood. To better understand the effects of climate change on two wood-degrading Agaricomycetes, their potential neotropical distribution was modeled using known occurrence data, available in the GBIF database and in specific literature, and associated with predictor variables extracted from Worldclim. A modeling package in R environment was used to analyze the present and future suitability for the optimistic and pessimistic scenarios. The results indicate the climate as an important factor in the distribution of Auricularia brasiliana and Megasporoporia neosetulosa. The suitability factors for the metrics used indicate that the models can be used to analyze climatic areas and that temperature and precipitation strongly influence the permanence of species in these locations. The results also indicate areas that can be affected by climatic effects, consequently causing a decrease in the occurrence and permanence of these fungi in the Neotropics. Our models can be useful as future guidelines in conservation studies for fungi.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-33062023000100133&lng=en&tlng=en"
+  },
+  {
+    "title": "Characterization of cocoa production, income diversification and shade tree management along a climate gradient in Ghana.",
+    "authors": [
+      "Issaka Abdulai,",
+      "Laurence Jassogne,",
+      "Sophie Graefe,",
+      "Richard Asare,",
+      "Piet Van Asten,",
+      "Peter Läderach,",
+      "Philippe Vaast"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0195777",
+    "journalVolume": "Vol. 13,\n                                no. 4\n                                \n                                  p.\n                                  e0195777",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Reduced climatic suitability due to climate change in cocoa growing regions of Ghana is expected in the coming decades. This threatens farmers' livelihood and the cocoa sector. Climate change adaptation requires an improved understanding of existing cocoa production systems and farmers' coping strategies. This study characterized current cocoa production, income diversification and shade tree management along a climate gradient within the cocoa belt of Ghana. The objectives were to 1) compare existing production and income diversification between dry, mid and wet climatic regions, and 2) identify shade trees in cocoa agroforestry systems and their distribution along the climatic gradient. Our results showed that current mean cocoa yield level of 288kg ha-1yr-1 in the dry region was significantly lower than in the mid and wet regions with mean yields of 712 and 849 kg ha-1 yr-1, respectively. In the dry region, farmers diversified their income sources with non-cocoa crops and off-farm activities while farmers at the mid and wet regions mainly depended on cocoa (over 80% of annual income). Two shade systems classified as medium and low shade cocoa agroforestry systems were identified across the studied regions. The medium shade system was more abundant in the dry region and associated to adaptation to marginal climatic conditions. The low shade system showed significantly higher yield in the wet region but no difference was observed between the mid and dry regions. This study highlights the need for optimum shade level recommendation to be climatic region specific.",
+    "readLink": "http://europepmc.org/articles/PMC5902014?pdf=render"
+  },
+  {
+    "title": "Forest Cover Mapping Based on a Combination of Aerial Images and Sentinel-2 Satellite Data Compared to National Forest Inventory Data",
+    "authors": [
+      "Selina Ganz,",
+      "Petra Adler,",
+      "Gerald Kändler"
+    ],
+    "doi": "https://doi.org/10.3390/f11121322",
+    "journalVolume": "Vol. 11,\n                                no. 1322\n                                \n                                  p.\n                                  1322",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Research Highlights: This study developed the first remote sensing-based forest cover map of Baden-Württemberg, Germany, in a very high level of detail. Background and Objectives: As available global or pan-European forest maps have a low level of detail and the forest definition is not considered, administrative data are often oversimplified or out of date. Consequently, there is an important need for spatio-temporally explicit forest maps. The main objective of the present study was to generate a forest cover map of Baden-Württemberg, taking the German forest definition into account. Furthermore, we compared the results to NFI data; incongruences were categorized and quantified. Materials and Methods: We used a multisensory approach involving both aerial images and Sentinel-2 data. The applied methods are almost completely automated and therefore suitable for area-wide forest mapping. Results: According to our results, approximately 37.12% of the state is covered by forest, which agrees very well with the results of the NFI report (37.26% ± 0.44%). We showed that the forest cover map could be derived by aerial images and Sentinel-2 data including various data acquisition conditions and settings. Comparisons between the forest cover map and 34,429 NFI plots resulted in a spatial agreement of 95.21% overall. We identified four reasons for incongruences: (a) edge effects at forest borders (2.08%), (b) different forest definitions since NFI does not specify minimum tree height (2.04%), (c) land cover does not match land use (0.66%) and (d) errors in the forest cover layer (0.01%). Conclusions: The introduced approach is a valuable technique for mapping forest cover in a high level of detail. The developed forest cover map is frequently updated and thus can be used for monitoring purposes and for assisting a wide range of forest science, biodiversity or climate change-related studies.",
+    "readLink": "https://www.mdpi.com/1999-4907/11/12/1322"
+  },
+  {
+    "title": "Thresholds of biodiversity and ecosystem function in a forest ecosystem undergoing dieback",
+    "authors": [
+      "P. M. Evans,",
+      "A. C. Newton,",
+      "E. Cantarello,",
+      "P. Martin,",
+      "N. Sanderson,",
+      "D. L. Jones,",
+      "N. Barsoum,",
+      "J. E. Cottrell,",
+      "S. W. A’Hara,",
+      "L. Fuller"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-017-06082-6",
+    "journalVolume": "Vol. 7,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Ecological thresholds, which represent points of rapid change in ecological properties, are of major scientific and societal concern. However, very little research has focused on empirically testing the occurrence of thresholds in temperate terrestrial ecosystems. To address this knowledge gap, we tested whether a number of biodiversity, ecosystem functions and ecosystem condition metrics exhibited thresholds in response to a gradient of forest dieback, measured as changes in basal area of living trees relative to areas that lacked recent dieback. The gradient of dieback was sampled using 12 replicate study areas in a temperate forest ecosystem. Our results provide novel evidence of several thresholds in biodiversity (namely species richness of ectomycorrhizal fungi, epiphytic lichen and ground flora); for ecological condition (e.g. sward height, palatable seedling abundance) and a single threshold for ecosystem function (i.e. soil respiration rate). Mechanisms for these thresholds are explored. As climate-induced forest dieback is increasing worldwide, both in scale and speed, these results imply that threshold responses may become increasingly widespread.",
+    "readLink": "https://doi.org/10.1038/s41598-017-06082-6"
+  },
+  {
+    "title": "An Estimated Contribution of Glacier Runoff to Mongolia's Upper Khovd River Basin in the Altai Mountains",
+    "authors": [
+      "Caleb G. Pan,",
+      "Ulrich Kamp,",
+      "Munkhdavaa Munkhjargal,",
+      "Sarah J. Halvorson,",
+      "Avirmed Dashtseren,",
+      "Michael Walther"
+    ],
+    "doi": "https://doi.org/10.1659/MRD-JOURNAL-D-18-00059.1",
+    "journalVolume": "Vol. 39,\n                                no. 2\n                                \n                                  pp.\n                                  R12\n                                  – R20",
+    "issn": "0276-4741 (Print)",
+    "publisher": "1994-7151 (Online)",
+    "countryOfPublisher": "International Mountain Society",
+    "lcc": [
+      "Switzerland",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.mrd-journal.org",
+    "abstract": "In the semiarid climate of northwestern Mongolia, glaciers are critical contributors to water resources, particularly during the dry summer months. Nevertheless, our knowledge of the contribution of glacier runoff in the Upper Khovd River Basin (UKRB) is limited. This study investigates the impact of glacier recession on the UKRB's hydrology in western Mongolia's Altai Mountains. The analysis included glaciological method measurements, satellite-derived glacier extent records, and a simple ice ablation model. Our modeling used a mass balance gradient of 0.50 meters water equivalent 100 m–1 for the years 2000, 2010, and 2016 and included a sensitivity analysis that applied lower and upper mass balance gradient values and ±200 m around the equilibrium line altitude (ELA). The glacier contribution to the UKRB's water resources decreased from almost 8% in 2000 to 6.7% in 2016. Hypsometries revealed that glacier areas decreased at all elevations, indicating that only small accumulation zones exist. Therefore, applying a modeled increased ELA better represents glacier contribution to total runoff, at 18.7% in 2000 and 15.4% in 2016. The decreasing glacier runoff contribution indicates that the UKRB glaciers have passed the tipping point of an increased contribution that first follows enhanced melting. The continued glacier recession and uncertain water availability represent challenges for water resource management and future human–water relations in the Mongolian Altai.",
+    "readLink": "https://doi.org/10.1659/MRD-JOURNAL-D-18-00059.1"
+  },
+  {
+    "title": "Is the Formalization of Collective Tenure Rights Supporting Sustainable Indigenous Livelihoods? Insights from 'Comunidades Nativas' in the Peruvian Amazon",
+    "authors": [
+      "Juan Pablo Sarmiento Barletti,",
+      "Blanca Begert,",
+      "Miguel Angel Guerra Loza"
+    ],
+    "doi": "https://doi.org/10.5334/ijc.1126",
+    "journalVolume": "Vol. 15,\n                                no. 1",
+    "issn": "1875-0281 (Online)",
+    "publisher": "Utrecht University Library Open Access Journals (Publishing Services)",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Political science: Political institutions and public administration (General)"
+    ],
+    "journalUrl": "http://www.thecommonsjournal.org",
+    "abstract": "After decades of activism by Indigenous Peoples and their allies, the need to formalize Indigenous land rights has received increasing global attention as a strategy to address climate change. Research has highlighted the compatibility between community forest management regimes and carbon sequestration, reiterating the essential role that securing Indigenous land tenure must play in forest-based climate change mitigation strategies. Based on research conducted in six Indigenous Comunidades Nativas with formal collective titles in Peruvian Amazonia, this article argues that titling alone is not enough to ensure that Indigenous Peoples are supported and enabled to access their recognized rights and play a central role in addressing the climate crisis. Indigenous Awajún and Asháninka informants discussed challenges with accessing suitable livelihoods, excessive restrictions on timber harvest, land conflicts with smallholder migrant farmers and extractive concessions, unclear conflict resolution mechanisms, and policies that assume a communal governance model that differs from actual Indigenous leadership roles and institutions. All of these challenges put pressure on community members, creating incentives for unsustainable land and resource use, and undermining their abilities to protect their forests. Although Peru has included Comunidades Nativas and other co-managed areas in the mitigation actions toward its Nationally Determined Contribution to the Paris Agreement, it must re-examine its titling reforms, and the way that Comunidades’ land and resource access is regulated and weakened. This will allow for titling in practice to live up to its promise in theory as a strategy for promoting equity and mitigating climate change.",
+    "readLink": "https://www.thecommonsjournal.org/articles/1126"
+  },
+  {
+    "title": "Shifts of the Mean Centers of Potential Vegetation Ecosystems under Future Climate Change in Eurasia",
+    "authors": [
+      "Zemeng Fan,",
+      "Bin Fan"
+    ],
+    "doi": "https://doi.org/10.3390/f10100873",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  p.\n                                  873",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Climate change dominantly controls the spatial distributions of potential vegetation ecosystems; the shift trends in the mean centers of potential vegetation ecosystems could be used to explain their responses to climate change. In terms of the climate observation data of Eurasia for the period from 1981 to 2010 and the climate scenario data for the period from 2011 to 2100 under the three Representative Concentration Pathways (RCPs) scenarios of RCP2.6, RCP4.5 and, RCP8.5, which were released by the Coupled Model Intercomparison Project Phase 5 (CMIP5), the Holdridge Life Zone (HLZ) ecosystem model was improved to quantitatively classify the potential vegetation types, and the shift model of mean center was adopted to compute the trends in the spatiotemporal shifts of potential vegetation types in Eurasia. The results showed that the mean centers of the major potential vegetation ecosystems would be distributed in the central and southern parts of Eurasia. Under the RCP2.6, RCP4.5, and RCP8.5 scenarios, the potential shift distances of the mean centers of the vegetation types under the RCP8.5 scenario would be the largest, and those of the polar/nival area, subpolar/alpine moist tundra, warm temperate dry forest, subtropical moist forest, cool temperate moist forest, cool temperate wet forest, subtropical wet forest, subtropical thorn woodland, warm temperate moist forest and subtropical dry forest would be larger than those in the other potential vegetation types in Eurasia. Moreover, the shift directions of the mean centers of the major potential vegetation types would generally shift northward, and subtropical dry forest, warm temperate moist forest and subpolar/alpine moist tundra would be the most sensitive to change among all vegetation types under the three scenarios for the period from 2011 to 2100.",
+    "readLink": "https://www.mdpi.com/1999-4907/10/10/873"
+  },
+  {
+    "title": "Concrete based on sulfur binder being modified with inorganic additives",
+    "authors": [
+      "Balabanov Vadim,",
+      "Baryshok Victor,",
+      "Epishkin Nikita"
+    ],
+    "doi": "https://doi.org/10.1051/matecconf/201821201013",
+    "journalVolume": "Vol. 212\n                                \n                                \n                                  p.\n                                  01013",
+    "issn": "2261-236X (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.matec-conferences.org",
+    "abstract": "The sharply continental climate of the Irkutsk region is characterized by wide temperature intervals throughout the year. The repeated cyclicity of freezing and thawing of building materials in the water-saturated state influences the change in technical characteristics and the durability of concrete products and structures. The concrete products’ features in such climatic conditions create the need for the production of concretes with improved indicators of physical and mechanical properties. The effect of modifying additives on the technological characteristics of sulfur concrete is established. The effect of all elements of sulfur concrete on its strength and frost resistance. The composition of sulfuric concrete is obtained, which meets all the requirements and also has high strength and increased frost resistance. Formulations with a certain ratio of structural sulfuric concrete mixtures were developed. As a result of the use of technical sulfur in the composition of concrete products, the problem of utilizing annually accumulating reserves of technical sulfur is partially solved. The strength properties of sulfuric concretes easily compete with high-quality brands of concrete, special types of concretes that have in their composition additives.",
+    "readLink": "https://doi.org/10.1051/matecconf/201821201013"
+  },
+  {
+    "title": "Comparative Performance of Low Global Warming Potential (GWP) Refrigerants as Replacement for R-410A in a Regular 2-Speed Heat Pump for Sustainable Cooling",
+    "authors": [
+      "Bo Shen,",
+      "Moonis R. Ally"
+    ],
+    "doi": "https://doi.org/10.3390/su13158199",
+    "journalVolume": "Vol. 13,\n                                no. 8199\n                                \n                                  p.\n                                  8199",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Heat pumps are currently being developed to reduce the energy footprint for residential and commercial building space conditioning and water heating loads in cold climates. To mitigate the nocuous impact of greenhouse gas emissions on the environment, and to create a carbon-neutral building stock, alternate lower-GWP refrigerants must also replace the predominant use of R-410A, without re-engineering the mechanical hardware. In this paper, we analyze the performance of lower-GWP alternative refrigerants (R-32, R-452B, R-454B, and R-466A) relative to the conventional R-410A and draw conclusions on the relative performances to meet cooling loads. The simulations are accomplished using the heat pump design model, a well-known, public-domain design tool with a free web interface and downloadable desktop version to support public use and the HVAC R&D community. The contributions contain detailed, hardware-based heat exchanger and system analyses to provide a comprehensive assessment. The results of the simulation are scrutinized from the first (capacity and energy efficiency) and second laws (exergy analysis) to identify sources of systemic inefficiency, the root cause of lost work. This rigorous approach provides an exhaustive analysis of alternate lower-GWP refrigerants to replace R-410A using the same hardware. The results have practical value in engineering heat pumps in an economy that is compelled to alter by the consequences and uncertainties of climate change, to reduce its anthropogenic carbon footprint.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/15/8199"
+  },
+  null
+]

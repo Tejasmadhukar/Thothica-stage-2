@@ -1,0 +1,221 @@
+[
+  {
+    "title": "An Improved Inherent Optical Properties Data Processing System for Residual Error Correction in Turbid Natural Waters",
+    "authors": [
+      "Jun Chen,",
+      "Wenting Quan,",
+      "Hongtao Duan,",
+      "Qianguo Xing,",
+      "Na Xu"
+    ],
+    "doi": "https://doi.org/10.1109/JSTARS.2021.3073168",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  6596\n                                  – 6607",
+    "issn": "1939-1404 (Print)",
+    "publisher": "2151-1535 (Online)",
+    "countryOfPublisher": "IEEE",
+    "lcc": [
+      "United States",
+      "Technology: Ocean engineering",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443",
+    "abstract": "Being able to accurately estimate inherent optical properties (IOPs) at long time scales is key to comprehending the aquatic biological and biogeochemical responses to long-term global climate change. We employed the near-infrared band and combined it with four “common bands” at visible wavelengths (around 443, 490, 551, and 670 nm) to adjust the IOPs data processing system, IDASv2. We applied the IDASv2 algorithm further to correct for the residual error in images of turbid waters. We evaluated the performance of the IDASv2 algorithm using datasets covering a wide range of natural water types from clear open ocean to turbid coastal and inland waters. Due to the water-leaving signals’ sensitivity to the optically significant constituents of highly turbid waters, the near-infrared band was very important for retrieving IOPs from those waters. In our analysis, we found that the IDASv2 algorithm provided IOPs data with <28.36% uncertainty for oceanic waters and <37.83% uncertainty for inland waters, which was much more effective than what a quasi-analytical algorithm provided. Moreover, the near-infrared band was better at removing the residual error and partial intermission bias in satellite remote sensing reflectance (Rrs) data because of the strong absorption of pure water. We tested the IDASv2 algorithm with numerically simulated and satellite observed data of turbid water. After applying IDASv2, the IOPs data were accurately determined from Rrs data contaminated by the residual error. Furthermore, the mean intermission difference between Medium Resolution Spectral Imager 2 and Visible Infrared Imaging Radiometer Rrs data at 443 and 551 nm decreased from 8%–25% to 1%–9%. These results suggest that we can accurately estimate IOPs data for natural waters including naturally clear and turbid waters.",
+    "readLink": "https://ieeexplore.ieee.org/document/9404829/"
+  },
+  {
+    "title": "Relação entre clima organizacional, percepção de mudança organizacional e satisfação do cliente",
+    "authors": [
+      "Juliana Neves Santos,",
+      "Elaine Rabelo Neiva,",
+      "Eleuni Antônio Andrade-Melo"
+    ],
+    "doi": "https://doi.org/10.1590/S0102-37722013000100005",
+    "journalVolume": "Vol. 29,\n                                no. 1\n                                \n                                  pp.\n                                  31\n                                  – 39",
+    "issn": "0102-3772 (Print)",
+    "publisher": "1806-3446 (Online)",
+    "countryOfPublisher": "Universidade de Brasília",
+    "lcc": [
+      "Brazil",
+      "Philosophy. Psychology. Religion: Psychology"
+    ],
+    "journalUrl": "https://www.scielo.br/j/ptp/",
+    "abstract": "Este trabalho tem como objeto de estudo as relações entre clima organizacional, percepção de mudança e satisfação do cliente em 170 unidades de uma organização pública prestadora de serviços com atuação em todo o Brasil. Foram analisados dados primários e secundários, agregados em nível de unidade, utilizando-se da técnica de modelagem de equações estruturais. Foram testados modelos com relações direta e mediacionais entre as variáveis. Os resultados indicam que a percepção de mudança medeia a relação entre o clima organizacional e a satisfação do cliente, que o clima organizacional possui uma relação direta com a satisfação do cliente e os empregados percebem mudanças relacionadas à gestão do clima organizacional.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-37722013000100005&lng=en&tlng=en"
+  },
+  {
+    "title": "Filtration Performance Characteristics of Sticky Aerosol Using Calcium Hydroxide",
+    "authors": [
+      "Jae-Rang Lee,",
+      "Naim Hasolli,",
+      "Seong-Min Jeon,",
+      "Kang-San Lee,",
+      "Jun-Hyeok Gang,",
+      "Kwang-Deuk Kim,",
+      "Kwan-Young Lee,",
+      "Young-Ok Park"
+    ],
+    "doi": "https://doi.org/10.3390/atmos10020100",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  p.\n                                  100",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "This study examined the performance of removing aerosol upon a flow rate variable by agglomerating sticky aerosol with calcium hydroxide and removing cohesive aerosol through an experimental apparatus, simulating an actual painting booth. As a result of examining the performance of the filter by fixing the paint spray quantity, the calcium hydroxide input and the filtration area under variable flow rates of 5, 10, and 15 Nm3/min, we confirmed that the filter performance has long average aerosol removing intervals at the 5 Nm3/min flow rate. At the 5 Nm3/min flow rate, there is a low residual pressure drop trend and high fractional collection efficiency, and a high level of total collection efficiency is maintained at 99.42%. When the flow rate is less than 5 Nm3/min, the aerosol settling and experimentation was impossible. With this research, the optimal conditions for the use of sticky aerosol have been examined.",
+    "readLink": "https://www.mdpi.com/2073-4433/10/2/100"
+  },
+  {
+    "title": "Annual CO2 fluxes from a cultivated fen with perennial grasses during two initial years of rewetting",
+    "authors": [
+      "S. Karki,",
+      "T.P. Kandel,",
+      "L. Elsgaard,",
+      "R. Labouriau,",
+      "P.E. Lærke"
+    ],
+    "doi": "https://doi.org/10.19189/MaP.2017.DW.322",
+    "journalVolume": "Vol. 25,\n                                no. 01\n                                \n                                  pp.\n                                  1\n                                  – 22",
+    "issn": "1819-754X (Online)",
+    "publisher": "International Mire Conservation Group and International Peatland Society",
+    "countryOfPublisher": "Germany",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://mires-and-peat.net/",
+    "abstract": "Rewetting combined with biomass crop cultivation (paludiculture) has been proposed as a method for reducing carbon dioxide (CO2) emissions from drained peatlands. This field experiment compared CO2 fluxes from drained (control) and rewetted experimental plots in a temperate fen under reed canary grass cultivation over two successive years. The annual weighted mean water table depth from soil surface (WTD) during the study period was 9, 3 and 1 cm in control, semi-flooded and flooded plots, respectively. There were no significant effects of WTD treatment on biomass yields. The choice of response model for CO2 fluxes influenced annual estimates of ecosystem respiration (ER) and gross primary production (GPP), but all models showed that ER and GPP decreased in response to rewetting. The resulting net ecosystem exchange (NEE) of CO2, derived by combining eight ER and eight GPP models, varied widely. For example, NEE (expressed as CO2-C) ranged from 935 to -208 g m 2 yr-1 for the flooded plots. One set of ER and GPP models was selected on the basis of statistical criteria and showed insignificant differences in NEE between the three water table treatments ( 537 to -341 g CO2-C m-2 yr 1). Treatment effects on CO2 emission factors, calculated as the sum of NEE and C export in harvested biomass (58–242 g CO2-C m-2 yr-1), were similarly insignificant. Thus, the results indicated that varying WTD within this narrow range could influence both ER and GPP without altering the net emissions of CO2.",
+    "readLink": "http://mires-and-peat.net/media/map25/map_25_01.pdf"
+  },
+  {
+    "title": "Turkey oak (Quercus cerris L.) is more drought tolerant and better reflects climate variations compared to pedunculate oak (Quercus robur L.) in lowland mixed forests in northwestern Serbia: A stable carbon isotope ratio (δ13C) and radial growth approach",
+    "authors": [
+      "Saša Kostić,",
+      "Tom Levanič,",
+      "Saša Orlović,",
+      "Bratislav Matović,",
+      "Dejan B. Stojanović"
+    ],
+    "doi": "Vol. 142\n                                \n                                \n                                  p.\n                                  109242",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Tree-ring width (TRW), stable carbon isotope ratio (δ13C) and intrinsic water use efficiency (iWUE) data set chronologies were built for the period 1961–2000 for two oak species (pedunculate oak – Quercus robur L. and Turkey oak – Quercus cerris L.) in northwestern Serbia (Vojvodina province). We focused on the response of the two oak species to measured meteorological data (temperature, precipitation and cloud cover), drought events expressed by six meteorological drought indices, and river water level to better understand their drought tolerance and stress and to assess the reliability of the species response to climate and drought indices when using TRW or δ13C. Turkey oak exhibited better drought tolerance (and less drought stress) compared to pedunculate oak, as manifested, respectively, by less negative δ13C and lower iWUE values. Based on a generalised additive mixed model (GAMM) among the six drought indices studied, the standardised precipitation evapotranspiration index and the standardised precipitation index showed the best fit with both TRW and δ13C, while the Palmer drought severity index exerted a strong influence only on TRW. It was thus concluded that δ13C responds more strongly and rapidly to climate variations than TRW.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X22007142"
+  },
+  {
+    "title": "Climate Change and Alpine Screes: No Future for Glacial Relict <i>Papaver occidentale</i> (Papaveraceae) in Western Prealps",
+    "authors": [
+      "Yann Fragnière,",
+      "Loïc Pittet,",
+      "Benoît Clément,",
+      "Sébastien Bétrisey,",
+      "Emanuel Gerber,",
+      "Michał Ronikier,",
+      "Christian Parisod,",
+      "Gregor Kozlowski"
+    ],
+    "doi": "https://doi.org/10.3390/d12090346",
+    "journalVolume": "Vol. 12,\n                                no. 346\n                                \n                                  p.\n                                  346",
+    "issn": "1424-2818 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/diversity/",
+    "abstract": "Glacial relicts, especially those with very narrow habitat requirements, are particularly affected by global warming. We considered Papaver occidentale, a glacial relict endemic to the Western Prealps, belonging to the alpine poppy complex (P. alpinum aggr.), as a model taxon to study the actual status and potential future distribution of species restricted to particular microrefugia. For this study, all known localities were visited, each population was georeferenced and the number of individuals was estimated. Species Distribution Modelling (SDM) was used to evaluate the present and future potential distribution range and habitat suitability, taking into account the specificity of its habitat (calcareous screes). According to our study, there are globally 19 natural populations of P. occidentale, and a total of about 30,000 individuals. The taxon is a highly specialized alpine plant growing in the majority of natural sites between 1900 and 2100 m a.s.l. on north-facing screes. Predictions for the end of the 21st century indicate that a suitable area will significantly decrease (0–30% remaining). Under the most severe climatic scenarios (RCP 8.5), the species risks complete extinction. The long-term in situ conservation of P. occidentale, and all other taxa of the P. alpinum complex, is unlikely to be achieved without slowing global climate change. More generally, our fine-scale study shows that local environmental buffering of large-scale climate change in high-mountain flora may be very limited in specialised taxa of patchy environments such as screes.",
+    "readLink": "https://www.mdpi.com/1424-2818/12/9/346"
+  },
+  {
+    "title": "Using Risk Assessment and Habitat Suitability Models to Prioritise Invasive Species for Management in a Changing Climate.",
+    "authors": [
+      "Shauna-Lee Chai,",
+      "Jian Zhang,",
+      "Amy Nixon,",
+      "Scott Nielsen"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0165292",
+    "journalVolume": "Vol. 11,\n                                no. 10\n                                \n                                  p.\n                                  e0165292",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Accounting for climate change in invasive species risk assessments improves our understanding of potential future impacts and enhances our preparedness for the arrival of new non-native species. We combined traditional risk assessment for invasive species with habitat suitability modeling to assess risk to biodiversity based on climate change. We demonstrate our method by assessing the risk for 15 potentially new invasive plant species to Alberta, Canada, an area where climate change is expected to facilitate the poleward expansion of invasive species ranges. Of the 15 species assessed, the three terrestrial invasive plant species that could pose the greatest threat to Alberta's biodiversity are giant knotweed (Fallopia sachalinensis), tamarisk (Tamarix chinensis), and alkali swainsonpea (Sphaerophysa salsula). We characterise giant knotweed as 'extremely invasive', with 21 times the suitable habitat between baseline and future projected climate. Tamarisk is 'extremely invasive' with a 64% increase in suitable habitat, and alkali swainsonpea is 'highly invasive' with a 21% increase in suitable habitat. Our methodology can be used to predict and prioritise potentially new invasive species for their impact on biodiversity in the context of climate change.",
+    "readLink": "http://europepmc.org/articles/PMC5074526?pdf=render"
+  },
+  {
+    "title": "Toward An Ethics of Reciprocity: Ethnobotanical Knowledge and Medicinal Plants as Cancer Therapies",
+    "authors": [
+      "John Charles Ryan"
+    ],
+    "doi": "https://doi.org/10.3390/h3040624",
+    "journalVolume": "Vol. 3,\n                                no. 4\n                                \n                                  pp.\n                                  624\n                                  – 644",
+    "issn": "2076-0787 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "General Works: History of scholarship and learning. The humanities"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/humanities",
+    "abstract": "This article develops a reciprocity ethics of the environment through a discussion of ethnobotanical medicines used in the treatment of cancer. The moral virtue of reciprocity, defined as the returning of good when good is received or anticipated, is central to the posthumanist rethinking of human relationships to the plant world. As herbal medicines are used progressively more around the globe and as plant diversity decreases as a result of habitat loss and climate change, an ethics of reciprocity should be a concern for environmental philosophers and conservationists. Aldo Leopold’s land ethic and J. Baird Callicott’s distinction between deontological and prudential environmental ethics provide theoretical contexts for the development of a reciprocity ethics vis-à-vis ethnobotanical species. While this article does not necessarily specify modes or forms of reciprocity, it does outline some of the more prominent ethnobotanical species used in the treatment of cancer, including those from Native American, African, Chinese, and Indian traditions. In the form of a dialogue between the fields of ethnobotany, herbal medicine, and environmental philosophy, this article presents a position from which further articulations of reciprocity can be developed, particularly those involving the rights of indigenous cultures and plants.",
+    "readLink": "http://www.mdpi.com/2076-0787/3/4/624"
+  },
+  {
+    "title": "Different roles of concurring climate and regional land-use changes in past 40 years’ insect trends",
+    "authors": [
+      "Felix Neff,",
+      "Fränzi Korner-Nievergelt,",
+      "Emmanuel Rey,",
+      "Matthias Albrecht,",
+      "Kurt Bollmann,",
+      "Fabian Cahenzli,",
+      "Yannick Chittaro,",
+      "Martin M. Gossner,",
+      "Carlos Martínez-Núñez,",
+      "Eliane S. Meier,",
+      "Christian Monnerat,",
+      "Marco Moretti,",
+      "Tobias Roth,",
+      "Felix Herzog,",
+      "Eva Knop"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-022-35223-3",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Drivers of long-term trends in insect populations are usually inferred from space-for-time substitution studies rather than from time-series data. Here, the authors investigate insect trends across a 40-year period in Switzerland and test their linkages with climate change, land use change and their interactions.",
+    "readLink": "https://doi.org/10.1038/s41467-022-35223-3"
+  },
+  {
+    "title": "The Changing of Important Factors in The Landscape Planning Occur Due to Global Climate Change in Temperature, Rain and Climate Types: A Case Study of Mersin City",
+    "authors": [
+      "Mehmet Cetin"
+    ],
+    "doi": "https://doi.org/10.24925/turjaf.v8i12.2695-2701.3891",
+    "journalVolume": "Vol. 8,\n                                no. 12\n                                \n                                  pp.\n                                  2695\n                                  – 2701",
+    "issn": "2148-127X (Online)",
+    "publisher": "Turkish Science and Technology Publishing (TURSTEP)",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://agrifoodscience.com/index.php/TURJAF/index",
+    "abstract": "Global climate change is seen as a process that will directly or indirectly affect living things and ecosystems all over the world. In this process, determining the changes in climate parameters and climate types in advance is of great importance in terms of the measures that can be taken and the preparation for the process. In this study, it is aimed to determine the changes that may be caused by global climate change in some climate parameters and climate types in Mersin, which is one of the important cities of our country. Within the scope of the study, the current status of temperature, precipitation and climate types (according to De Martone and Emberger climate classification) and RCP 4.5 and RCP 8.5. It is aimed to compare the possible situations in 2050 and 2070 in the light of scenarios. The results of the study show that temperature, precipitation and climate types will change significantly throughout Mersin province. Today, the temperature varying between -0.4°C and 19°C will change between 4.9°C and 24°C throughout the province in 2070 according to the RCP 8.5 scenario, that is, there will be an increase of around 5°C in the temperature change interval, the precipitation regime will change, Climate types are predicted to shift towards arid climates. This situation shows that climate factors, one of the most important planning criteria, will change significantly in landscape planning studies. Since landscape planning studies continue their effects for many years, it is recommended to take this into consideration in order to make a healthy planning. The results of this study should be used in the planning studies for Mersin province.",
+    "readLink": "http://www.agrifoodscience.com/index.php/TURJAF/article/view/3891"
+  }
+]

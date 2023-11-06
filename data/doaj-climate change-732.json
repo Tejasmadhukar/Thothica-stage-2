@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Sustainability of Egyptian Cities through Utilizing Sewage and Sludge in Softscaping and Biogas Production",
+    "authors": [
+      "Usama Konbr,",
+      "Walid Bayoumi,",
+      "Mohamed N. Ali,",
+      "Ahmed Salah Eldin Shiba"
+    ],
+    "doi": "https://doi.org/10.3390/su14116675",
+    "journalVolume": "Vol. 14,\n                                no. 6675\n                                \n                                  p.\n                                  6675",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The National Egyptian Agenda 2030 recently adopted the concepts of sustainable cities, mitigating and adapting to climate change. This study responded to these concepts by treating sewage to reuse it in softscaping and recycling sludge to reduce energy consumption and support heating systems by producing biogas. Of the limitations of this study, it focuses on a compound to propose a model to increase the sustainability of Egyptian cities. This study used many technologies, such as biological treatment processes, activated sludge, trickling filters, and fixed bioreactors. However, Membrane bioreactors (MBRs) have seemed to be the most suitable technology because of their low cost and footprint. Additionally, a pilot laboratory was established to simulate the sewage treatment plant. It consisted of a primary sedimentation tank followed by an MBR tank and a chlorine disinfection tank, where the sludge was fed into a cylindrical anaerobic digester. The amount of sludge collected generated 41.5 mL/day of biogas. The application of this large-scale batch reactor will produce around 38 m3/day of biogas. Applying the findings of this study to the treatment and reuse of domestic sewage and sludge can provide up to 50% of the water needed for the green area of the compound.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/11/6675"
+  },
+  {
+    "title": "Analysis of co-located MODIS and CALIPSO observations near clouds",
+    "authors": [
+      "T. Várnai,",
+      "A. Marshak"
+    ],
+    "doi": "https://doi.org/10.5194/amt-5-389-2012",
+    "journalVolume": "Vol. 5,\n                                no. 2\n                                \n                                  pp.\n                                  389\n                                  – 396",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "This paper aims at helping synergistic studies in combining data from different satellites for gaining new insights into two critical yet poorly understood aspects of anthropogenic climate change, aerosol-cloud interactions and aerosol radiative effects. In particular, the paper examines the way cloud information from the MODIS (MODerate resolution Imaging Spectroradiometer) imager can refine our perceptions based on CALIOP (Cloud-Aerosol Lidar with Orthogonal Polarization) lidar measurements about the systematic aerosol changes that occur near clouds. <br><br> The statistical analysis of a yearlong dataset of co-located global maritime observations from the Aqua and CALIPSO (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation) satellites reveals that MODIS's multispectral imaging ability can greatly help the interpretation of CALIOP observations. The results show that imagers on Aqua and CALIPSO yield very similar pictures, and that the discrepancies – due mainly to wind drift and differences in view angle – do not significantly hinder aerosol measurements near clouds. By detecting clouds outside the CALIOP track, MODIS reveals that clouds are usually closer to clear areas than CALIOP data alone would suggest. The paper finds statistical relationships between the distances to clouds in MODIS and CALIOP data, and proposes a rescaling approach to statistically account for the impact of clouds outside the CALIOP track even when MODIS cannot reliably detect low clouds, for example at night or over sea ice. Finally, the results show that the typical distance to clouds depends on both cloud coverage and cloud type, and accordingly varies with location and season. In maritime areas perceived cloud free, the global median distance to clouds below 3 km altitude is in the 4–5 km range.",
+    "readLink": "http://www.atmos-meas-tech.net/5/389/2012/amt-5-389-2012.pdf"
+  },
+  {
+    "title": "Evaluation of the Perspective of ERA-Interim and ERA5 Reanalyses for Calculation of Drought Indicators for Uzbekistan",
+    "authors": [
+      "Natella Rakhmatova,",
+      "Mikhail Arushanov,",
+      "Lyudmila Shardakova,",
+      "Bakhriddin Nishonov,",
+      "Raisa Taryannikova,",
+      "Valeriya Rakhmatova,",
+      "Dmitry  A. Belikov"
+    ],
+    "doi": "https://doi.org/10.3390/atmos12050527",
+    "journalVolume": "Vol. 12,\n                                no. 527\n                                \n                                  p.\n                                  527",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "The arid and semiarid regions of Uzbekistan are sensitive and vulnerable to climate change. However, the sparse and very unevenly distributed meteorological stations within the region provide limited data for studying the region’s climate variation. The aim of this work was to evaluate the performance of the European Centre for Medium-Range Weather Forecasts (ECMWF) Re-Analysis (ERA)-Interim and ERA5 products for the fields of near-surface temperature, humidity, and precipitation over Uzbekistan from 1981 to 2018 using observations from 74 meteorological stations. Major results suggested that the reanalysis datasets match well with most of the observed climate records, especially in the plain areas. While ERA5, with a high spatial resolution of 0.1°, is able more accurately reproduce mountain ranges and valleys. Compared to ERA-Interim, the climatological biases in temperature, humidity, and total precipitation from ERA5 are clearly reduced, and the representation of inter-annual variability is improved over most regions of Uzbekistan. Both reanalyses show a high level of agreement with observations on the standardized precipitation evaporation index (SPEI) with a correlation coefficient of 0.7–0.8.Although both of these ECMWF products can be successfully implemented for the calculation of atmospheric drought indicators for Uzbekistan and adjacent regions of Central Asia, the newer and advanced ERA5 is preferred.",
+    "readLink": "https://www.mdpi.com/2073-4433/12/5/527"
+  },
+  {
+    "title": "Data on SSR markers and SNPs filtered from transcriptome of Parvocalanus crassirostris",
+    "authors": [
+      "Nazima Habibi,",
+      "Saif Uddin,",
+      "Montaha Behebehani,",
+      "Mohd Wasif Khan,",
+      "Nasreem Abdul Razzack,",
+      "Faiz Shirshikhar"
+    ],
+    "doi": "Vol. 50\n                                \n                                \n                                  p.\n                                  109449",
+    "issn": "2352-3409 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/data-in-brief/",
+    "abstract": "Calanoid copepod populations are being severely affected due to the effects of ocean acidification (OA) and ocean warming (OW). These marine organisms are the most abundant primary consumers contributing significantly in the marine food web. Any effect on the abundance and diversity of copepods due to climate change is likely to have serious implications on the marine ecosystem functioning. Molecular studies that play a vital role in assessing the genetic changes under the influence of environmental imbalances are completely lacking for this species. Here we report the genetic variations in three generations of copepods through transcriptome sequencing. RNA sequencing was performed on an Illumina HiSeq platform employing the 2 × 100 bp paired-end chemistry. Approximately, 10GB of data was obtained for all the samples. The raw sequences were assembled through Trinity 2.6.6 and mined for single nucleotide polymorphisms (SNPs) and simple sequence repeats (SSRs). MIcroSAtellite Identification Tool (MISA) was used for SSR detection and Primer 3 (v 3.0) was utilized to design short oligonucleotide primers (18-20 mers). A total of 15,222 SSRs were identified and 28,944 primer pairs were designed against these motifs. The transcriptome possessed 413,890 SNPs at a frequency of 2.8 per kb. The newly discovered SSRs and SNPs could act as genetic markers for future studies on genetic diversity and conservation for Parvocalanus crassirostris.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352340923005498"
+  },
+  {
+    "title": "Heat and Drought Stress Impact on Phenology, Grain Yield, and Nutritional Quality of Lentil (Lens culinaris Medikus)",
+    "authors": [
+      "Hasnae Choukri,",
+      "Hasnae Choukri,",
+      "Kamal Hejjaoui,",
+      "Kamal Hejjaoui,",
+      "Adil El-Baouchi,",
+      "Noureddine El haddad,",
+      "Noureddine El haddad,",
+      "Abdelaziz Smouni,",
+      "Fouad Maalouf,",
+      "Dil Thavarajah,",
+      "Shiv Kumar"
+    ],
+    "doi": "https://doi.org/10.3389/fnut.2020.596307",
+    "journalVolume": "Vol. 7",
+    "issn": "2296-861X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply"
+    ],
+    "journalUrl": "http://www.frontiersin.org/nutrition",
+    "abstract": "Lentil (Lens culinaris Medikus) is a protein-rich cool-season food legume with an excellent source of protein, prebiotic carbohydrates, minerals, and vitamins. With climate change, heat, and drought stresses have become more frequent and intense in lentil growing areas with a strong influence on phenology, grain yield, and nutritional quality. This study aimed to assess the impact of heat and drought stresses on phenology, grain yield, and nutritional quality of lentil. For this purpose, 100 lentil genotypes from the global collection were evaluated under normal, heat, and combined heat-drought conditions. Analysis of variance revealed significant differences (p < 0.001) among lentil genotypes for phenological traits, yield components, and grain quality traits. Under no stress conditions, mineral concentrations among lentil genotypes varied from 48 to 109 mg kg−1 for iron (Fe) and from 31 to 65 mg kg−1 for zinc (Zn), while crude protein content ranged from 22.5 to 32.0%. Iron, zinc, and crude protein content were significantly reduced under stress conditions, and the effect of combined heat-drought stress was more severe than heat stress alone. A significant positive correlation was observed between iron and zinc concentrations under both no stress and stress conditions. Based on grain yield, crude protein, and iron and zinc concentrations, lentil genotypes were grouped into three clusters following the hierarchical cluster analysis. Promising lentil genotypes with high micronutrient contents, crude protein, and grain yield with the least effect of heat and drought stress were identified as the potential donors for biofortification in the lentil breeding program.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fnut.2020.596307/full"
+  },
+  {
+    "title": "Human Tick-Borne Diseases in Australia",
+    "authors": [
+      "Mona Dehhaghi,",
+      "Mona Dehhaghi,",
+      "Hamed Kazemi Shariat Panahi,",
+      "Hamed Kazemi Shariat Panahi,",
+      "Edward C. Holmes,",
+      "Bernard J. Hudson,",
+      "Richard Schloeffel,",
+      "Gilles J. Guillemin"
+    ],
+    "doi": "https://doi.org/10.3389/fcimb.2019.00003",
+    "journalVolume": "Vol. 9",
+    "issn": "2235-2988 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Cellular_and_Infection_Microbiology",
+    "abstract": "There are 17 human-biting ticks known in Australia. The bites of Ixodes holocyclus, Ornithodoros capensis, and Ornithodoros gurneyi can cause paralysis, inflammation, and severe local and systemic reactions in humans, respectively. Six ticks, including Amblyomma triguttatum, Bothriocroton hydrosauri, Haemaphysalis novaeguineae, Ixodes cornuatus, Ixodes holocyclus, and Ixodes tasmani may transmit Coxiella burnetii, Rickettsia australis, Rickettsia honei, or Rickettsia honei subsp. marmionii. These bacterial pathogens cause Q fever, Queensland tick typhus (QTT), Flinders Island spotted fever (FISF), and Australian spotted fever (ASF). It is also believed that babesiosis can be transmitted by ticks to humans in Australia. In addition, Argas robertsi, Haemaphysalis bancrofti, Haemaphysalis longicornis, Ixodes hirsti, Rhipicephalus australis, and Rhipicephalus sanguineus ticks may play active roles in transmission of other pathogens that already exist or could potentially be introduced into Australia. These pathogens include Anaplasma spp., Bartonella spp., Burkholderia spp., Francisella spp., Dera Ghazi Khan virus (DGKV), tick-borne encephalitis virus (TBEV), Lake Clarendon virus (LCV), Saumarez Reef virus (SREV), Upolu virus (UPOV), or Vinegar Hill virus (VINHV). It is important to regularly update clinicians' knowledge about tick-borne infections because these bacteria and arboviruses are pathogens of humans that may cause fatal illness. An increase in the incidence of tick-borne infections of human may be observed in the future due to changes in demography, climate change, and increase in travel and shipments and even migratory patterns of birds or other animals. Moreover, the geographical conditions of Australia are favorable for many exotic ticks, which may become endemic to Australia given an opportunity. There are some human pathogens, such as Rickettsia conorii and Rickettsia rickettsii that are not currently present in Australia, but can be transmitted by some human-biting ticks found in Australia, such as Rhipicephalus sanguineus, if they enter and establish in this country. Despite these threats, our knowledge of Australian ticks and tick-borne diseases is in its infancy.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fcimb.2019.00003/full"
+  },
+  {
+    "title": "Hurricane Flood Hazard Assessment for the Archipelago of San Andres, Providencia and Santa Catalina, Colombia",
+    "authors": [
+      "Wilmer Rey,",
+      "Wilmer Rey,",
+      "Pablo Ruiz-Salcines,",
+      "Paulo Salles,",
+      "Paulo Salles,",
+      "Claudia P. Urbano-Latorre,",
+      "Germán Escobar-Olaya,",
+      "Andrés F. Osorio,",
+      "Juan Pablo Ramírez,",
+      "Angélica Cabarcas-Mier,",
+      "Angélica Cabarcas-Mier,",
+      "Bismarck Jigena-Antelo,",
+      "Christian M. Appendini,",
+      "Christian M. Appendini"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2021.766258",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Despite the low occurrence of tropical cyclones at the archipelago of San Andres, Providencia, and Santa Catalina (Colombia), Hurricane Iota in 2020 made evident the area vulnerability to tropical cyclones as major hazards by obliterating 56.4 % of housing, partially destroying the remaining houses in Providencia. We investigated the hurricane storm surge inundation in the archipelago by forcing hydrodynamic models with synthetic tropical cyclones and hypothetical hurricanes. The storm surge from synthetic events allowed identifying the strongest surges using the probability distribution, enabling the generation of hurricane storm surge flood maps for 100 and 500 year return periods. This analysis suggested that the east of San Andres and Providencia are the more likely areas to be flooded from hurricanes storm surges. The hypothetical events were used to force the hydrodynamic model to create worst-case flood scenario maps, useful for contingency and development planning. Additionally, Hurricane Iota flood levels were calculated using 2D and 1D models. The 2D model included storm surge (SS), SS with astronomical tides (AT), and SS with AT and wave setup (WS), resulting in a total flooded area (percentage related to Providencia’s total area) of 67.05 ha (3.25 %), 65.23 ha (3.16 %), and 76.68 ha (3.68%), respectively. While Hurricane Iota occurred during low tide, the WS contributed 14.93 % (11.45 ha) of the total flooded area in Providencia. The 1D approximation showed that during the storm peak in the eastern of the island, the contribution of AT, SS, and wave runup to the maximum sea water level was −3.01%, 46.36%, and 56.55 %, respectively. This finding provides evidence of the water level underestimation in insular environments when modeling SS without wave contributions. The maximum SS derived from Iota was 1.25 m at the east of Providencia, which according to this study has an associated return period of 3,234 years. The methodology proposed in this study can be applied to other coastal zones and may include the effect of climate change on hurricane storm surges and sea-level rise. Results from this study are useful for emergency managers, government, coastal communities, and policymakers as civil protection measures.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2021.766258/full"
+  },
+  {
+    "title": "Asymmetric Effects of Daytime and Nighttime Warming on Boreal Forest Spring Phenology",
+    "authors": [
+      "Guorong Deng,",
+      "Hongyan Zhang,",
+      "Xiaoyi Guo,",
+      "Yu Shan,",
+      "Hong Ying,",
+      "Wu Rihan,",
+      "Hui Li,",
+      "Yangli Han"
+    ],
+    "doi": "https://doi.org/10.3390/rs11141651",
+    "journalVolume": "Vol. 11,\n                                no. 14\n                                \n                                  p.\n                                  1651",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Vegetation phenology is the most intuitive and sensitive biological indicator of environmental conditions, and the start of the season (SOS) can reflect the rapid response of terrestrial ecosystems to climate change. At present, the model based on mean temperature neglects the role of the daytime maximum temperature (TMAX) and the nighttime minimum temperature (TMIN) in providing temperature accumulation and cold conditions at leaf onset. This study analyzed the spatiotemporal variations of spring phenology for the boreal forest from 2001 to 2017 based on the moderate-resolution imaging spectro-radiometer (MODIS) enhanced vegetation index (EVI) data (MOD13A2) and investigated the asymmetric effects of daytime and nighttime warming on the boreal forest spring phenology during TMAX and TMIN preseason by partial correlation analysis. The results showed that the spring phenology was delayed with increasing latitude of the boreal forest. Approximately 91.37% of the region showed an advancing trend during the study period, with an average advancement rate of 3.38 ± 0.08 days/decade, and the change rates of different land cover types differed, especially in open shrubland. The length of the TMIN preseason was longer than that of the TMAX preseason and diurnal temperatures showed an asymmetrical increase during different preseasons. The daytime and nighttime warming effects on the boreal forest are asymmetrical. The TMAX has a greater impact on the vegetation spring phenology than TMIN as a whole and the effect also has seasonal differences; the TMAX mainly affects the SOS in spring, while TMIN has a greater impact in winter. The asymmetric effects of daytime and nighttime warming on the SOS in the boreal forest were highlighted in this study, and the results suggest that diurnal temperatures should be added to the forest terrestrial ecosystem model.",
+    "readLink": "https://www.mdpi.com/2072-4292/11/14/1651"
+  },
+  {
+    "title": "Warming and CO2 Enhance Arctic Heterotrophic Microbial Activity",
+    "authors": [
+      "Dolors Vaqué,",
+      "Elena Lara,",
+      "Jesús M. Arrieta,",
+      "Johnna Holding,",
+      "Johnna Holding,",
+      "Elisabet L. Sà,",
+      "Iris E. Hendriks,",
+      "Alexandra Coello-Camba,",
+      "Marta Alvarez,",
+      "Susana Agustí,",
+      "Susana Agustí,",
+      "Paul F. Wassmann,",
+      "Carlos M. Duarte,",
+      "Carlos M. Duarte"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2019.00494",
+    "journalVolume": "Vol. 10",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "Ocean acidification and warming are two main consequences of climate change that can directly affect biological and ecosystem processes in marine habitats. The Arctic Ocean is the region of the world experiencing climate change at the steepest rate compared with other latitudes. Since marine planktonic microorganisms play a key role in the biogeochemical cycles in the ocean it is crucial to simultaneously evaluate the effect of warming and increasing CO2 on marine microbial communities. In 20 L experimental microcosms filled with water from a high-Arctic fjord (Svalbard), we examined changes in phototrophic and heterotrophic microbial abundances and processes [bacterial production (BP) and mortality], and viral activity (lytic and lysogenic) in relation to warming and elevated CO2. The summer microbial plankton community living at 1.4°C in situ temperature, was exposed to increased CO2 concentrations (135–2,318 μatm) in three controlled temperature treatments (1, 6, and 10°C) at the UNIS installations in Longyearbyen (Svalbard), in summer 2010. Results showed that chlorophyll a concentration decreased at increasing temperatures, while BP significantly increased with pCO2 at 6 and 10°C. Lytic viral production was not affected by changes in pCO2 and temperature, while lysogeny increased significantly at increasing levels of pCO2, especially at 10°C (R2 = 0.858, p = 0.02). Moreover, protistan grazing rates showed a positive interaction between pCO2 and temperature. The averaged percentage of bacteria grazed per day was higher (19.56 ± 2.77% d-1) than the averaged percentage of lysed bacteria by virus (7.18 ± 1.50% d-1) for all treatments. Furthermore, the relationship among microbial abundances and processes showed that BP was significantly related to phototrophic pico/nanoflagellate abundance in the 1°C and the 6°C treatments, and BP triggered viral activity, mainly lysogeny at 6 and 10°C, while bacterial mortality rates was significantly related to bacterial abundances at 6°C. Consequently, our experimental results suggested that future increases in water temperature and pCO2 in Arctic waters will produce a decrease of phytoplankton biomass, enhancement of BP and changes in the carbon fluxes within the microbial food web. All these heterotrophic processes will contribute to weakening the CO2 sink capacity of the Arctic plankton community.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmicb.2019.00494/full"
+  },
+  {
+    "title": "Health consciousness and pro-environmental behaviors in an Italian representative sample: A cross-sectional study",
+    "authors": [
+      "Greta Castellini,",
+      "Marta Acampora,",
+      "Livio Provenzi,",
+      "Lucia Cagliero,",
+      "Luigi Lucini,",
+      "Serena Barello"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-023-35969-w",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Individual health-related behavior is among the most influential yet modifiable factors affecting both climate change and chronic disease. To encourage behaviors bringing about environmental and health co-benefits, it is important to understand the underlying factors of behavior change for healthy and sustainable lifestyles. One area of potential overlap concerns people’s health consciousness. The purpose of this study was to examine the relationship between health consciousness and pro-environmental behavior. We investigated whether health consciousness correlates with five clusters of pro-environmental behaviors: sustainable food consumption, recycling, green purchasing, sustainable mobility, and energy saving. Research data were collected via cross-sectional survey involving a representative sample of n = 1011 Italian citizens. Statistically significant differences emerged in the frequency of the different classes of pro-environmental behaviors: people living in Italy most frequently implement sustainable behaviors related to energy saving and recycling while sustainable mobility behaviors are the least implemented. Moreover, the stepwise linear regression model demonstrated the predictive role of citizens’ health consciousness on the adoption of specific classes of pro-environmental behaviors showing how higher involvement in one’s own health determines higher levels of pro-environmental behaviors. These results highlight the relevance of developing and testing complex programs featuring educational, sensitization, and structural strategies to increase citizens involvement in public health and pro-environmental behaviors.",
+    "readLink": "https://doi.org/10.1038/s41598-023-35969-w"
+  }
+]

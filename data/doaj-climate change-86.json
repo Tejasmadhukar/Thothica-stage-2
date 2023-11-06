@@ -1,0 +1,239 @@
+[
+  {
+    "title": "Urban organic aerosol composition in eastern China differs from north to south: molecular insight from a liquid chromatography–mass spectrometry (Orbitrap) study",
+    "authors": [
+      "K. Wang,",
+      "K. Wang,",
+      "K. Wang,",
+      "R.-J. Huang,",
+      "R.-J. Huang,",
+      "M. Brüggemann,",
+      "Y. Zhang,",
+      "L. Yang,",
+      "H. Ni,",
+      "J. Guo,",
+      "M. Wang,",
+      "J. Han,",
+      "M. Bilde,",
+      "M. Glasius,",
+      "T. Hoffmann"
+    ],
+    "doi": "https://doi.org/10.5194/acp-21-9089-2021",
+    "journalVolume": "Vol. 21\n                                \n                                \n                                  pp.\n                                  9089\n                                  – 9104",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Air pollution by particulate matter in China affects human health, the ecosystem and the climate. However, the chemical composition of particulate aerosol, especially of the organic fraction, is still not well understood. In this study, particulate aerosol samples with a diameter of ≤2.5 µm (PM2.5) were collected in January 2014 in three cities located in northeast, east and southeast China, namely Changchun, Shanghai and Guangzhou. Organic aerosol (OA) in the PM2.5 samples was analyzed by an ultrahigh-performance liquid chromatograph (UHPLC) coupled to a high-resolution Orbitrap mass spectrometer in both negative mode (ESI-) and positive mode electrospray ionization (ESI+). After non-target screening including the assignment of molecular formulas, the compounds were classified into five groups based on their elemental composition, i.e., CHO, CHON, CHN, CHOS and CHONS. The CHO, CHON and CHN groups present the dominant signal abundances of 81 %–99.7 % in the mass spectra and the majority of these compounds were assigned to mono- and polyaromatics, suggesting that anthropogenic emissions are a major source of urban OA in all three cities. However, the chemical characteristics of these compounds varied between the different cities. The degree of aromaticity and the number of polyaromatic compounds were substantially higher in samples from Changchun, which could be attributed to the large emissions from residential heating (i.e., coal combustion) during wintertime in northeast China. Moreover, the ESI- analysis showed higher H/C and O/C ratios for organic compounds in Shanghai and Guangzhou compared to samples from Changchun, indicating that OA undergoes more intense photochemical oxidation processes in lower-latitude regions of China and/or is affected to a larger degree by biogenic sources. The majority of sulfur-containing compounds (CHOS and CHONS) in all cities were assigned to aliphatic compounds with low degrees of unsaturation and aromaticity. Here again, samples from Shanghai and Guangzhou show a greater chemical similarity but differ largely from those from Changchun. It should be noted that the conclusions drawn in this study are mainly based on comparison of molecular formulas weighted by peak abundance and thus are associated with inherent uncertainties due to different ionization efficiencies for different organic species.",
+    "readLink": "https://acp.copernicus.org/articles/21/9089/2021/acp-21-9089-2021.pdf"
+  },
+  {
+    "title": "Disparity in Performance of the Czech Construction Sector: Evidence from the Markov‑Switching Model",
+    "authors": [
+      "Václav Adamec"
+    ],
+    "doi": "https://doi.org/10.11118/actaun201866061383",
+    "journalVolume": "Vol. 66,\n                                no. 6\n                                \n                                  pp.\n                                  1383\n                                  – 1391",
+    "issn": "1211-8516 (Print)",
+    "publisher": "2464-8310 (Online)",
+    "countryOfPublisher": "Mendel University Press",
+    "lcc": [
+      "Czechia",
+      "Agriculture",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://actavia.mendelu.cz/",
+    "abstract": "Activities in the construction sector are assumed to be influenced by inflow of mortgage funding in the private housing sector and public finances targeted at large infrastructure projects, apart from climate variables. In this study, we modeled seasonal time series representing monthly output in the Czech construction sector in CZK mil. during 2000:1 through 2016 : 12 (T = 204) adjusted for calendar variations and seasonal movements via TRAMO‑SEATS and then transformed to natural logarithms of gross returns. A Markov‑Switching model with two states, no intercept, average monthly temperature, average monthly precipitation and parameters of first‑order autoregression process was specified and estimated by the Expectation‑Maximization. In State 1 of regular performance, the log‑differenced returns were significantly and positively influenced by precipitation levels, but not by ambient outdoor temperature. In State 2 of non‑standard operation of the construction sector, the transformed series was unaffected by precipitation levels, but instead by ambient outdoor temperatures. First‑order autocorrelation dependency in both regimes was established. Changes in legal and macroeconomic environment pertinent to tax law amendments affecting VAT or corporate tax, country’s accession to EU or large construction project deadlines were shown to induce nonstandard regime in the construction sector (State 2). The model classified 91 % observations in the first state, while only 9 % data belonged to the State 2. Transition probability matrix indicates that change from model State 1 to State 2 is difficult to attain. At the same time, once State 2 was established, it tends to persist or change to State 1 with near equal probability. Ability of the Markov‑Switching model to identify both states is reasonably good.",
+    "readLink": "https://acta.mendelu.cz/66/6/1383/"
+  },
+  {
+    "title": "Influence of Tree Vegetation on Soil Microbial Communities in Temperate Forests and Their Potential as a Proactive Indicator of Vegetation Shift Due to Climate Change",
+    "authors": [
+      "Young-Mok Heo,",
+      "Hanbyul Lee,",
+      "Sun-Lul Kwon,",
+      "Yeonjae Yoo,",
+      "Dongjun Kim,",
+      "Sang-Il Han,",
+      "Aslan-Hwanhwi Lee,",
+      "Changmu Kim,",
+      "Gyu-Hyeok Kim,",
+      "Jae-Jin Kim"
+    ],
+    "doi": "https://doi.org/10.3390/su122410591",
+    "journalVolume": "Vol. 12,\n                                no. 10591\n                                \n                                  p.\n                                  10591",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Unexpected vegetation shift is a serious problem caused by climate change, resulting in considerable damage to local communities. It is necessary to be continuously monitored, and the soil microbial community is expected to reflect the pressure on forest ecosystems due to climate change. We investigated soil bacterial and fungal communities in Odaesan at a four-year interval through eDNA meta-barcoding and analyzed the compositional and functional differences between forest types (Mongolian oak (Quercus mongolica) forest with and without Manchurian firs (Abies holophylla)) and sampling years. As a result, denitrifiers predominated in the presence of Manchurian firs, but there was no difference in the influence of climate change by forest type. Although tree vegetation remained stable, the microbial communities significantly changed over four years. This result demonstrates that climate change significantly shifts the microbial communities, even if not enough to trigger a vegetation shift, thus a microbial indicator can be developed to assess the press disturbance accumulated on the forest ecosystem. Through this study, we identified the influence of Manchurian firs and that of climate change on soil microbial communities in temperate forests and demonstrated the potential of the microbial community as a proactive indicator of vegetation shift due to climate change.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/24/10591"
+  },
+  {
+    "title": "Climate-related development finance and renewable energy consumption in greenhouse gas emissions reduction in the Congo basin",
+    "authors": [
+      "Nkwetta Ajong Aquilas,",
+      "Johannes Tabi Atemnkeng"
+    ],
+    "doi": "Vol. 44\n                                \n                                \n                                  p.\n                                  100971",
+    "issn": "2211-467X (Print)",
+    "publisher": "2211-4688 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/energy-strategy-reviews",
+    "abstract": "The global increasing trend in total greenhouse gas emissions in recent decades has triggered the need for climate-related development financing. This study analyzes the effects of climate-related development mitigation finance and renewable energy consumption on greenhouse gas emissions in the Congo Basin. Using panel data from 2002 to 2020, panel regression estimates empirically reveal (1) a minimal significant increase in greenhouse gas emissions with respect to an increase in climate-related development mitigation finance (2) An increase in climate-related mitigation finance significantly promotes the consumption of renewable energy (3) An increase in renewable energy consumption reduces greenhouse gas emissions (4) An increase in renewable energy consumption reduces the effect of climate-related mitigation finance on greenhouse emissions. This study suggest the continuous flow of climate-related development mitigation finance from donor countries and bodies to developing countries on a more regular basis and the putting in place of a mechanism that tracks climate funds to ensure that they are effectively used in generating renewable energies such as solar, hydroelectric, biomass, wind and geothermal energies.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2211467X22001651"
+  },
+  {
+    "title": "Late Cretaceous (late Campanian–Maastrichtian) sea-surface temperature  record of the Boreal Chalk Sea",
+    "authors": [
+      "N. Thibault,",
+      "R. Harlou,",
+      "N. H. Schovsbo,",
+      "L. Stemmerik,",
+      "F. Surlyk"
+    ],
+    "doi": "https://doi.org/10.5194/cp-12-429-2016",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  pp.\n                                  429\n                                  – 438",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "The last 8 Myr of the Cretaceous greenhouse interval were characterized by a progressive global cooling with superimposed cool/warm fluctuations. The mechanisms responsible for these climatic fluctuations remain a source of debate that can only be resolved through multi-disciplinary studies and better time constraints. For the first time, we present a record of very high-resolution (ca. 4.5 kyr) sea-surface temperature (SST) changes from the Boreal epicontinental Chalk Sea (Stevns-1 core, Denmark), tied to an astronomical timescale of the late Campanian–Maastrichtian (74 to 66 Ma). Well-preserved bulk stable isotope trends and calcareous nannofossil palaeoecological patterns from the fully cored Stevns-1 borehole show marked changes in SSTs. These variations correlate with deep-water records of climate change from the tropical South Atlantic and Pacific oceans but differ greatly from the climate variations of the North Atlantic. We demonstrate that the onset and end of the early Maastrichtian cooling and of the large negative Campanian–Maastrichtian boundary carbon isotope excursion are coincident in the Chalk Sea. The direct link between SSTs and δ13C variations in the Chalk Sea reassesses long-term glacio-eustasy as the potential driver of carbon isotope and climatic variations in the Maastrichtian.",
+    "readLink": "http://www.clim-past.net/12/429/2016/cp-12-429-2016.pdf"
+  },
+  {
+    "title": "Untangling adaptive capacity in tourism: a narrative and systematic review",
+    "authors": [
+      "Loan Thi Phan,",
+      "Sue-Ching Jou,",
+      "Jiun-Chuan Lin"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac32fa",
+    "journalVolume": "Vol. 16,\n                                no. 12\n                                \n                                  p.\n                                  123001",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "This study examines peer-reviewed literature on adaptive capacity (AC) in tourism under the condition of climate change adaptation for the publication period of 1990–2019. We analyze and visualize existing research using a combined approach of narrative and systematic reviews and employing software such as NVIVO 12, Python 3.8, and Gephi 0.9.2. We first investigate policy transitions toward sustainable adaptation in tourism and then analyze the systematization of tourism reflected in the definitions of AC. Next, we conduct an in-depth analysis of evolutions in tourism adaptation by interpreting the occurrences and interactions of three main streams of AC: resource, social-psychological, socio-ecological. We conclude that diverse methodologies in tourism research on adaptation contribute to augmenting the quantitative measurement of social factors influencing AC. The findings provide insights into how to improve the adaptation process and advance germane theoretical debates, particularly on the role of human factors in human–nature relationships aimed at developing sustainability.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac32fa"
+  },
+  {
+    "title": "Changing Climate in the MENA Means Changing Energy Needs",
+    "authors": [
+      "Adam Fenech"
+    ],
+    "doi": "https://doi.org/10.21622/resd.2015.01.2.232",
+    "journalVolume": "Vol. 1,\n                                no. 2",
+    "issn": "2356-8518 (Print)",
+    "publisher": "2356-8569 (Online)",
+    "countryOfPublisher": "Academy Publishing Center",
+    "lcc": [
+      "Egypt",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources"
+    ],
+    "journalUrl": "http://apc.aast.edu/ojs/index.php/RESD/index",
+    "abstract": "The leading authority on climate change, the Intergovernmental Panel on Climate Change (IPCC) hasconcluded that warming of the climate system is unequivocal, and will continue for centuries. The regionsin the Middle East and Northern Africa (MENA) have experienced numerous extreme climate events overthe past few years including the 2009 flooding in Jeddah, Kingdom of Saudi Arabia; the 2005 dust stormin Al Asad, Iraq; water scarcity throughout the Arab MENA; and the rising sea levels on the Nile Deltacoast, Egypt. A climate baseline can be developed for regions in the MENA by locating climate stations inthe study area using observations made in the Global Climate Observing System (GCOS). For projectionsof future climate, global climate models (GCMs), mathematical equations that describe the physics, fluidmotion and chemistry of the atmosphere, are the most advanced science available. The Climate ResearchLab at the University of Prince Edward Island has a dataset available to researchers, called the Climate,Ocean and Atmosphere Data Exchange (COADE), that provides easy access to the output from fortyglobal climate models used in the deliberations of the Intergovernmental Panel on Climate Change’s(IPCC) Fifth Assessment Report (AR5) including monthly global climate model projections of future climatechange for a number of climate parameters including temperature and precipitation. Over the past 50years, climate changes in the MENA Region have led to increases in annual mean temperatures anddecreases in annual total precipitation. Applying all four greenhouse gas emission futures on a baseclimate normal of 1981-2010 to an ensemble of forty global climate models used in the Fifth AssessmentReport of the Intergovernmental Panel on Climate Change (IPCC AR5) results in future temperatureincreases for the MENA Region ranging from 1.6 to 2.3 degrees Celsius, and in a range of futureprecipitation changes from reductions of 11 percent to increases of 36 percent by the 2050s (2041-2070).These preliminary results should assist the MENA Region in planning its energy needs and its needs forrenewable energy through increasing the understanding of how climate has impacted the region in thepast, and how climate will impact in the future.",
+    "readLink": "http://apc.aast.edu/ojs/index.php/RESD/article/view/94"
+  },
+  {
+    "title": "Climatic and Resource Determinants of Forest Elephant Movements",
+    "authors": [
+      "Christopher Beirne,",
+      "Amelia C. Meier,",
+      "Gabriela Brumagin,",
+      "Liam Jasperse-Sjolander,",
+      "Matthew Lewis,",
+      "Juliana Masseloux,",
+      "Kimberly Myers,",
+      "Mike Fay,",
+      "Joseph Okouyi,",
+      "Lee J. T. White,",
+      "Lee J. T. White,",
+      "Lee J. T. White,",
+      "John R. Poulsen"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2020.00096",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "As a keystone megafaunal species, African forest elephants (Loxodonta cyclotis) influence the structure and composition of tropical forests. Determining the links between food resources, environmental conditions and elephant movement behavior is crucial to understanding their habitat requirements and their effects on the ecosystem, particularly in the face of poaching and global change. We investigate whether fruit abundance or climate most strongly influence forest elephant movement behavior at the landscape scale in Gabon. Trained teams of “elephant trackers” performed daily fruit availability and dietary composition surveys over a year within two relatively pristine and intact protected areas. With data from 100 in-depth field follows of 28 satellite-collared elephants and remotely sensed environmental layers, we use linear mixed-effects models to assess the effects of sites, seasons, focal elephant identification, elephant diet, and fruit availability on elephant movement behavior at monthly and 3-day time scales. At the month-level, rainfall, and to a lesser extent fruit availability, most strongly predicted the proportion of time elephants spent in long, directionally persistent movements. Thus, even elephants in moist tropical rainforests show seasonal behavioral phenotypes linked to rainfall. At the follow-level (2–4 day intervals), relative support for both rainfall and fruit availability decreased markedly, suggesting that at finer spatial scales forest elephants make foraging decisions largely based on other factors not directly assessed here. Focal elephant identity explained the majority of the variance in the data, and there was strong support for interindividual variation in behavioral responses to rainfall. Taken together, this highlights the importance of approaches which follow individuals through space and time. The links between climate, resource availability and movement behavior provide important insights into the behavioral ecology of forest elephants that can contribute to understanding their role as seed dispersers, improving management of populations, and informing development of solutions to human-elephant conflict.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fevo.2020.00096/full"
+  },
+  {
+    "title": "Long-term ozone exposure and cognitive impairment among Chinese older adults: A cohort study",
+    "authors": [
+      "Qi Gao,",
+      "Emma Zang,",
+      "Jun Bi,",
+      "Robert Dubrow,",
+      "Sarah R. Lowe,",
+      "Huashuai Chen,",
+      "Yi Zeng,",
+      "Liuhua Shi,",
+      "Kai Chen"
+    ],
+    "doi": "Vol. 160\n                                \n                                \n                                  p.\n                                  107072",
+    "issn": "0160-4120 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environment-international",
+    "abstract": "Ambient particulate matter pollution has been linked to impaired cognitive performance, but the effect of ambient ozone exposure on cognitive function remains largely unknown. We examined the association of long-term ozone exposure with the risk of cognitive impairment among a national representative cohort of 9,544 Chinese older adults (aged 65 years and over) with baseline normal cognition from the Chinese Longitudinal Healthy Longevity Survey (2005–2018). The ozone exposure of each participant was measured by annual mean ozone concentrations for the county of residence. Cognitive function was assessed by the Chinese version of the Mini-Mental State Examination (MMSE). We defined cognitive impairment as an MMSE score below 18 points accompanied by an MMSE score that declined ≥ 4 points from baseline. Cox proportional hazards models were applied to explore the association of ozone exposure with cognitive impairment. During the mean follow-up time of 6.5 years, 2,601 older adults developed cognitive impairment. Each 10-μg/m3 increase in annual mean ozone exposure was associated with a 10.4% increased risk of cognitive impairment. The exposure–response relationship between ozone exposure and risk of cognitive impairment showed a linear trend. Sensitivity analyses revealed the association to be robust. We found that older adults from Eastern, Central, and Southern China were particularly susceptible. Our results show that ozone is a risk factor for late-life cognitive decline. Reducing ambient ozone pollution may help delay the onset of cognitive impairment among older adults.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0160412021006978"
+  },
+  {
+    "title": "Heatstroke Risk Predictions for Current and Near-Future Summers in Sendai, Japan, Based on Mesoscale WRF Simulations",
+    "authors": [
+      "Masataka Kasai,",
+      "Tsubasa Okaze,",
+      "Akashi Mochida,",
+      "Kazumasa Hanaoka"
+    ],
+    "doi": "https://doi.org/10.3390/su9081467",
+    "journalVolume": "Vol. 9,\n                                no. 8\n                                \n                                  p.\n                                  1467",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The incidence of heatstroke has been increasing in Japan, and future climate change is likely to increase heatstroke risk. We therefore developed a method to quantify the spatial distribution of outdoor heatstroke risk and predicted future changes in this risk considering the predicted climate change in Sendai, Japan. Heatstroke risk was quantified by assessing hazard, vulnerability and exposure. Daily maximum wet-bulb globe temperature (WBGT) was selected as the hazard index. The distribution of WBGT was predicted by mesoscale meteorological simulations using the Weather Research and Forecasting (WRF) model. The relationship between daily maximum WBGT and the daily incidence rate was approximated by analyzing emergency transport data. This relationship was selected as the vulnerability index. Using the hazard and vulnerability indices, a spatial distribution of the monthly incidence rate was obtained. Finally, the total number of heatstroke patients per month was estimated by multiplying the monthly incidence rate by the population density. The outdoor heatstroke risk for August was then estimated for current (2000s) and near-future (2030s) climatic conditions in Sendai. WBGT at coastal areas in the 2030s increased owing to increases in humidity, while WBGT at inland areas increased owing to increases in air temperature. This increase in WBGT drove increases in heatstroke risk.",
+    "readLink": "https://www.mdpi.com/2071-1050/9/8/1467"
+  }
+]

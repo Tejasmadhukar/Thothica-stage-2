@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Predicting the Impact of Future Land Use and Climate Change on Potential Soil Erosion Risk in an Urban District of the Harare Metropolitan Province, Zimbabwe",
+    "authors": [
+      "Andrew K. Marondedze,",
+      "Brigitta Schütt"
+    ],
+    "doi": "https://doi.org/10.3390/rs13214360",
+    "journalVolume": "Vol. 13,\n                                no. 4360\n                                \n                                  p.\n                                  4360",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Monitoring urban area expansion through multispectral remotely sensed data and other geomatics techniques is fundamental for sustainable urban planning. Forecasting of future land use land cover (LULC) change for the years 2034 and 2050 was performed using the Cellular Automata Markov model for the current fast-growing Epworth district of the Harare Metropolitan Province, Zimbabwe. The stochastic CA–Markov modelling procedure validation yielded kappa statistics above 80%, ascertaining good agreement. The spatial distribution of the LULC classes CBD/Industrial area, water and irrigated croplands as projected for 2034 and 2050 show slight notable changes. For projected scenarios in 2034 and 2050, low–medium-density residential areas are predicted to increase from 11.1 km2 to 12.3 km2 between 2018 and 2050. Similarly, high-density residential areas are predicted to increase from 18.6 km2 to 22.4 km2 between 2018 and 2050. Assessment of the effects of future climate change on potential soil erosion risk for Epworth district were undertaken by applying the representative concentration pathways (RCP4.5 and RCP8.5) climate scenarios, and model ensemble averages from multiple general circulation models (GCMs) were used to derive the rainfall erosivity factor for the RUSLE model. Average soil loss rates for both climate scenarios, RCP4.5 and RCP8.5, were predicted to be high in 2034 due to the large spatial area extent of croplands and disturbed green spaces exposed to soil erosion processes, therefore increasing potential soil erosion risk, with RCP4.5 having more impact than RCP8.5 due to a higher applied rainfall erosivity. For 2050, the predicted wide area average soil loss rates declined for both climate scenarios RCP4.5 and RCP8.5, following the predicted decline in rainfall erosivity and vulnerable areas that are erodible. Overall, high potential soil erosion risk was predicted along the flanks of the drainage network for both RCP4.5 and RCP8.5 climate scenarios in 2050.",
+    "readLink": "https://www.mdpi.com/2072-4292/13/21/4360"
+  },
+  {
+    "title": "A deep learning based classification of atmospheric circulation types over Europe: projection of future changes in a CMIP6 large ensemble",
+    "authors": [
+      "M Mittermeier,",
+      "M Weigert,",
+      "D Rügamer,",
+      "H Küchenhoff,",
+      "R Ludwig"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac8068",
+    "journalVolume": "Vol. 17,\n                                no. 8\n                                \n                                  p.\n                                  084021",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "High- and low pressure systems of the large-scale atmospheric circulation in the mid-latitudes drive European weather and climate. Potential future changes in the occurrence of circulation types are highly relevant for society. Classifying the highly dynamic atmospheric circulation into discrete classes of circulation types helps to categorize the linkages between atmospheric forcing and surface conditions (e.g. extreme events). Previous studies have revealed a high internal variability of projected changes of circulation types. Dealing with this high internal variability requires the employment of a single-model initial-condition large ensemble (SMILE) and an automated classification method, which can be applied to large climate data sets. One of the most established classifications in Europe are the 29 subjective circulation types called Grosswetterlagen by Hess & Brezowsky (HB circulation types). We developed, in the first analysis of its kind, an automated version of this subjective classification using deep learning. Our classifier reaches an overall accuracy of 41.1% on the test sets of nested cross-validation. It outperforms the state-of-the-art automatization of the HB circulation types in 20 of the 29 classes. We apply the deep learning classifier to the SMHI-LENS, a SMILE of the Coupled Model Intercomparison Project phase 6, composed of 50 members of the EC-Earth3 model under the SSP37.0 scenario. For the analysis of future frequency changes of the 29 circulation types, we use the signal-to-noise ratio to discriminate the climate change signal from the noise of internal variability. Using a 5%-significance level, we find significant frequency changes in 69% of the circulation types when comparing the future (2071–2100) to a reference period (1991–2020).",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac8068"
+  },
+  {
+    "title": "A biped gait learning algorithm for humanoid robots based on environmental impact assessed artificial bee colony",
+    "authors": [
+      "Tzuu-Hseng S. Li,",
+      "Ping-Huan Kuo,",
+      "Ya-Fang Ho,",
+      "Min-Chi Kao,",
+      "Li-Heng Tai"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2015.2397701",
+    "journalVolume": "Vol. 3\n                                \n                                \n                                  pp.\n                                  13\n                                  – 26",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "Gait pattern performance is a very important issue in the field of humanoid robots, and more and more researchers are now engaged in such studies. However, the tuning processes of the parameters or postures are very tedious and time-consuming. In order to solve this problem, an artificial bee colony (ABC) learning algorithm for a central pattern generator (CPG) gait produce method is proposed in this paper. Furthermore, the fitness of the bee colony is considered through environmental impact assessment, and it is also estimated from the cause of colony collapse disorder from the results of recent investigations in areas, such as pesticides, electromagnetic waves, viruses, and the timing confusion of the bee colony caused by climate change. Each environmental disaster can be considered by its adjustable weighting values. In addition, the developed biped gait learning method is called the ABC-CPG algorithm, and it was verified in a self-developed high-integration simulator. The strategy systems, motion control system, and gait learning system of the humanoid robot are also integrated through the proposed 3-D simulator. Finally, the experimental results show that the proposed environmental-impact-assessed ABC-CPG gait learning algorithm is feasible and can also successfully achieve the best gait pattern in the humanoid robot.",
+    "readLink": "https://ieeexplore.ieee.org/document/7024898/"
+  },
+  {
+    "title": "Mega El Niño's change the playing field for culturally important tree species and hence the foundation for human-nature interactions in tropical forests",
+    "authors": [
+      "EP Axelsson,",
+      "FM Franco,",
+      "D Lussetti,",
+      "KC Grady,",
+      "U Ilstedt"
+    ],
+    "doi": "Vol. 5\n                                \n                                \n                                  p.\n                                  100109",
+    "issn": "2666-7193 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Agriculture: Forestry",
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/trees-forests-and-people",
+    "abstract": "Humans have interacted with trees for millennia and the strength of such interactions determines the long-term social values of trees and forests. Such ecocultural linkages could be important to promote during reforestation efforts, potentially helping to turn the tide on the current rapid extinction of cultural and biological diversity. In addition, predicting the fate of ecoculturally important species to changing climates may help guide tree species selection best-suited to future climates. We assessed the vulnerability of four ecoculturally important tree species native to Southeast Asia to an extreme drought: Koompassia excelsa, Nephelium lappaceum, Shorea fallax and Shorea leprosula. These species provide distinct and unique products, and Koompassia excelsa is well-represented in local mythological stories and considered a Cultural Keystone Species (CKS). We used two complementary approaches: 1) an experimental common garden and 2) naturally occurring wild trees growing in a secondary forest and compared the performance of trees before, after, and during the 2016 El Niño event with record breaking low precipitation and high temperatures. We found that mortality of the CKS K. excelsa in the common garden, along with mortality and growth of wild trees were unaffected by the El Niño drought. In contrast, young trees of N. lappaceum and S. fallax planted in the common garden had mortality 4 and 3 times higher, respectively, during the El Niño drought compared to normal years. Growth rate of S. fallax in the wild was also significantly lower during the El Niño drought and this effect was particularly pronounced in highly disturbed forests. Our results demonstrate that the impact of extreme climatic events, that are predicted to become more common with climate change, on culturally important tree species is species specific. Management of such species may thus need species specific measures to maintain viable populations and hence provide the basic physical settings for human-nature interactions and associated cultural identities to persist. In this context, our findings that cultural keystone species such as K. excelsa could be drought tolerant is noteworthy, as investing on such species could prove to be beneficial for both local cultures and conservation of native ecosystems and biodiversity.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666719321000480"
+  },
+  {
+    "title": "Factors associated with producing a scientific publication during medical training: evidence from a cross-sectional study of 40 medical schools in Latin America [version 2; peer review: 2 approved]",
+    "authors": [
+      "Mario J. Valladares-Garrido,",
+      "Christian R. Mejia,",
+      "Annel B. Rojas-Alvarado,",
+      "Carlos Culquichicón,",
+      "Jessica Fiestas,",
+      "Feeder J. Rojas-Vilar,",
+      "Mary M. Araujo-Chumacero,",
+      "Jhacksson S. Córdova-Agurto"
+    ],
+    "doi": "Vol. 9",
+    "issn": "2046-1402 (Online)",
+    "publisher": "F1000 Research Ltd",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://f1000research.com",
+    "abstract": "Background: Scientific publication during medical training is key to promoting enduring cutting-edge knowledge. The promotion of science among medical students in Latin America is a multisectoral issue that is hampered by the lack of governmental knowledge to invest in national research, as well as by the lack of support from local universities. This study aims to determine the factors associated with the production of a scientific publication during medical training among Latin American medical students of local scientific societies. Methods: This is a secondary data analysis of a cross-sectional study conducted in 2016 that assessed the use of information and communication technologies (ICTs) among medical students from 40 local scientific societies of medical students affiliated with FELSOCEM. Teams from each local scientific society surveyed self-reported scientific publications and explored their association with socioeconomic, academic, and research training conditions. We applied nested models to identify the covariates associated with self-reported scientific publication, obtaining a parsimonious mixed-effects multilevel model grouped by medical scientific society. Results: Of 11,587 participants, the prevalence of scientific publications increased in 36% among medical students affiliated to a Scientific Society of Medical Students [parsimonious prevalence ratio (pPR)=1.36, 95%CI=1.16–1.59], 51% among medical students with advanced English proficiency [pPR=1.51, 95%CI=1.21 – 1.87], 85% among medical students who attended a scientific writing skills course [pPR=1.85, 95%CI=1.59–2.15], 81% among medical students who use Sci-Hub [pPR=1.81, 95%CI=1.50–2.20], and 108% among medical students who have access to a pirated academic account [pPR=2.08, 95%CI=1.83–2.36]. Conclusions: Producing a scientific publication among medical students is associated with being affiliated to a scientific society of medical students, English proficiency, training in scientific writing, use of Sci-Hub, and pirated academic accounts. The results will help clinical educators and medical programs improve resources for training students in high-quality research",
+    "readLink": "https://f1000research.com/articles/9-1365/v2"
+  },
+  {
+    "title": "Variability in total cost of vehicle ownership across vehicle and user profiles",
+    "authors": [
+      "Yulu Guo,",
+      "J. Andrew Kelly,",
+      "J. Peter Clinch"
+    ],
+    "doi": "Vol. 2\n                                \n                                \n                                  p.\n                                  100071",
+    "issn": "2772-4247 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General): Transportation engineering"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/communications-in-transportation-research",
+    "abstract": "Widespread adoption of electric vehicles (EVs) is a common and critical component of international strategies to mitigate environmental pollution, climate change and oil dependency. The ability of consumers to assess the total cost of ownership (TCO) of EVs relative to internal combustion engine vehicles (ICEVs) remains an important factor for EV uptake. The TCO of vehicles is not universal across different car segments and user profiles. We analyse and compare the TCO of ICEVs and EVs from 17 car segments across short- and long-term ownership periods, and further advance existing TCO approaches by integrating detailed activity-based driving profiles, taxation, grant structures and pricing. Results show that EV options in the most popular Irish car segments have existing battery EV options with a TCO averaging respectively 26% and 42% less than their equivalent petrol and diesel ICEV options over a 4-year ownership term when the current grant is included. This integrated method for granular TCO evaluation offers important insights for this market and affords scope to investigate how changes in travel patterns, car-segment pricing, taxation, grant policy, fuel costs, and carbon pricing and other transport policies can all affect TCO values over time across a broad range of market offerings.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S277242472200021X"
+  },
+  {
+    "title": "A Robustness Analysis of CMIP5 Models over the East Asia-Western North Pacific Domain",
+    "authors": [
+      "Tianjun Zhou,",
+      "Xiaolong Chen,",
+      "Bo Wu,",
+      "Zhun Guo,",
+      "Yong Sun,",
+      "Liwei Zou,",
+      "Wenmin Man,",
+      "Lixia Zhang,",
+      "Chao He"
+    ],
+    "doi": "https://doi.org/10.1016/J.ENG.2017.05.018",
+    "journalVolume": "Vol. 3,\n                                no. 5\n                                \n                                  pp.\n                                  773\n                                  – 778",
+    "issn": "2095-8099 (Print)",
+    "publisher": "2096-0026 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "China",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/engineering",
+    "abstract": "The Coupled Model Intercomparison Project (CMIP) is an international community-based infrastructure that supports climate model intercomparison, climate variability, climate prediction, and climate projection. Improving the performance of climate models over East Asia and the western North Pacific has been a challenge for the climate-modeling community. In this paper, we provide a synthesis robustness analysis of the climate models participating in CMIP-Phase 5 (CMIP5). The strengths and weaknesses of the CMIP5 models are assessed from the perspective of climate mean state, interannual variability, past climate change during the mid-Pliocene (MP) and the last millennium, and climate projection. The added values of regional climate models relative to the driving global climate models are also assessed. Although an encouraging increase in credibility and an improvement in the simulation of mean states, interannual variability, and past climate changes are visible in the progression from CMIP3 to CMIP5, some previously noticed biases such as the ridge position of the western North Pacific subtropical high and the associated rainfall bias are still evident in CMIP5 models. Weaknesses are also evident in simulations of the interannual amplitude, such as El Niño-Southern Oscillation (ENSO)-monsoon relationships. Coupled models generally show better results than standalone atmospheric models in simulating both mean states and interannual variability. Multi-model intercomparison indicates significant uncertainties in the future projection of climate change, although precipitation increases consistently across models constrained by the Clausius-Clapeyron relation. Regional ocean-atmosphere coupled models are recommended for the dynamical downscaling of climate change projections over the East Asia-western North Pacific domain.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2095809917307312"
+  },
+  {
+    "title": "Insight the mechanism of MgAl/layered double hydroxide supported on rubber seed shell biochar for Remazol Brilliant Violet 5R removal",
+    "authors": [
+      "Shahreen Izwan Anthonysamy,",
+      "Mohd Azmier Ahmad,",
+      "Nasehir Khan E.M. Yahaya"
+    ],
+    "doi": "Vol. 16,\n                                no. 4\n                                \n                                  p.\n                                  104643",
+    "issn": "1878-5352 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/arabian-journal-of-chemistry/",
+    "abstract": "The ever-increasing concentration of Remazol Brilliant Violet 5R discharged mainly from textile industry had cause serious environmental issues towards human and the surrounding ecosystem. Therefore, solving the issue related to dye contamination is seriously important. In this research study, MgAl/layered double hydroxide supported on rubber seed shell biochar (RSSB) had been prepared for Remazol Brilliant Violet 5R (RBV5R) dye adsorption. BET surface area and pore volume of RSSB were found to be 132.40 m2/g and 0.0732 cm3/g, respectively with presence of LDH metals on the RSSB surfaces. The batch adsorption studies showed that RBV5R uptake capacity was significantly enhanced (125.88 mg/g) compared to pristine RSSB (58.69 mg/g) at initial RBV5R concentration, contact time, adsorption temperature and pH of 300 mg/l, 1440 min, 60 °C and pH 2, respectively. The equilibrium and kinetic adsorption data were best fitted into the Freundlich and pseudo-first order model, respectively. The thermodynamic study confirmed the RBV5R adsorption was endothermic in nature and governed by physisorption process. All these findings signified that the MgAl/LDH-RSSB is a promising adsorbent for treating wastewater containing RBV5R dye.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1878535223001041"
+  },
+  {
+    "title": "A double ITCZ phenomenology of wind errors in the equatorial Atlantic in seasonal forecasts with ECMWF models",
+    "authors": [
+      "J. K. P. Shonk,",
+      "T. D. Demissie,",
+      "T. D. Demissie,",
+      "T. Toniazzo"
+    ],
+    "doi": "https://doi.org/10.5194/acp-19-11383-2019",
+    "journalVolume": "Vol. 19\n                                \n                                \n                                  pp.\n                                  11383\n                                  – 11399",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Modern coupled general circulation models produce systematic biases in the tropical Atlantic that hamper the reliability of long-range predictions. This study focuses on a common springtime westerly wind bias in the equatorial Atlantic in seasonal hindcasts from two coupled models – ECMWF System 4 and EC-Earth v2.3 – and in hindcasts also based on System 4, but with prescribed sea-surface temperatures. The development of the equatorial westerly bias in early April is marked by a rapid transition from a wintertime easterly, cold tongue bias to a springtime westerly bias regime that displays a marked double intertropical convergence zone (ITCZ). The transition is a seasonal feature of the model climatology (independent of initialisation date) and is associated with a seasonal increase in rainfall where a second branch of the ITCZ is produced south of the Equator. Excess off-equatorial convergence redirects the trade winds away from the Equator. Based on arguments of temporal coincidence, the results of our analysis contrast with those from previous work, and alleged causes hereto identified as the likely cause of the equatorial westerly bias in other models must be discarded. Quite in general, we find no evidence of remote influences on the development of the springtime equatorial bias in the Atlantic in the IFS-based models. Limited evidence however is presented that supports the hypothesis of an incorrect representation of the meridional equatorward flow in the marine boundary layer of the southern Atlantic as a contributing factor. Erroneous dynamical constraints on the flow upstream of the Equator may generate convergence and associated rainfall south of the Equator. This directs attention to the representation of the properties of the subtropical boundary layer as a potential source for the double ITCZ bias.",
+    "readLink": "https://www.atmos-chem-phys.net/19/11383/2019/acp-19-11383-2019.pdf"
+  },
+  {
+    "title": "Identifying Optimal Forest Management Maximizing Carbon Sequestration in Mountain Forests Impacted by Natural Disturbances: A Case Study in the Alps",
+    "authors": [
+      "Hana Štraus,",
+      "Suzana Podvinšek,",
+      "Matija Klopčič"
+    ],
+    "doi": "https://doi.org/10.3390/f14050947",
+    "journalVolume": "Vol. 14,\n                                no. 947\n                                \n                                  p.\n                                  947",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The role of forests in mitigating climate change by acting as a carbon sink is becoming increasingly important. Forest management practices can either positively or negatively affect the ability of forests to mitigate climate change. The objectives of our study were to: (a) investigate the effects of natural disturbances on long-term carbon sequestration dynamics in forests and (b) identify opportunities to adapt current forest management practices to increase carbon sequestration in forests. The study focused on mixed mountain forests in the Slovenian Alps, dominated by Norway spruce, and used the SLOMATRIX model to simulate forest development. Three forest management scenarios were simulated: (1) no management, (2) business-as-usual and (3) an optimized scenario maximizing carbon sequestration in forests while achieving the required harvest. Our results indicate that both forest management practices and natural disturbances have an impact on carbon sequestration dynamics. Optimizing harvests resulted in changes in the diameter structure and species composition of the harvested trees. Although natural disturbances can hinder the mitigation of climate change impacts, they can also catalyze forest adaptation to climate change and reduce the time required to reach carbon equilibrium.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/5/947"
+  }
+]

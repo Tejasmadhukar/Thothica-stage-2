@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Spatiotemporal Variation of Land Surface Temperature Retrieved from FY-3D MERSI-II Data in Pakistan",
+    "authors": [
+      "Bilawal Abbasi,",
+      "Zhihao Qin,",
+      "Wenhui Du,",
+      "Jinlong Fan,",
+      "Shifeng Li,",
+      "Chunliang Zhao"
+    ],
+    "doi": "https://doi.org/10.3390/app122010458",
+    "journalVolume": "Vol. 12,\n                                no. 10458\n                                \n                                  p.\n                                  10458",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "The concept of land surface temperature (LST) encompasses both surface energy balance and land surface activities. The study of climate change greatly benefits from an understanding of the geographical and temporal fluctuations of LST. In this study, we utilized an improved version of the TFSW algorithm to retrieve the LST from the Medium resolution spectral imager II (MERSI-II) data for the first time in Pakistan. MERSI-II is a payload for the Chinese meteorological satellite Fengyun 3D (FY-3D), and it has the capability for use in various remote sensing applications such as climate change and drought monitoring, with higher spatial and temporal resolutions. Once the LSTs were retrieved, accuracy of the LSTs were investigated. Later, LST datasets were used to detect the spatiotemporal variations of LST in Pakistan. Monthly, seasonal, and annual datasets were utilized to detect increasing and decreasing LST trends in the regions, with Mann–Kendall and Sen’s slope estimator tool. In addition, we further revealed the long-term spatiotemporal variations of LST by utilizing Moderate Resolution Imaging Spectrometer (MODIS) LST observations. The cross-validation analysis shows that the retrieved LST of MERSI-II was more consistent with the MODIS MYD11A1 LST product compared to the MYD21A1. The spatial distribution of LSTs demonstrates that the mean LST exhibits a pattern of spatial variability, with high values in the southern areas and low values in the northern areas; there are areas that do not follow this trend, possibly due to reasons of elevation and types of land cover also influencing the LST’s spatial distribution. The annual mean LST trend increases in the northern regions and decreases in the southern regions, ranging between −0.013 and 0.019 °C/year. The trend of long-term analysis were also consistent with MERSI-II, excepting region II, with increasing effects. This study will be helpful for various environmental and climate change studies.",
+    "readLink": "https://www.mdpi.com/2076-3417/12/20/10458"
+  },
+  {
+    "title": "Natural Disturbance Dynamics Analysis for Ecosystem-Based Management—FORDISMAN",
+    "authors": [
+      "Kalev Jõgiste,",
+      "Lee  E. Frelich,",
+      "Floortje Vodde,",
+      "Ahto Kangur,",
+      "Marek Metslaid,",
+      "John  A. Stanturf"
+    ],
+    "doi": "https://doi.org/10.3390/f11060663",
+    "journalVolume": "Vol. 11,\n                                no. 663\n                                \n                                  p.\n                                  663",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Forest ecosystems are shaped by disturbances and functional features of vegetation recovery after disturbances. There is considerable variation in basic disturbance characteristics, magnitude, severity, and intensity. Disturbance legacies provide possible explanations for ecosystem resilience. The impact (length and strength) of the pool of ecosystem legacies and how they vary at different spatial and temporal scales is a most promising line of further research. Analyses of successional trajectories, ecosystem memory, and novel ecosystems are required to improve modelling in support of forests. There is growing evidence that managing ecosystem legacies can act as a driver in adaptive management to achieve goals in forestry. Managers can adapt to climate change and new conditions through anticipatory or transformational strategies of ecosystem management. The papers presented in this Special Issue covers a wide range of topics, including the impact of herbivores, wind, and anthropogenic factors, on ecosystem resilience.",
+    "readLink": "https://www.mdpi.com/1999-4907/11/6/663"
+  },
+  {
+    "title": "Compensatory Breeding in Years Following Drought in a Desert-Dwelling Cooperative Breeder",
+    "authors": [
+      "Amanda R. Bourne,",
+      "Susan J. Cunningham,",
+      "Claire N. Spottiswoode,",
+      "Claire N. Spottiswoode,",
+      "Amanda R. Ridley,",
+      "Amanda R. Ridley"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2020.00190",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Variation in weather patterns can influence reproductive effort and success not only within but also between breeding seasons. Where environmental conditions can be highly variable between years, the weather, and particularly extreme weather events such as heat waves and droughts, may exert a strong influence on reproductive effort (number of breeding attempts) and success (number of surviving young) from one breeding season to the next. We used a 15-year dataset for a cooperatively breeding bird, the southern pied babbler Turdoides bicolor, to determine the impact of high temperatures and drought on reproductive effort and success. We tested the influence on reproductive effort and success of mean daily maximum air temperature and drought both within a breeding season, to determine the relative importance of current conditions, and during the previous breeding season, to determine the relative importance of compensatory effects in response to prior conditions. Reproductive effort and success were lower during breeding seasons characterized by drought, and higher in the breeding seasons that followed droughts, but were not predicted by mean daily maximum temperatures measured over the full length of the breeding season. We provide evidence of compensatory breeding following drought in a bird species endemic to a semi-arid ecosystem and suggest that compensatory mechanisms may be an important part of both long-term population persistence and post-drought population recovery.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fevo.2020.00190/full"
+  },
+  {
+    "title": "Assisted migration poleward rather than upward in elevation minimizes frost risks in plantations",
+    "authors": [
+      "Zihaohan Sang,",
+      "Andreas Hamann,",
+      "Sally N. Aitken"
+    ],
+    "doi": "Vol. 34\n                                \n                                \n                                  p.\n                                  100380",
+    "issn": "2212-0963 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/climate-risk-management/",
+    "abstract": "When assisted migration is used to address climate change, tree seedlings may have to be moved to substantially colder environments in anticipation of climate warming over their life span. Here, we evaluate frost risks for four economically important forest tree species of western Canada, Douglas-fir (Pseudotsuga menziesii), lodgepole pine (Pinus contorta), interior spruce (Picea glauca, P. engelmannii, and their hybrids), and western larch (Larix occidentalis), when moved to adjacent northern and higher elevation seed zones that are cooler by approximately 2 °C. Changes to risks of damaging frosts among seed zones are evaluated during two 30-day periods, after dormancy release in spring and before onset of dormancy in fall, assuming a temperature-dominated day of bud break and a critical photoperiod-controlled onset of dormancy in fall. Based on daily interpolated climate data between 1980 and 2019, we find that late spring and early fall frost risks do not change significantly for transfers toward the north (<1 percentage point in most cases). In contrast, moving planting stock toward higher elevation generally leads to a substantial increase in exposure to unseasonal frosts (late spring frosts: 0.5% to 9.4%, early fall frosts: 0.8% to 17.1%). We conclude that transfers toward the north are preferable to transfers up in elevation in reforestation of these tree species in western Canada.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212096321001091"
+  },
+  {
+    "title": "Assessment of potential beach erosion risk and impact of coastal zone development: a case study on Bongpo–Cheonjin Beach",
+    "authors": [
+      "C. Lim,",
+      "T. K. Kim,",
+      "S. Lee,",
+      "Y. J. Yeon,",
+      "J. L. Lee,",
+      "J. L. Lee"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-21-3827-2021",
+    "journalVolume": "Vol. 21\n                                \n                                \n                                  pp.\n                                  3827\n                                  – 3842",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "In many parts, coastal erosion is severe due to human-induced coastal zone development and storm impacts, in addition to climate change. In this study, the beach erosion risk was defined, followed by a quantitative assessment of potential beach erosion risk based on three components associated with the watershed, coastal zone development, and episodic storms. On an embayed beach, the background erosion due to development in the watershed affects sediment supply from rivers to the beach, while alongshore redistribution of sediment transport caused by construction of a harbor induces shoreline reshaping, for which the parabolic-type equilibrium bay shape model is adopted. To evaluate beach erosion during storms, the return period (frequency) of a storm occurrence was evaluated from long-term beach survey data conducted four times per year. Beach erosion risk was defined, and assessment was carried out for each component, from which the results were combined to construct a combined potential erosion risk curve to be used in the environmental impact assessment. Finally, the proposed method was applied to Bongpo–Cheonjin Beach in Gangwon-do, South Korea, with the support of a series of aerial photographs taken from 1972 to 2017 and beach survey data obtained from the period commencing in 2010. The satisfactory outcomes derived from this study are expected to benefit eroding beaches elsewhere.",
+    "readLink": "https://nhess.copernicus.org/articles/21/3827/2021/nhess-21-3827-2021.pdf"
+  },
+  {
+    "title": "Research Progress on Soil Seed Bank: A Bibliometrics Analysis",
+    "authors": [
+      "Zhaoji Shi,",
+      "Jiaen Zhang,",
+      "Hui Wei"
+    ],
+    "doi": "https://doi.org/10.3390/su12124888",
+    "journalVolume": "Vol. 12,\n                                no. 4888\n                                \n                                  p.\n                                  4888",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The soil seed bank (SSB) is a natural bank of viable seeds in the soil or on its surface. Researches on SSB have accumulated extensively worldwide, but have seldom been visualized and quantitatively analyzed. In this paper, publications related to SSB from 1900 to 2019 were collected from the Web of Science Core Collection database, and reviewed and analyzed using CiteSpace. Annual publications distribution, co-occurrence analysis, collaboration network analysis, co-citation analysis and burst detection were all conducted. The results showed that (1) the number of SSB publications had increased rapidly and is still a hotspot; (2) SSB study is an interdisciplinary field mainly concentrated in ecology, environmental science, and plant science; (3) close research cooperation occurred among European countries which were more influential, whereas the USA was the most active country; (4) soil seed genetic diversity, seed persistence, seed trait, restoration potential and restoration projects, and spatial and temporal variation were the main research areas. (5) R language and linear mixed effects models are currently popular in SSB research. Invasive species, weed control, restoration potential and restoration projects, seed traits (especially seed longevity and dormancy), and SSB responses to environment changes (especially climate change and fire) are newly emerging trends in the research.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/12/4888"
+  },
+  {
+    "title": "The State and Dynamics of Biological Communities in the Rybinsk Reservoir under Climate Changes",
+    "authors": [
+      "Ludmila G. Korneva,",
+      "Valentina I. Lazareva,",
+      "Natalia M. Mineeva,",
+      "Lubov E. Sigareva,",
+      "Eugenia A. Sokolova,",
+      "Natalia A. Timofeeva,",
+      "Irina V. Mitropol’skya,",
+      "Vera V. Solovyeva"
+    ],
+    "doi": "https://doi.org/10.17516/1997-1389-0037",
+    "journalVolume": "Vol. 12,\n                                no. 2\n                                \n                                  pp.\n                                  160\n                                  – 179",
+    "issn": "1997-1389 (Print)",
+    "publisher": "2313-5530 (Online)",
+    "countryOfPublisher": "Siberian Federal University",
+    "lcc": [
+      "Russian Federation",
+      "Technology: Chemical technology: Biotechnology",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "http://journal.sfu-kras.ru/en/series/biology",
+    "abstract": "The long-term data on structural characteristics of phytoplankton (1954–2014) and zooplankton (2004–2013), as well as chlorophyll content in the water and bottom sediments (2009–2014) in the Rybinsk Reservoir (Upper Volga, Russia) were analyzed. It was shown that the modern climate changes lead to transformation in the state and dynamics of biological communities that is characteristic of the trophicity increase. After the abnormally hot summer of 2010 a sharp rise in chlorophyll content in water with a predominance of values typical for eutrophic and highly eutrophic conditions was detected. Distribution of plant pigments in the bottom sediments was similar in different years, which shows the specific character of the sediment complex structure in the reservoir. In the seasonal dynamics of phytoplankton biomass and chlorophyll concentration the summer maximum caused by development of cyanobacteria began to dominate above the spring one. In the structure of phytoplankton the proportions of cyanobacteria and myxotrophic phytophagellates increased, the invasion of brackish-water diatoms was marked, and diminution of the cell size was noted. In seasonal dynamics of zooplankton biomass the second late peak was formed in August and it was particularly pronounced in the abnormally hot summer of 2010. In addition, there was a 1–2 week shift in timing of the beginning and ending in seasonal cycle of a number of zooplankton species relative to the 1960–1970s. Appearance of a summer dissolved oxygen deficiency (up to 1–4 mg O2/L in the layer of 1–7 m above the bottom) resulted in a local change in the vertical distribution of crustacean filtrators and decrease in their abundance up to three times",
+    "readLink": "http://elib.sfu-kras.ru/bitstream/2311/70342/1/04_Korneva.pdf"
+  },
+  {
+    "title": "Scale Analysis of Blocking Events from 2002 to 2004: A Case Study of an Unusually Persistent Blocking Event Leading to a Heat Wave in the Gulf of Alaska during August 2004",
+    "authors": [
+      "H. Athar,",
+      "Anthony R. Lupo"
+    ],
+    "doi": "https://doi.org/10.1155/2010/610263",
+    "journalVolume": "Vol. 2010",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "The climatology of northern hemisphere blocking events is presented assessing the relative contributions of the planetary and synoptic scales to 500 hPa heights in order to determine the proportion of blocks dominated by a single-scale. The heights were averaged over a region encompassing the block, and then compared with corresponding monthly mean values. If planetary-scale or synoptic-scale heights are greater than the monthly mean, the block is called single-scale dominant. In the study, 79% of blocks were single-scale dominant, whereas the remaining 21% of events were alternating-scale prominent. This proportion varied by season with winter (summer) events being synoptic (planetary) scale dominant. The stability of blocks is also examined to determine if two stability indicators were useful in the assessment of the character of planetary and synoptic-scale flows. These quantities are area integrated enstrophy, and the maximum value of stream function gradients within the block region. The analysis of a prolonged block occurring in the Gulf of Alaska during August 2004 shows the planetary-scale is unstable during block onset and then stabilizes during the mature stage. The synoptic-scale played a dominant role in destabilizing the planetary-scale during the mature stage of the block initiating decay.",
+    "readLink": "http://dx.doi.org/10.1155/2010/610263"
+  },
+  {
+    "title": "European Carbon Dioxide Removal Policy: Current Status and Future Opportunities",
+    "authors": [
+      "Eve Tamme,",
+      "Eve Tamme,",
+      "Larissa Lee Beck,",
+      "Larissa Lee Beck"
+    ],
+    "doi": "https://doi.org/10.3389/fclim.2021.682882",
+    "journalVolume": "Vol. 3",
+    "issn": "2624-9553 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/climate#",
+    "abstract": "Over the past two years, the European Union, Norway, Iceland, and the UK have increased climate ambition and aggressively pushed forward an agenda to pursue climate neutrality or net-zero emissions by mid-century. This increased ambition, partly the result of the Intergovernmental Panel on Climate Change's landmark findings on limiting global warming to 1.5°C, has also led to a renewed approach to and revitalized debate about the role of carbon capture and storage and carbon dioxide removal. With increasing climate ambition, including a mid-century climate neutrality goal for the whole European Union, the potential role of technological carbon dioxide removal (CDR) is emerging as one of the critical points of debate among NGOs, policymakers, and the private sector. Policymakers are starting to discuss how to incentivize a CDR scale-up. What encompasses the current debate, and how does it relate to CDR technologies' expected role in reaching climate neutrality? This perspective will highlight that policy must fill two gaps: the accounting and the commercialization gap for the near-term development of a comprehensive CDR policy framework. It will shine a light on the current status of negative emission technologies and the role of carbon capture and storage in delivering negative emissions in Europe's decarbonized future. It will also analyze the role of carbon markets, including voluntary markets, as potential incentives while exploring policy pathways for a near-term scale-up.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fclim.2021.682882/full"
+  },
+  {
+    "title": "New Cohesion and Regional Development Policy in Period 2021-2027",
+    "authors": [
+      "Daniela Antonescu"
+    ],
+    "doi": "https://doi.org/10.15551/lsgdc.v49i1.01",
+    "journalVolume": "Vol. 49,\n                                no. 1\n                                \n                                  pp.\n                                  7\n                                  – 26",
+    "issn": "1222-989X (Print)",
+    "publisher": "2344-0805 (Online)",
+    "countryOfPublisher": "Editura Universităţii \"Alexandru Ioan Cuza\" Iaşi",
+    "lcc": [
+      "Romania",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.seminarcantemir.uaic.ro/index.php/lsgdc/index",
+    "abstract": "This paper contains the main aspects and elements to the next programming period and future regional policy of the European Union. From the perspective of the next programming period, cohesion policy keeps on investing in all regions, still on the basis of three categories (less-developed; transition; more-developed). The allocation method for the funds is still largely based on GDP per capita, but the new criteria are added (youth unemployment, low education level, climate change, and the reception and integration of migrants) to better reflect the reality on the ground.",
+    "readLink": "http://www.seminarcantemir.uaic.ro/index.php/lsgdc/article/view/308/335"
+  }
+]

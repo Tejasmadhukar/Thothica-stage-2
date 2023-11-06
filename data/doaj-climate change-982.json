@@ -1,0 +1,252 @@
+[
+  {
+    "title": "The Condition of Four Coral Reefs in Timor-Leste before and after the 2016–2017 Marine Heatwave",
+    "authors": [
+      "Catherine J. S. Kim,",
+      "Chris Roelfsema,",
+      "Sophie Dove,",
+      "Ove Hoegh-Guldberg"
+    ],
+    "doi": "https://doi.org/10.3390/oceans3020012",
+    "journalVolume": "Vol. 3,\n                                no. 12\n                                \n                                  pp.\n                                  147\n                                  – 171",
+    "issn": "2673-1924 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/oceans",
+    "abstract": "El Niño Southern Oscillation global coral bleaching events are increasing in frequency, yet the severity of mass coral bleaching is not geographically uniform. Based in Timor-Leste, the present project had two major objectives: (1) assess the baseline of reefs and coral health at four sites and (2) explore water quality and climate-related changes in ocean temperatures on these understudied reef systems. The impacts of climate change were surveyed on coral reefs before and after the 2016–2017 global underwater heatwave, (principally by following coral mortality). Temperature loggers were also deployed between surveys, which were compared to Coral Reef Watch (CRW) experimental virtual station sea surface temperature (SST). CRW is an important and widely used tool; however, we found that the remotely sensed SST was significantly warmer (>1 °C) than in situ temperature during the austral summer accruing 5.79-degree heating weeks. In situ temperature showed no accumulation. There were significant differences in coral cover, coral diversity, and nutrient concentrations between sites and depths, as well as a low prevalence of disease recorded in both years. Change in coral cover between surveys was attributed to reef heterogeneity from natural sources and localized anthropogenic impacts. Timor-Leste has both pristine and impacted reefs where coral cover and community composition varied significantly by site. Degradation was indicative of impacts from fishing and gleaning. The comparison of in situ temperature and remotely sensed SST indicated that bleaching stress in Timor-Leste is potentially mitigated by seasonal coastal upwelling during the Northwest monsoon season. As a climate refugium, the immediate conservation priority lies in the mitigation of localized anthropogenic impacts on coral reefs through increasing the management of expanding human-related sedimentation and fishing.",
+    "readLink": "https://www.mdpi.com/2673-1924/3/2/12"
+  },
+  {
+    "title": "Conservation priorities for Prunus africana defined with the aid of spatial analysis of genetic data and climatic variables.",
+    "authors": [
+      "Barbara Vinceti,",
+      "Judy Loo,",
+      "Hannes Gaisberger,",
+      "Maarten J van Zonneveld,",
+      "Silvio Schueler,",
+      "Heino Konrad,",
+      "Caroline A C Kadu,",
+      "Thomas Geburek"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0059987",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  p.\n                                  e59987",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Conservation priorities for Prunus africana, a tree species found across Afromontane regions, which is of great commercial interest internationally and of local value for rural communities, were defined with the aid of spatial analyses applied to a set of georeferenced molecular marker data (chloroplast and nuclear microsatellites) from 32 populations in 9 African countries. Two approaches for the selection of priority populations for conservation were used, differing in the way they optimize representation of intra-specific diversity of P. africana across a minimum number of populations. The first method (S1) was aimed at maximizing genetic diversity of the conservation units and their distinctiveness with regard to climatic conditions, the second method (S2) at optimizing representativeness of the genetic diversity found throughout the species' range. Populations in East African countries (especially Kenya and Tanzania) were found to be of great conservation value, as suggested by previous findings. These populations are complemented by those in Madagascar and Cameroon. The combination of the two methods for prioritization led to the identification of a set of 6 priority populations. The potential distribution of P. africana was then modeled based on a dataset of 1,500 georeferenced observations. This enabled an assessment of whether the priority populations identified are exposed to threats from agricultural expansion and climate change, and whether they are located within the boundaries of protected areas. The range of the species has been affected by past climate change and the modeled distribution of P. africana indicates that the species is likely to be negatively affected in future, with an expected decrease in distribution by 2050. Based on these insights, further research at the regional and national scale is recommended, in order to strengthen P. africana conservation efforts.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23544118/pdf/?tool=EBI"
+  },
+  {
+    "title": "Simulation, calibration and validation protocols for the model 3D-CMCC-CNR-FEM: a case study in the Bonis’ watershed (Calabria, Italy)",
+    "authors": [
+      "Collalti A,",
+      "Biondo C,",
+      "Buttafuoco G,",
+      "Maesano M,",
+      "Caloiero T,",
+      "Lucà F,",
+      "Pellicone G,",
+      "Ricca N,",
+      "Salvati R,",
+      "Veltri A,",
+      "Scarascia Mugnozza G,",
+      "Matteucci G"
+    ],
+    "doi": "https://doi.org/10.3832/efor2368-014",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  pp.\n                                  46\n                                  – 55",
+    "issn": "1824-0119 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://foresta.sisef.org/",
+    "abstract": "Simulation, calibration and validation protocols for the model 3D-CMCC-CNR-FEM: a case study in the Bonis’ watershed (Calabria, Italy). At present, the climate changes issue is perhaps the greatest threat that is affecting people and the environment. Forest ecosystems have a key role in the mitigation of climate change. In this context, the prediction of the evolution and growth dynamics of the forests including carbon and water fluxes, and in relation to forest management has become a primary objective. The present study aims at defining a protocol for data collection and the workflow for using the 3D-CMCC-CNR-FEM model in a small mountain watershed in the Calabria region. Within this work we synergistically integrate data coming from different methods (e.g., LiDAR, eddy covariance and sample area) to predict forest dynamics (growth, carbon and water fluxes). Carbon and water fluxes will be simulated considering also the effects of forest management.",
+    "readLink": "http://foresta.sisef.org/contents/?id=efor2368-014&lang=en"
+  },
+  {
+    "title": "Connecting Blue Economy and Economic Growth to Climate Change: Evidence from European Union Countries",
+    "authors": [
+      "Roxana Maria Bădîrcea,",
+      "Alina Georgiana Manta,",
+      "Nicoleta Mihaela Florea,",
+      "Silvia Puiu,",
+      "Liviu Florin Manta,",
+      "Marius Dalian Doran"
+    ],
+    "doi": "https://doi.org/10.3390/en14154600",
+    "journalVolume": "Vol. 14,\n                                no. 4600\n                                \n                                  p.\n                                  4600",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Blue Economy represents a new and interesting concept on a global level, both from the economic potential but also by the fact that it can be used to reduce environmental degradation. The main goal of this research is to identify the causality relations between the greenhouse gas emissions, the Blue Economy and economic growth based on a panel of annual data from the 28 countries that are members of the European Union (EU) over the 2009–2018 period. After applying stationarity and cointegration tests, the long term cointegration coefficients shall be determined with the help of the fully modified ordinary least squares (FMOLS) estimator. Granger causality estimation based on the vector error correction model (VECM) was applied to identify the causality relationship between the variables and to detect the direction of causality. Based on the identified causality relations, the Blue Economy has a significant influence on greenhouse gas emissions in the long run. Unidirectional causality relations were identified from the economic growth of greenhouse gas emissions in the long term, as well as from the greenhouse gas emissions on economic growth in the short term.",
+    "readLink": "https://www.mdpi.com/1996-1073/14/15/4600"
+  },
+  {
+    "title": "Preliminary Evidence for the Amplification of Global Warming in Shallow, Intertidal Estuarine Waters.",
+    "authors": [
+      "Autumn Oczkowski,",
+      "Richard McKinney,",
+      "Suzanne Ayvazian,",
+      "Alana Hanson,",
+      "Cathleen Wigand,",
+      "Erin Markham"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0141529",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  p.\n                                  e0141529",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Over the past 50 years, mean annual water temperature in northeastern U.S. estuaries has increased by approximately 1.2°C, with most of the warming recorded in the winter and early spring. A recent survey and synthesis of data from four locations in Southern Rhode Island has led us to hypothesize that this warming may be amplified in the shallow (<1 m), nearshore portions of these estuaries. While intertidal areas are not typically selected as locations for long-term monitoring, we compiled data from published literature, theses, and reports that suggest that enhanced warming may be occurring, perhaps at rates three times higher than deeper estuarine waters. Warmer spring waters may be one of the factors influencing biota residing in intertidal regions both in general as well as at our specific sites. We observed greater abundance of fish, and size of Menidia sp., in recent (2010-2012) seine surveys compared to similar collections in 1962. While any linkages are speculative and data are preliminary, taken together they suggest that shallow intertidal portions of estuaries may be important places to look for the effects of climate change.",
+    "readLink": "http://europepmc.org/articles/PMC4624981?pdf=render"
+  },
+  {
+    "title": "Publicising chemistry in a multicultural society through chemistry outreach",
+    "authors": [
+      "Timothy G. Harrison,",
+      "Dudley E. Shallcross,",
+      "Nicholas C. Norman,",
+      "Joyce D. Sewry,",
+      "Michael T. Davies-Coleman"
+    ],
+    "doi": "https://doi.org/10.4102/sajs.v107i11/12.669",
+    "journalVolume": "Vol. 107,\n                                no. 11/12",
+    "issn": "0038-2353 (Print)",
+    "publisher": "1996-7489 (Online)",
+    "countryOfPublisher": "Academy of Science of South Africa",
+    "lcc": [
+      "South Africa",
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.sajs.co.za",
+    "abstract": "Given the emphasis in Higher Education on community engagement in South Africa and the importance of international collaboration, we discuss a joint approach to chemistry outreach in two countries on two continents with widely differing target school audiences. We describe the history of the partnership between the chemistry departments at Rhodes University and the University of Bristol and provide an outline of the chemistry content of their outreach initiatives, the modes of delivery, the advantages to both departments and their students for involvement in various levels of outreach, the challenges they still face and additional opportunities that such work facilitated. The lecture demonstration ‘A Pollutant’s Tale’ was presented to thousands of learners all over the world, including learners at resource-deprived schools in South Africa. Challenges to extend outreach activities in South Africa include long travelling distances, as well as a lack of facilities (such as school halls and electricity) at schools. Outreach activities not only impacted on the target audience of young learners, they also impacted upon the postgraduate and other chemistry students taking part in these initiatives. This collaboration strengthened both institutions and their outreach work and may also lead to chemistry research collaborations between the academics involved.",
+    "readLink": "http://archive.sajs.co.za/index.php/SAJS/article/view/669"
+  },
+  {
+    "title": "Strategic Framework for Sustainable Management of Drainage Systems in Semi-Arid Cities: An Iraqi Case Study",
+    "authors": [
+      "Mohammed Nanekely,",
+      "Miklas Scholz,",
+      "Furat Al-Faraj"
+    ],
+    "doi": "https://doi.org/10.3390/w8090406",
+    "journalVolume": "Vol. 8,\n                                no. 9\n                                \n                                  p.\n                                  406",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "For the purpose of this paper, Erbil city, located in the northern part of Iraq, has been chosen as a representative case study for a large number of cities, particularly in semi-arid areas, lacking sustainable drainage systems (SuDS). The study assesses (a) the role of SuDS as a measure in areas with a water shortage; (b) water scarcity in decision-making processes; (c) the lack of legislation to implement SuDS; (d) the adverse effects of climate change on the urban drainage system; and (e) the effects of an increased population on SuDS implementation. An integrated methodology that incorporates a self-administrated questionnaire, workshops, face-to-face communication and interviews, as well as electronic media interactions, were used to achieve the objectives. A generic platform that consists of thirteen pillars, supporting the short to long-term national policies and strategies towards a sustainable urban drainage system, has been developed. Results showed that environmental laws need to be introduced. Findings also indicate that a growing population, which is partly due to an increase of internally displaced people, is a major challenge to an early application of SuDS, due to a rise in land demand and a lack of financial resources.",
+    "readLink": "http://www.mdpi.com/2073-4441/8/9/406"
+  },
+  {
+    "title": "Constraints on simulated past Arctic amplification  and lapse rate feedback from observations",
+    "authors": [
+      "O. Linke,",
+      "J. Quaas,",
+      "F. Baumer,",
+      "S. Becker,",
+      "J. Chylik,",
+      "S. Dahlke,",
+      "A. Ehrlich,",
+      "D. Handorf,",
+      "C. Jacobi,",
+      "H. Kalesse-Los,",
+      "L. Lelli,",
+      "L. Lelli,",
+      "S. Mehrdad,",
+      "R. A. J. Neggers,",
+      "J. Riebold,",
+      "P. Saavedra Garfias,",
+      "N. Schnierstein,",
+      "M. D. Shupe,",
+      "M. D. Shupe,",
+      "C. Smith,",
+      "C. Smith,",
+      "G. Spreen,",
+      "B. Verneuil,",
+      "B. Verneuil,",
+      "K. S. Vinjamuri,",
+      "M. Vountas,",
+      "M. Wendisch"
+    ],
+    "doi": "https://doi.org/10.5194/acp-23-9963-2023",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  pp.\n                                  9963\n                                  – 9992",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "The Arctic has warmed more rapidly than the global mean during the past few decades. The lapse rate feedback (LRF) has been identified as being a large contributor to the Arctic amplification (AA) of climate change. This particular feedback arises from the vertically non-uniform warming of the troposphere, which in the Arctic emerges as strong near-surface and muted free-tropospheric warming. Stable stratification and meridional energy transport are two characteristic processes that are evoked as causes for this vertical warming structure. Our aim is to constrain these governing processes by making use of detailed observations in combination with the large climate model ensemble of the sixth Coupled Model Intercomparison Project (CMIP6). We build on the result that CMIP6 models show a large spread in AA and Arctic LRF, which are positively correlated for the historical period of 1951–2014. Thus, we present process-oriented constraints by linking characteristics of the current climate to historical climate simulations. In particular, we compare a large consortium of present-day observations to co-located model data from subsets that show a weak and strong simulated AA and Arctic LRF in the past. Our analyses suggest that the vertical temperature structure of the Arctic boundary layer is more realistically depicted in climate models with weak (w) AA and Arctic LRF (CMIP6/w) in the past. In particular, CMIP6/w models show stronger inversions in the present climate for boreal autumn and winter and over sea ice, which is more consistent with the observations. These results are based on observations from the year-long Multidisciplinary Drifting Observatory for the Study of Arctic Climate (MOSAiC) expedition in the central Arctic, long-term measurements at the Utqiaġvik site in Alaska, USA, and dropsonde temperature profiling from aircraft campaigns in the Fram Strait. In addition, the atmospheric energy transport from lower latitudes that can further mediate the warming structure in the free troposphere is more realistically represented by CMIP6/w models. In particular, CMIP6/w models systemically simulate a weaker Arctic atmospheric energy transport convergence in the present climate for boreal autumn and winter, which is more consistent with fifth generation reanalysis of the European Centre for Medium-Range Weather Forecasts (ERA5). We further show a positive relationship between the magnitude of the present-day transport convergence and the strength of past AA. With respect to the Arctic LRF, we find links between the changes in transport pathways that drive vertical warming structures and local differences in the LRF. This highlights the mediating influence of advection on the Arctic LRF and motivates deeper studies to explicitly link spatial patterns of Arctic feedbacks to changes in the large-scale circulation.",
+    "readLink": "https://acp.copernicus.org/articles/23/9963/2023/acp-23-9963-2023.pdf"
+  },
+  {
+    "title": "Workers' health and productivity under occupational heat strain: a systematic review and meta-analysis",
+    "authors": [
+      "Andreas D Flouris, PhD,",
+      "Petros C Dinas, PhD,",
+      "Leonidas G Ioannou, MSc,",
+      "Lars Nybo, ProfPhD,",
+      "George Havenith, ProfPhD,",
+      "Glen P Kenny, ProfPhD,",
+      "Tord Kjellstrom, ProfPhD"
+    ],
+    "doi": "Vol. 2,\n                                no. 12\n                                \n                                  pp.\n                                  e521\n                                  – e531",
+    "issn": "2542-5196 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.thelancet.com/journals/lanplh/issue/current",
+    "abstract": "Summary: Background: Occupational heat strain (ie, the effect of environmental heat stress on the body) directly threatens workers' ability to live healthy and productive lives. We estimated the effects of occupational heat strain on workers' health and productivity outcomes. Methods: Following PRISMA guidelines for this systematic review and meta-analysis, we searched PubMed and Embase from database inception to Feb 5, 2018, for relevant studies in any labour environment and at any level of occupational heat strain. No restrictions on language, workers' health status, or study design were applied. Occupational heat strain was defined using international health and safety guidelines and standards. We excluded studies that calculated effects using simulations or statistical models instead of actual measurements, and any grey literature. Risk of bias, data extraction, and sensitivity analysis were performed by two independent investigators. Six random-effects meta-analyses estimated the prevalence of occupational heat strain, kidney disease or acute kidney injury, productivity loss, core temperature, change in urine specific gravity, and odds of occupational heat strain occurring during or at the end of a work shift in heat stress conditions. The review protocol is available on PROSPERO, registration number CRD42017083271. Findings: Of 958 reports identified through our systematic search, 111 studies done in 30 countries, including 447 million workers from more than 40 different occupations, were eligible for analysis. Our meta-analyses showed that individuals working a single work shift under heat stress (defined as wet-bulb globe temperature beyond 22·0 or 24·8°C depending on work intensity) were 4·01 times (95% CI 2·45–6·58; nine studies with 11 582 workers) more likely to experience occupational heat strain than an individual working in thermoneutral conditions, while their core temperature was increased by 0·7°C (0·4–1·0; 17 studies with 1090 workers) and their urine specific gravity was increased by 14·5% (0·0031, 0·0014–0·0048; 14 studies with 691 workers). During or at the end of a work shift under heat stress, 35% (31–39; 33 studies with 13 088 workers) of workers experienced occupational heat strain, while 30% (21–39; 11 studies with 8076 workers) reported productivity losses. Finally, 15% (11–19; ten studies with 21 721 workers) of individuals who typically or frequently worked under heat stress (minimum of 6 h per day, 5 days per week, for 2 months of the year) experienced kidney disease or acute kidney injury. Overall, this analysis include a variety of populations, exposures, and occupations to comply with a wider adoption of evidence synthesis, but resulted in large heterogeneity in our meta-analyses. Grading of Recommendations, Assessment, Development and Evaluation analysis revealed moderate confidence for most results and very low confidence in two cases (average core temperature and change in urine specific gravity) due to studies being funded by industry. Interpretation: Occupational heat strain has important health and productivity outcomes and should be recognised as a public health problem. Concerted international action is needed to mitigate its effects in light of climate change and the anticipated rise in heat stress. Funding: EU Horizon 2020 research and innovation programme.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2542519618302377"
+  },
+  {
+    "title": "PEMANFAATAN JASA LINGKUNGAN DI HUTAN DESA BUNTOI, KECAMATAN KAHAYAN HILIR, KABUPATEN PULANG PISAU, PROVINSI KALIMANTAN TENGAH",
+    "authors": [
+      "Muhammad Zahrul Muttaqin,S.Hut,M.For.Sc,Ph.D,",
+      "Ismayadi Samsoedin,",
+      "Subarudi Subarudi,",
+      "Nurtjahjawilasa Nurtjahjawilasa,",
+      "Faridh Almuhayat Uhib Hamdani"
+    ],
+    "doi": "https://doi.org/10.20886/jakk.2017.14.1.1-16",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "0216-0897 (Print)",
+    "publisher": "2502-6267 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/",
+    "abstract": "Hutan Desa (HD) merupakan hutan negara yang tidak dibebani hak dan dikelola oleh desa untuk kesejahteraan desa. Desa yang memiliki HD bertanggung jawab atas pemanfaatan sumber daya hutan secara lestari. Pengembangan HD di desa Buntoi masih dalam tahap awal sehingga perlu dilakukan penggalian potensi dari berbagai aspek seperti aspek jasa lingkungan, kebijakan dan kelembagaan, dan potensi mata pencaharian yang berkelanjutan. Tujuan penelitian ini adalah untuk mengidentifikasi dan menganalisis potensi jasa lingkungan beserta faktor-faktor yang memengaruhi dalam pengembangannya. Hasil penelitian menunjukkan bahwa pemanfaatan jasa air di Desa Buntoi selama ini hanya mengandalkan air sungai yang berwarna coklat karena tidak memiliki sumber mata air. Secara bentang alam tidak ditemukan areal yang khas untuk dapat menarik kedatangan wisatawan, akan tetapi potensi keanekaragaman hayati dan penyerapan karbon di HD kurang optimal dimanfaatkan untuk menarik wisatawan. Ketidakoptimalan pemanfaatan jasa lingkungan di HD Buntoi disebabkan oleh: (1) Persepsi masyarakat lokal yang belum mendukung pemanfataan jasa ekosistem; dan (2) Kurangnya dukungan dari pemerintah daerah dalam pemanfaatan jasa ekosistem di hutan desa. Adapun kegiatan yang dapat dikembangkan untuk memanfaatkan keanekaragaman hayati, keindahan bentang alam, dan konservasi karbon di desa hutan yaitu ekowisata danprogram pengurangan emisi berbasis REDD+.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JAKK/article/view/2351"
+  }
+]

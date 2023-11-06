@@ -1,0 +1,218 @@
+[
+  {
+    "title": "The Dendrochronological Potential of Some Shrub Species in Mongolian Dry Steppe",
+    "authors": [
+      "Nyamjav Javkhlan ,",
+      "Uudus Bayarsaikhan,",
+      "Suran Byambagerel"
+    ],
+    "doi": "https://doi.org/10.22353/mjbs.2020.18.03",
+    "journalVolume": "Vol. 18,\n                                no. 1\n                                \n                                  pp.\n                                  23\n                                  – 29",
+    "issn": "1684-3908 (Print)",
+    "publisher": "2225-4994 (Online)",
+    "countryOfPublisher": "National University of Mongolia",
+    "lcc": [
+      "Mongolia",
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://www.biotaxa.org/mjbs/index",
+    "abstract": "Shrub expansion has been widely documented in Northern Hemisphere due to the climate change and land use impacts. The findings of some studies show that shrub expansion greatly corresponds with changes in temperature and precipitation in Arctic, whereas studies in Tibetan Plateau show that shrub expansion is more dependent on soil moisture. However, there has not been sufficient studies of shrub expansion in Central Asia, including our country. We carried out studies on 12 shrub species present in Khar Yamaat Natural Reserve Area (N47.645727, E112.043829) to determine the response of several shrub species to climate factors and disturbances. We were able to distinguish diverse pore arrangements, various growth patterns, climate-growth relationships and finally, pointer years were recorded as well. That being the case, shrubs in Mongolia have successfully been proven to have a high dendrochronological potential and it is practicable to apply it for rangeland and ecological assessments.",
+    "readLink": "https://www.biotaxa.org/mjbs/article/view/60577/60321"
+  },
+  {
+    "title": "Self-efficacy: A South African case study on teachers’ commitment to integrate climate change resilience into their teaching practices",
+    "authors": [
+      "Schalk Raath,",
+      "Anette Hay"
+    ],
+    "doi": "https://doi.org/10.1080/2331186X.2016.1264698",
+    "journalVolume": "Vol. 3,\n                                no. 1",
+    "issn": "2331-186X (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Education: Education (General)"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/oaed",
+    "abstract": "A strong sense of self-efficacy in teachers has in many studies been consistently related to positive teaching behaviours and learner outcomes. This research reports on the differences among teachers regarding their self-efficacy and how this relates to their confidence and commitment to integrate climate change in their teaching practice. A questionnaire with the standardised scale of the Woolfolk “Teachers’ Sense of Efficacy Scale” was used to measure self-efficacy beliefs of participating teachers (n = 25). The quantitative data generated with the questionnaire were analysed using the SPSS statistical package and the Atlas-ti program was used to analyse the qualitative data. The findings showed that teachers with beliefs of greater self-efficacy were more willing and resilient to engage in a climate change project. It is recommended that besides the knowledge and skills component of teaching, teachers must be supported to reinforce their belief that they can contribute meaningfully to teaching and developing climate change resilience.",
+    "readLink": "http://dx.doi.org/10.1080/2331186X.2016.1264698"
+  },
+  {
+    "title": "Using high-resolution regional climate models to estimate  return levels of daily extreme precipitation over Bavaria",
+    "authors": [
+      "B. Poschlod,",
+      "B. Poschlod"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-21-3573-2021",
+    "journalVolume": "Vol. 21\n                                \n                                \n                                  pp.\n                                  3573\n                                  – 3598",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "Extreme daily rainfall is an important trigger for floods in Bavaria. The dimensioning of water management structures as well as building codes is based on observational rainfall return levels. In this study, three high-resolution regional climate models (RCMs) are employed to produce 10- and 100-year daily rainfall return levels and their performance is evaluated by comparison to observational return levels. The study area is governed by different types of precipitation (stratiform, orographic, convectional) and a complex terrain, with convective precipitation also contributing to daily rainfall levels. The Canadian Regional Climate Model version 5 (CRCM5) at a 12 km spatial resolution and the Weather and Forecasting Research (WRF) model at a 5 km resolution both driven by ERA-Interim reanalysis data use parametrization schemes to simulate convection. WRF at a 1.5 km resolution driven by ERA5 reanalysis data explicitly resolves convectional processes. Applying the generalized extreme value (GEV) distribution, the CRCM5 setup can reproduce the observational 10-year return levels with an areal average bias of +6.6 % and a spatial Spearman rank correlation of ρ=0.72. The higher-resolution 5 km WRF setup is found to improve the performance in terms of bias (+4.7 %) and spatial correlation (ρ=0.82). However, the finer topographic details of the WRF-ERA5 return levels cannot be evaluated with the observation data because their spatial resolution is too low. Hence, this comparison shows no further improvement in the spatial correlation (ρ=0.82) but a small improvement in the bias (2.7 %) compared to the 5 km resolution setup. Uncertainties due to extreme value theory are explored by employing three further approaches. Applied to the WRF-ERA5 data, the GEV distributions with a fixed shape parameter (bias is +2.5 %; ρ=0.79) and the generalized Pareto (GP) distributions (bias is +2.9 %; ρ=0.81) show almost equivalent results for the 10-year return period, whereas the metastatistical extreme value (MEV) distribution leads to a slight underestimation (bias is −7.8 %; ρ=0.84). For the 100-year return level, however, the MEV distribution (bias is +2.7 %; ρ=0.73) outperforms the GEV distribution (bias is +13.3 %; ρ=0.66), the GEV distribution with fixed shape parameter (bias is +12.9 %; ρ=0.70), and the GP distribution (bias is +11.9 %; ρ=0.63). Hence, for applications where the return period is extrapolated, the MEV framework is recommended. From these results, it follows that high-resolution regional climate models are suitable for generating spatially homogeneous rainfall return level products. In regions with a sparse rain gauge density or low spatial representativeness of the stations due to complex topography, RCMs can support the observational data. Further, RCMs driven by global climate models with emission scenarios can project climate-change-induced alterations in rainfall return levels at regional to local scales. This can allow adjustment of structural design and, therefore, adaption to future precipitation conditions.",
+    "readLink": "https://nhess.copernicus.org/articles/21/3573/2021/nhess-21-3573-2021.pdf"
+  },
+  {
+    "title": "Increase in Milk Yield from Cows through Improvement of Forage Production Using the N<sub>2</sub>-Fixing Legume <i>Leucaena leucocephala</i> in a Silvopastoral System",
+    "authors": [
+      "Lucero Sarabia-Salgado,",
+      "Francisco Solorio-Sánchez,",
+      "Luis Ramírez-Avilés,",
+      "Bruno  José Rodrigues Alves,",
+      "Juan Ku-Vera,",
+      "Carlos Aguilar-Pérez,",
+      "Segundo Urquiaga,",
+      "Robert  Michael Boddey"
+    ],
+    "doi": "https://doi.org/10.3390/ani10040734",
+    "journalVolume": "Vol. 10,\n                                no. 734\n                                \n                                  p.\n                                  734",
+    "issn": "2076-2615 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Animal culture: Veterinary medicine",
+      "Science: Zoology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/animals/",
+    "abstract": "The objective was to evaluate milk production, N2-fixation and N transfer, forage yield and composition (under two cutting intervals) in a silvopastoral system (SPS) with Leucaena leucocephala-Megathyrsus maximus and M. maximus-monoculture (MMM) with crossbred cows in a completely randomized design. Forage yield in the SPS was 6490 and 6907 kg DM ha−1 for cutting intervals (CI) of 35 and 50 days. Forage yield for the MMM was 7284 and 10,843 kg DM ha−1, and forage crude protein (CP) was 29.0% and 26.1% for L. leucocephala, harvested at 35 and 50 days, respectively. CP for the associated M. maximus was 9.9% and 7.8% for CI 35 and 50 days, respectively, and for MMM was 7.4% and 8.4%, harvested at 35 and 50 days. Milk production was 4.7 kg cow−1 day−1 for cows grazing MMM and 7.4 kg cow−1 day−1 under SPS. Nitrogen fixation in L. leucocephala (%Ndfa) was estimated to be 89% and 95%, at 35 and 50 days, with an N2 transfer to the associated grass of 34.3% and 52.9%. SPS has the potential to fix and transfer important amounts of N2 to the associated grass, and increase forage CP content and milk production.",
+    "readLink": "https://www.mdpi.com/2076-2615/10/4/734"
+  },
+  {
+    "title": "Projections of corrosion and deterioration of infrastructure in United States coasts under a changing climate",
+    "authors": [
+      "Yating Zhang,",
+      "Bilal M. Ayyub,",
+      "Juan F. Fung"
+    ],
+    "doi": "Vol. 1,\n                                no. 1\n                                \n                                  pp.\n                                  98\n                                  – 109",
+    "issn": "2772-7416 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General): Disasters and engineering",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography: Settlements: Cities. Urban geography"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/resilient-cities-and-structures",
+    "abstract": "Climate change can accelerate infrastructure deterioration in coastal areas because increased temperature and humidity can promote steel corrosion. This study (1) projects corrosion rate changes for reinforced concrete and steel structures in 223 coastal counties, (2) assesses the impact of corrosion rate changes on the useful life of structures, and (3) evaluates direct economic losses due to shortened useful life of highway bridges over the period 2000-2100. The results show that the useful life of concrete structures may decrease by 1.7-2.7% under the representative concentration pathway (RCP) 8.5 and decrease by 0.7-1.1% under RCP 4.5 by the end of the 21st century. The useful life of steel structures may decrease by 7.9-15.9% under RCP 8.5 and 3.3-6.7% under RCP 4.5. Concrete bridges may suffer an average loss of $6.5-11.7/m2 under RCP 8.5 and $3.3-16.5/m2 under RCP 4.5 due to shortened useful life. Steel bridges may suffer an average loss of $73.4-111.3/m2 under RCP 8.5 and $46.9-81.2/m2 under RCP 4.5. In both climate scenarios, 10% of counties may have negative losses and 10% of counties may have losses greater than $20 million due to corrosion rate changes for concrete and steel bridges. The results reveal the spatial difference of climate change impacts on infrastructural deterioration and suggest the importance of developing regional specific adaptation strategies.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2772741622000096"
+  },
+  {
+    "title": "“Eco-History” and Modern Middle Ages Studies: New Methodological Approaches",
+    "authors": [
+      "L. V. Sofronova,",
+      "A. V. Khazina"
+    ],
+    "doi": "https://doi.org/10.24224/2227-1295-2019-9-456-469",
+    "journalVolume": "Vol. 0,\n                                no. 9\n                                \n                                  pp.\n                                  456\n                                  – 469",
+    "issn": "2225-756X (Print)",
+    "publisher": "2227-1295 (Online)",
+    "countryOfPublisher": "Tsentr nauchnykh i obrazovatelnykh proektov",
+    "lcc": [
+      "Russian Federation",
+      "Language and Literature: Slavic languages. Baltic languages. Albanian languages"
+    ],
+    "journalUrl": "https://www.nauka-dialog.ru/",
+    "abstract": "Two recent books on the history of the environment and the Middle Ages published by Cambridge University Press are analyzed: Richard Hoffman’s “Ecological History of Medieval Europe” (2014) and Bruce M. S. Campbell’s “The Great Transition: Climate, Disease and Society in the Late Medieval World” (2016). The interdisciplinary approach of both authors is noted, which allowed to re-illuminate such central themes of medieval history as the decline of Rome, religious doctrines, urbanization and technology. It is indicated that the books address key environmental topics: energy use, sustainability, disease and climate change. It is reported that Hoffman and Campbell identify the role of natural forces in such processes as climate change, disease and the transformation of military and political balance. This approach is positively evaluated in this article, as it allows to study the devastating effects of the above factors: hunger, floods, mortality of people and animals, wars and financial crises. It is emphasized that the authors of the analyzed books, immersing medieval history in the context of social ecology, introduce the world of nature into historiography as an acting character (actant) and an object of history itself.",
+    "readLink": "https://www.nauka-dialog.ru/jour/article/view/1322"
+  },
+  {
+    "title": "Effects of increasing air temperature on physiological and productive responses of dairy cows at different relative humidity and air velocity levels",
+    "authors": [
+      "M. Zhou,",
+      "A.J.A. Aarnink,",
+      "T.T.T. Huynh,",
+      "I.D.E. van Dixhoorn,",
+      "P.W.G. Groot Koerkamp"
+    ],
+    "doi": "Vol. 105,\n                                no. 2\n                                \n                                  pp.\n                                  1701\n                                  – 1716",
+    "issn": "0022-0302 (Print)",
+    "publisher": "1525-3198 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United States",
+      "Agriculture: Animal culture: Cattle: Dairy processing. Dairy products",
+      "Agriculture: Animal culture: Cattle: Dairying"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/journal-of-dairy-science",
+    "abstract": "ABSTRACT: This study determined the effects of increasing ambient temperature (T) at different relative humidity (RH) and air velocity (AV) levels on the physiological and productive responses of dairy cows. Twenty Holstein dairy cows were housed inside climate-controlled respiration chambers, in which the climate was programmed to follow a daily pattern of lower night and higher day T with a 9°C difference, excluding effects from sun radiation. Within our 8-d data collection period, T was gradually increased from 7 to 21°C during the night (12 h) and 16 to 30°C during the day (12 h), with an incremental change of 2°C per day for both nighttime and daytime T. During each research period, RH and AV were kept constant at 1 of 5 treatment levels. A diurnal pattern for RH was created, with lower levels during the day and higher levels during the night: low (RH_l: 30–50%), medium (RH_m: 45–70%), and high (RH_h: 60–90%). The effects of AV were studied during the day at 3 levels: no fan (AV_l: 0.1 m/s), fan at medium speed (AV_m: 1.0 m/s), and fan at high speed (AV_h: 1.5 m/s). Effects of short and long exposure time to increasing T were evaluated by collecting data 2 times a day: in the morning [short: 1 h (or less) − exposure time] and afternoon (long: 8 h − exposure time). The animals had free access to feed and water and both were ad libitum. Respiration rate (RR), rectal temperature (RT), skin temperature (ST), dry matter intake, water intake, milk yield, and composition were measured. The inflection point temperatures (IPt) at which a certain variable started to change were determined for the different RH and AV levels and different exposure times. Results showed that IPt under long exposure time for RR (first indicator) varied between 18.9 and 25.5°C but was between 20.1 and 25.9°C for RT (a delayed indicator). The IPt for both RR and RT decreased with higher RH levels, whereas IPt increased with higher AV for RR but gave a minor change for RT. The ST was positively correlated with ambient T and ST was not affected by RH but significantly affected by AV. For RR, all IPt was lower under long exposure time than under short exposure time. The combination of higher RH levels and low AV level negatively affected dry matter intake. Water intake increased under all treatments except RH_l-AV_l. Treatment RH_h-AV_l negatively affected milk protein and fat yield, whereas treatments RH_m-AV_m and RH_m-AV_h reduced milk fat yield. We concluded that RH and AV significantly affected the responses of RR, RT, ST, and productive performance of high-producing Holstein cows. These responses already occurred at moderate ambient T of 19 to 26°C.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0022030221010262"
+  },
+  {
+    "title": "COPERNICUS KNOWLEDGE AND INNOVATION HUBS",
+    "authors": [
+      "B. Riedler,",
+      "S. Lang,",
+      "P. Zeil,",
+      "M. Miguel-Lago,",
+      "C. Schröder,",
+      "N. Politi-Stergiou,",
+      "M. Kerschbaumer,",
+      "V. Tramutoli,",
+      "M. Tzouvaras,",
+      "M. Tzouvaras"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLIII-B5-2020-35-2020",
+    "journalVolume": "Vol. XLIII-B5-2020\n                                \n                                \n                                  pp.\n                                  35\n                                  – 42",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Copernicus, the European Space program ensures free data availability and the organisational and financial framework to provide standardized information products in its service domains atmosphere, marine, land monitoring, climate change, emergency management and human security. A key to success to the market uptake process is knowledge exchange among all actors from the various sectors involved, notably research and educational institutions, industry, and the public sector. As a successful instrument to foster and stimulate this exchange, maximize the impact and additionally boost related capacity building and training activities, the Copernicus Academy has been anchored in the European Space Strategy. The present paper highlights some key activities to leverage the potential of this dynamically growing network of experts from universities and research institutions, public and private organizations, companies, stakeholders, and increase the benefit to its members. The vision of establishing both physical implementations of regional Copernicus hubs and virtual Copernicus hubs, built on key elements of the European Innovation strategy, is discussed. Regional hubs, attached e.g. to centres of excellence, are essential to meet local needs for exchange and training to boost the user uptake. The increasing importance of virtual hubs is becoming evident as a critical means to maximise synergies among actors in the rapidly advancing technological areas. Proposed technical elements demonstrate innovative solutions to visualize and facilitate easy harvesting of the Copernicus Academy member´s expertise for different stakeholder and the public, and show cast possibilities of active involvement and exchange within the network.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B5-2020/35/2020/isprs-archives-XLIII-B5-2020-35-2020.pdf"
+  },
+  {
+    "title": "The Impact of Uncertainties on Crude Oil Prices: Based on a Quantile-on-Quantile Method",
+    "authors": [
+      "Yan Ding,",
+      "Yue Liu,",
+      "Pierre Failler"
+    ],
+    "doi": "https://doi.org/10.3390/en15103510",
+    "journalVolume": "Vol. 15,\n                                no. 3510\n                                \n                                  p.\n                                  3510",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "There has always been a complex relationship between uncertainty and crude oil prices. Three types of uncertainty, i.e., economic policy uncertainty, geopolitical risk uncertainty, and climate policy uncertainty (EPU, GPR, and CPU for short), have exacerbated abnormal fluctuations in the energy market, making crude oil prices volatile more and more frequently, especially from the perspective of the financial attribute of crude oil. Based on the time-series data related to uncertainties and crude oil prices from December 2001 to March 2021, this paper uses the quantile-on-quantile regression (QQR) method to explore the overall impact of various uncertainties on crude oil prices. Moreover, this paper adopts the QQR method based on the wavelet transform to investigate the heterogeneous effects of various uncertainties on crude oil prices at different time scales. The following conclusions are obtained. First, there are significant differences in the overall impact of the three types of uncertainties on crude oil prices, and this heterogeneity is reflected in quantiles of the peak impact intensity, the impact direction, and the fluctuation change. Second, the impact intensities of the three types of uncertainties on crude oil prices are significantly different at different time scales. This is mainly reflected in the different periods of significant impact of the three uncertainties on crude oil prices. Third, the impact directions and fluctuations of the three types of uncertainties on crude oil prices are heterogeneous at different time scales.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/10/3510"
+  },
+  {
+    "title": "Prediction of Climatic Variables using Statistical Downscaling Model (SDSM) in Future under Scenario A2",
+    "authors": [
+      "Ali Salajegheh,",
+      "Elham Rafiei Sardooei,",
+      "Ali Reza Moghaddamnia,",
+      "Arash Malekian,",
+      "Shahab Araghinejad,",
+      "Shahram Khalighi Sigaroodi,",
+      "Ali Salehpourjam"
+    ],
+    "doi": "https://doi.org/10.22034/jdmal.2016.22240",
+    "journalVolume": "Vol. 4,\n                                no. 7\n                                \n                                  pp.\n                                  12\n                                  – 25",
+    "issn": "2476-3985 (Print)",
+    "publisher": "2476-3721 (Online)",
+    "countryOfPublisher": "Iranian Scientific Association of Desert Management and Control (ISADMC)",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Geography. Anthropology. Recreation: Human ecology. Anthropogeography",
+      "Agriculture",
+      "Social Sciences: Industries. Land use. Labor: Management. Industrial management: Management of special enterprises"
+    ],
+    "journalUrl": "http://www.jdmal.ir/?lang=en",
+    "abstract": "In recent decades, the increase of temperature has caused the disturbance of climatic balance of the earth and extensive climate changes which is called climate change. The aim of this study is to predict the climate changes using statistical downscaling model (SDSM) based on A2 scenario over future periods. Daily precipitation, minimum and maximum temperature data of Kermanshah synoptic station, for two periods 2015-2040 and 2040-2065, were predicted and compared with the baseline period. The first 27 years of data (1988-1961) were used for calibration and the second 12 years (1989-2001) were used for validation of the model as well. The results showed that based on the A2 scenario, in the periods of 2015- 2040 and 2040- 2065, the average annual precipitation decreases, the average minimum and maximum temperature increases compared to the baseline period in the Kermanshah synoptic station. Since the precipitation reduction and temperature increase are one of the main factors of desertification, so it is necessary for decision makers and planners in Kermanshah province to adopt necessary solutions for mitigation and adaptation with new climatic conditions.",
+    "readLink": "http://www.jdmal.ir/article_22240_8119c29da500e48d5ef34d12937bf573.pdf"
+  }
+]

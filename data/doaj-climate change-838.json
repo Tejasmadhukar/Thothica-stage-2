@@ -1,0 +1,287 @@
+[
+  {
+    "title": "Rapid saturation of cloud water adjustments to shipping emissions",
+    "authors": [
+      "P. Manshausen,",
+      "D. Watson-Parris,",
+      "D. Watson-Parris,",
+      "M. W. Christensen,",
+      "J.-P. Jalkanen,",
+      "P. Stier"
+    ],
+    "doi": "https://doi.org/10.5194/acp-23-12545-2023",
+    "journalVolume": "Vol. 23\n                                \n                                \n                                  pp.\n                                  12545\n                                  – 12555",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Human aerosol emissions change cloud properties by providing additional cloud condensation nuclei. This increases cloud droplet numbers, which in turn affects other cloud properties like liquid-water content and ultimately cloud albedo. These adjustments are poorly constrained, making aerosol effects the most uncertain part of anthropogenic climate forcing. Here we show that cloud droplet number and water content react differently to changing emission amounts in shipping exhausts. We use information about ship positions and modeled emission amounts together with reanalysis winds and satellite retrievals of cloud properties. The analysis reveals that cloud droplet numbers respond linearly to emission amount over a large range (1–10 kg h−1) before the response saturates. Liquid water increases in raining clouds, and the anomalies are constant over the emission ranges observed. There is evidence that this independence of emissions is due to compensating effects under drier and more humid conditions, consistent with suppression of rain by enhanced aerosol. This has implications for our understanding of cloud processes and may improve the way clouds are represented in climate models, in particular by changing parameterizations of liquid-water responses to aerosol.",
+    "readLink": "https://acp.copernicus.org/articles/23/12545/2023/acp-23-12545-2023.pdf"
+  },
+  {
+    "title": "Model evaluation of short-lived climate forcers for the Arctic Monitoring and Assessment Programme: a multi-species, multi-model study",
+    "authors": [
+      "C. H. Whaley,",
+      "R. Mahmood,",
+      "R. Mahmood,",
+      "K. von Salzen,",
+      "B. Winter,",
+      "S. Eckhardt,",
+      "S. Arnold,",
+      "S. Beagley,",
+      "S. Becagli,",
+      "R.-Y. Chien,",
+      "J. Christensen,",
+      "S. M. Damani,",
+      "X. Dong,",
+      "K. Eleftheriadis,",
+      "N. Evangeliou,",
+      "G. Faluvegi,",
+      "G. Faluvegi,",
+      "M. Flanner,",
+      "J. S. Fu,",
+      "M. Gauss,",
+      "F. Giardi,",
+      "W. Gong,",
+      "J. L. Hjorth,",
+      "L. Huang,",
+      "U. Im,",
+      "Y. Kanaya,",
+      "S. Krishnan,",
+      "Z. Klimont,",
+      "T. Kühn,",
+      "T. Kühn,",
+      "J. Langner,",
+      "K. S. Law,",
+      "L. Marelle,",
+      "A. Massling,",
+      "D. Olivié,",
+      "T. Onishi,",
+      "N. Oshima,",
+      "Y. Peng,",
+      "D. A. Plummer,",
+      "O. Popovicheva,",
+      "L. Pozzoli,",
+      "J.-C. Raut,",
+      "M. Sand,",
+      "L. N. Saunders,",
+      "J. Schmale,",
+      "S. Sharma,",
+      "R. B. Skeie,",
+      "H. Skov,",
+      "F. Taketani,",
+      "M. A. Thomas,",
+      "R. Traversi,",
+      "K. Tsigaridis,",
+      "K. Tsigaridis,",
+      "S. Tsyro,",
+      "S. Turnock,",
+      "S. Turnock,",
+      "V. Vitale,",
+      "K. A. Walker,",
+      "M. Wang,",
+      "D. Watson-Parris,",
+      "T. Weiss-Gibbons"
+    ],
+    "doi": "https://doi.org/10.5194/acp-22-5775-2022",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  5775\n                                  – 5828",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "While carbon dioxide is the main cause for global warming, modeling short-lived climate forcers (SLCFs) such as methane, ozone, and particles in the Arctic allows us to simulate near-term climate and health impacts for a sensitive, pristine region that is warming at 3 times the global rate. Atmospheric modeling is critical for understanding the long-range transport of pollutants to the Arctic, as well as the abundance and distribution of SLCFs throughout the Arctic atmosphere. Modeling is also used as a tool to determine SLCF impacts on climate and health in the present and in future emissions scenarios. In this study, we evaluate 18 state-of-the-art atmospheric and Earth system models by assessing their representation of Arctic and Northern Hemisphere atmospheric SLCF distributions, considering a wide range of different chemical species (methane, tropospheric ozone and its precursors, black carbon, sulfate, organic aerosol, and particulate matter) and multiple observational datasets. Model simulations over 4 years (2008–2009 and 2014–2015) conducted for the 2022 Arctic Monitoring and Assessment Programme (AMAP) SLCF assessment report are thoroughly evaluated against satellite, ground, ship, and aircraft-based observations. The annual means, seasonal cycles, and 3-D distributions of SLCFs were evaluated using several metrics, such as absolute and percent model biases and correlation coefficients. The results show a large range in model performance, with no one particular model or model type performing well for all regions and all SLCF species. The multi-model mean (mmm) was able to represent the general features of SLCFs in the Arctic and had the best overall performance. For the SLCFs with the greatest radiative impact (CH4, O3, BC, and SO42-), the mmm was within ±25 % of the measurements across the Northern Hemisphere. Therefore, we recommend a multi-model ensemble be used for simulating climate and health impacts of SLCFs. Of the SLCFs in our study, model biases were smallest for CH4 and greatest for OA. For most SLCFs, model biases skewed from positive to negative with increasing latitude. Our analysis suggests that vertical mixing, long-range transport, deposition, and wildfires remain highly uncertain processes. These processes need better representation within atmospheric models to improve their simulation of SLCFs in the Arctic environment. As model development proceeds in these areas, we highly recommend that the vertical and 3-D distribution of SLCFs be evaluated, as that information is critical to improving the uncertain processes in models.",
+    "readLink": "https://acp.copernicus.org/articles/22/5775/2022/acp-22-5775-2022.pdf"
+  },
+  {
+    "title": "Scaling-up permafrost thermal measurements in western Alaska using an ecotype approach",
+    "authors": [
+      "W. L. Cable,",
+      "V. E. Romanovsky,",
+      "V. E. Romanovsky,",
+      "M. T. Jorgenson"
+    ],
+    "doi": "https://doi.org/10.5194/tc-10-2517-2016",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  2517\n                                  – 2532",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Permafrost temperatures are increasing in Alaska due to climate change and in some cases permafrost is thawing and degrading. In areas where degradation has already occurred the effects can be dramatic, resulting in changing ecosystems, carbon release, and damage to infrastructure. However, in many areas we lack baseline data, such as subsurface temperatures, needed to assess future changes and potential risk areas. Besides climate, the physical properties of the vegetation cover and subsurface material have a major influence on the thermal state of permafrost. These properties are often directly related to the type of ecosystem overlaying permafrost. In this paper we demonstrate that classifying the landscape into general ecotypes is an effective way to scale up permafrost thermal data collected from field monitoring sites. Additionally, we find that within some ecotypes the absence of a moss layer is indicative of the absence of near-surface permafrost. As a proof of concept, we used the ground temperature data collected from the field sites to recode an ecotype land cover map into a map of mean annual ground temperature ranges at 1 m depth based on analysis and clustering of observed thermal regimes. The map should be useful for decision making with respect to land use and understanding how the landscape might change under future climate scenarios.",
+    "readLink": "https://www.the-cryosphere.net/10/2517/2016/tc-10-2517-2016.pdf"
+  },
+  {
+    "title": "Assessing current and projected soil loss under changing land use and climate using RUSLE with Remote sensing and GIS in the Lake Tana Basin, Upper Blue Nile River Basin, Ethiopia",
+    "authors": [
+      "Birhan Getachew,",
+      "Busnur R. Manjunatha,",
+      "Gangadhara H. Bhat"
+    ],
+    "doi": "Vol. 24,\n                                no. 3\n                                \n                                  pp.\n                                  907\n                                  – 918",
+    "issn": "1110-9823 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Egypt",
+    "lcc": [
+      "Science: Astronomy: Geodesy"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/the-egyptian-journal-of-remote-sensing-and-space-sciences/",
+    "abstract": "Erosion of soil in the Lake Tana basin poses a critical economic and environmental crisis due to its impacts on agriculture productivity, food security and reservoir sedimentations. This study assesses soil erosion hazards by considering changes of land use and the climate. Simulation of land use change was conducted using CA_Markov chain model while climate was downscaledusing statistical techniques from CanESM2 model. The integration of the revised universal soil loss equation (RUSLE) with a geographic information system and remote sensing were used to estimate the soil loss. To quantify soil loss, six RUSLE model parameters were used: rainfall erosivity (R), soil erodibility (K), topography (LS), cover management (C), support and conservation practices (P). The average annual loss of soil by the 2080s in the basin is projected to be 7.7, 7.5 and 8.3 tons per hectare per year for changes land use, combined changes in land use and climate, and changes in climate under RCP8.5, respectively. Furthermore, by the end of this century, the soil loss in the basin tends to increase by 10.8%, 3.4% and 2.2% by considering changes in land use pattern, combined changes in land use and climate, and changes in climate, respectively, suggesting the aggravation of soil erosion in the basin. Accordingly, the effects of climate variability on annual average loss of soil are relatively higher than the combined effects of changing climate and land use. Consequently, the integration of RUSLE model with geospatial technology is recommended for an effective soil and water conservation measures.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1110982321000788"
+  },
+  {
+    "title": "Wet–dry status change in global closed basins between the mid-Holocene and the Last Glacial Maximum and its implication for future projection",
+    "authors": [
+      "X. Zhang,",
+      "Y. Li,",
+      "W. Ye,",
+      "S. Peng,",
+      "Y. Zhang,",
+      "H. Liu,",
+      "Y. Li,",
+      "Q. Han,",
+      "L. Xu"
+    ],
+    "doi": "https://doi.org/10.5194/cp-16-1987-2020",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  1987\n                                  – 1998",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "Closed basins, mainly located in subtropical and temperate drylands, have experienced alarming declines in water storage in recent years. An assessment of long-term hydroclimate change in those regions remains unquantified at a global scale as of yet. By integrating lake records, PMIP3–CMIP5 simulations and modern observations, we assess the wet–dry status of global closed basins during the Last Glacial Maximum, mid-Holocene, pre-industrial, and 20th and 21st century periods. Results show comparable patterns of general wetter climate during the mid-Holocene and near-future warm period, mainly attributed to the boreal summer and winter precipitation increasing, respectively. The long-term pattern of moisture change is highly related to the high-latitude ice sheets and low-latitude solar radiation, which leads to the poleward moving of westerlies and strengthening of monsoons during the interglacial period. However, modern moisture changes show correlations with El Niño–Southern Oscillation in most closed basins, such as the opposite significant correlations between North America and southern Africa and between central Eurasia and Australia, indicating strong connection with ocean oscillation. The strategy for combating future climate change should be more resilient to diversified hydroclimate responses in different closed basins.",
+    "readLink": "https://cp.copernicus.org/articles/16/1987/2020/cp-16-1987-2020.pdf"
+  },
+  {
+    "title": "Sustainable livelihood framework-based assessment of drought resilience patterns of rural households of Bakhtegan basin, Iran",
+    "authors": [
+      "Fatemeh Nasrnia,",
+      "Niloofar Ashktorab"
+    ],
+    "doi": "Vol. 128\n                                \n                                \n                                  p.\n                                  107817",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Todays, climate change, along with its impact on people’s livelihood, is considered as one of the most important challenges facing human societies. Regarded as one of the most important and costly climatic phenomena, drought has severely and catastrophically affected housholds’ livelihood through economic and social damages mostly in arid environment. Accordingly, drought management is deemed as one of the most important priorities policymakers in agriculture worldwide. The present study sought to determine and measure the household livelihood resilience in the Bakhtegan basin by means of a sustainable livelihood approach. To this end, the household livelihood resilience index was calculated using household capitals. The findings illustrated that household livelihood resilience index 0.359 on average, indicating the low level of resilience among households in the study area. Thereafter, taking data mining technique in determining resilience patterns, four different resilience patterns beginning from lower average resilience in all dimensions than that of other ones. However, the second-pattern households are more resilient. Eventually, this contribution would provide a number of implications to policymakers and other stakeholders in terms of improving planning and applying appropriate risk management strategies towards improving the resilience of farmers’ households in the event of a natural disasters, especially a drought..",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X21004829"
+  },
+  {
+    "title": "Importance of basal boundary conditions in transient simulations: case study of a surging marine-terminating glacier on Austfonna, Svalbard",
+    "authors": [
+      "YONGMEI GONG,",
+      "THOMAS ZWINGER,",
+      "STEPHEN CORNFORD,",
+      "RUPERT GLADSTONE,",
+      "MARTINA SCHÄFER,",
+      "JOHN C. MOORE"
+    ],
+    "doi": "https://doi.org/10.1017/jog.2016.121",
+    "journalVolume": "Vol. 63\n                                \n                                \n                                  pp.\n                                  106\n                                  – 117",
+    "issn": "0022-1430 (Print)",
+    "publisher": "1727-5652 (Online)",
+    "countryOfPublisher": "Cambridge University Press",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/journal-of-glaciology",
+    "abstract": "We assess the importance of basal boundary conditions for transient simulations of Basin 3, Austfonna ice cap between January 1995 and December 2011 and for the surge starting in 2012 by carrying out simulations with the full-Stokes model Elmer/Ice and the vertically-integrated model BISICLES. Time-varying surface mass-balance data from the regional climate model HIRHAM5 are downscaled according to elevation. Basal friction coefficient is varied through time by interpolating between two data-constrained inversions of surface velocity fields, from 1995 and 2011. Evolution of the basal boundary condition appears to be much more important for mass discharge and the dynamic response of the fast flowing unit in Basin 3 than either model choice or the downscaling method for the surface mass balance. In addition, temporally linear extrapolation of the evolution of basal friction coefficient beyond the 2011 distribution could not reproduce the expansion of the acceleration observed in southern Basin 3 between January 2012 and June 2013. This implies that changes in basal friction patterns, and in turn basal processes that are not currently represented in either model, are among the most important factors for the 2012 acceleration.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S0022143016001210/type/journal_article"
+  },
+  {
+    "title": "Optimal sites for agricultural and forest residues energy conversion plant using geographic information system",
+    "authors": [
+      "M.O. Ukoba,",
+      "E.O. Diemuodeke,",
+      "T.A. Briggs,",
+      "M. Imran,",
+      "M.M. Ojapah,",
+      "K. Owebor,",
+      "C. Nwachukwu,",
+      "M.D. Aminu,",
+      "K.E. Okedu,",
+      "A. Kalam,",
+      "I. Colak"
+    ],
+    "doi": "Vol. 9,\n                                no. 9\n                                \n                                  p.\n                                  e19660",
+    "issn": "2405-8440 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.cell.com/heliyon/home",
+    "abstract": "The Federal Government of Nigeria (FGN) has committed to net-zero emission development pathways to respond to the Paris Agreement adopted in 2015. However, the country is in dire need of energy to support its developmental ambitions. Therefore, it is necessary to consider green energy technologies to support both socioeconomic development and to meet the FGN's emission reduction target. In view of this, the current work presents the optimal sites for bioenergy plants in a state in Nigeria using Geographic Information System (GIS). Key findings suggest that 62.03 PJ/yr and 4.12 PJ/yr of energy could be derived from crop residues and forest residues, respectively, to support the state's bioenergy development. The crop residues considered include plantain (stem), oil palm (shell and fibre), maize (stalks) and cassava (peel and stalks). Six criteria were used in selecting the optimal sites, and include biomass residue distribution, settlement, road accessibility, nearness to waterline, slope and aspect. These criteria were incorporated into the ArcGIS platform through the weighted overlay tool. Strategically, the analysis presents seven sites for biomass plants to sustainably meet part of the energy needs. The efforts of the current work which supports not less than three SDGs–SDG 7 (Clean and Affordable Energy), SDG 12 (Responsible Consumption and Production) and SDG 13 (Climate Action), will assist policymakers in Nigeria to make appropriate policies within the climate change space.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405844023068688"
+  },
+  {
+    "title": "Synoptic control on snow avalanche activity in central Spitsbergen",
+    "authors": [
+      "H. Hancock,",
+      "H. Hancock,",
+      "J. Hendrikx,",
+      "M. Eckerstorfer,",
+      "M. Eckerstorfer,",
+      "S. Wickström"
+    ],
+    "doi": "https://doi.org/10.5194/tc-15-3813-2021",
+    "journalVolume": "Vol. 15\n                                \n                                \n                                  pp.\n                                  3813\n                                  – 3837",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Atmospheric circulation exerts an important control on a region's snow avalanche activity by broadly determining the mountain weather patterns that influence snowpack development and avalanche release. In central Spitsbergen, the largest island in the High Arctic Svalbard archipelago, avalanches are a common natural hazard throughout the winter months. Previous work has identified a unique snow climate reflecting the region's climatically dynamic environmental setting but has not specifically addressed the synoptic-scale control of atmospheric circulation on avalanche activity here. In this work, we investigate atmospheric circulation's control on snow avalanching in the Nordenskiöld Land region of central Spitsbergen by first constructing a four-season (2016/2017–2019/2020) regional avalanche activity record using observations available on a database used by the Norwegian Water Resources and Energy Directorate (NVE). We then analyze the synoptic atmospheric conditions on days with differing avalanche activity situations. Our results show atmospheric circulation conducive to elevated precipitation, wind speeds, and air temperatures near Svalbard are associated with increased avalanche activity in Nordenskiöld Land, but different synoptic signals exist for days characterized by dry, mixed, and wet avalanche activity. Differing upwind conditions help further explain differences in the frequency and nature of avalanche activity resulting from these various atmospheric circulation patterns. We further employ a daily atmospheric circulation calendar to help contextualize our results in the growing body of literature related to climate change in this location. This work helps expand our understanding of snow avalanches in Svalbard to a broader spatial scale and provides a basis for future work investigating the impacts of climate change on avalanche activity in Svalbard and other locations where avalanche regimes are impacted by changing climatic and synoptic conditions.",
+    "readLink": "https://tc.copernicus.org/articles/15/3813/2021/tc-15-3813-2021.pdf"
+  },
+  {
+    "title": "Most Southern Scots Pine Populations Are Locally Adapted to Drought for Tree Height Growth",
+    "authors": [
+      "Natalia Vizcaíno-Palomar,",
+      "Noelia González-Muñoz,",
+      "Santiago C. González-Martínez,",
+      "Ricardo Alía,",
+      "Marta Benito Garzón"
+    ],
+    "doi": "https://doi.org/10.3390/f10070555",
+    "journalVolume": "Vol. 10,\n                                no. 7\n                                \n                                  p.\n                                  555",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Most populations of Scots pine in Spain are locally adapted to drought, with only a few populations at the southernmost part of the distribution range showing maladaptations to the current climate. Increasing tree heights are predicted for most of the studied populations by the year 2070, under the RCP 8.5 scenario. These results are probably linked to the capacity of this species to acclimatize to new climates. The impact of climate change on tree growth depends on many processes, including the capacity of individuals to respond to changes in the environment. Pines are often locally adapted to their environments, leading to differences among populations. Generally, populations at the margins of the species’ ranges show lower performances in fitness-related traits than core populations. Therefore, under expected changes in climate, populations at the southern part of the species’ ranges could be at a higher risk of maladaptation. Here, we hypothesize that southern Scots pine populations are locally adapted to current climate, and that expected changes in climate may lead to a decrease in tree performance. We used Scots pine tree height growth data from 15-year-old individuals, measured in six common gardens in Spain, where plants from 16 Spanish provenances had been planted. We analyzed tree height growth, accounting for the climate of the planting sites, and the climate of the original population to assess local adaptation, using linear mixed-effect models. We found that: (1) drought drove differences among populations in tree height growth; (2) most populations were locally adapted to drought; (3) tree height was predicted to increase for most of the studied populations by the year 2070 (a concentration of RCP 8.5). Most populations of Scots pine in Spain were locally adapted to drought. This result suggests that marginal populations, despite inhabiting limiting environments, can be adapted to the local current conditions. In addition, the local adaptation and acclimation capacity of populations can help margin populations to keep pace with climate change. Our results highlight the importance of analyzing, case-by-case, populations’ capacities to cope with climate change.",
+    "readLink": "https://www.mdpi.com/1999-4907/10/7/555"
+  }
+]

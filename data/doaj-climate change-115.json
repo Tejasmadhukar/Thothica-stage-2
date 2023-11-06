@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Metabarcoding of zooplankton to derive indicators of pelagic ecosystem status",
+    "authors": [
+      "Jenny A. Huggett,",
+      "Johan C. Groeneveld,",
+      "Sohana P. Singh,",
+      "Sandi Willows-Munro,",
+      "Ashrenee Govender,",
+      "Riaan Cedras,",
+      "Shaun H.P. Deyzel"
+    ],
+    "doi": "https://doi.org/10.17159/sajs.2022/12977",
+    "journalVolume": "Vol. 118,\n                                no. 11/12",
+    "issn": "0038-2353 (Print)",
+    "publisher": "1996-7489 (Online)",
+    "countryOfPublisher": "Academy of Science of South Africa",
+    "lcc": [
+      "South Africa",
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.sajs.co.za",
+    "abstract": "Zooplankton play a key role in marine food webs and carbon cycling and are useful indicators of climaterelated changes and ocean health in pelagic ecosystems. Zooplankton are traditionally identified to species through microscopy, but new molecular techniques have enabled the identification of individual specimens (DNA barcoding) or multiple species in the same sample (DNA metabarcoding). Metabarcoding has been tested and refined using zooplankton collected in South African waters for the first time. Challenges to the implementation of DNA-based methods to measure zooplankton biodiversity easily and routinely include an incomplete DNA barcode reference library, logistical complexity and uptake of the new technology by environmental management agencies. These challenges call for a national effort to intensify zooplankton barcoding initiatives and to effectively engage stakeholders in developing a roadmap towards application of DNA-based methods in marine environmental management. Significance: • Metabarcoding has been successfully applied to marine zooplankton for the first time in South Africa, demonstrating its potential as a tool to generate ecosystem indicators during routine ocean observations. • National barcoding efforts must be intensified to provide a comprehensive reference library of zooplankton DNA. • Effective engagement with stakeholders is required to overcome logistical and policy challenges, and to provide a roadmap towards application of DNA-based methods in marine environmental management.",
+    "readLink": "https://sajs.co.za/article/view/12977"
+  },
+  {
+    "title": "Links between the Big Dry in Australia and hemispheric multi-decadal climate variability &ndash; implications for water resource management",
+    "authors": [
+      "D. C. Verdon-Kidd,",
+      "A. S. Kiem,",
+      "R. Moran"
+    ],
+    "doi": "https://doi.org/10.5194/hess-18-2235-2014",
+    "journalVolume": "Vol. 18,\n                                no. 6\n                                \n                                  pp.\n                                  2235\n                                  – 2256",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Southeast Australia (SEA) experienced a protracted drought during the mid-1990s until early 2010 (known as the Big Dry or Millennium Drought) that resulted in serious environmental, social and economic effects. This paper analyses a range of historical climate data sets to place the recent drought into context in terms of Southern Hemisphere inter-annual to multi-decadal hydroclimatic variability. The findings indicate that the recent Big Dry in SEA is in fact linked to the widespread Southern Hemisphere climate shift towards drier conditions that began in the mid-1970s. However, it is shown that this link is masked because the large-scale climate drivers responsible for drying in other regions of the mid-latitudes since the mid-1970s did not have the same effect on SEA during the mid- to late 1980s and early 1990s. More specifically, smaller-scale synoptic processes resulted in elevated autumn and winter rainfall (a crucial period for SEA hydrology) during the mid- to late 1980s and early 1990s, which punctuated the longer-term drying. From the mid-1990s to 2010 the frequency of the synoptic processes associated with elevated autumn/winter rainfall decreased, resulting in a return to drier than average conditions and the onset of the Big Dry. The findings presented in this paper have marked implications for water management and climate attribution studies in SEA, in particular for understanding and dealing with \"baseline\" (i.e. current) hydroclimatic risks.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/18/2235/2014/hess-18-2235-2014.pdf"
+  },
+  {
+    "title": "Virtual screening of anti-HIV1 compounds against SARS-CoV-2: machine learning modeling, chemoinformatics and molecular dynamics simulation based analysis",
+    "authors": [
+      "Mahesha Nand,",
+      "Priyanka Maiti,",
+      "Tushar Joshi,",
+      "Subhash Chandra,",
+      "Veena Pande,",
+      "Jagdish Chandra Kuniyal,",
+      "Muthannan Andavar Ramakrishnan"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-020-77524-x",
+    "journalVolume": "Vol. 10,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract COVID-19 caused by the SARS-CoV-2 is a current global challenge and urgent discovery of potential drugs to combat this pandemic is a need of the hour. 3-chymotrypsin-like cysteine protease (3CLpro) enzyme is the vital molecular target against the SARS-CoV-2. Therefore, in the present study, 1528 anti-HIV1compounds were screened by sequence alignment between 3CLpro of SARS-CoV-2 and avian infectious bronchitis virus (avian coronavirus) followed by machine learning predictive model, drug-likeness screening and molecular docking, which resulted in 41 screened compounds. These 41 compounds were re-screened by deep learning model constructed considering the IC50 values of known inhibitors which resulted in 22 hit compounds. Further, screening was done by structural activity relationship mapping which resulted in two structural clefts. Thereafter, functional group analysis was also done, where cluster 2 showed the presence of several essential functional groups having pharmacological importance. In the final stage, Cluster 2 compounds were re-docked with four different PDB structures of 3CLpro, and their depth interaction profile was analyzed followed by molecular dynamics simulation at 100 ns. Conclusively, 2 out of 1528 compounds were screened as potential hits against 3CLpro which could be further treated as an excellent drug against SARS-CoV-2.",
+    "readLink": "https://doi.org/10.1038/s41598-020-77524-x"
+  },
+  {
+    "title": "Cluster and Redundancy Analyses of Taiwan Upstream Watersheds Based on Monthly 30 Years AVHRR NDVI3g Data",
+    "authors": [
+      "Hui Ping Tsai,",
+      "Wei-Ying Wong"
+    ],
+    "doi": "https://doi.org/10.3390/atmos12091206",
+    "journalVolume": "Vol. 12,\n                                no. 1206\n                                \n                                  p.\n                                  1206",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "The study uses 30 years of the third generation of Advanced Very-High-Resolution Radiometer (AVHRR) NDVI3g monthly data from 1982 to 2012 to identify the natural clusters and important driving factors of the upstream watersheds in Taiwan through hierarchical cluster analysis (HCA) and redundancy analysis (RDA), respectively. Subsequently, as a result of HCA, six clusters were identified based on the 30 years of monthly NDVI data, delineating unique NDVI characteristics of the upstream watersheds. Additionally, based on the RDA results, environmental factors, including precipitation, temperature, slope, and aspect, can explain approximately 52% of the NDVI variance over the entire time series. Among environmental factors, nine factors were identified significantly through RDA analysis for explaining NDVI variance: average slope, temperature, flat slope, northeast-facing slope, rainfall, east-facing slope, southeast-facing slope, west-facing slope, and northwest-facing slope, which reflect an intimate connection between climatic and orthographic factors with vegetation. Furthermore, the rainfall and temperature represent different variations in all scenarios and seasons. With consideration of the characteristics of the clusters and significant environmental factors, corresponding climate change adaptation strategies are proposed for each cluster under climate change scenarios. Thus, the results provide insight to assess the natural clustering of the upstream watersheds in Taiwan, benefitting future sustainable watershed management.",
+    "readLink": "https://www.mdpi.com/2073-4433/12/9/1206"
+  },
+  {
+    "title": "Alteration of the Ecohydrological Status of the Intermittent Flow Rivers and Ephemeral Streams due to the Climate Change Impact (Case Study: Tsiknias River)",
+    "authors": [
+      "Soumaya Nabih,",
+      "Ourania Tzoraki,",
+      "Prodromos Zanis,",
+      "Thanos Tsikerdekis,",
+      "Dimitris Akritidis,",
+      "Ioannis Kontogeorgos,",
+      "Lahcen Benaabidate"
+    ],
+    "doi": "https://doi.org/10.3390/hydrology8010043",
+    "journalVolume": "Vol. 8,\n                                no. 43\n                                \n                                  p.\n                                  43",
+    "issn": "2306-5338 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/hydrology",
+    "abstract": "Climate change projections predict the increase of no-rain periods and storm intensity resulting in high hydrologic alteration of the Mediterranean rivers. Intermittent flow Rivers and Ephemeral Streams (IRES) are particularly vulnerable to spatiotemporal variation of climate variables, land use changes and other anthropogenic factors. In this work, the impact of climate change on the aquatic state of IRES is assessed by the combination of the hydrological model Soil and Water Assessment Tool (SWAT) and the Temporary Rivers Ecological and Hydrological Status (TREHS) tool under two different Representative Concentration Pathways (RCP 4.5 and RCP 8.5) using CORDEX model simulations. A significant decrease of 20–40% of the annual flow of the examined river (Tsiknias River, Greece) is predicted during the next 100 years with an increase in the frequency of extreme flood events as captured with almost all Regional Climate Models (RCMs) simulations. The occurrence patterns of hyporheic and edaphic aquatic states show a temporal extension of these states through the whole year due to the elongation of the dry period. A shift to the Intermittent-Pools regime type shows dominance according to numerous climate change scenarios, harming, as a consequence, both the ecological system and the social-economic one.",
+    "readLink": "https://www.mdpi.com/2306-5338/8/1/43"
+  },
+  {
+    "title": "Environmental sustainability in Swiss sports federations – A case study on agenda setting, policy formulation and decision making processes",
+    "authors": [
+      "Sarah Piller,",
+      "Siegfried Nagel"
+    ],
+    "doi": "https://doi.org/10.36950/2023.2ciss027",
+    "journalVolume": "Vol. 8,\n                                no. 2",
+    "issn": "2414-6641 (Online)",
+    "publisher": "Bern Open Publishing",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Recreation. Leisure: Sports",
+      "Medicine: Internal medicine: Special situations and conditions: Sports medicine"
+    ],
+    "journalUrl": "https://bop.unibe.ch/ciss)",
+    "abstract": "Introduction Nonprofit sports organisations are valuable sports providers in most European countries. In 2017, there were over 60 million European active sports club members (Nagel et al., 2020). Through the consumption behaviour of this great number of people practicing sports, sport might have a negative impact on the environment (McCullough et al., 2020). Therefore, national sports federations (NSFs), overarching the sports clubs and engaging in sports policy issues, could be crucial when it comes to taking measures concerning the environmental sustainability of sports. Indeed, several NSFs have already launched programmes for environmental sustainability (e.g. Swiss Hang- and Paragliding Association [SHV]). This might be somehow surprising, since the nonprofit organised sport is traditionally primarily committed to the interests of its members and the sport as its core business (Thiel & Mayer, 2009). Thus, the following study addresses the questions, to what extend policies of environmental sustainability appear on the agendas of NSFs and which driving factors are relevant for its agenda setting, formulation and subsequent decision making. Knowledge about those processes is especially important since they are prerequisites for the implementation of environmental policies. Literature review and theoretical background Concerning nonprofit sports organisations and sustainable development, especially the field of social sustainability (e.g. Nagel et al., 2020) has been widely researched. Environmental sustainability however has only limitedly been analysed in this context. Describing the current state of commitment of NSFs to environmental sustainability, it has been found that Belgian NSFs show a rather low commitment, whereas low-intensity initiatives (e.g. recycling of sport equipment) constitute the majority of the identified actions (Hugaerts et al., 2022). The same pattern could be shown in Scandinavia. Sandvik and Seippel (2022) explain this partly with the absence of NSFs’ perceived urgence of environmental problems with direct consequences for the associations’ activities and the lack of institutional pressures. However, so far, there is hardly any knowledge about which factors are relevant for environmental policies being set on NSFs’ agendas, formulated, and decided upon, even though those processes are important as they precede the actual implementation of policies. Considering agenda setting, policy formulation and decision making processes, this study is based on the Multiple Streams Approach with two coupling phases (MSA) of Herweg et al. (2015). For “an ideas’ time to come”, the approach identifies the coupling of three different processes as important. Policies arise, when issues are perceived as problematic (problem stream; e.g. image issues) and depend on the political context of the policy and agenda (political stream, e.g. composition of board). The policy stream contains existing ideas and enables the survival of certain ideas (e.g. idea of developing a climate strategy). Finally, policy entrepreneurs’ agency is necessary to couple the streams and create agenda windows, which allow items to rise onto the decision agenda. In a following second phase, the re-coupling of the same streams and engagement of policy entrepreneurs enables policies to be formulated, decided upon, and eventually be implemented. Methods To observe those processes, we decided to conduct an in-depth qualitative case study with a NSF, that has recently discussed, formulated, and decided upon environmental policies. Since the hang- and paragliding sport is depending on a natural environment affected by climate change, the SHV seemed to be an interesting case for our study, where such processes might already have taken place. The association is committed to the interests and sustainable practice of free flight. It has 112 club and 20,000 individual members, maintains an office with 14 employees and is headed by a board of directors, currently with seven members. Document- and archive entries allowed us a first overview of existing measures of environmental sustainability and the appearance of the topic on the NSF’s agenda. We conducted semi-structured expert interviews with six decision makers of the SHV and with a representative of the umbrella organisation of the Swiss sports system to gain a deeper understanding of the agenda setting, formulation and decision making of environmental policies in the SHV. We then applied causation coding (Miles et al., 2020) to analyse the data, considering a data-led as well as a theory-based coding process along the concept of the MSA. Findings The SHV's commitment to environmental sustainability is based primarily on two pillars: the protection of biodiversity and access to nature on one hand and climate commitment on the other. Whereas voluntary agreements about wildlife rest areas have been made since 1995, climate protection policies are broadly discussed as a part of the strategy and implemented on an operative basis in different departments since the creation of the position of an environmental officer in 2017. If not forced by external political pressure (e.g. flight restrictions), the agenda setting of environmental sustainability (e.g. climate commitment) in the SHV seems to be pushed primarily by the engagement of individual policy entrepreneurs. Policy entrepreneurs thereby mainly highlight the importance of addressing the issue to ensure the long-term survival of the sport and the association (problem stream). The perceived member interests seem to be able to facilitate or impede the agenda setting of the topic (political stream). Nevertheless, members do not appear to be the central entrepreneurs when it comes to actively promoting policies of environmental sustainability onto the agenda. The ideas for such policies rather seem to be found in the practice of similar other NSFs (policy stream). The board of management seems to be less crucial for this process of agenda setting. When it comes to formulation and decision making however, the importance of the board of management is structurally implied. Even though the General Assembly approves amendments and the management of the board, the latter issues directives. Since members of the board do not yet seem to have the necessary knowledge about environmental sustainability to feel competent enough to make the required decisions, thorough information provided by the environmental officers appears to be important. Actors of the association describe policy formulation as a long process, where, in order to make the members of the board feel comfortable enough to make decisions, policies of environmental sustainability “must become a topic first over time”. When it comes to decision making about environmental policies, the (political) background of the members of the board are crucial and can promote or hinder certain decisions. Nevertheless, after getting enough information, suggestions from the administrative office are mostly accepted. Discussion Therefore, engaged policy entrepreneurs seem to be crucial for agenda setting, formulation and, through the impact of their suggestions, decision making processes of environmental policies in the SHV. Policy entrepreneurs do show engagement for their favoured policies even if they are not responsible for that specific topic in the association, but the structural implication of positions in connection with sport- and socio-political developments can additionally promote environmental policies. Even though the agenda setting of such policies does not seem to be a bottom-up process, consistent with the understanding of NSFs as interest-oriented organisations, perceived member interests are central in all three processes. Thereby functional objectives (e.g. enabling sport) are predominant to normative reasons (e.g. environmental responsibility). Furthermore, there seem to be processes that might be explained by the concept of mimetic isomorphism (DiMaggio & Powell, 1983), i.e. the orientation towards practices of similar NSFs in order to gain legitimacy. This pilot study allows an in-depth investigation and enables a first review of the used theoretical and methodological approach. It identifies crucial factors when promoting the agenda setting, formulation and decision making for environmental sustainability in NSFs and utilising the potential of the nonprofit organised sports setting and its leverage in society. It is presented as part of a broader follow-up multiple case study with eight NSFs and a cross-case comparison. Further research must be conducted to allow statements about other types of NSFs (e.g. other types of professionalisation, indoor sports) and further stages of the policy cycle, i.e. the implementation of the policies. References DiMaggio, P. J., & Powell, W. W. (1983). The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields. American Sociological Review, 48(2), 147–160. Herweg, N., Huss, C., & Zohlnhöfer, R. (2015). Straightening the three streams: Theorising extensions of the multiple streams framework. European Journal of Political Research, 54(3), 435–449. https://doi.org/10.1111/1475-6765.12089 Hugaerts, I., Scheerder, J., Zeimers, G., Corthouts, J., van de Sype, C., & Könecke, T. (2022). Are sport organisations environmentally sustainable? A website analysis of sport federations in Belgium. European Sport Management Quarterly. Advance online publication. https://doi.org/10.1080/16184742.2022.2093391 McCullough, B. P., Orr, M., & Watanabe, N. M. (2020). Measuring externalities: The imperative next step to sustainability assessment in sport. Journal of Sport Management, 34(5), 393–402. https://doi.org/10.1123/jsm.2019-0254 Miles, M. B., Huberman, A. M., & Saldaña, J. (2020). Qualitative data analysis: A methods sourcebook (4th ed.). SAGE. Nagel, S., Elmose-Østerlund, K., Ibsen, B., & Scheerder, J. (Eds.). (2020). Functions of Sports Clubs in European Societies: A Cross-National Comparative Study. Springer. Sandvik, M. R., & Seippel, Ø. (2022). Framing of environmental issues in voluntary sport organizations. Environmental Politics. Advance online publication. https://doi.org/10.1080/09644016.2022.2075152 Thiel, A., & Mayer, J. (2009). Characteristics of voluntary sports clubs management: A sociological perspective. European Sport Management Quarterly, 9(1), 81-98. https://doi.org/10.1080/16184740802461744",
+    "readLink": "https://ciss-journal.org/article/view/9316"
+  },
+  {
+    "title": "DRASTICAI, a New Index for Groundwater Vulnerability Assessment—A Portuguese Case Study",
+    "authors": [
+      "Teresa Albuquerque,",
+      "Natália Roque,",
+      "Joana Rodrigues,",
+      "Margarida Antunes,",
+      "Catarina Silva"
+    ],
+    "doi": "https://doi.org/10.3390/geosciences11060228",
+    "journalVolume": "Vol. 11,\n                                no. 228\n                                \n                                  p.\n                                  228",
+    "issn": "2076-3263 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/geosciences",
+    "abstract": "Groundwater vulnerability assessment has become a useful tool for groundwater pollution prevention. Groundwater vulnerability maps provide useful data for protecting groundwater resources. Identification of agricultural patterns is an important issue for optimized land management. The watershed of the Tagus River is the backbone of this study. Naturtejo UNESCO Global Geopark, in the central interior of Portugal, corresponds to a rural area. Intensive agricultural practices showed an increasing trend in the last decades. The method that is most used internationally to assess vulnerability is the DRASTIC index. In this study, the DRASTICAI index is introduced. A new attribute—anthropogenic influence—is added here. Five levels of increasing vulnerability, from low to high, can be recognized here. The municipality of Idanha-a-Nova is most affected by intensive agricultural activities, showing spatial patterns of DRASTICAI with a clear influence of anthropogenic activities, with high needs for groundwater abstraction. A robust assessment of groundwater quality has a key role. Climate change scenarios and water scarcity are important issues in the coming years, and particularly in the studied area. Therefore, optimized groundwater management is essential to consider in policy-making strategies.",
+    "readLink": "https://www.mdpi.com/2076-3263/11/6/228"
+  },
+  {
+    "title": "Analysis of carbon dioxide emissions, energy consumption, and economic growth in China",
+    "authors": [
+      "Abrham Tezera Gessesse,",
+      "Ge He"
+    ],
+    "doi": "https://doi.org/10.17221/258/2019-AGRICECON",
+    "journalVolume": "Vol. 66,\n                                no. 4\n                                \n                                  pp.\n                                  183\n                                  – 192",
+    "issn": "0139-570X (Print)",
+    "publisher": "1805-9295 (Online)",
+    "countryOfPublisher": "Czech Academy of Agricultural Sciences",
+    "lcc": [
+      "Czechia",
+      "Agriculture"
+    ],
+    "journalUrl": "https://agricecon.agriculturejournals.cz/",
+    "abstract": "This study examines the nexus of carbon dioxide (CO2) emissions, energy consumption (EC) and gross domestic products (GDP), using an Autoregressive Distributed Lag (ARDL) bounds test approach of co-integration and error-correction model (ECM) for the period 1971-2015. The aim of the research is to i) examine the relationship between CO2 and GDP as \"cross-coupling, relative decoupling, or absolute decoupling,\" and validate the existence of the Environmental Kuznets Curve (EKC) hypothesis; ii) detect causality between CO2 emissions, EC, and GDP, and scrutinize their impacts. The ARDL results confirm a long-run and short-run co-integration relationship between the variables. The relationship between CO2 emissions and GDP is \"relatively decoupling,\" and the EKC exists in China. Its CO2 emissions are more explained by EC and contribute twofold of GDP. In the long run, there was significant negative causality from CO2 emission and GDP to EC. This indicates Chinese economic development structure should be re-designed towards energy-saving and decarbonized economic structure. Moreover, the central and provincial governments of China should synchronize optimal energy utilization and green economic structure to mitigate environmental deterioration and climate change.",
+    "readLink": "https://agricecon.agriculturejournals.cz/artkey/age-202004-0005_analysis-of-carbon-dioxide-emissions-energy-consumption-and-economic-growth-in-china.php"
+  },
+  {
+    "title": "The sign and magnitude of the effects of thermal extremes on an intertidal kelp depend on environmental and biological context",
+    "authors": [
+      "Jennifer Jorve Hoos,",
+      "Christopher D.G. Harley"
+    ],
+    "doi": "Vol. 2\n                                \n                                \n                                  p.\n                                  100015",
+    "issn": "2666-9005 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-change-ecology",
+    "abstract": "Predicted shifts in mean and extreme temperatures associated with climate change can have variable impacts on organisms, and the sign and magnitude of these impacts may depend upon local context. For Hedophyllum sessile, a habitat-forming intertidal kelp, the impacts of warming may vary with local density and position in the intertidal zone. To assess the potential context-dependence of warming, we manipulated H. sessile densities across an intertidal gradient and experimentally imposed periodic thermal stress in the field. The recruitment of H. sessile juveniles was unimodally related to shore level, peaking near the center of the species’ vertical distribution and falling off at the upper and lower distributional limits. Experimental warming tended to have mildly positive effects on recruitment lower on the shore regardless of adult density, and in upper zone, high density plots. However, warming had strongly negative effects on recruitment in upper zone, low density plots. Temperature manipulations also had context-specific effects on adult plant growth; seasonal increases in blade number and canopy cover were slightly enhanced by warming in high-density plots but greatly reduced by warming in low-density plots. Finally, experimental heating had context-dependent effects on an understory herbivore, the chiton Katharina tunicata, which increased in abundance following heating in high density plots but decreased in low density plots. Our results demonstrate that extreme temperature events can affect multiple species and multiple life history stages, and that the impacts of such events can depend upon both environmental (e.g. intertidal height) and biological (e.g. adult density) context.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666900521000150"
+  },
+  {
+    "title": "Recent Fragmentation May Not Alter Genetic Patterns in Endangered Long-Lived Species: Evidence From Taxus cuspidata",
+    "authors": [
+      "Jinyuan Su,",
+      "Yu Yan,",
+      "Jia Song,",
+      "Junqing Li,",
+      "Jianfeng Mao,",
+      "Nian Wang,",
+      "Wenting Wang,",
+      "Fang K. Du"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2018.01571",
+    "journalVolume": "Vol. 9",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Forestland fragmentation caused by overexploitation of forest resources can in principle reduce genetic diversity, limit gene flow and eventually lead to species developing strong genetic structure. However, the genetic consequences of recent anthropogenic fragmentation of tree species remain unclear. Taxus cuspidata, which has extremely small populations distributed mainly in Changbai Mt. in Northeast (NE) China, has recently endured severe habitat fragmentation. Here, we investigate the pattern of genetic diversity and structure, identify risk factors, predict the future distribution and finally provide guidelines for the conservation and management of this species. We used three chloroplast and two mitochondrial DNA fragments, which are both paternally inherited in yews but differ in mutation rates, to genotype a total of 265 individuals from 26 populations covering the distribution of the species in China. Both chloroplast and mitochondrial data showed high degrees of genetic diversity, extensive gene flow over the entire geographical range and historical stability of both effective population size and distribution of the species. However, ecological niche modeling suggests a decrease in suitable areas for this species by the years 2050 and 2070. The maintenance of high genetic diversity and the existence of sufficient gene flow suggest that recent fragmentation has not affected the genetic composition of the long-lived tree T. cuspidata. However, severe impacts of anthropogenic activities are already threatening the species. Conservation and management strategies should be implemented in order to protect the remnant populations.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2018.01571/full"
+  }
+]

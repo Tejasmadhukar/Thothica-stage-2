@@ -1,0 +1,204 @@
+[
+  {
+    "title": "Climate change and their consequences on coastal zone of Ain el Turck in Oran",
+    "authors": [
+      "Mohammed Tewfik Bouroumi,",
+      "Malika Kacemi,",
+      "Walid Hamma"
+    ],
+    "doi": "Vol. 8,\n                                no. 4\n                                \n                                  pp.\n                                  355\n                                  – 364",
+    "issn": "2069-0509 (Print)",
+    "publisher": "2069-6469 (Online)",
+    "countryOfPublisher": "NR&DI URBAN-INCERC",
+    "lcc": [
+      "Romania",
+      "Fine Arts: Architecture"
+    ],
+    "journalUrl": "http://uac.incd.ro/EN/index.htm",
+    "abstract": "Algeria does not escape the problem of the climate change, its geographical position in zone of transition, and its dry and semi-arid climate, in fact a very vulnerable space. In Algeria, approximately two thirds of the population is concentrated on the coast which represents only 4 % of the territory. The Mediterranean coast, in particular in Algeria, is subjected to pressures: financial stakes, climatic risks, pollutions and conservation of the water. It is on the basis of the critical and objective report with regard to a wild urbanization of the Algerian coast as well as the influence of the demographic pressure that the choice of the search for this article was held. This publication has for objective to raise (to draw up) a current situation (inventory of fixtures) of the sector of the environment in Algeria and to present through the case of the coastal city of Oran the consequences of climate change. We propose, to review the situation through the case of the municipality of Ain El Türck, by basing itself on data relative to the evolution of the temperatures and the sea level.",
+    "readLink": "http://uac.incd.ro/Art/v8n4a04.pdf"
+  },
+  {
+    "title": "Real-Time Urban Inundation Prediction Combining Hydraulic and Probabilistic Methods",
+    "authors": [
+      "Hyun Il Kim,",
+      "Ho Jun Keum,",
+      "Kun Yeun Han"
+    ],
+    "doi": "https://doi.org/10.3390/w11020293",
+    "journalVolume": "Vol. 11,\n                                no. 2\n                                \n                                  p.\n                                  293",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Damage caused by flash floods is increasing due to urbanization and climate change, thus it is important to recognize floods in advance. The current physical hydraulic runoff model has been used to predict inundation in urban areas. Even though the physical calculation process is astute and elaborate, it has several shortcomings in regard to real-time flood prediction. The physical model requires various data, such as rainfall, hydrological parameters, and one-/two-dimensional (1D/2D) urban flood simulations. In addition, it is difficult to secure lead time because of the considerable simulation time required. This study presents an immediate solution to these problems by combining hydraulic and probabilistic methods. The accumulative overflows from manholes and an inundation map were predicted within the study area. That is, the method for predicting manhole overflows and an inundation map from rainfall in an urban area is proposed based on results from hydraulic simulations and uncertainty analysis. The Second Verification Algorithm of Nonlinear Auto-Regressive with eXogenous inputs (SVNARX) model is used to learn the relationship between rainfall and overflow, which is calculated from the U.S. Environmental Protection Agency’s Storm Water Management Model (SWMM). In addition, a Self-Organizing Feature Map (SOFM) is used to suggest the proper inundation area by clustering inundation maps from a 2D flood simulation model based on manhole overflow from SWMM. The results from two artificial neural networks (SVNARX and SOFM) were estimated in parallel and interpolated to provide prediction in a short period of time. Real-time flood prediction with the hydraulic and probabilistic models suggested in this study improves the accuracy of the predicted flood inundation map and secures lead time. Through the presented method, the goodness of fit of the inundation area reached 80.4% compared with the verified 2D inundation model.",
+    "readLink": "https://www.mdpi.com/2073-4441/11/2/293"
+  },
+  {
+    "title": "Polar bears are inefficient predators of seabird eggs",
+    "authors": [
+      "Patrick M. Jagielski,",
+      "Cody J. Dey,",
+      "H. Grant Gilchrist,",
+      "Evan S. Richardson,",
+      "Oliver P. Love,",
+      "Christina A. D. Semeniuk"
+    ],
+    "doi": "https://doi.org/10.1098/rsos.210391",
+    "journalVolume": "Vol. 8,\n                                no. 4",
+    "issn": "2054-5703 (Online)",
+    "publisher": "The Royal Society",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://royalsocietypublishing.org/journal/rsos",
+    "abstract": "Climate-mediated sea-ice loss is disrupting the foraging ecology of polar bears (Ursus maritimus) across much of their range. As a result, there have been increased reports of polar bears foraging on seabird eggs across parts of their range. Given that polar bears have evolved to hunt seals on ice, they may not be efficient predators of seabird eggs. We investigated polar bears' foraging performance on common eider (Somateria mollissima) eggs on Mitivik Island, Nunavut, Canada to test whether bear decision-making heuristics are consistent with expectations of optimal foraging theory. Using aerial-drones, we recorded multiple foraging bouts over 11 days, and found that as clutches were depleted to completion, bears did not exhibit foraging behaviours matched to resource density. As the season progressed, bears visited fewer nests overall, but marginally increased their visitation to nests that were already empty. Bears did not display different movement modes related to nest density, but became less selective in their choice of clutches to consume. Lastly, bears that capitalized on visual cues of flushing eider hens significantly increased the number of clutches they consumed; however, they did not use this strategy consistently or universally. The foraging behaviours exhibited by polar bears in this study suggest they are inefficient predators of seabird eggs, particularly in the context of matching behaviours to resource density.",
+    "readLink": "https://royalsocietypublishing.org/doi/10.1098/rsos.210391"
+  },
+  {
+    "title": "Performance of municipal waste stabilization ponds in the Saharan desert (Morocco)",
+    "authors": [
+      "Badre Achag,",
+      "Hind Mouhanni,",
+      "Abdelaziz Bendou"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2023.339",
+    "journalVolume": "Vol. 14,\n                                no. 6\n                                \n                                  pp.\n                                  1741\n                                  – 1761",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "The majority of cities in the Saharan territory of south Morocco utilize waste stabilization ponds (WSPs) for municipal wastewater treatment because of their relatively low capital, operational costs, and minimal complexity. New national effluent quality regulations have been implemented in Morocco, and they will be applied to all treatment systems. In this study, we chose three cities that are located in the Saharan area characterized by an arid climate and water scarcity. They are facing the challenges of rapid urbanization and the need to improve wastewater treatment and management. Treatment performance is impacted by community water use, pond design, and climate. The performance evaluation concerns seven physicochemical parameters during the year 2020. Monitoring results showed that WSPs in this climate can achieve removal rates between 75% and 85% for organic pollution and total suspended matter, but were challenged to produce effluent quality that meets reuse standards. Performance and statistical analysis have been done and confirm the existence of correlations between these parameters and the climate of the region. For the improvement of the quality of these waters, it is legitimate to upgrade the three WSPs with a tertiary treatment with maturation ponds. HIGHLIGHTS Waste stabilization ponds (WSPs) have relatively low capital, operational costs, and minimal complexity.; Arid climate and water scarcity in poor countries.; Effluent quality that meets reuse standards can be produced by WSPs.; Performance and statistical analysis have been done and confirm the existence of correlations between pollution parameters and the climate of the region.; Upgrading WSPs to meet reuse standards.;",
+    "readLink": "http://jwcc.iwaponline.com/content/14/6/1741"
+  },
+  {
+    "title": "Forest Fire Regime in a Mediterranean Ecosystem: Unraveling the Mutual Interrelations between Rainfall Seasonality, Soil Moisture, Drought Persistence, and Biomass Dynamics",
+    "authors": [
+      "Nunzio Romano,",
+      "Nadia Ursino"
+    ],
+    "doi": "https://doi.org/10.3390/fire3030049",
+    "journalVolume": "Vol. 3,\n                                no. 49\n                                \n                                  p.\n                                  49",
+    "issn": "2571-6255 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/fire",
+    "abstract": "Frequent and severe droughts typically intensify wildfires provided that there is enough fuel in situ. The extent to which climate change may influence the fire regime and long time-scale hydrological processes may soften the effect of inter-annual climate change and, more specifically, whether soil-water retention capacity can alleviate the harsh conditions resulting from droughts and affect fire regimes, are still largely unexplored matters. The research presented in this paper is a development of a previous investigation and shows in what way, and to what extent, rainfall frequency, dry season length, and hydraulic response of different soil types drive forest fires toward different regimes while taking into consideration the typical seasonality of the Mediterranean climate. The soil-water holding capacity, which facilitates biomass growth in between fire events and hence favors fuel production, may worsen the fire regime as long dry summers become more frequent, such that the ecosystem’s resilience to climate shifts may eventually be undermined.",
+    "readLink": "https://www.mdpi.com/2571-6255/3/3/49"
+  },
+  {
+    "title": "Trends and Extremes Analysis of Daily Weather Data from a Site in the Capitanata Plain (Southern Italy)",
+    "authors": [
+      "Domenico Vitale,",
+      "Gianfranco Rana,",
+      "Pietro Soldo"
+    ],
+    "doi": "https://doi.org/10.4081/ija.2010.133",
+    "journalVolume": "Vol. 5,\n                                no. 2",
+    "issn": "1125-4718 (Print)",
+    "publisher": "2039-6805 (Online)",
+    "countryOfPublisher": "PAGEPress Publications",
+    "lcc": [
+      "Italy",
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://www.agronomy.it",
+    "abstract": "The impacts of the climate change for agriculture is an ambitious and unresolved topic due to the complexity of the natural phenomena. The high variability of the Mediterranean basin does not allow us to generalize with enough certainty the results obtained from other researches and other locations. Therefore, a site specific analysis in Capitanata plain was conducted. The aim is to provide a detailed picture of recent change in climate regime in one of the most important agricultural area of South Italy. Climate analysis was carried out and several indices of extreme events were studied on the basis of temperature and precipitation observations registered at experimental station ‘Podere 124’ (CRA-SCA). The period under study is 1979-2008. Increasing trends were identified for the summer season with an intensification of the number of heat waves.",
+    "readLink": "https://www.agronomy.it/index.php/agro/article/view/99"
+  },
+  {
+    "title": "Graphic Global Weirding Scenarios for ASEAN’s Capital Cities",
+    "authors": [
+      "Alan Marshall,",
+      "Mark Stephan Felix,",
+      "Kanang Kantamaturapoj,",
+      "Nanthawan Kaenkaew"
+    ],
+    "doi": "Vol. 8\n                                \n                                \n                                  pp.\n                                  1\n                                  – 26",
+    "issn": "2416-111X (Online)",
+    "publisher": "Central European University, Budapest",
+    "countryOfPublisher": "Hungary",
+    "lcc": [
+      "Social Sciences",
+      "Language and Literature"
+    ],
+    "journalUrl": "https://www.pulse-journal.org",
+    "abstract": "What is the future of the ten ASEAN capitals? This article speculates upon how to answer this question by drawing on evidence of the advancing global weirding of the world’s ecology (especially as influenced by climate change) to outline ten diverse, graphically illustrated, scenarios for the ten capital cities of ASEAN (Association of South East Asian Nations). The varying, and often unique, socio-political background of each of these under-theorised urban settings, from Bandar Seri Begawan in Brunei to Vientiane in Laos, is subjected to imagined eco-catastrophic futures based upon the weird science now effusing from ecology, climatology and sustainability studies. This condition of global weirding is set to radically change the urban environments of these ten capitals. This stands in stark contrast to the strong desire by most of ASEAN governments to keep the socio-political structures of their nations from changing at all, which in turn, only exacerbates global weirding and its impacts. Each ASEAN urban future scenario presented here ends up being quite peculiar, horrific, radical, and awful. In that sense, they act as a warning for residents/leaders/theorists of these cities regarding their impending future if no proper form of socio-political or economic changes are entertained.",
+    "readLink": "https://www.pulse-journal.org/_files/ugd/b096b2_bd4be9c4d57047169a6a8d8afc1bae4f.pdf"
+  },
+  {
+    "title": "Detection of subgenome bias using an anchored syntenic approach in Eleusine coracana (finger millet)",
+    "authors": [
+      "Nathan D. Hall,",
+      "Jinesh D. Patel,",
+      "J. Scott McElroy,",
+      "Leslie R. Goertzen"
+    ],
+    "doi": "https://doi.org/10.1186/s12864-021-07447-y",
+    "journalVolume": "Vol. 22,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "1471-2164 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Chemical technology: Biotechnology",
+      "Science: Biology (General): Genetics"
+    ],
+    "journalUrl": "http://bmcgenomics.biomedcentral.com",
+    "abstract": "Abstract Background Finger millet (Eleusine coracana 2n = 4x = 36) is a hardy, nutraceutical, climate change tolerant, orphan crop that is consumed throughout eastern Africa and India. Its genome has been sequenced multiple times, but A and B subgenomes could not be separated because no published genome for E. indica existed. The classification of A and B subgenomes is important for understanding the evolution of this crop and provide a means to improve current and future breeding programs. Results We produced subgenome calls for 704 syntenic blocks and inferred A or B subgenomic identity for 59,377 genes 81% of the annotated genes. Phylogenetic analysis of a super matrix containing 455 genes shows high support for A and B divergence within the Eleusine genus. Synonymous substitution rates between A and B genes support A and B calls. The repetitive content on highly supported B contigs is higher than that on similar A contigs. Analysis of syntenic singletons showed evidence of biased fractionation showed a pattern of A genome dominance, with 61% A, 37% B and 1% unassigned, and was further supported by the pattern of loss observed among cyto-nuclear interacting genes. Conclusion The evidence of individual gene calls within each syntenic block, provides a powerful tool for inference for subgenome classification. Our results show the utility of a draft genome in resolving A and B subgenomes calls, primarily it allows for the proper polarization of A and B syntenic blocks. There have been multiple calls for the use of phylogenetic inference in subgenome classification, our use of synteny is a practical application in a system that has only one parental genome available.",
+    "readLink": "https://doi.org/10.1186/s12864-021-07447-y"
+  },
+  {
+    "title": "Modelling the water balance of Lake Victoria (East Africa) – Part 2: Future projections",
+    "authors": [
+      "I. Vanderkelen,",
+      "N. P. M. van Lipzig,",
+      "W. Thiery,",
+      "W. Thiery"
+    ],
+    "doi": "https://doi.org/10.5194/hess-22-5527-2018",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  5527\n                                  – 5549",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Lake Victoria, the second largest freshwater lake in the world, is one of the major sources of the Nile river. The outlet to the Nile is controlled by two hydropower dams of which the allowed discharge is dictated by the Agreed Curve, an equation relating outflow to lake level. Some regional climate models project a decrease in precipitation and an increase in evaporation over Lake Victoria, with potential important implications for its water balance and resulting level. Yet, little is known about the potential consequences of climate change for the water balance of Lake Victoria. In this second part of a two-paper series, we feed a new water balance model for Lake Victoria presented in the first part with climate simulations available through the COordinated Regional Climate Downscaling Experiment (CORDEX) Africa framework. Our results reveal that most regional climate models are not capable of giving a realistic representation of the water balance of Lake Victoria and therefore require bias correction. For two emission scenarios (RCPs 4.5 and 8.5), the decrease in precipitation over the lake and an increase in evaporation are compensated by an increase in basin precipitation leading to more inflow. The future lake level projections show that the dam management scenario and not the emission scenario is the main controlling factor of the future water level evolution. Moreover, inter-model uncertainties are larger than emission scenario uncertainties. The comparison of four idealized future management scenarios pursuing certain policy objectives (electricity generation, navigation reliability and environmental conservation) uncovers that the only sustainable management scenario is mimicking natural lake level fluctuations by regulating outflow according to the Agreed Curve. The associated outflow encompasses, however, ranges from 14 m3 day−1 (−85 %) to 200 m3 day−1 (+100 %) within this ensemble, highlighting that future hydropower generation and downstream water availability may strongly change in the next decades even if dam management adheres to he Agreed Curve. Our results overall underline that managing the dam according to the Agreed Curve is a key prerequisite for sustainable future lake levels, but that under this management scenario, climate change might potentially induce profound changes in lake level and outflow volume.",
+    "readLink": "https://www.hydrol-earth-syst-sci.net/22/5527/2018/hess-22-5527-2018.pdf"
+  },
+  {
+    "title": "Relative Importance of Sustainable Development Goals by Q-Sort Evaluation",
+    "authors": [
+      "László Berényi"
+    ],
+    "doi": "https://doi.org/10.3390/su15032256",
+    "journalVolume": "Vol. 15,\n                                no. 2256\n                                \n                                  p.\n                                  2256",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The 17 Sustainable Development Goals offer a comprehensive framework for extensive development actions. The purpose of this study is to explore the patterns of perception of the relative importance of the goals. Although the interrelations between the diversified goals provide a comprehensive approach for decision-makers, the patterns may support effective strategies in the field. The study used a voluntary online survey among 123 business students by the Q-sort ranking method. The analysis identified three characteristic patterns for the relative importance of the goals: (1) global thinkers who prioritize planet-related goals; (2) pathfinders; and (3) human-centric students who prioritize people-related goals. The preference orders suggest the goals that can best improve the acceptance of sustainability actions. Climate change and water are the most relevant calling words for environmental actions, while health, hunger, and poverty are the equivalents for social actions. Collaboration by a partnership is not considered to be among the essential items, but the position of education is encouraging. Understanding the motivations of the respondents can be used for shaping attitudes in line with the policy expectations; moreover, the factor membership can be used as a grouping factor for a broader survey. The resultant factor characteristics can be used as grouping factors for broader surveys aimed at understanding the motivations behind environmentally conscious behavior.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/3/2256"
+  }
+]

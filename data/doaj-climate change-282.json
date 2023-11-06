@@ -1,0 +1,214 @@
+[
+  {
+    "title": "The role of machine learning in carbon neutrality: Catalyst property prediction, design, and synthesis for carbon dioxide reduction",
+    "authors": [
+      "Zhuo Wang,",
+      "Zhehao Sun,",
+      "Hang Yin,",
+      "Honghe Wei,",
+      "Zicong Peng,",
+      "Yoong Xin Pang,",
+      "Guohua Jia,",
+      "Haitao Zhao,",
+      "Cheng Heng Pang,",
+      "Zongyou Yin"
+    ],
+    "doi": "Vol. 3,\n                                no. 4\n                                \n                                  p.\n                                  100136",
+    "issn": "2667-1417 (Online)",
+    "publisher": "KeAi Communications Co. Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery",
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Electronics"
+    ],
+    "journalUrl": "https://www.keaipublishing.com/en/journals/escience/",
+    "abstract": "Achieving carbon neutrality is an essential part of responding to climate change caused by the deforestation and over-exploitation of natural resources that have accompanied the development of human society. The carbon dioxide reduction reaction (CO2RR) is a promising strategy to capture and convert carbon dioxide (CO2) into value-added chemical products. However, the traditional trial-and-error method makes it expensive and time-consuming to understand the deeper mechanism behind the reaction, discover novel catalysts with superior performance and lower cost, and determine optimal support structures and electrolytes for the CO2RR. Emerging machine learning (ML) techniques provide an opportunity to integrate material science and artificial intelligence, which would enable chemists to extract the implicit knowledge behind data, be guided by the insights thereby gained, and be freed from performing repetitive experiments. In this perspective article, we focus on recent advancements in ML-participated CO2RR applications. After a brief introduction to ML techniques and the CO2RR, we first focus on ML-accelerated property prediction for potential CO2RR catalysts. Then we explore ML-aided prediction of catalytic activity and selectivity. This is followed by a discussion about ML-guided catalyst and electrode design. Next, the potential application of ML-assisted experimental synthesis for the CO2RR is discussed. Finally, we present specific challenges and opportunities, with the aim of better understanding research and advancements in using ML for the CO2RR.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2667141723000617"
+  },
+  {
+    "title": "Insolation-driven 100,000-year glacial cycles and hysteresis of ice-sheet volume by Ayako Abe-Ouchi et al., Nature 500",
+    "authors": [
+      "Constantin Cranganu"
+    ],
+    "doi": "Vol. 27,\n                                no. 4",
+    "issn": "0892-3310 (Print)",
+    "publisher": "SSE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Speculative philosophy"
+    ],
+    "journalUrl": "http://www.scientificexploration.org/journal-library",
+    "abstract": "One hundred years ago the German meteorologist Alfred Wegener started a scientific revolution that was probably the most important of the 20th century: plate tectonics. In the same year (1912) in Serbia, Milutin Milanković, a civil engineer turned professor of mathematics at the University of Belgrade, published the paper that would forever change the way we look at and attempt to understand climate changes through our understanding of the so-called Milanković cycles. For many years climatologists and geologists could not explain the causes of ice ages on Earth. Various hypotheses were offered, but all failed to explain how ice sheets grew and then melted many times in the geologic past. Milanković’s idea was to put the Sun at the center of his theory of ice ages. He proposed three orbital cycles of Earth: eccentricity of elliptic orbit (100,000-year cycle), axial tilt of rotation axis (obliquity) (41,000-year cycle—from 22.1° to 24.5°; presently, the Earth’s tilt is 23.5°), and precession of equinoxes (23,000-year cycle). Because each cycle works on a different timescale, their combined effects have a variable influence on the amount of solar energy received by the Earth. In short, Milanković’s theory proposes that summer insolation at high northern latitudes (beyond 55°N) drives the glacial–interglacial cycles, and the summer insolation is, in turn, linked to eccentricity, obliquity, and precession cycles.",
+    "readLink": "http://journalofscientificexploration.org/index.php/jse/article/view/698"
+  },
+  {
+    "title": "Phase change materials performance at radiant floor heating systems for building purposes study = Estudio del comportamiento de los materiales de cambio de fase en sistemas de calefacción por suelo radiante de aplicación en construcción",
+    "authors": [
+      "Beatriz Cámara Calzas,",
+      "Alejandro Gómez Delgado,",
+      "Elena Cerro Prada,",
+      "Rosalía Pacheco Torres"
+    ],
+    "doi": "https://doi.org/10.20868/bma.2019.1.3874",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  24\n                                  – 35",
+    "issn": "2530-8157 (Online)",
+    "publisher": "Universidad Politécnica de Madrid",
+    "countryOfPublisher": "Spain",
+    "lcc": [
+      "Technology: Building construction"
+    ],
+    "journalUrl": "http://polired.upm.es/index.php/building_management",
+    "abstract": "Abstract Recent research in the field of building materials has led to focus on phase change materials (PCMs). These materials allow the adjustment between energy demand and supply of the climate control systems by storing. Experiments were carried out to investigate the feasibility of using heat storage materials (with PCM addition), placed as one of the flooring layers over radiant floor heating system. In this study, paraffin wax ASTM D 87 (mp 53-57ᵒC) has been added directly during the mixing stage as a PCM, used in mixtures with various contents of paraffin (0.75%, 1.5%, 2.5% with respect to the weight of cement. It was also produced a none paraffin content specimen) and 0.45 water/cement ratio cement mortar. The experiments have been carried out inside of a completely isolated thermal box in which a heating system has been arranged and a measurement equipment for the temperature record. Every experiment consist on four stages that complete the full process of charging the energy storage mortar specimens, by heating the system fluid, and its subsequent progressive discharge after the heating source is off. While testing each specimen different temperatures have been collected: environment temperature outside the thermal box, indoor air temperature, surface temperature of each specimen with the corresponding PCM content, inlet and outlet fluid temperature inside heating system pipe. After carrying out every specimen test it is notice that PCM addition to cement mortar floor layer over the heating system is effective, the more proportion of paraffin added the most appropriate, since it takes a longer period of time to release storage heat during the phase change. Paraffin is an organic material easy to add to the cement mortar porous composition not adversely affecting material resistance, and it has the power to store energy as latent heat by phase changing. Resumen Las investigaciones en el campo de los materiales de construcción en los últimos años han llevado al estudio de materiales de cambio de fase (PCMs). Éstos permiten adaptar los periodos de suministro a los de demanda energética en sistemas de climatización, mediante la acumulación de energía. El objeto de los ensayos llevados a cabo en este trabajo es el estudio de la viabilidad del uso de materiales acumuladores de energía (mediante adición de PCM) como una de las capas de solado sobre los sistemas de calefacción por suelo radiante. En este estudio se trabaja con cera de parafina ASTM D 87 (mp 53-57ᵒC) integrada en polvo de forma directa en diferentes proporciones (0.75%, 1.5%, 2.5% en peso de PCM y una probeta Control sin contenido de PCM) a una mezcla de mortero de cemento con relación agua/cemento 0.45, obteniendo cuatro probetas distintas a ensayar. Los experimentos se han llevado a cabo en el interior de una Casa térmica totalmente aislada en la que se instaló un sistema de calefacción por suelo radiante y un equipo de medida para el registro de la temperatura. Cada ensayo se compone de cuatro etapas que forman el proceso completo de carga del mortero acumulador de energía, calentando el fluido calefactor, y su posterior descarga progresiva una vez que la fuente de calor ha sido apagada. Durante los ensayos se recogieron temperaturas: en el exterior de la habitación, en el interior de la misma, sobre la superficie de cada probeta con la correspondiente proporción de PCM, y en el tubo de calefacción a la entrada y salida del agua. Tras llevar a cabo los ensayos sobre cada una de las probetas se observa que la adición de PCM al mortero de cemento formando parte del solado sobre el sistema de calefacción resulta eficaz, siendo la mayor proporción de parafina añadida la más adecuada, ya que desprende al ambiente más lentamente el calor acumulado durante el cambio de fase. La parafina es un compuesto orgánico que se puede impregnar en la estructura porosa de los materiales como el mortero de cemento, sin afectar a su resistencia, y tiene la capacidad de almacenar energía mediante su cambio de estado, en forma de calor latente.",
+    "readLink": "http://polired.upm.es/index.php/building_management/article/view/3874"
+  },
+  {
+    "title": "REGULARITIES AND FACTORS OF FORMATION OF WINTER HYDRO/CHEMICAL REGIME OF THE UGLICH RESERVOIR",
+    "authors": [
+      "Irina L. Grigoryeva"
+    ],
+    "doi": "https://doi.org/10.35567/1999-4508-2020-2-4",
+    "journalVolume": "Vol. 11,\n                                no. 2\n                                \n                                  pp.\n                                  52\n                                  – 64",
+    "issn": "1999-4508 (Print)",
+    "publisher": "2686-8253 (Online)",
+    "countryOfPublisher": "Russian Research Institute for Water Resources Integrated Management and Protection (RosNIIVKh)",
+    "lcc": [
+      "Russian Federation",
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)"
+    ],
+    "journalUrl": "https://waterjournal.ru/",
+    "abstract": "The article presents the results of the study of the winter hydro/chemical regime of the Uglich reservoir which is the second stage of the Volga-Kama cascade of reservoirs. In winter period the main influence on the formation of the hydrochemical regime of the Uglich reservoir is exerted by water coming from the Ivankovsk reservoir which located upstream. It was found that water in the reservoir is hydrocarbonate, mineralization varies from 243 to 351 mg per liter, calcium and magnesium concentrations reach 60.9 and 17.5 mg per liter. Concentrations of mineral phosphorus in the reservoir are 0.043–0.076 mg per liter, total gross phosphorus in the upper relief of the Uglich HPP reach 0.138 mg per liter, nitrate concentrations are 0.14–0.84 mg per liter. The main indicators of hydro/chemical regime of the Uglich reservoir have spatio-temporal variability. Its change from year to year, as well as from target to target. Global climate changes have not yet had a significant impact on the winter hydro/chemical regime of the reservoir.",
+    "readLink": "https://waterjournal.ru/article/178"
+  },
+  {
+    "title": "Measuring the impacts of a real-world neighborhood-scale cool pavement deployment on albedo and temperatures in Los Angeles",
+    "authors": [
+      "Joseph Ko,",
+      "Hannah Schlaerth,",
+      "Alexandra Bruce,",
+      "Kelly Sanders,",
+      "George Ban-Weiss"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac58a8",
+    "journalVolume": "Vol. 17,\n                                no. 4\n                                \n                                  p.\n                                  044027",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Climate change is expected to exacerbate the urban heat island (UHI) effect in cities worldwide, increasing the risk of heat-related morbidity and mortality. Solar reflective ‘cool pavement’ is one of several mitigation strategies that may counteract the negative effects of the UHI effect. An increase in pavement albedo results in less heat absorption, which results in reduced surface temperatures ( T _surface ). Near surface air temperatures ( T _air ) could also be reduced if cool pavements are deployed at sufficiently large spatial scales, though this has never been confirmed by field measurements. This field study is the first to conduct controlled measurements of the impacts of neighborhood-scale cool pavement installations. We measured the impacts of cool pavement on albedo, T _surface , and T _air . In addition, pavement albedo was monitored after installation to assess its degradation over time. The field site (∼0.64 km ^2 ) was located in Covina, California; ∼30 km east of Downtown Los Angeles. We found that an average pavement albedo increase of 0.18 (from 0.08 to 0.26) corresponded to maximum neighborhood averaged T _surface and T _air reductions of 5 °C and 0.2 °C, respectively. Maximum T _surface reductions were observed in the afternoon, while minimum reductions of 0.9 °C were observed in the morning. T _air reductions were detected at 12:00 local standard time (LST), and from 20:00 LST to 22:59 LST, suggesting that cool pavement decreases T _air during the daytime as well as in the evening. An average albedo reduction of 30% corresponded to a ∼1 °C reduction in the T _surface cooling efficacy. Although we present here the first measured T _air reductions due to cool pavement, we emphasize that the tradeoffs between T _air reductions and reflected shortwave radiation increases are still unclear and warrant further investigation in order to holistically assess the efficacy of cool pavements, especially with regards to pedestrian thermal comfort.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac58a8"
+  },
+  {
+    "title": "East African wetland-catchment data base for sustainable wetland management",
+    "authors": [
+      "C. Leemhuis,",
+      "E. Amler,",
+      "B. Diekkrüger,",
+      "G. Gabiri,",
+      "K. Näschen"
+    ],
+    "doi": "https://doi.org/10.5194/piahs-374-123-2016",
+    "journalVolume": "Vol. 374\n                                \n                                \n                                  pp.\n                                  123\n                                  – 128",
+    "issn": "2199-8981 (Print)",
+    "publisher": "2199-899X (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.proceedings-international-association-of-hydrological-sciences.net/",
+    "abstract": "Wetlands cover an area of approx. 18 Mio ha in the East African countries of Kenya, Rwanda, Uganda and Tanzania, with still a relative small share being used for food production. Current upland agricultural use intensification in these countries due to demographic growth, climate change and globalization effects are leading to an over-exploitation of the resource base, followed by an intensification of agricultural wetland use. We aim on translating, transferring and upscaling knowledge on experimental test-site wetland properties, small-scale hydrological processes, and water related ecosystem services under different types of management from local to national scale. This information gained at the experimental wetland/catchment scale will be embedded as reference data within an East African wetland-catchment data base including catchment physical properties and a regional wetland inventory serving as a base for policy advice and the development of sustainable wetland management strategies.",
+    "readLink": "https://www.proc-iahs.net/374/123/2016/piahs-374-123-2016.pdf"
+  },
+  {
+    "title": "Planning protected areas network that are relevant today and under future climate change is possible: the case of Atlantic Forest endemic birds",
+    "authors": [
+      "Mariana M. Vale,",
+      "Thiago V. Souza,",
+      "Maria Alice S. Alves,",
+      "Renato Crouzeilles"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.4689",
+    "journalVolume": "Vol. 6\n                                \n                                \n                                  p.\n                                  e4689",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background A key strategy in biodiversity conservation is the establishment of protected areas. In the future, however, the redistribution of species in response to ongoing climate change is likely to affect species’ representativeness in those areas. Here we quantify the effectiveness of planning protected areas network to represent 151 birds endemic to the Brazilian Atlantic Forest hotspot, under current and future climate change conditions for 2050. Methods We combined environmental niche modeling and systematic conservation planning using both a county and a regional level planning strategy. We recognized the conflict between biodiversity conservation and economic development, including socio-economic targets (as opposed to biological only) and using planning units that are meaningful for policy-makers. Results We estimated an average contraction of 29,500 km2 in environmentally suitable areas for birds, representing 52% of currently suitable areas. Still, the most cost-effective solution represented almost all target species, requiring only ca. 10% of the Atlantic Forest counties to achieve that representativeness, independent of strategy. More than 50% of these counties were selected both in the current and future planned networks, representing >83% of the species. Discussion Our results indicate that: (i) planning protected areas network currently can be useful to represent species under climate change; (ii) the overlapped planning units in the best solution for both current and future conditions can be considered as “no regret” areas; (iii) priority counties are spread throughout the biome, providing specific guidance wherever the possibility of creating protected area arises; and (iv) decisions can occur at different administrative spheres (Federal, State or County) as we found quite similar numerical solutions using either county or regional level strategies.",
+    "readLink": "https://peerj.com/articles/4689.pdf"
+  },
+  {
+    "title": "Toxicity of sediments in eight urban stormwater management ponds: bioassessment by oligochaete community metrics used in the sediment quality triad",
+    "authors": [
+      "Guillaume Tixier,",
+      "Quintin Rochfort,",
+      "Lee Grapentine,",
+      "Jiri Marsalek,",
+      "Michel Lafont,",
+      "Régis Vivien"
+    ],
+    "doi": "https://doi.org/10.2166/wst.2023.051",
+    "journalVolume": "Vol. 87,\n                                no. 5\n                                \n                                  pp.\n                                  1112\n                                  – 1128",
+    "issn": "0273-1223 (Print)",
+    "publisher": "1996-9732 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://iwaponline.com/wst",
+    "abstract": "Implemented for decades as part of the ‘best management practices (BMPs)’ for controlling urban runoff impacts on receiving waters, stormwater management ponds (SMPs) have been increasingly viewed as potential habitats for urban wildlife. However, since SMPs are subject to a lot of environmental constraints, research toward assessing their ecological quality and their actual benefits as habitats for biota is needed. In this study, the sediment toxicity of eight SMPs located in Southern Ontario, Canada was assessed using the sediment quality triad (SQT) approach. Sediment samples were collected for chemical, ecotoxicological and biological analyses. An oligochaete-based index approach (Oligochaete Index of Lake Bioindication and percentage of pollution-sensitive species) was used as the biological endpoint and integrated into a weight-of-evidence approach to assessing the general sediment quality of the ponds. Our results showed that (i) heavy metals in the sediment and (ii) chloride concentrations in the sediment interstitial water caused detrimental effects on the ecological quality of the sediments in the ponds studied. The oligochaete indices applied in this study showed value as biological endpoints to be integrated into the SQT and used for setting up sediment ecological quality goals. HIGHLIGHTS An oligochaete-based index approach was used as a line of evidence in the SQT to assess the ecological quality of eight stormwater ponds in Southern Ontario.; High concentrations of chloride in pore water and of heavy metals in the sediment matrix were linked to detrimental effects.; The oligochaete-based index approach was used to set up ecological quality goals for stormwater pond sediment.;",
+    "readLink": "http://wst.iwaponline.com/content/87/5/1112"
+  },
+  {
+    "title": "Recent Advances in Transition-Metal-Mediated Electrocatalytic CO2 Reduction: From Homogeneous to Heterogeneous Systems",
+    "authors": [
+      "Da-Ming Feng,",
+      "Yun-Pei Zhu,",
+      "Ping Chen,",
+      "Tian-Yi Ma"
+    ],
+    "doi": "https://doi.org/10.3390/catal7120373",
+    "journalVolume": "Vol. 7,\n                                no. 12\n                                \n                                  p.\n                                  373",
+    "issn": "2073-4344 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/catalysts",
+    "abstract": "Global climate change and increasing demands for clean energy have brought intensive interest in the search for proper electrocatalysts in order to reduce carbon dioxide (CO2) to higher value carbon products such as hydrocarbons. Recently, transition-metal-centered molecules or organic frameworks have been reported to show outstanding electrocatalytic activity in the liquid phase. Their d-orbital electrons are believed to be one of the key factors to capture and convert CO2 molecules to value-added low-carbon fuels. In this review, recent advances in electrocatalytic CO2 reduction have been summarized based on the targeted products, ranging from homogeneous reactions to heterogeneous ones. Their advantages and fallbacks have been pointed out and the existing challenges, especially with respect to the practical and industrial application are addressed.",
+    "readLink": "https://www.mdpi.com/2073-4344/7/12/373"
+  },
+  {
+    "title": "Butterfly declines in protected areas of Illinois: Assessing the influence of two decades of climate and landscape change.",
+    "authors": [
+      "Nicole B Kucherov,",
+      "Emily S Minor,",
+      "Philip P Johnson,",
+      "Doug Taron,",
+      "Kevin C Matteson"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0257889",
+    "journalVolume": "Vol. 16,\n                                no. 10\n                                \n                                  p.\n                                  e0257889",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Despite increasing concern regarding broad-scale declines in insects, there are few published long-term, systematic butterfly surveys in North America, and fewer still that have incorporated the influence of changing climate and landscape variables. In this study, we analyzed 20 years of citizen science data at seven consistently monitored protected areas in Illinois, U.S.A. We used mixed models and PERMANOVA to evaluate trends in butterfly abundance, richness, and composition while also evaluating the effects of temperature and land use. Overall butterfly richness, but not abundance, increased in warmer years. Surprisingly, richness also was positively related to percent impervious surface (at the 2 km radius scale), highlighting the conservation value of protected areas in urban landscapes (or alternately, the potential negative aspects of agriculture). Precipitation had a significant and variable influence through time on overall butterfly abundance and abundance of resident species, larval host plant specialists, and univoltine species. Importantly, models incorporating the influence of changing temperature, precipitation, and impervious surface indicated a significant overall decline in both butterfly abundance and species richness, with an estimated abundance decrease of 3.8%/year and richness decrease of 1.6%/year (52.5% and 27.1% cumulatively from 1999 to 2018). Abundance and richness declines were also noted across all investigated functional groups except non-resident (migratory) species. Butterfly community composition changed through time, but we did not find evidence of systematic biotic homogenization, perhaps because declines were occurring in nearly all functional groups. Finally, at the site-level, declines in either richness or abundance occurred at five of seven locations, with only the two largest locations (>300 Ha) not exhibiting declines. Our results mirror those of other long-term butterfly studies predominantly in Europe and North America that have found associations of butterflies with climate variables and general declines in butterfly richness and abundance.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0257889"
+  }
+]

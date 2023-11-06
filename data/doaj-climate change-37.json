@@ -1,0 +1,236 @@
+[
+  {
+    "title": "A New Land Cover Map of Two Watersheds under Long-Term Environmental Monitoring in the Swedish Arctic Using Sentinel-2 Data",
+    "authors": [
+      "Yves Auda,",
+      "Erik J. Lundin,",
+      "Jonas Gustafsson,",
+      "Oleg S. Pokrovsky,",
+      "Simon Cazaurang,",
+      "Laurent Orgogozo"
+    ],
+    "doi": "https://doi.org/10.3390/w15183311",
+    "journalVolume": "Vol. 15,\n                                no. 3311\n                                \n                                  p.\n                                  3311",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "A land cover map of two arctic catchments near the Abisko Scientific Research Station was obtained based on a classification from a Sentinel-2 satellite image and a ground survey performed in July 2022. The two contiguous catchments, Miellajokka and Stordalen, are covered by various ecotypes, from boreal forest to alpine tundra and peatland. Two classification algorithms, support vector machine and random forest, were tested and gave very similar results. The percentage of correctly classified pixels was over 88% in both cases. The developed workflow relies solely on open-source software and acquired ground observations. Space organization was directed by the altitude as demonstrated by the intersection of the land cover with the topography. Comparison between this new land cover map and previous ones based on data acquired between 2008 and 2011 shows some trends in vegetation cover evolution in response to climate change in the considered area. This land cover map is key input data for permafrost modeling and, hence, for the quantification of climate change impacts in the studied area.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/18/3311"
+  },
+  {
+    "title": "Ambition Meets Reality: Achieving GHG Emission Reduction Targets in the Livestock Sector of Latin America",
+    "authors": [
+      "Jacobo Arango,",
+      "Alejandro Ruden,",
+      "Deissy Martinez-Baron,",
+      "Deissy Martinez-Baron,",
+      "Ana María Loboguerrero,",
+      "Ana María Loboguerrero,",
+      "Alexandre Berndt,",
+      "Mauricio Chacón,",
+      "Carlos Felipe Torres,",
+      "Walter Oyhantcabal,",
+      "Carlos A. Gomez,",
+      "Patricia Ricci,",
+      "Juan Ku-Vera,",
+      "Stefan Burkart,",
+      "Jon M. Moorby,",
+      "Ngonidzashe Chirinda,",
+      "Ngonidzashe Chirinda"
+    ],
+    "doi": "https://doi.org/10.3389/fsufs.2020.00065",
+    "journalVolume": "Vol. 4",
+    "issn": "2571-581X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Home economics: Nutrition. Foods and food supply",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainable-food-systems#",
+    "abstract": "Livestock production is a very relevant source of income and agricultural greenhouse gas (GHG) emissions in Colombia, Brazil, Argentina, Costa Rica, Uruguay, Mexico, and Peru. Several management and technological options with enteric methane mitigation potential have been evaluated and their scaling is anticipated to contribute toward achieving GHG emission reduction targets in the framework of the Paris Agreement. Yet, widespread adoption of promising mitigation options remains limited, raising questions as to whether envisaged emission reduction targets are achievable. Using findings from local studies, we explore the mitigation potentials of technologies and management practices currently proposed to mitigate enteric methane emissions from cattle production systems in the higher emitting countries of Latin America. We then discuss barriers for adopting innovations that significantly reduce cattle-based enteric methane emissions and the major shifts in policy and practice that are needed to raise national ambitions in the high emitting countries. Using the latest science and current thinking, we provide our perspective on an inclusive approach and re-imagine how the academic, research, business and public policy sectors can support and incentivize the changes needed to raise the level of ambition and achieve sustainable development goals (SDG), considering actions from the farm to the national scale.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fsufs.2020.00065/full"
+  },
+  {
+    "title": "Flood risk reduction and flow buffering as ecosystem services &ndash; Part 1: Theory on flow persistence, flashiness and base flow",
+    "authors": [
+      "M. van Noordwijk,",
+      "L. Tanika,",
+      "B. Lusiana"
+    ],
+    "doi": "https://doi.org/10.5194/hess-21-2321-2017",
+    "journalVolume": "Vol. 21,\n                                no. 5\n                                \n                                  pp.\n                                  2321\n                                  – 2340",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Flood damage reflects insufficient adaptation of human presence and activity to location and variability of river flow in a given climate. Flood risk increases when landscapes degrade, counteracted or aggravated by engineering solutions. Efforts to maintain and restore buffering as an ecosystem function may help adaptation to climate change, but this require quantification of effectiveness in their specific social-ecological context. However, the specific role of forests, trees, soil and drainage pathways in flow buffering, given geology, land form and climate, remains controversial. When complementing the scarce heavily instrumented catchments with reliable long-term data, especially in the tropics, there is a need for metrics for data-sparse conditions. We present and discuss a flow persistence metric that relates transmission to river flow of peak rainfall events to the base-flow component of the water balance. The dimensionless flow persistence parameter Fp is defined in a recursive flow model and can be estimated from limited time series of observed daily flow, without requiring knowledge of spatially distributed rainfall upstream. The Fp metric (or its change over time from what appears to be the local norm) matches local knowledge concepts. Inter-annual variation in the Fp metric in sample watersheds correlates with variation in the flashiness index used in existing watershed health monitoring programmes, but the relationship between these metrics varies with context. Inter-annual variation in Fp also correlates with common base-flow indicators, but again in a way that varies between watersheds. Further exploration of the responsiveness of Fp in watersheds with different characteristics to the interaction of land cover and the specific realisation of space–time patterns of rainfall in a limited observation period is needed to evaluate interpretation of Fp as an indicator of anthropogenic changes in watershed conditions.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/21/2321/2017/hess-21-2321-2017.pdf"
+  },
+  {
+    "title": "KONDISI SOSIAL MASYARAKAT SUB DAS MERAWU DAN SUB DAS BATANG BUNGO",
+    "authors": [
+      "Nana Haryanti,",
+      "Paimin Paimin,",
+      "Sukresno Sukresno"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2005.2.3.231-244",
+    "journalVolume": "Vol. 2,\n                                no. 3\n                                \n                                  pp.\n                                  231\n                                  – 244",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "Fungsi daerah aliras sungai (DAS) sebagai suatu ekosistem tidak hanya bertumpu pada kawasan hutan saja, namun juga meliputi kawasan budidaya tanaman dan kawasan pemukiman. Oleh karena itu pengelolaan DAS perlu memberikan perhatian pada manusia dan aktivitasnya sebagai bagian dari sistem DAS. Tujuan penelitian ini adalah untuk mendeskripsikan kondisi sosial masyarakat di sub DAS Merawu dan Bungo, dan pola bagaimana mereka mengelola sumber daya alamnya. Penelitian dilakukan di sub DAS Merawu dan Batang Bungo. Metode observasi dan interview digunakan untuk mengumpulkan data. Tujuan dari observasi dan interview adalah untuk mengeksplorasi kondisi sosial dari petani dan mengembangkan kejadian-kejadian, aktivitas, dan persepsi dari subyek penelitian. Data kemudian dianalisa secara deskriptif. Hasil penelitian menunjukkan bahwa terdapat perbedaan kondisi sosial pada masyarakat sub DAS Merawu dan Batang Bungo, yang dipengaruhi oleh interaksi antara kondisi sosial dan alam. Hutu sub DAS Merawu adalah lahan kering dan dimanfaatkan untuk pertanian tanaman semusim, dan Iahan di hilir sub DAS Merawu adalah persawahan. Laban di sub DAS Bungo dimanfaatkan untuk perkebunan karet, keadaan ini disebabkan lahan tidak memungkinkan dimanfaatkan untuk pertanian tanaman semusim secara intensif. Kegiatan dasar wilayah baik di sub DAS Merawu dan Bungo adalah sektor pertanian. Tingkat pendidikan responden umumnya masih rendah, berakibat pada rendahnya praktek konservasi tanah karena rendahnya pengetahuan dan pemahaman mengenai konservasi terutama di sub DAS Bungo. Sementara itu rendahnya praktek konservasi tanah di sub DAS Merawu lebih disebabkan oleh pertanian lahan kering. Kontribusi pertanian pada pendapatan rumah tangga di sub DAS Merawu adalah 95% berasal dari pertanian lahan kering, sedangkan di sub DAS Bungo kontribusi sektor pertanian mencapai 68% berasal dari perkebunan karet. Jumlah petani besar dengan kepemilikan lahan lebih dari I Ha di Sub DAS Merawu sebesar 33,3%, dan jumlah petani besar dengan kepemilikan lahan lebih dari 3 Ha di sub DAS Bungo adalah 36,2%. Luas kepemilikan lahan di Jawa akan berpengaruh pada status sosial dalam masyarakat, sedangkan di Sumatra status sosial dalam masyarakat lebih dipengaruhi oleh kemampuan dan kecakapan.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/2697"
+  },
+  {
+    "title": "Water resources and their management in Pakistan: A critical analysis on challenges and implications",
+    "authors": [
+      "Shakeel Ahmad,",
+      "Haifeng Jia,",
+      "Anam Ashraf,",
+      "Dingkun Yin,",
+      "Zhengxia Chen,",
+      "Changqing Xu,",
+      "Wang Chenyang,",
+      "Qimeng Jia,",
+      "Zhang Xiaoyue,",
+      "Muhammad Israr,",
+      "Rasheed Ahmed"
+    ],
+    "doi": "Vol. 6\n                                \n                                \n                                  pp.\n                                  137\n                                  – 150",
+    "issn": "2588-9125 (Online)",
+    "publisher": "KeAi Communications Co., Ltd.",
+    "countryOfPublisher": "China",
+    "lcc": [
+      "Technology: Hydraulic engineering: River, lake, and water-supply engineering (General)",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "http://www.keaipublishing.com/en/journals/water-energy-nexus/",
+    "abstract": "Water is one of the essential natural resources for human beings. However, rising worldwide water demand and a significant decline in availability due to a lack of dynamic management and over-extraction have resulted in a complex scenario in terms of water availability. The current paper examines water resources and their management, methodologies, aims, and scope. Through the perspective of water resources and their management in Pakistan, 93 research publications were critically analyzed using a systematic review technique. The technique includes a systematic review of existing literature on water resource management, with particular emphasis on policy, governance, and environmental challenges. The study results demonstrate gaps and weaknesses in existing laws and regulations, alongside the threats to water resource management due to population expansion, urban development, climate change, and water contamination. To properly address these problems, the current study proposed a comprehensive framework for water resource management. This framework includes a national water policy that argues for sustainability and improves institutional strength. Infrastructure development, climate change adaptation, and examining social and environmental variables are all emphasized as important problems. Furthermore, it is essential to emphasize the importance of education and raising knowledge about water resource management among the general public and relevant stakeholders. By following these recommendations and the proposed OECD key principles on water governance, Pakistan may make significant progress towards achieving sustainable water management, aligning with its development objectives, and ensuring clean and safe water availability for future generations.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S258891252300019X"
+  },
+  {
+    "title": "Viability of CLIGEN in the climatic conditions of Paraná state, Brazil Viabilidade do CLIGEN para as condições climáticas do estado do Paraná, Brasil",
+    "authors": [
+      "João H. Caviglione,",
+      "Ines C. de B. Fonseca,",
+      "João Tavares Filho"
+    ],
+    "doi": "Vol. 17,\n                                no. 6\n                                \n                                  pp.\n                                  655\n                                  – 664",
+    "issn": "1415-4366 (Print)",
+    "publisher": "1807-1929 (Online)",
+    "countryOfPublisher": "Universidade Federal de Campina Grande",
+    "lcc": [
+      "Brazil",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.scielo.br/scielo.php/script_sci_serial/pid_1415-4366/lng_en/nrm_iso/lng_en",
+    "abstract": "Studies on hydrology, agro-meteorology, soil loss and climate change scenarios depend on weather information, which may not be available. Weather generators, such as the CLIGEN, can synthesize daily climate series statistically similar to the observed data. The objective of this study was to evaluate the CLIGEN in generating series in the climatic conditions of Paraná, Brazil, which show transition between Cfa and Cfb climates. Observed data from 20 weather stations from 1975 to 2009 were compared with synthetic series generated with the same number of years. Mean and standard deviation of the number of wet days, daily precipitation, normalized storm peak intensity, solar radiation, maximum and minimum temperatures and dew point were analysed. The coefficient of determination was less than 0.91 in two stations.Under the evaluated conditions, the CLIGEN showed restrictions to simulate the normalized storm peak intensity and, for the remaining variables, it was shown to be viable to synthesize daily climate series statistically similar to those in the observed data.Os estudos de hidrologia, agrometeorologia, perda de solo e de cenários de mudança climática, dependem de informações climáticas passíveis de não estar disponíveis. Os geradores climáticos como o CLIGEN, podem sintetizar séries climáticas diárias estatisticamente semelhantes aos dados observados. O objetivo foi avaliar o CLIGEN na geração de séries climáticas nas condições do Paraná, Brasil, que apresenta transição entre os climas Cfa e Cfb. Dados observados de 20 estações meteorológicas entre 1975 e 2009 foram comparados com séries sintéticas geradas com o mesmo número de anos. Analisaram-se médias e desvios padrão do número de dias com chuva, precipitação diária, intensidade máxima de precipitação normalizada, radiação solar, temperatura máxima, mínima e do ponto de orvalho. O coeficiente de determinação foi inferior a 0,91em duas estações; nas condições avaliadas o CLIGEN apresentou restrições na simulação da intensidade máxima de precipitação normalizada e, para as demais variáveis avaliadas, mostrou-se viável para sintetizar séries climáticas diárias estatisticamente semelhantes aos dados observados.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-43662013000600012"
+  },
+  {
+    "title": "Vernacular Knowledge, Natural Disasters, and Climate Change in Monsoon Asia",
+    "authors": [
+      "Senjo Nakai"
+    ],
+    "doi": "https://doi.org/10.25120/etropic.20.2.2021.3810",
+    "journalVolume": "Vol. 20,\n                                no. 2",
+    "issn": "1448-2940 (Online)",
+    "publisher": "James Cook University",
+    "countryOfPublisher": "Australia",
+    "lcc": [
+      "Social Sciences"
+    ],
+    "journalUrl": "https://journals.jcu.edu.au/etropic",
+    "abstract": "In Monsoon Asia, home to more than half of the world’s population, extreme climatic events are expected to become more frequent and intense due to climate change. Modern disaster management to date has focused on assessing the risks of natural hazards based on historical data, responding to disasters through prevention and mitigation techniques, and information campaigns, instead of vernacular knowledge cultivated in the local environment. This has led the public to a dangerous complacency about the power of technology over nature, and neglecting the possibility of “unforeseen” events. Climate change has not only made it more difficult to assess the risks of natural hazards, but has also diminished local resilience to them. However, since the adoption of the Hyogo Framework for Action in 2005, Monsoon Asia has begun multi-sectoral efforts to build local resilience to natural hazards by integrating vernacular knowledge into modern disaster management. Whereas in the past, experts and government agencies regarded the public as mere recipients of their services, they have now become acutely aware of the need to build partnerships with local communities to compensate for current technological limitations in disaster management, and to imaginatively prepare for the increasing risks of climatic contingencies. To achieve these goals, vernacular knowledge can be a useful resource, and a number of efforts have been initiated in the region to preserve such knowledge in imaginative forms to pass it on to future generations.",
+    "readLink": "https://journals.jcu.edu.au/etropic/article/view/3810"
+  },
+  {
+    "title": "Intra-annual relationship between precipitation and forest disturbance in the African rainforest",
+    "authors": [
+      "Yaqing Gou,",
+      "Johannes Balling,",
+      "Veronique De Sy,",
+      "Martin Herold,",
+      "Wanda De Keersmaecker,",
+      "Bart Slagter,",
+      "Adugna Mullissa,",
+      "Xiaocheng Shang,",
+      "Johannes Reiche"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac5ca0",
+    "journalVolume": "Vol. 17,\n                                no. 4\n                                \n                                  p.\n                                  044044",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Analysis of forest disturbance patterns in relation to precipitation seasonality is important for understanding African tropical forest dynamics under changing climate conditions and different levels of human activities. Newly available radar-based forest disturbance information now enables an investigation of the intra-annual relationship between precipitation and forest disturbance in a spatially and temporally explicit manner, especially in the tropics, where frequent cloud cover hinders the use of optical-based remote sensing products. In this study, we applied cross-correlation on monthly precipitation and forest disturbance time series for 2019 and 2020 at a 0.5° grid in the African rainforest. We used the magnitude of the correlation and time lag to assess the intra-annual relationship between precipitation and forest disturbance, and introduced accessibility proxies to analyse the spatial variation of the relationship. Results revealed that a significant negative correlation between forest disturbance and precipitation dominates the study region. We found that significant negative correlations appear on average closer to settlements with overall smaller variations in travel time to settlements compared to grid cells with non-significant and significant positive correlation. The magnitude of the negative correlation increases as the travel time to settlements increases, implying that forest disturbances in less accessible areas are more affected by precipitation seasonality and that in particular human-induced disturbance activities are predominantly carried out in the drier months. Few areas showed a significant positive correlation, mainly resulting from natural causes such as flooding. These new insights in the interaction between forest disturbance, precipitation and accessibility provide a step forward in understanding the complex interactions that underlie the complexity of forest loss patterns that we can increasingly capture with Earth Observation approaches. As such, they can support forest conservation and management in coping with climate change induced changes of precipitation patterns in African rainforest countries.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac5ca0"
+  },
+  {
+    "title": "Estimating Sugarcane Yield in a Subtropical Climate Using Climatic Variables and Soil Water Storage",
+    "authors": [
+      "Jessica Lima Viana,",
+      "Jorge Luiz Moretti de Souza,",
+      "Aaron Kinyu Hoshide,",
+      "Ricardo Augusto de Oliveira,",
+      "Daniel Carneiro de Abreu,",
+      "Wininton Mendes da Silva"
+    ],
+    "doi": "https://doi.org/10.3390/su15054360",
+    "journalVolume": "Vol. 15,\n                                no. 4360\n                                \n                                  p.\n                                  4360",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Brazil is the largest producer of sugarcane (Saccharum spp.) in the world, and this crop’s response to climate and soil water storage is essential for optimal management and genetic/yield improvements. The objective of our study was to build a multivariate model to estimate sugarcane yield in the subtropical conditions of the northwestern Paraná region using climatic and soil water storage variables. Observed yield data was used from experiments conducted at the Experimental Station of the Sugarcane Genetic Improvement Program of the Universidade Federal do Paraná. The sugarcane varieties RB72454, RB867515, RB966928, and RB036066 were analyzed in the 1998–2006, 2008, 2018 and 2019 harvest years. Stepwise multiple linear regression analysis with repeated cross-validation was developed to estimate sugarcane yield given climate and soil water storage variables for crop growth phases. The accumulated degree days in Phases I and II and soil water storage in Phase II of development significantly impacted sugarcane yield. The multiple linear regression model, with accumulated degree days and soil water storage in Phases I and II of development, successfully predicted sugarcane yield for analyzed varieties. Sugarcane production models like the one we developed can improve crop management for greater sustainability and climate change adaption in Brazil and other areas.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/5/4360"
+  },
+  {
+    "title": "Adaptability of Siamese Rosewood and Teak Seedlings to Varying Light Conditions",
+    "authors": [
+      "Nisa Leksungnoen,",
+      "Suwimon Uthairatsamee,",
+      "Tushar Andriyas"
+    ],
+    "doi": "https://doi.org/10.32526/ennrj/19/202100003",
+    "journalVolume": "Vol. 19,\n                                no. 6\n                                \n                                  pp.\n                                  449\n                                  – 458",
+    "issn": "1686-5456 (Print)",
+    "publisher": "2408-2384 (Online)",
+    "countryOfPublisher": "Mahidol University",
+    "lcc": [
+      "Thailand",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://ph02.tci-thaijo.org/index.php/ennrj/index",
+    "abstract": "Rosewood and Teak are valuable timber species, which have been heavily logged from both natural forests and plantations. Climate change has also contributed to a reduction in their numbers. We studied their light adaptability at the seedling stage to quantify the growth and physiological characteristics under 10% and 100% of full sunlight. Rosewood performed better, as indicated by the relative growth rate, chlorophyll content, and chlorophyll efficiency, under both shade and sunlight. We also simulated a sudden change in light intensity (gap opening up in the canopy) by exposing seedlings, previously under shade, to full sunlight. Rosewood seedlings responded faster (higher relative growth rate) to changing light conditions relative to Teak. We conclude that Rosewood seedlings can be planted either under shade, or in full sunlight, or in a location experiencing sudden change from shade to sunlight, while Teak seedlings should be planted under at least 10% sunlight, but not in full sunlight, as it can lead to chlorophyll and tissue damage.",
+    "readLink": "https://ph02.tci-thaijo.org/index.php/ennrj/article/view/244841/166028"
+  }
+]

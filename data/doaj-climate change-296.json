@@ -1,0 +1,248 @@
+[
+  {
+    "title": "Future projections of extreme precipitation intensity-duration-frequency curves for climate adaptation planning in New York State",
+    "authors": [
+      "Arthur T. DeGaetano,",
+      "Christopher M. Castellano"
+    ],
+    "doi": "https://doi.org/10.1016/j.cliser.2017.03.003",
+    "journalVolume": "Vol. 5,\n                                no. C\n                                \n                                  pp.\n                                  23\n                                  – 35",
+    "issn": "2405-8807 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-services/",
+    "abstract": "A set of future extreme precipitation probabilities are developed for New York State based on different downscaling approaches and climate model projections. Based on nearly 50 downscaling method-climate model combinations, percent differences are computed between simulated extreme precipitation amounts for one historical (1970–1999) and three future (2010–2039, 2040–2069, and 2070–2099) time periods. These percent change factors are then applied to the observed extremes to estimate future precipitation extremes. The results are presented to users via an interactive website (http://ny-idf-projections.nrcc.cornell.edu). As the engineering community is the primary user, the website displays intensity-duration-frequency (IDF) graphs depicting the: 1) mean projected extreme precipitation intensity, 2) range of future model projections, 3) distribution of observed extreme precipitation intensities, 4) confidence intervals about the observed values. One-hundred-year recurrence interval precipitation amounts exhibit a median increase of between 5 and 10% across the state in the 2010–2039 period regardless of greenhouse gas concentration. By the 2040–2069 period, the median increase is on the order of 10–20% for the high concentration case (RCP 8.5), but remains below 10% if concentrations are lower (RCP 4.5). At the end of the century, all downscaling method climate model combinations indicate increases, with a median change of between 20 and 30% in the case of high concentrations.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405880716300516"
+  },
+  {
+    "title": "Crop varieties, phenological phases and the yield-weather relationship: evidence from the Italian durum wheat production",
+    "authors": [
+      "Marco Tappi,",
+      "Federica Carucci,",
+      "Anna Gagliardi,",
+      "Giuseppe Gatta,",
+      "Marcella Michela Giuliani,",
+      "Fabio Gaetano Santeramo"
+    ],
+    "doi": "https://doi.org/10.36253/bae-13745",
+    "issn": "2280-6180 (Print)",
+    "publisher": "2280-6172 (Online)",
+    "countryOfPublisher": "Firenze University Press",
+    "lcc": [
+      "Italy",
+      "Agriculture: Aquaculture. Fisheries. Angling",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://oaj.fupress.net/index.php/bae/index",
+    "abstract": "The impacts of extreme weather events on crop productions are largely heterogeneous along the timing dimension of the shocks, and the varieties being affected. We investigate the relationships yield-weather for three durum wheat varieties (early, middle, and late). We disentangle the time dimension distinguishing five phenological stages, as identified by Growing Degree Days approach. Our panel regression models show that the starting and development stages are sensitive to changes in minimum temperatures, regardless of wheat variety. Raises in maximum temperatures during the starting stage are associated with increases in yields; the opposite is true for increases in high temperatures from seed fill to dough stage (for late varieties), and at maturity complete stage (for early varieties). The analysis suggests that advancing sowing dates may help preventing yield losses due to heat stress, whereas the cold stress should be managed through other on-farm risk management strategies or via crop insurance.",
+    "readLink": "https://oaj.fupress.net/index.php/bae/article/view/13745"
+  },
+  {
+    "title": "Temporally delineated sources of major chemical species in high Arctic snow",
+    "authors": [
+      "K. M. Macdonald,",
+      "S. Sharma,",
+      "D. Toom,",
+      "A. Chivulescu,",
+      "A. Platt,",
+      "M. Elsasser,",
+      "L. Huang,",
+      "R. Leaitch,",
+      "N. Chellman,",
+      "J. R. McConnell,",
+      "H. Bozem,",
+      "D. Kunkel,",
+      "Y. D. Lei,",
+      "C.-H. Jeong,",
+      "J. P. D. Abbatt,",
+      "G. J. Evans"
+    ],
+    "doi": "https://doi.org/10.5194/acp-18-3485-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  3485\n                                  – 3503",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "Long-range transport of aerosol from lower latitudes to the high Arctic may be a significant contributor to climate forcing in the Arctic. To identify the sources of key contaminants entering the Canadian High Arctic an intensive campaign of snow sampling was completed at Alert, Nunavut, from September 2014 to June 2015. Fresh snow samples collected every few days were analyzed for black carbon, major ions, and metals, and this rich data set provided an opportunity for a temporally refined source apportionment of snow composition via positive matrix factorization (PMF) in conjunction with FLEXPART (FLEXible PARTicle dispersion model) potential emission sensitivity analysis. Seven source factors were identified: sea salt, crustal metals, black carbon, carboxylic acids, nitrate, non-crustal metals, and sulfate. The sea salt and crustal factors showed good agreement with expected composition and primarily northern sources. High loadings of V and Se onto Factor 2, crustal metals, was consistent with expected elemental ratios, implying these metals were not primarily anthropogenic in origin. Factor 3, black carbon, was an acidic factor dominated by black carbon but with some sulfate contribution over the winter-haze season. The lack of K+ associated with this factor, a Eurasian source, and limited known forest fire events coincident with this factor's peak suggested a predominantly anthropogenic combustion source. Factor 4, carboxylic acids, was dominated by formate and acetate with a moderate correlation to available sunlight and an oceanic and North American source. A robust identification of this factor was not possible; however, atmospheric photochemical reactions, ocean microlayer reaction, and biomass burning were explored as potential contributors. Factor 5, nitrate, was an acidic factor dominated by NO3−, with a likely Eurasian source and mid-winter peak. The isolation of NO3− on a separate factor may reflect its complex atmospheric processing, though the associated source region suggests possibly anthropogenic precursors. Factor 6, non-crustal metals, showed heightened loadings of Sb, Pb, and As, and correlation with other metals traditionally associated with industrial activities. Similar to Factor 3 and 5, this factor appeared to be largely Eurasian in origin. Factor 7, sulfate, was dominated by SO42− and MS with a fall peak and high acidity. Coincident volcanic activity and northern source regions may suggest a processed SO2 source of this factor.",
+    "readLink": "https://www.atmos-chem-phys.net/18/3485/2018/acp-18-3485-2018.pdf"
+  },
+  {
+    "title": "Citizen Scientists Contribute to Real-Time Monitoring of Lake Water Quality Using 3D Printed Mini Secchi Disks",
+    "authors": [
+      "Grinson George,",
+      "Nandini N. Menon,",
+      "Anas Abdulaziz,",
+      "Robert J. W. Brewin,",
+      "P. Pranav,",
+      "A. Gopalakrishnan,",
+      "K. G. Mini,",
+      "Somy Kuriakose,",
+      "Shubha Sathyendranath,",
+      "Trevor Platt"
+    ],
+    "doi": "https://doi.org/10.3389/frwa.2021.662142",
+    "journalVolume": "Vol. 3",
+    "issn": "2624-9375 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/water#",
+    "abstract": "Citizen science aims to mobilise the general public, motivated by curiosity, to collect scientific data and contribute to the advancement of scientific knowledge. In this article, we describe a citizen science network that has been developed to assess the water quality in a 100 km long tropical lake-estuarine system (Vembanad Lake), which directly or indirectly influences the livelihood of around 1.6 million people. Deterioration of water quality in the lake has resulted in frequent outbreaks of water-associated diseases, leading to morbidity and occasionally, to mortality. Water colour and clarity are easily measurable and can be used to study water quality. Continuous observations on relevant spatial and temporal scales can be used to generate maps of water colour and clarity for identifying areas that are turbid or eutrophic. A network of citizen scientists was established with the support of students from 16 colleges affiliated with three universities of Kerala (India) and research institutions, and stakeholders such as houseboat owners, non-government organisations (NGOs), regular commuters, inland fishermen, and others residing in the vicinity of Vembanad Lake and keen to contribute. Mini Secchi disks, with Forel-Ule colour scale stickers, were used to measure the colour and clarity of the water. A mobile application, named “TurbAqua,” was developed for easy transmission of data in near-real time. In-situ data from scientists were used to check the quality of a subset of the citizen observations. We highlight the major economic benefits from the citizen network, with stakeholders voluntarily monitoring water quality in the lake at low cost, and the increased potential for sustainable monitoring in the long term. The data can be used to validate satellite products of water quality and can provide scientific information on natural or anthropogenic events impacting the lake. Citizens provided with scientific tools can make their own judgement on the quality of water that they use, helping toward Sustainable Development Goal 6 of clean water. The study highlights potential for world-wide application of similar citizen-science initiatives, using simple tools for generating long-term time series data sets, which may also help monitor climate change.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frwa.2021.662142/full"
+  },
+  {
+    "title": "Early-onset trend in European summer caused by Greenland topographic effect",
+    "authors": [
+      "Jun-Hyeok Son,",
+      "Nam-Hoon Kim,",
+      "Go-Un Kim,",
+      "Jung-Eun Chu,",
+      "Jae-Heung Park,",
+      "Jae-il Kwon,",
+      "Ki-Young Heo"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac94e7",
+    "journalVolume": "Vol. 17,\n                                no. 10\n                                \n                                  p.\n                                  104039",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Global heating, which is considered irreversible at least for the near future, causes various climate crises directly affecting human life. Accordingly, European countries have been afflicted by frequent heatwaves in summer. Convolutional neural network deep learning models have revealed the lengthening of the European summer over the past 42 years. Here we show that the early onset of summer is responsible for this climatic trend. In late May, an anti-cyclonic circulation anomaly strengthens over the United Kingdom, Ireland, and the adjoining Atlantic Ocean, causing significant temperature increases across Western Europe, Iceland, and around the Barents Sea. The intensification of the mid-latitude westerly wind impinging on Greenland seems to be responsible for strengthening the anomalous circulation change via topographically forced stationary Rossby wave responses. As the westerly wind intensification is ensued by further global heating, summer will begin earlier, and thus more frequent European heatwaves are expected to occur.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac94e7"
+  },
+  {
+    "title": "Harnessing Sorghum Landraces to Breed High-Yielding, Grain Mold-Tolerant Cultivars With High Protein for Drought-Prone Environments",
+    "authors": [
+      "Mallela Venkata Nagesh Kumar,",
+      "Vittal Ramya,",
+      "Mahalingam Govindaraj,",
+      "Chanda Venkata Sameer Kumar,",
+      "Setaboyine Maheshwaramma,",
+      "Seshu Gokenpally,",
+      "Mathyam Prabhakar,",
+      "Hariprasanna Krishna,",
+      "Mulinti Sridhar,",
+      "Maparla Venkata Ramana,",
+      "Kodari Avil Kumar,",
+      "Rumandla Jagadeeshwar"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2021.659874",
+    "journalVolume": "Vol. 12",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Intermittent drought and an incidence of grain mold disease are the two major constraints affecting sorghum production and productivity. The study aimed at developing drought-tolerant sorghum varieties possessing a high protein content and tolerance to grain mold with stable performance using additive main effects and multiplicative interaction (AMMI) and genotype and genotype × environment interaction (GGE) biplot methods. Systematic hybridization among the 11 superior landraces resulted in subsequent pedigree-based breeding and selection from 2010 to 2015 evolved 19 promising varieties of grains such as white, yellow, and brown pericarp grains. These grain varieties were evaluated for their adaptability and stability for yield in 13 rainfed environments and for possessing tolerance to grain mold in three hot spot environments. A variety of yellow pericarp sorghum PYPS 2 (3,698 kg/ha; 14.52% protein; 10.70 mg/100 g Fe) possessing tolerance to grain mold was identified as a stable variety by using both AMMI and GGE analyses. Four mega-environments were identified for grain yield and fodder yield. Sorghum varieties PYPS 2, PYPS 4, PYPS 8, and PYPS 11 were highly stable in E2 with a low grain mold incidence. Besides meeting the nutritional demand of smallholder farmers under dryland conditions, these varieties are suitable for enhancing sorghum productivity under the present climate change scenario.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2021.659874/full"
+  },
+  {
+    "title": "Climate bifurcation during the last deglaciation?",
+    "authors": [
+      "T. M. Lenton,",
+      "V. N. Livina,",
+      "V. Dakos,",
+      "M. Scheffer"
+    ],
+    "doi": "https://doi.org/10.5194/cp-8-1127-2012",
+    "journalVolume": "Vol. 8,\n                                no. 4\n                                \n                                  pp.\n                                  1127\n                                  – 1139",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "There were two abrupt warming events during the last deglaciation, at the start of the Bølling-Allerød and at the end of the Younger Dryas, but their underlying dynamics are unclear. Some abrupt climate changes may involve gradual forcing past a bifurcation point, in which a prevailing climate state loses its stability and the climate tips into an alternative state, providing an early warning signal in the form of slowing responses to perturbations, which may be accompanied by increasing variability. Alternatively, short-term stochastic variability in the climate system can trigger abrupt climate changes, without early warning. Previous work has found signals consistent with slowing down during the last deglaciation as a whole, and during the Younger Dryas, but with conflicting results in the run-up to the Bølling-Allerød. Based on this, we hypothesise that a bifurcation point was approached at the end of the Younger Dryas, in which the cold climate state, with weak Atlantic overturning circulation, lost its stability, and the climate tipped irreversibly into a warm interglacial state. To test the bifurcation hypothesis, we analysed two different climate proxies in three Greenland ice cores, from the Last Glacial Maximum to the end of the Younger Dryas. Prior to the Bølling warming, there was a robust increase in climate variability but no consistent slowing down signal, suggesting this abrupt change was probably triggered by a stochastic fluctuation. The transition to the warm Bølling-Allerød state was accompanied by a slowing down in climate dynamics and an increase in climate variability. We suggest that the Bølling warming excited an internal mode of variability in Atlantic meridional overturning circulation strength, causing multi-centennial climate fluctuations. However, the return to the Younger Dryas cold state increased climate stability. We find no consistent evidence for slowing down during the Younger Dryas, or in a longer spliced record of the cold climate state before and after the Bølling-Allerød. Therefore, the end of the Younger Dryas may also have been triggered by a stochastic perturbation.",
+    "readLink": "http://www.clim-past.net/8/1127/2012/cp-8-1127-2012.pdf"
+  },
+  {
+    "title": "Impacto do aquecimento global no cultivo do feijão-caupi, no Estado da Paraíba Impact of global warming on the cowpea cultivation in the State of Paraíba",
+    "authors": [
+      "João H. B. da C. Campos,",
+      "Madson T. Silva,",
+      "Vicente de P. R. da Silva"
+    ],
+    "doi": "https://doi.org/10.1590/S1415-43662010000400008",
+    "journalVolume": "Vol. 14,\n                                no. 4\n                                \n                                  pp.\n                                  396\n                                  – 404",
+    "issn": "1415-4366 (Print)",
+    "publisher": "1807-1929 (Online)",
+    "countryOfPublisher": "Universidade Federal de Campina Grande",
+    "lcc": [
+      "Brazil",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.scielo.br/scielo.php/script_sci_serial/pid_1415-4366/lng_en/nrm_iso/lng_en",
+    "abstract": "No presente estudo se avaliam os impactos da mudança do clima com base nos relatórios do Painel Intergovernamental em Mudanças do Clima (IPCC), no zoneamento agrícola de riscos climáticos para a cultura do feijão-caupi (Vigna unguiculata L. Walp) cultivado em sistema de sequeiro, no Estado da Paraíba. Utilizou-se o modelo do balanço hídrico associado a técnicas de geoprocessamento, e se objetivou a identificação das regiões do Estado em que a cultura do feijão-caupi sofrerá restrições em face das mudanças climáticas. As variáveis consideradas no modelo foram precipitação pluvial, coeficientes de cultura, evapotranspiração potencial e duração das fases fenológicas da cultura. Adotou-se, como limite para o índice de satisfação da necessidade de água para a cultura (ISNA), o valor de 0,50. A data foi considerada adequada para a semeadura quando a simulação do balanço hídrico apresentou resultados de ISNA com frequência mínima de 80%, superior ao valor do critério adotado. Tendo em vista um aumento de temperatura do ar de 3 e 6 oC, como sugerido pelo IPCC, o cultivo do feijão-caupi sofrerá uma redução significativa nas áreas atualmente favoráveis ao seu cultivo no Estado da Paraíba.This study evaluates the impacts of climate change, based on the reports of the IPCC, on the agricultural zoning of climatic risk of the rainfed cowpea (Vigna unguiculata L. Walp) crop grown in the Paraíba state. The water balance model combined with GIS techniques was used for identifying areas in the state where the cowpea crop will suffer yield restrictions due to climate changes. Model input variables were: rainfall, crop coefficients, potential evapotranspiration and duration of the crop cycle. The limit value of 0.5 was adopted for the water requirement satisfaction index (WRSI). The date acceptable for seeding was that when the water balance simulation presented, for at least 80% minimum frequency, WRSI value greater than that limit value. An increase in air temperature of 3 and 6 oC, as suggested by the IPCC, will cause a significant reduction in the areas currently favorable for cowpea crop growth in the Paraíba state.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-43662010000400008"
+  },
+  {
+    "title": "CH2018 – National climate scenarios for Switzerland: How to construct consistent multi-model projections from ensembles of opportunity",
+    "authors": [
+      "Silje Lund Sørland,",
+      "Andreas M. Fischer,",
+      "Sven Kotlarski,",
+      "Hans R. Künsch,",
+      "Mark A. Liniger,",
+      "Jan Rajczak,",
+      "Christoph Schär,",
+      "Curdin Spirig,",
+      "Kuno Strassmann,",
+      "Reto Knutti"
+    ],
+    "doi": "Vol. 20\n                                \n                                \n                                  p.\n                                  100196",
+    "issn": "2405-8807 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/climate-services/",
+    "abstract": "The latest Swiss Climate Scenarios (CH2018), released in November 2018, consist of several datasets derived through various methods that provide robust and relevant information on climate change in Switzerland. The scenarios build upon the regional climate model projections for Europe produced through the internationally coordinated downscaling effort EURO-CORDEX. The simulations from EURO-CORDEX consist of simulations at two spatial horizontal resolutions, several global climate models, and three different emission scenarios. Even with this unique dataset of regional climate scenarios, a number of practical challenges regarding a consistent interpretation of the model ensemble arise. Here we present the methodological chain employed in CH2018 in order to generate a multi-model ensemble that is consistent across scenarios and is used as a basis for deriving the CH2018 products. The different steps involve a thorough evaluation of the full EURO-CORDEX model ensemble, the removal of doubtful and potentially erroneous simulations, a time-shift approach to account for an equal number of simulations for each emission scenario, and the multi-model combination of simulations with different spatial resolutions. Each component of this cascade of processing steps is associated with an uncertainty that eventually contributes to the overall scientific uncertainty of the derived scenario products. We present a comparison and an assessment of the uncertainties from these individual effects and relate them to probabilistic projections. It is shown that the CH2018 scenarios are generally supported by the results from other sources. Thus, the CH2018 scenarios currently provide the best available dataset of future climate change estimates in Switzerland.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405880720300480"
+  },
+  {
+    "title": "Educational attainment predicts negative perceptions women have of their own climate change knowledge.",
+    "authors": [
+      "Kathryn R Selm,",
+      "M Nils Peterson,",
+      "George R Hess,",
+      "Scott M Beck,",
+      "Melissa R McHale"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0210149",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  p.\n                                  e0210149",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Education may encourage personal and collective responses to climate change, but climate education has proven surprisingly difficult and complex. Self-perception of knowledge and intelligence represent one factor that may impact willingness to learn about climate change. We explored this possibility with a case study in Raleigh, North Carolina in 2015 (n = 200). Our goal was to test how gender and ethnicity influenced perceptions people had of their own climate change knowledge. Survey respondents were asked how strongly they agreed with the statement \"I feel knowledgeable about climate change\" (1 = strongly disagree, and 5 = strongly agree). Our survey instrument also included demographic questions about race, age, income, gender, and education, as well as respondent's experience with natural disasters and drought. We observed an interaction between education and gender where women's self-perceived knowledge was higher than men among people with low levels of educational attainment, but was higher for men than women among people with high levels of educational attainment. In addition, minority respondents self-reported lower perceived climate change knowledge than white respondents, regardless of educational attainment. This study enhances our understanding of the gender gap in self-perceptions of climate knowledge by suggesting it is contingent on educational attainment. This could be the result of stereotype-threat experienced by women and minorities, and exacerbated by educational systems. Because people who question their knowledge are often more able to learn, particularly in ideologically charged contexts, highly educated women and minorities may be more successful learning about climate change than white men.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0210149"
+  }
+]

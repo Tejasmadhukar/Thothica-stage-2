@@ -1,0 +1,209 @@
+[
+  {
+    "title": "Variation of Oriental Oak (Quercus variabilis) Leaf δ13C across Temperate and Subtropical China: Spatial Patterns and Sensitivity to Precipitation",
+    "authors": [
+      "Baoming Du,",
+      "Hongzhang Kang,",
+      "Yanhua Zhu,",
+      "Xuan Zhou,",
+      "Shan Yin,",
+      "Paul J. Burgess,",
+      "Chunjiang Liu"
+    ],
+    "doi": "https://doi.org/10.3390/f6072296",
+    "journalVolume": "Vol. 6,\n                                no. 7\n                                \n                                  pp.\n                                  2296\n                                  – 2306",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The concentration of the carbon-13 isotope (leaf δ13C) in leaves is negatively correlated with the mean annual precipitation (MAP) atlarge geographical scales. In this paper, we explain the spatial pattern of leaf δ13C variation for deciduous oriental oak (Quercus variabilis Bl.) across temperate and subtropical biomes and its sensitivity to climate factors such as MAP. There was a 6‰ variation in the leaf δ13C values of oak with a significant positive correlation with latitude and negative correlations with the mean annual temperature (MAT) and MAP. There was no correlation between leaf δ13C and altitude or longitude. Stepwise multiple regression analyses showed that leaf δ13C decreased 0.3‰ per 100 mm increase in MAP. MAP alone could account for 68% of the observed variation in leaf δ13C. These results can be used to improve predictions for plant responses to climate change and particularly lower rainfall.",
+    "readLink": "http://www.mdpi.com/1999-4907/6/7/2296"
+  },
+  {
+    "title": "Evaluation of ensemble precipitation forecasts generated through post-processing in a Canadian catchment",
+    "authors": [
+      "S. K. Jha,",
+      "S. K. Jha,",
+      "D. L. Shrestha,",
+      "T. A. Stadnyk,",
+      "P. Coulibaly"
+    ],
+    "doi": "https://doi.org/10.5194/hess-22-1957-2018",
+    "journalVolume": "Vol. 22\n                                \n                                \n                                  pp.\n                                  1957\n                                  – 1969",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Flooding in Canada is often caused by heavy rainfall during the snowmelt period. Hydrologic forecast centers rely on precipitation forecasts obtained from numerical weather prediction (NWP) models to enforce hydrological models for streamflow forecasting. The uncertainties in raw quantitative precipitation forecasts (QPFs) are enhanced by physiography and orography effects over a diverse landscape, particularly in the western catchments of Canada. A Bayesian post-processing approach called rainfall post-processing (RPP), developed in Australia (Robertson et al., 2013; Shrestha et al., 2015), has been applied to assess its forecast performance in a Canadian catchment. Raw QPFs obtained from two sources, Global Ensemble Forecasting System (GEFS) Reforecast 2 project, from the National Centers for Environmental Prediction, and Global Deterministic Forecast System (GDPS), from Environment and Climate Change Canada, are used in this study. The study period from January 2013 to December 2015 covered a major flood event in Calgary, Alberta, Canada. Post-processed results show that the RPP is able to remove the bias and reduce the errors of both GEFS and GDPS forecasts. Ensembles generated from the RPP reliably quantify the forecast uncertainty.",
+    "readLink": "https://www.hydrol-earth-syst-sci.net/22/1957/2018/hess-22-1957-2018.pdf"
+  },
+  {
+    "title": "Climate Change Implications for Water Availability: A Case Study of Barcelona City",
+    "authors": [
+      "Edwar Forero-Ortiz,",
+      "Eduardo Martínez-Gomariz,",
+      "Robert Monjo"
+    ],
+    "doi": "https://doi.org/10.3390/su12051779",
+    "journalVolume": "Vol. 12,\n                                no. 5\n                                \n                                  p.\n                                  1779",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Barcelona city has a strong dependence on the Ter and Llobregat reservoir system to provide drinking water. One main concern for the next century is a potential water scarcity triggered by a severe and persistent rainfall shortage. This is one of the climate-driven impacts studied within the EU funded project RESCCUE. To evaluate potential drought scenarios, the Hydrologiska Byråns Vattenbalansavdelning (HBV) hydrological model reproduces the water contributions by month that have reached the reservoirs, regarding the accumulated rainfall over each sub-basin, representing the available historical-observed water levels. For future scenarios, we adjusted the input data set using climate projections of rainfall time series data of the project RESCCUE. Local outputs from 9 different climate models were applied to simulate river basins’ responses to reservoirs’ incoming water volume. Analyzing these results, we obtained average trends of the models for each scenario, hypothetical extreme values, and quantification for changes in water availability. Future water availability scenarios for Barcelona central water sources showed a mean decrease close to 11% in comparison with the period 1971−2015, considering the representative concentration pathway 8.5 (RCP8.5) climate change scenario in the year 2100. This research forecasts a slight downward trend in water availability from rainfall contributions from the mid-21st century. This planned future behavior does not mean that the annual water contributions are getting lower than the current ones, but rather, identifies an escalation in the frequency of drought cycles.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/5/1779"
+  },
+  {
+    "title": "LCIS DSS—An Irrigation Supporting System for Efficient Water Use in Precision Agriculture",
+    "authors": [
+      "Anna Brook,",
+      "Keren Salinas,",
+      "Eugenia Monaco,",
+      "Antonello Bonfante"
+    ],
+    "doi": "https://doi.org/10.3390/proceedings2019030021",
+    "journalVolume": "Vol. 30,\n                                no. 1\n                                \n                                  p.\n                                  21",
+    "issn": "2504-3900 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "General Works"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/proceedings",
+    "abstract": "The sustainable management of water resources is one of the most important topics to face future climate change and food security. Many countries facing a serious water crisis, due to both natural and artificial causes. The efficient use of water in agriculture is one of the most significant agricultural challenges that modern technologies. These last are considered powerful management instruments able to help farmers achieve the best efficiency in irrigation water use and to increase their incomes by obtaining the highest possible crop yield. In this context, within the project “An advanced low cost system for farm irrigation support—LCIS” (a joint Italian Israeli R&D project), a fully transferable Decision Support Systems (DSS) for irrigation support, based on three different methodologies representative of the state of the art in irrigation management tools (W-Tens, in situ soil sensor; IRRISAT®, remote sensing; W-Mod, simulation modelling of water balance in the soil-plant and atmosphere system), has been developed. These three LCIS-DSS tools have been evaluated, in terms of their ability to support the farmer in irrigation management, in a real applicative case study in Italy and Israel. The main challenge of a new DSS for irrigation is attributed to the uncertain factors during the growing season such as weather uncertainty, and crop monitoring platform. For encounter this challenge, we developed during two years the LCIS, a web-based real-time DSS for irrigation scheduling using low-cost imaging spectroscopy for state estimation of the agriculture system and probabilistic short- and medium-term climate forecasts. While the majority of the existing DSS models are incorporated directly into the optimization framework, we propose to integrate continuous feedback from the field (e.g., soil moisture, crop water-stress, plant stage, LAI, and biomass) estimated based on remote sensing information. These field data will be collected by the point-based spectrometer and hyperspectral imaging system. Then a low-cost camera will be designed for specific spectral/spatial parameters (bound to the required feedbacks). The main objectives were: developing real-time Decision Support System (DSS) for optimal irrigation scheduling at farm scale for crop yield improvement, reducing irrigation cost, and water saving; developing a low-cost imaging spectroscopy framework to support the irrigation scheduling DSS above and facilitates its use in countries/places where expensive imaging spectroscopy is not available; examining the developed framework in real-life application, the framework will be calibrated evaluated using high resolution devices and tested using a low-cost system in Israel and Italy farms.",
+    "readLink": "https://www.mdpi.com/2504-3900/30/1/21"
+  },
+  {
+    "title": "First Spatial Reconstruction of Past Fires in Temperate Europe Suggests Large Variability of Fire Sizes and an Important Role of Human-Related Ignitions",
+    "authors": [
+      "Ewa Zin,",
+      "Ewa Zin,",
+      "Łukasz Kuberski,",
+      "Igor Drobyshev,",
+      "Igor Drobyshev,",
+      "Igor Drobyshev,",
+      "Mats Niklasson,",
+      "Mats Niklasson"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2022.768464",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "The spatial component of past forest fires in temperate Europe has been little studied, despite the value of such data in quantifying human and natural factors driving fire activity and associated forest dynamics. Changes in fire regimes reported across a range of ecosystems call for a better understanding of variability in historic fires and may help define reference points that can be relied upon when discussing climate change effects. We provide the first dendrochronological reconstruction of historical fire sizes in Central Europe and analyze the minimum extent of fires during the last four centuries in a 9.2 km2 (920 ha) conifer-dominated section of Białowieża Forest, one of the largest continuous lowland forests of the subcontinent. We recorded 82 fires between 1666 and 1946, using 275 sample trees, while 92% of fires (76 out of 82) spread beyond the studied area. Fires varied considerably in size, from events recorded at only one site (1–200 ha) to fires recorded in more than half of the studied area, thus exceeding 500 ha in size. The fire cycle was 11 years over the whole study period, with three distinct periods revealed by the regime shift analysis. In the years 1670–1750, the fire cycle averaged 12 years. It shortened to 7 years between 1755–1840 and increased to 22 years over the 1845–1955 period. In comparison with present day data, the reconstructed fire density of 3.2 fires per 100 km2 (10 000 ha) and year exceeded lightning ignition density by one to two orders of magnitude, suggesting a significant contribution of human-related ignitions. Our results highlight the important role of fire disturbance in Białowieża Forest and provide critical baseline information to design biological conservation strategies for European forests.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2022.768464/full"
+  },
+  {
+    "title": "Spatial-Temporal Patterns and Controls of Evapotranspiration across the Tibetan Plateau (2000–2012)",
+    "authors": [
+      "Hao Zhang,",
+      "Jian Sun,",
+      "Junnan Xiong"
+    ],
+    "doi": "https://doi.org/10.1155/2017/7082606",
+    "journalVolume": "Vol. 2017",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "Evapotranspiration (ET) is a key factor to further our understanding of climate change processes, especially on the Tibetan Plateau, which is sensitive to global change. Herein, the spatial patterns of ET are examined, and the effects of environmental factors on ET at different scales are explored from the years 2000 to 2012. The results indicated that a steady trend in ET was detected over the past decade. Meanwhile, the spatial distribution shows an increase of ET from the northwest to the southeast, and the rate of change in ET is lower in the middle part of the Tibetan Plateau. Besides, the positive effect of radiation on ET existed mainly in the southwest. Based on the environment gradient transects, the ET had positive correlations with temperature (R>0.85, p 0.89, p 0.75, p < 0.0001), but a negative correlation between ET and radiation (R = 0.76, p < 0.0001) was observed. We also found that the relationships between environmental factors and ET differed in the different grassland ecosystems, which indicated that vegetation type is one factor that can affect ET. Generally, the results indicate that ET can serve as a valuable ecological indicator.",
+    "readLink": "http://dx.doi.org/10.1155/2017/7082606"
+  },
+  {
+    "title": "Green Jobs in Australia: A Status Report",
+    "authors": [
+      "Kathryn Hegarty,",
+      "Orana Sandri,",
+      "Ian Thomas"
+    ],
+    "doi": "https://doi.org/10.3390/su2123792",
+    "journalVolume": "Vol. 2,\n                                no. 12\n                                \n                                  pp.\n                                  3792\n                                  – 3811",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "This paper captures the breadth of complexity in the debate about ‘green jobs’ as the world seeks to transition to a ‘low carbon economy’ and to reduce greenhouse gas emissions through the reduction of reliance for energy on the burning of fossil fuels. A consideration is provided within both the Australian and international contexts of the current assertions and projections regarding green jobs, their definition and location in the economy. The substantive focus of the paper is on the development of these notions in the Australian context. We consider the understanding brought to the term and explore some of the intersections for vocational employment and training which have emerged in debate about the ways in which nations will manage the carbon pollution reduction imperative. We explore the ways forward for a coherent understanding of the need to build capacity for green jobs.",
+    "readLink": "http://www.mdpi.com/2071-1050/2/12/3792/"
+  },
+  {
+    "title": "Take the Opportunity Afforded by the COVID-19 Experiences: Progressive Non-growth Policies for Sustainable Lifestyles",
+    "authors": [
+      "Magnus Boström"
+    ],
+    "doi": "https://doi.org/10.3389/frsus.2021.726320",
+    "journalVolume": "Vol. 2",
+    "issn": "2673-4524 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Social Sciences: Economic theory. Demography"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/sustainability#",
+    "abstract": "The COVID-19 pandemic has led to significant restrictions on lifestyles and consumption everywhere. Many consumer practices have been disrupted due to the shutting down of economic and social activities, limiting of mobility in public places, closing of shopping centers and non-essential stores, and closing of borders. These restrictions have had a significant impact on climate emissions. Much public and scholarly attention has been given to the question of whether the pandemic also offers a window of opportunity for long-term sustainability transformation. The article elaborates on this issue by specifically discussing progressive non-growth policies for sustainable lifestyles and reduced consumption. What potential for long-term transformative change results from lifestyle changes like these? How can societies be restructured to take advantage of the experiences from the pandemic? Bottom-up drivers and possibilities for top-down enforcement are both important to consider. The article limits its focus to top-down policy measures with transformative potential related to sustainable lifestyles (reduced consumption) by summarizing and discussing some key policy lessons identified in recent COVID-19 literature. It considers the need to address likely rebound effects and the vested interests in bouncing practices back toward the previous unsustainable “normality.” The argument is generally inspired by post-growth and degrowth perspectives, as the dominant pro-growth, neo-liberal doctrines are seen as unable to transform societies and guide them onto sustainable paths.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/frsus.2021.726320/full"
+  },
+  {
+    "title": "Perceptions of an endangered Baltic Sea",
+    "authors": [
+      "Hans von Storch"
+    ],
+    "doi": "Vol. 65,\n                                no. 1\n                                \n                                  pp.\n                                  44\n                                  – 49",
+    "issn": "0078-3234 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/oceanologia/",
+    "abstract": "In a series of ad-hoc surveys at different academic institutions in the Baltic Sea region, students and young scholars were asked about their views about the environmental issues of the Baltic Sea, and who would be responsible for the management of the Baltic Sea. Overfishing, climate change and waste were considered the most significant issues, while tourism and constructions (of bridges, etc.) were less often recognized as severe. The responsibility for the management of the Baltic Sea was mostly attributed to the European Union or to the respective national governments.Since climate is one of these issues, one question has dealt with the main task of climate science. It turns out that the most frequent assertion was not the genuine scientific task of generating knowledge about the dynamics of the system. Instead, the task of solving the problem and, equally often, supporting climate activism was favored.The results are not representative – neither for the separate surveys, nor for the selection of the sites of surveying. However, when taken all surveys together, the emergence of consistent perceptions may be considered evidence for a general attitude among students and young scholars in the Baltic regions. However, differences between groups – in terms of nationality, seniority and discipline - may be related to sampling randomness.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0078323421000786"
+  },
+  {
+    "title": "The Effects of Sandstorms on the Climate of Northwestern China",
+    "authors": [
+      "Tiantian Hu,",
+      "Di Wu,",
+      "Yaohui Li,",
+      "Chenghai Wang"
+    ],
+    "doi": "https://doi.org/10.1155/2017/4035609",
+    "journalVolume": "Vol. 2017",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "In this paper, we investigate the observational direct radiation characteristics of several sandstorm events in Northwestern China (NWC). A simulating sensitivity experiment was designed to reduce the downward radiation in RegCM4 to investigate the climatic impacts and persistence of the direct radiation effect (DRE) from dust aerosols in sandstorms. The results show that dust aerosols in sandstorms can change the radiation heating rate of the atmosphere, heating the air in the middle and low troposphere and cooling Earth’s surface. The climate effects of continuous and intense sandstorms in April in NWC can reach downstream areas such as Southeast and Northeast China and can persist for months. The dust aerosols in sandstorms can enhance diabatic heating and moisture loss. Therefore, dust storms lead to the environment in NWC becoming warmer and dryer. Through analysis of the dust tracer total burden, we identified that the enhancement of the dust total burden in the arid region illustrated that the DRE of dust aerosol in sandstorm process can react with the dust emission, thus forming a self-feedback loop. The DRE can persist three months.",
+    "readLink": "http://dx.doi.org/10.1155/2017/4035609"
+  }
+]

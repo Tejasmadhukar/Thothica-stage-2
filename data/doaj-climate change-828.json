@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Comparative Life Cycle Assessment of Propulsion Systems for Heavy-Duty Transport Applications",
+    "authors": [
+      "Sam Simons,",
+      "Ulugbek Azimov"
+    ],
+    "doi": "https://doi.org/10.3390/en14113079",
+    "journalVolume": "Vol. 14,\n                                no. 3079\n                                \n                                  p.\n                                  3079",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "To meet climate change challenges, the UK government is aiming to reach zero emissions by 2050. The heavy-duty transportation sector contributes 17% to the UKs total emissions, so to combat this, alternative power units to traditional fossil fuel-reliant internal combustion engines (ICEs) are being utilized and investigated. Hydrogen fuel cells are a key area of interest to try and reduce these transportation emissions. To gain a true view of the impact that hydrogen fuel cells can have, this study looks at the impact the manufacturing of a fuel cell has upon the environment, from material extraction through to the usage phase. This was done through the use of a lifecycle assessment following ISO 14040 standards, with hydrogen systems being compared to alternative systems. This study has found that whilst fuel cells depend upon energy intensive materials for their construction, it is possible to reduce emissions by 34–87% compared to ICE systems, depending upon the source of hydrogen used. This study shows that hydrogen fuel cells are a viable option for heavy-duty transport that can be utilized to meet the target emissions reduction level by 2050.",
+    "readLink": "https://www.mdpi.com/1996-1073/14/11/3079"
+  },
+  {
+    "title": "How Climate Change Will Affect Forest Composition and Forest Operations in Baden-Württemberg—A GIS-Based Case Study Approach",
+    "authors": [
+      "Ferréol Berendt,",
+      "Mathieu Fortin,",
+      "Dirk Jaeger,",
+      "Janine Schweier"
+    ],
+    "doi": "https://doi.org/10.3390/f8080298",
+    "journalVolume": "Vol. 8,\n                                no. 8\n                                \n                                  p.\n                                  298",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "In order to accommodate foreseen climate change in European forests, the following are recommended: (i) to increase the number of tree species and the structural diversity; (ii) to replace unsuitable species by native broadleaved tree species, and (iii) to apply close-to-nature silviculture. The state forest department of Baden-Württemberg (BW) currently follows the concept of Forest Development Types (FDTs). However, future climatic conditions will have an impact on these types of forest as well as timber harvesting operations. This Geographic Information System (GIS)-based analysis identified appropriate locations for main FDTs and timber harvesting and extraction methods through the use of species suitability maps, topography, and soil sensitivity data. Based on our findings, the most common FDT in the state forest of BW is expected to be coniferous-beech mixed forests with 29.0% of the total forest area, followed by beech-coniferous (20.5%) and beech-broadleaved (15.4%) mixed forests. Where access for fully mechanized systems is not possible, the main harvesting and extraction methods would be motor manual felling and cable yarding (29.1%). High proportions of large dimensioned trees will require timber extraction using forestry tractors, and these will need to be operated from tractor roads on sensitive soils (23.0%), and from skid trails on insensitive soils (18.4%).",
+    "readLink": "https://www.mdpi.com/1999-4907/8/8/298"
+  },
+  {
+    "title": "Analysis and Prediction of Greenhouse Gas Emissions from Wheat Production in China",
+    "authors": [
+      "Guifang Liu,",
+      "Weijun Xu,",
+      "Yongwu Dai,",
+      "Zhongyue Xu"
+    ],
+    "doi": "https://doi.org/10.3303/CET1870220",
+    "journalVolume": "Vol. 70",
+    "issn": "1974-9791 (Print)",
+    "publisher": "2283-9216 (Online)",
+    "countryOfPublisher": "AIDIC Servizi S.r.l.",
+    "lcc": [
+      "Italy",
+      "Technology: Chemical technology: Chemical engineering",
+      "Technology: Electrical engineering. Electronics. Nuclear engineering: Electronics: Computer engineering. Computer hardware"
+    ],
+    "journalUrl": "https://www.cetjournal.it/index.php/cet",
+    "abstract": "With the increasing awareness of climate change, food carbon footprint (CF) has been analysed by many studies. Wheat is one of the world’s most favoured food sources, reaching millions of people on a daily basis. In this study, the wheat CF and total greenhouse gas (GHG) emissions were investigated using national statistical data for the period of 2003-2016. There is an interactive correlation between the wheat CF value and yield, and wheat CF could be reduced by increasing food yield. In addition, the results showed that the changes in product CF values of the crop during 14 y were minor. However, due to the increase of total national yield, the GHG emissions from wheat production were increased significantly. On the other hand, the product CF, GDP (gross domestic product) CF, and total GHG emissions from wheat production from 2017 to 2021 were predicted by grey system. From the viewpoint of GDP CF, Chinese agricultural sector has completed the 2020 emission reduction targets. However, the total GHG emissions from wheat production were increased largely. It indicated that reducing food consumption and dietary shift to the food with low CF should be paid more attention to mitigate climate change.",
+    "readLink": "https://www.cetjournal.it/index.php/cet/article/view/650"
+  },
+  {
+    "title": "Geostatistical Tools to Assess Existing Monitoring Network of Forest Soils in a Mountainous National Park",
+    "authors": [
+      "Pawel Jezierski,",
+      "Cezary Kabala"
+    ],
+    "doi": "https://doi.org/10.3390/f12030333",
+    "journalVolume": "Vol. 12,\n                                no. 333\n                                \n                                  p.\n                                  333",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Environmental changes in national parks are generally subject to constant observation. A particular case is parks located in mountains, which are more vulnerable to climate change and the binding of pollutants in mountain ranges as orographic barriers. The effectiveness of forest soil monitoring networks based on a systematic grid with a predetermined density has not been analysed so far. This study’s analysis was conducted in the Stolowe Mountains National Park (SMNP), SW Poland, using total Pb concentration data obtained from an initial network of 403 circle plots with centroids arranged in a regular 400 × 400 m square grid. The number and distribution of monitoring plots were analysed using geostatistical tools in terms of the accuracy and correctness of soil parameters obtained from spatial distribution imaging. The analysis also aimed at reducing the number of monitoring plots taking into account the economic and logistic aspects of the monitoring investigations in order to improve sampling efficiency in subsequent studies in the SMNP. The concept of the evaluation and modification of the monitoring network presented in this paper is an original solution and included first the reduction and then the extension of plot numbers. Two variants of reduced monitoring networks, constructed using the proposed procedure, allowed us to develop the correct geostatistical models, which were characterised by a slightly worse mean standardised error (MSE) and root mean squared error (RMSE) compared to errors from the original, regular monitoring network. Based on the new geostatistical models, the prediction of Pb concentration in soils in the reduced grids changed the spatial proportions of areas in different pollution classes to a limited extent compared to the original network.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/3/333"
+  },
+  {
+    "title": "Preparing for the worst: Utilizing stress‐tolerant soil microbial communities to aid ecological restoration in the Anthropocene",
+    "authors": [
+      "Justin M. Valliere,",
+      "Wei San Wong,",
+      "Paul G. Nevill,",
+      "Hongtao Zhong,",
+      "Kingsley W. Dixon"
+    ],
+    "doi": "https://doi.org/10.1002/2688-8319.12027",
+    "journalVolume": "Vol. 1,\n                                no. 2\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2688-8319 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://besjournals.onlinelibrary.wiley.com/journal/26888319",
+    "abstract": "Abstract 1. Multiple drivers of environmental change pose a significant challenge for ecological restoration, including climate change, soil salinization and environmental pollution. Due to the important role that soil biota play in enabling plants to cope with a variety of abiotic stressors, there is growing interest in the use of microbial inoculations to facilitate native plant restoration in the face of such change. 2. Recently, novel methods have begun being explored in agriculture to harness stress‐conditioned soil biota for improving abiotic stress tolerance in crop species. Similar applications in ecological restoration – where plants are inoculated with indigenous soil microbial communities that are preconditioned to various abiotic stressors – could potentially increase our capacity to restore degraded ecosystems under global change. 3. In this paper, we aim to (1) outline the ways in which soil microbial communities might be conditioned in order to confer greater stress tolerance to plants that are targets for restoration; (2) highlight successful (and unsuccessful) examples where stress‐tolerant soil microbial communities were utilized to improve plant performance; (3) describe the ways in which stress‐conditioned soil biota could be deployed in order to assist ecological restoration; and (4) discuss the potential risks and outstanding questions associated with such an approach. 4. If restoration practitioners are able to harness the soil microbiome to improve plant stress tolerance as is currently being explored in agriculture, this could revolutionize methods for the restoration of degraded lands in the Anthropocene.",
+    "readLink": "https://doi.org/10.1002/2688-8319.12027"
+  },
+  {
+    "title": "Mapping Forest Fire Risk and Development of Early Warning System for NW Vietnam Using AHP and MCA/GIS Methods",
+    "authors": [
+      "Thanh Van Hoang,",
+      "Tien  Yin Chou,",
+      "Yao  Min Fang,",
+      "Ngoc  Thach Nguyen,",
+      "Quoc  Huy Nguyen,",
+      "Pham Xuan Canh,",
+      "Dang Ngo Bao Toan,",
+      "Xuan  Linh Nguyen,",
+      "Michael  E. Meadows"
+    ],
+    "doi": "https://doi.org/10.3390/app10124348",
+    "journalVolume": "Vol. 10,\n                                no. 4348\n                                \n                                  p.\n                                  4348",
+    "issn": "2076-3417 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Science: Biology (General)",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/applsci",
+    "abstract": "Forest fires constitute a major environmental problem in tropical countries, especially in the context of climate change and increasing human populations. This paper aims to identify the causes of frequent forest fires in Son La Province, a fire-prone and forested mountainous region in northwest Vietnam, with a view to constructing a forest fire-related database with multiple layers of natural, social and economic information, extracted largely on the basis of Landsat 7 images. The assessment followed an expert systems approach, applying multi-criteria analysis (MCA) with an analytical hierarchy process (AHP) to determine the weights of the individual parameters related to forest fires. A multi-indicator function with nine parameters was constructed to establish a forest fire risk map at a scale of 1:100,000 for use at the provincial level. The results were verified through regression analysis, yielding R2 = 0.86. A real-time early warning system for forest fire areas has been developed for practical use by the relevant government authorities to provide more effective forest fire prevention planning for Son La Province.",
+    "readLink": "https://www.mdpi.com/2076-3417/10/12/4348"
+  },
+  {
+    "title": "The land and sea routes to 2030: a call for greater attention on all small islands in global environmental policy",
+    "authors": [
+      "Andrea Monica D. Ortiz,",
+      "Ma. Laurice Jamero,",
+      "Silvio Javier Crespin,",
+      "Cecilia Smith Ramirez,",
+      "Denise Margaret S. Matias,",
+      "Jameela Joy Reyes,",
+      "Aníbal Pauchard,",
+      "Antonio G. M. La Viña"
+    ],
+    "doi": "https://doi.org/10.1038/s44185-023-00023-5",
+    "journalVolume": "Vol. 2,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 8",
+    "issn": "2731-4243 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "https://www.nature.com/npjbiodivers/",
+    "abstract": "Abstract Islands have unique vulnerabilities to biodiversity loss and climate change. Current Nationally Determined Contributions under the Paris Agreement are insufficient to avoid the irreversible loss of critical island ecosystems. Existing research, policies, and finance also do not sufficiently address small islands’ social-environmental challenges. For instance, the new Global Biodiversity Framework (GBF) mentions islands in the invasive species management target. This focus is important, as islands are at high risk to biological invasions; however, this is the only GBF target that mentions islands. There are threats of equal or greater urgency to small islands, including coastal hazards and overexploitation. Ecosystems such as coral reefs and mangroves are crucial for biodiversity, coastal protection, and human livelihoods, yet are unaddressed in the GBF. While research and global policy, including targeted financial flows, have a strong focus on Small Island Developing States (SIDS), the situation of other small islands has been largely overlooked. Here, through a review of policy developments and examples from islands in the Philippines and Chile, we urge that conservation and climate change policies place greater emphasis on acknowledging the diversity of small islands and their unique governance challenges, extending the focus beyond SIDS. Moving forward, global policy and research should include the recognition of small islands as metacommunities linked by interacting species and social-ecological systems to emphasize their connectivity rather than their isolation. Coalition-building and knowledge-sharing, particularly with local, Indigenous and traditional knowledge-holders from small islands, is needed to meet global goals on biodiversity and sustainable development by 2030.",
+    "readLink": "https://doi.org/10.1038/s44185-023-00023-5"
+  },
+  {
+    "title": "Glacier mass-balance estimates over High Mountain Asia from 2000 to 2021 based on ICESat-2 and NASADEM",
+    "authors": [
+      "Yubin Fan,",
+      "Chang-Qing Ke,",
+      "Xiaobing Zhou,",
+      "Xiaoyi Shen,",
+      "Xuening Yu,",
+      "Drolma Lhakpa"
+    ],
+    "doi": "https://doi.org/10.1017/jog.2022.78",
+    "journalVolume": "Vol. 69\n                                \n                                \n                                  pp.\n                                  500\n                                  – 512",
+    "issn": "0022-1430 (Print)",
+    "publisher": "1727-5652 (Online)",
+    "countryOfPublisher": "Cambridge University Press",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/journal-of-glaciology",
+    "abstract": "High Mountain Asia (HMA) glaciers are critical water reserves for montane regions, which are readily influenced by climate change. The glacier mass balance during 2000–2021 over HMA was estimated by comparing the elevations from ICESat-2 and the NASADEM. Radar penetration depth could be one of the intrinsic error sources in estimating glacier mass balance by using NASADEM. Therefore, we doubled elevation differences between the X-band Shuttle Radar Topography Missions (SRTMs) and NASADEM to estimate the potential error. The spatial characteristics of the altitude-dependent penetration depth can be detected in most sub-regions of HMA. Relatively deep penetrations in the Himalaya (2.3–3.7 m) and Hissar Alay (4.3 m) regions and small penetrations in the south-eastern HMA (1.0 m) were observed. The HMA region experienced a significant mass loss at a rate of −0.18 ± 0.12 m w.e. a−1, in which the Hengduan Shan exhibited the highest mass loss of −0.62 ± 0.10 m w.e. a−1, the West Kun Lun experienced a substantial mass gain of 0.23 ± 0.13 m w.e. a−1, and the Karakoram showed a more or less balance. Our results are in agreement with previous studies that assessed the mass balance of HMA glaciers from different methods.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S0022143022000788/type/journal_article"
+  },
+  {
+    "title": "Cold Pool Dynamics Shape the Response of Extreme Rainfall Events to Climate Change",
+    "authors": [
+      "Kai Lochbihler,",
+      "Geert Lenderink,",
+      "A. Pier Siebesma"
+    ],
+    "doi": "https://doi.org/10.1029/2020MS002306",
+    "journalVolume": "Vol. 13,\n                                no. 2\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "1942-2466 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1942-2466/",
+    "abstract": "Abstract There is increasing evidence that local rainfall extremes can increase with warming at a higher rate than expected from the Clausius‐Clapeyron (CC) relation. The exact mechanisms behind this super‐CC scaling phenomenon are still unsolved. Recent studies highlight invigorated local dynamics as a contributor to enhanced precipitation rates with warming. Here, cold pools play an important role in the process of organization and deepening of convective clouds. Another known effect of cold pools is the amplification of low‐level moisture variability. Yet, how these processes respond to climatic warming and how they relate to enhanced precipitation rates remains largely unanswered. Unlike other studies which use rather simple approaches mimicking climate change, we present a much more comprehensive set of experiments using a high‐resolution large eddy simulation (LES) model. We use an idealized but realistically forced case setup, representative for conditions with extreme summer precipitation in midlatitudes. Based on that, we examine how a warmer atmosphere under the assumption of constant and varying relative humidity, lapse rate changes and enhanced large‐scale dynamics influence precipitation rates, cold pool dynamics, and the low‐level moisture field. Warmer conditions generally lead to larger and more intense events, accompanied by enhanced cold pool dynamics and a concurring moisture accumulation in confined regions. The latter are known as preferred locations for new convective events. Our results show that cold pool dynamics play an increasingly important role in shaping the response of local precipitation extremes to global warming, providing a potential mechanism for super‐CC behavior as subject for future research.",
+    "readLink": "https://doi.org/10.1029/2020MS002306"
+  },
+  {
+    "title": "Communication intercommunale et changement climatique",
+    "authors": [
+      "Marième Pollèle Ndiaye"
+    ],
+    "doi": "https://doi.org/10.4000/rfsic.1890",
+    "journalVolume": "Vol. 8",
+    "issn": "2263-0856 (Online)",
+    "publisher": "Société Française de Sciences de l’Information et de la Communication",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Language and Literature: Philology. Linguistics: Communication. Mass media",
+      "Bibliography. Library science. Information resources"
+    ],
+    "journalUrl": "http://rfsic.revues.org/",
+    "abstract": "Can we talk about territorial mobilization favourable to the fight against climate change, in the time where the communication practices deployed by local governments lack of readability ?. And if it was, rather, ' mobilizing utopias ', which would be formed in the interval uncertain between the constraints of the ecological imperative, and local authorities, always in quest of legitimacy ? In this contribution, the author focuses on the case of the device \"pionniers du climat\" of the Urban Community of Bordeaux (UCB) to illustrate the tensions and inconsistencies in the manufacture of a territorial collective action.",
+    "readLink": "http://journals.openedition.org/rfsic/1890"
+  }
+]

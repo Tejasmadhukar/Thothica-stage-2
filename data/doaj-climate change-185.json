@@ -1,0 +1,217 @@
+[
+  {
+    "title": "The Case for Digging Deeper: Soil Organic Carbon Storage, Dynamics, and Controls in Our Changing World",
+    "authors": [
+      "Cole  D. Gross,",
+      "Robert  B. Harrison"
+    ],
+    "doi": "https://doi.org/10.3390/soilsystems3020028",
+    "journalVolume": "Vol. 3,\n                                no. 2\n                                \n                                  p.\n                                  28",
+    "issn": "2571-8789 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/soilsystems",
+    "abstract": "Most of our terrestrial carbon (C) storage occurs in soils as organic C derived from living organisms. Therefore, the fate of soil organic C (SOC) in response to changes in climate, land use, and management is of great concern. Here we provide a unified conceptual model for SOC cycling by gathering the available information on SOC sources, dissolved organic C (DOC) dynamics, and soil biogeochemical processes. The evidence suggests that belowground C inputs (from roots and microorganisms) are the dominant source of both SOC and DOC in most ecosystems. Considering our emerging understanding of SOC protection mechanisms and long-term storage, we highlight the present need to sample (often ignored) deeper soil layers. Contrary to long-held biases, deep SOC—which contains most of the global amount and is often hundreds to thousands of years old—is susceptible to decomposition on decadal timescales when the environmental conditions under which it accumulated change. Finally, we discuss the vulnerability of SOC in different soil types and ecosystems globally, as well as identify the need for methodological standardization of SOC quality and quantity analyses. Further study of SOC protection mechanisms and the deep soil biogeochemical environment will provide valuable information about controls on SOC cycling, which in turn may help prioritize C sequestration initiatives and provide key insights into climate-carbon feedbacks.",
+    "readLink": "https://www.mdpi.com/2571-8789/3/2/28"
+  },
+  {
+    "title": "Reward Design for Intelligent Intersection Control to Reduce Emission",
+    "authors": [
+      "Balint Kovari,",
+      "Balint Pelenczei,",
+      "Szilard Aradi,",
+      "Tamas Becsi"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2022.3166236",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  39691\n                                  – 39699",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "The transportation industry is one of the main contributors to global warming since it is responsible for a quarter of greenhouse gas emissions. Due to society’s crucial dependence on fossil fuels and the rapid increase in mobility demands, the reduction of global vehicle emissions evolved into a significant challenge. In the urban transportation areas, signalized intersections can be considered the main bottlenecks in mitigating congestion and, therefore, vehicle emission. Our research focuses on the Traffic Signal Control problem since the efficient control of these intersections can significantly impact the productive hours and, through emission, the health of the citizens along with the depressing challenge of climate change. The Traffic Signal Control problem is well-studied and solved via several different techniques. However, most recently, Single and Multi-Agent Reinforcement Learning methods have arisen thanks to their performance and real-time applicability. Although rewarding schemes, which are the most crucial aspects of this method, do not seem to evolve at the same pace as the utilized techniques. In this paper, we propose a novel rewarding concept to compare its performance with the most common rewarding strategies in the literature. The results indicate that our approach outperforms its contenders from the literature in both classic and sustainability measures.",
+    "readLink": "https://ieeexplore.ieee.org/document/9754511/"
+  },
+  {
+    "title": "Processing and analysing an ensemble of climate projections for the joint research project KLIWAS",
+    "authors": [
+      "F. Imbery,",
+      "S. Plagemann,",
+      "J. Namyslo"
+    ],
+    "doi": "https://doi.org/10.5194/asr-10-91-2013",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  91\n                                  – 98",
+    "issn": "1992-0628 (Print)",
+    "publisher": "1992-0636 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.advances-in-science-and-research.net/home.html",
+    "abstract": "The research programme KLIWAS, funded by the German Federal Ministry of Transport, Building and Urban affairs is focussed on climate change and its impacts on waterways and navigation for Germany in the 21th century. In order to derive sound statements about the range of possible future climate changes, KLIWAS use hydro-meteorological information derived from a wide variety of global and regional climate models. In the framework of KLIWAS emphasis is taken on the quantification of uncertainties in climate model output. Therefore, a 19-member ensemble of climate model runs was used. On the basis of the SRES-scenario A1B the probabilities of changes in air temperature, precipitation amount, global radiation and several climate indices were computed for near (2021 to 2050) and distant (2071–2100) scenario horizons. Furthermore, statistical downscaling techniques, including approved bias correction methods, were used to provide a spatial high-resolution sub-ensemble of eight climate model simulations for climate change impact investigations.",
+    "readLink": "http://www.adv-sci-res.net/10/91/2013/asr-10-91-2013.pdf"
+  },
+  {
+    "title": "CH4 and N2O fluxes from planted forests and native Cerrado ecosystems in Brazil",
+    "authors": [
+      "Alexsandra Duarte de Oliveira,",
+      "Fabiana Piontekowski Ribeiro,",
+      "Eloisa Aparecida Belleza Ferreira,",
+      "Juaci Vitoria Malaquias,",
+      "Alcides Gatto,",
+      "Diana Regazzi Zuim,",
+      "Luciano de Almeida Pinheiro,",
+      "Karina Pulrolnik,",
+      "João Paulo Guimarães Soares,",
+      "Arminda Moreira de Carvalho"
+    ],
+    "doi": "https://doi.org/10.1590/1678-992x-2018-0355",
+    "journalVolume": "Vol. 78,\n                                no. 1",
+    "issn": "0103-9016 (Print)",
+    "publisher": "1678-992X (Online)",
+    "countryOfPublisher": "Universidade de São Paulo",
+    "lcc": [
+      "Brazil",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.scielo.br/sa",
+    "abstract": "ABSTRACT Forest soils are N2O sources and commonly act as CH4 sinks. This study evaluated the dynamics of the CH4 and N2O fluxes of soils under Eucalyptus plantations and native Cerrado vegetation, as well as possible interactions between environmental factors and fluxes. The study was carried out in the Distrito Federal, Brazil, during 26 months, in three areas: in two stands of the hybrid Eucalyptus urophylla × Eucalyptus grandis, planted in 2011 (E1), and in 2009 (E2) and native Cerrado vegetation (CE). Measurements to determine the fluxes in a closed static chamber were carried out from Oct 2013 to Nov 2015. Soil and climate factors were monitored. During the study period, the mean CH4 fluxes were –22.48, –8.38 and –1.31 μg CH4 m–2 h–1 and the mean N2O fluxes 5.45, 4.85 and 3.85 μg N2O m–2 h–1 from E1, E2 and CE, respectively. Seasonality affected plantations in the studied sites. Cumulative CH4 influxes were calculated (year-1: –1.86 to -0.63 kg ha–1 yr–1; year-2: –1.85 to –1.34 kg ha–1 yr–1). Cumulative N2O fluxes in the three sites were ≤ 0.85 kg ha–1 yr–1. The change in land use from Cerrado to Eucalyptus plantations did not significantly changed regarding greenhouse gases (GHG), compared to the native vegetation. Flux rates of both gases (N2O and CH4) were low. Temporal variations in GHG fluxes and different ages of the stands did not cause significant differences in cumulative annual fluxes.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-90162021000100302&tlng=en"
+  },
+  {
+    "title": "Temperature sensitivity of plant litter decomposition rate in China's forests",
+    "authors": [
+      "Fan Zhang,",
+      "Yuhao Feng,",
+      "Shanshan Song,",
+      "Qiong Cai,",
+      "Chengjun Ji,",
+      "Jianxiao Zhu"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.3541",
+    "journalVolume": "Vol. 12,\n                                no. 6\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract The decomposition of litter from forest tree species is a fundamental process in the carbon (C) cycle of terrestrial ecosystems and is closely related to ongoing climate change. However, the spatial distribution of the forest litter decomposition rate (k) and its potential response to changing air temperature (temperature sensitivity) remain poorly understood. Here, we estimated the spatial pattern of forest plant k values in China by performing a random forest model based on 433 standardized k values from 124 published studies. Nine potential predictors, including climate‐related factors, vegetation characteristics, and soil physical and chemical factors, were considered in the model. The results of spatial extrapolation indicated that the average k value for China's forests was 0.53, and the mean annual temperature (MAT) was the most important factor. We also mapped the spatial pattern of the temperature sensitivity of the k value (Q10) by using a moving window method. We found that the Q10 values had considerable variation (from 0.05 to 11.68, 95% confidence interval, CI) across forest types and regions. The Q10 values were lower in the warmer regions (primarily in the sub‐tropical evergreen forests) and higher in the semi‐humid regions (primarily in the temperate deciduous forests and boreal Larix forests) than those in the other regions of China. However, the Q10 values of the broadleaved forests were higher than those of coniferous forests. These results suggest that the temperature sensitivity of the litter decomposition rate will decline under the ongoing global warming. Changing patterns of precipitation will also affect not only the forest litter decomposition rate but also its temperature sensitivity.",
+    "readLink": "https://doi.org/10.1002/ecs2.3541"
+  },
+  {
+    "title": "Attribution of Urban Diurnal Thermal Environmental Change: Importance of Global&#x2013;Local Effects",
+    "authors": [
+      "Wenbo Yu,",
+      "Jun Yang,",
+      "Nan Cong,",
+      "Jiayi Ren,",
+      "Huisheng Yu,",
+      "Xiangming Xiao,",
+      "Jianhong Xia"
+    ],
+    "doi": "https://doi.org/10.1109/JSTARS.2023.3308045",
+    "journalVolume": "Vol. 16\n                                \n                                \n                                  pp.\n                                  8087\n                                  – 8101",
+    "issn": "1939-1404 (Print)",
+    "publisher": "2151-1535 (Online)",
+    "countryOfPublisher": "IEEE",
+    "lcc": [
+      "United States",
+      "Technology: Ocean engineering",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443",
+    "abstract": "Global climate change is causing various negative impacts on urban ecosystems and energy systems. To effectively mitigate and adapt to these changes, it is important to understand the contributions of background climate and local effects to urban thermal environment variation. This study utilized the empirical orthogonal function (EOF) approach to deconstruct long-term MODIS land surface temperature (LST) datasets to obtain the main features of change in daytime and nighttime thermal environments. Local bivariate spatial autocorrelation analysis was used to explore the underlying causes of these changes. The main EOF modes explained 73.14% and 81.33% of daytime and nighttime thermal environment variation, respectively. The correlation coefficient between the time coefficient of the main modes and the average LST was > 0.99, reflecting the role of global effect caused by background climate change. The secondary EOF modes explained 12.51% and 4.12% of daytime and nighttime thermal environment variation, respectively, and were spatially correlated with changes in landscape thermal intensity, reflecting local effect caused by landscape change and anthropogenic heat emissions. In expansion and renewal areas, industrial zones and compact high-rise buildings had the most obvious warming effect on the daytime thermal environment, while mid-to-high-rise buildings had the most obvious warming effect on the nighttime thermal environment. The results of this study provide valuable insights into the mechanisms of background climate and local effects on the urban thermal environment, and provide a reference for formulating effective strategies for mitigating and adapting to change in urban areas, and for promoting sustainable development.",
+    "readLink": "https://ieeexplore.ieee.org/document/10227512/"
+  },
+  {
+    "title": "Evaluating the flood damage on dairy farms: a methodological proposal",
+    "authors": [
+      "Anna Gaviglio,",
+      "Rosalia Filippini,",
+      "Daniela Molinari,",
+      "Maria Elena Marescotti,",
+      "Eugenio Demartini"
+    ],
+    "doi": "https://doi.org/10.13128/aestim-8150",
+    "journalVolume": "no. 75",
+    "issn": "1592-6117 (Print)",
+    "publisher": "1724-2118 (Online)",
+    "countryOfPublisher": "Firenze University Press",
+    "lcc": [
+      "Italy",
+      "Social Sciences: Industries. Land use. Labor"
+    ],
+    "journalUrl": "https://oaj.fupress.net/index.php/ceset/index",
+    "abstract": "The debate on climate change arose several concerns on the impacts of floods on agriculture and, consequently, on food security. At the same time, the European Floods Directive asks Members States to implement suitable measures to mitigate flood damage on economic activities, including farms. Still, while several analyses were developed to estimate potential flood damages on crops, a gap exists for livestock productions. The purpose of this study is to develop a conceptual model for the assessment of flood economic damages on dairy farms. Results propose a static and a dynamic model of farms recovery actions to re-establish the farming activity, which takes into account all farm components, as well as their interaction. Facing the destruction caused by floods, a first reaction of farmers could be closing the activity, with repercussion on this well-being as well as on farm workers’, and on the economy of rural areas. From this perspective, this study wants to provide a first methodological pathway to support farmers in restoring their activity.",
+    "readLink": "https://oaj.fupress.net/index.php/ceset/article/view/8150"
+  },
+  {
+    "title": "Spatiotemporal characteristics of carbon emissions in energy-enriched areas and the evolution of regional types",
+    "authors": [
+      "Xiaojia Han,",
+      "Jialuo Yu,",
+      "Yu Xia,",
+      "Jijun Wang"
+    ],
+    "doi": "Vol. 7\n                                \n                                \n                                  pp.\n                                  7224\n                                  – 7237",
+    "issn": "2352-4847 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/energy-reports/",
+    "abstract": "There is great potential for carbon emission reduction in energy-enriched areas. It is important to master the spatiotemporal characteristics and driving factors of carbon emissions to achieve the goal of carbon emission reduction. Previous studies on carbon emissions mainly focused on the numerical changes in regional carbon emissions. There have been few studies on spatiotemporal characteristics, making it difficult to formulate carbon emission reduction strategies according to local conditions. This study is based on the carbon emission calculation method proposed by the Intergovernmental Panel on Climate Change (IPCC), taking the method of exploratory spatial data analysis (ESDA), standard deviation ellipse (SDE) analysis and the geographically weighted regression model (GWR) to analyse the spatiotemporal evolution characteristics and determinants and dividing regional types of carbon emissions. The results show that aggregate carbon emissions and other carbon emission indicators presented an upward trend from 2000 to 2016, and the growth momentum of carbon emissions was difficult to curb in the short term. The carbon emissions of the study area are relatively concentrated in spatial; the direction of carbon emissions presented a trend of “northeast–southwest”, and the main axis and centre of carbon emissions tend to move northward over time. There are six regional types of carbon emissions in the study area. The low total amount–low intensity–low pressure type (L-L-L) became the dominant regional type of carbon emissions. The results of the GWR model showed that the degree of influence of explanatory variables on carbon emissions in descending order is urbanization rate > industrial structure > population > population density > per capita GDP.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352484721011148"
+  },
+  {
+    "title": "Variation in the leaf and root microbiome of sugar maple (Acer saccharum) at an elevational range limit",
+    "authors": [
+      "Jessica Wallace,",
+      "Isabelle Laforest-Lapointe,",
+      "Steven W. Kembel"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.5293",
+    "journalVolume": "Vol. 6\n                                \n                                \n                                  p.\n                                  e5293",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Background Bacteria, archaea, viruses and fungi live in various plant compartments including leaves and roots. These plant-associated microbial communities have many effects on host fitness and function. Global climate change is impacting plant species distributions, a phenomenon that will affect plant-microbe interactions both directly and indirectly. In order to predict plant responses to global climate change, it will be crucial to improve our understanding of plant-microbe interactions within and at the edge of plant species natural ranges. While microbes affect their hosts, in turn the plant’s attributes and the surrounding environment drive the structure and assembly of the microbial communities themselves. However, the patterns and dynamics of these interactions and their causes are poorly understood. Methods In this study, we quantified the microbial communities of the leaves and roots of seedlings of the deciduous tree species sugar maple (Acer saccharum Marshall) within its natural range and at the species’ elevational range limit at Mont-Mégantic, Quebec. Using high-throughput DNA sequencing, we quantified the bacterial and fungal community structure in four plant compartments: the epiphytes and endophytes of leaves and roots. We also quantified endophytic fungal communities in roots. Results The bacterial and fungal communities of A. saccharum seedlings differ across elevational range limits for all four plant compartments. Distinct microbial communities colonize each compartment, although the microbial communities inside a plant’s structure (endophytes) were found to be a subset of the communities found outside the plant’s structure (epiphytes). Plant-associated bacterial communities were dominated by the phyla Proteobacteria, Acidobacteria, Actinobacteria and Bacteroidetes while the main fungal taxa present were Ascomycota. Discussion We demonstrate that microbial communities associated with sugar maple seedlings at the edge of the species’ elevational range differ from those within the natural range. Variation in microbial communities differed among plant components, suggesting the importance of each compartment’s exposure to changes in biotic and abiotic conditions in determining variability in community structure. These findings provide a greater understanding of the ecological processes driving the structure and diversity of plant-associated microbial communities within and at the edge of a plant species range, and suggest the potential for biotic interactions between plants and their associated microbiota to influence the dynamics of plant range edge boundaries and responses to global change.",
+    "readLink": "https://peerj.com/articles/5293.pdf"
+  },
+  {
+    "title": "Contribution of the multi-attribute value theory to conflict resolution in groundwater management – application to the Mancha Oriental groundwater system, Spain",
+    "authors": [
+      "B. Apperl,",
+      "M. Pulido-Velazquez,",
+      "J. Andreu,",
+      "T. P. Karjalainen"
+    ],
+    "doi": "https://doi.org/10.5194/hess-19-1325-2015",
+    "journalVolume": "Vol. 19,\n                                no. 3\n                                \n                                  pp.\n                                  1325\n                                  – 1337",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "The implementation of the EU Water Framework Directive demands participatory water resource management approaches. Decision making in groundwater quantity and quality management is complex because of the existence of many independent actors, heterogeneous stakeholder interests, multiple objectives, different potential policies, and uncertain outcomes. Conflicting stakeholder interests have often been identified as an impediment to the realisation and success of water regulations and policies. The management of complex groundwater systems requires the clarification of stakeholders' positions (identifying stakeholder preferences and values), improving transparency with respect to outcomes of alternatives, and moving the discussion from the selection of alternatives towards the definition of fundamental objectives (value-thinking approach), which facilitates negotiation. The aims of the study are to analyse the potential of the multi-attribute value theory for conflict resolution in groundwater management and to evaluate the benefit of stakeholder incorporation into the different stages of the planning process, to find an overall satisfying solution for groundwater management. The research was conducted in the Mancha Oriental groundwater system (Spain), subject to intensive use of groundwater for irrigation. A complex set of objectives and attributes was defined, and the management alternatives were created by a combination of different fundamental actions, considering different implementation stages and future changes in water resource availability. Interviews were conducted with representative stakeholder groups using an interactive platform, showing simultaneously the consequences of changes in preferences to the alternative ranking. Results show that the approval of alternatives depends strongly on the combination of measures and the implementation stages. Uncertainties in the results were notable, but did not influence the alternative ranking heavily. The expected reduction in future groundwater resources by climate change increases the conflict potential. The implementation of the method in a very complex case study, with many conflicting objectives and alternatives and uncertain outcomes, including future scenarios under water limiting conditions, illustrates the potential of the method for supporting management decisions.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/19/1325/2015/hess-19-1325-2015.pdf"
+  }
+]

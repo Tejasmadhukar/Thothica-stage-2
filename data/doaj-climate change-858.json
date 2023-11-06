@@ -1,0 +1,204 @@
+[
+  {
+    "title": "The Fate of Stationary Tools for Environmental Flow Determination in a Context of Climate Change",
+    "authors": [
+      "André St-Hilaire,",
+      "Habiba Ferchichi,",
+      "Laureline Berthot,",
+      "Daniel Caissie"
+    ],
+    "doi": "https://doi.org/10.3390/w13091203",
+    "journalVolume": "Vol. 13,\n                                no. 1203\n                                \n                                  p.\n                                  1203",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Environmental flows (eflows) refer to the amount of water required to sustain aquatic ecosystems. In its formal definition, three flow characteristics need to be minimally maintained: quantity, timing and quality. This overview paper highlights the challenges of some of the current methods used for eflow determination in the context of an evolving climate. As hydrological methods remain popular, they are first analyzed by describing some of the potential caveats associated with their usage when flow time series are non-stationarity. The timing of low-flow events will likely change within a season but will also likely shift in seasonality in some regions. Flow quality is a multi-faceted concept. It is proposed that a first simple step to partly incorporate flow quality in future analyses is to include the water temperature as a covariate. Finally, holistic approaches are also critically revisited, and simple modifications to the Ecological Limits of Flow Alteration (ELOHA) framework are proposed.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/9/1203"
+  },
+  {
+    "title": "Altered Precipitation and Flow Patterns in the Dunajec River Basin",
+    "authors": [
+      "Mariola Kędra"
+    ],
+    "doi": "https://doi.org/10.3390/w9010022",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  p.\n                                  22",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "This study analyzes changes in long-term patterns of precipitation and river flow, as well as changes in their variability over the most recent 60 years (1956–2015). The study area is situated in the mountain basin of the Dunajec River, encompassing streams draining the Tatra Mountains in southern Poland. The focus of the study was to evaluate how regional warming translates into precipitation changes in the studied mountain region, and how changes in climate affect sub-regional hydrology. Monthly time series of precipitation measured at several sites were compared for two 30-year periods (1986–2015 versus 1956–1985). The significance of the difference between the periods in question was evaluated by means of the Wilcoxon signed rank test with the Bonferroni correction. The identified shifts in precipitation for 6 months are statistically significant and largely consistent with the revealed changes in river flow patterns. Moreover, significant differences in precipitation variability were noted in the study area, resulting in a significant decrease in the repeatability of precipitation over the most recent 30 years (1986–2015). Changes in the variability of the river flow studied were less visible in this particular mountain region (while significant for two months); however, the overall repeatability of river flow decreased significantly at the same rate as for precipitation.",
+    "readLink": "http://www.mdpi.com/2073-4441/9/1/22"
+  },
+  {
+    "title": "Rethinking Notions of Energy Efficiency in a Global Context",
+    "authors": [
+      "Patrick Moriarty,",
+      "Damon Honnery"
+    ],
+    "doi": "https://doi.org/10.3390/en16124706",
+    "journalVolume": "Vol. 16,\n                                no. 4706\n                                \n                                  p.\n                                  4706",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Energy efficiency is, in principle, a simple idea: an output of human value, for example, vehicle-km traveled, divided by the needed input energy. Efficiency improvements are regarded as an important means of mitigating not only climate change, but also other environmental problems. Despite the vast number of articles published on energy efficiency, a few people question whether it is a useful or accurate measure in its present form; nearly all papers are either engineering studies, or address barriers to efficiency improvements. This review addresses this issue via a critical review of the literature, including not only papers on energy efficiency, but those on adjacent areas of research that can help broaden the scope, both geographically and conceptually. These shortcomings are illustrated in case studies of buildings/cities and road passenger transport. The main findings of this review are that (1) energy efficiency inevitably has an ethical dimension, as well as a technical one, in that feedbacks are more widespread than they have generally considered to be, and (2) that conventional efficiency measures omit important energy input items, particularly those concerned with the mining the materials needed for renewable energy plants. The key conclusions are that present efficiency measures are not adequate, and future research is needed to overcome these shortcomings.",
+    "readLink": "https://www.mdpi.com/1996-1073/16/12/4706"
+  },
+  {
+    "title": "Estimating the spatial and temporal distribution of species richness within Sequoia and Kings Canyon National Parks.",
+    "authors": [
+      "Steve Wathen,",
+      "James H Thorne,",
+      "Andrew Holguin,",
+      "Mark W Schwartz"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0112465",
+    "journalVolume": "Vol. 9,\n                                no. 12\n                                \n                                  p.\n                                  e112465",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Evidence for significant losses of species richness or biodiversity, even within protected natural areas, is mounting. Managers are increasingly being asked to monitor biodiversity, yet estimating biodiversity is often prohibitively expensive. As a cost-effective option, we estimated the spatial and temporal distribution of species richness for four taxonomic groups (birds, mammals, herpetofauna (reptiles and amphibians), and plants) within Sequoia and Kings Canyon National Parks using only existing biological studies undertaken within the Parks and the Parks' long-term wildlife observation database. We used a rarefaction approach to model species richness for the four taxonomic groups and analyzed those groups by habitat type, elevation zone, and time period. We then mapped the spatial distributions of species richness values for the four taxonomic groups, as well as total species richness, for the Parks. We also estimated changes in species richness for birds, mammals, and herpetofauna since 1980. The modeled patterns of species richness either peaked at mid elevations (mammals, plants, and total species richness) or declined consistently with increasing elevation (herpetofauna and birds). Plants reached maximum species richness values at much higher elevations than did vertebrate taxa, and non-flying mammals reached maximum species richness values at higher elevations than did birds. Alpine plant communities, including sagebrush, had higher species richness values than did subalpine plant communities located below them in elevation. These results are supported by other papers published in the scientific literature. Perhaps reflecting climate change: birds and herpetofauna displayed declines in species richness since 1980 at low and middle elevations and mammals displayed declines in species richness since 1980 at all elevations.",
+    "readLink": "http://europepmc.org/articles/PMC4254294?pdf=render"
+  },
+  {
+    "title": "Contributions from terrestrial and marine resources stabilize predator populations in a rapidly changing climate",
+    "authors": [
+      "Chloé R. Nater,",
+      "Nina E. Eide,",
+      "Åshild Ø. Pedersen,",
+      "Nigel G. Yoccoz,",
+      "Eva Fuglei"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.3546",
+    "journalVolume": "Vol. 12,\n                                no. 6\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract Climate change has different and sometimes divergent effects on terrestrial and marine food webs, and in coastal ecosystems, these effects are tightly interlinked. Responses of opportunistic coastal predators and scavengers to climate change may thus be complex and potentially highly flexible, and can simultaneously serve as indicators of, and have profound impacts on, lower trophic levels. Gaining mechanistic understanding of these responses is therefore important, but often not feasible due to lack of long‐term data from marked individuals. Here, we used a Bayesian integrated population model (IPM) to elucidate the effects of arctic warming and concurrent changes in terrestrial and marine resource availability on population dynamics of the opportunistic arctic fox (Vulpes lagopus) in Svalbard. Joint analysis of four types of data (den survey, age‐at‐harvest, placental scars, mark‐recovery) revealed relatively stable population size and age structure over the last 22 yr (1997–2019) despite rapid environmental change linked to climate warming. This was related to the fact that terrestrial resources (reindeer carcasses, geese) became more abundant while the availability of marine resources (seal pups/carrion) decreased, and was driven by divergent trends in different vital rates (e.g., increased pregnancy rate but decreased pup survival). Balanced contributions of survival vs. reproduction and of immigration vs. local demography further stabilized population size. Our study thus sheds light on the mechanisms underlying population dynamics of opportunistic carnivores exploiting terrestrial and marine resources and suggests that exploitation of resources across different ecosystems can buffer predators against climate change. Additionally, it highlights the large potential of IPMs as tools to understand and predict the effects of environmental change on wildlife populations, even when data on marked individuals are sparse.",
+    "readLink": "https://doi.org/10.1002/ecs2.3546"
+  },
+  {
+    "title": "EXTRACTING DIMENSIONS AND LOCATIONS OF DOORS, WINDOWS, AND DOOR THRESHOLDS OUT OF MOBILE LIDAR DATA USING OBJECT DETECTION TO ESTIMATE THE IMPACT OF FLOODS",
+    "authors": [
+      "S. Van Ackere,",
+      "J. Verbeurgt,",
+      "L. De Sloover,",
+      "A. De Wulf,",
+      "N. Van de Weghe,",
+      "P. De Maeyer"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLII-3-W8-429-2019",
+    "journalVolume": "Vol. XLII-3-W8\n                                \n                                \n                                  pp.\n                                  429\n                                  – 436",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Increasing urbanisation, changes in land use (e.g., more impervious area) and climate change have all led to an increasing frequency and severity of flood events and increased socio-economic impact. In order to deploy an urban flood disaster and risk management system, it is necessary to know what the consequences of a specific urban flood event are to adapt to a potential event and prepare for its impact. Therefore, an accurate socio-economic impact assessment must be conducted. Unfortunately, until now, there has been a lack of data regarding the design and construction of flood-prone building structures (e.g., locations and dimensions of doors and door thresholds and presence and dimensions of basement ventilation holes) to consider when calculating the flood impact on buildings. We propose a pipeline to detect the dimension and location of doors and windows based on mobile LiDAR data and 360° images. This paper reports on the current state of research in the domain of object detection and instance segmentation of images to detect doors and windows in mobile LiDAR data. The use and improvement of this algorithm can greatly enhance the accuracy of socio-economic impact of urban flood events and, therefore, can be of great importance for flood disaster management.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W8/429/2019/isprs-archives-XLII-3-W8-429-2019.pdf"
+  },
+  {
+    "title": "Strategies for the Resilience of Power-Coal Supply Chains in Low-Carbon Energy Transition: A System Dynamics Model and Scenario Analysis of China up to 2060",
+    "authors": [
+      "Zehua Yu,",
+      "Zheng Li,",
+      "Linwei Ma"
+    ],
+    "doi": "https://doi.org/10.3390/su15097154",
+    "journalVolume": "Vol. 15,\n                                no. 7154\n                                \n                                  p.\n                                  7154",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The global trends of coal phase-out in response to climate change are meeting obstacles in China, where a stable operation of power-coal supply chains remains essential. How to guarantee the resilience of these supply chains during the low-carbon transition becomes a critical issue. This study aims to recommend corresponding strategies by modelling and analysis. A system dynamics model was developed to analyze scenarios of China’s power-coal supply from 2021 to 2060. The results indicated that, firstly, the capacity redundancy of coal mines will increase from 1.13 to 1.32 before 2045, with the rising power-coal demand and its volatility, followed by a sharp decrease after that, in which demand falls in all scenarios. Secondly, increasing coal stock in each link can effectively reduce capacity redundancy of coal mines and imports during the period of rising demand, resulting in 250 million tons of coal mine capacity reduction, but will lead to an opposite result when demand falls. Finally, under high demand fluctuations, coal transport capacity will become a key constraint. It is recommended that China must improve the capacity redundancy of coal mines, coal stock, and coal transport in the near-term, as well as enhance long-term planning to carefully coordinate these factors during the whole process of low-carbon transition.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/9/7154"
+  },
+  {
+    "title": "Climate nonlinearities: selection, uncertainty, projections, and damages",
+    "authors": [
+      "B B Cael,",
+      "G L Britten,",
+      "F Mir Calafat,",
+      "J Bloch-Johnson,",
+      "D Stainforth,",
+      "P Goodwin"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/ac8238",
+    "journalVolume": "Vol. 17,\n                                no. 8\n                                \n                                  p.\n                                  084025",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Climate projections are uncertain; this uncertainty is costly and impedes progress on climate policy. This uncertainty is primarily parametric (what numbers do we plug into our equations?), structural (what equations do we use in the first place?), and due to internal variability (natural variability intrinsic to the climate system). The former and latter are straightforward to characterise in principle, though may be computationally intensive for complex climate models. The second is more challenging to characterise and is therefore often ignored. We developed a Bayesian approach to quantify structural uncertainty in climate projections, using the idealised energy-balance model representations of climate physics that underpin many economists’ integrated assessment models (IAMs) (and therefore their policy recommendations). We define a model selection parameter, which switches on one of a suite of proposed climate nonlinearities and multidecadal climate feedbacks. We find that a model with a temperature-dependent climate feedback is most consistent with global mean surface temperature observations, but that the sign of the temperature-dependence is opposite of what Earth system models suggest. This difference of sign is likely due to the assumption tha the recent pattern effect can be represented as a temperature dependence. Moreover, models other than the most likely one contain a majority of the posterior probability, indicating that structural uncertainty is important for climate projections. Indeed, in projections using shared socioeconomic pathways similar to current emissions reductions targets, structural uncertainty dwarfs parametric uncertainty in temperature. Consequently, structural uncertainty dominates overall non-socioeconomic uncertainty in economic projections of climate change damages, as estimated from a simple temperature-to-damages calculation. These results indicate that considering structural uncertainty is crucial for IAMs in particular, and for climate projections in general.",
+    "readLink": "https://doi.org/10.1088/1748-9326/ac8238"
+  },
+  {
+    "title": "Evaluation of Near-Real-Time GSMaP precipitation estimate over Yankul region, Sultanate of Oman",
+    "authors": [
+      "Ragab Osama"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202234704009",
+    "journalVolume": "Vol. 347\n                                \n                                \n                                  p.\n                                  04009",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "Global precipitation data is very important for climate change research, and real-time precipitation estimates derived from satellites are attractive for a wide range of applications, such as extreme precipitation monitoring and natural hazard warning. The precipitation in the rain gauge represents the point distribution of the precipitation, which would lead to inaccurate results when calculating the average precipitation in a region with statistical methods. This document verifies the satellite-based precipitation data GSMaP_NRT with the precipitation amounts measured in the Yankul region of Oman. The results showed that the GSMaP_NRT precipitation data have high precision and a good correlation with the precipitation observed in the region. Furthermore, the results of these analyzes indicate that the GSMaP_NRT data have lower values than the observed data and can be significantly underestimated with heavy rains.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2022/14/e3sconf_iccee2022_04009.pdf"
+  },
+  {
+    "title": "Analysis of Prediction of Economic Losses due to Flood Disaster Hazards in Industrial Estates in Karawang Regency",
+    "authors": [
+      "Andina Fathiyaturahma"
+    ],
+    "doi": "https://doi.org/10.24815/ijdm.v5i3.29740",
+    "journalVolume": "Vol. 5,\n                                no. 3\n                                \n                                  pp.\n                                  203\n                                  – 212",
+    "issn": "2808-439X (Print)",
+    "publisher": "2527-4341 (Online)",
+    "countryOfPublisher": "Tsunami and Disaster Mitigation Research Center (TDMRC) Universitas Syiah Kuala",
+    "lcc": [
+      "Indonesia",
+      "Technology: Engineering (General). Civil engineering (General): Disasters and engineering"
+    ],
+    "journalUrl": "https://jurnal.usk.ac.id/IJDM/index",
+    "abstract": "Based on the National Disaster Management Agency, there was an increase in the total number of disasters from 2020 to 2022, which was initially 1,296 to 5402 disasters, with the highest percentage of disaster events being flood disasters with the highest frequency being in the West Java and DKI Jakarta areas (BNPB, 2022). The high frequency of floods that occur in the West Java region can certainly increase economic losses that are pretty high. On the other hand, West Java Province also contributes the third most significant national GDP. The sector that contributes the most to West Java's GRDP is the processing industry sector (BPS, 2017). Karawang Regency is one of West Java's destination areas for industrial development. In Karawang Regency, industrial areas are developing quite rapidly and are concentrated in the southern part of Karawang Regency (Telukjambe Barat, Telukjambe Timur, Ciampel, Pangkalan, Klari, and Cikampek districts). However, based on research conducted by the ITB Climate Change Center (2022), several points have a relatively high level of flood hazard in the area. That can bring considerable losses if the disaster occurs in an industrial area, so an analysis of losses due to flooding is needed at the location of the existing industrial site, which is currently in Karawang Regency. Therefore, this research was conducted to determine the condition of existing industrial land in flood-prone areas and to find predictions of economic losses that will be obtained in the event of a flood disaster on existing industrial land today. The research used secondary data in shapefiles (.shp) maps of Karawang Regency, planning documents, and related journals. Then, the analysis method that will be carried out is mapping disaster-prone areas in industrial estates and predicting economic losses due to flood disasters which will be carried out with a Geographic Information System (GIS). Based on the results of the analysis, it was found that 34.69% of the existing industrial land is located in flood-prone areas, which are predicted to impact the economic losses of IDR 65,049,705,681,272,-. That shows a need for a flood mitigation plan and the suitability of proper allocation of industrial estates to reduce the possibility of economic losses to be borne by the government.",
+    "readLink": "https://jurnal.usk.ac.id/IJDM/article/view/29740"
+  }
+]

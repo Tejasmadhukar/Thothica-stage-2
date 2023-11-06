@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Exploring the Link between Food Security and Food Price Dynamics: A Bibliometric Analysis",
+    "authors": [
+      "Marwa Ben Abdallah,",
+      "Maria Fekete-Farkas,",
+      "Zoltan Lakner"
+    ],
+    "doi": "https://doi.org/10.3390/agriculture11030263",
+    "journalVolume": "Vol. 11,\n                                no. 263\n                                \n                                  p.\n                                  263",
+    "issn": "2077-0472 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agriculture",
+    "abstract": "An evaluation of research studies is considered an important task to make future adjustments for securing and adjusting policies. This article presents the results of a study that explored the research that has been published with food security, price volatility, and price transmission as keywords. The study involved a bibliometric evaluation of statistical outcomes from 899 scientific publications from 1979 to June 2020 related to the subject, registered in the Web of Science database. The collected articles were used to measure bibliometric indicators and evaluate the research work on food security and agricultural products' price movement. An analysis of the development and the identification of the related topics of greatest interest on this subject was also carried out. The analysis results found that a rising number of studies have been registered over the years, emphasizing the following keywords: food security, climate change, agriculture, health, nutrition, consumption, and income. The analysis proves that the shift in scientific research trends associated with food security analysis is linked with health and food nutrition status. Furthermore, the word \"impact\" was significantly present in the analyzed papers, which reveals that econometric analysis should address the relationship between price movement and nutrient intake to achieve nutritional security.",
+    "readLink": "https://www.mdpi.com/2077-0472/11/3/263"
+  },
+  {
+    "title": "Possible Impact of Global Warming and Other Factors Affecting Migration in Russia with Emphasis on Siberia",
+    "authors": [
+      "Dets Igor A."
+    ],
+    "doi": "https://doi.org/10.2478/quageo-2020-0026",
+    "journalVolume": "Vol. 39,\n                                no. 3\n                                \n                                  pp.\n                                  111\n                                  – 123",
+    "issn": "2081-6383 (Online)",
+    "publisher": "Sciendo",
+    "countryOfPublisher": "Poland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://sciendo.com/journal/QUAGEO",
+    "abstract": "The main issue of the study was to determine the importance of the climate factor for migration flows in Russia, as well as its impact on the intraregional level. The article also discusses the possible prospects that global warming may bring to Siberia. According to the results, the climate factor does not have a crucial influence on the decision to relocate in Russia, but it remains one of the most important, along with economic, social and political factors. At the regional level, the climate factor is less important than the agglomeration factor and others. The impact of global warming has now affected the overall increase in temperatures in Siberia, which is not yet sufficient to generate additional migration flows.",
+    "readLink": "https://doi.org/10.2478/quageo-2020-0026"
+  },
+  {
+    "title": "Microstructure, micro-inclusions, and mineralogy along the EGRIP ice core – Part 1: Localisation of inclusions and deformation patterns",
+    "authors": [
+      "N. Stoll,",
+      "J. Eichler,",
+      "M. Hörhold,",
+      "T. Erhardt,",
+      "T. Erhardt,",
+      "C. Jensen,",
+      "I. Weikusat,",
+      "I. Weikusat"
+    ],
+    "doi": "https://doi.org/10.5194/tc-15-5717-2021",
+    "journalVolume": "Vol. 15\n                                \n                                \n                                  pp.\n                                  5717\n                                  – 5737",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Impurities deposited in polar ice enable the reconstruction of the atmospheric aerosol concentration of the past. At the same time they impact the physical properties of the ice itself such as its deformation behaviour. Impurities are thought to enhance ice deformation, but observations are ambiguous due to a shortage of comprehensive microstructural analyses. For the first time, we systematically analyse micro-inclusions in polar fast flowing ice, i.e. from the East Greenland Ice Core Project ice core drilled through the Northeast Greenland Ice Stream. In direct relation to the inclusions we derive the crystal preferred orientation, fabric, grain size, and microstructural features at 10 depths, covering the Holocene and Late Glacial. We use optical microscopy to create microstructure maps to analyse the in situ locations of inclusions in the polycrystalline, solid ice samples. Micro-inclusions are more variable in spatial distribution than previously observed and show various distributional patterns ranging from centimetre-thick layers to clusters and solitary particles, independent of depth. In half of all samples, micro-inclusions are more often located at or close to the grain boundaries by a slight margin (in the areas occupied by grain boundaries). Throughout all samples we find strong indications of dynamic recrystallisation, such as grain islands, bulging grains, and different types of sub-grain boundaries. We discuss the spatial variability in micro-inclusions, the link between spatial variability and mineralogy, and possible effects on the microstructure and deformation behaviour of the ice. Our results emphasise the need for holistic approaches in future studies, combining microstructure and impurity analysis.",
+    "readLink": "https://tc.copernicus.org/articles/15/5717/2021/tc-15-5717-2021.pdf"
+  },
+  {
+    "title": "Quasi-Yagi antenna design for LTE applications and prediction of gain and directivity using machine learning approaches",
+    "authors": [
+      "Md. Ashraful Haque,",
+      "M.A. Zakariya,",
+      "Samir Salem Al-Bawri,",
+      "Zubaida Yusoff,",
+      "Mirajul Islam,",
+      "Dipon Saha,",
+      "Wazie M. Abdulkawi,",
+      "Md Afzalur Rahman,",
+      "Liton Chandra Paul"
+    ],
+    "doi": "Vol. 80\n                                \n                                \n                                  pp.\n                                  383\n                                  – 396",
+    "issn": "1110-0168 (Print)",
+    "publisher": "2090-2670 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Egypt",
+      "Technology: Engineering (General). Civil engineering (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/alexandria-engineering-journal/",
+    "abstract": "In recent years, improvements in wireless communication have led to the development of microstrip or patch antennas. The article discusses using simulation, measurement, an RLC equivalent circuit model, and machine learning to assess antenna performance. The antenna's dimensions are 1.01 λ0×0.612λ0 with respect to the lowest operating frequency, the maximum achieved gain is 6.76 dB, the maximum directivity is 8.21 dBi, and the maximum efficiency is 83.05%. The prototype's measured return loss is compared to CST and ADS simulations. The prediction of gain and directivity of the antenna is determined using a different supervised regression machine learning (ML) method. The performance of ML models is measured by the variance score, R square, mean square error (MSE), mean absolute error (MAE), root mean square error (RMSE), and mean squared logarithmic error (MSLE), etc. With errors of less than unity and an accuracy of roughly 98%, Ridge regression gain prediction outperforms the other seven ML models. Gaussian process regression is the best method for predicting directivity. Finally, modeling results from CST and ADS, as well as measured and anticipated results from machine learning, reveal that the suggested antenna is a good candidate for LTE.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1110016823007500"
+  },
+  {
+    "title": "Intraspecific variations in leaf functional traits of Cunninghamia lanceolata provenances",
+    "authors": [
+      "Rui Xu,",
+      "Shundan Cheng,",
+      "Jing Zhou,",
+      "Mulualem Tigabu,",
+      "Xiangqing Ma,",
+      "Ming Li"
+    ],
+    "doi": "https://doi.org/10.1186/s12870-023-04097-y",
+    "journalVolume": "Vol. 23,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "1471-2229 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Botany"
+    ],
+    "journalUrl": "http://bmcplantbiol.biomedcentral.com",
+    "abstract": "Abstract Background Studies on intra-specific variability in leaf functional traits is important to evaluate adaptation of the species to predicted climate change, and to develop long-term conservation strategy. The main objectives were to investigate the relationship between the functional traits leaves and C, N, P stoichiometry of Chinese fir from different geographical provenances and their relationship with the main environmental factors of provenance. Results In this study, we measured 12 leaf functional traits on 36-year-old Cunninghamia lanceolata trees from 13 provenances. Analysis of variance (ANOVA) was performed to examine the variability. Redundancy analysis (RA) was computed to examine the relationship between geo-climatic factors of provenance origin and leaf functional traits while Pearson’s correlation coefficient was computed to assess inter-trait correlations. The results showed statistically significant differences (P < 0.01) in intraspecific leaf traits among provenances, except leaf P content. The relationships among leaf traits are consistent with the general trend observed in the leaf economic spectrum. Mean annual temperature appeared to be a key factor that influences intraspecific leaf traits variability compared to mean annual precipitation. Conclusion These results provide useful insights about adaptation of leaf trait of Chinese fir in a changing climatic condition. Thus, our findings shed light on the importance of interspecific trait variability in Chinese fir and the potential effect of climate change.",
+    "readLink": "https://doi.org/10.1186/s12870-023-04097-y"
+  },
+  {
+    "title": "Natural Variability in Projections of Climate Change Impacts on Fine Particulate Matter Pollution",
+    "authors": [
+      "Bret D. Pienkosz,",
+      "Rebecca K. Saari,",
+      "Erwan Monier,",
+      "Fernando Garcia‐Menendez"
+    ],
+    "doi": "https://doi.org/10.1029/2019EF001195",
+    "journalVolume": "Vol. 7,\n                                no. 7\n                                \n                                  pp.\n                                  762\n                                  – 770",
+    "issn": "2328-4277 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://agupubs.onlinelibrary.wiley.com/journal/23284277",
+    "abstract": "Abstract Variations in meteorology associated with climate change can impact fine particulate matter (PM2.5) pollution by affecting natural emissions, atmospheric chemistry, and pollutant transport. However, substantial discrepancies exist among model‐based projections of PM2.5 impacts driven by anthropogenic climate change. Natural variability can significantly contribute to the uncertainty in these estimates. Using a large ensemble of climate and atmospheric chemistry simulations, we evaluate the influence of natural variability on projections of climate change impacts on PM2.5 pollution in the United States. We find that natural variability in simulated PM2.5 can be comparable or larger than reported estimates of anthropogenic‐induced climate impacts. Relative to mean concentrations, the variability in projected PM2.5 climate impacts can also exceed that of ozone impacts. Based on our projections, we recommend that analyses aiming to isolate the effect climate change on PM2.5 use 10 years or more of modeling to capture the internal variability in air quality and increase confidence that the anthropogenic‐forced effect is differentiated from the noise introduced by natural variability. Projections at a regional scale or under greenhouse gas mitigation scenarios can require additional modeling to attribute impacts to climate change. Adequately considering natural variability can be an important step toward explaining the inconsistencies in estimates of climate‐induced impacts on PM2.5. Improved treatment of natural variability through extended modeling lengths or initial condition ensembles can reduce uncertainty in air quality projections and improve assessments of climate policy risks and benefits.",
+    "readLink": "https://doi.org/10.1029/2019EF001195"
+  },
+  {
+    "title": "A method review of the climate change impact on crop yield",
+    "authors": [
+      "Xinyao Feng,",
+      "Haoliang Tian,",
+      "Jiahui Cong,",
+      "Chuang Zhao"
+    ],
+    "doi": "https://doi.org/10.3389/ffgc.2023.1198186",
+    "journalVolume": "Vol. 6",
+    "issn": "2624-893X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Forestry",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.frontiersin.org/journals/forests-and-global-change#",
+    "abstract": "Climate change significantly impacts global agricultural production, giving rise to considerable uncertainties. To explore these climate impacts, three independent methods have been employed: manipulated experiments, process-based crop models, and empirical statistical models. However, the uncertainty stemming from the use of different methods has received insufficient attention, and its implications remain unclear, necessitating a systematic review. In this study, we conducted a comprehensive review of numerous previous studies to summarize the historic development and current status of each method. Through a method comparison, we identified their respective strengths, limitations, and ideal areas of application. Additionally, we outlined potential prospects and suggested directions for future improvements, including clarifying the response mechanisms, updating simulation technologies, and developing multi-method ensembles. By addressing the knowledge gap regarding method differences, this review could contribute to a more accurate assessment of climate impacts on agriculture.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/ffgc.2023.1198186/full"
+  },
+  {
+    "title": "How Celebrities’ Green Messages on Twitter Influence Public Attitudes and Behavioral Intentions to Mitigate Climate Change",
+    "authors": [
+      "Sejung Park"
+    ],
+    "doi": "https://doi.org/10.3390/su12197948",
+    "journalVolume": "Vol. 12,\n                                no. 7948\n                                \n                                  p.\n                                  7948",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "This research adds to the growing body of literature on the role of celebrities as emergent spokespersons in climate advocacy using Twitter. This study investigates the effects of framing of celebrities’ messages (emotional framing and framing of celebrity involvement) on public attitudes and behaviors to address climate change. A sequential mediation process is examined with structural equation modeling. In addition, this study assesses the role of parasocial relationship (PSR) with celebrities as predictors and moderators of the impact of framing of celebrity involvement. The results indicate that fear appeals were more effective than hope appeals in driving participation in activism, but emotional framing did not affect any other variables. Framing of celebrity involvement appeals using first-person pronouns led to more positive attitudes, but had no effect on behaviors. In addition, PSR was a strong positive predictor of attitudes and behaviors.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/19/7948"
+  },
+  {
+    "title": "Identifying interlinkages between urbanization and Sustainable Development Goals",
+    "authors": [
+      "Mingxing Chen,",
+      "Liangkan Chen,",
+      "Jiafan Cheng,",
+      "Jianhui Yu"
+    ],
+    "doi": "Vol. 3,\n                                no. 4\n                                \n                                  pp.\n                                  339\n                                  – 346",
+    "issn": "2096-7438 (Print)",
+    "publisher": "2666-6839 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Geography. Anthropology. Recreation: Geography (General)",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/geography-and-sustainability",
+    "abstract": "Urbanization and Sustainable Development Goals (SDGs) are important global issues in the current “Anthropocene”. Climate change and the COVID-19 pandemic have exacerbated global urban problems and hindered the ability to meet SDGs on time, while the broad interlinkages between urbanization and the SDGs remain poorly understood. This study shows that among the interlinkages of urbanization with 17 SDGs, synergies are observed with 151 targets (89%), among which 67 (40%) have stronger synergies, and trade-offs are observed with 66 targets (39%), among which 31 (18%) have stronger trade-offs. Furthermore, the synergies and trade-offs between urbanization and the achievement of SDGs are specifically analyzed based on four fundamental interaction fields: (a) public health and social welfare equality; (b) energy consumption and economic growth; (c) natural resource use and ecological/environmental impacts; and (d) international cooperation for development. Finally, based on these analyses, we propose four recommendations for sustainable urbanization, including (a) shared well-being and spatial justice for urban and rural residents; (b) guiding green and low-carbon urban development; (c) building resilient cities; and (d) promoting multilateral cooperation in cities, which can contribute to the achievement of SDGs by 2030.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2666683922000694"
+  },
+  {
+    "title": "Population dynamics of desert mammals: similarities and contrasts within a multispecies assemblage",
+    "authors": [
+      "Aaron C. Greenville,",
+      "Glenda M. Wardle,",
+      "Vuong Nguyen,",
+      "Chris R. Dickman"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.1343",
+    "journalVolume": "Vol. 7,\n                                no. 5\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract Understanding the temporal and spatial dynamics of species populations remains a key focus of population biology, providing vital insight into the drivers that influence demography and into sub‐populations that are vulnerable to extinction. Across regional landscapes, spatially separated sub‐populations may fluctuate in synchrony, or exhibit sub‐structuring due to subtle differences in local intrinsic and extrinsic factors. Using a long‐term data set (17–22 yr) obtained from a large (8000 km2) study region in arid central Australia, we tested firstly for regional synchrony in annual rainfall and the dynamics of five small mammal species across nine widely separated sites. Using Moran's theorem, we predicted that the spatial correlation between the regional sub‐populations of these species would equal that between local density‐independent conditions (annual rainfall). For species that showed synchronous spatial dynamics, we then used multivariate state‐space (MARSS) models to predict that regional rainfall would be positively associated with their populations, whereas species with asynchronous sub‐populations would be influenced largely by other factors. For these latter species, we used MARSS models to test four hypotheses. These were that sub‐population structures: (1) were asynchronous and governed by local site‐specific factors, (2) differed between oasis and non‐oasis sites, (3) differed between burnt and unburnt sites, and (4) differed between three sub‐regions with different rainfall gradients. We found that the spatial population dynamics of our study small mammals differed between and within families. Two species of insectivorous dasyurid marsupials showed asynchronous dynamics, which most likely tracked local conditions, whereas a larger carnivorous marsupial and two species of rodents had strongly synchronous dynamics. These latter species exhibited similar spatial correlations to local and regional rainfall events, providing evidence that the Moran effect operates for some, but not all, species in this arid system. Our results suggest that small mammal populations do not respond in similar ways to shared environmental drivers in arid regions, and hence will vary in their responses to climate change. As arid lands globally are predicted to face climatic shifts that will exacerbate rainfall‐drought cycles, we suggest that future work focuses on exploring these responses at different spatial scales across multiple dryland taxa.",
+    "readLink": "https://doi.org/10.1002/ecs2.1343"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Conservation status revision and communities’ perceptions  of 22 Aloe species in Tanzania",
+    "authors": [
+      "Siri Abihudi,",
+      "Hugo de Boer,",
+      "Anna Treydte"
+    ],
+    "doi": "https://doi.org/10.5091/plecevo.2021.1838",
+    "journalVolume": "Vol. 154,\n                                no. 3\n                                \n                                  pp.\n                                  391\n                                  – 404",
+    "issn": "2032-3913 (Print)",
+    "publisher": "2032-3921 (Online)",
+    "countryOfPublisher": "Meise Botanic Garden",
+    "lcc": [
+      "Belgium",
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "https://plecevo.eu",
+    "abstract": "Background and aims – Many Aloe species are globally threatened due to overharvesting for trade and habitat destruction. CITES regulates their international trade. In Tanzania, 50% of all existing Aloe species had previously been assessed, though some of these assessments were Data Deficient. For those with sufficient data, an update is required as the rate of decline has rapidly increased over the last years. Material and methods – We estimated Area of Occupancy (AOO), Extent of Occurrence (EOO), and number of locations for 22 Tanzanian Aloe species using the Geospatial Conservation Assessment software (GeoCAT). We assessed the reasons leading to their decline based on direct field observations and community perceptions. Key results – We revised the conservation status of 22 Aloe species; two were assessed as Critically Endangered, ten as Endangered, five as Vulnerable, and five as Least Concern. We re-discovered the Critically Endangered Aloe boscawenii, which had not been seen in Tanzania for more than six decades. We propose to downgrade the endemic Aloe dorotheae, Aloe leptosiphon, and Aloe flexilifolia from Critically Endangered to a lower threat level. The community perception on Aloe species availability did not accurately reflect their categorisation based on the IUCN criteria B. We identified agricultural activities and climate change effects as the two main threats to Tanzanian Aloe species.Conclusion – We conclude that overall numbers are declining for 22 Aloe species in Tanzania, mainly due to human activities. We recommend the implementation of laws and policies to protect their natural habitats.",
+    "readLink": "https://plecevo.eu/article/24700/download/pdf/"
+  },
+  {
+    "title": "Benthic Habitat Mapping Using Multispectral High-Resolution Imagery: Evaluation of Shallow Water Atmospheric Correction Techniques",
+    "authors": [
+      "Francisco Eugenio,",
+      "Javier Marcello,",
+      "Javier Martin,",
+      "Dionisio Rodríguez-Esparragón"
+    ],
+    "doi": "https://doi.org/10.3390/s17112639",
+    "journalVolume": "Vol. 17,\n                                no. 11\n                                \n                                  p.\n                                  2639",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Remote multispectral data can provide valuable information for monitoring coastal water ecosystems. Specifically, high-resolution satellite-based imaging systems, as WorldView-2 (WV-2), can generate information at spatial scales needed to implement conservation actions for protected littoral zones. However, coastal water-leaving radiance arriving at the space-based sensor is often small as compared to reflected radiance. In this work, complex approaches, which usually use an accurate radiative transfer code to correct the atmospheric effects, such as FLAASH, ATCOR and 6S, have been implemented for high-resolution imagery. They have been assessed in real scenarios using field spectroradiometer data. In this context, the three approaches have achieved excellent results and a slightly superior performance of 6S model-based algorithm has been observed. Finally, for the mapping of benthic habitats in shallow-waters marine protected environments, a relevant application of the proposed atmospheric correction combined with an automatic deglinting procedure is presented. This approach is based on the integration of a linear mixing model of benthic classes within the radiative transfer model of the water. The complete methodology has been applied to selected ecosystems in the Canary Islands (Spain) but the obtained results allow the robust mapping of the spatial distribution and density of seagrass in coastal waters and the analysis of multitemporal variations related to the human activity and climate change in littoral zones.",
+    "readLink": "https://www.mdpi.com/1424-8220/17/11/2639"
+  },
+  null,
+  {
+    "title": "Direct evidence of sex and a hypothesis about meiosis in Symbiodiniaceae",
+    "authors": [
+      "R. I. Figueroa,",
+      "L. I. Howe-Kerr,",
+      "A. M. S. Correa"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-98148-9",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 17",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Dinoflagellates in the family Symbiodiniaceae are obligate endosymbionts of diverse marine invertebrates, including corals, and impact the capacity of their hosts to respond to climate change-driven ocean warming. Understanding the conditions under which increased genetic variation in Symbiodiniaceae arises via sexual recombination can support efforts to evolve thermal tolerance in these symbionts and ultimately mitigate coral bleaching, the breakdown of the coral-Symbiodiniaceae partnership under stress. However, direct observations of meiosis in Symbiodiniaceae have not been reported, despite various lines of indirect evidence that it occurs. We present the first cytological evidence of sex in Symbiodiniaceae based on nuclear DNA content and morphology using Image Flow Cytometry, Cell Sorting and Confocal Microscopy. We show the Symbiodiniaceae species, Cladocopium latusorum, undergoes gamete conjugation, zygote formation, and meiosis within a dominant reef-building coral in situ. On average, sex was detected in 1.5% of the cells analyzed (N = 10,000–40,000 cells observed per sample in a total of 20 samples obtained from 3 Pocillopora colonies). We hypothesize that meiosis follows a two-step process described in other dinoflagellates, in which diploid zygotes form dyads during meiosis I, and triads and tetrads as final products of meiosis II. This study sets the stage for investigating environmental triggers of Symbiodiniaceae sexuality and can accelerate the assisted evolution of a key coral symbiont in order to combat reef degradation.",
+    "readLink": "https://doi.org/10.1038/s41598-021-98148-9"
+  },
+  {
+    "title": "Advancing Applied Research in High Volume Transport in Low-Income Countries in Africa and South Asia",
+    "authors": [
+      "Bruce Thompson,",
+      "Bernard Obika"
+    ],
+    "doi": "https://doi.org/10.3390/su12104088",
+    "journalVolume": "Vol. 12,\n                                no. 4088\n                                \n                                  p.\n                                  4088",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The Department for International Development (DFID) is funding the High Volume Transport (HVT) Applied Research Programme. This programme is an integral component of the UK response to delivering transport and mobility that is accessible, efficient, safe, and green in the low-income countries (LICs) in Africa and South Asia. The first part of the HVT programme produced an up-to-date and comprehensive state of knowledge on high volume transport in these countries. This Special Issue presents a selection of papers to cover key research priorities identified in road and rail transport, low carbon transport, and gender and inclusive transport. The state of knowledge has produced a sound basis for setting priorities for applied research in the second part of the programme. Applied research is directed to delivering high volume transport that contributes to economic growth and social development, and that is more resilient to the impact of climate change in LICs in Africa and South Asia.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/10/4088"
+  },
+  {
+    "title": "Does climate change affect enterprises’ ability to sell their products?",
+    "authors": [
+      "Siming Yu,",
+      "Cheng Cai,",
+      "Shuocheng Zhang,",
+      "Peng You"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2022.944964",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Based on local cities’ climate change data and the operating income data of Chinese listed enterprises from 2008 to 2019, we study the impact of climate change on enterprises’ sales ability and analyze its subsequent influence on their sales revenue from three dimensions: inside enterprises, the supply side and the demand side. The results show that climate change reduces enterprises’ sales revenue. From enterprises’ internal perspective, climate change reduces production efficiency, increases management costs and the impact on the cost of sales is not obvious. From the demand side, climate change increases business risks and reduces transactions between large customers and enterprises. The share of sales from large customers is reduced, but no obvious impact is observed for small customers. On the supply side, climate change reduces business credit levels, which in turn reduces sales revenue. A heterogeneity analysis shows that the impact of climate change on sales revenue is more obvious in private enterprises, enterprises with weak internal controls and enterprises in central and western regions of China.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2022.944964/full"
+  },
+  {
+    "title": "Observed Regional Climate Variability during the Last 50 Years in Reindeer Herding Cooperatives of Finnish Fell Lapland",
+    "authors": [
+      "Élise Lépy,",
+      "Leena Pasanen"
+    ],
+    "doi": "https://doi.org/10.3390/cli5040081",
+    "journalVolume": "Vol. 5,\n                                no. 4\n                                \n                                  p.\n                                  81",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "In Finnish Lapland, reindeer herders’ activity is strongly dependent on the surrounding natural environment, which is directly exposed to environmental changes and climatic variations. By assessing whether there is any evidence of change in climate in Fell Lapland over the last 50 years, this paper attempts to link global climatic trends with local conditions and respond to the need of information at the local level. It aims at assessing the changes in temperature, precipitation and snow cover at a regional and local scale, as well as determining the climatic trends for the period 1960–2011. Statistical methods were used to conduct analyses of the regional homogeneity, the annual and seasonal variability, and the cold intensity. The results show that the regional climate is not homogeneous and differences exist between locations. Nevertheless, it can be concluded that, in general, a warming trend is discernible for the period 1960–2011, frost and thaw cycles slightly increase, and variations in mean temperatures are more important in the winter. Precipitation is more variable according to the site but, in general, precipitation is increasing with time, especially in the winter, and the snow cover does not seem to contain any discernible trend.",
+    "readLink": "https://www.mdpi.com/2225-1154/5/4/81"
+  },
+  {
+    "title": "First investigations of an ice core from Eisriesenwelt cave (Austria)",
+    "authors": [
+      "B. May,",
+      "C. Spötl,",
+      "D. Wagenbach,",
+      "Y. Dublyansky,",
+      "J. Liebl"
+    ],
+    "doi": "https://doi.org/10.5194/tc-5-81-2011",
+    "journalVolume": "Vol. 5,\n                                no. 1\n                                \n                                  pp.\n                                  81\n                                  – 93",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Investigations into the genesis and dynamical properties of cave ice are essential for assessing the climate significance of these underground glaciers. We drilled an ice core through a 7.1 m-thick ice body filling a large cavern of the dynamic ice cave Eisenriesenwelt (Austria). In addition to visual core inspections, quasi-continuous measurements at 2 cm resolution comprised particulate matter, stable water isotope (&delta;<sup>18</sup>O, &delta;D) and electrolytic conductivity profiles supplemented by specifically selected samples analyzed for tritium and radiocarbon. We found that recent ablation led to an almost complete loss of bomb-derived tritium removing any ice accumulated since, at least, the early fifties leaving the actual ice surface even below the natural tritium level. The small particulate organic masses rendered radiocarbon dating inconclusive, though a crude estimate gave a basal ice age in the order of several thousand years. The visual stratigraphy and all investigated parameters showed a clear dichotomy between the upper 2 m and the bottom 3 m of the core, which points to a substantial change in the ice formation process. Main features of the core comprise the changing appearance and composition of distinct cryocalcite layers, extremely low total ion content and a surprisingly high variability of the isotope signature. Co-isotope evaluation (δD versus &delta;<sup>18</sup>O) of the core in comparison with data from precipitation and karst spring water clearly indicate that ice formation is governed by (slow) freezing of dripping water.",
+    "readLink": "http://www.the-cryosphere.net/5/81/2011/tc-5-81-2011.pdf"
+  },
+  {
+    "title": "The application of water poverty mapping in water management",
+    "authors": [
+      "Charles van der Vyver,",
+      "Dawid Jordaan"
+    ],
+    "doi": "https://doi.org/10.4102/td.v8i1.8",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  e1\n                                  – e26",
+    "issn": "1817-4434 (Print)",
+    "publisher": "2415-2005 (Online)",
+    "countryOfPublisher": "AOSIS",
+    "lcc": [
+      "South Africa",
+      "Social Sciences"
+    ],
+    "journalUrl": "https://td-sa.net/index.php/td",
+    "abstract": "Water management has been carried out for many centuries wherever there has been a need to provide water to large numbers of people. Complex social norms have developed around water management and competing users have established political (governance) and economic cooperative relationships. For example, community-managed irrigation schemes in Bali and the cloud-collection canals built by the Incas at Inca Pirca in Peru are examples of water management systems which still currently supply water to people (Sullivan et al., 2005). Water resources will steadily decline because of population growth, pollution and expected climate change (Hemson et al., 2008). It has been estimated that the global demand for water doubles approximately every two decades (Meyer, 2007) and that water will even become as expensive as oil in the future (Holland, 2005). “In the year 2000, global water use was twice as high as it was in 1960” (Clarke and King, 2004:19). Unfortunately this trend is expected to continue. The aim of this paper is to describe how water poverty mapping as a process can be used to assist the management of our already scarce water resources. It constructs a water poverty map after which it describes its application at various management levels. The research indicates that the mapping process can be used to obtain more accurate predictions, as well as to form part of the master plan and integrated development plan documents. Keywords: Water management, water poverty mapping Disciplines: Water management, geographical information systems (GIS), poverty studies, decision support",
+    "readLink": "http://www.td-sa.net/index.php/td/article/view/8"
+  },
+  {
+    "title": "A Landscape-level Model for Ecosystem Restoration in the San Francisco Estuary and Its Watershed",
+    "authors": [
+      "Wim Kimmerer,",
+      "Dennis D. Murphy,",
+      "Paul L. Angermeier"
+    ],
+    "doi": "Vol. 3,\n                                no. 1",
+    "issn": "1546-2366 (Online)",
+    "publisher": "eScholarship Publishing, University of California",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://escholarship.org/uc/jmie_sfews",
+    "abstract": "The CALFED Bay-Delta Program is an ambitious effort to restore ecosystems and improve reliability of ecosystem services in California’s Central Valley. Key issues for CALFED and its Ecosystem Restoration Program (ERP) include (1) meeting societal demand for multiple, potentially conflicting ecosystem services; (2) the tradeoff among more or less environmentally intrusive approaches to solving problems; (3) whether restoration should focus at the ecosystem level or on individual species; (4) the appropriate response to uncertainty; and (5) the tension between action and investigation. A long-term, landscape-scale perspective is essential for framing the scientific questions underlying these broad issues. We introduce a landscape-scale conceptual model that illustrates linkages, including material flows and animal migration, among the major ecosystem components being described in detail in a series of review papers. This model shows how linkages between ecosystem components result in remote consequences of locally applied restoration actions. The network of linkages is made more complicated by human interventions, which add components not previously a part of the landscape (e.g., salmonid hatcheries) and alter or even reverse causal relations. A landscape perspective also helps identify conceptual gaps in CALFED’s restoration strategy, such as climate change and human population growth, which should be explicitly considered in forecasts of the long-term prospects for restoration. A landscape perspective is no panacea; in particular, the effects of restoration at this scale will be difficult to detect. Nevertheless, we advocate integrating investigations of processes at nested, smaller scales as an approach for evaluating effects of individual restoration actions and of the entire program. We believe CALFED and other large restoration programs will be most successful if they are able to integrate both societal expectations and scientific study at the landscape level.",
+    "readLink": "http://escholarship.org/uc/item/5846s8qg"
+  }
+]

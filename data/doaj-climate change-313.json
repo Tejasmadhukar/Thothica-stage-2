@@ -1,0 +1,215 @@
+[
+  {
+    "title": "Short-Term Solar Power Forecasting: A Combined Long Short-Term Memory and Gaussian Process Regression Method",
+    "authors": [
+      "Ying Wang,",
+      "Bo Feng,",
+      "Qing-Song Hua,",
+      "Lai Sun"
+    ],
+    "doi": "https://doi.org/10.3390/su13073665",
+    "journalVolume": "Vol. 13,\n                                no. 3665\n                                \n                                  p.\n                                  3665",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Solar power is considered a promising power generation candidate in dealing with climate change. Because of the strong randomness, volatility, and intermittence, its safe integration into the smart grid requires accurate short-term forecasting with the required accuracy. The use of solar power should meet requirements proscribed by environmental law and safety standards applied for consumer protection. First, time-series-based solar power forecasting (SPF) model is developed with the time element and predicted weather information from the local meteorological station. Considering the data correlation, long short-term memory (LSTM) algorithm is utilized for short-term SPF. However, the point prediction provided by LSTM fails in revealing the underlying uncertainty range of the solar power output, which is generally needed in some stochastic optimization frameworks. A novel hybrid strategy combining LSTM and Gaussian process regression (GPR), namely LSTM-GPR, is proposed to obtain a highly accurate point prediction with a reliable interval estimation. The hybrid model is evaluated in comparison with other algorithms in terms of two aspects: Point prediction accuracy and interval forecasting reliability. Numerical investigations confirm the superiority of LSTM algorithm over the conventional neural networks. Furthermore, the performance of the proposed hybrid model is demonstrated to be slightly better than the individual LSTM model and significantly superior to the individual GPR model in both point prediction and interval forecasting, indicating a promising prospect for future SPF applications.",
+    "readLink": "https://www.mdpi.com/2071-1050/13/7/3665"
+  },
+  {
+    "title": "Individualist Biocentrism vs. Holism Revisited",
+    "authors": [
+      "Katie McShane"
+    ],
+    "doi": "https://doi.org/10.7202/1026682ar",
+    "journalVolume": "Vol. 9,\n                                no. 2\n                                \n                                  pp.\n                                  130\n                                  – 148",
+    "issn": "1718-9977 (Online)",
+    "publisher": "Université de Montréal",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Philosophy. Psychology. Religion: Ethics"
+    ],
+    "journalUrl": "https://ateliers.erudit.org/?lang=en",
+    "abstract": "While holist views such as ecocentrism have considerable intuitive appeal, arguing for the moral considerability of ecological wholes such as ecosystems has turned out to be a very difficult task. In the environmental ethics literature, individualist biocentrists have persuasively argued that individual organisms—but not ecological wholes—are properly regarded as having a good of their own . In this paper, I revisit those arguments and contend that they are fatally flawed. The paper proceeds in five parts. First, I consider some problems brought about by climate change for environmental conservation strategies and argue that these problems give us good pragmatic reasons to want a better account of the welfare of ecological wholes. Second, I describe the theoretical assumptions from normative ethics that form the background of the arguments against holism. Third, I review the arguments given by individualist biocentrists in favour of individualism over holism. Fourth, I review recent work in the philosophy of biology on the units of selection problem, work in medicine on the human biome, and work in evolutionary biology on epigenetics and endogenous viral elements. I show how these developments undermine both the individualist arguments described above as well as the distinction between individuals and wholes as it has been understood by individualists. Finally, I consider five possible theoretical responses to these problems.",
+    "readLink": "http://id.erudit.org/iderudit/1026682ar"
+  },
+  {
+    "title": "The Determinants of Becoming Sustainable Agropreneurs: Evidence from the Bottom 40 Groups in Malaysia",
+    "authors": [
+      "Mastura Jaafar,",
+      "Alireza Jalali,",
+      "Suhaida Herni Suffarruddin,",
+      "Nachiamei Ramasamy"
+    ],
+    "doi": "https://doi.org/10.3390/su15108283",
+    "journalVolume": "Vol. 15,\n                                no. 8283\n                                \n                                  p.\n                                  8283",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Training in the agricultural sector has been set as a continuing government agenda to educate people in rural areas. This study aims to identify several determinants that play a key role in developing sustainable agropreneurs in the Bottom 40 (B40) group in Perak, Malaysia. To this end, data were collected from 200 participants in the Agropreneur Community Training Program (ACTP). A quantitative research method was used for describing and analysing the collected data. The results showed that an internal factor, which was the agropreneurs’ attitudes towards behaviour, displayed a significant positive relationship with the expansion of the farm. As for the external factors, the results showed that family support and social networking have a significant positive relationship with increased income. Moreover, the results revealed that subjective norms exhibited a significant negative relationship with increasing income. Accordingly, more representative samples are required to verify the results of the postulated relationships between the internal and external factors of becoming a sustainable agropreneur in rural areas. The agricultural sector has become a pressing global concern, with issues such as natural disasters, wars, and climate change. Thus, the results of this study provide several theoretical and practical insights for government agencies, especially in developing countries, to execute more viable training programs for agropreneurs.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/10/8283"
+  },
+  {
+    "title": "Population consequences of climate change through effects on functional traits of lentic brown trout in the sub-Arctic",
+    "authors": [
+      "Kim Magnus Bærum,",
+      "Anders G. Finstad,",
+      "Eva Marita Ulvan,",
+      "Thrond O. Haugen"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-021-94350-x",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Climate-induced plasticity in functional traits has received recent attention due to the immense importance phenotypic variation plays in population level responses. Here, we explore the effect of different climate-change scenarios on lentic populations of a freshwater ectotherm, the brown trout (Salmo trutta L.), through climate effects on functional traits. We first parameterize models of climate variables on growth, spawning probability and fecundity. The models are utilized to inform a dynamic age-structured projection matrix, enabling long-term population viability projections under climate and population density variation. Ambient temperature and winter conditions had a substantial effect on population growth rate. In general, warmer summer temperatures resulted in faster growth rates for young fish but ended in smaller size at age as fish got older. Increasing summer temperatures also induced maturation at younger age and smaller size. In addition, we found effects of first-year growth on later growth trajectories for a fish, indicating that environmental conditions experienced the first year will also influence size at age later in life. At the population level, increasing temperatures average (up to 4 °C increase in areas with mean summer temperature at approximately 12 °C) resulted in a positive effect on population growth rate (i.e. smaller but more fish) during climate simulations including increasing and more variable temperatures.",
+    "readLink": "https://doi.org/10.1038/s41598-021-94350-x"
+  },
+  {
+    "title": "Research on the emission reduction effects of carbon trading mechanism on power industry: plant-level evidence from China",
+    "authors": [
+      "Yonghui Han,",
+      "Shuting Tan,",
+      "Chaowei Zhu,",
+      "Yang Liu"
+    ],
+    "doi": "https://doi.org/10.1108/IJCCSM-06-2022-0074",
+    "journalVolume": "Vol. 15,\n                                no. 2\n                                \n                                  pp.\n                                  212\n                                  – 231",
+    "issn": "1756-8692 (Print)",
+    "publisher": "1756-8706 (Online)",
+    "countryOfPublisher": "Emerald Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=ijccsm",
+    "abstract": "Purpose – Carbon trading mechanism has been adopted to foster the green transformation of the economy on a global scale, but its effectiveness for the power industry remains controversial. Given that energy-related greenhouse gas emissions account for most of all anthropogenic emissions, this paper aims to evaluate the effectiveness of this trading mechanism at the plant level to support relevant decision-making and mechanism design. Design/methodology/approach – This paper constructs a novel spatiotemporal data set by matching satellite-based high-resolution (1 × 1 km) CO2 and PM2.5 emission data with accurate geolocation of power plants. It then applies a difference-in-differences model to analyse the impact of carbon trading mechanism on emission reduction for the power industry in China from 2007 to 2016. Findings – Results suggest that the carbon trading mechanism induces 2.7% of CO2 emission reduction and 6.7% of PM2.5 emission reduction in power plants in pilot areas on average. However, the reduction effect is significant only in coal-fired power plants but not in gas-fired power plants. Besides, the reduction effect is significant for power plants operated with different technologies and is more pronounced for those with outdated production technology, indicating the strong potential for green development of backward power plants. The reduction effect is also more intense for power plants without affiliation relationships than those affiliated with particular manufacturers. Originality/value – This paper identifies the causal relationship between the carbon trading mechanism and emission reduction in the power industry by providing an innovative methodology for identifying plant-level emissions based on high-resolution satellite data, which has been practically absent in previous studies. It serves as a reference for stakeholders involved in detailed policy formulation and execution, including policymakers, power plant managers and green investors.",
+    "readLink": "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-06-2022-0074/full/pdf"
+  },
+  {
+    "title": "The Incidence of Skin Cancer in Relation to Climate Change in South Africa",
+    "authors": [
+      "Caradee  Y. Wright,",
+      "Mary Norval,",
+      "Thandi Kapwata,",
+      "David  Jean du Preez,",
+      "Bianca Wernecke,",
+      "Bianca  M. Tod,",
+      "Willem  I. Visser"
+    ],
+    "doi": "https://doi.org/10.3390/atmos10100634",
+    "journalVolume": "Vol. 10,\n                                no. 10\n                                \n                                  p.\n                                  634",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Climate change is associated with shifts in global weather patterns, especially an increase in ambient temperature, and is deemed a formidable threat to human health. Skin cancer, a non-communicable disease, has been underexplored in relation to a changing climate. Exposure to solar ultraviolet radiation (UVR) is the major environmental risk factor for skin cancer. South Africa is situated in the mid-latitudes and experiences relatively high levels of sun exposure with summertime UV Index values greater than 10. The incidence of skin cancer in the population group with fair skin is considered high, with cost implications relating to diagnosis and treatment. Here, the relationship between skin cancer and several environmental factors likely to be affected by climate change in South Africa are discussed including airborne pollutants, solar UVR, ambient temperature and rainfall. Recommended strategies for personal sun protection, such as shade, clothing, sunglasses and sunscreen, may change as human behaviour adapts to a warming climate. Further research and data are required to assess any future impact of climate change on the incidence of skin cancer in South Africa.",
+    "readLink": "https://www.mdpi.com/2073-4433/10/10/634"
+  },
+  {
+    "title": "Peatlands and their carbon dynamics in northern high latitudes from 1990 to 2300: a process-based biogeochemistry model analysis",
+    "authors": [
+      "B. Zhao,",
+      "Q. Zhuang,",
+      "Q. Zhuang"
+    ],
+    "doi": "https://doi.org/10.5194/bg-20-251-2023",
+    "journalVolume": "Vol. 20\n                                \n                                \n                                  pp.\n                                  251\n                                  – 270",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "Northern peatlands have been a large C sink during the Holocene, but whether they will keep being a C sink under future climate change is uncertain. This study simulates the responses of northern peatlands to future climate until 2300 with a Peatland version Terrestrial Ecosystem Model (PTEM). The simulations are driven with two sets of CMIP5 climate data (IPSL-CM5A-LR and bcc-csm1-1) under three warming scenarios (RCPs 2.6, 4.5 and 8.5). Peatland area expansion, shrinkage, and C accumulation and decomposition are modeled. In the 21st century, northern peatlands are projected to be a C source of 1.2–13.3 Pg C under all climate scenarios except for RCP 2.6 of bcc-csm1-1 (a sink of 0.8 Pg C). During 2100–2300, northern peatlands under all scenarios are a C source under IPSL-CM5A-LR scenarios, being larger sources than bcc-csm1-1 scenarios (5.9–118.3 vs. 0.7–87.6 Pg C). C sources are attributed to (1) the peatland water table depth (WTD) becoming deeper and permafrost thaw increasing decomposition rate; (2) net primary production (NPP) not increasing much as climate warms because peat drying suppresses net N mineralization; and (3) as WTD deepens, peatlands switching from moss–herbaceous dominated to moss–woody dominated, while woody plants require more N for productivity. Under IPSL-CM5A-LR scenarios, northern peatlands remain as a C sink until the pan-Arctic annual temperature reaches −2.6 to −2.89 ∘C, while this threshold is −2.09 to −2.35 ∘C under bcc-csm1-1 scenarios. This study predicts a northern peatland sink-to-source shift in around 2050, earlier than previous estimates of after 2100, and emphasizes the vulnerability of northern peatlands to climate change.",
+    "readLink": "https://bg.copernicus.org/articles/20/251/2023/bg-20-251-2023.pdf"
+  },
+  {
+    "title": "Pet snakes illegally marketed in Brazil: Climatic viability and establishment risk.",
+    "authors": [
+      "Érica Fonseca,",
+      "Mirco Solé,",
+      "Dennis Rödder,",
+      "Paulo de Marco"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0183143",
+    "journalVolume": "Vol. 12,\n                                no. 8\n                                \n                                  p.\n                                  e0183143",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Invasive species are one among many threats to biodiversity. Brazil has been spared, generically, of several destructive invasive species. Reports of invasive snakes' populations are nonexistent, but the illegal pet trade might change this scenario. Despite the Brazilian laws forbid to import most animals, illegal trade is frequently observed and propagules are found in the wild. The high species richness within Brazilian biomes and accelerated fragmentation of natural reserves are a critical factors facilitating successful invasion. An efficient way to ease damages caused by invasive species is identifying potential invaders and consequent prevention of introductions. For the identification of potential invaders many factors need to be considered, including estimates of climate matching between areas (native vs. invaded). Ecological niche modelling has been widely used to predict potential areas for invasion and is an important tool for conservation biology. This study evaluates the potential geographical distribution and establishment risk of Lampropeltis getula (Linnaeus, 1766), Lampropeltis triangulum (Lacépède, 1789), Pantherophis guttatus (Linnaeus, 1766), Python bivittatus Kuhl, 1820 and Python regius (Shaw, 1802) through the Maximum Entropy modelling approach to estimate the potential distribution of the species within Brazil and qualitative evaluation of specific biological attributes. Our results suggest that the North and Midwest regions harbor major suitable areas. Furthermore, P. bivittatus and P. guttatus were suggested to have the highest invasive potential among the analyzed species. Potentially suitable areas for these species were predicted within areas which are highly relevant for Brazilian biodiversity, including several conservation units. Therefore, these areas require special attention and preventive measures should be adopted.",
+    "readLink": "http://europepmc.org/articles/PMC5560532?pdf=render"
+  },
+  {
+    "title": "Potential distribution of the primary malaria vector Anopheles gambiae Giles [Diptera: Culicidae] in Southwest Nigeria under current and future climatic conditions",
+    "authors": [
+      "Isaac Omotayo Olabimi,",
+      "Kayode David Ileke,",
+      "Babasola Williams Adu,",
+      "Temitope Emmanuel Arotolu"
+    ],
+    "doi": "https://doi.org/10.1186/s41936-021-00261-8",
+    "journalVolume": "Vol. 82,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "2090-9896 (Print)",
+    "publisher": "2090-990X (Online)",
+    "countryOfPublisher": "SpringerOpen",
+    "lcc": [
+      "United Kingdom",
+      "Science: Zoology"
+    ],
+    "journalUrl": "https://basicandappliedzoology.springeropen.com",
+    "abstract": "Abstract Background Mosquitoes are key vectors for the transmission of several diseases. Anopheles gambiae is known to transmit pathogens of malaria and filariasis. Due to several anthropogenic factors such as climate change and population growth leading to diverse land use, their distribution and disease spreading pattern may change. This study estimated the potential distribution and climatic suitability of An. gambiae under the present-day and future conditions across Southwest Nigeria using Ecological Niche Modelling (ENM). The future scenarios assessed were based on two general circulation models (GCMs), namely community climate system model 4 (CCSM4) and geophysical fluid dynamics laboratory-climate model 3 (GFDL-CM3), in two representative concentration pathways (RCP 2.6 and RCP 8.5). Methodology The occurrence data were obtained from literatures that have reported the presence of An. gambiae mosquito species in locations within the study area. Ecological niche modelling data were processed and analysed using maximum entropy algorithm implemented in MaxEnt. Result Fifty-five (55) unique occurrences of An. gambiae were used in the model calibration after data cleaning. Data analysis for the present-day habitat suitability shows that more than two-thirds (81.71%) of the study area was observed to be suitable for An. gambiae population. However, the two future GCMs showed contrasting results. The CCSM4 models indicated a slight increase in both RCPs with 2.5 and 8.5 having 81.77 and 82.34% suitability, respectively. The reverse was the case for the GFDL-CM3 models as RCPs 2.5 and 8.5 had 78.86 and 76.86%. Conclusion This study revealed that the study area is climatically suitable for An. gambiae and will continue to be so in the future irrespective of the contrasting results from the GCMs used. Since vector population is often linked with their disease transmission capacity, proper measures must be put in place to mitigate disease incidences associated with the activities of An. gambiae.",
+    "readLink": "https://doi.org/10.1186/s41936-021-00261-8"
+  },
+  {
+    "title": "Tropical forage legumes for environmental benefits: An overview",
+    "authors": [
+      "Rainer Schultze-Kraft,",
+      "Idupulapati M. Rao,",
+      "Michael Peters,",
+      "Robert J. Clements,",
+      "Changjun Bai,",
+      "Guodao Liu"
+    ],
+    "doi": "https://doi.org/10.17138/tgft(6)1-14",
+    "journalVolume": "Vol. 6,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2346-3775 (Online)",
+    "publisher": "Centro Internacional de Agricultura Tropical",
+    "countryOfPublisher": "Colombia",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.tropicalgrasslands.info",
+    "abstract": "Ruminant livestock production in the tropics, particularly when based on pastures, is frequently blamed for being detrimental to the environment, allegedly contributing to: (1) degradation and destruction of ecosystems, including degradation and loss of soil, water and biodiversity; and (2) climate change (global warming). In this paper we argue that, rather than being detrimental, tropical forage legumes can have a positive impact on the environment, mainly due to key attributes that characterize the Leguminosae (Fabaceae) family: (1) symbiotic nitrogen fixation; (2) high nutritive value; (3) deep-reaching tap-root system; (4) wide taxonomic and genetic diversity; and (5) presence of particular secondary metabolites. Although there are also potential negative aspects, such as soil acidification and the risks of introduced legumes becoming invasive weeds, we submit that legumes have potential to contribute significantly to sustainable intensification of livestock production in the tropics, along with the provision of ecosystem services. To further assess, document and realize this potential, research for development needs in a range of areas are indicated.",
+    "readLink": "https://www.tropicalgrasslands.info/index.php/tgft/article/view/394"
+  }
+]

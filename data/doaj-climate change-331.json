@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Simulation of future land surface temperature under the scenario of climate change using remote sensing &amp; GIS techniques of northwestern Rajshahi district, Bangladesh",
+    "authors": [
+      "Eshrat Jahan Esha,",
+      "Md. Tauhid Ur Rahman"
+    ],
+    "doi": "Vol. 5\n                                \n                                \n                                  p.\n                                  100365",
+    "issn": "2667-0100 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environmental-challenges/",
+    "abstract": "Identification of change dynamics of land surface temperature on regional scale is a very convenient way to describe the issues related global warming and climate change. This study aims to assess the spatio-temporal pattern of land surface temperature during 2014–2020 along with future simulation and to investigate the meteorological condition of northwestern Rajshahi district of Bangladesh during last few decades. Surface temperature and land cover indices were derived in this study from the multi-temporal Landsat imagery. Besides, unsupervised classification method was utilized to recognize the land cover classes. The trend in annual and seasonal mean temperature and total rainfall together with the frequency of hot and cold days were computed in this study from daily based meteorological data. The impact of land use and climate change was assessed through regression analysis. Finally, land surface temperature for the years 2022 and 2024 was predicted by utilizing a cellular automata model integrated with the artificial neural network. This study revealed that mean surface temperature of both post-monsoon and winter season has increased during 2014–2020 where its seasonal based variation has gradually declined. Annual mean temperature has increased by +0.0195 °C/year with the increase in seasonal mean temperature of pre-monsoon (0.0162 °C/year), monsoon (0.043 °C/year) and post-monsoon (0.0124 °C/year) during 1985–2018. The frequency of hot days is also increasing (0.4127 days/year) significantly. The maximum rate of rainfall during the monsoon has decreased (9.0098 mm/year) which leaves a chance of future drought conditions to occur at Rajshahi even in the rainy season. Land surface temperature is highly influenced by land cover pattern and it increases with expansion of impervious land cover like settlement. Simulation result considering the changing trend of meteorological elements and land cover reveals that surface temperature greater than 27.5 °C would slightly decrease in 2022 but overall lands with surface temperature 23.5–25.5 °C would increase during the post-monsoon period in 2022 and 2024.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2667010021003395"
+  },
+  {
+    "title": "Simulating the Hydrological Processes of a Meso-Scale Watershed on the Loess Plateau, China",
+    "authors": [
+      "Manman Leng,",
+      "Yang Yu,",
+      "Shengping Wang,",
+      "Zhiqiang Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/w12030878",
+    "journalVolume": "Vol. 12,\n                                no. 3\n                                \n                                  p.\n                                  878",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Soil and Water Assessment Tool (SWAT) model is widely used to simulate watershed streamflow by integrating complex interactions between climate, geography, soil, vegetation, land use/land cover and other human activities. Although there have been many studies involving sensitivity analysis, uncertainty fitting, and performance evaluation of SWAT model all over the world, identifying dominant parameters and confirming actual hydrological processes still remain essential for studying the effect of climate and land use change on the hydrological regime in some water-limited regions. We used hydro-climate and spatial geographical data of a watershed with an area of 3919 km2, located on the Loess Plateau of China, to explore the suitable criterion to select parameters for running the model, and to elucidate the dominant ones that govern the hydrological processes for achieving the sound streamflow simulation. Our sensitivity analysis results showed that parameters not passing the sensitive check (p-value < 0.05) could play a significant role in hydrological simulation rather than only the parameters with p-value lower than 0.05, indicating that the common protocol is not appropriate for selecting parameters by sensitivity screening only. Superior performance of the rarely used parameter SOL_BD was likely caused by a combination of lateral and vertical movement of water in the loess soils due to the run-on infiltration process that occurred for meso-scale watershed monthly streamflow modeling, contrasting with traditionally held infiltration excessive overland flow dominated runoff generation mechanisms that prevail on the Loess Plateau. Overall, the hydrological processes of meso-scale watershed in the region could be well simulated by the model though underestimates of monthly streamflow could occur. Simulated water balance results indicated that the evapotranspiration in the region was the main component leaving the watershed, accounting for 88.9% of annual precipitation. Surface runoff contributed to 63.2% of the streamflow, followed by lateral flow (36.6%) and groundwater (0.2%). Our research highlights the importance for selecting more appropriate parameters for distributed hydrological models, which could help modelers to better comprehend the meso-scale watershed runoff generation mechanism of the Loess Plateau and provide policy makers robust tool for developing sustainable watershed management planning in water-limited regions.",
+    "readLink": "https://www.mdpi.com/2073-4441/12/3/878"
+  },
+  {
+    "title": "Industry 4.0 Implementation Projects: The Cleaner Production Strategy—A Literature Review",
+    "authors": [
+      "Walter Cardoso Satyro,",
+      "Jose Celso Contador,",
+      "Sonia Francisca de Paula Monken,",
+      "Anderson Ferreira de Lima,",
+      "Gilberto Gomes Soares Junior,",
+      "Jansen Anderson Gomes,",
+      "João Victor Silva Neves,",
+      "José Roberto do Nascimento,",
+      "Josiane Lima de Araújo,",
+      "Eduardo de Siqueira Correa,",
+      "Leandro Simplício Silva"
+    ],
+    "doi": "https://doi.org/10.3390/su15032161",
+    "journalVolume": "Vol. 15,\n                                no. 2161\n                                \n                                  p.\n                                  2161",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The industrial impacts on the environment need to be minimized to reduce climate change, which will benefit human beings. Industry 4.0, the new production paradigm, promises productivity gains for companies that manage to implement it, but it is also dependent on natural resources, impacting the environment. The aim of this study is to identify and analyze possible cleaner production strategies associated with Industry 4.0 to optimize manufacturing systems in Industry 4.0 implementation projects, in addition to reducing the environmental impacts of these companies. Through a literature search, cleaner production strategies associated with Industry 4.0 were identified and classified into ten dimensions (strategy, waste, recycling, life cycle, resources, energy, production, work, performance and environment) contributing to the theory. The possibilities of using Industry 4.0 technologies were analyzed to meet each dimension. The relevance of this study lies in presenting possibilities for using and developing technologies and applications to meet these dimensions of cleaner production and helping those involved in Industry 4.0 projects to implement it more stably, contributing to the theory and practice.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/3/2161"
+  },
+  {
+    "title": "Research Trends in European Forest Fuel Supply Chains: A Review of the Last Ten Years (2007–2016) – Part Two: Comminution, Transport & Logistics",
+    "authors": [
+      "Gernot Erber,",
+      "Martin Kühmaier"
+    ],
+    "doi": "Vol. 39,\n                                no. 1\n                                \n                                  pp.\n                                  139\n                                  – 152",
+    "issn": "1845-5719 (Print)",
+    "publisher": "1848-9672 (Online)",
+    "countryOfPublisher": "University of Zagreb, Faculty of Forestry",
+    "lcc": [
+      "Croatia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://www.crojfe.com/",
+    "abstract": "Within the fuel wood supply chain, comminution and transport have been identified as processes with the highest costs, energy consumption and emissions. The coordination of comminution and transport aimed at avoiding operational delays is also complex. Nevertheless, the use of forest biomass helps to reduce the effects of climate change and produces an additional income, especially in rural areas. About 20 years ago, at the beginning of the industrial forest fuel utilisation, the focus of the research was on developing and analysing adequate supply chains and machines. Nowadays, as state-of-the-art systems have been established, the focus is on improving the efficiency of the processes and the quality of the products. This paper provides a review of research trends of the last ten years focusing on comminution and transport of forest biomass in Europe. Comminution should become more efficient by analysing the effects of wood characteristics on chipper performance and product quality, by tailoring chipper configuration according to those findings and by introducing mechanical devices for improving the quality of chips. Transport processes have the potential to become more efficient if the configuration of trucks is adapted according to operational and legal requirements, and when considering moisture content management. Finally, economic and environmental assessment of supply chains was made by several studies. Future research is expected to focus on customizing the product quality according to user’s requirements and on optimising the coordination of chipper and truck by simulation and automatization tools.",
+    "readLink": "https://hrcak.srce.hr/file/285582"
+  },
+  {
+    "title": "Emergent molecular traits of lettuce and tomato grown under wavelength-selective solar cells",
+    "authors": [
+      "Melodi Charles,",
+      "Brianne Edwards,",
+      "Eshwar Ravishankar,",
+      "John Calero,",
+      "Reece Henry,",
+      "Jeromy Rech,",
+      "Carole Saravitz,",
+      "Wei You,",
+      "Harald Ade,",
+      "Brendan O’Connor,",
+      "Heike Sederoff"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2023.1087707",
+    "journalVolume": "Vol. 14",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "The integration of semi-transparent organic solar cells (ST-OSCs) in greenhouses offers new agrivoltaic opportunities to meet the growing demands for sustainable food production. The tailored absorption/transmission spectra of ST-OSCs impacts the power generated as well as crop growth, development and responses to the biotic and abiotic environments. To characterize crop responses to ST-OSCs, we grew lettuce and tomato, traditional greenhouse crops, under three ST-OSC filters that create different light spectra. Lettuce yield and early tomato development are not negatively affected by the modified light environment. Our genomic analysis reveals that lettuce production exhibits beneficial traits involving nutrient content and nitrogen utilization while select ST-OSCs impact regulation of flowering initiation in tomato. These results suggest that ST-OSCs integrated into greenhouses are not only a promising technology for energy-neutral, sustainable and climate-change protected crop production, but can deliver benefits beyond energy considerations.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1087707/full"
+  },
+  {
+    "title": "A global perspective on national climate mitigation priorities in the context of air pollution and sustainable development",
+    "authors": [
+      "Qingyang Liu,",
+      "Jill Baumgartner,",
+      "Benjamin de Foy,",
+      "James J. Schauer"
+    ],
+    "doi": "Vol. 1",
+    "issn": "2590-2520 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Communities. Classes. Races: Urban groups. The city. Urban sociology"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/city-and-environment-interactions",
+    "abstract": "Air pollution and climate change are key global challenges for cities and both have large impacts on human health and economic development. Although there are many long term opportunities to address these issues with integrated policies, the immediate needs of addressing air pollution and climate change mitigation are not the same for all countries in the short run. We examined the relationships between greenhouse gases (GHG) emissions, outdoor air pollution, and levels of socioeconomic development to identify specific near-term mitigation policy responses to climate change and air pollution for countries with different levels of human development. Human development index, as defined by The United Nations Development Programme (UNDP) is a measure of achievement in the basic dimensions of human development across countries, which combines the gross national income index, an education index and a life expectancy index (http://hdr.undp.org/en/humandev). Country-level data were collected on indicators of socioeconomic development, emissions of GHG, and outdoor levels of fine particulate matter (PM2.5) from the World Bank, the UNDP, and the Task Force on Hemispheric Transport of Air Pollution. Differences in GHG emissions and air pollution concentrations, as well as socioeconomic development indicators, were assessed at national, sub-national, and global scales. Countries were divided into four categories based on CO2 emissions per capita and an estimation of outdoor PM2.5: Group A was characterized by high CO2 emissions per capita and low PM2.5 concentrations, Group B by high CO2 emissions per capita and high PM2.5 concentrations, Group C by low CO2 emissions per capita and low PM2.5 concentrations, and Group D by low CO2 emissions per capita and high PM2.5 concentration. Per-capita emissions of CO2 were strongly correlated with the level of socioeconomic development, while differences in non-CO2 greenhouse gas emissions per capita across the groups were not correlated. Atmospheric PM2.5 concentrations were not correlated with either CO2 emissions per capita or levels of socioeconomic development. Energy and environmental policies focused on CO2 emission reductions may not inherently lead to development pathways that sufficiently reduce population exposure to air pollution. Countries with low CO2 and high air pollution levels should pursue short-term policies to reduce air pollution and increase human development, beginning to address GHG emissions after critical human health and development needs are met.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2590252019300030"
+  },
+  {
+    "title": "Can Dangerous Climate Change Be Avoided?",
+    "authors": [
+      "Darrel Moellendorf"
+    ],
+    "doi": "https://doi.org/10.21248/gjn.8.2.94",
+    "journalVolume": "Vol. 8,\n                                no. 2",
+    "issn": "1835-6842 (Online)",
+    "publisher": "Global Justice Network",
+    "countryOfPublisher": "Germany",
+    "lcc": [
+      "Political science: Political science (General)"
+    ],
+    "journalUrl": "http://www.theglobaljusticenetwork.org",
+    "abstract": "This article discusses obstacles to overcoming dangerous climate change. It employs an account of dangerous climate change that takes climate change and climate change policy as dangerous if it imposes avoidable costs of poverty prolongation. It then examines plausible accounts of the collective action problems that seem to explain the lack of ambition to mitigate. After criticizing the merits of two proposals to overcome these problems, it discusses the pledge and review process. It argues that pledge and review possesses the virtues of encouraging broad participation and of providing a procedural safeguard for the right of sustainable development. However, given the perceptions of the marginal short term costs of mitigation, pledge and review is unlikely, at least initially, to issue in an agreement to make deep reductions in greenhouse gas emissions. Because there is no rival approach that seems likely to better instantiate the two virtues, pledge and review may be the best available policy for mitigation. Moreover, recent economic research suggests that the co-benefits of mitigation may be greater than previously assumed and that the costs of renewable energy may be less than previously calculated. This would radically undermine claims that the short term mitigation costs necessarily render mitigation irrational and produce collective action problems. Given the circumstances, pledge and review might be our best hope to avoid dangerous climate change.",
+    "readLink": "https://www.theglobaljusticenetwork.org/index.php/gjn/article/view/94"
+  },
+  {
+    "title": "Climatic Mechanism of Delaying the Start and Advancing the End of the Growing Season of <i>Stipa krylovii</i> in a Semi-Arid Region from 1985–2018",
+    "authors": [
+      "Erhua Liu,",
+      "Guangsheng Zhou,",
+      "Qijin He,",
+      "Bingyi Wu,",
+      "Huailin Zhou,",
+      "Wenjie Gu"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy12081906",
+    "journalVolume": "Vol. 12,\n                                no. 1906\n                                \n                                  p.\n                                  1906",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "Plant phenological variations depend largely on temperature, but they cannot be explained by temperature alone in arid and semi-arid regions. To reveal the response mechanisms of grassland phenology to climate change, the effects of temperature, moisture and light at the start (SOS), peak (POS) and end (EOS) of the growing season for Stipa krylovii (S. krylovii) in Inner Mongolian grassland was analysed from 1985–2018 with partial least squares (PLS) regression. The results showed that the SOS was significantly delayed at a rate of 5.4 d/10a (change over 10 years), while POS and EOS were insignificantly advanced, which were inconsistent with the existing understanding that climate warming advances the SOS and delays the EOS. The vapor pressure deficit (VPD) in July, maximum air temperature (Tmax) in September of the previous year, diurnal temperature range (DTR) from mid-February to mid-March, and Tmax from late March to mid-April of the current year were the critical factors and periods triggering the SOS, which contributed to 68.5% of the variation in the SOS. Additionally, the minimum air temperature (Tmin) occurred from mid-December to late December, and precipitation (PRE) occurred from mid-June to late July for POS, which could explain 52.1% of POS variations. In addition, Tmax from late August to early September influenced the EOS with an explanation of 49.3%. The results indicated that the phenological variations in S. krylovii were the result of the combined effects of climatic conditions from the previous year and the current year. Additionally, an increase in the preseason DTR delayed the SOS, and excessive summer precipitation induced an earlier POS, while warming in early autumn induced an earlier EOS, reflecting the adaptation mechanism of the perennial dense-cluster herbaceous plants in semi-arid regions to climate change. These findings could enrich the understanding of plant phenology in response to climate change.",
+    "readLink": "https://www.mdpi.com/2073-4395/12/8/1906"
+  },
+  {
+    "title": "ANALYSIS OF LIVELIHOODS IN PEAT LAND: THE CASE OF TANJUNG JABUNG BARAT REGENCY",
+    "authors": [
+      "Surati Surati,",
+      "Setiasih Irawanti,",
+      "Dian Charity Hidayat,",
+      "Handoyo Handoyo,",
+      "Kuncoro Ariawan,",
+      "Andri Setiadi Kurniawan,",
+      "Raden Mohammad Mulyadin"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2019.16.2.81-93",
+    "journalVolume": "Vol. 16,\n                                no. 2\n                                \n                                  pp.\n                                  81\n                                  – 93",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "Peatland is unique, marginal and fragile ecosystem, therefore its utilization should be based on careful research and planning, and requires support from stakeholders. The utilization of peatland by community is generally in the forms of yards, fields, and gardens. The study aims to examine community activities on peatland to be source of livelihood and income. Research was conducted in Bram Itam Raya and Mekar Jaya villages, Tanjung Jabung Barat District. Data were analyzed by using thematic, economic social dimension analysis, and SWOT analysis. The results show the activities that can be source of livelihood and income in peatland are plantation, agriculture, and other forest products while income from non-land are entrepreneurship, services and livestock.People’s livelihoods generally are plantation farmers (60.35%), with main commodities pinang, coffee, and palm oil, with average income greater than UMP namely up to Rp4,467,282.61per month. It illustrates that incomefrom peatland can fulfill their needs properly. There is limited knowledge of farmer in cultivating land, selection of plant species that can be adapted to biophysical conditions and how to cope with pests and diseases. To overcome limitation of community knowledge, it is necessary to provide alternative activities and sources of livelihood with agroforestry techniques.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/4316"
+  },
+  {
+    "title": "Inquiry-Based Learning on Climate Change in Upper Secondary Education: A Design-Based Approach",
+    "authors": [
+      "Sebastian Brumann,",
+      "Ulrike Ohl,",
+      "Johannes Schulz"
+    ],
+    "doi": "https://doi.org/10.3390/su14063544",
+    "journalVolume": "Vol. 14,\n                                no. 3544\n                                \n                                  p.\n                                  3544",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Education is of great importance in the context of climate change, as it can promote pro-environmental behaviour. However, climate change education is accompanied by didactic and pedagogical challenges because, among other reasons, climate change is a complex phenomenon and many people have a psychological distance to the topic. A promising approach to face these challenges is inquiry-based learning (IBL), as several studies show. To date, however, there are barely any empirically tested instructional designs, especially for close-to-science IBL, focusing on climate change. The study presented here therefore addresses the question of how a science propaedeutic seminar for upper secondary schools on the regional implications of climate change should be designed to ensure successful learning processes. Based on the design-based research approach, qualitative research methods (focus group discussions, semi-standardised written teacher surveys, and participant observations) were used to identify target-oriented design guidelines and implementation principles for such seminars. In the seminars, 769 students have so far researched different aspects of climate change in their own regions. The identified design guidelines and implementation principles were further operationalised for teaching practice, so that the research generated both a contribution to theory building and an applicable concept for schools.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/6/3544"
+  }
+]

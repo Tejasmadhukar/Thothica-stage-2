@@ -1,0 +1,241 @@
+[
+  {
+    "title": "Evaluation of Multivariate Adaptive Regression Splines and Artificial Neural Network for Prediction of Mean Sea Level Trend around Northern Australian Coastlines",
+    "authors": [
+      "Nawin Raj,",
+      "Zahra Gharineiat"
+    ],
+    "doi": "https://doi.org/10.3390/math9212696",
+    "journalVolume": "Vol. 9,\n                                no. 2696\n                                \n                                  p.\n                                  2696",
+    "issn": "2227-7390 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Mathematics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/mathematics",
+    "abstract": "Mean sea level rise is a significant emerging risk from climate change. This research paper is based on the use of artificial intelligence models to assess and predict the trend on mean sea level around northern Australian coastlines. The study uses sea-level times series from four sites (Broom, Darwin, Cape Ferguson, Rosslyn Bay) to make the prediction. Multivariate adaptive regression splines (MARS) and artificial neural network (ANN) algorithms have been implemented to build the prediction model. Both models show high accuracy (R2 > 0.98) and low error values (RMSE < 27%) overall. The ANN model showed slightly better performance compared to MARS over the selected sites. The ANN performance was further assessed for modelling storm surges associated with cyclones. The model reproduced the surge profile with the maximum correlation coefficients ~0.99 and minimum RMS errors ~4 cm at selected validating sites. In addition, the ANN model predicted the maximum surge at Rosslyn Bay for cyclone Marcia to within 2 cm of the measured peak and the maximum surge at Broome for cyclone Narelle to within 7 cm of the measured peak. The results are comparable with a MARS model previously used in this region; however, the ANN shows better agreement with the measured peak and arrival time, although it suffers from slightly higher predictions than the observed sea level by tide gauge station.",
+    "readLink": "https://www.mdpi.com/2227-7390/9/21/2696"
+  },
+  {
+    "title": "Climate Change Assessment Using Atmosphere-Ocean General Circulation Model) AOGCM( and Its Effect on Runoff Using \nHEC-HMS model",
+    "authors": [
+      "J. Abedi Koupai,",
+      "A.R. Vahabi"
+    ],
+    "doi": "Vol. 27,\n                                no. 2\n                                \n                                  pp.\n                                  19\n                                  – 32",
+    "issn": "2476-3594 (Print)",
+    "publisher": "2476-5554 (Online)",
+    "countryOfPublisher": "Isfahan University of Technology",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://jstnar.iut.ac.ir/",
+    "abstract": "Awareness of water resources status is essential for the proper management of resources and planning for the future due to the occurrence of climate change in most parts of the world and its impact on different parts of the water cycle. Hence, many studies have been carried out in different regions to analyze the effects of climate change on the hydrological process in the coming periods. The present study examined the effects of climate change on surface runoff using the Atmosphere-Ocean General Circulation Model (AOGCM) in Khomeini Shahr City. The maximum and minimum temperatures and precipitation of the upcoming period (2020-2049) were simulated using a weighted average of three models for each of the minimum and maximum temperatures and precipitation parameters based on the scenario A2 and B1 (pessimistic and optimistic states, respectively) of the AOGCM-AR4 models. The LARS-WG model was also used to measure the downscaling. The HEC-HMS was used to predict runoff. The effects of climate change in the coming period (2020-2049) compared with the observation period (1971-2000), in the A2 scenario, the minimum and maximum temperatures would increase by 1.1 and 1.6 Degrees Celsius, respectively, and the precipitation would decrease 17.8 percent. In the B1 scenario, the minimum and maximum temperatures would increase by 1.1 and 1.4 degrees Celsius, respectively, and the precipitation would decrease by 13 percent. The results of runoff were different in the six scenarios in the way the most runoff reduction is related to the scenario of fixed land use and scenario A2 (22.2% reduction), and the most increase is related to the scenario of 45% urban growth and scenario B1 (5.8% increase). So, according to increase urban texture in the future and consequently enhance the volume of runoff, this volume of runoff can be used to feed groundwater, irrigate gardens, and green space in the city.",
+    "readLink": "http://jstnar.iut.ac.ir/article-1-3828-en.pdf"
+  },
+  {
+    "title": "Long-Term Changes of Particle Flux in the Canary Basin Between 1991 and 2009 and Comparison to Sediment Trap Records Off Mauritania",
+    "authors": [
+      "Gerhard Fischer,",
+      "Gerhard Fischer,",
+      "Susanne Neuer,",
+      "Simon Ramondenc,",
+      "Simon Ramondenc,",
+      "Thomas J. Müller,",
+      "Barbara Donner,",
+      "Götz Ruhland,",
+      "Volker Ratmeyer,",
+      "Gerrit Meinecke,",
+      "Nico Nowald,",
+      "Marco Klann,",
+      "Gerold Wefer"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2020.00280",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "Eastern Boundary Upwelling Ecosystems (EBUEs) are associated with high biological productivity, high fish catch and they highly contribute to marine carbon sequestration. Whether coastal upwelling has intensified or weakened under climate change in the past decades is controversially discussed and different approaches (e.g., time-series of chlorophyll, wind, sea surface temperature, modeling experiments) have been considered. We present a record of almost two decades of particle fluxes (1991–2009) from ca. 600 to 3100 m water depth in the Canary Basin at site ESTOC (European Station for Time series in the Ocean Canary Islands; ca. 29°N, 15°30.W, ca. 3600 m water depth), located in the offshore transition zone of the northern Canary Current-EBUE. We compare these flux records with those measured at a mesotrophic sediment trap site further south off Cape Blanc (Mauritania, ca. 21°N). The deep ocean fluxes at ESTOC in ca. 3 km recorded the evolution of the coastal Cape Ghir filament (30–32°N, 10–12°W) due to lateral advection of particles, whereas the upper water column sediment traps in ca. 1 km reflected the oligotrophic conditions in the overlying waters of ESTOC. We observed an increased emphasis in spring-time fluxes since 2005, associated with a change in particle composition, while satellite chlorophyll biomass did not show this pattern. Due to its northern location in the CC-EBUEs, spring biogenic fluxes at ESTOC provide a better relationship to the forcing of the North Atlantic Oscillation than those recorded further south off Cape Blanc. Off Cape Blanc, deep fluxes showed the best overlap with the deep ESTOC fluxes during the spring season before 2005. On the long-term, both chlorophyll and particle fluxes showed an increasing trend at ESTOC which was not observed further south at the mesotrophic Cape Blanc site. This might indicate that, depending on their location along the NW African margin, coastal upwelling systems react differently to global change.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/feart.2020.00280/full"
+  },
+  {
+    "title": "Reconstructing High-Spatiotemporal-Resolution (30 m and 8-Days) NDVI Time-Series Data for the Qinghai–Tibetan Plateau from 2000–2020",
+    "authors": [
+      "Ruyin Cao,",
+      "Zichao Xu,",
+      "Yang Chen,",
+      "Jin Chen,",
+      "Miaogen Shen"
+    ],
+    "doi": "https://doi.org/10.3390/rs14153648",
+    "journalVolume": "Vol. 14,\n                                no. 3648\n                                \n                                  p.\n                                  3648",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "As the largest and highest alpine ecoregion in the world, the Qinghai–Tibetan Plateau (QTP) is extremely sensitive to climate change and has experienced extraordinary warming during the past several decades; this has greatly affected various ecosystem processes in this region such as vegetation production and phenological change. Therefore, numerous studies have investigated changes in vegetation dynamics on the QTP using the satellite-derived normalized-difference vegetation index (NDVI) time-series data provided by the Moderate-Resolution Imaging Spectroradiometer (MODIS). However, the highest spatial resolution of only 250 m for the MODIS NDVI product cannot meet the requirement of vegetation monitoring in heterogeneous topographic areas. In this study, therefore, we generated an 8-day and 30 m resolution NDVI dataset from 2000 to 2020 for the QTP through the fusion of 30 m Landsat and 250 m MODIS NDVI time-series data. This dataset, referred to as QTP-NDVI30, was reconstructed by employing all available Landsat 5/7/8 images (>100,000 scenes) and using our recently developed gap-filling and Savitzky–Golay filtering (GF-SG) method. We improved the original GF-SG approach by incorporating a module to process snow contamination when applied to the QTP. QTP-NDVI30 was carefully evaluated in both quantitative assessments and visual inspections. Compared with reference Landsat images during the growing season in 100 randomly selected subregions across the QTP, the reconstructed 30 m NDVI images have an average mean absolute error (MAE) of 0.022 and a spatial structure similarity (SSIM) above 0.094. We compared QTP-NDVI30 with upscaled cloud-free PlanetScope images in some topographic areas and observed consistent spatial variations in NDVI between them (averaged SSIM = 0.874). We further examined an application of QTP-NDVI30 to detect vegetation green-up dates (GUDs) and found that QTP-NDVI30-derived GUD data show general agreement in spatial patterns with the 250 m MODIS GUD data, but provide richer spatial details (e.g., GUD variations at the subpixel scale). QTP-NDVI30 provides an opportunity to monitor vegetation and investigate land-surface processes in the QTP region at fine spatiotemporal scales.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/15/3648"
+  },
+  {
+    "title": "New Opportunities and Untapped Scientific Potential in the Abyssal Ocean",
+    "authors": [
+      "Jeffrey J. Marlow,",
+      "Rika E. Anderson,",
+      "Anna-Louise Reysenbach,",
+      "Jeffrey S. Seewald,",
+      "Timothy M. Shank,",
+      "Andreas P. Teske,",
+      "V. Dorsey Wanless,",
+      "S. Adam Soule"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2021.798943",
+    "journalVolume": "Vol. 8",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "The abyssal ocean covers more than half of the Earth’s surface, yet remains understudied and underappreciated. In this Perspectives article, we mark the occasion of the Deep Submergence Vehicle Alvin’s increased depth range (from 4500 to 6500 m) to highlight the scientific potential of the abyssal seafloor. From a geologic perspective, ultra-slow spreading mid-ocean ridges, Petit Spot volcanism, transform faults, and subduction zones put the full life cycle of oceanic crust on display in the abyss, revealing constructive and destructive forces over wide ranges in time and space. Geochemically, the abyssal pressure regime influences the solubility of constituents such as silica and carbonate, and extremely high-temperature fluid-rock reactions in the shallow subsurface lead to distinctive and potentially unique geochemical profiles. Microbial residents range from low-abundance, low-energy communities on the abyssal plains to fast growing thermophiles at hydrothermal vents. Given its spatial extent and position as an intermediate zone between coastal and deep hadal settings, the abyss represents a lynchpin in global-scale processes such as nutrient and energy flux, population structure, and biogeographic diversity. Taken together, the abyssal ocean contributes critical ecosystem services while facing acute and diffuse anthropogenic threats from deep-sea mining, pollution, and climate change.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fmars.2021.798943/full"
+  },
+  {
+    "title": "Assessing degradation and recovery pathways in lakes impacted by eutrophication using the sediment record",
+    "authors": [
+      "Helen eBennion,",
+      "Gavin Leslie Simpson,",
+      "Ben J. Goldsmith"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2015.00094",
+    "journalVolume": "Vol. 3",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "Efforts to restore enriched lakes have increased yet there remains uncertainty about whether restoration targets can be achieved and over what timescale. Paleoecological techniques, principally diatom analyses, were used to examine the degree of impact and recovery in 12 European lakes subject to eutrophication and subsequent reduction in nutrient loading. Dissimilarity scores showed that all sites experienced progressive deviation from the reference sample (core bottom) prior to nutrient reduction, and principal curves indicated gradual compositional change with enrichment. When additive models were applied to the latter, the changes were statistically significant in 9 of the 12 sites. Shifts in diatom composition following reduction in nutrient loading were more equivocal, with a reversal towards the reference flora seen only in four of the deep lakes and one of the shallow lakes. Of these, only two were significant (Lake Bled and Mjøsa). Alternative nutrient sources seem to explain the lack of apparent recovery in the other deep lakes. In three shallow lakes diatom assemblages were replaced by a community associated with lower productivity but not the one seen prior to enrichment. Internal loading and top down control may influence recovery in shallow lakes and climate change may have confounded recovery in several of the study sites. Hence, ecosystem recovery is not simply a reversal of the degradation pathway and may take several decades to complete or, for some lakes, may not take place at all. By assessing ecological change over a decadal to centennial timescale, the study highlights the important role that paleolimnology can play in establishing a benchmark against which managers can evaluate the degree to which their restoration efforts are successful.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fevo.2015.00094/full"
+  },
+  {
+    "title": "Building a feral future: Open questions in crop ferality",
+    "authors": [
+      "Makenzie E. Mabry,",
+      "Muthukumar V. Bagavathiannan,",
+      "James M. Bullock,",
+      "Hongru Wang,",
+      "Ana L. Caicedo,",
+      "Clemon J. Dabney,",
+      "Emily B. M. Drummond,",
+      "Emma Frawley,",
+      "Jonathan Gressel,",
+      "Brian C. Husband,",
+      "Amy Lawton‐Rauh,",
+      "Lorenzo Maggioni,",
+      "Kenneth M. Olsen,",
+      "Claudio Pandolfo,",
+      "J. Chris Pires,",
+      "Michael T. Pisias,",
+      "Hamid Razifard,",
+      "Douglas E. Soltis,",
+      "Pamela S. Soltis,",
+      "Sofía Tillería,",
+      "Soledad Ureta,",
+      "Emily Warschefsky,",
+      "Alex C. McAlvay"
+    ],
+    "doi": "https://doi.org/10.1002/ppp3.10367",
+    "journalVolume": "Vol. 5,\n                                no. 5\n                                \n                                  pp.\n                                  635\n                                  – 649",
+    "issn": "2572-2611 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Botany"
+    ],
+    "journalUrl": "https://nph.onlinelibrary.wiley.com/journal/25722611",
+    "abstract": "Societal Impact Statement Given the rapidly increasing drought and temperature stresses associated with climate change, innovative approaches for food security are imperative. One understudied opportunity is using feral crops—plants that have escaped and persisted without cultivation—as a source of genetic diversity, which could build resilience in domesticated conspecifics. In some cases, however, feral plants vigorously compete with crops as weeds, challenging food security. By bridging historically siloed ecological, agronomic, and evolutionary lines of inquiry into feral crops, there is the opportunity to improve food security and understand this relatively understudied anthropogenic phenomenon. Summary The phenomenon of feral crops, that is, free‐living populations that have established outside cultivation, is understudied. Some researchers focus on the negative consequences of domestication, whereas others assert that feral populations may serve as useful pools of genetic diversity for future crop improvement. Although research on feral crops and the process of feralization has advanced rapidly in the last two decades, generalizable insights have been limited by a lack of comparative research across crop species and other factors. To improve international coordination of research on this topic, we summarize the current state of feralization research and chart a course for future study by consolidating outstanding questions in the field. These questions, which emerged from the colloquium “Darwins' reversals: What we now know about Feralization and Crop Wild Relatives” at the BOTANY 2021 conference, fall into seven categories that span both basic and applied research: (1) definitions and drivers of ferality, (2) genetic architecture and pathway, (3) evolutionary history and biogeography, (4) agronomy and breeding, (5) fundamental and applied ecology, (6) collecting and conservation, and (7) taxonomy and best practices. These questions serve as a basis for ferality researchers to coordinate research in these areas, potentially resulting in major contributions to food security in the face of climate change.",
+    "readLink": "https://doi.org/10.1002/ppp3.10367"
+  },
+  {
+    "title": "Effects of Land Use and Land Cover Change on Temperature in Summer over the Yellow River Basin, China",
+    "authors": [
+      "Xutong Ru,",
+      "Hongquan Song,",
+      "Haoming Xia,",
+      "Shiyan Zhai,",
+      "Yaobin Wang,",
+      "Ruiqi Min,",
+      "Haopeng Zhang,",
+      "Longxin Qiao"
+    ],
+    "doi": "https://doi.org/10.3390/rs14174352",
+    "journalVolume": "Vol. 14,\n                                no. 4352\n                                \n                                  p.\n                                  4352",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "As the main driving force of global climate change, land use and land cover change (LUCC) can affect the surface energy balance and the interaction between the surface and atmosphere. This effect will cause further surface temperature changes. The Yellow River Basin is an important ecological security barrier in China. Therefore, exploring the impact of its LUCC on temperature changes can provide certain help for future land-use planning in the Yellow River Basin. Here, we conducted two numerical simulation experiments (Case2015 and Case1995) by using the weather research and forecasting (WRF) model to quantify the effect of LUCC in the Yellow River Basin on the summer 2 m air temperature (T2 m). The results showed that LUCC led to an overall warming trend in T2 m in the Yellow River Basin. Urban expansion caused T2 m to rise by approximately 0.3 °C to 0.6 °C. A warming effect was also identified in the areas where farmland and bare areas were converted to grassland, with T2 m increasing by around 0.4 °C.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/17/4352"
+  },
+  {
+    "title": "Simulated carbon emissions from land-use change are substantially enhanced by accounting for agricultural management",
+    "authors": [
+      "T A M Pugh,",
+      "A Arneth,",
+      "S Olin,",
+      "A Ahlström,",
+      "A D Bayer,",
+      "K Klein Goldewijk,",
+      "M Lindeskog,",
+      "G Schurgers"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/10/12/124008",
+    "journalVolume": "Vol. 10,\n                                no. 12\n                                \n                                  p.\n                                  124008",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "It is over three decades since a large terrestrial carbon sink ( S _T ) was first reported. The magnitude of the net sink is now relatively well known, and its importance for dampening atmospheric CO _2 accumulation, and hence climate change, widely recognised. But the contributions of underlying processes are not well defined, particularly the role of emissions from land-use change ( E _LUC ) versus the biospheric carbon uptake ( S _L ; S _T = S _L − E _LUC ). One key aspect of the interplay of E _LUC and S _L is the role of agricultural processes in land-use change emissions, which has not yet been clearly quantified at the global scale. Here we assess the effect of representing agricultural land management in a dynamic global vegetation model. Accounting for harvest, grazing and tillage resulted in cumulative E _LUC since 1850 ca. 70% larger than in simulations ignoring these processes, but also changed the timescale over which these emissions occurred and led to underestimations of the carbon sequestered by possible future reforestation actions. The vast majority of Earth system models in the recent IPCC Fifth Assessment Report omit these processes, suggesting either an overestimation in their present-day S _T , or an underestimation of S _L , of up to 1.0 Pg C a ^−1 . Management processes influencing crop productivity per se are important for food supply, but were found to have little influence on E _LUC .",
+    "readLink": "https://doi.org/10.1088/1748-9326/10/12/124008"
+  },
+  {
+    "title": "Knowledge of Cover Crop Seed Traits and Treatments to Enhance Weed Suppression: A Narrative Review",
+    "authors": [
+      "Iraj Nosratti,",
+      "Nicholas E. Korres,",
+      "Stéphane Cordeau"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy13071683",
+    "journalVolume": "Vol. 13,\n                                no. 1683\n                                \n                                  p.\n                                  1683",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "Cover crops, as either a living plant or mulch, can suppress weeds by reducing weed germination, emergence and growth, either through direct competition for resources, allelopathy, or by providing a physical barrier to emergence. Farmers implementing conservation agriculture, organic farming, or agroecological principles are increasingly adopting cover crops as part of their farming strategy. However, cover crop adoption remains limited by poor and/or unstable establishment in dry conditions, the weediness of cover crop volunteers as subsequent cash crops, and seed costs. This study is the first to review the scientific literature on seed traits of cover crops to identify the key biotic and abiotic factors influencing germination and early establishment (density, biomass, cover). Knowledge about seed traits would be helpful in choosing suitable cover crop species and/or mixtures adapted to specific environments. Such information is crucial to improve cover crops’ establishment and growth and the provision of ecosystem services, while allowing farmers to save seeds and therefore money. We discuss how to improve cover crop establishment by seed priming and coating, and appropriate seed sowing patterns and depth. Here, three cover crop families, namely, Poaceae, Brassicaceae, and Fabaceae, were examined in terms of seed traits and response to environmental conditions. The review showed that seed traits related to germination are crucial as they affect the germination timing and establishment of the cover crop, and consequently soil coverage uniformity, factors that directly relate to their suppressive effect on weeds. Poaceae and Brassicaceae exhibit a higher germination percentage than Fabaceae under water deficit conditions. The seed dormancy of some Fabaceae species/cultivars limits their agricultural use as cover crops because the domestication of some wild ecotypes is not complete. Understanding the genetic and environmental regulation of seed dormancy is necessary. The appropriate selection of cover crop cultivars is crucial to improve cover crop establishment and provide multiple ecosystem services, including weed suppression, particularly in a climate change context.",
+    "readLink": "https://www.mdpi.com/2073-4395/13/7/1683"
+  }
+]

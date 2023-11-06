@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Impacts of forestation and deforestation on local temperature across the globe.",
+    "authors": [
+      "Jayme A Prevedello,",
+      "Gisele R Winck,",
+      "Marcelo M Weber,",
+      "Elizabeth Nichols,",
+      "Barry Sinervo"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0213368",
+    "journalVolume": "Vol. 14,\n                                no. 3\n                                \n                                  p.\n                                  e0213368",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Changing forest cover is a key driver of local climate change worldwide, as it affects both albedo and evapotranspiration (ET). Deforestation and forestation are predicted to have opposing influences on surface albedo and ET rates, and thus impact local surface temperatures differently. Relationships between forest change, albedo, ET, and local temperatures may further vary regionally, as the strengths of warming by albedo effects and cooling by ET effects vary with latitude. Despite these important relationships, the magnitude of forest cover effects on local surface temperature across the globe remains unclear. Using recently-released global forest change data, we first show that forestation and deforestation have pervasive and opposite effects on LST, ET and albedo worldwide. Deforestation from 2000 to 2010 caused consistent warming of 0.38 ± 0.02 (mean ± SE) and 0.16 ± 0.01°C in tropical and temperate regions respectively, while forestation caused cooling in those regions of -0.18 ± 0.02 and -0.19 ± 0.02°C. Tropical forests were particularly sensitive to the climate effects of forest change, with forest cover losses of ~50% associated with increased LST of 1.08 ± 0.25°C, whereas similar forest cover gains decreased LST by -1.11 ± 0.26°C. Secondly, based on a new structural equation model, we show that these changes on LST were largely mediated by changes in albedo and ET. Finally, based on this model, we show that predicted forest changes in Brazil associated with a business-as-usual land use scenario through 2050 may increase LST up to 1.45°C. Our results contribute to a better understanding of the mechanistic inter-relationships between forest change and changes in albedo, ET and LST, and provide additional evidence that forestation has the potential to reverse deforestation impacts on local climate, especially in tropical and temperate regions.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0213368"
+  },
+  {
+    "title": "Estimating Forest Canopy Height Using MODIS BRDF Data Emphasizing Typical-Angle Reflectances",
+    "authors": [
+      "Lei Cui,",
+      "Ziti Jiao,",
+      "Yadong Dong,",
+      "Mei Sun,",
+      "Xiaoning Zhang,",
+      "Siyang Yin,",
+      "Anxin Ding,",
+      "Yaxuan Chang,",
+      "Jing Guo,",
+      "Rui Xie"
+    ],
+    "doi": "https://doi.org/10.3390/rs11192239",
+    "journalVolume": "Vol. 11,\n                                no. 19\n                                \n                                  p.\n                                  2239",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Forest-canopy height is an important parameter for the estimation of forest biomass and terrestrial carbon flux and climate-change research at regional and global scales. Currently, various methods combining Light Detection and Ranging (LiDAR) data with various auxiliary data, particularly satellite remotely sensed reflectances, have been widely used to produce spatially continuous canopy-height products. However, current methods in use for remote sensing reflectances mainly focus on the nadir view direction, while anisotropic reflectances, which are theoretically more sensitive to the forest canopy height in the multiangle remote sensing field, have rarely been explored. Here, we attempted to examine the potential of using modeled multiangle reflectances at three typical viewing angles (i.e., from the hotspot, darkspot, and nadir directions) to estimate forest-canopy height as auxiliary data sources. First, the sensitivities of the typical angular reflectances as a function of forest canopy height were fully examined using the Extended Fourier Amplitude Sensitivity Test (EFAST) method based on the 4-scale Bidirectional Reflectance Distribution Function (BRDF) model simulations. This indicated that reflectances in the off-nadir viewing directions are generally sensitive to canopy-height variations. Then, the canopy heights were extracted from airborne Laser Vegetation Imaging Sensor (LVIS) data, which were further divided into training and validation data. Moderate Resolution Imaging Spectroradiometer (MODIS) multiangle reflectances at typical viewing angles were calculated from the MODIS BRDF parameter product (MCD43A1, version 6) as partial training-input data, based on a hotspot-adjusted, kernel-driven linear BRDF model. Subsequently, the Random Forest (RF) machine learning model was trained to acquire the relationship between the extracted canopy heights and the corresponding MODIS typical viewing reflectances. The trained model was further applied to estimate the canopy height metrics in the study areas of Howland Forest, Harvard Forest, and Bartlett Forest. Finally, the estimated canopy heights were independently validated by canopy heights extracted from the LVIS data. The results indicate that the canopy heights modeled through this method exhibit generally high accordance with the LVIS-derived canopy heights (R = 0.65−0.67; RMSE = 3.63−5.78). The results suggest that the MODIS multiangle reflectance data at typical observation angles contain important information regarding forest canopy height and can, therefore, be used to estimate forest canopy height for various ecological applications.",
+    "readLink": "https://www.mdpi.com/2072-4292/11/19/2239"
+  },
+  {
+    "title": "Comparative analysis of managing plantation forests: The case of keeping plantation forests for carbon credit and industrial profits in Oromia Region, Ethiopia",
+    "authors": [
+      "Gizaw Ebissa,",
+      "Aramde Fetene,",
+      "Hayal Desta"
+    ],
+    "doi": "Vol. 9,\n                                no. 4\n                                \n                                  p.\n                                  e15151",
+    "issn": "2405-8440 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.cell.com/heliyon/home",
+    "abstract": "Community-based organizations (CBOs) and individuals primarily engaged in forest management dedicated to carbon credit run both at national and regional levels. After a span of time elapsed in the same, CBOs and individuals aspired to shift the carbon-dedicated forest either into log or timber production based on an informed decision. However, there is no study done so which of these projects is financially more useful to them to make an informed decision. The objective of the study is, therefore, to make comparative analyses of plantation forests for carbon credit, round log and timber. The result has revealed that plantation forest managed for timber production is most attractive and rewarding in year 10 and year 15 both with and without discounting at 3%. Plantation forest managed for timber production enables the creation of a fixed asset than both carbon credit and log production. Plantation forests managed for the carbon credit, log production and timber production have externalities both positive and negative which must be considered while calculating the costs and benefits accrued thereof. There are existing and emerging risks associated with the carbon credit project which shifts from natural (forest) to technological abatement of climate change. The study is critical to understanding the benefits of future plantation forest investment. We, thus, conclude forest managed for timber production is financially more useful for CBOs and individuals than round log and carbon credit. We recommend CBOs and individuals to have adequate information on benefits and risks associated with plantation forests managed for carbon credit, round log and timber production before engaging in the investment.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405844023023587"
+  },
+  {
+    "title": "Domestic sources of ‘mild’ positions on international cooperation: Italy and global climate policy",
+    "authors": [
+      "Federica Genovese"
+    ],
+    "doi": "Vol. 15,\n                                no. 1",
+    "issn": "2420-8434 (Online)",
+    "publisher": "Università degli Studi di Catania",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Political science: Political science (General)",
+      "Political science: Political theory"
+    ],
+    "journalUrl": "http://italianpoliticalscience.com/index.php/ips/index",
+    "abstract": "This paper investigates Italy's position on global climate change politics in order to explore the larger question of why this country, like similar middle powers, may adopt ambiguous positions on global public policy issues. I start from the observation that in recent history Italy has taken a rather mild posi-tion on international climate cooperation and climate policy more broadly. To explain this, I propose an argument in divergence with those who claim Italy has low salience in the issue or lack of interest in international climate leadership. I put forward a political economy perspective and claim that different salient concerns motivate the domestic actors that shape the country’s international position. I main-tain that these different concerns offset each other, resulting in overall mild preferences. I present support for my theory, zooming in on the motivations of two domestic sources of international posi-tions: economic sectors and public opinion. The empirical data largely corroborates the theory.",
+    "readLink": "http://italianpoliticalscience.com/index.php/ips/article/view/125"
+  },
+  {
+    "title": "Renewable-Energy-Based Microgrid Design and Feasibility Analysis for King Saud University Campus, Riyadh",
+    "authors": [
+      "Mohammed Abdullah H. Alshehri,",
+      "Youguang Guo,",
+      "Gang Lei"
+    ],
+    "doi": "https://doi.org/10.3390/su151310708",
+    "journalVolume": "Vol. 15,\n                                no. 10708\n                                \n                                  p.\n                                  10708",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The world is forced to think about alternate energy sources because fossil fuel stocks are unreliable, harmful, and depleting quickly. Deployments of microgrids powered by renewable energy are some of the most economical, effective, dependable, and sustainable answers to this problem. The design of a power system with the least amount of economic and environmental impact is the main challenge because the world is currently facing climate change disasters on a scale that has never been seen before. As a result, there is an urgent need to transition to renewable energy resources to meet energy demands. This study examines the creation of a hybrid microgrid to meet the electrical load requirements of the King Saud University campus in Riyadh by utilizing the site’s solar and wind potential. A software called HOMER Pro Version 3.14.5 is used to simulate the planned microgrid system. The software can run numerous simulations while taking into account various system configurations. The ultimate objective is to choose the best combination of different power sources to create a microgrid with low energy costs, dependability, minimal GHG emissions, and a high penetration of renewable energy. The solar, wind, and battery system connected to the grid was shown to be the most advantageous choice in terms of cost of energy (COE), net present cost (NPC), operational costs, and GHG emissions after the software ran numerous simulations. The most economically advantageous way to meet the load demands of a university campus while still achieving more than 82% renewable penetration is to use an optimal system architecture. In this study, the ideal system configuration is subjected to sensitivity analysis to confirm the system’s performance. This optimal system design is used as a benchmark for examining the potential usage of renewable energy in the education sector in Saudi Arabia in particular and in any educational facility worldwide in general.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/13/10708"
+  },
+  {
+    "title": "Habitat quality and fish populations: impacts of nutrient enrichment on the value of European perch off the east coast of Sweden",
+    "authors": [
+      "Wondmagegn Tafesse Tirkaso,",
+      "Ing-Marie Gren"
+    ],
+    "doi": "https://doi.org/10.21511/ee.08(1).2017.05",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  46\n                                  – 56",
+    "issn": "1998-6041 (Print)",
+    "publisher": "1998-605X (Online)",
+    "countryOfPublisher": "LLC \"CPC \"Business Perspectives\"",
+    "lcc": [
+      "Ukraine",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://businessperspectives.org/journals/environmental-economics?category_id=30",
+    "abstract": "Degradation of marine ecosystems through, e.g., eutrophication and climate change is a concern for sustainable fishery management worldwide, but studies on associated impacts on fish populations are rare. This study examines the effects of eutrophying nutrient loads on the economic value of perch populations along the Swedish east coast by estimating the effects of nutrient loads on the population of perch and, then, simulates the harvest value of future perch population under the changes in nutrient loads. A modified Gordon-Schaefer logistic growth model was used for econometric estimation of perch populations based on annual time series data for the period of 1970-2014. Regression analysis using the fully modified ordinary least square (FMOLS) estimator revealed that phosphorus loads had significant effects on the perch population. A 40% decrease in phosphorus loads, as suggested by the international HELCOM agreement, could increase the steady state perch population by 50%. Simple calculations showed that this could increase the total discounted recreational and commercial harvest value of the perch by 30% over a 30 year period.",
+    "readLink": "https://businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/8281/EE_2017_01_Tirkaso.pdf"
+  },
+  {
+    "title": "Contextualizing the 2019–20 Kangaroo Island Bushfires: Quantifying Landscape-Level Influences on Past Severity and Recovery with Landsat and Google Earth Engine",
+    "authors": [
+      "Mitchell  T. Bonney,",
+      "Yuhong He,",
+      "Soe  W. Myint"
+    ],
+    "doi": "https://doi.org/10.3390/rs12233942",
+    "journalVolume": "Vol. 12,\n                                no. 3942\n                                \n                                  p.\n                                  3942",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "The 2019-20 Kangaroo Island bushfires in South Australia burned almost half of the island. To understand how to avoid future severe ‘mega-fires’ and how vegetation may recover from 2019–2020, we can utilize information from the bulk of historical fires in an area. Landsat time-series of vegetation change provide this opportunity, but there has been little analysis of large numbers of fires to build a landscape-level understanding and quantify drivers in an Australian context. In this study, we built a yearly cloud-free surface reflectance normalized burn ratio (NBR) time-series (1988–2020) using all available summer Landsat images over Kangaroo Island. Data were collected in Google Earth Engine and fitted with LandTrendr. Burn severity and post-fire recovery were quantified for 47 fires, with a new recovery metric facilitating comparison where fire frequency is high. Variables representing the current burn, fire history, vegetation structure, and topography were related to severity and yearly recovery with random forest and bivariate analysis. Results show that the 2019–20 bushfires were the most widespread and severe, followed by 2007–08. Vegetation recovers quickly, with NBR stabilizing ten years post-fire on average. Severity is most influenced by fire frequency, vegetation capacity and land use with more severe burns in nature conservation areas with dense vegetation and a history of frequent fires. Influence on recovery varied with time since fire, with initial (year 1–3) faster recovery observed in areas with less surviving vegetation. Later (year 6–10) recovery was most influenced by a variable representing burn year and further investigation indicates that precipitation increases in later post-fire years likely facilitated faster recovery. The relative abundance of eucalypt woodlands also has a positive influence on recovery in middle and later years. These results provide valuable information to land managers on Kangaroo Island and in similar environments, who should consider adjusting practices to limit future mega-fire risk and potential ecosystem shifts if severe fires become more frequent with climate change.",
+    "readLink": "https://www.mdpi.com/2072-4292/12/23/3942"
+  },
+  {
+    "title": "Progress toward Sustainable Development Goals and interlinkages between them in Arctic countries",
+    "authors": [
+      "Qiang Bie,",
+      "Shijin Wang,",
+      "Wenli Qiang,",
+      "Xing Ma,",
+      "Zhengsheng Gu,",
+      "Nan Tian"
+    ],
+    "doi": "Vol. 9,\n                                no. 2\n                                \n                                  p.\n                                  e13306",
+    "issn": "2405-8440 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.cell.com/heliyon/home",
+    "abstract": "The adoption of the 2030 Agenda and its 17 Sustainable Development Goals (SDGs) contribute to addressing the multiple and complex challenges faced by humankind. In particular, the increasing impact of climate change and globalization represent a great challenge for the sustainable development of Arctic countries and efforts are needed to measure, assess, and compare the progress toward SDGs and the trends in this region. This study used 69 indicators closely related to Arctic countries and a composite indicator approach to assess their sustainability performance. SDG interlinkages were also assessed through Spearman's rank order correlation. The results showed that the sustainable development of Arctic countries gradually improved from 2000 to 2020, with increasing scores recorded for 82% of the goals and 73% of the indicators. Overall, significant progress was observed in the SDG 10 (reduction of inequality), SDG 3 (health improvement), and SDG 4 (quality of education). The highest-ranking scores were obtained for poverty reduction (SDG 1), SDG 3, and climate actions (SDG 13) in 2020. Over the 21-year period, Sweden reached the highest overall score for sustainable development, and Russia showed the greatest improvement. Synergies dominated over trade-offs among and within SDGs. SDGs 1, 3, 9, 10, and 11 presented a relatively higher proportion of synergies, while higher proportions of trade-offs were observed for the 8–9, 8–11, 3–12, and 10–12 SDG pairs. The associations of industry development with clean energy use and environmental conservation were strengthened during the study period. However, the performance varied greatly for different indicators, goals, and their correlations among Arctic countries. The results indicate that the main challenges for these countries in relation to SDGs consist in promoting an inclusive economic model as well as sustainable consumption and production patterns.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2405844023005133"
+  },
+  {
+    "title": "Human impacts and their interactions in the Baltic Sea region",
+    "authors": [
+      "M. Reckermann,",
+      "A. Omstedt,",
+      "T. Soomere,",
+      "T. Soomere,",
+      "J. Aigars,",
+      "N. Akhtar,",
+      "M. Bełdowska,",
+      "J. Bełdowski,",
+      "T. Cronin,",
+      "M. Czub,",
+      "M. Eero,",
+      "K. P. Hyytiäinen,",
+      "J.-P. Jalkanen,",
+      "A. Kiessling,",
+      "E. Kjellström,",
+      "K. Kuliński,",
+      "X. G. Larsén,",
+      "M. McCrackin,",
+      "H. E. M. Meier,",
+      "H. E. M. Meier,",
+      "S. Oberbeckmann,",
+      "K. Parnell,",
+      "C. Pons-Seres de Brauwer,",
+      "A. Poska,",
+      "A. Poska,",
+      "J. Saarinen,",
+      "J. Saarinen,",
+      "B. Szymczycha,",
+      "E. Undeman,",
+      "A. Wörman,",
+      "E. Zorita"
+    ],
+    "doi": "https://doi.org/10.5194/esd-13-1-2022",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  1\n                                  – 80",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "Coastal environments, in particular heavily populated semi-enclosed marginal seas and coasts like the Baltic Sea region, are strongly affected by human activities. A multitude of human impacts, including climate change, affect the different compartments of the environment, and these effects interact with each other. As part of the Baltic Earth Assessment Reports (BEAR), we present an inventory and discussion of different human-induced factors and processes affecting the environment of the Baltic Sea region, and their interrelations. Some are naturally occurring and modified by human activities (i.e. climate change, coastal processes, hypoxia, acidification, submarine groundwater discharges, marine ecosystems, non-indigenous species, land use and land cover), some are completely human-induced (i.e. agriculture, aquaculture, fisheries, river regulations, offshore wind farms, shipping, chemical contamination, dumped warfare agents, marine litter and microplastics, tourism, and coastal management), and they are all interrelated to different degrees. We present a general description and analysis of the state of knowledge on these interrelations. Our main insight is that climate change has an overarching, integrating impact on all of the other factors and can be interpreted as a background effect, which has different implications for the other factors. Impacts on the environment and the human sphere can be roughly allocated to anthropogenic drivers such as food production, energy production, transport, industry and economy. The findings from this inventory of available information and analysis of the different factors and their interactions in the Baltic Sea region can largely be transferred to other comparable marginal and coastal seas in the world.",
+    "readLink": "https://esd.copernicus.org/articles/13/1/2022/esd-13-1-2022.pdf"
+  },
+  {
+    "title": "Large spread in the representation of compound long-duration dry and hot spells over Europe in CMIP5",
+    "authors": [
+      "C. Manning,",
+      "M. Widmann,",
+      "D. Maraun,",
+      "A. F. Van Loon,",
+      "E. Bevacqua"
+    ],
+    "doi": "https://doi.org/10.5194/wcd-4-309-2023",
+    "journalVolume": "Vol. 4\n                                \n                                \n                                  pp.\n                                  309\n                                  – 329",
+    "issn": "2698-4016 (Online)",
+    "publisher": "Copernicus Publications",
+    "countryOfPublisher": "Germany",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.weather-climate-dynamics.net/",
+    "abstract": "Long-duration, sub-seasonal dry spells in combination with high temperature extremes during summer have led to extreme impacts on society and ecosystems in the past. Such events are expected to become more frequent due to increasing temperatures as a result of anthropogenic climate change. However, there is little information on how long-duration dry and hot spells are represented in global climate models (GCMs). In this study, we evaluate 33 CMIP5 (coupled model intercomparison project 5) GCMs in their representation of long-duration dry spells and temperatures during dry spells. We define a dry spell as a consecutive number of days with a daily precipitation of less than 1 mm. CMIP5 models tend to underestimate the persistence of dry spells in northern Europe, while a large variability exists between model estimates in central and southern Europe, where models have contrasting biases. Throughout Europe, we also find a large spread between models in their representation of temperature extremes during dry spells. In central and southern Europe this spread in temperature extremes between models is related to the representation of dry spells, where models that produce longer dry spells also produce higher temperatures, and vice versa. Our results indicate that this variability in model estimates is due to model differences and not internal variability. At latitudes between 50–60∘ N, the differences in the representation of persistent dry spells are strongly related to the representation of persistent anticyclonic systems, such as atmospheric blocking and subtropical ridges. Furthermore, models simulating a higher frequency of anticyclonic systems than ERA5 also simulate temperatures in dry spells that are between 1.4, and 2.8 K warmer than models with a lower frequency in these areas. Overall, there is a large spread between CMIP5 models in their representation of long-duration dry and hot events that is due to errors in the representation of large-scale anticyclonic systems in certain parts of Europe. This information is important to consider when interpreting the plausibility of future projections from climate models and highlights the potential value that improvements in the representation of anticyclonic systems may have for the simulation of impactful hazards.",
+    "readLink": "https://wcd.copernicus.org/articles/4/309/2023/wcd-4-309-2023.pdf"
+  }
+]

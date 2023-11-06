@@ -1,0 +1,220 @@
+[
+  {
+    "title": "Impact of heat stress on health and performance of dairy animals: A review",
+    "authors": [
+      "Ramendra Das ,",
+      "Lalrengpuii Sailo ,",
+      "Nishant Verma ,",
+      "Pranay Bharti ,",
+      "Jnyanashree Saikia ,",
+      "Imtiwati ,",
+      "Rakesh Kumar"
+    ],
+    "doi": "https://doi.org/10.14202/vetworld.2016.260-268",
+    "journalVolume": "Vol. 9,\n                                no. 3\n                                \n                                  pp.\n                                  260\n                                  – 268",
+    "issn": "0972-8988 (Print)",
+    "publisher": "2231-0916 (Online)",
+    "countryOfPublisher": "Veterinary World",
+    "lcc": [
+      "India",
+      "Agriculture: Animal culture: Veterinary medicine"
+    ],
+    "journalUrl": "http://www.veterinaryworld.org",
+    "abstract": "Sustainability in livestock production system is largely affected by climate change. An imbalance between metabolic heat production inside the animal body and its dissipation to the surroundings results to heat stress (HS) under high air temperature and humid climates. The foremost reaction of animals under thermal weather is increases in respiration rate, rectal temperature and heart rate. It directly affect feed intake thereby, reduces growth rate, milk yield, reproductive performance, and even death in extreme cases. Dairy breeds are typically more sensitive to HS than meat breeds, and higher producing animals are, furthermore, susceptible since they generates more metabolic heat. HS suppresses the immune and endocrine system thereby enhances susceptibility of an animal to various diseases. Hence, sustainable dairy farming remains a vast challenge in these changing climatic conditions globally.",
+    "readLink": "http://www.veterinaryworld.org/Vol.9/March-2016/7.pdf"
+  },
+  {
+    "title": "Hydrologic Remote Sensing and Land Surface Data Assimilation",
+    "authors": [
+      "Hamid Moradkhani"
+    ],
+    "doi": "Vol. 8,\n                                no. 5\n                                \n                                  pp.\n                                  2986\n                                  – 3004",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Accurate, reliable and skillful forecasting of key environmental variables such as soil moisture and snow are of paramount importance due to their strong influence on many water resources applications including flood control, agricultural production and effective water resources management which collectively control the behavior of the climate system. Soil moisture is a key state variable in land surfaceÃ¢Â€Â“atmosphere interactions affecting surface energy fluxes, runoff and the radiation balance. Snow processes also have a large influence on land-atmosphere energy exchanges due to snow high albedo, low thermal conductivity and considerable spatial and temporal variability resulting in the dramatic change on surface and ground temperature. Measurement of these two variables is possible through variety of methods using ground-based and remote sensing procedures. Remote sensing, however, holds great promise for soil moisture and snow measurements which have considerable spatial and temporal variability. Merging these measurements with hydrologic model outputs in a systematic and effective way results in an improvement of land surface model prediction. Data Assimilation provides a mechanism to combine these two sources of estimation. Much success has been attained in recent years in using data from passive microwave sensors and assimilating them into the models. This paper provides an overview of the remote sensing measurement techniques for soil moisture and snow data and describes the advances in data assimilation techniques through the ensemble filtering, mainly Ensemble Kalman filter (EnKF) and Particle filter (PF), for improving the model prediction and reducing the uncertainties involved in prediction process. It is believed that PF provides a complete representation of the probability distribution of state variables of interests (according to sequential Bayes law) and could be a strong alternative to EnKF which is subject to some limitations including the linear updating rule and assumption of jointly normal distribution of errors in state variables and observation.",
+    "readLink": "http://www.mdpi.com/1424-8220/8/5/2986/"
+  },
+  {
+    "title": "Spatial and temporal dynamics of the bacterial community under experimental warming in field-grown wheat",
+    "authors": [
+      "Jing Wang,",
+      "Shuaimin Chen,",
+      "Ruibo Sun,",
+      "Binbin Liu,",
+      "Tatoba Waghmode,",
+      "Chunsheng Hu"
+    ],
+    "doi": "https://doi.org/10.7717/peerj.15428",
+    "journalVolume": "Vol. 11\n                                \n                                \n                                  p.\n                                  e15428",
+    "issn": "2167-8359 (Online)",
+    "publisher": "PeerJ Inc.",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "https://peerj.com/",
+    "abstract": "Climate change may lead to adverse effects on agricultural crops, plant microbiomes have the potential to help hosts counteract these effects. While plant–microbe interactions are known to be sensitive to temperature, how warming affects the community composition and functioning of plant microbiomes in most agricultural crops is still unclear. Here, we utilized a 10-year field experiment to investigate the effects of warming on root zone carbon availability, microbial activity and community composition at spatial (root, rhizosphere and bulk soil) and temporal (tillering, jointing and ripening stages of plants) scales in field-grown wheat (Triticum aestivum L.). The dissolved organic carbon and microbial activity in the rhizosphere were increased by soil warming and varied considerably across wheat growth stages. Warming exerted stronger effects on the microbial community composition in the root and rhizosphere samples than in the bulk soil. Microbial community composition, particularly the phyla Actinobacteria and Firmicutes, shifted considerably in response to warming. Interestingly, the abundance of a number of known copiotrophic taxa, such as Pseudomonas and Bacillus, and genera in Actinomycetales increased in the roots and rhizosphere under warming and the increase in these taxa implies that they may play a role in increasing the resilience of plants to warming. Taken together, we demonstrated that soil warming along with root proximity and plant growth status drives changes in the microbial community composition and function in the wheat root zone.",
+    "readLink": "https://peerj.com/articles/15428.pdf"
+  },
+  {
+    "title": "No consistent effect of plant species richness on resistance to simulated climate change for above- or below-ground processes in managed grasslands",
+    "authors": [
+      "Carsten F. Dormann,",
+      "Lars von Riedmatten,",
+      "Michael Scherer-Lorenzen"
+    ],
+    "doi": "https://doi.org/10.1186/s12898-017-0133-0",
+    "journalVolume": "Vol. 17,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 12",
+    "issn": "1472-6785 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://bmcecol.biomedcentral.com",
+    "abstract": "Abstract Background Species richness affects processes and functions in many ecosystems. Since management of temperate grasslands is directly affecting species composition and richness, it can indirectly govern how systems respond to fluctuations in environmental conditions. Our aim in this study was to investigate whether species richness in managed grasslands can buffer the effects of drought and warming manipulations and hence increase the resistance to climate change. We established 45 plots in three regions across Germany, each with three different management regimes (pasture, meadow and mown pasture). We manipulated spring warming using open-top chambers and summer drought using rain-out shelters for 4 weeks. Results Measurements of species richness, above- and below-ground biomass and soil carbon and nitrogen concentrations showed significant but inconsistent differences among regions, managements and manipulations. We detected a three-way interaction between species richness, management and region, indicating that our study design was sensitive enough to detect even intricate effects. Conclusions We could not detect a pervasive effect of species richness on biomass differences between treatments and controls, indicating that a combination of spring warming and summer drought effects on grassland systems are not consistently moderated by species richness. We attribute this to the relatively high number of species even at low richness levels, which already provides the complementarity required for positive biodiversity–ecosystem functioning relationships. A review of the literature also indicates that climate manipulations largely fail to show richness-buffering, while natural experiments do, suggesting that such manipulations are milder than reality or incur treatment artefacts.",
+    "readLink": "http://link.springer.com/article/10.1186/s12898-017-0133-0"
+  },
+  {
+    "title": "SPATIAL DATA QUALITY EVALUATION FOR LAND COVER CLASSIFICATION APPROACHES",
+    "authors": [
+      "M. Salhab,",
+      "A. Basiri"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-annals-V-3-2020-681-2020",
+    "journalVolume": "Vol. V-3-2020\n                                \n                                \n                                  pp.\n                                  681\n                                  – 687",
+    "issn": "2194-9042 (Print)",
+    "publisher": "2194-9050 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/annals.aspx",
+    "abstract": "Data gaps and poor data quality may lead to flawed conclusions and data-driven policies and decisions, such as the measurement of Sustainable Development Goals progress. This is particularly important for land cover data, as an essential source of data for a wide range of applications and real-world challenges including climate change mitigation, food security planning, resource allocation and mobilization. While global land cover datasets are available, their usability is limited by their coarse spatial and temporal resolutions. Furthermore, having a good understanding of the fitness for the purpose is imperative. This paper compares two datasets from a spatial data quality perspective: (1) a global land cover map, and (2) a fit-for-purpose training dataset that is generated using visual inspection of very high-resolution satellite data. The latter dataset is created using Google Earth Engine (GEE), a cloud-based computing platform and data repository. We systematically evaluate the two datasets from spatial data quality (SDQ) perspective using the Analytic Hierarchy Process (AHP) to prioritise the criteria, i.e. SDQ. To validate the results, land cover classifications are conducted using both datasets, also within GEE. Based on the results of the SDQ evaluation and land cover classification, we find that the second training dataset significantly outperformed the global land cover maps. Our study also shows that cloud-based computing platforms and publicly available data repositories can provide an effective approach to filling land cover data gaps in data-scarce regions.",
+    "readLink": "https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2020/681/2020/isprs-annals-V-3-2020-681-2020.pdf"
+  },
+  {
+    "title": "Human response and adaptation to drought in the arid zone: lessons from southern Africa",
+    "authors": [
+      "P.J. O'Farrell,",
+      "P. M.L. Anderson,",
+      "S. J. Milton,",
+      "W. R.J. Dean"
+    ],
+    "doi": "https://doi.org/10.4102/sajs.v105i1/2.36",
+    "journalVolume": "Vol. 105,\n                                no. 1/2",
+    "issn": "0038-2353 (Print)",
+    "publisher": "1996-7489 (Online)",
+    "countryOfPublisher": "Academy of Science of South Africa",
+    "lcc": [
+      "South Africa",
+      "Science: Science (General)",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "http://www.sajs.co.za",
+    "abstract": "Human adaptation and response to drought is primarily through evasion or endurance. A review of historical agricultural practices in southern Africa demonstrates evidence of drought evasion response strategies in well-established transhumance routes, where herders move livestock on a seasonal basis in order to exploit resources subject to different climatic regimes. European settlers to the arid regions of South Africa quickly recognised the necessity of these evasion options to survive drought, and adopted the transhumance practices of indigenous farmers. Areas of geographically diverse resource bases became hotly contested by settlers and indigenous farmers. The success of evasion systems are shown to hinge on good social and institutional support structures. When movement is not an option, drought endurance is pursued by attempting to limit the damage to the natural resource base. This is through a number of means such as forage conservation, varying livestock types and numbers, water and soil conservation and taking up alternative livelihood options. State responses to drought over the last century reflect the general South African pattern of racially divided and unjust policies relating to resource access. Historically the state provided considerable support to white commercial farmers. This support was frequently contradictory in its aims and generally was inadequate to enable farmers to cope with drought. Since the advent of democracy in 1994, the state has intervened less, with some support extended to previously disadvantaged and poor communal farmers. Climate change predictions suggest an increase in drought, suggesting that the adoption of mitigating strategies should be a matter of urgency. To do this South Africa needs to build social and institutional capacity, strive for better economic and environmental sustainability, embed drought-coping mechanisms into land restitution policy to ensure the success of this programme, and acknowledge the diversity of the agricultural sector.",
+    "readLink": "http://archive.sajs.co.za/index.php/SAJS/article/view/36"
+  },
+  {
+    "title": "Anaerobic Biohydrogenation of Isoprene by Acetobacterium wieringae Strain Y",
+    "authors": [
+      "Huijuan Jin,",
+      "Xiuying Li,",
+      "Hongyan Wang,",
+      "Natalie L. Cápiro,",
+      "Xiaocui Li,",
+      "Frank E. Löffler,",
+      "Jun Yan,",
+      "Yi Yang"
+    ],
+    "doi": "https://doi.org/10.1128/mbio.02086-22",
+    "journalVolume": "Vol. 13,\n                                no. 6",
+    "issn": "2161-2129 (Print)",
+    "publisher": "2150-7511 (Online)",
+    "countryOfPublisher": "American Society for Microbiology",
+    "lcc": [
+      "United States",
+      "Science: Microbiology"
+    ],
+    "journalUrl": "https://journals.asm.org/journal/mbio",
+    "abstract": "ABSTRACT Isoprene is a ubiquitously distributed, biogenic, and climate-active organic compound. Microbial isoprene degradation in oxic environments is fairly well understood; however, studies exploring anaerobic isoprene metabolism remain scarce, with no isolates for study available. Here, we obtained an acetogenic isolate, designated Acetobacterium wieringae strain Y, which hydrogenated isoprene to a mixture of methyl-1-butenes at an overall rate of 288.8 ± 20.9 μM day−1 with concomitant acetate production at a rate of 478.4 ± 5.6 μM day−1. Physiological characterization demonstrated that isoprene was not utilized in a respiratory process; rather, isoprene promoted acetogenesis kinetically. Bioinformatic analysis and proteomics experiments revealed the expression of candidate ene-reductases responsible for isoprene biohydrogenation. Notably, the addition of isoprene to strain Y cultures stimulated the expression of proteins associated with the Wood-Ljungdahl pathway, indicating unresolved impacts of isoprene on carbon cycling and microbial ecology in anoxic environments (e.g., promoting CO2 plus H2 reductive acetogenesis while inhibiting methanogenesis). Our new findings advance understanding of microbial transformation of isoprene under anoxic conditions and suggest that anoxic environments are isoprene sinks. IMPORTANCE Isoprene is the most abundant, biologically generated, volatile organic compound on Earth, with estimated emissions in the same magnitude as methane. Nonetheless, a comprehensive knowledge of isoprene turnover in the environment is lacking, impacting global isoprene flux models and our understanding of the environmental fate and longevity of isoprene. A critical knowledge gap that has remained largely unexplored until recently is the microbiology and associated molecular mechanisms involved in the anaerobic biotransformation of isoprene. By integrating culture-dependent approaches with omics techniques, we isolated an acetogen, Acetobacterium wieringae strain Y, capable of anaerobic biohydrogenation of isoprene. We obtained the complete genome of strain Y, and proteomic experiments identified candidate ene-reductases for catalyzing the asymmetric reduction of the electronically activated carbon-carbon double bond of isoprene. We also demonstrated that isoprene biohydrogenation stimulates the expression of Wood-Ljungdahl pathway enzymes. This study emphasizes the ecological roles of specialized Acetobacterium on the natural cycling of isoprene in anoxic environments and the potential effects of isoprene biohydrogenation on acetogens and methanogens, which have implications for global climate change and bioenergy production.",
+    "readLink": "https://journals.asm.org/doi/10.1128/mbio.02086-22"
+  },
+  {
+    "title": "Principles for climate resilience are prevalent in marine protected area management plans",
+    "authors": [
+      "Cori Lopazanski,",
+      "Bergen Foshay,",
+      "Jessica L. Couture,",
+      "Daniel Wagner,",
+      "Lee Hannah,",
+      "Emily Pidgeon,",
+      "Darcy Bradley"
+    ],
+    "doi": "https://doi.org/10.1111/conl.12972",
+    "journalVolume": "Vol. 16,\n                                no. 5\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "1755-263X (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "https://conbio.onlinelibrary.wiley.com/journal/1755263x",
+    "abstract": "Abstract Climate change is threatening marine systems, and its widespread and dynamic effects are creating challenges for designing and managing marine protected areas (MPAs). The majority of recommendations for climate‐resilient MPAs focus on enhancing ecological resilience to disturbance and updating management strategies to respond as changes occur. Here, we assess how existing recommendations for climate resilience are applied in real‐world MPA management, using criteria from five key management components: objectives, assessments, design, monitoring, and management. Our review evaluates 172 management plans for 555 MPAs across 52 countries and written in nine languages. We find that MPA management plans contain many underlying scientific and management principles for promoting resilience to climate change, even when “climate change” or related terms are not specifically included: plans include long‐term objectives (93.6%), threat‐reduction strategies (99.4%), monitoring programs (97.7%), and adaptive management (93%). However, there is substantial variation in the degree to which plans explicitly incorporate climate change into their strategies, from not mentioning it at all (21.5%) to developing detailed climate change‐specific action plans (20.9%), with most somewhere in between. In addition to identifying common gaps across management plans, we also provide practical examples of activities MPA managers are undertaking to address climate change.",
+    "readLink": "https://doi.org/10.1111/conl.12972"
+  },
+  {
+    "title": "Constraining the Deforestation History of Europe: Evaluation of Historical Land Use Scenarios with Pollen-Based Land Cover Reconstructions",
+    "authors": [
+      "Jed O. Kaplan,",
+      "Kristen M. Krumhardt,",
+      "Marie-José Gaillard,",
+      "Shinya Sugita,",
+      "Anna-Kari Trondman,",
+      "Ralph Fyfe,",
+      "Laurent Marquer,",
+      "Florence Mazier,",
+      "Anne Birgitte Nielsen"
+    ],
+    "doi": "https://doi.org/10.3390/land6040091",
+    "journalVolume": "Vol. 6,\n                                no. 4\n                                \n                                  p.\n                                  91",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Anthropogenic land cover change (ALCC) is the most important transformation of the Earth system that occurred in the preindustrial Holocene, with implications for carbon, water and sediment cycles, biodiversity and the provision of ecosystem services and regional and global climate. For example, anthropogenic deforestation in preindustrial Eurasia may have led to feedbacks to the climate system: both biogeophysical, regionally amplifying winter cold and summer warm temperatures, and biogeochemical, stabilizing atmospheric CO 2 concentrations and thus influencing global climate. Quantification of these effects is difficult, however, because scenarios of anthropogenic land cover change over the Holocene vary widely, with increasing disagreement back in time. Because land cover change had such widespread ramifications for the Earth system, it is essential to assess current ALCC scenarios in light of observations and provide guidance on which models are most realistic. Here, we perform a systematic evaluation of two widely-used ALCC scenarios (KK10 and HYDE3.1) in northern and part of central Europe using an independent, pollen-based reconstruction of Holocene land cover (REVEALS). Considering that ALCC in Europe primarily resulted in deforestation, we compare modeled land use with the cover of non-forest vegetation inferred from the pollen data. Though neither land cover change scenario matches the pollen-based reconstructions precisely, KK10 correlates well with REVEALS at the country scale, while HYDE systematically underestimates land use with increasing magnitude with time in the past. Discrepancies between modeled and reconstructed land use are caused by a number of factors, including assumptions of per-capita land use and socio-cultural factors that cannot be predicted on the basis of the characteristics of the physical environment, including dietary preferences, long-distance trade, the location of urban areas and social organization.",
+    "readLink": "https://www.mdpi.com/2073-445X/6/4/91"
+  },
+  {
+    "title": "Soil microbial community structure is unaltered by plant invasion, vegetation clipping, and nitrogen fertilization in experimental semi-arid grasslands",
+    "authors": [
+      "Chelsea J Carey,",
+      "J Michael eBeman,",
+      "J Michael eBeman,",
+      "Valerie T Eviner,",
+      "Carolyn Marie Malmstrom,",
+      "Stephen C Hart,",
+      "Stephen C Hart"
+    ],
+    "doi": "https://doi.org/10.3389/fmicb.2015.00466",
+    "journalVolume": "Vol. 6",
+    "issn": "1664-302X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/microbiology",
+    "abstract": "Global and regional environmental changes often co-occur, creating complex gradients of disturbance on the landscape. Soil microbial communities are an important component of ecosystem response to environmental change, yet little is known about how microbial structure and function respond to multiple disturbances, or whether multiple environmental changes lead to unanticipated interactive effects. Our study used experimental semi-arid grassland plots in a Mediterranean-climate to determine how soil microbial communities in a seasonally variable ecosystem respond to one, two, or three simultaneous environmental changes: exotic plant invasion, plant invasion + vegetation clipping (to simulate common management practices like mowing or livestock grazing), plant invasion + nitrogen (N) fertilization, and plant invasion + clipping + N fertilization. We examined microbial community structure 5-6 years after plot establishment via sequencing of >1 million 16S rRNA genes. Abiotic soil properties (soil moisture, temperature, pH, and inorganic N) and microbial functioning (nitrification and denitrification potentials) were also measured and showed treatment-induced shifts, including altered NO3- availability, temperature, and nitrification potential. Despite these changes, bacterial and archaeal communities showed little variation in composition and diversity across treatments. Even communities in plots exposed to three interacting environmental changes were similar to those in restored native grassland plots. Historical exposure to large seasonal and inter-annual variations in key soil properties, in addition to prior site cultivation, may select for a functionally plastic or largely dormant microbial community, resulting in a microbial community that is structurally robust to single and multiple environmental changes.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fmicb.2015.00466/full"
+  }
+]

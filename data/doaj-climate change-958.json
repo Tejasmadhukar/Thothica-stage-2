@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Repeated surveying over 6 years reveals that fine-scale habitat variables are key to tropical mountain ant assemblage composition and functional diversity",
+    "authors": [
+      "Mulalo M. Muluvhahothe,",
+      "Grant S. Joseph,",
+      "Colleen L. Seymour,",
+      "Thinandavha C. Munyai,",
+      "Stefan H. Foord"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-020-80077-8",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract High-altitude-adapted ectotherms can escape competition from dominant species by tolerating low temperatures at cooler elevations, but climate change is eroding such advantages. Studies evaluating broad-scale impacts of global change for high-altitude organisms often overlook the mitigating role of biotic factors. Yet, at fine spatial-scales, vegetation-associated microclimates provide refuges from climatic extremes. Using one of the largest standardised data sets collected to date, we tested how ant species composition and functional diversity (i.e., the range and value of species traits found within assemblages) respond to large-scale abiotic factors (altitude, aspect), and fine-scale factors (vegetation, soil structure) along an elevational gradient in tropical Africa. Altitude emerged as the principal factor explaining species composition. Analysis of nestedness and turnover components of beta diversity indicated that ant assemblages are specific to each elevation, so species are not filtered out but replaced with new species as elevation increases. Similarity of assemblages over time (assessed using beta decay) did not change significantly at low and mid elevations but declined at the highest elevations. Assemblages also differed between northern and southern mountain aspects, although at highest elevations, composition was restricted to a set of species found on both aspects. Functional diversity was not explained by large scale variables like elevation, but by factors associated with elevation that operate at fine scales (i.e., temperature and habitat structure). Our findings highlight the significance of fine-scale variables in predicting organisms’ responses to changing temperature, offering management possibilities that might dilute climate change impacts, and caution when predicting assemblage responses using climate models, alone.",
+    "readLink": "https://doi.org/10.1038/s41598-020-80077-8"
+  },
+  {
+    "title": "A Levelized Cost Analysis for Solar-Energy-Powered Sea Water Desalination in The Emirate of Abu Dhabi",
+    "authors": [
+      "Abdullah Kaya,",
+      "M.  Evren Tok,",
+      "Muammer Koc"
+    ],
+    "doi": "https://doi.org/10.3390/su11061691",
+    "journalVolume": "Vol. 11,\n                                no. 6\n                                \n                                  p.\n                                  1691",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "The Emirate of Abu Dhabi heavily relies on seawater desalination for its freshwater needs due to limited available resources. This trend is expected to increase further because of the growing population and economic activity, the rapid decline in limited freshwater reserves, and the aggravating effects of climate change. Seawater desalination in Abu Dhabi is currently done through thermal desalination technologies, such as multi-stage flash (MSF) and multi-effect distillation (MED), coupled with thermal power plants, which is known as co-generation. These thermal desalination methods are together responsible for more than 90% of the desalination capacity in the Emirate. Our analysis indicates that these thermal desalination methods are inefficient regarding energy consumption and harmful to the environment due to CO2 emissions and other dangerous byproducts. The rapid decline in the cost of solar Photovoltaic (PV) systems for energy production and reverse osmosis (RO) technology for desalination makes a combination of these two an ideal option for a sustainable desalination future in the Emirate of Abu Dhabi. A levelized cost of water (LCW) study of a solar PV + RO system indicates that Abu Dhabi is well-positioned to utilize this technological combination for cheap and clean desalination in the coming years. Countries in the Sunbelt region with a limited freshwater capacity similar to Abu Dhabi may also consider the proposed system in this study for sustainable desalination.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/6/1691"
+  },
+  {
+    "title": "PEMANFAATAN FUSI DATA SATELIT LAPAN-A3/IPB DAN LANDSAT 8 UNTUK MONITORING LAHAN SAWAH",
+    "authors": [
+      "Yudi Setiawan,",
+      "Lilik Budi Prasetyo,",
+      "Hidayat Pawitan,",
+      "Liyantono Liyantono,",
+      "Syartinilia Syartinilia,",
+      "Arif Kurnia Wijayanto,",
+      "Prita Ayu Permatasari,",
+      "A Hadi Syafrudin,",
+      "Patria Rachman Hakim"
+    ],
+    "doi": "https://doi.org/10.29244/jpsl.8.1.67-76",
+    "journalVolume": "Vol. 8,\n                                no. 1",
+    "issn": "2086-4639 (Print)",
+    "publisher": "2460-5824 (Online)",
+    "countryOfPublisher": "Bogor Agricultural University",
+    "lcc": [
+      "Indonesia",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://journal.ipb.ac.id/index.php/jpsl",
+    "abstract": "Increasing of economic development is generally followed by the change of landuse from agriculture to other function. If it occurs in large frequency and amount, it will threaten national food security. Therefore, it is necessary to monitor the agricultural land, especially paddy fields regarding to changes in landuse and global climate. Utilization and development of satellite technology is necessary to provide more accurate and independent database for agricultural land monitoring, especially paddy fields. This study aims to develop a utilization model for LAPAN-IPB satellite (LISAT) and other several satellites data that have been used for paddy field monitoring. This research is conducted through 2 stages: 1) Characterization LISAT satellite data to know spectral variation of paddy field, and 2) Development method of LISAT data fusion with other satellites for paddy field mapping. Based on the research results, the characteristics Red and NIR band in LISAT data imagery have a good correlation with Red and NIR band in LANDSAT 8 OLI data imagery, especially to detect paddy field in the vegetative phase, compared to other bands. Observation and measurement of spectral values using spectroradiometer need to be conducted periodically (starting from first planting season) to know the dynamics of the change related to the growth phase of paddy in paddy field. Pre-processing of image data needs to be conducted to obtain better LISAT data characterization results. Furthermore, it is necessary to develop appropriate algorithms or methods for geometric correction as well as atmospheric correction of LISAT data.",
+    "readLink": "https://journal.ipb.ac.id/index.php/jpsl/article/view/19754"
+  },
+  {
+    "title": "Application of a High‐Resolution Distributed Hydrological Model on a U.S.‐Canada Transboundary Basin: Simulation of the Multiyear Mean AnnualHydrograph and 2011 Flood of theRichelieu River Basin",
+    "authors": [
+      "Philippe Lucas‐Picher,",
+      "Richard Arsenault,",
+      "Annie Poulin,",
+      "Simon Ricard,",
+      "Simon Lachance‐Cloutier,",
+      "Richard Turcotte"
+    ],
+    "doi": "https://doi.org/10.1029/2019MS001709",
+    "journalVolume": "Vol. 12,\n                                no. 4\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "1942-2466 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Physical geography",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1942-2466/",
+    "abstract": "Abstract During spring 2011, an extreme flood occurred along the Richelieu River located in southern Quebec, Canada. The Richelieu River is the last section of the complex Richelieu basin, which is composed of the large Lake Champlain located in a valley between two large mountains. Previous attempts in reproducing the Richelieu River flow relied on the use of simplified lumped models and showed mixed results. In order to prepare a tool to assess accurately the change of flood recurrences in the future, a state‐of‐the‐art distributed hydrological model was applied over the Richelieu basin. The model setup comprises several novel methods and data sets such as a very high resolution river network, a modern calibration technique considering the net basin supply of Lake Champlain, a new optimization algorithm, and the use of an up‐to‐date meteorological data set to force the model. The results show that the hydrological model is able to satisfactorily reproduce the multiyear mean annual hydrograph and the 2011 flow time series when compared with the observed river flow and an estimation of the Lake Champlain net basin supply. Many factors, such as the quality of the meteorological forcing data, that are affected by the low density of the station network, the steep terrain, and the lake storage effect challenged the simulation of the river flow. Overall, the satisfactory validation of the hydrological model allows to move to the next step, which consists in assessing the impacts of climate change on the recurrence of Richelieu River floods.",
+    "readLink": "https://doi.org/10.1029/2019MS001709"
+  },
+  {
+    "title": "Elevated CO2 Leads to Enhanced Photosynthesis but Decreased Growth in Early Life Stages of Reef Building Coralline Algae",
+    "authors": [
+      "Alexandra Ordoñez,",
+      "Daniel Wangpraseurt,",
+      "Daniel Wangpraseurt,",
+      "Daniel Wangpraseurt,",
+      "Niclas Heidelberg Lyndby,",
+      "Niclas Heidelberg Lyndby,",
+      "Michael Kühl,",
+      "Michael Kühl,",
+      "Guillermo Diaz-Pulido,",
+      "Guillermo Diaz-Pulido"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2018.00495",
+    "journalVolume": "Vol. 5",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Crustose coralline algae (CCA) are key organisms in coral reef ecosystems, where they contribute to reef building and substrate stabilization. While ocean acidification due to increasing CO2 can affect the biology, physiology and ecology of fully developed CCA, the impacts of elevated CO2 on the early life stages of CCA are much less explored. We assessed the photosynthetic activity and growth of 10-day-old recruits of the reef-building crustose coralline alga Porolithon cf. onkodes exposed to ambient and enhanced CO2 seawater concentration causing a downward shift in pH of ∼0.3 units. Growth of the CCA was estimated using measurements of crust thickness and marginal expansion, while photosynthetic activity was studied with O2 microsensors. We found that elevated seawater CO2 enhanced gross photosynthesis and respiration, but significantly reduced vertical and marginal growth of the early life stages of P. cf. onkodes. Elevated CO2 stimulated photosynthesis, particularly at high irradiance, likely due to increased availability of CO2, but this increase did not translate into increased algal growth as expected, suggesting a decoupling of these two processes under ocean acidification scenarios. This study confirms the sensitivity of early stages of CCA to elevated CO2 and identifies complexities in the physiological processes underlying the decreased growth and abundance in these important coral reef builders upon ocean acidification.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fmars.2018.00495/full"
+  },
+  {
+    "title": "A high-resolution air temperature data set for the Chinese Tian Shan in 1979–2016",
+    "authors": [
+      "L. Gao,",
+      "L. Gao,",
+      "L. Gao,",
+      "L. Gao,",
+      "J. Wei,",
+      "L. Wang,",
+      "M. Bernhardt,",
+      "K. Schulz,",
+      "X. Chen,",
+      "X. Chen,",
+      "X. Chen,",
+      "X. Chen"
+    ],
+    "doi": "https://doi.org/10.5194/essd-10-2097-2018",
+    "journalVolume": "Vol. 10\n                                \n                                \n                                  pp.\n                                  2097\n                                  – 2114",
+    "issn": "1866-3508 (Print)",
+    "publisher": "1866-3516 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.earth-system-science-data.net/",
+    "abstract": "The Chinese Tian Shan (also known as the Chinese Tianshan Mountains, CTM) have a complex ecological environmental system. They not only have a large number of desert oases but also support many glaciers. The arid climate and the shortage of water resources are the important factors restricting the area's socioeconomic development. This study presents a unique high-resolution (1 km, 6-hourly) air temperature data set for the Chinese Tian Shan (41.1814–45.9945° N, 77.3484–96.9989° E) from 1979 to 2016 based on a robust elevation correction framework. The data set was validated by 24 meteorological stations at a daily scale. Compared to original ERA-Interim temperature, the Nash–Sutcliffe efficiency coefficient increased from 0.90 to 0.94 for all test sites. Approximately 24 % of the root-mean-square error was reduced from 3.75 to 2.85 °C. A skill score based on the probability density function, which was used to validate the reliability of the new data set for capturing the distributions, improved from 0.86 to 0.91 for all test sites. The data set was able to capture the warming trends compared to observations at annual and seasonal scales, except for winter. We concluded that the new high-resolution data set is generally reliable for climate change investigation over the Chinese Tian Shan. However, the new data set is expected to be further validated based on more observations. This data set will be helpful for potential users to improve local climate monitoring, modeling, and environmental studies in the Chinese Tian Shan. The data set presented in this article is published in the Network Common Data Form (NetCDF) at https://doi.org/10.1594/PANGAEA.887700. The data set includes 288 nc files and one user guidance txt file.",
+    "readLink": "https://www.earth-syst-sci-data.net/10/2097/2018/essd-10-2097-2018.pdf"
+  },
+  {
+    "title": "Impact of Dynamic Emission Factors of the German Electricity Mix on the Greenhouse Gas Balance in Building Operation",
+    "authors": [
+      "Christian Hepf,",
+      "Konstantin Bausch,",
+      "Lukas Lauss,",
+      "Sebastian Clark Koth,",
+      "Thomas Auer"
+    ],
+    "doi": "https://doi.org/10.3390/buildings12122215",
+    "journalVolume": "Vol. 12,\n                                no. 2215\n                                \n                                  p.\n                                  2215",
+    "issn": "2075-5309 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Building construction"
+    ],
+    "journalUrl": "https://www.mdpi.com/journal/buildings",
+    "abstract": "Due to climate change, emission balancing is a relevant tool to quantify the environmental impact of a building system. The electrification of energy production at a national level, as well as energy supply at a building level, shifts the focus to the emission factor (EF) of the electricity grid. Currently, static EFs are used for calculating the emission balance. However, the electricity grid already shows fluctuations in power generation and EF due to renewable energies. The paper reviews recent literature outlining the research gap and presents the development of a simulation setup and concept, in which the emission balance of the building operation changes, using dynamic EFs that map fluctuations at an hourly resolution. In the first step, we simulate the thermal building and radiance performance. The data are than used in a second step to conduct a system simulation, which analyzes the effects of the dynamic EFs. The results show that the dynamic balance approach for different building system variants deviates considerably from the static approach. By comparing different concepts for the loading strategy, the predictive strategy outperforms a common control strategy, when considering the energy prices and/or the emissions. This is especially true for systems with inert storage units, where charging times significantly influence the balance, as well as for systems with PV integration. This paper outlines the potential of the EFs-optimized control increases when evaluating a potential scenario for the year 2040, factoring in increased seasonal and daily fluctuations in electricity generation.",
+    "readLink": "https://www.mdpi.com/2075-5309/12/12/2215"
+  },
+  {
+    "title": "Reduction in Greenhouse Gas Emissions Associated with Worm Control in Lambs",
+    "authors": [
+      "Drew G. Coulter,",
+      "Philip J. Skuce,",
+      "David McBean,",
+      "Ron I. Smith,",
+      "Jan M. Dick,",
+      "Fiona Kenyon"
+    ],
+    "doi": "https://doi.org/10.3390/agriculture3020271",
+    "journalVolume": "Vol. 3,\n                                no. 2\n                                \n                                  pp.\n                                  271\n                                  – 284",
+    "issn": "2077-0472 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agriculture",
+    "abstract": "There are currently little or no data on the role of endemic disease control in reducing greenhouse gas (GHG) emissions from livestock. In the present study, we have used an Intergovernmental Panel on Climate Change (IPCC)-compliant model to calculate GHG emissions from naturally grazing lambs under four different anthelmintic drug treatment regimes over a 5-year study period. Treatments were either “monthly” (NST), “strategic” (SPT), “targeted” (TST) or based on “clinical signs” (MT). Commercial sheep farming practices were simulated, with lambs reaching a pre-selected target market weight (38 kg) removed from the analysis as they would no longer contribute to the GHG budget of the flock. Results showed there was a significant treatment effect over all years, with lambs in the MT group consistently taking longer to reach market weight, and an extra 10% emission of CO2e per kg of weight gain over the other treatments. There were no significant differences between the other three treatment strategies (NST, SPT and TST) in terms of production efficiency or cumulated GHG emissions over the experimental period. This study has shown that endemic disease control can contribute to a reduction in GHG emissions from animal agriculture and help reduce the carbon footprint of livestock farming.",
+    "readLink": "http://www.mdpi.com/2077-0472/3/2/271"
+  },
+  {
+    "title": "Future projections for terrestrial biomes indicate widespread warming and moisture reduction in forests up to 2100 in South America",
+    "authors": [
+      "Luciano J.S. Anjos,",
+      "Everaldo Barreiros de Souza,",
+      "Calil Torres Amaral,",
+      "Tassio Koiti Igawa,",
+      "Peter Mann de Toledo"
+    ],
+    "doi": "Vol. 25\n                                \n                                \n                                  p.\n                                  e01441",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Terrestrial biomes are the main reservoirs of biodiversity and CO2 on the planet. In South America, they play a crucial role in climate regulation and biodiversity conservation. Despite scientific advances and recent efforts, there is still no detailed analysis of trends in surface air temperature and precipitation changes until the end of the 21st century and magnitude of change for South America’s terrestrial biomes. In this study, we used the annual mean of temperature and annual cumulative precipitation variables provided by WorldClim (version 2.1) from an ensemble of five Global Circulation Models from the most recent simulations of the CMIP6 project. We used four-time intervals between 2020 and 2100, combined at two climatic trajectories (SSP2-4.5 and SSP5-8.5), to map climate change scenarios’ trend magnitude in South America. Also, we evaluate the exposure level of the nine terrestrial biomes according to their respective vegetal cover densities. Our results indicate that in the two possible futures evaluated (SSP2-4.5 & SSP5-8.5), the terrestrial biomes of South America would be exposed to climatic conditions that are not analogous to the current ones. The results indicate a persistent and long-term annual temperature trend increase, indistinctly for all terrestrial biomes and a significant moisture reduction in forest biomes. The consolidation of such climate scenarios can make potentially modify water and carbon cycling patterns and promoting biodiversity loss, mainly at forest biomes, with probably more severe effects under the pessimistic scenario.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989420309835"
+  },
+  {
+    "title": "Snow Extent Variability in Lesotho Derived from MODIS Data (2000–2014)",
+    "authors": [
+      "Stefan Wunderle,",
+      "Timm Gross,",
+      "Fabia Hüsler"
+    ],
+    "doi": "https://doi.org/10.3390/rs8060448",
+    "journalVolume": "Vol. 8,\n                                no. 6\n                                \n                                  p.\n                                  448",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "In Lesotho, snow cover is not only highly relevant to the climate system, but also affects socio-economic factors such as water storage for irrigation or hydro-electricity. However, while sound knowledge of annual and inter-annual snow dynamics is strongly required by local stakeholders, in-situ snow information remains limited. In this study, satellite data are used to generate a time series of snow cover and to provide the missing information on a national scale. A snow retrieval method, which is based on MODIS data and considers the concept of a normalized difference snow index (NDSI), has been implemented. Monitoring gaps due to cloud cover are filled by temporal and spatial post-processing. The comparison is based on the use of clear sky reference images from Landsat-TM and ENVISAT-MERIS. While the snow product is considered to be of good quality (mean accuracy: 68%), a slight bias towards snow underestimation is observed. Based on the daily product, a consistent time series of snow cover for Lesotho from 2000–2014 was generated for the first time. Analysis of the time series showed that the high annual variability of snow coverage and the short duration of single snow events require daily monitoring with a gap-filling procedure.",
+    "readLink": "http://www.mdpi.com/2072-4292/8/6/448"
+  }
+]

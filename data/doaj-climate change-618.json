@@ -1,0 +1,203 @@
+[
+  {
+    "title": "Density Slopes in Variable Density Flow Modeling",
+    "authors": [
+      "Weixing Guo"
+    ],
+    "doi": "https://doi.org/10.3390/w13223292",
+    "journalVolume": "Vol. 13,\n                                no. 3292\n                                \n                                  p.\n                                  3292",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Variable density flow (VDF) modeling is a valuable tool for assessing the potential impacts of global climate change and sea level rise on coastal aquifers. When using any of these modeling tools, a quantitative relationship is needed to compute the fluid density from salt concentration. A full understanding of the relationship between fluid density and solute concentration and the correct implementation of the equation of state are critical for variable density modeling. The works of Baxter and his colleagues in the early 20th century showed that fluid density could be linearly correlated to salt concentrations. A constant density slope of 0.7 is often assumed and applied. The assumption is reasonable when the salinity is less than 100‰. The density slope can also be defined from chloride concentration data with the assumption of a constant ratio (55%) between chloride and total dissolved solids (TDS). Field data from central Florida indicate that the chloride/TDS ratio can be as low as 5%. Therefore, TDS is the preferred water quality data for fluid density determination in variable density modeling. Other issues with density slope are also discussed, and some commonly used values of density slope are provided in this technical note.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/22/3292"
+  },
+  {
+    "title": "Review the Role and Effect of Climate Changes on the Climate Comfort of Yazd City by the use of EVANZ Modle",
+    "authors": [
+      "Dr. F. Khosh Akhlagh Dr. F. Khosh Akhlagh,",
+      "Dr. F. Khosh Akhlagh Dr. F. Khosh Akhlagh,",
+      "Gh. R. Roshan Gh. R. Roshan,",
+      "E. Gharibi E. Gharibi"
+    ],
+    "doi": "https://doi.org/10.22111/gdij.2010.636",
+    "journalVolume": "Vol. 8,\n                                no. 20\n                                \n                                  pp.\n                                  167\n                                  – 181",
+    "issn": "1735-0735 (Print)",
+    "publisher": "2676-7791 (Online)",
+    "countryOfPublisher": "University of Sistan and Baluchestan",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "https://gdij.usb.ac.ir/",
+    "abstract": "Urbanism and urban development along with rapid population increasing and development of industrial activities with uncontrolled use of fossil fuels have severely increased the pollutions which in short term, its effects is clear on different deceases and in long term speeds up some climatic changes and its environmental impacts, including change of desirable time periods from comfortable climate point of view. In this study, by the use of 50 year climate data (1957-2006) and relative humidity of Yazd station and also using EVANZ comfortable climate model, the favorable months for human physiology comfort in 5 periods of 10 years were determined and linear trend of these changes for the next 10 years which would be year 2016, has been predicted. The results of this study show that the warming tread in Yazd station is increasing and most of the months have a warming trend. So that it is expected in the near future, that cold months will have more comfortable situations for physiological welfare and comfortable of human and mutually in the warm months, heat tension will have a determined increase.",
+    "readLink": "https://gdij.usb.ac.ir/article_636_d4644c2651a5324aa9c2b8593dff04ec.pdf"
+  },
+  {
+    "title": "Reframing the sustainable development goals to achieve sustainable development in the Anthropocene - a systems approach",
+    "authors": [
+      "Michelle M. L. Lim,",
+      "Peter Søgaard Jørgensen,",
+      "Carina A. Wyborn"
+    ],
+    "doi": "https://doi.org/10.5751/ES-10182-230322",
+    "journalVolume": "Vol. 23,\n                                no. 3\n                                \n                                  p.\n                                  22",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Griggs et al. (2013) redefine sustainable development as \"development that meets the needs of the present while safeguarding Earth's life-support system, on which the welfare of current and future generations depend.\" We recommend this as the end goal that the United Nations sustainable development goals (SDGs) should strive to achieve. Integration across the SDGs is less than what is required from a science perspective. Effective implementation of the SDGs will require States to attend to trade-offs and overlaps. We argue that continuous failure to address integration within the SDGs will jeopardize realization of this ultimate end goal. Therefore, we adopt a systems approach to identify gaps and connections across the goals and targets of the SDGs as well as leverage points for effective intervention. We triangulate across methods of critical analysis, conceptual modeling, and keyword network analysis to draw out seven \"overarching directions\" that could provide a prioritization framework to enhance efficient implementation of the SDGs. Our results identify main gaps as exclusion of key actors (e.g., corporations) and issues (e.g., intergenerational equity and population); inadequate reconciliation of economic growth with maintaining the Earth system; and deficient consideration of the relationship with international law. Conceptual mapping identifies education and innovation; governance and implementation; sustainable consumption and production; and addressing the key drivers of climate change as key leverage points. The keyword analysis highlights greater integration within the SDGs than what appears at face value. Keywords \"access,\" \"women,\" \"resources,\" and \"finance\" feature across the SDGs and provide further leverage points. Targeting these issues will facilitate realization of a high proportion of SDGs and correspondingly could have a disproportional impact on effective SDG implementation. We conclude that the success of the SDGs needs to be evaluated by the extent to which it contributes to human development while advancing protection of \"planetary must-haves\" for current and future generations.",
+    "readLink": "http://www.ecologyandsociety.org/vol23/iss3/art22/"
+  },
+  {
+    "title": "Water contamination reduces the tolerance of coral larvae to thermal stress.",
+    "authors": [
+      "Andrew P Negri,",
+      "Mia O Hoogenboom"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0019703",
+    "journalVolume": "Vol. 6,\n                                no. 5\n                                \n                                  p.\n                                  e19703",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Coral reefs are highly susceptible to climate change, with elevated sea surface temperatures (SST) posing one of the main threats to coral survival. Successful recruitment of new colonies is important for the recovery of degraded reefs following mortality events. Coral larvae require relatively uncontaminated substratum on which to metamorphose into sessile polyps, and the increasing pollution of coastal waters therefore constitutes an additional threat to reef resilience. Here we develop and analyse a model of larval metamorphosis success for two common coral species to quantify the interactive effects of water pollution (copper contamination) and SST. We identify thresholds of temperature and pollution that prevent larval metamorphosis, and evaluate synergistic interactions between these stressors. Our analyses show that halving the concentration of Cu can protect corals from the negative effects of a 2-3°C increase in SST. These results demonstrate that effective mitigation of local impacts can reduce negative effects of global stressors.",
+    "readLink": "http://europepmc.org/articles/PMC3092768?pdf=render"
+  },
+  {
+    "title": "Last glacial inception trajectories for the Northern Hemisphere from coupled ice and climate modelling",
+    "authors": [
+      "T. Bahadory,",
+      "L. Tarasov,",
+      "H. Andres"
+    ],
+    "doi": "https://doi.org/10.5194/cp-17-397-2021",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  397\n                                  – 418",
+    "issn": "1814-9324 (Print)",
+    "publisher": "1814-9332 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering: Environmental pollution",
+      "Technology: Environmental technology. Sanitary engineering: Environmental protection",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.climate-of-the-past.net/index.html",
+    "abstract": "We present an ensemble of last glacial inception (LGI) simulations for the Northern Hemisphere that captures a significant fraction of inferred ice volume changes within proxy uncertainties. This ensemble was performed with LCice 1.0, a coupled ice sheet and climate model, varying parameters of both climate and ice sheet components, as well as the coupling between them. Certain characteristics of the spatiotemporal pattern of ice growth and subsequent retreat in both North America (NA) and Eurasia (EA) are sensitive to parameter changes while others are not. We find that the initial inception of ice over NA and EA is best characterized by the nucleation of ice at high-latitude and high-elevation sites. Subsequent spreading and merger along with large-scale conversion of snowfields dominate in different sectors. The latter plays an important role in the merging of eastern and western ice regions in NA. The inception peak ice volume in the ensemble occurs approximately at 111 ka and therefore lags the summer 60∘ N insolation minimum by more than 3 kyr. Ice volumes consistently peak earlier over EA than NA. The inception peak in North America is characterized by a merged Laurentide and Cordilleran ice sheet, with the Davis Strait covered in ice in ∼80 % of simulations. Ice also bridges Greenland and Iceland in all runs by 114 ka and therefore blocks the Denmark Strait. This latter feature would thereby divert the East Greenland Current and Denmark Strait overflow with a potentially significant impact on ocean circulation. The Eurasian ice sheet at its inception peak varies across ensemble runs between a continuous ice sheet and multiple smaller ice caps. In both continents, the colder high latitudes (i.e. Ellesmere and Svalbard) tend to grow ice through the entire simulation (to 102 ka), while lower latitudes lose ice after ∼110 ka. We find temperature decreases over the initial phases of the inception lead to the expansion of NA ice sheet area and that subsequent precipitation increases contribute to its thickening. EA ice sheet area also expands with decreasing temperatures, but sea ice limits any increases in precipitation, leading to an earlier retreat away from the EA maximum ice sheet volume. We also examine the extent to which the capture of both LGI ice growth and retreat constrains the coupled ice–climate model sensitivity to changing atmospheric pCO2. The 55-member sub-ensemble that meets our criteria for “acceptable” ice growth and retreat has an equilibrium climate sensitivity lower bound that is 0.3 ∘C higher than that of the full ensemble. This suggests some potential value of fully coupled ice–climate modelling of the last glacial inception to constrain future climate change.",
+    "readLink": "https://cp.copernicus.org/articles/17/397/2021/cp-17-397-2021.pdf"
+  },
+  {
+    "title": "Selected Abstracts of the 17th International Workshop on Neonatology and Pediatrics, Virtual Edition; Cagliari (Italy); October 28-29, 2021",
+    "authors": [
+      "--- Various Authors"
+    ],
+    "doi": "https://doi.org/10.7363/100229",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  pp.\n                                  e100229\n                                  – e100229",
+    "issn": "2281-0692 (Online)",
+    "publisher": "Hygeia Press di Corridori Marinella",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Medicine: Pediatrics"
+    ],
+    "journalUrl": "http://www.jpnim.com",
+    "abstract": "SELECTED ABSTRACTS OF THE 17TH INTERNATIONAL WORKSHOP ON NEONATOLOGY AND PEDIATRICS • VIRTUAL EDITION CAGLIARI (ITALY) • OCTOBER 28TH-29TH, 2021 ABS 1. ACUTE RESPIRATORY INFECTIONS IN CHILDREN AT THE SYLVANUS OLYMPIO TEACHING HOSPITAL IN LOMÉ (TOGO) • M. Fiawoo, N.K. Douti, F. Agbeko, K.M. Guedenon, S.C. Edrih, K.E. Djadou, D.Y. Atakouma (Lomé, Togo) ABS 2. ALTERNATIVE STRATEGIES FOR THE MANAGEMENT OF PEDIATRIC ASTHMA DURING THE COVID-19 PANDEMIC: THE POTENTIAL ROLE OF TELEMEDICINE • M. Votto, M. De Filippo, A. Licari, G.L. Marseglia (Pavia, Italy) ABS 3. THE EFFECT OF MATERNAL VITAMIN D LEVELS ON HOSPITALIZED PRETERM INFANT AT BIRTH IN NICU • P.M.T. Marsubrin, A. Firmansyah, R. Rohsiswatmo, Y. Purwosunu, S. Bardosono, S.G. Malik, Z. Munasir, I.S. Timan, T. Yuniati (Jakarta and Bandung, Indonesia) ABS 4. EFFECT OF GESTATIONAL DIABETES MELLI­TUS ON GLUCOSE TRANSPORTERS EXPRES­SION IN MILK-DERIVED MESENCHYMAL STEM CELLS • L. Moretti, A.M. Nuzzo, S. Sottemano, K. Mareschi, G. Menato, G. Maiocco, C. Peila, G.E. Moro, E. Bertino, A. Rolfo (Turin and Milan, Italy) ABS 5. PULMONARY HYPERTENSION IN BRONCHO­PULMONARY DYSPLASIA: A RETROSPECTIVE STUDY OF TWENTY PRETERM • F. Mecarini, A. Atzei, D. Gariel, D. Manus, P. Neroni, F. Bardanzellu (Cagliari, Italy) ABS 6. UNEXPECTED POST-SURGICAL BLEEDING: ROLE OF STRESS ULCER PROPHYLAXIS WITH PROTON PUMP INHIBITORS (PPIs) • F. Marino, F. Rigon, S. Bellonzi, C. Lorenzetto, A. Mussari, G. Passarella, S. Rugolotto (Rovigo, Italy) ABS 7. L1 CELL ADHESION MOLECULE (L1CAM) EXPRESSION IN THE FETAL HUMAN KIDNEY DURING DEVELOPMENT • F. Cau, C. Betti, V. Aimola, R. Murru, P. Van Eyken, V. Marinelli, M.C. Botta, Y. Gibo, G. Faa, C. Gerosa, D. Fanni (Cagliari and San Gavino, Italy; Genk, Belgium; Matsumoto, Japan; Philadelphia, PA, USA) ABS 8. NEW THERAPEUTIC STRATEGIES IN PEDIATRIC ALLERGY • M. De Filippo, M. Votto, A. Licari, G.L. Marseglia (Pavia, Italy) ABS 9. BACTERIAL PATTERN OF THE SEPSIS PATIENTS ADMITTED TO THE NICU OF BUDHI ASIH REGIONAL PUBLIC HOSPITAL (JAKARTA) FROM JANUARY 2019 TO OCTOBER 2020 • M.E. Yuliana, R. Sihombing (Jakarta, Indonesia) ABS 10. CONGENITAL CYTOMEGALOVIRUS INFEC­TION: CAN THE DIFFERENCE BETWEEN THE VIRUS’ RELATIONSHIP WITH THE HOST’S IMMUNE SYSTEM EXPLAIN THE DIFFERENCE IN CLINICAL PHENOTYPES? • A. Spadavecchia, A. Leone, V. Dell’Oste, M. Biolatti, A. Coscia, F. Cresi, C. Peila, C. Rubino, E. Bertino (Turin, Italy) ABS 11. A PERSISTENT AND RESISTANT DUCTUS ARTERIOSUS • G. Concas, A. Atzei, F. Birocchi, F. Cioglia, F. Bardanzellu, P. Neroni (Cagliari, Italy) ABS 12. ACUTE SUPPURATIVE THYROIDITIS IN A 4-YEAR-OLD BOY: A CASE REPORT • V. Aimola, G. Cerrone, D. Fanni, C. Gerosa, R. Puxeddu, G. Faa, M.L. Lai (Cagliari, Italy) ABS 13. NEONATAL COMPLICATIONS ASSOCIATED WITH EMERGENCY CESAREAN SECTION AND INSTRUMENTAL DELIVERY • M. Fiawoo, N.K. Douti, K.M. Guedenon, F. Agbeko, M. Hemou, E. Tsolenyanu, O.E. Takassi, D.A.E. Akolly, O-B. Tchagbélé, K.E. Djadou, D.Y. Atakouma (Lomé, Togo) ABS 14. IS IT SYNDROME OF INAPPROPRIATE ANTI­DIURETIC HORMONE SECRETION OR CEREBRAL/RENAL SALT WASTING SYN­DROME? • F. Bardanzellu, M.A. Marcialis, R. Frassetto, A. Melis, V. Fanos (Cagliari, Italy) ABS 15. POLAND SYNDROME: A CASE REPORT • F. La Ciacera, A. Lussu, V. Pisano, M. Scarano, L. Pibiri (Cagliari, Italy) ABS 16. EXPRESSION OF BRAIN-DERIVED NEURO­TROPHIC FACTOR AND NEUROTROPHINS 3/4 IN MILK-DERIVED MESENCHYMAL STEM CELL (MDMSCs) • A.M. Nuzzo, S. Sottemano, L. Moretti, K. Mareschi, G. Menato, G. Maiocco, A. Coscia, G.E. Moro, E. Bertino, A. Rolfo (Turin and Milan, Italy) ABS 17. BLASTIC PLASMACYTOID DENDRITIC CELL NEOPLASM (BPDCN) IN A 15-YEAR-OLD GIRL • G. Cerrone, L. Pilloni, V. Aimola, C. Gerosa, R. Murru, F. Cau, G. Faa, L. Atzori, D. Fanni (Cagliari and San Gavino, Italy) ABS 18. MULTIPLE FETAL CARDIAC RHABDOMYOMAS ASSOCIATED WITH TUBEROUS SCLEROSIS: A PRENATAL DIAGNOSIS • F. Mecarini, A. Atzei, P. Neroni (Cagliari, Italy) ABS 19. A USEFUL EXPERIENCE: THE NORMAN PE­DIATRIC AND NEONATOLOGY MEETINGS • S. Vendemmia, M. Vendemmia, G. Parisi (Aversa, Naples and Vasto, Italy) ABS 20. PRENATAL PSYCHOLOGY AND COVID-19: A LOOK AT THE FUTURE • I. Rotolo (Italy) ABS 21. NUTRIMETABOLOMICS IN WEANING • A. Bosco, R. Pintus (Cagliari, Italy) ABS 22. THE INTERNATIONAL ALFRED NOBEL’S FRIENDS STUDY CENTER IN SANREMO AND PEDIATRICS • G. Trapani (Sanremo, Italy) ABS 23. PARENTS KNOWLEDGE AND ATTITUDES REGARDING ORAL HEALTH DURING CHILD­HOOD: A CROSS-SECTIONAL STUDY IN A SAMPLE OF ITALIAN CHILDREN INPATIENTS • E. Bianco, C.A. Ghitti, S. Attuati, M. Maddalone (Monza, Italy) ABS 24. A RAPID, NOVEL HOST-IMMUNE TEST PER­MITS ACCURATE DIFFERENTIATION OF BAC­TERIAL AND VIRAL INFECTION IN FEBRILE AMBULATORY PATIENTS: THE APOLLO STUDY • F. Curenza, A. Argentiero, G. Autore, S. Esposito on behalf of the Apollo Study Group (Parma, Italy) ABS 25. FILMARRAY® RESPIRATORY PANEL AND BRONCHIOLITIS IN POST-COVID-19 ERA • L.M. Toscano, A. Tessari, F. Marino, S. Bellonzi, F. Rigon, A. Mussari, G. Passarella, C. Lorenzetto, S. Rugolotto (Padua and Rovigo, Italy) ABS 26. MICROBIOTA PROFILES IN PRE-SCHOOL CHILDREN WITH RESPIRATORY INFECTIONS: MODIFICATIONS INDUCED BY THE ORAL BACTERIAL LYSATE OM-85 • F. Cusenza, G. Autore, S. Ballarini, A. Argentiero, L. Ruggiero, G.A. Rossi, N. Principi, S. Esposito (Parma, Perugia, Milan and Genoa, Italy) ABS 27. INTRAVENTRICULAR HEMORRHAGE AND PERIVENTRICULAR HEMORRHAGIC INFARC­TION IN A FULL-TERM NEWBORN WITH HETEROZYGOUS PROTHROMBIN G20210A GENOTYPE • F. Bardanzellu, V. Masile, C. Fanni, M.C. Pintus, F. Cioglia, V. Fanos, M.A. Marcialis (Cagliari, Italy) ABS 28. ABNORMAL HIP SYNOVITIS • B.M. Trapani (Bellinzona, Switzerland) ABS 29. ANTIBIOTIC RESISTANCE OF UROPATHOGENS IN CHILDREN HOSPITALIZED FOR URINARY TRACT INFECTION IN THE EMILIA-ROMAGNA REGION, ITALY • G. Autore, F. Cusenza, S. Esposito on behalf of the UTI-Ped-ER Study Group (Parma, Italy) ABS 30. CHILDREN WITH POST-COVID-19 SYMPTOMS IN THE PEDIATRIC OUTPATIENT CLINIC: PRELIMINARY FINDINGS • G. Trapani, G. Verlato, E. Bertino, G. Maiocco, R. Vesentini, O. Al Jamal, A. Dessì, V. Fanos and the Working Group (Sanremo, Verona, Turin and Cagliari, Italy) ABS 31. CLINICAL OUTCOME ASSOCIATED WITH DISCORDANT THERAPY FOR PEDIATRIC URINARY TRACT INFECTIONS • G. Autore, F. Cusenza, S. Esposito on behalf of the UTI-Ped-ER Study Group (Parma, Italy) ABS 32. TELEMEDICINE IN PEDIATRIC AND ADULT PATIENTS WITH NEUROGENIC BLADDER DURING THE COVID-19 PANDEMIC: TO MAKE A VIRTUE OUT OF NECESSITY • G. Masnata, S. Dessì, G. Sanna, L. Corona (Cagliari, Italy) ABS 33. HYPERAMYLASEMIA FROM EXTRAPANCREA­TIC CAUSES – CLINICAL CASE • C. Cioffi, I. Pezone, S. Cioffi, G. Gallucci, D. Perri (Aversa and Naples, Italy) ABS 34. IMPACT OF THE PUBLICATION OF THE ITALIAN GUIDELINES ON THE MANAGEMENT OF CHILDREN HOSPITALIZED FOR BRON­CHIOLITIS • F. Abbate, G. Depietri, M.E. Di Cicco, D. Peroni (Pisa, Italy) ABS 35. FROM THE WORKING GROUP OF ITALIAN HOSPITAL PEDIATRICS TO THE ITALIAN SOCIETY OF HOSPITAL PEDIATRICS (SIPO) • D. Perri (Aversa, Italy) ABS 36. POTENTIAL IMPACTS OF CLIMATE CHANGE ON POLLEN ALLERGY IN CHILDREN • M.E. Di Cicco, E. Del Tufo, S. Gracci, P. Comberiati, D. Peroni (Pisa, Italy) ABS 37. FOOD PROTEIN-INDUCED ENTEROCOLITIS SYNDROME (FPIES) MIMICKING A NEONATAL SEPSIS: A DIAGNOSTIC DILEMMA • I. Pezone, C. Cioffi, G. Gallucci, S. Cioffi, D. Perri (Aversa and Naples, Italy)",
+    "readLink": "https://jpnim.com/index.php/jpnim/article/view/1300"
+  },
+  {
+    "title": "ENVIRONMENTAL CHANGE IN A SACRED LANDSCAPE: THE THESSALIAN PELORIA",
+    "authors": [
+      "Charles Denver GRANINGER"
+    ],
+    "doi": "https://doi.org/10.14795/j.v9i1.698",
+    "journalVolume": "Vol. 9,\n                                no. 1",
+    "issn": "2360-266X (Online)",
+    "publisher": "Mega Publishing House",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Auxiliary sciences of history: Archaeology",
+      "History (General) and history of Europe: History (General): Ancient history"
+    ],
+    "journalUrl": "http://jaha.org.ro",
+    "abstract": "The sparsely attested Thessalian Peloria, a classic festival of inversion akin to the Roman Saturnalia, honored Zeus Pelorios and commemorated the draining of the Thessalian plain through the Tempe; Baton of Sinope, our principal source, described it as “still even now” (ca. 250-150 BCE) the most important festival of the Thessalians. The festival is distinctive for the ways in which the mythic time of foundation and the historical time of performance can be seen to mirror one another. The Peneios River regularly flooded in antiquity and periodic, devastating inundations persist into the contemporary era. Similarly, there are strong lines of continuity between the principal actors in mythical and historical time. The Thessalian king in the foundation narrative of the Peloria, to whom the wondrous knowledge of the drainage of the plain is reported, is Pelasgos, who is tied directly into mythic narratives of Thessalian descent. Such points of continuity contrast, however, with intriguing evidence of social and economic change. Theophrastos describes a program of marsh drainage in the territory of Larisa that made additional land accessible for cereal cultivation or pasture, but at a cost: a colder, less humid climate in which olives no longer grew and grapevines could freeze. Baton’s emphatic testimony about the festival’s continuing significance must be read against the backdrop of larger social developments in Thessaly ca. 250-150 BCE that herald a wider challenge to and realignment of critical status boundaries, particularly those that otherwise appear affirmed through the foundation narrative of the Peloria.",
+    "readLink": "https://jaha.org.ro/index.php/JAHA/article/view/698"
+  },
+  {
+    "title": "Spatiotemporal Urban Waterlogging Risk Assessment Incorporating Human and Vehicle Distribution",
+    "authors": [
+      "Lujing Li,",
+      "Zhiming Zhang,",
+      "Xiaotian Qi,",
+      "Xin Zhao,",
+      "Wenhan Hu,",
+      "Ran Cai"
+    ],
+    "doi": "https://doi.org/10.3390/w15193452",
+    "journalVolume": "Vol. 15,\n                                no. 3452\n                                \n                                  p.\n                                  3452",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Due to the increase in frequency and severity, assessing and predicting urban waterlogging risk is critical. The risk assessment framework is based on three factors: hazard, exposure, and vulnerability. The assessment indicators, previously based solely on static indicators, account for the effects of varying temporal and spatial distributions of people and vehicles on the assessment results. Specifically, two dynamic indicators—the population density and the Traffic Performance Index (TPI)—are added to the mix to dynamically assess the risk of waterlogging in the central urban area of Suqian City of Jiangsu Province, China’s central urban area, over various periods. The findings indicate that four–six times more individuals are affected during peak hours than during other periods, and no important roads are within the scope of waterlogging during other periods, while nearly ten important roads will be affected during peak hours. Additionally, the characteristics of the temporal and spatial distribution of waterlogging risk can be more accurately represented by a combination of static and dynamic indicators. The highest risk areas are significantly more prominent during the weekday peak period than during other times; the morning peak is mainly affected by traffic performance indicators, the evening peak is mainly affected by population density, and the main factors affecting the other periods are the same as the other main factors affecting the peak period. The highest risk areas are mainly located in the eastern part of the central urban area of Suqian City, with the lowest risk in the north and south.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/19/3452"
+  },
+  {
+    "title": "Assessing downstream flood impacts due to a potential GLOF from Imja Tsho in Nepal",
+    "authors": [
+      "M. A. Somos-Valenzuela,",
+      "D. C. McKinney,",
+      "A. C. Byers,",
+      "D. R. Rounce,",
+      "C. Portocarrero,",
+      "D. Lamsal"
+    ],
+    "doi": "https://doi.org/10.5194/hess-19-1401-2015",
+    "journalVolume": "Vol. 19,\n                                no. 3\n                                \n                                  pp.\n                                  1401\n                                  – 1412",
+    "issn": "1027-5606 (Print)",
+    "publisher": "1607-7938 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.hydrology-and-earth-system-sciences.net/",
+    "abstract": "Glacial-dominated areas pose unique challenges to downstream communities in adapting to recent and continuing global climate change, including increased threats of glacial lake outburst floods (GLOFs) that can increase risk due to flooding of downstream communities and cause substantial impacts on regional social, environmental and economic systems. The Imja glacial lake (or Imja Tsho) in Nepal, which has the potential to generate a GLOF, was studied using a two-dimensional debris-flow inundation model in order to evaluate the effectiveness of proposed measures to reduce possible flooding impacts to downstream communities by lowering the lake level. The results indicate that only minor flood impact reduction is achieved in the downstream community of Dingboche with modest (~3 m) lake lowering. Lowering the lake by 10 m shows a significant reduction in inundated area. However, lowering the lake by 20 m almost eliminates all flood impact at Dingboche. Further downstream at Phakding, the impact of the GLOF is significant and similar reductions in inundation are likely as a result of lake lowering.",
+    "readLink": "http://www.hydrol-earth-syst-sci.net/19/1401/2015/hess-19-1401-2015.pdf"
+  },
+  {
+    "title": "Spatial Pattern and Ecological Process Difference Analyses of the Boundary Habitats of a Treeline Patch: A Case Study from the Li Mountain, North China",
+    "authors": [
+      "Meiyu Jia,",
+      "Jintun Zhang,",
+      "Zhenhui Song,",
+      "Sehrish Sadia"
+    ],
+    "doi": "https://doi.org/10.3390/land11112064",
+    "journalVolume": "Vol. 11,\n                                no. 2064\n                                \n                                  p.\n                                  2064",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Treeline patches are among Earth’s most sensitive and are important model ecosystems for assessing climate change trends. To explore ecological factors that limit the species’ survival in treelines, the treeline patch of Li Mountain National Nature Reserve was selected as the research site. Pinus armandii (P. armandii), Betula albo-sinensis (B. albo-sinensis), and Betula utilis (B. utilis) were selected as research species based on their dominance. Two 50 m × 50 m plots were established separately from the upper and lower limits of the highest treeline patch for point pattern analysis. Five 10 m × 10 m quadrats per plot were sampled to investigate the flora and environmental factors. The results showed that: (1) Slope and community composition at tree layer in quadrates had significant differences between upper and lower limits. Pinus armandii had a greater population size at the upper limit. Seedling recruitment restricted population development for B. albo-sinensis at the lower limit and B. utilis at the upper limit and less regeneration of B. albo-sinensis at the upper limit. (2) More aggregation scales occurred at the upper limit, and P. armandii had more aggregation scales than the other two species at 0–25 m. The heterogeneity caused by density distribution affected P. armandii pattern at the upper limit, and heterogeneity of seed dispersal could explain species patterns in both limits. Distinctness of size difference may have an influence on inter-specific species correlations.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/11/2064"
+  }
+]

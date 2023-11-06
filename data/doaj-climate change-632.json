@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Detection of smoke-derived compounds from bushfires in Cabernet-Sauvignon grapes, must, and wine using Near-Infrared spectroscopy and machine learning algorithms",
+    "authors": [
+      "Vasiliki Summerson,",
+      "Claudia Gonzalez Viejo,",
+      "Damir D. Torrico,",
+      "Alexis  Pang,",
+      "Sigfredo Fuentes"
+    ],
+    "doi": "https://doi.org/10.20870/oeno-one.2020.54.4.4501",
+    "journalVolume": "Vol. 54,\n                                no. 4",
+    "issn": "2494-1271 (Online)",
+    "publisher": "International Viticulture and Enology Society",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Agriculture",
+      "Science: Botany"
+    ],
+    "journalUrl": "http://www.oeno-one.eu",
+    "abstract": "The number and intensity of wildfires are increasing worldwide, thereby raising the risk of smoke contamination of grapevine berries and the development of smoke taint in wine. This study aimed to develop five artificial neural network (ANN) models from berry, must, and wine samples obtained from grapevines exposed to different levels of smoke: (i) Control (C), i.e., no misting or smoke exposure; (ii) Control with misting (CM), i.e., in-canopy misting, but no smoke exposure; (iii) low-density smoke treatment (LS); (iv) high-density smoke treatment (HS) and (v) a high-density smoke treatment with misting (HSM). Models 1, 2, and 3 were developed using the absorbance values of near-infrared (NIR) berry spectra taken one day after smoke exposure to predict levels of 10 volatile phenols (VP) and 18 glycoconjugates in grapes at either one day after smoke exposure (Model 1: R = 0.98; R2 = 0.97; b = 1) or at harvest (Model 2: R = 0.98; R2 = 0.97; b = 0.97), as well as six VP and 17 glycoconjugates in the final wine (Model 3: R = 0.98; R2 = 0.95; b = 0.99). Models 4 and 5 were developed to predict the levels of six VP and 17 glycoconjugates in wine. Model 4 used must NIR absorbance spectra as inputs (R = 0.99; R2 = 0.99; b = 1.00), while Model 5 used wine NIR absorbance spectra (R = 0.99; R2 = 0.97; b = 0.97). All five models displayed high accuracies and could be used by grape growers and winemakers to non-destructively assess at near real-time the levels of smoke-related compounds in grapes and/or wine in order to make timely decisions about grape harvest and smoke taint mitigation techniques in the winemaking process.",
+    "readLink": "https://oeno-one.eu/article/view/4501"
+  },
+  null,
+  {
+    "title": "Multitemporal modeling and simulation of the complex dynamics in urban wetlands: the case of Bogota, Colombia",
+    "authors": [
+      "Yenny Cuellar,",
+      "Liliana Perez"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-023-36600-8",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 18",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Urban wetlands are essential to the longstanding health and well-being of cities. Acknowledged as rich in biodiversity and highly productive ecosystems, they provide ecosystem services represented in aspects such as air purification, urban climate regulation, physical and mental health, recreation, and contemplation, among a wide variety of other goods and services on which the quality of life of the inhabitants of large cities such as Bogota depends largely. We used cellular automata to model and simulate urban wetland changes in Bogota, Colombia. The study applied the coupled Markov-Future Land Use Simulation (FLUS) model to simulate and analyze land use/land cover (LULC) change over 20 years. First, we used an orthomosaic (1998) and two WorldView-2 satellite images (2004 and 2010), to detect land cover changes. Then, using the artificial neural network FLUS module, we calculated the relationships between land classes and associated drivers and estimated the probability of occurrence of each land class. Finally, we applied Intensity Analysis to examine the observed and projected LULC change (1998–2034). Results indicate that gains in areas of crops and pastures are at the expense of wetlands. In addition, simulation outputs show that wetlands will likely represent less than 2% of the total study area in 2034, representing a 14% decrease in 24 years. The importance of this project lies in its potential contribution to the decision-making process within the city and as an instrument of natural resource management. Additionally, the results of this study could contribute to the United Nations Sustainable Development Goal 6, “Clean water and sanitation,\" and climate change mitigation.",
+    "readLink": "https://doi.org/10.1038/s41598-023-36600-8"
+  },
+  {
+    "title": "Multiple Stressors and Ecological Complexity Require A New Approach to Coral Reef Research",
+    "authors": [
+      "Linwood Hagan Pendleton,",
+      "Linwood Hagan Pendleton,",
+      "Ove eHoegh-Guldberg,",
+      "Ove eHoegh-Guldberg,",
+      "Chris eLangdon,",
+      "Adrien eComte"
+    ],
+    "doi": "https://doi.org/10.3389/fmars.2016.00036",
+    "journalVolume": "Vol. 3",
+    "issn": "2296-7745 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Natural history (General): General. Including nature conservation, geographical distribution"
+    ],
+    "journalUrl": "http://www.frontiersin.org/Marine_Science",
+    "abstract": "Ocean acidification, climate change, and other environmental stressors threaten coral reef ecosystems and the people who depend upon them. New science reveals that these multiple stressors interact and may affect a multitude of physiological and ecological processes in complex ways. The interaction of multiple stressors and ecological complexity may mean that the negative effects on coral reef ecosystems will happen sooner and be more severe than previously thought. Yet, most research on the effects of global change on coral reefs focus on one or few stressors and pathways or outcomes (e.g. bleaching). Based on a critical review of the literature, we call for a regionally targeted strategy of mesocosm-level research that addresses this complexity and provides more realistic projections about coral reef impacts in the face of global environmental change. We believe similar approaches are needed for other ecosystems that face global environmental change.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fmars.2016.00036/full"
+  },
+  {
+    "title": "Estimating causal networks in biosphere–atmosphere interaction with the PCMCI approach",
+    "authors": [
+      "C. Krich,",
+      "C. Krich,",
+      "J. Runge,",
+      "D. G. Miralles,",
+      "M. Migliavacca,",
+      "O. Perez-Priego,",
+      "T. El-Madany,",
+      "A. Carrara,",
+      "M. D. Mahecha,",
+      "M. D. Mahecha"
+    ],
+    "doi": "https://doi.org/10.5194/bg-17-1033-2020",
+    "journalVolume": "Vol. 17\n                                \n                                \n                                  pp.\n                                  1033\n                                  – 1061",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "The dynamics of biochemical processes in terrestrial ecosystems are tightly coupled to local meteorological conditions. Understanding these interactions is an essential prerequisite for predicting, e.g. the response of the terrestrial carbon cycle to climate change. However, many empirical studies in this field rely on correlative approaches and only very few studies apply causal discovery methods. Here we explore the potential for a recently proposed causal graph discovery algorithm to reconstruct the causal dependency structure underlying biosphere–atmosphere interactions. Using artificial time series with known dependencies that mimic real-world biosphere–atmosphere interactions we address the influence of non-stationarities, i.e. periodicity and heteroscedasticity, on the estimation of causal networks. We then investigate the interpretability of the method in two case studies. Firstly, we analyse three replicated eddy covariance datasets from a Mediterranean ecosystem. Secondly, we explore global Normalised Difference Vegetation Index time series (GIMMS 3g), along with gridded climate data to study large-scale climatic drivers of vegetation greenness. We compare the retrieved causal graphs to simple cross-correlation-based approaches to test whether causal graphs are considerably more informative. Overall, the results confirm the capacity of the causal discovery method to extract time-lagged linear dependencies under realistic settings. For example, we find a complete decoupling of the net ecosystem exchange from meteorological variability during summer in the Mediterranean ecosystem. However, cautious interpretations are needed, as the violation of the method's assumptions due to non-stationarities increases the likelihood to detect false links. Overall, estimating directed biosphere–atmosphere networks helps unravel complex multidirectional process interactions. Other than classical correlative approaches, our findings are constrained to a few meaningful sets of relations, which can be powerful insights for the evaluation of terrestrial ecosystem models.",
+    "readLink": "https://www.biogeosciences.net/17/1033/2020/bg-17-1033-2020.pdf"
+  },
+  {
+    "title": "Increasing carbon footprint of grain crop production in the US Western Corn Belt",
+    "authors": [
+      "Chaoqun Lu,",
+      "Zhen Yu,",
+      "Hanqin Tian,",
+      "David A Hennessy,",
+      "Hongli Feng,",
+      "Mahdi Al-Kaisi,",
+      "Yuyu Zhou,",
+      "Tom Sauer,",
+      "Raymond Arritt"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aae9fe",
+    "journalVolume": "Vol. 13,\n                                no. 12\n                                \n                                  p.\n                                  124007",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Global agriculture is challenged to increase soil carbon sequestration and reduce greenhouse gas emissions while providing products for an increasing population. Growing crop production could be achieved through higher yield per hectare (i.e. intensive farming) or more hectares (extensive farming), which however, have different ecological and environmental consequences. Multiple lines of evidence indicate that expanding cropland for additional production may lead to loss of vegetation and soil carbon, and threaten the survival of wildlife. New concerns about the impacts of extensive farming have been raised for the US Corn Belt, one of the world’s most productive regions, as cropland has rapidly expanded northwestward unto grasslands and wetlands in recent years. Here we used a process-based ecosystem model to distinguish and quantify how natural drivers as well as intensive and extensive farming practices have altered grain production, soil carbon storage, and agricultural carbon footprint in the US Western Corn Belt since 1980. Compared to the period 1980–2005, we found that cropland expansion more than tripled in the most recent decade (2006–2016), becoming a significant factor contributing to growing grain production. Land use change in this period led to a soil carbon loss of 90.8 ± 14.7 Tg (1 Tg = 10 ^12 g). As a result, grain production in this region shifted from carbon neutral to a carbon loss of 2.3 kg C kg ^−1 grain produced. The enlarging negative carbon footprint (Δ C /Δ P ) indicates the major role that cropland expansion has had on the carbon cost of grain production in this region. Therefore, we should be more cautious to pursue high crop production through agricultural cropland conversion, particularly in those carbon-rich soils.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aae9fe"
+  },
+  {
+    "title": "Endophytic Nanotechnology: An Approach to Study Scope and Potential Applications",
+    "authors": [
+      "Mukesh Meena,",
+      "Andleeb Zehra,",
+      "Prashant Swapnil,",
+      "Prashant Swapnil,",
+      "Harish,",
+      "Avinash Marwal,",
+      "Garima Yadav,",
+      "Priyankaraj Sonigra"
+    ],
+    "doi": "https://doi.org/10.3389/fchem.2021.613343",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-2646 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/chemistry",
+    "abstract": "Nanotechnology has become a very advanced and popular form of technology with huge potentials. Nanotechnology has been very well explored in the fields of electronics, automobiles, construction, medicine, and cosmetics, but the exploration of nanotecnology’s use in agriculture is still limited. Due to climate change, each year around 40% of crops face abiotic and biotic stress; with the global demand for food increasing, nanotechnology is seen as the best method to mitigate challenges in disease management in crops by reducing the use of chemical inputs such as herbicides, pesticides, and fungicides. The use of these toxic chemicals is potentially harmful to humans and the environment. Therefore, using NPs as fungicides/ bactericides or as nanofertilizers, due to their small size and high surface area with high reactivity, reduces the problems in plant disease management. There are several methods that have been used to synthesize NPs, such as physical and chemical methods. Specially, we need ecofriendly and nontoxic methods for the synthesis of NPs. Some biological organisms like plants, algae, yeast, bacteria, actinomycetes, and fungi have emerged as superlative candidates for the biological synthesis of NPs (also considered as green synthesis). Among these biological methods, endophytic microorganisms have been widely used to synthesize NPs with low metallic ions, which opens a new possibility on the edge of biological nanotechnology. In this review, we will have discussed the different methods of synthesis of NPs, such as top-down, bottom-up, and green synthesis (specially including endophytic microorganisms) methods, their mechanisms, different forms of NPs, such as magnesium oxide nanoparticles (MgO-NPs), copper nanoparticles (Cu-NPs), chitosan nanoparticles (CS-NPs), β-d-glucan nanoparticles (GNPs), and engineered nanoparticles (quantum dots, metalloids, nonmetals, carbon nanomaterials, dendrimers, and liposomes), and their molecular approaches in various aspects. At the molecular level, nanoparticles, such as mesoporous silica nanoparticles (MSN) and RNA-interference molecules, can also be used as molecular tools to carry genetic material during genetic engineering of plants. In plant disease management, NPs can be used as biosensors to diagnose the disease.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fchem.2021.613343/full"
+  },
+  {
+    "title": "Similar Growth Performance but Contrasting Biomass Allocation of Root-Flooded Terrestrial Plant Alternanthera philoxeroides (Mart.) Griseb. in Response to Nutrient Versus Dissolved Oxygen Stress",
+    "authors": [
+      "Qiaoli Ayi,",
+      "Qiaoli Ayi,",
+      "Bo Zeng,",
+      "Kang Yang,",
+      "Feng Lin,",
+      "Xiaoping Zhang,",
+      "Peter M. van Bodegom,",
+      "Johannes H. C. Cornelissen"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2019.00111",
+    "journalVolume": "Vol. 10",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Terrestrial plants may experience nutrient and oxygen stress when they are submerged, and increases in flooding are anticipated with climate change. It has been well reported that plants usually shift biomass allocation and produce more roots in response to nutrient deficiency. However, it is unclear whether plants experiencing oxygen deficiency stimulate biomass allocation to roots to enhance nutrient absorption, similar to how plants experiencing nutrient deficiency behave. We investigated the responses of the terrestrial species Alternanthera philoxeroides, upon root flooding, to nutrient versus dissolved oxygen deficiency in terms of plant growth, biomass allocation, root production, root efficiency (plant growth sustained per unit root surface area), and root aerenchyma formation. Both nutrient and dissolved oxygen deficiency hampered the growth of root-flooded plants. As expected, plants experiencing nutrient deficiency increased biomass allocation to roots and exhibited lower root efficiency; in contrast, plants experiencing dissolved oxygen deficiency decreased biomass allocation to roots but achieved higher root efficiency. The diameter of aerenchyma channels in roots were enlarged in plants experiencing dissolved oxygen deficiency but did not change in plants experiencing nutrient deficiency. The widening of aerenchyma channels in roots could have improved the oxygen status and thereby the nutrient absorption capability of roots in low oxygen environments, which might benefit the plants to tolerate flooding.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2019.00111/full"
+  },
+  {
+    "title": "Revealing how intra- and inter-annual variability of carbon uptake (GPP) affects wood cell biomass in an eastern white pine forest",
+    "authors": [
+      "Paulina F Puchi,",
+      "Myroslava Khomik,",
+      "Davide Frigo,",
+      "M Altaf Arain,",
+      "Patrick Fonti,",
+      "Georg von Arx,",
+      "Daniele Castagneri"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/acb2df",
+    "journalVolume": "Vol. 18,\n                                no. 2\n                                \n                                  p.\n                                  024027",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Forests are major terrestrial carbon (C) sinks and play a crucial role in climate change mitigation. Despite extensive studies on forest C sequestration, the relationship between seasonal C uptake and its allocation to woody biomass is poorly understood. Here we used a novel dendro-anatomical approach to investigate the relationships between climate variability, C uptake, and woody biomass growth in an 80 year-old eastern white pine ( Pinus strobus ) plantation forest in Ontario, Canada. We used eddy covariance (EC) gross primary productivity (GPP) from 2003–2018 and woody biomass estimated from chronologies of cell wall area (CWA, a proxy for C storage in individual wood cells) and ring wall area (RWA) for earlywood (EW) and latewood (LW) from 1970–2018. Warm temperatures in early spring and high precipitation in mid-spring and summer positively and strongly affected GPP, while high temperature and high vapor pressure deficit in the summer had a negative effect. From 2003 to 2018, there was a steady increase in both GPP and woody cell biomass. Moreover, we found strong positive correlations between GPP and CWA both in EW (May—July GPP, r = 0.65) and LW (July—August GPP, r = 0.89). Strong positive correlations were also found between GPP and RWA both in EW and LW (April—September, r = ⩾ 0.79). All these associations were stronger than the association between annual GPP and tree-ring width ( r = 0.61) used in previous studies. By increasing the resolution of tree-ring analysis to xylem-cell level, we captured intra-annual variability in biomass accumulation. We demonstrated a strong control of seasonal C assimilation (source) over C accumulation in woody biomass at this site. Coupling high-resolution EC fluxes (GPP) and wood anatomical measurements can help to reduce existing uncertainties on C source-sink relationships, opening new perspectives in the study of the C cycle in forests.",
+    "readLink": "https://doi.org/10.1088/1748-9326/acb2df"
+  },
+  null
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "title": "Climate change impact on extreme value and its frequency distribution function in a karst basin, Southwest China",
+    "authors": [
+      "Chongxun Mo,",
+      "Xuan Song,",
+      "Yuli Ruan,",
+      "Huakun Lan,",
+      "Xingbi Lei,",
+      "Zhenxiang Xing,",
+      "Guikai Sun"
+    ],
+    "doi": "https://doi.org/10.2166/wcc.2022.415",
+    "journalVolume": "Vol. 13,\n                                no. 3\n                                \n                                  pp.\n                                  1354\n                                  – 1369",
+    "issn": "2040-2244 (Print)",
+    "publisher": "2408-9354 (Online)",
+    "countryOfPublisher": "IWA Publishing",
+    "lcc": [
+      "United Kingdom",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://iwaponline.com/jwcc",
+    "abstract": "Studying extreme meteorology and its frequency under climate change is helpful to guide flood and drought control. The original achievements and objective of this study are to further contribute to the literature on how to analyze the impact of climate change on extreme rainfall and extreme temperature more reasonably and comprehensively for a karst basin. The Mann–Kendall method, Heuristic segmentation method, cross-wavelet analysis method, generalized extreme value (GEV) model, and generalized Pareto distribution (GPD) model were applied in this paper. The 55-year (1963–2017) extreme rainfall and temperature data recorded in the Chengbi River Basin were applied. The results show that extreme rainfall showed a downward trend (−0.169 and −8.735 mm/10a), while the trends of extreme temperatures were not obvious (Sen's slope estimate is 0). The mutation points range from 1981 to 2002 and the mutation point of extreme rainfall series is earlier than that of extreme temperatures. Compared with the GEV model, the parameters of the GPD model show a smaller variation before and after climate change, and the extreme meteorology values corresponding to the same recurrence period show a decreasing trend after climate change. The performance of GEV and GPD models after climate change is generally more fit than that before climate change. HIGHLIGHTS A framework was proposed for further study of the effect of climate change.; A trend study to show if climate change impacts the extreme rainfall and temperatures.; Figuring out the performance of different models before and after climate change.;",
+    "readLink": "http://jwcc.iwaponline.com/content/13/3/1354"
+  },
+  {
+    "title": "Rapid retreat of permafrost coastline observed with aerial drone photogrammetry",
+    "authors": [
+      "A. M. Cunliffe,",
+      "A. M. Cunliffe,",
+      "G. Tanski,",
+      "G. Tanski,",
+      "B. Radosavljevic,",
+      "W. F. Palmer,",
+      "T. Sachs,",
+      "H. Lantuit,",
+      "J. T. Kerby,",
+      "I. H. Myers-Smith"
+    ],
+    "doi": "https://doi.org/10.5194/tc-13-1513-2019",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  1513\n                                  – 1528",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Permafrost landscapes are changing around the Arctic in response to climate warming, with coastal erosion being one of the most prominent and hazardous features. Using drone platforms, satellite images, and historic aerial photographs, we observed the rapid retreat of a permafrost coastline on Qikiqtaruk – Herschel Island, Yukon Territory, in the Canadian Beaufort Sea. This coastline is adjacent to a gravel spit accommodating several culturally significant sites and is the logistical base for the Qikiqtaruk – Herschel Island Territorial Park operations. In this study we sought to (i) assess short-term coastal erosion dynamics over fine temporal resolution, (ii) evaluate short-term shoreline change in the context of long-term observations, and (iii) demonstrate the potential of low-cost lightweight unmanned aerial vehicles (“drones”) to inform coastline studies and management decisions. We resurveyed a 500 m permafrost coastal reach at high temporal frequency (seven surveys over 40 d in 2017). Intra-seasonal shoreline changes were related to meteorological and oceanographic variables to understand controls on intra-seasonal erosion patterns. To put our short-term observations into historical context, we combined our analysis of shoreline positions in 2016 and 2017 with historical observations from 1952, 1970, 2000, and 2011. In just the summer of 2017, we observed coastal retreat of 14.5 m, more than 6 times faster than the long-term average rate of 2.2±0.1 m a−1 (1952–2017). Coastline retreat rates exceeded 1.0±0.1 m d−1 over a single 4 d period. Over 40 d, we estimated removal of ca. 0.96 m3 m−1 d−1. These findings highlight the episodic nature of shoreline change and the important role of storm events, which are poorly understood along permafrost coastlines. We found drone surveys combined with image-based modelling yield fine spatial resolution and accurately geolocated observations that are highly suitable to observe intra-seasonal erosion dynamics in rapidly changing Arctic landscapes.",
+    "readLink": "https://www.the-cryosphere.net/13/1513/2019/tc-13-1513-2019.pdf"
+  },
+  {
+    "title": "Detecting climatically driven phylogenetic and morphological divergence among spruce (<i>Picea</i>) species worldwide",
+    "authors": [
+      "G.-H. Wang,",
+      "H. Li,",
+      "H.-W. Zhao,",
+      "W.-K. Zhang"
+    ],
+    "doi": "https://doi.org/10.5194/bg-14-2307-2017",
+    "journalVolume": "Vol. 14,\n                                no. 9\n                                \n                                  pp.\n                                  2307\n                                  – 2319",
+    "issn": "1726-4170 (Print)",
+    "publisher": "1726-4189 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Biology (General): Ecology",
+      "Science: Biology (General): Life",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.biogeosciences.net",
+    "abstract": "This study aimed to elucidate the relationship between climate and the phylogenetic and morphological divergence of spruces (Picea) worldwide. Climatic and georeferenced data were collected from a total of 3388 sites distributed within the global domain of spruce species. A phylogenetic tree and a morphological tree for the global spruces were reconstructed based on DNA sequences and morphological characteristics. Spatial evolutionary and ecological vicariance analysis (SEEVA) was used to detect the ecological divergence among spruces. A divergence index (D) with (0, 1) scaling was calculated for each climatic factor at each node for both trees. The annual mean values, extreme values and annual range of the climatic variables were among the major determinants for spruce divergence. The ecological divergence was significant (P < 0. 001) for 185 of the 279 comparisons at 31 nodes in the phylogenetic tree, as well as for 196 of the 288 comparisons at 32 nodes in the morphological tree. Temperature parameters and precipitation parameters tended to be the main driving factors for the primary divergences of spruce phylogeny and morphology, respectively. Generally, the maximum D of the climatic variables was smaller in the basal nodes than in the remaining nodes. Notably, the primary divergence of morphology and phylogeny among the investigated spruces tended to be driven by different selective pressures. Given the climate scenario of severe and widespread drought over land areas in the next 30–90 years, our findings shed light on the prediction of spruce distribution under future climate change.",
+    "readLink": "http://www.biogeosciences.net/14/2307/2017/bg-14-2307-2017.pdf"
+  },
+  {
+    "title": "Which are the highest peaks in the US Arctic? Fodar settles the debate",
+    "authors": [
+      "M. Nolan,",
+      "K. DesLauriers"
+    ],
+    "doi": "https://doi.org/10.5194/tc-10-1245-2016",
+    "journalVolume": "Vol. 10,\n                                no. 3\n                                \n                                  pp.\n                                  1245\n                                  – 1257",
+    "issn": "1994-0416 (Print)",
+    "publisher": "1994-0424 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.the-cryosphere.net/",
+    "abstract": "Though an outstanding achievement for their time, the United States Geological Survey (USGS) topographic maps of the eastern Alaskan Arctic nonetheless contain significant errors, and in this paper we address one of them. Specifically, USGS maps of different scale made in the late 1950s alternate between Mt. Chamberlin and Mt. Isto as the tallest peak in the US Arctic. Given that many of the peaks here are close in height and covered with glaciers, recent climate change may also have changed their height and their order. We resolved these questions using fodar, a new airborne photogrammetric technique that utilizes structure-from-motion (SfM) software and requires no ground control, and validated it using GPS measurements on the peaks as well as airborne lidar. Here we show that Mt. Chamberlin is currently the third tallest peak and that the order and elevations of the five tallest mountains in the US Arctic are Mt. Isto (2735.6 m), Mt. Hubley (2717.6 m), Mt. Chamberlin (2712.3 m), Mt. Michelson (2698.1 m), and an unnamed peak (2694.9 m); these heights are relative to the NAVD88 GEOID12A vertical datum. We find that it is indeed plausible that this ranking has changed over time and may continue to change as summit glaciers continue to shrink, though Mt. Isto will remain the highest under current climate trends. Mt. Isto is also over 100 m taller than the highest peak in Arctic Canada, making it the highest peak in the North American Arctic. Fodar elevations compared to within a few centimeters of our ground-based GPS measurements of the peaks made a few days later and our complete validation assessment indicates a measurement uncertainty of better than ±20 cm (95 % RMSE). By analyzing time series of fodar maps, we were able to detect topographic change on the centimeter level on these steep slopes, indicating that fodar can be used to measure mountain snow packs for water resource availability or avalanche danger, glacier volume change, and slope subsidence, as well as many other applications of benefit to society. Compared to lidar, the current state-of-the-art airborne topographic mapping, we found this SfM technique as accurate, more useful scientifically, and significantly less expensive, suggesting that fodar is a disruptive innovation that will enjoy widespread usage in the future.",
+    "readLink": "http://www.the-cryosphere.net/10/1245/2016/tc-10-1245-2016.pdf"
+  },
+  {
+    "title": "Weathering adaptation: Grid infrastructure planning in a changing climate",
+    "authors": [
+      "Anna M. Brockway,",
+      "Laurel N. Dunn"
+    ],
+    "doi": "Vol. 30\n                                \n                                \n                                  p.\n                                  100256",
+    "issn": "2212-0963 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/climate-risk-management/",
+    "abstract": "Decisions related to electric power systems planning and operations rely on assumptions and insights informed by historic weather data and records of past performance. Evolving climate trends are, however, changing the energy use patterns and operating conditions of grid assets, thus altering the nature and severity of risks the system faces. Because grid assets remain in operation for decades, planning for evolving risks will require incorporating climate projections into grid infrastructure planning processes. The current work traces a pathway for climate-aware decision-making in the electricity sector. We evaluate the suitability of using existing climate models and data for electricity planning and discuss their limitations. We review the interactions between grid infrastructure and climate by synthesizing what is known about how changing environmental operating conditions would impact infrastructure utilization, constraints, and performance. We contextualize our findings by presenting a case study of California, examining if and where climate data can be integrated into infrastructure planning processes. The core contribution of the work is a series of nine recommendations detailing advancements in climate projections, grid modeling architecture, and disaster preparedness that would be needed to ensure that infrastructure planning decisions are robust to uncertainty and risks associated with evolving climate conditions.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2212096320300462"
+  },
+  {
+    "title": "The Potential and Challenges of Using Soil Moisture Active Passive (SMAP) Sea Surface Salinity to Monitor Arctic Ocean Freshwater Changes",
+    "authors": [
+      "Wenqing Tang,",
+      "Simon Yueh,",
+      "Daqing Yang,",
+      "Alexander Fore,",
+      "Akiko Hayashi,",
+      "Tong Lee,",
+      "Severine Fournier,",
+      "Benjamin Holt"
+    ],
+    "doi": "https://doi.org/10.3390/rs10060869",
+    "journalVolume": "Vol. 10,\n                                no. 6\n                                \n                                  p.\n                                  869",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Sea surface salinity (SSS) links various components of the Arctic freshwater system. SSS responds to freshwater inputs from river discharge, sea ice change, precipitation and evaporation, and oceanic transport through the open straits of the Pacific and Atlantic oceans. However, in situ SSS data in the Arctic Ocean are very sparse and insufficient to depict the large-scale variability to address the critical question of how climate variability and change affect the Arctic Ocean freshwater. The L-band microwave radiometer on board the NASA Soil Moisture Active Passive (SMAP) mission has been providing SSS measurements since April 2015, at approximately 60 km resolution with Arctic Ocean coverage in 1–2 days. With improved land/ice correction, the SMAP SSS algorithm that was developed at the Jet Propulsion Laboratory (JPL) is able to retrieve SSS in ice-free regions 35 km of the coast. SMAP observes a large-scale contrast in salinity between the Atlantic and Pacific sides of the Arctic Ocean, while retrievals within the Arctic Circle vary over time, depending on the sea ice coverage and river runoff. We assess the accuracy of SMAP SSS through comparative analysis with in situ salinity data collected by Argo floats, ships, gliders, and in field campaigns. Results derived from nearly 20,000 pairs of SMAP and in situ data North of 50°N collocated within a 12.5-km radius and daily time window indicate a Root Mean Square Difference (RMSD) less than ~1 psu with a correlation coefficient of 0.82 and a near unity regression slope over the entire range of salinity. In contrast, the Hybrid Coordinate Ocean Model (HYCOM) has a smaller RMSD with Argo. However, there are clear systematic biases in the HYCOM for salinity in the range of 25–30 psu, leading to a regression slope of about 0.5. In the region North of 65°N, the number of collocated samples drops more than 70%, resulting in an RMSD of about 1.2 psu. SMAP SSS in the Kara Sea shows a consistent response to discharge anomalies from the Ob’ and Yenisei rivers between 2015 and 2016, providing an assessment of runoff impact in a region where no in situ salinity data are available for validation. The Kara Sea SSS anomaly observed by SMAP is missing in the HYCOM SSS, which assimilates climatological runoffs without interannual changes. We explored the feasibility of using SMAP SSS to monitor the sea surface salinity variability at the major Arctic Ocean gateways. Results show that although the SMAP SSS is limited to about 1 psu accuracy, many large salinity changes are observable. This may lead to the potential application of satellite SSS in the Arctic monitoring system as a proxy of the upper ocean layer freshwater exchanges with subarctic oceans.",
+    "readLink": "http://www.mdpi.com/2072-4292/10/6/869"
+  },
+  {
+    "title": "Energy Use of Mediterranean Forest Biomass in Sustainable Public Heating Systems and its Effects on Climate Change – Case of Study",
+    "authors": [
+      "Juan José Mayans,",
+      "José A. Torrent-Bravo,",
+      "Leticia Lopéz"
+    ],
+    "doi": "https://doi.org/10.14710/ijred.2021.34276",
+    "journalVolume": "Vol. 10,\n                                no. 2\n                                \n                                  pp.\n                                  229\n                                  – 238",
+    "issn": "2252-4940 (Print)",
+    "publisher": "Diponegoro University",
+    "countryOfPublisher": "Indonesia",
+    "lcc": [
+      "Technology: Mechanical engineering and machinery: Renewable energy sources"
+    ],
+    "journalUrl": "http://ejournal.undip.ac.id/index.php/ijred",
+    "abstract": "The municipality of Serra, Valencia, located in the Spanish Mediterranean east coast, covers an area of 5,730 hectares, with 95% of this territory lying within the Sierra Calderona Natural Park and 85% being forest. The main axis of the municipality’s economy has been the construction, reducing the primary sector, resulting in uncontrolled growth of forest and deterioration of the landscape. All this has raised forest fire risk to dangerous levels threatening the natural heritage of Serra and the future of the Serra Calderona Natural Park. The study shows how an adequate model of forest biomass management, through energetic use in sustainable public heating systems, can have positive direct effects in the fight against climate change, considering both economics aspects and environmental effects, and its capacity to contribute to the socioeconomic development of agro forestry regions, fixing its habitants and offering a rural development based on the rational use of their natural resources",
+    "readLink": "https://ejournal.undip.ac.id/index.php/ijred/article/view/34276"
+  },
+  {
+    "title": "Changing Trends in Temperatures and Rainfalls in the Western Pacific: Guam",
+    "authors": [
+      "Myeong-Ho Yeo,",
+      "Ujwalkumar D. Patil,",
+      "Adriana Chang,",
+      "Romina King"
+    ],
+    "doi": "https://doi.org/10.3390/cli11040081",
+    "journalVolume": "Vol. 11,\n                                no. 81\n                                \n                                  p.\n                                  81",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Pacific islands have always been at the front of the great challenge of climate change. In this study, Mann–Kendall’s tau-based slope estimator was implemented to detect statistical trends in daily maximum and minimum temperatures of 2 stations and daily rainfalls at 14 stations over Guam for the period of 1953–2021, respectively, with 17 climate change detection indices. Mann–Kendall tests were implemented to the detection indices with respect to different time frames (i.e., annual, two-seasonal, and four-seasonal). The p-values from Mann–Kendall tests were used to determine the strength of trends, and Sen’s slopes were applied for the magnitudes of trends. The temperature trend analysis results indicate that Guam’s climate is getting warmer year by year. The increasing magnitudes of a seasonal maximum of daily maximum temperatures during the dry season are 0.036 °C/year for the dry season and 0.025 °C/year for the wet season at Anderson Airforce Base, while 0.031 °C/year and 0.023 °C/year for the dry and wet seasons at Guam International Airport. Trend analyses for temperatures have indicated that temperature during April through June has been increasing rapidly compared to other seasons. Strong trends in seasonal total rainfall amounts and the number of wet days were observed from July through December. The increasing trends in extreme rainfall indices during January–March and July–September periods would aggravate water quality due to the more sediments since important ecological reserve areas and coral reef areas are linked to watersheds in southern Guam.",
+    "readLink": "https://www.mdpi.com/2225-1154/11/4/81"
+  },
+  {
+    "title": "Phytosociological studies of the forests with sessile oak and Norway spruce from South-Eastern Transylvania",
+    "authors": [
+      "Adrian Indreica,",
+      "Mihai Kelemen"
+    ],
+    "doi": "Vol. 54,\n                                no. 1\n                                \n                                  pp.\n                                  73\n                                  – 88",
+    "issn": "1844-8135 (Print)",
+    "publisher": "2065-2445 (Online)",
+    "countryOfPublisher": "‘Marin Drăcea’ National Research-Development Institute in Forestry",
+    "lcc": [
+      "Romania",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://www.afrjournal.org",
+    "abstract": "The forests with sessile oak (Quercus petraea) and Norway spruce (Picea abies) from south-eastern Transylvania represent a peculiar type of phytocenoses, rather unusual for the present-day vegetation of Romania’s territory. Aim of the study is to provide a detailed description of the vegetation and to identify the phytosociological and typological units to which it could belong. Beside this, stand structure and regeneration status of the main tree species are illustrated. The studied area is located around Carpathian intermountain depressions Braşov and Ciuc, where vegetation had a peculiar history and today sessile oak forests on high altitude exists, interfering with spruce forests. The hypothesis of the process naturalness is supported by vegetation history in the area, climate, stand structure and peculiarities of herb layer composition (the mixture of relic of both mountain-boreal origin and south-European origin, like Vaccinium vitis-idaea, Pyrola rotundifolia and respectively Potentilla micrantha, Lathyrus venetus respectively. Sintaxonomically, studied phytocenoses with sessile oak and spruce belong mainly to acidophilus oak forests (Luzulo luzuloidis-Quercetum petraeae), but some of them resemble oak-hornbeam forests (Carici pilosae-Carpinetum), indicating a more recent change in stand structure and suggesting that not the soil, but the climate is the driving force of succession. Regeneration of sessile oak is at least satisfactory, but the expansion of spruce in such stands could seriously restrict the survival of sessile oak. A new typological unit will be appropriate,for a better management of sessile oak forests with spruce admixture.",
+    "readLink": "http://www.editurasilvica.ro/afr/54/1/indreica.pdf"
+  },
+  {
+    "title": "SIZING PHOTOVOLTAIC SYSTEM IN DUHOK PROVINCE, KURDISTAN REGION OF IRAQ",
+    "authors": [
+      "FARHAN K. KABAO,",
+      "Omar S. Omar"
+    ],
+    "doi": "https://doi.org/10.25271/sjuoz.2023.11.3.1098",
+    "journalVolume": "Vol. 11,\n                                no. 3",
+    "issn": "2663-628X (Print)",
+    "publisher": "2663-6298 (Online)",
+    "countryOfPublisher": "University of Zakho",
+    "lcc": [
+      "Iraq",
+      "Science"
+    ],
+    "journalUrl": "https://sjuoz.uoz.edu.krd/",
+    "abstract": "Using clean energy sources instead of traditional methods of energy production is important to tackle global warming and climate change. As in the rest cities of the Kurdistan Region and Iraq, the national electricity outage crisis continues in Duhok Governorate and the production of energy via different sources is still needed. This paper studies the simulation of two different types of solar energy systems on school roofs using the Homer Pro software. The first is a grid-connected system and the second, is an off-grid system for six different regions of Duhok Governorate, using the solar radiation data for each site. Our findings confirm the preference for on-grid PV over an off-grid PV system at all sites. As the cost of energy in USD per kWh in both grid-tied and stand-alone models varies from one region to another, which is as follows: Amedi (0.089, 0.339), Kani Masi (0.091, 0.0338), Bamarni (0.093, 0.338), Mangesh (0.095, 0.349), Semel (0.107, 0.341), and Akre (0.127, 0.347). The net present cost NPC in both grid-connected and grid-independent for 160 kW PV systems is as follows: Kani Masi ($217303, $260504), Amedi ($217621, $260710), Bamarni ($219007, $260587), Mangesh ($220167, $261239), Semel ($227566, $261222), and finally Akre ($238671, $262203).",
+    "readLink": "https://sjuoz.uoz.edu.krd/index.php/sjuoz/article/view/1098"
+  }
+]

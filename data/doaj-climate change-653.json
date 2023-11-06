@@ -1,0 +1,216 @@
+[
+  {
+    "title": "How long will an Arctic mountain glacier survive? A case study of Austre Lovénbreen, Svalbard",
+    "authors": [
+      "Zemin Wang,",
+      "Guobiao Lin,",
+      "Songtao Ai"
+    ],
+    "doi": "https://doi.org/10.33265/polar.v38.3519",
+    "journalVolume": "Vol. 38,\n                                no. 0\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "0800-0395 (Print)",
+    "publisher": "1751-8369 (Online)",
+    "countryOfPublisher": "Norwegian Polar Institute",
+    "lcc": [
+      "Norway",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "https://polarresearch.net/index.php/polar/index",
+    "abstract": "To study Arctic valley glacier responses to global climate change, the Elmer/Ice ice-flow model was used to investigate long-term changes in Austre Lovénbreen, a typical polythermal glacier in Svalbard. Evolution and features, including volume, area, ice thickness, runoff and time and mode of glacier disappearance, were projected. Firstly, steady-state simulations were performed to determine the best parameters for the ice-flow model, which were then used to simulate glacial dynamics. Based on the 21st-century Arctic warming trend in the fifth assessment report published by the Intergovernmental Panel on Climate Change, the evolution of the glacier was simulated under three hypothetical climatic scenarios: pessimistic, high-probability and optimistic. The results predicted that the glacier will retreat until disappearance under all three scenarios, and its disappearance time will likely be approximately 111 years (by 2120). Under all scenarios, glacier volume and area reductions will be slow at first, then fast and finally slow again at the end. In particular, glacial runoff will increase markedly until 2070 in the high-probability scenario, and the peak runoff will be double the current value.",
+    "readLink": "https://polarresearch.net/index.php/polar/article/view/3519/9950"
+  },
+  {
+    "title": "Factors determining generalization in deep learning models for scoring COVID-CT images",
+    "authors": [
+      "Michael James Horry,",
+      "Subrata Chakraborty,",
+      "Biswajeet Pradhan,",
+      "Maryam Fallahpoor ,",
+      "Hossein Chegeni,",
+      "Manoranjan Paul"
+    ],
+    "doi": "https://doi.org/10.3934/mbe.2021456",
+    "journalVolume": "Vol. 18,\n                                no. 6\n                                \n                                  pp.\n                                  9264\n                                  – 9293",
+    "issn": "1551-0018 (Online)",
+    "publisher": "AIMS Press",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Chemical technology: Biotechnology",
+      "Science: Mathematics"
+    ],
+    "journalUrl": "https://www.aimspress.com/journal/MBE",
+    "abstract": "The COVID-19 pandemic has inspired unprecedented data collection and computer vision modelling efforts worldwide, focused on the diagnosis of COVID-19 from medical images. However, these models have found limited, if any, clinical application due in part to unproven generalization to data sets beyond their source training corpus. This study investigates the generalizability of deep learning models using publicly available COVID-19 Computed Tomography data through cross dataset validation. The predictive ability of these models for COVID-19 severity is assessed using an independent dataset that is stratified for COVID-19 lung involvement. Each inter-dataset study is performed using histogram equalization, and contrast limited adaptive histogram equalization with and without a learning Gabor filter. We show that under certain conditions, deep learning models can generalize well to an external dataset with F1 scores up to 86%. The best performing model shows predictive accuracy of between 75% and 96% for lung involvement scoring against an external expertly stratified dataset. From these results we identify key factors promoting deep learning generalization, being primarily the uniform acquisition of training images, and secondly diversity in CT slice position.",
+    "readLink": "https://www.aimspress.com/article/doi/10.3934/mbe.2021456?viewType=HTML"
+  },
+  {
+    "title": "How fire history, fire suppression practices and climate change affect wildfire regimes in Mediterranean landscapes.",
+    "authors": [
+      "Lluís Brotons,",
+      "Núria Aquilué,",
+      "Miquel de Cáceres,",
+      "Marie-Josée Fortin,",
+      "Andrew Fall"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0062392",
+    "journalVolume": "Vol. 8,\n                                no. 5\n                                \n                                  p.\n                                  e62392",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Available data show that future changes in global change drivers may lead to an increasing impact of fires on terrestrial ecosystems worldwide. Yet, fire regime changes in highly humanised fire-prone regions are difficult to predict because fire effects may be heavily mediated by human activities We investigated the role of fire suppression strategies in synergy with climate change on the resulting fire regimes in Catalonia (north-eastern Spain). We used a spatially-explicit fire-succession model at the landscape level to test whether the use of different firefighting opportunities related to observed reductions in fire spread rates and effective fire sizes, and hence changes in the fire regime. We calibrated this model with data from a period with weak firefighting and later assess the potential for suppression strategies to modify fire regimes expected under different levels of climate change. When comparing simulations with observed fire statistics from an eleven-year period with firefighting strategies in place, our results showed that, at least in two of the three sub-regions analysed, the observed fire regime could not be reproduced unless taking into account the effects of fire suppression. Fire regime descriptors were highly dependent on climate change scenarios, with a general trend, under baseline scenarios without fire suppression, to large-scale increases in area burnt. Fire suppression strategies had a strong capacity to compensate for climate change effects. However, strong active fire suppression was necessary to accomplish such compensation, while more opportunistic fire suppression strategies derived from recent fire history only had a variable, but generally weak, potential for compensation of enhanced fire impacts under climate change. The concept of fire regime in the Mediterranean is probably better interpreted as a highly dynamic process in which the main determinants of fire are rapidly modified by changes in landscape, climate and socioeconomic factors such as fire suppression strategies.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23658726/?tool=EBI"
+  },
+  {
+    "title": "Monitoring Grassland Management Effects on Soil Organic Carbon—A Matter of Scale",
+    "authors": [
+      "Alexandra Crème,",
+      "Cornelia Rumpel,",
+      "Sparkle  L. Malone,",
+      "Nicolas  P. A. Saby,",
+      "Emmanuelle Vaudour,",
+      "Marie-Laure Decau,",
+      "Abad Chabbi"
+    ],
+    "doi": "https://doi.org/10.3390/agronomy10122016",
+    "journalVolume": "Vol. 10,\n                                no. 2016\n                                \n                                  p.\n                                  2016",
+    "issn": "2073-4395 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/agronomy",
+    "abstract": "Introduction of temporary grasslands into cropping cycles could be a sustainable management practice leading to increased soil organic carbon (SOC) to contribute to climate change adaption and mitigation. To investigate the impact of temporary grassland management practices on SOC storage of croplands, we used a spatially resolved sampling approach combined with geostatistical analyses across an agricultural experiment. The experiment included blocks (0.4- to 3-ha blocks) of continuous grassland, continuous cropping and temporary grasslands with different durations and N-fertilizations on a 23-ha site in western France. We measured changes in SOC storage over this 9-year experiment on loamy soil and investigated physicochemical soil parameters. In the soil profiles (0–90 cm), SOC stocks ranged from 82.7 to 98.5 t ha−1 in 2005 and from 81.3 to 103.9 t ha−1 in 2014. On 0.4-ha blocks, the continuous grassland increased SOC in the soil profile with highest gains in the first 30 cm, while losses were recorded under continuous cropping. Where temporary grasslands were introduced into cropping cycles, SOC stocks were maintained. These observations were only partly confirmed when changing the scale of observation to 3-ha blocks. At the 3-ha scale, most grassland treatments exhibited both gains and losses of SOC, which could be partly related to soil physicochemical properties. Overall, our data suggest that both management practices and soil characteristics determine if carbon will accumulate in SOC pools. For detailed understanding of SOC changes, a combination of measurements at different scales is necessary.",
+    "readLink": "https://www.mdpi.com/2073-4395/10/12/2016"
+  },
+  {
+    "title": "The Protein Losses of Three Major Cereal Crops by Natural Disasters in China From 1988 to 2020",
+    "authors": [
+      "Dongmei Huang,",
+      "Yifei Chen,",
+      "Pinghua Chen,",
+      "Qingchang Zheng"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2022.884754",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "Natural disasters have a major detrimental impact on agricultural production. In recent decades, China has experienced more frequent natural disasters as a result of climate change. Although the spatial and temporal changes in natural disasters for individual catastrophic activities are well understood, the impact of several disasters on cereal crop productivity and subsequent quality loss remains unknown. Furthermore, due to the key significance of cereal in China’s daily diet, a decrease in cereal quality, namely protein, will have a detrimental effect on nutrient supply. To better understand the relationship between natural disasters and cereal crop food quality in China, we used province-level data from 1988 to 2020 to construct a dataset of natural disasters, crop production, and protein contents of cereal crops (rice, wheat, and maize). Our findings suggest that activities in areas affected by natural disasters have decreased dramatically since the 21st century, with changes in areas affected by such disasters varying by province. Between 1988 and 2020, the total protein losses from grain and straw harvests due to natural disasters were 11.93 and 391.27 million tons. Overall, the annual mean total protein loss in maize, rice, and wheat was 4,982.26, 5,055.4, and 4,200.34 thousand tons, respectively. Although was responsible for half of the protein losses in more than half of the provinces. Drought and floods accounted for 80% of the total area affected by all natural disasters.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2022.884754/full"
+  },
+  {
+    "title": "Underwater Optical Wireless Communication",
+    "authors": [
+      "Hemani Kaushal,",
+      "Georges Kaddoum"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2016.2552538",
+    "journalVolume": "Vol. 4\n                                \n                                \n                                  pp.\n                                  1518\n                                  – 1547",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "Underwater wireless information transfer is of great interest to the military, industry, and the scientific community, as it plays an important role in tactical surveillance, pollution monitoring, oil control and maintenance, offshore explorations, climate change monitoring, and oceanography research. In order to facilitate all these activities, there is an increase in the number of unmanned vehicles or devices deployed underwater, which require high bandwidth and high capacity for information transfer underwater. Although tremendous progress has been made in the field of acoustic communication underwater, however, it is limited by bandwidth. All this has led to the proliferation of underwater optical wireless communication (UOWC), as it provides higher data rates than the traditional acoustic communication systems with significantly lower power consumption and simpler computational complexities for short-range wireless links. UOWC has many potential applications ranging from deep oceans to coastal waters. However, the biggest challenge for underwater wireless communication originates from the fundamental characteristics of ocean or sea water; addressing these challenges requires a thorough understanding of complex physio-chemical biological systems. In this paper, the main focus is to understand the feasibility and the reliability of high data rate underwater optical links due to various propagation phenomena that impact the performance of the system. This paper provides an exhaustive overview of recent advances in UOWC. Channel characterization, modulation schemes, coding techniques, and various sources of noise which are specific to UOWC are discussed. This paper not only provides exhaustive research in underwater optical communication but also aims to provide the development of new ideas that would help in the growth of future underwater communication. A hybrid approach to an acousto-optic communication system is presented that complements the existing acoustic system, resulting in high data rates, low latency, and an energy-efficient system.",
+    "readLink": "https://ieeexplore.ieee.org/document/7450595/"
+  },
+  {
+    "title": "Combining Satellite Remote Sensing and Climate Data in Species Distribution Models to Improve the Conservation of Iberian White Oaks (<i>Quercus</i> L.)",
+    "authors": [
+      "Carlos Vila-Viçosa,",
+      "Salvador Arenas-Castro,",
+      "Bruno Marcos,",
+      "João Honrado,",
+      "Cristina García,",
+      "Francisco M. Vázquez,",
+      "Rubim Almeida,",
+      "João Gonçalves"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi9120735",
+    "journalVolume": "Vol. 9,\n                                no. 735\n                                \n                                  p.\n                                  735",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "The Iberian Peninsula hosts a high diversity of oak species, being a hot-spot for the conservation of European White Oaks (Quercus) due to their environmental heterogeneity and its critical role as a phylogeographic refugium. Identifying and ranking the drivers that shape the distribution of White Oaks in Iberia requires that environmental variables operating at distinct scales are considered. These include climate, but also ecosystem functioning attributes (EFAs) related to energy–matter exchanges that characterize land cover types under various environmental settings, at finer scales. Here, we used satellite-based EFAs and climate variables in species distribution models (SDMs) to assess how variables related to ecosystem functioning improve our understanding of current distributions and the identification of suitable areas for White Oak species in Iberia. We developed consensus ensemble SDMs targeting a set of thirteen oaks, including both narrow endemic and widespread taxa. Models combining EFAs and climate variables obtained a higher performance and predictive ability (true-skill statistic (TSS): 0.88, sensitivity: 99.6, specificity: 96.3), in comparison to the climate-only models (TSS: 0.86, sens.: 96.1, spec.: 90.3) and EFA-only models (TSS: 0.73, sens.: 91.2, spec.: 82.1). Overall, narrow endemic species obtained higher predictive performance using combined models (TSS: 0.96, sens.: 99.6, spec.: 96.3) in comparison to widespread oaks (TSS: 0.80, sens.: 92.6, spec.: 87.7). The Iberian White Oaks show a high dependence on precipitation and the inter-quartile range of Normalized Difference Water Index (NDWI) (i.e., seasonal water availability) which appears to be the most important EFA variable. Spatial projections of climate–EFA combined models contribute to identify the major diversity hotspots for White Oaks in Iberia, holding higher values of cumulative habitat suitability and species richness. We discuss the implications of these findings for guiding the long-term conservation of Iberian White Oaks and provide spatially explicit geospatial information about each oak species (or set of species) relevant for developing biogeographic conservation frameworks.",
+    "readLink": "https://www.mdpi.com/2220-9964/9/12/735"
+  },
+  {
+    "title": "Warming in Cold Seasons Increases the Abundance of Ground-Dwelling Collembola in Permafrost Wetlands",
+    "authors": [
+      "Shaoqing Zhang,",
+      "Zhijing Xie,",
+      "Yongjing Dou,",
+      "Xin Sun,",
+      "Liang Chang,",
+      "Donghui Wu"
+    ],
+    "doi": "https://doi.org/10.3390/insects14010033",
+    "journalVolume": "Vol. 14,\n                                no. 33\n                                \n                                  p.\n                                  33",
+    "issn": "2075-4450 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/insects/",
+    "abstract": "The consideration of environmental factors has long been crucial to developing theories about the spatial variability of species diversity. However, the effects of global warming on Collembola, in permafrost wetlands, are largely unknown. Understanding how Collembola are affected by climate warming is important as they directly affect the community assembly and decomposition processes of plant litter within soil ecosystems. A peatland area in a cold temperate monsoon climate zone in the Great Hing’an Mountains of Northeast China was selected as the study area. Collembola were captured using an aspirator after five years of simulated warming using open top chambers (OTCs). Sampling in different growth seasons showed different characteristics in the control (CK) and warming (OTCs) treatment. Further, the results showed that (1) warming treatment increased the species richness and abundance of Collembola in the different seasons, except in May, (2) warming increased Collembola abundance in permafrost wetlands, and the warming effect was more significant during the cold season (about eight times in April), (3) species composition differed significantly in the control and warming treatment in May and September, and (4) the Collembola species composition in permafrost wetlands was mainly determined by air humidity, indicating different responses of Collembola species to the indirect effect of warming on water availability. We found that warming was the primary factor positively affecting the abundance of Collembola. An increase of Collembola abundance and community alteration to warming could have profound cascading effects on the microbes and plants they feed on in permafrost wetlands.",
+    "readLink": "https://www.mdpi.com/2075-4450/14/1/33"
+  },
+  {
+    "title": "Impact of Global Warming on Coral Reefs",
+    "authors": [
+      "Sirilak CHUMKIEW,",
+      "Mullica JAROENSUTASINEE,",
+      "Krisanadej JAROENSUTASINEE"
+    ],
+    "doi": "https://doi.org/10.2004/wjst.v8i2.17",
+    "journalVolume": "Vol. 8,\n                                no. 2",
+    "issn": "1686-3933 (Print)",
+    "publisher": "2228-835X (Online)",
+    "countryOfPublisher": "Walailak University",
+    "lcc": [
+      "Thailand",
+      "Technology: Technology (General)",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://wjst.wu.ac.th/index.php/wjst/index",
+    "abstract": "In this paper, we review coral reef responses to climate variability and discuss the possible mechanisms by which climate impacts the coral reef ecosystem. Effects of oceanographic variables such as sea temperature, turbulence, salinity, and nutrients on the coral reef are discussed in terms of their influence on coral growth, reproduction, mortality, acclimation and adaptation. Organisms tend to be limited to specific thermal ranges with experimental findings showing that sufficient oxygen supply by ventilation and circulation only occurs within these ranges. Indirect effects of climate change on the food web are also discussed. Further integrative studies are required to improve our knowledge of the processes linking coral reef responses to future climate change scenarios. Graphical abstract ► Incidence of coral reef bleaching on a worldwide scale: location of bleaching reports during 1979 - 2010. Maps are from ReefBase, www.reefbase.org: 1, Arabian Gulf (United Arab Emirates, Qatar, Iran); 2, Red Sea; 3, east Africa; 4, southern Africa (Mozambique, South Africa); 5, Madagascar; 6, Mauritius, Reunion; 7, Seychelles; 8, Chagos; 9, Maldives; 10, Sri Lanka/southern India; 11, Andaman Sea (Andamans, Thailand, Malaysia); 12, South China Sea (Vietnam, Paracel Islands); 13, Philippines; 14, Indonesia; 15, western Australia; 16, Great Barrier Reef; 17, Ryukyu Islands; 18, Mariana Islands; 19, Palau; 20, Papua New Guinea, Vanuatu; 21, Fiji; 22, Samoa; 23, French Polynesia (including Moorea); 24, Hawaiian Islands; 25, Easter Island; 26, Galapagos Islands; 27, equatorial eastern Pacific (Costa Rica, Cocos Island, Panama´, Colombia, Ecuador); 28, subtropical eastern Pacific (Mexico); 29, Mesoamerican reef system (Mexico, Belize, Honduras, Nicaragua); 30, Greater Antilles (Cuba, Haiti, Dominican Republic, Puerto Rico, Virgin Islands); 31, Bahamas, Florida; 32, Bermuda; 33, Lesser Antilles; 34, Curaçao, Aruba, Bonaire, Los Roques; 35, Brazil.",
+    "readLink": "http://wjst.wu.ac.th/index.php/wjst/article/view/17"
+  },
+  {
+    "title": "Assessment of climate change on wheat (Triticum aestivum) production using crop simulation under Indo-Gangetic Plains",
+    "authors": [
+      "MANVENDRA SINGH,",
+      "G C MISHRA,",
+      "R K MALL"
+    ],
+    "doi": "https://doi.org/10.56093/ijas.v92i3.122729",
+    "journalVolume": "Vol. 92,\n                                no. 3",
+    "issn": "0019-5022 (Print)",
+    "publisher": "2394-3319 (Online)",
+    "countryOfPublisher": "Indian Council of Agricultural Research",
+    "lcc": [
+      "India",
+      "Agriculture"
+    ],
+    "journalUrl": "https://epubs.icar.org.in/index.php/IJAgS/",
+    "abstract": "Climate change has very wide impact on different crops and cropping system. In north India crop like wheat also affected due to climate change. To assess the impact of climate change a study using CERES (Crop Environment Resource Synthesis) model was carried out at Kanpur, India. Three different levels of carbon dioxide (CO2) i.e. 450 ppm, 500 ppm and 550 ppm and two different levels of temperature (1ÌŠC and 2ÌŠC) and their interaction were used to study the impact of climate change on wheat production. The results revealed that different elevated levels of carbon dioxide concentration recorded higher production of wheat which ranges from 3â€“8%. Graded levels of temperatures caused drastic reduction in yield which ranges from 10â€“17%. Conjoint effect of temperature and carbon dioxide recorded yield losses from 1â€“16%.",
+    "readLink": "https://epubs.icar.org.in/index.php/IJAgS/article/view/122729"
+  }
+]

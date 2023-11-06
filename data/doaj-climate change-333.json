@@ -1,0 +1,229 @@
+[
+  {
+    "title": "RISK ASSESSMENT OF STEEP SLOPE USING DRONE MAPPING AND TERRESTRIAL LIDAR IN KOREA",
+    "authors": [
+      "S. S. Kim,",
+      "D. Y. Kim,",
+      "H. Nho"
+    ],
+    "doi": "https://doi.org/10.5194/isprs-archives-XLIV-3-W1-2020-81-2020",
+    "journalVolume": "Vol. XLIV-3-W1-2020\n                                \n                                \n                                  pp.\n                                  81\n                                  – 86",
+    "issn": "1682-1750 (Print)",
+    "publisher": "2194-9034 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Applied optics. Photonics"
+    ],
+    "journalUrl": "http://www.isprs.org/publications/archives.aspx",
+    "abstract": "Due to abnormal weather caused by climate change in recently years, natural disaster damages caused by local torrential rains have been increased over the world. Particularly, Korea is very vulnerable to landslide disasters because more than 63% of the country is mountainous and it suffers from unpredictable localized heavy rainfall during monsoon season every year. This paper presents experimental results for risk assessment of steep slope using drone mapping and terrestrial LiDAR survey. First, we acquired the aerial imagery of steep slope site by small UAV and conducted a drone mapping process with the Pix4D software. For collecting the more detailed geological data and analysing quantitatively damage of steep slopes (crack length, bedrock weathering area, etc.), we scanned steep slope area using terrestrial LiDAR system. Finally, we evaluated the applicability of public safety for outputs of UAV photogrammetry and 3D point clouds derived from terrestrial LiDAR data to analyse and assess the risk of steep slope.",
+    "readLink": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIV-3-W1-2020/81/2020/isprs-archives-XLIV-3-W1-2020-81-2020.pdf"
+  },
+  {
+    "title": "Variation of moisture content of some varnished woods in indoor climatic conditions",
+    "authors": [
+      "Kemal Üçüncü ,",
+      "Aytaç Aydın,",
+      "Abdulkadir Malkoçoğlu,",
+      "Nurgül Ay"
+    ],
+    "doi": "https://doi.org/10.17474/artvinofd.315555",
+    "journalVolume": "Vol. 18,\n                                no. 2\n                                \n                                  pp.\n                                  192\n                                  – 200",
+    "issn": "2146-698X (Online)",
+    "publisher": "Artvin Çoruh Üniversitesi",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://dergipark.gov.tr/artvinofd",
+    "abstract": "In this study, moisture change of varnished wood of black poplar (Populus nigra) and yellow pine (Pinus silvestris L.) used in indoor climate conditions with central heating in Trabzon (Turkey) were investigated. 300 mm length wood specimens, with cross section of 12.5 mm in tangential and in radial and with the square sections of 25mm and 50 mm, were obtained from two species grown in Kanuni Campus of the Karadeniz Technical University. In this research, un-varnished wood samples were also used for reference. The wood moisture content was determined by the weighing method, the wood equilibrium moisture content by the Hailwood-Horrobin equation, and the relative humidity in the indoor climatic conditions by humid air thermodynamic principles. As a result; it was observed that the moisture content of varnished wood samples has a strong relationship with equilibrium moisture content, temperature and relative humidity. It was found that the moisture content of varnished woods was higher than the moisture content of un-varnished woods in the same climatic conditions. It was observed that the difference between the monthly average moisture content was lower in varnished woods in proportion to un-varnished woods. According to these results, it can be indicated that it would be more appropriate to select higher moisture content in the drying of wood than the equilibrium moisture content. Such an application would also reduce drying costs. Further, it can be recommended to use varnished wood in various applications because the low change range of average moisture content can affect the swelling or shrinking of wood.",
+    "readLink": "http://ofd.artvin.edu.tr/issue/31062/315555"
+  },
+  {
+    "title": "RSImageNet: A Universal Deep Semantic Segmentation Lifecycle for Remote Sensing Images",
+    "authors": [
+      "Yiqing Qin,",
+      "Mingmin Chi"
+    ],
+    "doi": "https://doi.org/10.1109/ACCESS.2020.2986514",
+    "journalVolume": "Vol. 8\n                                \n                                \n                                  pp.\n                                  68254\n                                  – 68267",
+    "issn": "2169-3536 (Online)",
+    "publisher": "IEEE",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Technology: Electrical engineering. Electronics. Nuclear engineering"
+    ],
+    "journalUrl": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639",
+    "abstract": "In real applications, there is a lack of labeled data to train a proper deep neural network (DNN) model for map generation of remote sensing images. The aim of newly acquired data in spaceborne or airborne platforms is often to consistently observe the Earth for new tasks in the applications such as disaster monitoring, climate change, disease control. To fulfill the tasks, the corresponding classification maps should be obtained traditionally based on the assumption that a classification model should be learnt by the labeled data for the same task from the same scene or at least from the historical labeled remote sensing image pixels provided by domain experts in the same areas by the same sensor, which is denoted as labeled target data. In the paper, a universal deep semantic segmentation lifecycle is proposed against the assumption aforementioned, i.e., there is no need to have the labeled data for the same/similar task from the same locations and sensors to define a proper DNN model. In particular, a general labeled dataset is generated through a feature binding strategy in terms of real-world existed remote sensing images, which is named RSImageNet. In addition, a special training strategy is proposed by using the RSImageNet dataset to train a universal deep semantic segmentation model with a balanced constraint for the loss function. Without the labeled target data from the area observed, we gain an average overall accuracy of 77.32% in the range of 67.28–94.63% on 6 real world datasets by taking advantage of the proposed universal deep semantic segmentation lifecycle and the generated RSImageNet dataset.",
+    "readLink": "https://ieeexplore.ieee.org/document/9060909/"
+  },
+  {
+    "title": "Integrated sustainable transportation modelling approaches for electronic passenger vehicle in the context of industry 5.0",
+    "authors": [
+      "Sarah Qahtan,",
+      "H.A. Alsattar,",
+      "A.A. Zaidan,",
+      "Dragan Pamucar,",
+      "Muhammet Deveci"
+    ],
+    "doi": "Vol. 7,\n                                no. 4\n                                \n                                  p.\n                                  100277",
+    "issn": "2444-569X (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Spain",
+    "lcc": [
+      "General Works: History of scholarship and learning. The humanities",
+      "Social Sciences: Social sciences (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/journal-of-innovation-and-knowledge",
+    "abstract": "Globally, governments are contributing to the four main concerns of this century, namely, boosting urban air quality, halting climate change, ensuring energy security and mitigating human health issues associated with air pollution. These concerns are primarily driven by the transportation industry 5.0. Sustainable transportation in the context of Industry 5.0 considers three factors, namely, economic, environmental and social developments, one of which is a conversion to electric vehicles (EVs) as a mode of transportation industry 5.0. Therefore, significant efforts are being exerted to integrate sustainable transportation modelling approaches (ISTMA) for electronic passenger vehicle (EPV) supportive industry 5.0. Selecting the most sustainable ISTMA for EPV in the context of Industry 5.0 is a crucial decision in sustainable transportation industry 5.0 and fell under the multi-criteria decision-making (MCDM) problem due to the five fundamental issues, namely, multiple evaluation criteria, the varying priorities of these criteria, the presence of several levels of criteria diminishes the weight of criteria with sub-criteria, criteria trade-offs and data variation. In this paper, a novel ISTMAs for EPV benchmarking that integrates probabilistic hesitant fuzzy set-fuzzy-weighted zero-inconsistency (P-H-FWZIC) and multiplicative multi-objective Optimisation by ratio analysis (MULTIMOORA) methods are proposed on the basis of the established scoring decision matrix. The proposed integrated methods are used in the first stage to establish decision matrices based on the intersection of the sub-levels of criteria with ISTMAs for EPV using feed-forward data presentation and backward scoring process (BSP) procedures, on this basis, a scoring decision matrix based on intersection between the sustainability in the context of Industry 5.0 and other main criteria with ISTMAs for EPV is established. P-H-FWZIC method is used to accomplish multiple functions, including the evaluation of market share (MS) criterion and weighting the criteria. MULTIMOORA method is used to accomplish multiple functions, including the establishing of scoring decision matrix and the benchmarking of ISTMAs for EPV. A total of ISTMAs for EPV are evaluated and benchmarked on the basis of the identified main criteria with respect to sub levels of criteria. According to the P-H-FWZIC results, the Sus (Sustainability) criterion receives the highest priority with weight value of (0.4722), followed by the SS (Supply Side) and DS (Demand Side) criteria with weight values of (0.3667), and (0.1612), respectively. The MULTIMOORA results reveal that ISTMA1, ISTMA7 and ISTMA2 are the top three sustainable approaches for EPV in the context of Industry 5.0. Lastly, the reliability of the integrated MCDM methods is validated and evaluated using sensitivity analysis and the Spearman correlation coefficient test as well as comparison analysis.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2444569X22001123"
+  },
+  {
+    "title": "Can Industrial Co-Agglomeration between Producer Services and Manufacturing Reduce Carbon Intensity in China?",
+    "authors": [
+      "Tuochen Li,",
+      "Dongri Han,",
+      "Shaosong Feng,",
+      "Lei Liang"
+    ],
+    "doi": "https://doi.org/10.3390/su11154024",
+    "journalVolume": "Vol. 11,\n                                no. 15\n                                \n                                  p.\n                                  4024",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Climate change poses unprecedented challenges for humanity. Reducing carbon intensity is an inevitable choice for tackling climate change and promoting sustainable development. China has made some emission reduction commitments in the international community to promote the decoupling of China’s economic development from carbon emissions. The realization of the industrial structure from the “single-wheel drive” of the manufacturing to the “two-wheel drive” economic development model of the service industry and the manufacturing has become a key measure to achieve China’s economic intensive development. According to resource misallocation situation in different regions, this paper explored the impact of the collaborative agglomeration between producer services and manufacturing (hereinafter referred to as industrial co-agglomeration) on carbon intensity. The research results show that the carbon intensity is decreasing year by year, and the degree of intensification of China’s economic growth continues to increase. Moreover, the effect of industrial co-agglomeration to promote carbon emission reduction is significantly limited by the degree of misallocated resources, and there is a double threshold effect. Specifically, in areas where resource allocation is reasonable, industrial co-agglomeration can produce significant agglomeration effects and promote carbon intensity reduction. Once the degree of misallocated resources exceeds a threshold level, the agglomeration effect will turn into a crowding effect, resulting in an inability to reduce carbon intensity. We comprehensively analyzed the driving factors for reducing carbon intensity and proposed policy pathways for achieving China’s carbon intensity target.",
+    "readLink": "https://www.mdpi.com/2071-1050/11/15/4024"
+  },
+  {
+    "title": "Responses of sequential and hierarchical phenological events to warming and cooling in alpine meadows",
+    "authors": [
+      "Xine Li,",
+      "Lili Jiang,",
+      "Fandong Meng,",
+      "Shiping Wang,",
+      "Haishan Niu,",
+      "Amy M. Iler,",
+      "Jichuan Duan,",
+      "Zhenhua Zhang,",
+      "Caiyun Luo,",
+      "Shujuan Cui,",
+      "Lirong Zhang,",
+      "Yaoming Li,",
+      "Qi Wang,",
+      "Yang Zhou,",
+      "Xiaoying Bao,",
+      "Tsechoe Dorji,",
+      "Yingnian Li,",
+      "Josep Peñuelas,",
+      "Mingyuan Du,",
+      "Xinquan Zhao,",
+      "Liang Zhao,",
+      "Guojie Wang"
+    ],
+    "doi": "https://doi.org/10.1038/ncomms12489",
+    "journalVolume": "Vol. 7,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 8",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Describing changes in the timing of life history events is critical to understanding effects of climate change. Wang et al. relocated plant communities up and down elevation gradients and found that warming lengthened the reproductive and activity phases, while cooling reduced the vegetative and reproductive phases.",
+    "readLink": "https://doi.org/10.1038/ncomms12489"
+  },
+  {
+    "title": "Pathogenicity of <named-content content-type=\"genus-species\">Serratia marcescens</named-content> Strains in Honey Bees",
+    "authors": [
+      "Kasie Raymann,",
+      "Kerri L. Coon,",
+      "Zack Shaffer,",
+      "Stephen Salisbury,",
+      "Nancy A. Moran"
+    ],
+    "doi": "https://doi.org/10.1128/mBio.01649-18",
+    "journalVolume": "Vol. 9,\n                                no. 5",
+    "issn": "2161-2129 (Print)",
+    "publisher": "2150-7511 (Online)",
+    "countryOfPublisher": "American Society for Microbiology",
+    "lcc": [
+      "United States",
+      "Science: Microbiology"
+    ],
+    "journalUrl": "https://journals.asm.org/journal/mbio",
+    "abstract": "ABSTRACT Although few honey bee diseases are known to be caused by bacteria, pathogens of adult worker bees may be underrecognized due to social immunity mechanisms. Specifically, infected adult bees typically abandon the hive or are removed by guards. Serratia marcescens, an opportunistic pathogen of many plants and animals, is often present at low abundance in the guts of honey bee workers and has recently been isolated from Varroa mites and from the hemolymph of dead and dying honey bees. However, the severity and prevalence of S. marcescens pathogenicity in honey bees have not been fully investigated. Here we characterized three S. marcescens strains isolated from the guts of honey bees and one previously isolated from hemolymph. In vivo tests confirmed that S. marcescens is pathogenic in workers. All strains caused mortality when a few cells were injected into the hemocoel, and the gut-isolated strains caused mortality when administered orally. In vitro assays and comparative genomics identified possible mechanisms of virulence of gut-associated strains. Expression of antimicrobial peptide and phenoloxidase genes was not elevated following infection, suggesting that these S. marcescens strains derived from honey bees can evade the immune response in their hosts. Finally, surveys from four locations in the United States indicated the presence of S. marcescens in the guts of over 60% of the worker bees evaluated. Taken together, these results suggest that S. marcescens is a widespread opportunistic pathogen of adult honey bees and that it may be highly virulent under some conditions such as perturbation of the normal gut microbiota or the presence of Varroa mites that puncture the integument, thereby enabling entry of bacterial cells. IMPORTANCE Recently, it has become apparent that multiple factors are responsible for honey bee decline, including climate change, pests and pathogens, pesticides, and loss of foraging habitat. Of the large number of pathogens known to infect honey bees, very few are bacteria. Because adult workers abandon hives when diseased, many of their pathogens may go unnoticed. Here we characterized the virulence of Serratia marcescens strains isolated from honey bee guts and hemolymph. Our results indicate that S. marcescens, an opportunistic pathogen of many plants and animals, including humans, is a virulent opportunistic pathogen of honey bees, which could contribute to bee decline. Aside from the implications for honey bee health, the discovery of pathogenic S. marcescens strains in honey bees presents an opportunity to better understand how opportunistic pathogens infect and invade hosts.",
+    "readLink": "https://journals.asm.org/doi/10.1128/mBio.01649-18"
+  },
+  {
+    "title": "Unpleasant Lessons from the Settlement of the West: Implications for the WAEA and Other Professional Associations",
+    "authors": [
+      "Russell Tronstad"
+    ],
+    "doi": "https://doi.org/10.22004/ag.econ.119156",
+    "journalVolume": "Vol. 36,\n                                no. 3\n                                \n                                  pp.\n                                  433\n                                  – 447",
+    "issn": "1068-5502 (Print)",
+    "publisher": "2327-8285 (Online)",
+    "countryOfPublisher": "Western Agricultural Economics Association",
+    "lcc": [
+      "United States",
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.jareonline.org",
+    "abstract": "Parallels are drawn between shortcomings and events that occurred in our western heritage with current issues facing agricultural economists. Challenges are made in relation to conflict of interest policies, external funding, cultivating connections with experts outside our discipline, and relevance of research priorities. Survey data on research priorities of upper administrators and faculty within colleges of agriculture are compared to those of Western Agricultural Economics Association members. Upper administrators from land grant colleges rank research focused in the area of competitiveness and profitability less than areas of water usage, food safety, renewable energy, global climate change, or sustainability.",
+    "readLink": "https://ageconsearch.umn.edu/record/119156"
+  },
+  {
+    "title": "Natural hazards in a changing world: a case for ecosystem-based management.",
+    "authors": [
+      "Jeanne L Nel,",
+      "David C Le Maitre,",
+      "Deon C Nel,",
+      "Belinda Reyers,",
+      "Sally Archibald,",
+      "Brian W van Wilgen,",
+      "Greg G Forsyth,",
+      "Andre K Theron,",
+      "Patrick J O'Farrell,",
+      "Jean-Marc Mwenge Kahinda,",
+      "Francois A Engelbrecht,",
+      "Evison Kapangaziwiri,",
+      "Lara van Niekerk,",
+      "Laurie Barwell"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0095942",
+    "journalVolume": "Vol. 9,\n                                no. 5\n                                \n                                  p.\n                                  e95942",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Communities worldwide are increasingly affected by natural hazards such as floods, droughts, wildfires and storm-waves. However, the causes of these increases remain underexplored, often attributed to climate changes or changes in the patterns of human exposure. This paper aims to quantify the effect of climate change, as well as land cover change, on a suite of natural hazards. Changes to four natural hazards (floods, droughts, wildfires and storm-waves) were investigated through scenario-based models using land cover and climate change drivers as inputs. Findings showed that human-induced land cover changes are likely to increase natural hazards, in some cases quite substantially. Of the drivers explored, the uncontrolled spread of invasive alien trees was estimated to halve the monthly flows experienced during extremely dry periods, and also to double fire intensities. Changes to plantation forestry management shifted the 1:100 year flood event to a 1:80 year return period in the most extreme scenario. Severe 1:100 year storm-waves were estimated to occur on an annual basis with only modest human-induced coastal hardening, predominantly from removal of coastal foredunes and infrastructure development. This study suggests that through appropriate land use management (e.g. clearing invasive alien trees, re-vegetating clear-felled forests, and restoring coastal foredunes), it would be possible to reduce the impacts of natural hazards to a large degree. It also highlights the value of intact and well-managed landscapes and their role in reducing the probabilities and impacts of extreme climate events.",
+    "readLink": "http://europepmc.org/articles/PMC4012988?pdf=render"
+  },
+  {
+    "title": "Judicial Trajectories in the Recognition of Environmental Migrants",
+    "authors": [
+      "Giulia Dal Ben"
+    ],
+    "doi": "https://doi.org/10.6092/issn.2531-6133/18057",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  187\n                                  – 216",
+    "issn": "2531-6133 (Online)",
+    "publisher": "University of Bologna",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Law"
+    ],
+    "journalUrl": "http://bolognalawreview.unibo.it/",
+    "abstract": "This article aims to trace the recent judicial trajectories in the promotion and recognition of environmental migration. It will first show the general background in which the phenomenon is placed, thus underlying its main characteristics and problems. Subsequently, it will offer an overview of some noteworthy examples of the so-called “climate change litigation”. Indeed, notwithstanding the lack of binding instruments and the inapplicability or inadequacy of the existing legal instruments for the protection of environmental migrants, noteworthy examples of increasing awareness about the relationship between environmental degradation and human rights can be found in several cases decided by international human rights judicial or quasi-judicial bodies. In particular, two recent decisions of the United Nations Human Rights Committee (U.N.H.R.C.) will be assessed. The article will also assess the increasing sensibility of the European Court of Human Rights (E.Ct.H.R.) in deciding environmental cases through a human-rights-based approach. By moving from the supranational context to the national one, the paper will focus on two recent decisions adopted by the French Bordeaux Administrative Court and the Italian Court of Cassation. Indeed, they both represent relevant examples of the role played by national courts in broadening the interpretation and application of the existing instruments of protection for environmental migrants. The analysis of the mentioned decisions will then be framed in the wider context of the legal order of the European Union (E.U.), highlighting how E.U. instruments of secondary law at disposal do not appear adequate for guaranteeing a sort of protection for environmental migrants.",
+    "readLink": "https://bolognalawreview.unibo.it/article/view/18057"
+  }
+]

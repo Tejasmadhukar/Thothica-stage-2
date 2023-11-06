@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Impacts of Water Resources Allocation on Water Environmental Capacity under Climate Change",
+    "authors": [
+      "Yujie Zeng,",
+      "Dedi Liu,",
+      "Shenglian Guo,",
+      "Lihua Xiong,",
+      "Pan Liu,",
+      "Jiabo Yin,",
+      "Jing Tian,",
+      "Lele Deng,",
+      "Jiayu Zhang"
+    ],
+    "doi": "https://doi.org/10.3390/w13091187",
+    "journalVolume": "Vol. 13,\n                                no. 1187\n                                \n                                  p.\n                                  1187",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Water environmental capacity (WEC) is an essential indicator for effective environmental management. The designed low water flow condition is a prerequisite to determine WEC and is often based on the stationarity assumption of low water flow series. As the low water flow series has been remarkably disturbed by climate change as well as reservoirs operation and water acquisition, the stationarity assumption might bring risk for WEC planning. As the reservoir operation and water acquisition under climate change can be simulated by a water resources allocation model, the low water flow series outputted from the model are the simulations of the disturbances and often show nonstationary conditions. After estimating the designed low water flow through nonstationary frequency analysis from these low water flow series, the WEC under the nonstationary conditions can be determined. Thus, the impacts of water resources allocation on WEC under climate change can be quantitatively assessed. The mid-lower reaches of the Hanjiang River basin in China were taken as a case study due to the intensive reservoir operation and water acquisition under the climate change. A representative concentration pathway scenario (RCP4.5) was employed to project future climate, and a Soil and Water Assessment Tool (SWAT) model was employed to simulate water availability for driving the Interactive River-Aquifer Simulation (IRAS) model for allocating water. Water demand in 2016 and 2030 were selected as baseline and future planning years, respectively. The results show that water resources allocation can increase the amount of WEC due to amplifying the designed low water flow through reservoir operation. Larger regulating capacities of water projects can result in fewer differences of WEC under varied water availability and water demand conditions. The increasing local water demand will decrease WEC, with less regulating capacity of the water projects. Even the total available water resources will increase over the study area under RCP4.5. More water deficit will be found due to the uneven temporal-spatial distribution as well as the increasing water demand in the future, and low water flow will decrease, which further leads to cut down WEC. Therefore, the proposed method for determining the WEC can quantify the risk of the impacts of water supply and climate change on WEC to help water environmental management.",
+    "readLink": "https://www.mdpi.com/2073-4441/13/9/1187"
+  },
+  {
+    "title": "Sustainable Power Grid Expansion: Life Cycle Assessment, Modeling Approaches, Challenges, and Opportunities",
+    "authors": [
+      "Dahlia Byles,",
+      "Salman Mohagheghi"
+    ],
+    "doi": "https://doi.org/10.3390/su15118788",
+    "journalVolume": "Vol. 15,\n                                no. 8788\n                                \n                                  p.\n                                  8788",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Electric demand is steadily increasing, hence requiring continuous investments in modernizing, and expanding power grids worldwide. Traditionally, power system planning projects have considered minimizing the costs of capacity expansion and minimizing the amount of energy not served as the main objectives. With climate change policies enforcing the decommissioning of fossil-fuel-based generation, new clean and renewable generation technologies are being considered for power system capacity expansion projects. However, the environmental impacts of energy resources are not limited to carbon emissions and their contribution to global warming. In fact, every power generation technology can result in undesired impacts during its entire life cycle, which could negatively affect air quality, water resources, material resources, and/or human health. This paper provides an overview of how to assess the sustainability of power systems and power generation technologies based on life cycle assessment (LCA). A review of LCA, as applied to power systems and generation technologies, is presented with a discussion of general findings, challenges, and limitations. A review of the literature is then provided related to how sustainability objectives are currently incorporated in power grid design and capacity expansion models. Finally, shortcomings of the current models are discussed, along with opportunities for future research.",
+    "readLink": "https://www.mdpi.com/2071-1050/15/11/8788"
+  },
+  {
+    "title": "Greening is a promising but likely insufficient adaptation strategy to limit the health impacts of extreme heat",
+    "authors": [
+      "Mathilde Pascal,",
+      "Sarah Goria,",
+      "Vérène Wagner,",
+      "Marine Sabastia,",
+      "Agnès Guillet,",
+      "Erwan Cordeau,",
+      "Cécile Mauclair,",
+      "Sabine Host"
+    ],
+    "doi": "Vol. 151\n                                \n                                \n                                  p.\n                                  106441",
+    "issn": "0160-4120 (Print)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environment-international",
+    "abstract": "Background: Adapting the urban environment to heat is a public health priority in the context of climate change. Cities are now considering interventions on specific urban characteristics known to contribute to the urban heat island (UHI) such as vegetation and imperviousness. Objectives: To explore how these urban characteristics influence the temperature-mortality relationship in the Paris region. Methods: We modeled the temperature-mortality relationship for the 1300 municipalities of the region from 1990 to 2015, while including an interaction with indicators that summarize the municipalities’ main urban characteristics. Four indicators were tested: lack of green spaces, lack of trees, proportion of impervious surface, and overexposed population to a potential night UHI. Results: The shape of the temperature-mortality relationship was similar across all municipalities, but with a higher slope at the highest temperatures in municipalities with less green spaces, less trees, and more impervious soil. For instance, in Paris and its close suburbs, the relative risk associated with a temperature in the 99th percentile of the temperature distribution (compared to the 50th percentile) was 2.17 [IC95% 1.98:2.38] in municipalities with 40% of their surface covered by trees compared to 2.57 [IC 95% 2.47:2.68] in municipalities with only 3% of their surface covered by trees. Discussion: A lack of vegetation and a high degree of imperviousness were associated with a higher risk of heat-related mortality in the Paris region. Therefore, we can assume that interventions targeting these characteristics could reduce the health impacts of extreme heat. Such interventions should be coupled with other initiatives such as protecting the most vulnerable and promoting appropriate behaviors.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S0160412021000660"
+  },
+  {
+    "title": "Char dominates black carbon aerosol emission and its historic reduction in China",
+    "authors": [
+      "Junjie Cai,",
+      "Hongxing Jiang,",
+      "Yingjun Chen,",
+      "Zeyu Liu,",
+      "Yong Han,",
+      "Huizhong Shen,",
+      "Jianzhong Song,",
+      "Jun Li,",
+      "Yanlin Zhang,",
+      "Rong Wang,",
+      "Jianmin Chen,",
+      "Gan Zhang"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-023-42192-8",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 9",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Abstract Emission factors and inventories of black carbon (BC) aerosols are crucial for estimating their adverse atmospheric effect. However, it is imperative to separate BC emissions into char and soot subgroups due to their significantly different physicochemical properties and potential effects. Here, we present a substantial dataset of char and soot emission factors derived from field and laboratory measurements. Based on the latest results of the char-to-soot ratio, we further reconstructed the emission inventories of char and soot for the years 1960–2017 in China. Our findings indicate that char dominates annual BC emissions and its huge historical reduction, which can be attributable to the rapid changes in energy structure, combustion technology and emission standards in recent decades. Our results suggest that further BC emission reductions in both China and the world should focus on char, which mainly derives from lower-temperature combustion and is easier to decrease compared to soot.",
+    "readLink": "https://doi.org/10.1038/s41467-023-42192-8"
+  },
+  {
+    "title": "Characterisation of dry spells for agricultural applications in Malawi",
+    "authors": [
+      "Ellasy Gulule Chimimba,",
+      "Cosmo Ngongondo,",
+      "Chengxiu Li,",
+      "Bernard Minoungou,",
+      "Maurice Monjerezi,",
+      "Levis Eneya"
+    ],
+    "doi": "https://doi.org/10.1007/s42452-023-05413-9",
+    "journalVolume": "Vol. 5,\n                                no. 7\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "2523-3963 (Print)",
+    "publisher": "2523-3971 (Online)",
+    "countryOfPublisher": "Springer",
+    "lcc": [
+      "Switzerland",
+      "Science",
+      "Technology"
+    ],
+    "journalUrl": "https://www.springer.com/snas",
+    "abstract": "Abstract Dry spells are one of the climate change hazards that continue to exert pressure on the agriculture sector, hence affecting food security. Understanding dry spell characteristics of an area helps in coming up with interventions and adaptive measures among other advantages. This study aimed at understanding characteristics of dry spells for Malawi by using climate hazards group infrared precipitation with stations precipitation data from 1981 to 2019. The study focused on the spatial distribution, maximum number of dry days, trend of maximum dry days and time of occurrence of dry spells. Data was analysed using Mann–Kendal trend analysis in R software. The results indicate a high number of occurrences of dry spells in the southern region than the other two regions of Malawi. In addition, the southern region experienced the highest maximum number of dry days. However, there is an upward trend for maximum days of dry spells in central region than all other regions. Local scale topographic influences on dry spell occurrence were also apparent. The study further established that the number of dry spell occurrence in the rainfall season starts to increase towards end of March. In this regard, although rainfall season in the study area is considered to be from November to April, the study recommends that growing season should be considered to be November to March so that crops are not affected by end of season dry spells which are common. Farmers should ensure that they plant crops that will mature with this growing period.",
+    "readLink": "https://doi.org/10.1007/s42452-023-05413-9"
+  },
+  {
+    "title": "Prokaryotic Diversity in Mangrove Sediments across Southeastern China Fundamentally Differs from That in Other Biomes",
+    "authors": [
+      "Cui-Jing Zhang,",
+      "Jie Pan,",
+      "Chang-Hai Duan,",
+      "Yong-Ming Wang,",
+      "Yang Liu,",
+      "Jian Sun,",
+      "Hai-Chao Zhou,",
+      "Xin Song,",
+      "Meng Li"
+    ],
+    "doi": "https://doi.org/10.1128/mSystems.00442-19",
+    "journalVolume": "Vol. 4,\n                                no. 5",
+    "issn": "2379-5077 (Online)",
+    "publisher": "American Society for Microbiology",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "https://journals.asm.org/journal/msystems",
+    "abstract": "ABSTRACT Mangroves, as a blue carbon reservoir, provide an environment for a variety of microorganisms. Mangroves lie in special locations connecting coastal and estuarine areas and experience fluctuating conditions, which are expected to intensify with climate change, creating a need to better understand the relative roles of stochastic and deterministic processes in shaping microbial community assembly. Here, a study of microbial communities inhabiting mangrove sediments across southeastern China, spanning mangroves in six nature reserves, was conducted. We performed high-throughput DNA sequencing of these samples and compared them with data of 1,370 sediment samples collected from the Earth Microbiome Project (EMP) to compare the microbial diversity of mangroves with that of other biomes. Our results showed that prokaryotic alpha diversity in mangroves was significantly higher than that in other biomes and that microbial beta diversity generally clustered according to biome types. The core operational taxonomic units (OTUs) in mangroves were mostly assigned to Gammaproteobacteria, Deltaproteobacteria, Chloroflexi, and Euryarchaeota. The majority of beta nearest-taxon index values were higher than 2, indicating that community assembly in mangroves was better explained through a deterministic process than through a stochastic process. Mean annual precipitation (MAP) and total organic carbon (TOC) were main deterministic factors explaining variation in the microbial community. This study fills a gap in addressing the unique microbial diversity of mangrove ecosystems and their microbial community assembly mechanisms. IMPORTANCE Understanding the underlying mechanisms of microbial community assembly patterns is a vital issue in microbial ecology. Mangroves, as an important and special ecosystem, provide a unique environment for examining the relative importance of stochastic and deterministic processes. We made the first global-scale comparison and found that microbial diversity was significantly different in mangrove sediments compared to that of other biomes. Furthermore, our results suggest that a deterministic process is more important in shaping microbial community assembly in mangroves.",
+    "readLink": "https://journals.asm.org/doi/10.1128/mSystems.00442-19"
+  },
+  {
+    "title": "Seasonal prediction and possible causes of sudden losses of sea-ice in the Weddell Sea in recent years based on potential oceanic and atmospheric factors",
+    "authors": [
+      "Hui-Jun Zhao,",
+      "Hui-Jun Zhao,",
+      "Dong Xiao,",
+      "Lin-Gen Bian,",
+      "Wei Wu,",
+      "Hai-Wei Yang,",
+      "Qi Chen,",
+      "Tian Liang,",
+      "Lan-Dong Sun"
+    ],
+    "doi": "https://doi.org/10.3389/fenvs.2023.1135165",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-665X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.frontiersin.org/environmental_science",
+    "abstract": "The seasonal prediction of sea-ice concentration (SIC), especially sudden loss events, is always challenging. Weddell Sea SIC experienced two unprecedented decline events, falling from 2.21% in the austral winter of 2015 to 0.02% in the austral summer of 2016 and then falling to −2.32% in the austral spring of 2017. This study proposes several statistical prediction models for Weddell Sea SIC and performs them for a period that includes the sudden decline events. We identified six potential oceanic and atmospheric factors at different leading times that relate to the variability of the Weddell Sea SIC, including the Pacific Decadal Oscillation (PDO), Atlantic Multidecadal Oscillation (AMO), Niño12 sea surface temperature (SST), Southeastern Indian Ocean (SEIO) SST, Antarctic sea level pressure (SLP), and Weddell Sea surface air temperature (SAT). Multiple linear regression models were employed to establish equations to simulate the variation of Weddell Sea SIC under three groups of climate factors for 1979–2012. These models could effectively reproduce the low-frequency variation of SIC in the Weddell Sea during the simulation period and the high-frequency values through two kinds of error-correction methods developed in this study. After applying these error correction methods, the correlation coefficients (absolute errors) of these models were enhanced (decreased) during the simulation period. In the prediction period of 2013–2018, the corrected models generally predicted well the sudden losses of Weddell Sea SIC. The possible primary factors influencing these sudden losses were the PDO, Niño12 SST, Southern Annular Mode (SAM), and SAT during 2015–2016 and the AMO, PDO, Niño12 SST, SAM, and SAT during 2016–2017.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fenvs.2023.1135165/full"
+  },
+  {
+    "title": "Effects of drought stress on root morphology and spatial distribution of soybean and adzuki bean",
+    "authors": [
+      "Hyen Chung CHUN,",
+      "Sanghun LEE,",
+      "Young Dae CHOI,",
+      "Dong Hyeok GONG,",
+      "Ki Youl JUNG"
+    ],
+    "doi": "Vol. 20,\n                                no. 10\n                                \n                                  pp.\n                                  2639\n                                  – 2651",
+    "issn": "2095-3119 (Print)",
+    "publisher": "2352-3425 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "Netherlands",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/journal-of-integrative-agriculture",
+    "abstract": "Due to global climate change, Korea is facing severe droughts that affect the planting and early vegetative periods of upland crops. Soybean and adzuki bean are important legume crops in Korea, so it is critical to understand their adaptations to water stress. This study investigated the changes in root morphological properties in soybean and adzuki bean and quantified the findings using fractal analysis. The experiment was performed at the National Institute of Crop Science in Miryang, Korea. Soybeans and adzuki beans were planted in test boxes and grown for 30 days. The boxes were filled with bed soil with various soil moisture treatments. Root images were obtained and scanned every two days, and the root properties were characterized by root length, depth and surface area, number of roots, and fractal parameters (fractal dimension and lacunarity). Root depth, length and surface area and the number of roots increased in both crops as the soil moisture content increased. The fractal dimension and lacunarity values increased as the soil moisture content increased. These results indicated that the greater the soil moisture, the more heterogeneous the root structure. Correlation analysis of the morphological properties and fractal parameters indicated that soybean and adzuki bean had different root structure developments. Both soybean and adzuki bean were sensitive to the amount of soil moisture in the early vegetative stage. Soybean required a soil moisture content greater than 70% of the field capacity to develop a full root structure, while adzuki bean required 100% of the field capacity. These results would be useful in understanding the responses of soybean and adzuki bean to water stress and managing irrigation during cultivation.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2095311920635602"
+  },
+  {
+    "title": "Effects of Climatic Change on the Geographical Distribution of Caspian Snowcock (Tetraogallus caspius Gmelin, 1784) in Chaharmahal and Bakhtiari Province, Iran",
+    "authors": [
+      "M. R. Ashrafzadeh,",
+      "N. Habibzadeh,",
+      "S. Ashrafi"
+    ],
+    "doi": "Vol. 7,\n                                no. 3\n                                \n                                  pp.\n                                  39\n                                  – 50",
+    "issn": "2476-3128 (Print)",
+    "publisher": "2476-3217 (Online)",
+    "countryOfPublisher": "Isfahan University of Technology",
+    "lcc": [
+      "Iran, Islamic Republic of",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://ijae.iut.ac.ir/",
+    "abstract": "Currently, there is little information on the high mountain species' response to the climate change in Iran, and it seems that these species are significantly affected by the climate change. In the current research, the spatial vulnerability of Caspian snowcock (Tetraogallus caspius) to the climate change in Chaharmahal and Bakhtiari province was predicted using the ensemble modelling approach, based on seven species distribution models. According to the findings, about 19.43% of the province was estimated to be the suitable habitat of Caspian snowcock. The variables of annual precipitation (23.23%), annual temperature range (21.82%), human footprints (15.77%) and slope (14.46%) had the highest contributions to the model. Findings also showed that about 12.9- 32.28% of the suitable habitats might be lost by 2050 due to the climate change, based on the two scenarios of increased greenhouse gases (RCP4.5 and RCP8.5) and the HadGEM2-CC model. At the same period, it is expected that the suitable habitats of the Caspian snowcock in the low altitude areas would be lost. Additionally, due to the climate change, some populations, especially in the far southern regions of the province, will undergo local extinction or may be completely isolated. Findings of this research can be, therefore, useful for adopting more appropriate approaches in order to manage and protect the Caspian snowcock populations in the country.",
+    "readLink": "http://ijae.iut.ac.ir/article-1-916-en.html"
+  }
+]

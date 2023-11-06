@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Coastal Improvements for Tide Models: The Impact of ALES Retracker",
+    "authors": [
+      "Gaia Piccioni,",
+      "Denise Dettmering,",
+      "Marcello Passaro,",
+      "Christian Schwatke,",
+      "Wolfgang Bosch,",
+      "Florian Seitz"
+    ],
+    "doi": "https://doi.org/10.3390/rs10050700",
+    "journalVolume": "Vol. 10,\n                                no. 5\n                                \n                                  p.\n                                  700",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Since the launch of the first altimetry satellites, ocean tide models have been improved dramatically for deep and shallow waters. However, issues are still found for areas of great interest for climate change investigations: the coastal regions. The purpose of this study is to analyze the influence of the ALES coastal retracker on tide modeling in these regions with respect to a standard open ocean retracker. The approach used to compute the tidal constituents is an updated and along-track version of the Empirical Ocean Tide model developed at DGFI-TUM. The major constituents are derived from a least-square harmonic analysis of sea level residuals based on the FES2014 tide model. The results obtained with ALES are compared with the ones estimated with the standard product. A lower fitting error is found for the ALES solution, especially for distances closer than 20 km from the coast. In comparison with in situ data, the root mean squared error computed with ALES can reach an improvement larger than 2 cm at single locations, with an average impact of over 10% for tidal constituents K 2 , O 1 , and P 1 . For Q 1 , the improvement is over 25%. It was observed that improvements to the root-sum squares are larger for distances closer than 10 km to the coast, independently on the sea state. Finally, the performance of the solutions changes according to the satellite’s flight direction: for tracks approaching land from open ocean root mean square differences larger than 1 cm are found in comparison to tracks going from land to ocean.",
+    "readLink": "http://www.mdpi.com/2072-4292/10/5/700"
+  },
+  {
+    "title": "Microphysical particle properties derived from inversion algorithms developed in the framework of EARLINET",
+    "authors": [
+      "D. Müller,",
+      "C. Böckmann,",
+      "A. Kolgotin,",
+      "L. Schneidenbach,",
+      "E. Chemyakin,",
+      "J. Rosemann,",
+      "P. Znak,",
+      "A. Romanov"
+    ],
+    "doi": "https://doi.org/10.5194/amt-9-5007-2016",
+    "journalVolume": "Vol. 9,\n                                no. 10\n                                \n                                  pp.\n                                  5007\n                                  – 5035",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "We present a summary on the current status of two inversion algorithms that are used in EARLINET (European Aerosol Research Lidar Network) for the inversion of data collected with EARLINET multiwavelength Raman lidars. These instruments measure backscatter coefficients at 355, 532, and 1064 nm, and extinction coefficients at 355 and 532 nm. Development of these two algorithms started in 2000 when EARLINET was founded. The algorithms are based on a manually controlled inversion of optical data which allows for detailed sensitivity studies. The algorithms allow us to derive particle effective radius as well as volume and surface area concentration with comparably high confidence. The retrieval of the real and imaginary parts of the complex refractive index still is a challenge in view of the accuracy required for these parameters in climate change studies in which light absorption needs to be known with high accuracy. It is an extreme challenge to retrieve the real part with an accuracy better than 0.05 and the imaginary part with accuracy better than 0.005–0.1 or ±50 %. Single-scattering albedo can be computed from the retrieved microphysical parameters and allows us to categorize aerosols into high- and low-absorbing aerosols. On the basis of a few exemplary simulations with synthetic optical data we discuss the current status of these manually operated algorithms, the potentially achievable accuracy of data products, and the goals for future work. One algorithm was used with the purpose of testing how well microphysical parameters can be derived if the real part of the complex refractive index is known to at least 0.05 or 0.1. The other algorithm was used to find out how well microphysical parameters can be derived if this constraint for the real part is not applied. The optical data used in our study cover a range of Ångström exponents and extinction-to-backscatter (lidar) ratios that are found from lidar measurements of various aerosol types. We also tested aerosol scenarios that are considered highly unlikely, e.g. the lidar ratios fall outside the commonly accepted range of values measured with Raman lidar, even though the underlying microphysical particle properties are not uncommon. The goal of this part of the study is to test the robustness of the algorithms towards their ability to identify aerosol types that have not been measured so far, but cannot be ruled out based on our current knowledge of aerosol physics. We computed the optical data from monomodal logarithmic particle size distributions, i.e. we explicitly excluded the more complicated case of bimodal particle size distributions which is a topic of ongoing research work. Another constraint is that we only considered particles of spherical shape in our simulations. We considered particle radii as large as 7–10 µm in our simulations where the Potsdam algorithm is limited to the lower value. We considered optical-data errors of 15 % in the simulation studies. We target 50 % uncertainty as a reasonable threshold for our data products, though we attempt to obtain data products with less uncertainty in future work.",
+    "readLink": "http://www.atmos-meas-tech.net/9/5007/2016/amt-9-5007-2016.pdf"
+  },
+  {
+    "title": "Dynamical and biogeochemical control on the decadal variability of ocean carbon fluxes",
+    "authors": [
+      "R. Séférian,",
+      "L. Bopp,",
+      "D. Swingedouw,",
+      "J. Servonnat"
+    ],
+    "doi": "https://doi.org/10.5194/esd-4-109-2013",
+    "journalVolume": "Vol. 4,\n                                no. 1\n                                \n                                  pp.\n                                  109\n                                  – 127",
+    "issn": "2190-4979 (Print)",
+    "publisher": "2190-4987 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology: Dynamic and structural geology"
+    ],
+    "journalUrl": "http://www.earth-system-dynamics.net",
+    "abstract": "Several recent observation-based studies suggest that ocean anthropogenic carbon uptake has slowed down due to the impact of anthropogenic forced climate change. However, it remains unclear whether detected changes over the recent time period can be attributed to anthropogenic climate change or rather to natural climate variability (internal plus naturally forced variability) alone. One large uncertainty arises from the lack of knowledge on ocean carbon flux natural variability at the decadal time scales. To gain more insights into decadal time scales, we have examined the internal variability of ocean carbon fluxes in a 1000 yr long preindustrial simulation performed with the Earth System Model IPSL-CM5A-LR. Our analysis shows that ocean carbon fluxes exhibit low-frequency oscillations that emerge from their year-to-year variability in the North Atlantic, the North Pacific, and the Southern Ocean. In our model, a 20 yr mode of variability in the North Atlantic air-sea carbon flux is driven by sea surface temperature variability and accounts for ~40% of the interannual regional variance. The North Pacific and the Southern Ocean carbon fluxes are also characterised by decadal to multi-decadal modes of variability (10 to 50 yr) that account for 20–40% of the interannual regional variance. These modes are driven by the vertical supply of dissolved inorganic carbon through the variability of Ekman-induced upwelling and deep-mixing events. Differences in drivers of regional modes of variability stem from the coupling between ocean dynamics variability and the ocean carbon distribution, which is set by large-scale secular ocean circulation.",
+    "readLink": "http://www.earth-syst-dynam.net/4/109/2013/esd-4-109-2013.pdf"
+  },
+  {
+    "title": "Rise and fall of sea ice production in the Arctic Ocean’s ice factories",
+    "authors": [
+      "S. B. Cornish,",
+      "H. L. Johnson,",
+      "R. D. C. Mallett,",
+      "J. Dörr,",
+      "Y. Kostov,",
+      "A. E. Richards"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-022-34785-6",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Winter sea ice production appears to have been increasing, despite Arctic warming being most intense during winter. Here the authors examine the competing factors controlling sea ice production in the Kara and Laptev seas, and develop a simple model that explains the rise and subsequent fall of ice production under climate change.",
+    "readLink": "https://doi.org/10.1038/s41467-022-34785-6"
+  },
+  {
+    "title": "Legal and normative frameworks",
+    "authors": [
+      "Roger Zetter"
+    ],
+    "doi": "no. 31\n                                \n                                  pp.\n                                  62\n                                  – 63",
+    "issn": "1460-9819 (Print)",
+    "publisher": "2051-3070 (Online)",
+    "countryOfPublisher": "University of Oxford",
+    "lcc": [
+      "United Kingdom",
+      "Social Sciences: Social history and conditions. Social problems. Social reform"
+    ],
+    "journalUrl": "https://www.fmreview.org",
+    "abstract": "How the legal and normative frameworks are addressed will be critical to the security of people threatened by climate change.",
+    "readLink": "http://www.fmreview.org/en/FMRpdfs/FMR31/62-63.pdf"
+  },
+  {
+    "title": "Inefficient power generation as an optimal route to negative emissions via BECCS?",
+    "authors": [
+      "Niall Mac Dowell,",
+      "Mathilde Fajardy"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/aa67a5",
+    "journalVolume": "Vol. 12,\n                                no. 4\n                                \n                                  p.\n                                  045004",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Current ambitions to limit climate change to no more than 1.5 °C–2 °C by the end of the 21st century rely heavily on the availability of negative emissions technologies (NETs)—bioenergy with CO _2 capture and storage (BECCS) and direct air capture in particular. In this context, these NETs are providing a specific service by removing CO _2 from the atmosphere, and therefore investors would expect an appropriate risk-adjusted rate of return, varying as a function of the quantity of public money involved. Uniquely, BECCS facilities have the possibility to generate both low carbon power and remove CO _2 from the atmosphere, but in an energy system characterised by high penetration of intermittent renewable energy such as wind and solar power plants, the dispatch load factor of such BECCS facilities may be small relative to their capacity. This has the potential to significantly under utilise these assets for their primary purpose of removing CO _2 from the atmosphere. In this study, we present a techno-economic environmental evaluation of BECCS plants with a range of operating efficiencies, considering their full- and part-load operation relative to a national-scale annual CO _2 removal target. We find that in all cases, a lower capital cost, lower efficiency BECCS plant is superior to a higher cost, higher efficiency facility from both environmental and economic perspectives. We show that it may be preferable to operate the BECCS facility in base-load fashion, constantly removing CO _2 from the atmosphere and dispatching electricity on an as-needed basis. We show that the use of this ‘spare capacity’ to produce hydrogen for, e.g . injection to a natural gas system for the provision of low carbon heating can add to the overall environmental and economic benefit of such a system. The only point where this hypothesis appears to break down is where the CO _2 emissions associated with the biomass supply chain are sufficiently large so as to eliminate the service of CO _2 removal.",
+    "readLink": "https://doi.org/10.1088/1748-9326/aa67a5"
+  },
+  {
+    "title": "Hydrological and biogeochemical constraints on terrestrial carbon cycle feedbacks",
+    "authors": [
+      "Stefanos Mystakidis,",
+      "Sonia I Seneviratne,",
+      "Nicolas Gruber,",
+      "Edouard L Davin"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/12/1/014009",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  p.\n                                  014009",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "The feedbacks between climate, atmospheric CO _2 concentration and the terrestrial carbon cycle are a major source of uncertainty in future climate projections with Earth systems models. Here, we use observation-based estimates of the interannual variations in evapotranspiration (ET), net biome productivity (NBP), as well as the present-day sensitivity of NBP to climate variations, to constrain globally the terrestrial carbon cycle feedbacks as simulated by models that participated in the fifth phase of the coupled model intercomparison project (CMIP5). The constraints result in a ca. 40% lower response of NBP to climate change and a ca. 30% reduction in the strength of the CO _2 fertilization effect relative to the unconstrained multi-model mean. While the unconstrained CMIP5 models suggest an increase in the cumulative terrestrial carbon storage (477 PgC) in response to an idealized scenario of 1%/year atmospheric CO _2 increase, the constraints imply a ca. 19% smaller change. Overall, the applied emerging constraint approach offers a possibility to reduce uncertainties in the projections of the terrestrial carbon cycle, which is a key determinant of the future trajectory of atmospheric CO _2 concentration and resulting climate change.",
+    "readLink": "https://doi.org/10.1088/1748-9326/12/1/014009"
+  },
+  {
+    "title": "Medicinal service supply by wild plants in Samburu, Kenya: Comparisons among medicinal plant assemblages",
+    "authors": [
+      "Dikko Jeff Gafna,",
+      "Joy A. Obando,",
+      "Martin Reichelt,",
+      "Sebastian Schmidtlein,",
+      "Klara Dolos"
+    ],
+    "doi": "Vol. 30\n                                \n                                \n                                  p.\n                                  e01749",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "Supply of medicinal plants from African landscapes is crucial because of their widespread use. Rapid climate change and land use change are potential threats to this resource but knowledge about the ecological needs of many of these plants is still rather limited. More knowledge about potential threats to medicinal plants supply and options to prevent future losses are desirable. Therefore, the objectives of the study were to examine (1) the effects of environmental drivers on the occurrence of medicinal plant species, (2) how different vegetation formations contribute to the provision of plants used for the treatment of diseases and (3) how these contributions are secured by redundancy. The analysis was based on a sample of 130 sampling plots in Samburu County, Kenya. We identified patterns in medicinal plants co-occurrences using classification and ordination analyses and analyzed these pattern in terms of environmental drivers, service diversity and service security. The pattern in medicinal plants co-occurrences reflected the distribution of broad formations (bushed grassland, forest, wooded grassland, savanna) driven by differences in grazing pressure, drought, slope and fraction of sand in soils. Each of the formations brought with it its own characteristic endowment with medicinal plants. The formations differed in the diversity and security of medicinal services provided. All resulted as fulfilling unique services with diseases treated by plants occurring exclusively in one or another formation. Forests featured the highest diversity of medicinal services, with medicinal plants used against 67 diseases. The supply security in forests, resulting from redundancy in supply provision, was moderate. In contrast to this, savanna grasslands featured plants with uses against 49 diseases, some of them were treated exclusively by plants from savanna grasslands. This formation also showed the highest redundancy. Wooded grasslands showed very little redundancy and is likely to be adversely affected by climate change. Whereas savannas feature the largest pool of medicinal plants and should receive due attention, urgent and highest conservation priority should, presently and in future, go towards the wooded grassland that had the lowest supply redundancy for traditional medicine.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2351989421002997"
+  },
+  {
+    "title": "Climate change and future scenarios for palisade grass production in the state of São Paulo, Brazil",
+    "authors": [
+      "André Santana Andrade,",
+      "Patricia Menezes Santos,",
+      "José Ricardo Macedo Pezzopane,",
+      "Giovana Maranhão Bettiol,",
+      "Sílvio Roberto Medeiros Evangelista"
+    ],
+    "doi": "https://doi.org/10.1590/S0100-204X2014001000001",
+    "journalVolume": "Vol. 49,\n                                no. 10\n                                \n                                  pp.\n                                  745\n                                  – 753",
+    "issn": "0100-204X (Print)",
+    "publisher": "1678-3921 (Online)",
+    "countryOfPublisher": "Embrapa Informação Tecnológica",
+    "lcc": [
+      "Brazil",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "http://www.scielo.br/scielo.php?pid=0100-204X&script=sci_serial",
+    "abstract": "The objective of this work was to analyze future scenarios for palisade grass yield subjected to climate change for the state of São Paulo, Brazil. An empirical crop model was used to estimate yields, according to growing degree-days adjusted by one drought attenuation factor. Climate data from 1963 to 2009 of 23 meteorological stations were used for current climate conditions. Downscaled outputs of two general circulation models were used to project future climate for the 2013-2040 and 2043-2070 periods, considering two contrasting scenarios of temperature and atmospheric CO2 concentration increase (high and low). Annual dry matter yield should be from 14 to 42% higher than the current one, depending on the evaluated scenario. Yield variation between seasons (seasonality) and years is expected to increase. The increase of dry matter accumulation will be higher in the rainy season than in the dry season, and this result is more evident for soils with low-water storage capacity. The results varied significantly between regions (60%). Despite their higher climate potential, warmer regions will probably have a lower increase in future forage production.",
+    "readLink": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-204X2014001000745&lng=en&tlng=en"
+  },
+  {
+    "title": "Patterns for <i>Populus</i> spp. Stand Biomass in Gradients of Winter Temperature and Precipitation of Eurasia",
+    "authors": [
+      "Vladimir  Andreevich Usoltsev,",
+      "Baozhang Chen,",
+      "Seyed  Omid Reza Shobairi,",
+      "Ivan  Stepanovich Tsepordey,",
+      "Viktor  Petrovich Chasovskikh,",
+      "Shoaib  Ahmad Anees"
+    ],
+    "doi": "https://doi.org/10.3390/f11090906",
+    "journalVolume": "Vol. 11,\n                                no. 906\n                                \n                                  p.\n                                  906",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Based on a generated database of 413 sample plots, with definitions of stand biomass of the genus Populus spp. in Eurasia, from France to Japan and southern China, statistically significant changes in the structure of forest stand biomass were found, with shifts in winter temperatures and average annual precipitation. When analyzing the reaction of the structure of the biomass of the genus Populus to temperature and precipitation in their transcontinental gradients, a clearly expressed positive relationship of all components of the biomass with the temperature in January is visible. Their relationship with precipitation is less clear; in warm climate zones, when precipitation increases, the biomass of all wood components decreases intensively, and in cold climate zones, this decrease is less pronounced. The foliage biomass does not increase when precipitation decreases, as is typical for wood components, but decreases. This can be explained by the specifics of the functioning of the assimilation apparatus, namely its transpiration activity when warming, and the corresponding increase in transpiration, which requires an increase in the influx of assimilates into the foliage, and the desiccation of the climate that reduces this influx of assimilates. Comparison of the obtained patterns with previously published results for other species from Eurasia showed partial or complete discrepancies, the causes of which require special physiological studies. The results obtained can be useful in the management of biosphere functions of forests, which is important in the implementation of climate stabilization measures, as well as in the validation of the results of simulation experiments to assess the carbon-deposition capacity of forests.",
+    "readLink": "https://www.mdpi.com/1999-4907/11/9/906"
+  }
+]

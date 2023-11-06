@@ -1,0 +1,238 @@
+[
+  {
+    "title": "Carbon storage and long-term rate of accumulation in high-altitude Andean peatlands of Bolivia",
+    "authors": [
+      "J.A. Hribljan,",
+      "D.J. Cooper,",
+      "J. Sueltenfuss,",
+      "E.C. Wolf,",
+      "K.A. Heckman,",
+      "E.A. Lilleskov,",
+      "R.A. Chimner"
+    ],
+    "doi": "Vol. 15,\n                                no. 12\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "1819-754X (Online)",
+    "publisher": "International Mire Conservation Group and International Peatland Society",
+    "countryOfPublisher": "Germany",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://mires-and-peat.net/",
+    "abstract": "(1) The high-altitude (4,500+ m) Andean mountain range of north-western Bolivia contains many peatlands. Despite heavy grazing pressure and potential damage from climate change, little is known about these peatlands. Our objective was to quantify carbon pools, basal ages and long-term peat accumulation rates in peatlands in two areas of the arid puna ecoregion of Bolivia: near the village of Manasaya in the Sajama National Park (Cordillera Occidentale), and in the Tuni Condoriri National Park (Cordillera Real). (2) We cored to 5 m depth in the Manasaya peatland, whose age at 5 m was ca. 3,675 yr. BP with a LARCA of 47 g m-2 yr-1. However, probing indicated that the maximum depth was 7–10 m with a total estimated (by extrapolation) carbon stock of 1,040 Mg ha-1. The Tuni peat body was 5.5 m thick and initiated ca. 2,560 cal. yr. BP. The peatland carbon stock was 572 Mg ha-1 with a long-term rate of carbon accumulation (LARCA) of 37 g m-2 yr-1. (3) Despite the dry environment of the Bolivian puna, the region contains numerous peatlands with high carbon stocks and rapid carbon accumulation rates. These peatlands are heavily used for llama and alpaca grazing.",
+    "readLink": "http://mires-and-peat.net/media/map15/map_15_12.pdf"
+  },
+  {
+    "title": "The Second Generation Canadian Wetland Inventory Map at 10 Meters Resolution Using Google Earth Engine",
+    "authors": [
+      "Masoud Mahdianpari,",
+      "Brian Brisco,",
+      "Jean Elizabeth Granger,",
+      "Fariba Mohammadimanesh,",
+      "Bahram Salehi,",
+      "Sarah Banks,",
+      "Saeid Homayouni,",
+      "Laura Bourgeau-Chavez,",
+      "Qihao Weng"
+    ],
+    "doi": "https://doi.org/10.1080/07038992.2020.1802584",
+    "journalVolume": "Vol. 46,\n                                no. 3\n                                \n                                  pp.\n                                  360\n                                  – 375",
+    "issn": "1712-7971 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/ujrs20",
+    "abstract": "Recently, there has been a significant increase in efforts to better inventory and manage important ecosystems across Canada using advanced remote sensing techniques. In this study, we improved the method and results of our first-generation Canadian wetland inventory map at 10-m resolution. Iin order to increase wetland classification accuracy, the main contributions of this new study are adding more training data to the classification process and training Random Forest (RF) models on the Google Earth Engine (GEE) platform within the boundaries of ecozones rather than provinces. A considerable effort has been devoted to data collection, preparation, standardization of datasets for each ecozone. The data cleaning reveals a data gap in several Northern ecozones. Accordingly, high-resolution optical data, from Worldview-2 and Pleiades, were acquired to delineate wetland training data based on visual interpretation in those regions. By using this well-distributed training data, this second generation wetland inventory map represents an improvement of 7% compared to the first generation map. Accuracy varied from 76% to 91% in different ecozones depending on available resources. Furthermore, the results of RF variable importance, which was carried out for each ecozone, demonstrate that and NDVI extracted from Sentinel-1 and Sentinel-2 data, respectively, were the most important features for wetland mapping.",
+    "readLink": "http://dx.doi.org/10.1080/07038992.2020.1802584"
+  },
+  {
+    "title": "Lake or Sea? The Unknown Future of Central Baltic Sea Herring",
+    "authors": [
+      "Joachim W. Dippner,",
+      "Birte Fründt,",
+      "Cornelius Hammer"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2019.00143",
+    "journalVolume": "Vol. 7",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "The understanding of natural variability of harvestable fish stocks is of fundamental interest for their management; however, time series are often biased by the impact of fisheries. Observations suggest that the mean weight of central Baltic Sea herring (Clupea harengus), a quantity unbiased by fisheries, is indirectly influenced by the Atlantic Multi-decadal Oscillation (AMO) via a complex mediator chain, in which a transition from a marine to a freshwater state plays a major role. This observed trend is also projected for the future in regional climate change scenarios. The consequence of increasing precipitation is a reduction in the marine habitat, a change in the prey community and a decrease in the mean weight of 3-year-old central Baltic Sea herring from 50 to 70 g in the late 1970s to 25–30 g today. The reduction in weight over this period represents a reduction in landings of approximately one million tons of herring and an economic loss of the order of €100 million.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fevo.2019.00143/full"
+  },
+  {
+    "title": "Spatial variation in red deer density in a transboundary forest ecosystem",
+    "authors": [
+      "Mahdieh Tourani,",
+      "Frederik Franke,",
+      "Marco Heurich,",
+      "Maik Henrich,",
+      "Tomáš Peterka,",
+      "Cornelia Ebert,",
+      "Julian Oeser,",
+      "Hendrik Edelhoff,",
+      "Cyril Milleret,",
+      "Pierre Dupont,",
+      "Richard Bischof,",
+      "Wibke Peters"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-023-31283-7",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Forests in Europe are exposed to increasingly frequent and severe disturbances. The resulting changes in the structure and composition of forests can have profound consequences for the wildlife inhabiting them. Moreover, wildlife populations in Europe are often subjected to differential management regimes as they regularly extend across multiple national and administrative borders. The red deer Cervus elaphus population in the Bohemian Forest Ecosystem, straddling the Czech-German border, has experienced forest disturbances, primarily caused by windfalls and bark beetle Ips typographus outbreaks during the past decades. To adapt local management strategies to the changing environmental conditions and to coordinate them across the international border, reliable estimates of red deer density and abundance are highly sought-after by policymakers, wildlife managers, and stakeholders. Covering a 1081-km2 study area, we conducted a transnational non-invasive DNA sampling study in 2018 that yielded 1578 genotyped DNA samples from 1120 individual red deer. Using spatial capture-recapture models, we estimated total and jurisdiction-specific abundance of red deer throughout the ecosystem and quantified the role of forest disturbance and differential management strategies in shaping spatial heterogeneity in red deer density. We hypothesised that (a) forest disturbances provide favourable habitat conditions (e.g., forage and cover), and (b) contrasting red deer management regimes in different jurisdictions create a differential risk landscape, ultimately shaping density distributions. Overall, we estimated that 2851 red deer (95% Credible Interval = 2609–3119) resided in the study area during the sampling period, with a relatively even overall sex ratio (1406 females, 95% CI = 1229–1612 and 1445 males, 95% CI = 1288–1626). The average red deer density was higher in Czechia (3.5 km−2, 95% CI = 1.2–12.3) compared to Germany (2 km−2, 95% CI = 0.2–11). The effect of forest disturbances on red deer density was context-dependent. Forest disturbances had a positive effect on red deer density at higher elevations and a negative effect at lower elevations, which could be explained by partial migration and its drivers in this population. Density of red deer was generally higher in management units where hunting is prohibited. In addition, we found that sex ratios differed between administrative units and were more balanced in the non-intervention zones. Our results show that the effect of forest disturbances on wild ungulates is modulated by additional factors, such as elevation and ungulate management practices. Overall density patterns and sex ratios suggested strong gradients in density between administrative units. With climate change increasing the severity and frequency of forest disturbances, population-level monitoring and management are becoming increasingly important, especially for wide-ranging species as both wildlife and global change transcend administrative boundaries.",
+    "readLink": "https://doi.org/10.1038/s41598-023-31283-7"
+  },
+  {
+    "title": "Genetic Structure and Geographical Differentiation of <i>Larix sibirica</i> Ledeb. in the Urals",
+    "authors": [
+      "Nikita Chertov,",
+      "Yulia Vasilyeva,",
+      "Andrei Zhulanov,",
+      "Yulia Nechaeva,",
+      "Svetlana Boronnikova,",
+      "Ruslan Kalendar"
+    ],
+    "doi": "https://doi.org/10.3390/f12101401",
+    "journalVolume": "Vol. 12,\n                                no. 1401\n                                \n                                  p.\n                                  1401",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "The Ural Mountains and the West Eurasian Taiga forests are one of the most important centers of genetic diversity for Larix sibirica Ledeb. Forest fragmentation negatively impacts forest ecosystems, especially due to the impact of their intensive use on the effects of climate change. For the preservation and rational use of forest genetic resources, it is necessary to carefully investigate the genetic diversity of the main forest-forming plant species. The Larix genus species are among the most widespread woody plants in the world. The Siberian larch (Larix sibirica, Pinaceae) is found in the forest, forest-tundra, tundra (Southern part), and forest-steppe zones of the North, Northeast, and partly East of the European part of Russia and in Western and Eastern Siberia; in the Urals, the Siberian larch is distributed fragmentarily. In this study, eight pairs of simple sequence repeat (SSR) primers were used to analyse the genetic diversity and population structure of 15 Siberian larch populations in the Urals. Natural populations in the Urals exhibit indicators of genetic diversity comparable to those of Siberia populations (expected heterozygosity, He = 0.623; expected number of alleles, Ne = 4017; observed heterozygosity, Ho = 0.461). Genetic structure analysis revealed that the examined populations are relatively highly differentiated (Fst = 0.089). Using various algorithms for determining the spatial genetic structure, the examined populations formed three groups according to geographical location. The data obtained are required for the development of species conservation and restoration programs, which are especially important in the Middle Urals, which is the region with strong forest fragmentation.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/10/1401"
+  },
+  {
+    "title": "Morpho-physiological variation of white spruce seedlings from various seed sources and implications for deployment under climate change",
+    "authors": [
+      "Isabelle Villeneuve,",
+      "Isabelle Villeneuve,",
+      "Mohammed S Lamhamedi,",
+      "Lahcen Benomar,",
+      "Andre Rainville,",
+      "Josianne DeBlois,",
+      "Jean Beaulieu,",
+      "Jean Beaulieu,",
+      "Jean Bousquet,",
+      "Marie-Claude Lambert,",
+      "Hank A Margolis"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2016.01450",
+    "journalVolume": "Vol. 7",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Because of changes in climatic conditions, tree seeds originating from breeding programs may no longer be suited to sites where they are currently sent. As a consequence, new seed zones may have to be delineated. Assisted migration consists of transferring seed sources that match the future climatic conditions to which they are currently adapted. It represents a strategy that could be used to mitigate the potential negative consequences of climate change on forest productivity. Decisions with regard to the choice of the most appropriate seed sources have to rely on appropriate knowledge of morpho-physiological responses of trees. To meet this goal, white spruce (Picea glauca [Moench] Voss) seedlings from eight seed orchards were evaluated during two years in a forest nursery, and at the end of the first growing season on three plantation sites located in different bioclimatic domains in Quebec.The morpho-physiological responses obtained at the end of the second growing season (2+0) in the nursery made it possible to cluster the orchards into three distinct groups. Modelling growth curves of these different groups showed that the height growth of seedlings from the second-generation and southern first-generation seed orchards was significantly higher than that of those from other orchards, by at least 6%. A multiple regression model with three climatic variables (average growing season temperature, average July temperature, length of the growing season) showed that the final height of seedlings (2+0) from the first-generation seed orchards was significantly related to the local climatic conditions at the orchard sites of origin where parental trees from surrounding natural populations were sampled to provide grafts for orchard establishment. Seedling height growth was significantly affected by both seed source origins and planting sites, but the relative ranking of the different seed sources was maintained regardless of reforestation site. This knowledge could be used, in conjunction with transfer models, to refine operational seed transfer rules and select the most suitable sites in an assisted migration strategy.",
+    "readLink": "http://journal.frontiersin.org/Journal/10.3389/fpls.2016.01450/full"
+  },
+  {
+    "title": "Soil properties and climate mediate the effects of biotic interactions on the performance of a woody range expander",
+    "authors": [
+      "Sara Tomiolo,",
+      "David Ward"
+    ],
+    "doi": "https://doi.org/10.1002/ecs2.2186",
+    "journalVolume": "Vol. 9,\n                                no. 4\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2150-8925 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2150-8925/",
+    "abstract": "Abstract Expansion of trees into grasslands and old fields is a complex process that leads to a decline of biodiversity and reduces rangeland availability. Climate and land‐use change contribute to accelerated rates of range expansion. However, the role of biotic interactions in promoting or hindering woody range expanders is still unclear. We investigated the combined effects of abiotic (soil properties and climate) and biotic (simulated grazing and intra‐ and interspecific plant–plant interactions) factors on a woody range‐expander, Juniperus virginiana, which has been spreading into grasslands and old‐field habitats in North America. We hypothesized that interspecific competition would negatively affect growth and survival of J. virginiana due to belowground competition with herbaceous species; grazing would favor J. virginiana via competitive release, and intraspecific interactions would be beneficial to tree seedlings during early life stages by means of facilitation. We also predicted that a thicker winter snowpack would have a positive impact on tree growth by providing protection from frost damage. In a multisite field experiment, we exposed J. virginiana seedlings to intra‐ and interspecific interactions, as well as simulated grazing of surrounding herbaceous species. These treatments were repeated at three different sites that vary in soil properties and that are situated along a precipitation gradient. Additionally, we conducted a snow‐manipulation experiment at one of the sites. We conducted our monitoring for two consecutive growing seasons characterized by very different rainfall conditions, the second growing season receiving between 6% and 14% more rainfall than the first. Under lower rainfall availability, interspecific interactions between tree seedlings and herbaceous species negatively affected seedling growth rates. However, this effect was detectable only during the drier year and at the site characterized by more favorable soil properties. During winter, we found that deeper snow cover was associated with decreased growth rate of plants, probably due to repeated freeze‐thaw cycles. Our results indicate that the role of biotic interactions had an effect only under harsh climatic conditions and that abiotic factors may affect range expansion directly and indirectly via biotic interactions.",
+    "readLink": "https://doi.org/10.1002/ecs2.2186"
+  },
+  {
+    "title": "Farm factors influencing soil fertility management patterns in Upper Eastern Kenya",
+    "authors": [
+      "Franklin S. Mairura,",
+      "Collins M. Musafiri,",
+      "Milka N. Kiboi,",
+      "Joseph M. Macharia,",
+      "Onesmus K. Ng'etich,",
+      "Chris A. Shisanya,",
+      "Jeremiah M. Okeyo,",
+      "Elizabeth A. Okwuosa,",
+      "Felix K. Ngetich"
+    ],
+    "doi": "Vol. 6\n                                \n                                \n                                  p.\n                                  100409",
+    "issn": "2667-0100 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://www.journals.elsevier.com/environmental-challenges/",
+    "abstract": "Farmer adoption of soil technologies has been commonly explored in the literature using binary models, which significantly simplifies the multi-dimensional nature of soil technology adoption. Therefore, it is necessary to fill this gap to improve technology adoption models to enhance small-scale farmers' soil fertility management practices. We investigated patterns of multiple soil technology adoption using multivariate analysis and regression modeling in Central Kenya. We used a cross-sectional survey design to sample 300 small-scale farmers in Tharaka-Nithi County and employed a multi-stage sampling design. We found that soil nutrient applications and soil fertility management patterns were linked to crop enterprises, driven by socioeconomic farm characteristics. Our findings showed that farmers applied higher N inputs and soil fertility management technologies on crops with high economic and staple use-values. Farmers in high potential agro-ecozones and those with higher incomes and TLU (Tropical Livestock Units) intensity applied higher fertilizer N intensities than farmers in low-potential zones, with lower incomes and lesser TLU intensities. Farm size was inversely related to nitrogen application intensity, while farmers had a lower propensity to restore fields undergoing degradation. We obtained five significant sets of soil fertility management technologies that farmers practiced due to the complementary nature of their benefits. We found that farmer perceptions of soil fertility, income distribution, site, education qualifications, credit access, labor availability, and access to extension services influenced their technology adoption patterns. We recommend that farmer sensitization about the fertility of their soils is needed to enhance soil fertility management strategies in small-scale farming systems.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2667010021003838"
+  },
+  {
+    "title": "Interactions between climate and landscape drive Holocene ecological change in a High Arctic lake on Somerset Island, Nunavut, Canada",
+    "authors": [
+      "Tara M. Paull,",
+      "Sarah A. Finkelstein,",
+      "Konrad Gajewski"
+    ],
+    "doi": "https://doi.org/10.1139/as-2016-0013",
+    "journalVolume": "Vol. 3,\n                                no. 1\n                                \n                                  pp.\n                                  17\n                                  – 38",
+    "issn": "2368-7460 (Online)",
+    "publisher": "Canadian Science Publishing",
+    "countryOfPublisher": "Canada",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering"
+    ],
+    "journalUrl": "https://cdnsciencepub.com/journal/as",
+    "abstract": "This study presents a diatom-based analysis of the post-glacial Holocene environmental history at Lake RS29 on Somerset Island in the Canadian High Arctic. Earliest post-glacial diatom assemblages (10 200–10 000 cal yr BP) consisted mainly of small, benthic fragilarioid taxa. Poor diatom preservation in the early Holocene (~10 000–6200 cal yr BP) is associated with warm conditions, as determined by pollen data from the same core and other paleoclimate estimates from the region. Analysis of this and other sites from across the Canadian Arctic suggest that zones of poor diatom preservation or diatom absence in lake sediment records may be associated with warm conditions. After 6200 cal yr BP, acidophilic assemblages consisting of Aulacoseira spp. and a suite of periphytic taxa indicate acidification since the mid-Holocene. During this time period, cooling causing changes in lake ice phenology was likely a major driver of the reconstructed mid-Holocene pH decline. Watershed processes, including reduced fluxes of base cations as the rate of sediment accumulation slowed, may also be contributors to long-term shifts in lake water pH and associated changes in diatom assemblages. The uppermost sediments in the Lake RS29 record were characterized by abrupt declines in Aulacoseira alpigena and increases in benthic diatom taxa Cyclotella sensu lato, suggesting an increase in lake water pH and longer ice-free seasons.",
+    "readLink": "https://doi.org/10.1139/as-2016-0013"
+  },
+  {
+    "title": "Stewardship Maturity Assessment Tools for Modernization of Climate Data Management",
+    "authors": [
+      "Robert Dunn,",
+      "Christina Lief,",
+      "Ge Peng,",
+      "William Wright,",
+      "Omar Baddour,",
+      "Markus Donat,",
+      "Brigitte Dubuisson,",
+      "Jean-François Legeais,",
+      "Peter Siegmund,",
+      "Reinaldo Silveira,",
+      "Xiaolan L. Wang,",
+      "Markus Ziese"
+    ],
+    "doi": "https://doi.org/10.5334/dsj-2021-007",
+    "journalVolume": "Vol. 20,\n                                no. 1",
+    "issn": "1683-1470 (Online)",
+    "publisher": "Ubiquity Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://datascience.codata.org/",
+    "abstract": "High quality and well-managed climate data are the cornerstone of all climate services. Consistently assessing how well the data are managed is one way to establish or demonstrate the trustworthiness of the data. This paper presents the World Meteorological Organization’s (WMO) Stewardship Maturity Matrix for Climate Data (SMM-CD) and the subsidiary SMM-CD for National and Regional Purposes (SMM-CD_NRP). Both these matrices have been developed with the support of the WMO and its High-Quality Global Data Management Framework for Climate (HQ-GDMFC). These self-assessment tools enable data managers to discover WMO recommended data stewardship practices, determine a roadmap for future development and improvement, as well as compare their process against other data providers. Datasets which have been maturity assessed are included in the WMO Climate Data Catalogue, where users can include the results of these maturity assessments into their decision-making process. The SMM-CD contains four categories (data access, usability and usage, quality management, and data management) each of which has a number of aspects, with scores assigned to one of five levels. A smaller number of categories in the SMM-CD_NRP are assigned to four levels appropriate for operationally produced datasets which are national or regional in scope. We explore a number of case studies where these matrices have been applied, as well as supply links to where the Guidance Documents and Assessment Templates (which may be updated) can be found.",
+    "readLink": "https://datascience.codata.org/articles/1277"
+  }
+]

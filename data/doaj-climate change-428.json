@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Vehicle Telematics for Safer, Cleaner and More Sustainable Urban Transport: A Review",
+    "authors": [
+      "Omid Ghaffarpasand,",
+      "Mark Burke,",
+      "Louisa K. Osei,",
+      "Helen Ursell,",
+      "Sam Chapman,",
+      "Francis D. Pope"
+    ],
+    "doi": "https://doi.org/10.3390/su142416386",
+    "journalVolume": "Vol. 14,\n                                no. 16386\n                                \n                                  p.\n                                  16386",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Urban transport contributes more than a quarter of the global greenhouse gas emissionns that drive climate change; it also produces significant air pollution emissions. Furthermore, vehicle collisions kill and seriously injure 1.35 and 60 million people worldwide, respectively, each year. This paper reviews how vehicle telematics can contribute towards safer, cleaner and more sustainable urban transport. Collection methods are reviewed with a focus on technical challenges, including data processing, storage and privacy concerns. We review how vehicle telematics can be used to estimate transport variables, such as traffic flow speed, driving characteristics, fuel consumption and exhaustive and non-exhaustive emissions. The roles of telematics in the development of intelligent transportation systems (ITSs), optimised routing services, safer road networks and fairer insurance premia estimation are highlighted. Finally, we outline the potential for telematics to facilitate new-to-market urban mobility technologies, signalised intersections, vehicle-to-vehicle (V2V) communication networks and other internet-of-things (IoT) and internet-of-vehicles (IoV) technologies.",
+    "readLink": "https://www.mdpi.com/2071-1050/14/24/16386"
+  },
+  {
+    "title": "The evolution of 21st century sea-level projections from IPCC AR5 to AR6 and beyond",
+    "authors": [
+      "Aimée B.A. Slangen,",
+      "Matthew D. Palmer,",
+      "Carolina M.L. Camargo,",
+      "John A. Church,",
+      "Tamsin L. Edwards,",
+      "Tim H.J. Hermans,",
+      "Helene T. Hewitt,",
+      "Gregory G. Garner,",
+      "Jonathan M. Gregory,",
+      "Robert E. Kopp,",
+      "Victor Malagon Santos,",
+      "Roderik S.W. van de Wal"
+    ],
+    "doi": "https://doi.org/10.1017/cft.2022.8",
+    "journalVolume": "Vol. 1",
+    "issn": "2754-7205 (Online)",
+    "publisher": "Cambridge University Press",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Hydraulic engineering: Harbors and coast protective works. Coastal engineering. Lighthouses",
+      "Geography. Anthropology. Recreation: Oceanography"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures",
+    "abstract": "Sea-level science has seen many recent developments in observations and modelling of the different contributions and the total mean sea-level change. In this overview, we discuss (1) the evolution of the Intergovernmental Panel on Climate Change (IPCC) projections, (2) how the projections compare to observations and (3) the outlook for further improving projections. We start by discussing how the model projections of 21st century sea-level change have changed from the IPCC AR5 report (2013) to SROCC (2019) and AR6 (2021), highlighting similarities and differences in the methodologies and comparing the global mean and regional projections. This shows that there is good agreement in the median values, but also highlights some differences. In addition, we discuss how the different reports included high-end projections. We then show how the AR5 projections (from 2007 onwards) compare against the observations and find that they are highly consistent with each other. Finally, we discuss how to further improve sea-level projections using high-resolution ocean modelling and recent vertical land motion estimates.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S2754720522000087/type/journal_article"
+  },
+  {
+    "title": "Impacts of Green Fraction Changes on Surface Temperature and Carbon Emissions: Comparison under Forestation and Urbanization Reshaping Scenarios",
+    "authors": [
+      "Faisal Mumtaz,",
+      "Jing Li,",
+      "Qinhuo Liu,",
+      "Aqil Tariq,",
+      "Arfan Arshad,",
+      "Yadong Dong,",
+      "Jing Zhao,",
+      "Barjeece Bashir,",
+      "Hu Zhang,",
+      "Chenpeng Gu,",
+      "Chang Liu"
+    ],
+    "doi": "https://doi.org/10.3390/rs15030859",
+    "journalVolume": "Vol. 15,\n                                no. 859\n                                \n                                  p.\n                                  859",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Global land cover dynamics alter energy, water, and greenhouse gas exchange between land and atmosphere, affecting local to global weather and climate change. Although reforestation can provide localized cooling, ongoing land use land cover (LULC) shifts are expected to exacerbate urban heat island impacts. In this study, we monitored spatiotemporal changes in green cover in response to land use transformation associated with the Khyber Pakhtunkhwa (KPK) provincial government’s Billion Tree Tsunami Project (BTTP) and the Ravi Urban Development Plan (RUDP) initiated by the provincial government of Punjab, both in Pakistan. The land change modeler (LCM) was used to assess the land cover changes and transformations between 2000 and 2020 across Punjab and KPK. Furthermore, a curve fit linear regression model (CFLRM) and sensitivity analysis were employed to analyze the impacts of land cover dynamics on land surface temperature (LST) and carbon emissions (CE). Results indicated a significant increase in green fraction of +5.35% under the BTTP, achieved by utilizing the bare land with an effective transition of 4375.87 km2. However, across the Punjab province, an alarming reduction in green fraction cover by −1.77% and increase in artificial surfaces by +1.26% was noted. A significant decrease in mean monthly LST by −4.3 °C was noted in response to the BTTP policy, while an increase of 5.3 °C was observed associated with the RUDP. A substantial increase in LST by 0.17 °C was observed associated with transformation of vegetation to artificial surfaces. An effective decrease in LST by −0.21 °C was observed over the opposite transition. Furthermore, sensitivity analysis suggested that LST fluctuations are affecting the % of CO2 emission. The current findings can assist policymakers in revisiting their policies to promote ecological conservation and sustainability in urban planning.",
+    "readLink": "https://www.mdpi.com/2072-4292/15/3/859"
+  },
+  null,
+  {
+    "title": "Acclimation temperature changes spermatozoa flagella length relative to head size in brown trout",
+    "authors": [
+      "Miriam Fenkes,",
+      "John L. Fitzpatrick,",
+      "Holly A. Shiels,",
+      "Robert L. Nudds"
+    ],
+    "doi": "https://doi.org/10.1242/bio.039461",
+    "journalVolume": "Vol. 8,\n                                no. 7",
+    "issn": "2046-6390 (Online)",
+    "publisher": "The Company of Biologists",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://journals.biologists.com/bio",
+    "abstract": "Temperature is a ubiquitous environmental factor affecting physiological processes of ectotherms. Due to the effects of climate change on global air and water temperatures, predicting the impacts of changes in environmental thermal conditions on ecosystems is becoming increasingly important. This is especially crucial for migratory fish, such as the ecologically and economically vital salmonids, because their complex life histories make them particularly vulnerable. Here, we addressed the question whether temperature affects the morphology of brown trout, Salmo trutta L. spermatozoa. The fertilising ability of spermatozoa is commonly attributed to their morphological dimensions, thus implying direct impacts on the reproductive success of the male producing the cells. We show that absolute lengths of spermatozoa are not affected by temperature, but spermatozoa from warm acclimated S. trutta males have longer flagella relative to their head size compared to their cold acclimated counterparts. This did not directly affect sperm swimming speed, although spermatozoa from warm acclimated males may have experienced a hydrodynamic advantage at warmer temperatures, as suggested by our calculations of drag based on head size and sperm swimming speed. The results presented here highlight the importance of increasing our knowledge of the effects of temperature on all aspects of salmonid reproduction in order to secure their continued abundance.",
+    "readLink": "http://bio.biologists.org/content/8/7/bio039461"
+  },
+  {
+    "title": "Wetland Management in Recharge Regions of Regional Groundwater Flow Systems with Water Shortage, Nyírség Region, Hungary",
+    "authors": [
+      "Szilvia Simon,",
+      "Judit Déri-Takács,",
+      "Márk Szijártó,",
+      "László Szél,",
+      "Judit Mádl-Szőnyi"
+    ],
+    "doi": "https://doi.org/10.3390/w15203589",
+    "journalVolume": "Vol. 15,\n                                no. 3589\n                                \n                                  p.\n                                  3589",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Climate change and increasing human impacts are more emphasised in recharge regions, where the main flow direction is downward, resulting in negative water balance. Two wetlands located in the recharge position of regional groundwater flow systems were investigated in the Nyírség region, Hungary, as pilot areas for representing wetlands in similar hydraulic positions. Hydraulic data processes, chemical data evaluations, and numerical simulations revealed that the wetlands are fed via local flow systems, superimposing regional-scale recharge conditions in the area. The wetlands are discharge and flow-through types in connection with local flow systems. Nevertheless, in the case of significant regional water table decline—due to the high vulnerability of recharge areas to climate change—local flows are degraded, so they are not able to sustain the wetlands. To preserve the groundwater-dependent ecosystems in the areas, water retention at the local recharge areas of the wetlands may help in the mitigation of water level decline under present-day conditions. If the regional water table continues to decline, comprehensive water retention solutions are needed in the whole region. The results highlight that understanding the natural wetland–groundwater interactions at different scales is crucial for the preservation of wetlands and for successful water retention planning.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/20/3589"
+  },
+  {
+    "title": "Impact of artificially simulated precipitation patterns change on the growth and morphology of <i>Reaumuria soongarica</i> seedlings in Hexi Corridor of China",
+    "authors": [
+      "Yanfei Xie,",
+      "Yi Li,",
+      "Tingting Xie,",
+      "Ruiling Meng,",
+      "Zhiqiang Zhao"
+    ],
+    "doi": "https://doi.org/10.3390/su12062439",
+    "journalVolume": "Vol. 12,\n                                no. 6\n                                \n                                  p.\n                                  2439",
+    "issn": "2071-1050 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering: Environmental effects of industries and plants",
+      "Technology: Mechanical engineering and machinery: Renewable energy sources",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sustainability",
+    "abstract": "Climate change has altered the existing pattern of precipitation and has an important impact on the resistance and adaptability of desert plants. However, the interactive impact and the main characteristics of changes in precipitation amount and precipitation frequency on desert plants are unclear. Reaumuria soongarica seedlings were treated by artificially simulating changes in precipitation (30% reduction and 30% increase) and its frequency (50% reduction). We first introduced three morphological indicators (i.e., main root length/plant height ratio (RHR), above-ground radial density (ARD), and below−ground radial density (BRD)) and drew an abstract figure of seedling growth. This experiment confirmed the following: (1) The increase in precipitation noticeably increased the plant height, above-ground biomass, and total biomass of seedlings. (2) The plant height and the biomass of seedlings were more affected by precipitation amount than by precipitation frequency. No interaction was found between precipitation amount and precipitation frequency on the growth of seedlings. (3) The response of RHR to precipitation changes was extremely significant, increasing with decreasing precipitation and vice versa. (4) The ARD first increased then remained constant as precipitation increased, while ARD first decreased and then increased with decreasing precipitation. When precipitation increases, the BRD increases and the root system becomes relatively thicker and shorter, and vice versa. In this regard, R. soongarica seedlings mainly adapt to their resource supply by adjusting plant height, root length, thickness and biomass.",
+    "readLink": "https://www.mdpi.com/2071-1050/12/6/2439"
+  },
+  {
+    "title": "Integrated Management and Environmental Impact Assessment of Sustainable Groundwater-Dependent Development in Toshka District, Egypt",
+    "authors": [
+      "Marwa M. Aly,",
+      "Ahmed M. I. Abd Elhamid,",
+      "Heba Abdel-Aziz Abu-Bakr,",
+      "Ahmed Shalby,",
+      "Shymaa A. K. Fayad"
+    ],
+    "doi": "https://doi.org/10.3390/w15122183",
+    "journalVolume": "Vol. 15,\n                                no. 2183\n                                \n                                  p.\n                                  2183",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Egypt has recently inaugurated a mega development project aiming to alleviate the overpopulation along the Nile River and to meet the looming food gap. Toshka is a promising area where groundwater-dependent activities are being expanded adjacent to Lake Nasser. Thus, it is of utmost importance to provide a sustainable development approach and to assess the resulting environmental implications. Accordingly, a coupled groundwater flow and transport model was invoked. The generated model was successfully calibrated for the observed water levels and salinity. The proposed exploitation regime of 102 wells each pumping 1000 m3/day was simulated for a 100-year test period. The maximum resulting drawdown was about 25 m, compatible with the advocated sustainable restriction limit. Climate change (CC) impacts of reducing the lake’s storage and increasing the crops’ water requirements were investigated. The lake’s water level fluctuations were a key factor in the aquifer hydraulics and flow direction. The drawdown breakthrough considering the CC catastrophic scenario (RCP8.5) has increased by about 20%. The developed solute transport model was utilized to simulate the salinity spatial distribution and the lateral movement of leaking pollutants from the underway activities. Cultivation activities were found feasible up to 80 km away from the lake border where salinity does not exceed 2000 ppm. Yet, a protection strip of not less than 4.8, 6.0, and 7.2 km according to the lake operating condition is inevitable to ensure that pollutants do not intrude into the lake. These findings will assist the decision-makers in scheming environmental impact assessment criteria for sustainable development.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/12/2183"
+  },
+  {
+    "title": "Reporting of Climate Change News in Three Nigerian Newspapers",
+    "authors": [
+      "O P Fawole,",
+      "B R Olajide"
+    ],
+    "doi": "Vol. 16,\n                                no. 1",
+    "issn": "1119-944X (Print)",
+    "publisher": "2408-6851 (Online)",
+    "countryOfPublisher": "Agricultural Extension Society of Nigeria",
+    "lcc": [
+      "Nigeria",
+      "Agriculture: Agriculture (General)"
+    ],
+    "journalUrl": "https://journal.aesonnigeria.org/index.php/jae",
+    "abstract": "The trend of news frame in the print media has implications for public perception of emerging development issues and actions that members of the public in general and farmers in particular will take in similar situations in the future. Combining the occurrence of climate change topical news variables and framing theories, this study content-analysed 111 climate news items framed in three Nigerian newspapers (the Guardian, Punch and Nigerian Tribune) between January 2010 and June 2011. Variables measured included news types, placement, sources, space allotted and period of report of climate change related stories. Data were analysed using both descriptive (frequency, percentage) and inferential (chi-square) statistics at p<0.05. Across the three newspapers, types of news reported as a result of climate change were flooding (41.4%) and oil spillage (27.9%). They were strategically placed at the front (32.4%) middle (36.0%) and back (31.5%) pages of the newspapers. The newspapers quoted news reporters of other media organizations (62.2%) and government officials (22.5%) as major sources of their climates change information. Space allocated to climate change news was higher in the Guardian newspaper (897cm2) compared to the Punch and the Nigerian Tribune (884cm2). Major frames found in these dailies include warning, solution, disaster, awareness, call for assistance and blames. Types of climate change news did not affect placement given to coverage of such news (X2 = 13.45; p= 0.20). In spite of competition for space and prominence by wide range of development issues, climate change news coverage relatively enjoyed prominence. Therefore, efforts should be made to sustain this given the menace climate change portends in the face of any neglect by stakeholders especially the media.",
+    "readLink": "http://aesonnigeria.org/ajm/index.php/jae/article/view/151"
+  },
+  {
+    "title": "Comprehensive Validation and Calibration of MODIS PWV over Mainland China",
+    "authors": [
+      "Yanyan Zhao,",
+      "Hongwei Zhao,",
+      "Junqiang Li,",
+      "Gongwei Xiao"
+    ],
+    "doi": "https://doi.org/10.3390/atmos13111763",
+    "journalVolume": "Vol. 13,\n                                no. 1763\n                                \n                                  p.\n                                  1763",
+    "issn": "2073-4433 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/atmosphere/",
+    "abstract": "Although ground-based precipitable water vapor (PWV) can be obtained with a high temporal resolution and spatial resolution of tens of kilometers in an urban area using Global Navigation Satellite System (GNSS) observation, it remains fairly sparse in the vast regions over Mainland China. Satellite-derived PWV has a high spatial resolution, thereby enabling the accurate investigation of regional climate change. However, understanding the quality of satellite-derived PWV products is a prerequisite before use, which has become the focus of this study. PWV products, namely, MOD05_L2 and MYD05_L2, over the entirety of Mainland China derived from MODerate Resolution Imaging Spectroradiometer (MODIS) onboard Terra and Aqua satellites are validated over the period 2000–2017 using multiple sources, including GNSS, radiosonde, AErosol RObotic NETwork (AERONET), and European Center for Medium-Range Weather Forecasts ERA-Interim (ECMWF). The accuracy of MODIS PWV products is less than 4.3 mm over the entirety of Mainland China; however, it varies in four areas of South China (SC), North China (NC), Northwest China (NWC), and Tibetan Plateau (TP), separately with values ranging from 3 mm to 6 mm. A linear fit model is applied to calibrate the MODIS PWV products, and the accuracies of the corrected PWV from MODIS infrared (IR) and near-infrared (NIR) products have been improved by approximately 7.5% and 50.6%, respectively. The MODIS PWV is compared and calibrated in the four areas, and the improved accuracies vary widely. The root mean square error (RMSE) of IR PWV is approximately less than 4 mm over China except for the SC area with a value of approximately 5.3 mm after calibration, whereas the values of NIR PWV are approximately 2 mm over the entirety of Mainland China, except for the TP area, with a value of approximately 2.6 mm. The MODIS NIR PWV performs better than that of IR PWV data in most areas of Mainland China regardless of whether with calibration. The validation and calibration of MODIS water vapor products over Mainland China also indicate their capability to investigate the seasonal and annual variations as well as long-term trend changes in water vapor in China.",
+    "readLink": "https://www.mdpi.com/2073-4433/13/11/1763"
+  }
+]

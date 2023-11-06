@@ -1,0 +1,209 @@
+[
+  {
+    "title": "NEW CLIMATE INDICES IN ESTIMATION OF REGIONAL CLIMATE’S VARIABILITY",
+    "authors": [
+      "NEDEALCOV Maria"
+    ],
+    "doi": "https://doi.org/10.15551/pesd2019132016",
+    "journalVolume": "Vol. 13,\n                                no. 2\n                                \n                                  pp.\n                                  211\n                                  – 223",
+    "issn": "2284-7820 (Online)",
+    "publisher": "Alexandru Ioan Cuza University Press, Iasi, Romania",
+    "countryOfPublisher": "Romania",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.pesd.ro/",
+    "abstract": "The specifics of climatic variability in recent decades, expressed by the frequent alternations of cold-hot and wet-dry periods, led to the author's elaboration of two climatic indices with the aim of highlighting the spatio-temporal features of regional climate manifestation. Given that excessive precipitations are becoming a more frequent phenomenon on the territory of the republic, the identification of the vulnerable areas and their devastated character is of particular interest, especially in the decision making for soils’ erosion processes. Nedealcov’s Rainfall Excess Danger Index (IPP), with the appropriate rainfall classes and the Thermal Variability Index (IVT) Thermal Singularities Variability Index (IVST) with the corresponding ratings is useful for this purpose. The development of digital maps and the temporal estimations obtained from these indices demonstrate their usefulness in identification of the variability of the regional climate, largely determined by global climate change.",
+    "readLink": "http://pesd.ro/articole/nr.13/nr.2/10432%20-Volume13_issue_2%2016_paper.pdf"
+  },
+  {
+    "title": "Glacier projections sensitivity to temperature-index model choices and calibration strategies",
+    "authors": [
+      "Lilian Schuster,",
+      "David R. Rounce,",
+      "Fabien Maussion"
+    ],
+    "doi": "https://doi.org/10.1017/aog.2023.57",
+    "issn": "0260-3055 (Print)",
+    "publisher": "1727-5644 (Online)",
+    "countryOfPublisher": "Cambridge University Press",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.cambridge.org/core/journals/annals-of-glaciology",
+    "abstract": "The uncertainty of glacier change projections is largely influenced by glacier models. In this study, we focus on temperature-index mass-balance (MB) models and their calibration. Using the Open Global Glacier Model (OGGM), we examine the influence of different surface-type dependent degree-day factors, temporal climate resolutions (daily, monthly) and downscaling options (temperature lapse rates, temperature and precipitation corrections) for 88 glaciers with in-situ observations. Our findings indicate that higher spatial and temporal resolution observations enhance MB gradient representation due to an improved calibration. The addition of surface-type distinction in the model also improves MB gradients, but the lack of independent observations limits our ability to demonstrate the added value of increased model complexity. Some model choices have systematic effects, for example weaker temperature lapse rates result in smaller projected glaciers. However, we often find counter balancing effects, such as the sensitivity to different degree-day factors for snow, firn and ice, which depends on how the glacier accumulation area ratio changes in the future. Similarly, using daily versus monthly climate data can affect glaciers differently depending on the shifting balance between melt and solid precipitation thresholds. Our study highlights the importance of considering minor model design differences to predict future glacier volumes and runoff accurately.",
+    "readLink": "https://www.cambridge.org/core/product/identifier/S0260305523000575/type/journal_article"
+  },
+  {
+    "title": "A spatial simulation model for the dispersal of the bluetongue vector Culicoides brevitarsis in Australia.",
+    "authors": [
+      "Joel K Kelso,",
+      "George J Milne"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0104646",
+    "journalVolume": "Vol. 9,\n                                no. 8\n                                \n                                  p.\n                                  e104646",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "BackgroundThe spread of Bluetongue virus (BTV) among ruminants is caused by movement of infected host animals or by movement of infected Culicoides midges, the vector of BTV. Biologically plausible models of Culicoides dispersal are necessary for predicting the spread of BTV and are important for planning control and eradication strategies.MethodsA spatially-explicit simulation model which captures the two underlying population mechanisms, population dynamics and movement, was developed using extensive data from a trapping program for C. brevitarsis on the east coast of Australia. A realistic midge flight sub-model was developed and the annual incursion and population establishment of C. brevitarsis was simulated. Data from the literature was used to parameterise the model.ResultsThe model was shown to reproduce the spread of C. brevitarsis southwards along the east Australian coastline in spring, from an endemic population to the north. Such incursions were shown to be reliant on wind-dispersal; Culicoides midge active flight on its own was not capable of achieving known rates of southern spread, nor was re-emergence of southern populations due to overwintering larvae. Data from midge trapping programmes were used to qualitatively validate the resulting simulation model.ConclusionsThe model described in this paper is intended to form the vector component of an extended model that will also include BTV transmission. A model of midge movement and population dynamics has been developed in sufficient detail such that the extended model may be used to evaluate the timing and extent of BTV outbreaks. This extended model could then be used as a platform for addressing the effectiveness of spatially targeted vaccination strategies or animal movement bans as BTV spread mitigation measures, or the impact of climate change on the risk and extent of outbreaks. These questions involving incursive Culicoides spread cannot be simply addressed with non-spatial models.",
+    "readLink": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25105418/pdf/?tool=EBI"
+  },
+  {
+    "title": "Long-Term Rainfall Trends and Future Projections over Xijiang River Basin, China",
+    "authors": [
+      "Muhammad Touseef,",
+      "Lihua Chen,",
+      "Kaipeng Yang,",
+      "Yunyao Chen"
+    ],
+    "doi": "https://doi.org/10.1155/2020/6852148",
+    "journalVolume": "Vol. 2020",
+    "issn": "1687-9309 (Print)",
+    "publisher": "1687-9317 (Online)",
+    "countryOfPublisher": "Hindawi Limited",
+    "lcc": [
+      "United Kingdom",
+      "Science: Physics: Meteorology. Climatology"
+    ],
+    "journalUrl": "https://www.hindawi.com/journals/amete/",
+    "abstract": "Precipitation trend detection is vital for water resources development and decision support systems. This study predicts the climate change impacts on long-term precipitation trends. It deals with the analysis of observed historical (1960–2010) and arithmetic mean method in assembling precipitation from CMIP5 Global Climate Models (GCMs) datasets for a future period (2020–2099) under four emission scenarios. Daily precipitation data of 32 weather stations in the Xijiang River Basin were provided by National Meteorological Information Centre (NMIC) of the China Meteorological Administration (CMA) and Global Climate Models (GCMs) with all four emission scenarios statistically downscaled using Bias Correction Special Disaggregation (BCSD) and applied for bias correction via Climate Change Toolkit (CCT). Nonparametric Mann–Kendall test was applied for statistical significance trend analysis while the magnitude of the trends was determined by nonparametric Sen’s estimator method on a monthly scale to detect monotonic trends in annual and seasonal precipitation time series. The results showed a declined trend was observed for the past 50 years over the basin with negative values of MK test (Z) and Sen’s slope Q. Historical GCMs precipitation detected decreasing trends except for NoerESM1-M which observed slightly increasing trends. The results are further validated by historical precipitation recorded by the Climate Research Unit (CRU-TS-3.1). The future scenarios will likely be positive trends for annual rainfall. Significant positive trends were observed in monsoon and winter seasons while premonsoon and postmonsoon seasons will likely be slightly downward trends. The 2040s will likely observe the lowest increase of 6.6% while the 2050s will observe the highest increase of 11.5% over the 21st century under future scenarios. However, due to the uncertainties in CMIP5, the future precipitation projections should be interpreted with caution. Thus, it could be concluded that the trend of change in precipitation around the Xijiang River Basin is on the increase under future scenarios. The results can be valuable to water resources and agriculture management policies, as well as the approach for managing floods and droughts under the perspective of global climate change.",
+    "readLink": "http://dx.doi.org/10.1155/2020/6852148"
+  },
+  {
+    "title": "The Ecology and Evolution of Japanese Encephalitis Virus",
+    "authors": [
+      "Peter Mulvey,",
+      "Veasna Duong,",
+      "Sebastien Boyer,",
+      "Graham Burgess,",
+      "David T. Williams,",
+      "Philippe Dussart,",
+      "Paul F. Horwood"
+    ],
+    "doi": "https://doi.org/10.3390/pathogens10121534",
+    "journalVolume": "Vol. 10,\n                                no. 1534\n                                \n                                  p.\n                                  1534",
+    "issn": "2076-0817 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/pathogens",
+    "abstract": "Japanese encephalitis virus (JEV) is a mosquito-borne flavivirus mainly spread by Culex mosquitoes that currently has a geographic distribution across most of Southeast Asia and the Western Pacific. Infection with JEV can cause Japanese encephalitis (JE), a severe disease with a high mortality rate, which also results in ongoing sequalae in many survivors. The natural reservoir of JEV is ardeid wading birds, such as egrets and herons, but pigs commonly play an important role as an amplifying host during outbreaks in human populations. Other domestic animals and wildlife have been detected as hosts for JEV, but their role in the ecology and epidemiology of JEV is uncertain. Safe and effective JEV vaccines are available, but unfortunately, their use remains low in most endemic countries where they are most needed. Increased surveillance and diagnosis of JE is required as climate change and social disruption are likely to facilitate further geographical expansion of Culex vectors and JE risk areas.",
+    "readLink": "https://www.mdpi.com/2076-0817/10/12/1534"
+  },
+  {
+    "title": "Vegetation EVI changes and response to natural factors and human activities based on geographically and temporally weighted regression",
+    "authors": [
+      "Guangjie Wang,",
+      "Wenfu Peng,",
+      "Lindan Zhang,",
+      "Ji Zhang,",
+      "Jiayao Xiang"
+    ],
+    "doi": "Vol. 45\n                                \n                                \n                                  p.\n                                  e02531",
+    "issn": "2351-9894 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "Netherlands",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/global-ecology-and-conservation/",
+    "abstract": "The research on vegetation changes plays a crucial role in the assessment of ecosystem health, monitoring environmental changes, providing early warnings for natural disasters, and supporting decision-making for sustainable development. However, understanding the nonstationary characteristics of drivers affecting vegetation change remains challenging. This study used Enhanced Vegetation Index (EVI) data obtained through Google Earth Engine (GEE), Theil-Sen, and Mann-Kendall methods to analyze the spatial-temporal patterns and trends of vegetation changes in Sichuan, western China from 2000 to 2020. The Geographical and Temporal Weighted Regression (GTWR) method was applied to deal with spatial and temporal nonstationarity simultaneously. Results showed that vegetation cover in Sichuan was good overall, with medium and high vegetation covering more than 78% of the area. About 72.75% of the area showed an increasing trend in vegetation cover, and areas with extremely significant and significant EVI growth (p < 0.01 and 0.01 ≤ p < 0.05) accounted for 23.94% of the total area. The areas with significant increases in vegetation EVI were mainly distributed in northeast, east, southeast, central, and southwest in Sichuan, while the areas with significant decreases were mainly distributed in the central Sichuan plain urban agglomeration and western Sichuan plateau. GTWR addressed the nonstationary effect of the temporal dimension on the drivers of natural and human activities, with a fitted R2 of 0.846. The study identified climate, terrain, and human activities as the primary driving factors behind vegetation EVI fluctuations. Annual average temperature and precipitation, human activities, and slope had a positive impact on vegetation EVI changes, while solar radiation and aspect had a negative inhibitory effect. The effects of climate, terrain, and human activities on EVI changes exhibited significant spatial heterogeneity and clustering, resulting in either positive promotion or negative inhibition. This study provides an additional methodology to solve the nonstationary problem of vegetation change trends and their response mechanisms. The revealed changes in vegetation EVI and the spatiotemporal heterogeneity characteristics of their driving factors are important for fragile ecosystems to adapt to and mitigate the effects of natural changes and human activities. Revealing the variations in vegetation EVI and their underlying drivers can showcase diverse characteristics across regions and time periods, the presence of spatiotemporal heterogeneity holds great significance in comprehending the adaptive strategies employed by fragile ecosystems to mitigate the effects of natural fluctuations and human-induced activities.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S235198942300166X"
+  },
+  {
+    "title": "Transformation of river runoff in permafrost zone of the Central Siberia under various scenarios of forest cover and climate change",
+    "authors": [
+      "D. A. Prysov,",
+      "T. A. Burenina,",
+      "A. V. Musokhranova,",
+      "A. D. Koshkarov"
+    ],
+    "doi": "https://doi.org/10.15372/SJFS20210104",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  30\n                                  – 44",
+    "issn": "2311-1410 (Print)",
+    "publisher": "2312-2099 (Online)",
+    "countryOfPublisher": "Russian Academy of Sciences, Siberian Branch Publishing House",
+    "lcc": [
+      "Russian Federation",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://sibjforsci.com/",
+    "abstract": "The rise in air temperature that has taken place in recent decades both globally and on the territory of the Russian Federation has an impact on many environmental processes, including the hydrological regime of rivers. According to the data of meteorological stations for 1952–2012, the change in the main climatic indicators in the studied territory of the Central Siberia was estimated. Analysis of meteorological data confirms that over the past decades, there has been a change in the average annual air temperature. Changes of air temperature in the study area are characterized by a stable tendency to warming at a rate of 0.26–0.36 °С/10 years. The average air temperatures for the warm (V–IX) and cold (X–IV) months have a positive tendency to increase. Based on cartographic materials and satellite images, data on dynamic of forest cover were obtained for nine catchments located within three landscape zones – forest-tundra, northern and middle taiga. A regional model of the relationship between river runoff with forest cover of catchments, geographical coordinates and average annual air temperature was development. Numerical experiments with the obtained model showed that an increase in the forest cover of the river catchments in northern latitudes contributes to an increase in the annual runoff, and in southern regions, to its decrease. The results obtained can serve as a theoretical basis for a sustainable forest management in order to obtain the desired hydrological effect.",
+    "readLink": "https://xn--80abmehbaibgnewcmzjeef0c.xn--p1ai/upload/iblock/1b4/1b43da27da52df860fd6863db132c1f1.pdf"
+  },
+  {
+    "title": "Assessing the Benthic Response to Climate-Driven Methane Hydrate Destabilisation: State of the Art and Future Modelling Perspectives",
+    "authors": [
+      "Maria De La Fuente,",
+      "Sandra Arndt,",
+      "Héctor Marín-Moreno,",
+      "Tim A. Minshull"
+    ],
+    "doi": "https://doi.org/10.3390/en15093307",
+    "journalVolume": "Vol. 15,\n                                no. 3307\n                                \n                                  p.\n                                  3307",
+    "issn": "1996-1073 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/energies",
+    "abstract": "Modern observations and geological records suggest that anthropogenic ocean warming could destabilise marine methane hydrate, resulting in methane release from the seafloor to the ocean-atmosphere, and potentially triggering a positive feedback on global temperature. On the decadal to millennial timescales over which hydrate-sourced methane release is hypothesized to occur, several processes consuming methane below and above the seafloor have the potential to slow, reduce or even prevent such release. Yet, the modulating effect of these processes on seafloor methane emissions remains poorly quantified, and the full impact of benthic methane consumption on ocean carbon chemistry is still to be explored. In this review, we document the dynamic interplay between hydrate thermodynamics, benthic transport and biogeochemical reaction processes, that ultimately determines the impact of hydrate destabilisation on seafloor methane emissions and the ocean carbon cycle. Then, we provide an overview of how state-of-the-art numerical models treat such processes and examine their ability to quantify hydrate-sourced methane emissions from the seafloor, as well as their impact on benthic biogeochemical cycling. We discuss the limitations of current models in coupling the dynamic interplay between hydrate thermodynamics and the different reaction and transport processes that control the efficiency of the benthic sink, and highlight their shortcoming in assessing the full implication of methane release on ocean carbon cycling. Finally, we recommend that current Earth system models explicitly account for hydrate driven benthic-pelagic exchange fluxes to capture potential hydrate-carbon cycle-climate feed-backs.",
+    "readLink": "https://www.mdpi.com/1996-1073/15/9/3307"
+  },
+  {
+    "title": "Simulating Spatiotemporal Changes in Land Use and Land Cover of the North-Western Himalayan Region Using Markov Chain Analysis",
+    "authors": [
+      "Owais Bashir,",
+      "Shabir Ahmad Bangroo,",
+      "Wei Guo,",
+      "Gowhar Meraj,",
+      "Gebiaw T. Ayele,",
+      "Nasir Bashir Naikoo,",
+      "Shahid Shafai,",
+      "Perminder Singh,",
+      "Mohammad Muslim,",
+      "Habitamu Taddese,",
+      "Irfan Gani,",
+      "Shafeeq Ur Rahman"
+    ],
+    "doi": "https://doi.org/10.3390/land11122276",
+    "journalVolume": "Vol. 11,\n                                no. 2276\n                                \n                                  p.\n                                  2276",
+    "issn": "2073-445X (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/land",
+    "abstract": "Spatial variabilities and drivers of land use and land cover (LULC) change over time and are crucial for determining the region’s economic viability and ecological functionality. The North-Western Himalayan (NWH) regions have witnessed drastic changes in LULC over the last 50 years, as a result of which their ecological diversity has been under significant threat. There is a need to understand how LULC change has taken place so that appropriate conservation measures can be taken well in advance to understand the implications of the current trends of changing LULC. This study has been carried out in the Baramulla district of the North-Western Himalayas to assess its current and future LULC changes and determine the drivers responsible for future policy decisions. Using Landsat 2000, 2010, and 2020 satellite imagery, we performed LULC classification of the study area using the maximum likelihood supervised classification. The land-use transition matrix, Markov chain model, and CA-Markov model were used to determine the spatial patterns and temporal variation of LULC for 2030. The CA-Markov model was first used to predict the land cover for 2020, which was then verified by the actual land cover of 2020 (Kappa coefficient of 0.81) for the model’s validation. After calibration and validation of the model, LULC was predicted for the year 2030. Between the years 2000 and 2020, it was found that horticulture, urbanization, and built-up areas increased, while snow cover, forest cover, agricultural land, and water bodies all decreased. The significant drivers of LULC changes were economic compulsions, climate variability, and increased human population. The analysis finding of the study highlighted that technical, financial, policy, or legislative initiatives are required to restore fragile NWH regions experiencing comparable consequences.",
+    "readLink": "https://www.mdpi.com/2073-445X/11/12/2276"
+  },
+  {
+    "title": "Expounding the production and importance of cowpea (Vigna unguiculata (L.) Walp.) in Ethiopia",
+    "authors": [
+      "Erana Kebede,",
+      "Zelalem Bekeko"
+    ],
+    "doi": "https://doi.org/10.1080/23311932.2020.1769805",
+    "journalVolume": "Vol. 6,\n                                no. 1",
+    "issn": "2331-1932 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Agriculture",
+      "Technology: Chemical technology: Food processing and manufacture"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/oafa",
+    "abstract": "Cowpea is an important legume crop growing across the world mainly in tropical and subtropical regions including Ethiopia. Besides its noticeable production, little is known about its yield, productivity, importance, and distribution in Ethiopia. This review paper aimed to reveal the production and importance of cowpea in Ethiopia. Cowpea is produced in Ethiopia primarily for its edible seeds, pods and the leaves that are used as human food and animal feed, and income provision to households. Its production is practiced under varying cropping systems including sole cropping, intercropping and mixed cropping system. The yield of cowpea has generally remained below the potential of the crop and consistently remained below the world averages as a higher proportion of farm households grow cowpea on marginally fertile and infertile soils. The overall low yield potential of cowpea is mainly attributed to limited attention by research and development programmes, severe attacks of pest complexes, low soil fertility, drought, poor management practices, marketing problems, and poor technology dissemination and popularization. However, Ethiopia has a high potential for the production of various crops, especially cowpea, due to the diverse agroecology and suitability of the country. Moreover, the integration of cowpea with the farming system has significant importance in improving nutrition, soil productivity, feed quality, and withstands the impact of climate change. Therefore, further research strategies, promotion of improved agronomic practices, and successful marketing systems are required to alleviate problems and boost the production of cowpea in Ethiopia.",
+    "readLink": "http://dx.doi.org/10.1080/23311932.2020.1769805"
+  }
+]

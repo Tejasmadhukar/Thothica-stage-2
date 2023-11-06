@@ -1,0 +1,196 @@
+[
+  {
+    "title": "The Contribution of Trees Outside of Forests to Landscape Carbon and Climate Change Mitigation in West Africa",
+    "authors": [
+      "David L. Skole,",
+      "Jay H. Samek,",
+      "Moussa Dieng,",
+      "Cheikh Mbow"
+    ],
+    "doi": "https://doi.org/10.3390/f12121652",
+    "journalVolume": "Vol. 12,\n                                no. 1652\n                                \n                                  p.\n                                  1652",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "While closed canopy forests have been an important focal point for land cover change monitoring and climate change mitigation, less consideration has been given to methods for large scale measurements of trees outside of forests. Trees outside of forests are an important but often overlooked natural resource throughout sub-Saharan Africa, providing benefits for livelihoods as well as climate change mitigation and adaptation. In this study, the development of an individual tree cover map using very high-resolution remote sensing and a comparison with a new automated machine learning mapping product revealed an important contribution of trees outside of forests to landscape tree cover and carbon stocks in a region where trees outside of forests are important components of livelihood systems. Here, we test and demonstrate the use of allometric scaling from remote sensing crown area to provide estimates of landscape-scale carbon stocks. Prominent biomass and carbon maps from global-scale remote sensing greatly underestimate the “invisible” carbon in these sparse tree-based systems. The measurement of tree cover and carbon in these landscapes has important application in climate change mitigation and adaptation policies.",
+    "readLink": "https://www.mdpi.com/1999-4907/12/12/1652"
+  },
+  {
+    "title": "Arctic stratosphere changes in the 21st century in the Earth system model SOCOLv4",
+    "authors": [
+      "Pavel Vargin,",
+      "Pavel Vargin,",
+      "Sergey Kostrykin,",
+      "Sergey Kostrykin,",
+      "Andrey Koval,",
+      "Andrey Koval,",
+      "Andrey Koval,",
+      "Eugene Rozanov,",
+      "Eugene Rozanov,",
+      "Tatiana Egorova,",
+      "Sergey Smyshlyaev,",
+      "Sergey Smyshlyaev,",
+      "Natalia Tsvetkova"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2023.1214418",
+    "journalVolume": "Vol. 11",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "Two ensemble simulations of a new Earth system model (ESM) SOCOLv4 (SOlar Climate Ozone Links, version 4) for the period from 2015 to 2099 under moderate (SSP2-4.5) and severe (SSP5-8.5) scenarios of greenhouse gas (GHG) emission growth were analyzed to investigate changes in key dynamical processes relevant for Arctic stratospheric ozone. The model shows a 5–10 K cooling and 5%–20% humidity increase in the Arctic lower–upper stratosphere in March (when the most considerable ozone depletion may occur) between 2080–2099 and 2015–2034. The minimal temperature in the lower polar stratosphere in March, which defines the strength of ozone depletion, appears when the zonal mean meridional heat flux in the lower stratosphere in the preceding January–February is the lowest. In the late 21st century, the strengthening of the zonal mean meridional heat flux with a maximum of up to 20 K m/s (∼25%) in the upper stratosphere close to 70°N in January–February is obtained in the moderate scenario of GHG emission, while only a slight increase in this parameter over 50 N–60 N with the maximum up to 5 K m/s in the upper stratosphere and a decrease with the comparable values over the high latitudes is revealed in the severe GHG emission scenario. Although the model simulations confirm the expected ozone layer recovery, particularly total ozone minimum values inside the Arctic polar cap in March throughout the 21st century are characterized by a positive trend in both scenarios, the large-scale negative ozone anomalies in March up to −80 DU–100 DU, comparable to the second lowest ones observed in March 2011 but weaker than record values in March 2020, are possible in the Arctic until the late 21st century. The volume of low stratospheric air with temperatures below the solid nitric acid trihydrate polar stratospheric cloud (PSC NAT) formation threshold is reconstructed from 3D potential vorticity and temperature fields inside the stratospheric polar vortex. A significant positive trend is shown in this parameter in March in the SSP5-8.5 scenario. Furthermore, according to the model data, an increase in the polar vortex isolation throughout the 21st century indicates its possible strengthening in the lower stratosphere. Positive trends of the surface area density (SAD) of PSC NAT particles in March in the lower Arctic stratosphere over the period of 2015–2099 are significant in the severe GHG emission scenario. The polar vortex longitudinal shift toward northern Eurasia is expected in the lower stratosphere in the late 21st century in both scenarios. The statistically significant long-term stratospheric sulfuric acid aerosol trend in March is expected only in the SSP5.8-5 scenario, most probably due to cooler stratosphere and stronger Brewer–Dobson circulation intensification. Both scenarios predict an increase in the residual meridional circulation (RMC) in March by the end of the 21st century. In some regions of the stratosphere, the RMC enhancement under the severe GHG scenario can exceed 20%.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2023.1214418/full"
+  },
+  {
+    "title": "Active layer depth and soil properties impact specific leaf area variation and ecosystem productivity in a boreal forest.",
+    "authors": [
+      "Carolyn G Anderson,",
+      "Ben Bond-Lamberty,",
+      "James C Stegen"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0232506",
+    "journalVolume": "Vol. 15,\n                                no. 12\n                                \n                                  p.\n                                  e0232506",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "Specific leaf area (SLA, leaf area per unit dry mass) is a key canopy structural characteristic, a measure of photosynthetic capacity, and an important input into many terrestrial process models. Although many studies have examined SLA variation, relatively few data exist from high latitude, climate-sensitive permafrost regions. We measured SLA and soil and topographic properties across a boreal forest permafrost transition, in which dominant tree species changed as permafrost deepened from 54 to >150 cm over 75 m hillslope transects in Caribou-Poker Creeks Research Watershed, Alaska. We characterized both linear and threshold relationships between topographic and edaphic variables and SLA and developed a conceptual model of these relationships. We found that the depth of the soil active layer above permafrost was significantly and positively correlated with SLA for both coniferous and deciduous boreal tree species. Intraspecific SLA variation was associated with a fivefold increase in net primary production, suggesting that changes in active layer depth due to permafrost thaw could strongly influence ecosystem productivity. While this is an exploratory study to begin understanding SLA variation in a non-contiguous permafrost system, our results indicate the need for more extensive evaluation across larger spatial domains. These empirical relationships and associated uncertainty can be incorporated into ecosystem models that use dynamic traits, improving our ability to predict ecosystem-level carbon cycling responses to ongoing climate change.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0232506"
+  },
+  {
+    "title": "Structural landscape of the complete genomes of dengue virus serotypes and other viral hemorrhagic fevers",
+    "authors": [
+      "Riccardo Delli Ponti,",
+      "Marek Mutwil"
+    ],
+    "doi": "https://doi.org/10.1186/s12864-021-07638-7",
+    "journalVolume": "Vol. 22,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 14",
+    "issn": "1471-2164 (Online)",
+    "publisher": "BMC",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Chemical technology: Biotechnology",
+      "Science: Biology (General): Genetics"
+    ],
+    "journalUrl": "http://bmcgenomics.biomedcentral.com",
+    "abstract": "Abstract Background With more than 300 million potentially infected people every year, and with the expanded habitat of mosquitoes due to climate change, Dengue virus (DENV) cannot be considered anymore only a tropical disease. The RNA secondary structure is a functional characteristic of RNA viruses, and together with the accumulated high-throughput sequencing data could provide general insights towards understanding virus biology. Here, we profiled the RNA secondary structure of > 7000 complete viral genomes from 11 different species focusing on viral hemorrhagic fevers, including DENV serotypes, EBOV, and YFV. Results In our work we demonstrated that the secondary structure and presence of protein-binding domains in the genomes can be used as intrinsic signature to further classify the viruses. With our predictive approach, we achieved high prediction scores of the secondary structure (AUC up to 0.85 with experimental data), and computed consensus secondary structure profiles using hundreds of in silico models. We observed that viruses show different structural patterns, where e.g., DENV-2 and Ebola virus tend to be less structured than the other viruses. Furthermore, we observed virus-specific correlations between secondary structure and the number of interaction sites with human proteins, reaching a correlation of 0.89 in the case of Zika virus. We also identified that helicases-encoding regions are more structured in several flaviviruses, while the regions encoding for the contact proteins exhibit virus-specific clusters in terms of RNA structure and potential protein-RNA interactions. We also used structural data to study the geographical distribution of DENV, finding a significant difference between DENV-3 from Asia and South-America, where the structure is also driving the clustering more than sequence identity, which could imply different evolutionary routes of this subtype. Conclusions Our massive computational analysis provided novel results regarding the secondary structure and the interaction with human proteins, not only for DENV serotypes, but also for other flaviviruses and viral hemorrhagic fevers-associated viruses. We showed how the RNA secondary structure can be used to categorise viruses, and even to further classify them based on the interaction with proteins. We envision that these approaches can be used to further classify and characterise these complex viruses.",
+    "readLink": "https://doi.org/10.1186/s12864-021-07638-7"
+  },
+  {
+    "title": "Land Cover Changes in Evrytania Prefecture (Greece)",
+    "authors": [
+      "Spyridon Kaloudis,",
+      "Maria Glykou,",
+      "Stavroula Galanopoulou,",
+      "Georgios Fotiadis,",
+      "Constantine Yialouris,",
+      "Dimitrios Raptis"
+    ],
+    "doi": "https://doi.org/10.3390/f14071462",
+    "journalVolume": "Vol. 14,\n                                no. 1462\n                                \n                                  p.\n                                  1462",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "To record land cover changes over time, geographic information systems software was used for selecting and studying sampling surfaces in ortho-aerial photographs. In particular, ortho-aerial photographs of the years 1945 and 2015 were used to record changes in land cover. A total of 103 test surfaces were obtained, which consisted of 25 cells each. The results showed that the area and density of forest cover have increased significantly during the study period. Changes in land cover, and in particular forest cover, are mainly attributed to (a) the gradual decline of the population, and therefore to the decline in man-made interventions such as crops, nomadic herd grazing, and logging, and to (b) natural species competition. Moreover, the effect of climatic change and the reduction in human presence on fir treelines was examined. Based on the results, no clear evidence about treeline changes was found. Also, the effect of soil and topographic factors on land cover changes, as well as the prediction capability of land cover changes, were examined using an artificial neural network. Promising results came out that could provide substantial explanations for land cover changes and quantify the effect of environmental factors on vegetation evolution.",
+    "readLink": "https://www.mdpi.com/1999-4907/14/7/1462"
+  },
+  null,
+  {
+    "title": "Defining Mechanisms of C<sub>3</sub> to CAM Photosynthesis Transition toward Enhancing Crop Stress Resilience",
+    "authors": [
+      "Bowen Tan,",
+      "Sixue Chen"
+    ],
+    "doi": "https://doi.org/10.3390/ijms241713072",
+    "journalVolume": "Vol. 24,\n                                no. 13072\n                                \n                                  p.\n                                  13072",
+    "issn": "1661-6596 (Print)",
+    "publisher": "1422-0067 (Online)",
+    "countryOfPublisher": "MDPI AG",
+    "lcc": [
+      "Switzerland",
+      "Science: Biology (General)",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijms",
+    "abstract": "Global climate change and population growth are persistently posing threats to natural resources (e.g., freshwater) and agricultural production. Crassulacean acid metabolism (CAM) evolved from C3 photosynthesis as an adaptive form of photosynthesis in hot and arid regions. It features the nocturnal opening of stomata for CO2 assimilation, diurnal closure of stomata for water conservation, and high water-use efficiency. To cope with global climate challenges, the CAM mechanism has attracted renewed attention. Facultative CAM is a specialized form of CAM that normally employs C3 or C4 photosynthesis but can shift to CAM under stress conditions. It not only serves as a model for studying the molecular mechanisms underlying the CAM evolution, but also provides a plausible solution for creating stress-resilient crops with facultative CAM traits. This review mainly discusses the recent research effort in defining the C3 to CAM transition of facultative CAM plants, and highlights challenges and future directions in this important research area with great application potential.",
+    "readLink": "https://www.mdpi.com/1422-0067/24/17/13072"
+  },
+  {
+    "title": "COMMUNITY PARTICIPATION IN THE DEVELOPMENT OF AGROFORESTRY AT GEDONG WANI FOREST MANAGEMENT UNIT/FMU",
+    "authors": [
+      "Irma Yeny,",
+      "Murniati Murniati,",
+      "Sri Suharti"
+    ],
+    "doi": "https://doi.org/10.20886/jpsek.2020.17.1.49-66",
+    "journalVolume": "Vol. 17,\n                                no. 1\n                                \n                                  pp.\n                                  49\n                                  – 66",
+    "issn": "1979-6013 (Print)",
+    "publisher": "2502-4221 (Online)",
+    "countryOfPublisher": "Centre for Social Research and Development, Economics, Policy and Climate Change; Development and Innovation Agency; Ministry of Environment and Forestry",
+    "lcc": [
+      "Indonesia",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK",
+    "abstract": "As an effort to resolve conflicts in the FMU Gedong Wani area, a forestry partnership was conducted with an agroforestry system. To find out the extent to which the partnership scheme is able to invite community participation, then this study was conducted. This study aims to 1) determine the characteristics of the research area, 2) learn the profile of partnership farmers, 3) identify the form and level of participation of farmers, 4) formulate management recommendations. Data collection was carried out through interviews based on questionnaires and direct observation. Respondents are members of forest farmer groups involved in the partnership scheme. Measurements of participation are done with cross tabulation, while Likert scale method is using to measure participation level. The data is analyzed descriptively which refers to Hurairah (2008) and Arnstein (1969). The study shows that there are three tangible forms of participation in the development of agroforestry, namely participation in the form of ideas, labor contributions, as well as social participation in the form of inter-community support as a sign of kinship in managing partnership land. The level of participation of Agro Forest Park Forest Farmer Group (FFG) is at the 6th level, namely partnership. At this level farmers are able to negotiate and engage in activities with its partner (FMU). With this position, farmers have more space and power to involve in decision-making process.However, farmers do not have space in managerial decision-making and managerial work. This is not in line with the forestry development paradigm that places the community as subjects in forest management.",
+    "readLink": "http://ejournal.forda-mof.org/ejournal-litbang/index.php/JPSEK/article/view/5358"
+  },
+  {
+    "title": "A new database for time-series monitoring data: the NitroEurope approach",
+    "authors": [
+      "Owen SM,",
+      "Leaver DS,",
+      "Bealey WJ,",
+      "Wilson R,",
+      "Reis S,",
+      "Sutton M"
+    ],
+    "doi": "https://doi.org/10.3832/ifor0595-004",
+    "journalVolume": "Vol. 4,\n                                no. 1\n                                \n                                  pp.\n                                  226\n                                  – 232",
+    "issn": "1971-7458 (Online)",
+    "publisher": "Italian Society of Silviculture and Forest Ecology (SISEF)",
+    "countryOfPublisher": "Italy",
+    "lcc": [
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "https://iforest.sisef.org",
+    "abstract": "The NitroEurope Integrated Project (2006-2011) aimed to gain a better understanding of the nitrogen cycle and its impacts on the European greenhouse gas balance. Over sixty project partners collected large volumes of data from sites all over Europe. There are currently more than 15 forest sites in 11 countries, including beech, oak, spruce and mixed forests. The collected data are at different temporal resolutions, from one-off measurements to 30-minute time-series data. Around 500 variables (plus attributes) are measured, including soil and plant data, details of cultivation management for natural and manipulated sites, long-term datasets of flux and concentrations of greenhouse gas and pollutants and their precursors, and micrometeorology data. The NitroEurope research community therefore needed a database to provide easy upload and extraction of data for analysis, interpretation and modelling. A bespoke database with a web-based graphical user interface (GUI) in a user-friendly and attractive online environment was produced by the NitroEurope (NitroEurope 2011) database development team. The software provides a flexible interface between Microsoft Excel workbooks and an Oracle database. The database “Form Manager” enables construction of database forms which reflect the project’s Excel data workbook templates. The software locates data according to Excel worksheet and cell references. The database “Uploader” extracts the specified data from completed Excel templates and uploads data directly to the Oracle relational database tables through the web front-end. Data are run through a series of automatic checks on upload which can be verified using an online graphing tool. Data are then validated and made available to the NitroEurope community for downloading. The database “Reporting” tools enable data from different sites and activities to be brought together and datasets can be previewed and graphed before they are downloaded. The database has almost 300 users and currently contains over eight million rows of data. The data will be made available to the wider scientific community two years after the project ends (Spring 2013). The database structure is extremely flexible and has been used for the storage and reporting of other time-series project data at our institute.",
+    "readLink": "https://iforest.sisef.org/contents/?id=ifor0595-004"
+  },
+  {
+    "title": "Changes in groundwater irrigation withdrawals due to climate change in Kansas",
+    "authors": [
+      "Oladipo S Obembe,",
+      "Nathan P Hendricks,",
+      "S V Krishna Jagadish"
+    ],
+    "doi": "https://doi.org/10.1088/1748-9326/acf147",
+    "journalVolume": "Vol. 18,\n                                no. 9\n                                \n                                  p.\n                                  094041",
+    "issn": "1748-9326 (Online)",
+    "publisher": "IOP Publishing",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Physics"
+    ],
+    "journalUrl": "https://iopscience.iop.org/journal/1748-9326",
+    "abstract": "Warming temperatures increase the evapotranspiration demand of crops, leading to an increase in irrigation and exacerbating water scarcity. Previous research relies on models of irrigation water requirements to understand the potential impacts of climate change, but these models have significant uncertainty and ignore the risk-averse behavior of irrigators. Here we develop regression models to estimate how changes in vapor pressure deficit and precipitation affect groundwater withdrawals for corn, soybeans, and wheat using well-level data from the Kansas portion of the High Plains Aquifer. Withdrawals are expected to increase for all three crops, with the largest increase for soybeans. Even after accounting for the CO _2 improvements in transpiration efficiency, we find that total withdrawals are expected to increase by 5.9% (7.6%) by mid-century under RCP 4.5 (8.5). The increase in withdrawals is expected to accelerate the decline in aquifer water levels and is therefore important to consider when projecting future aquifer conditions.",
+    "readLink": "https://doi.org/10.1088/1748-9326/acf147"
+  }
+]

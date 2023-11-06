@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Integrating GEDI and Landsat: Spaceborne Lidar and Four Decades of Optical Imagery for the Analysis of Forest Disturbances and Biomass Changes in Italy",
+    "authors": [
+      "Saverio Francini,",
+      "Giovanni D’Amico,",
+      "Elia Vangi,",
+      "Costanza Borghi,",
+      "Gherardo Chirici"
+    ],
+    "doi": "https://doi.org/10.3390/s22052015",
+    "journalVolume": "Vol. 22,\n                                no. 2015\n                                \n                                  p.\n                                  2015",
+    "issn": "1424-8220 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/sensors",
+    "abstract": "Forests play a prominent role in the battle against climate change, as they absorb a relevant part of human carbon emissions. However, precisely because of climate change, forest disturbances are expected to increase and alter forests’ capacity to absorb carbon. In this context, forest monitoring using all available sources of information is crucial. We combined optical (Landsat) and photonic (GEDI) data to monitor four decades (1985–2019) of disturbances in Italian forests (11 Mha). Landsat data were confirmed as a relevant source of information for forest disturbance mapping, as forest harvestings in Tuscany were predicted with omission errors estimated between 29% (in 2012) and 65% (in 2001). GEDI was assessed using Airborne Laser Scanning (ALS) data available for about 6 Mha of Italian forests. A good correlation (r2 = 0.75) between Above Ground Biomass Density GEDI estimates (AGBD) and canopy height ALS estimates was reported. GEDI data provided complementary information to Landsat. The Landsat mission is capable of mapping disturbances, but not retrieving the three-dimensional structure of forests, while our results indicate that GEDI is capable of capturing forest biomass changes due to disturbances. GEDI acquires useful information not only for biomass trend quantification in disturbance regimes but also for forest disturbance discrimination and characterization, which is crucial to further understanding the effect of climate change on forest ecosystems.",
+    "readLink": "https://www.mdpi.com/1424-8220/22/5/2015"
+  },
+  {
+    "title": "Long-Term Carbon Sequestration in Pine Forests under Different Silvicultural and Climatic Regimes in Spain",
+    "authors": [
+      "Rafael M. Navarro-Cerrillo,",
+      "Francisco J. Ruiz-Gómez,",
+      "Jesús J. Camarero,",
+      "Víctor Castillo,",
+      "Gonzalo G. Barberá,",
+      "Guillermo Palacios-Rodríguez,",
+      "Francisco B. Navarro,",
+      "Juan A. Blanco,",
+      "Juan B. Imbert,",
+      "Antonio M. Cachinero-Vivar,",
+      "Antonio J. Molina,",
+      "Antonio D. del Campo"
+    ],
+    "doi": "https://doi.org/10.3390/f13030450",
+    "journalVolume": "Vol. 13,\n                                no. 450\n                                \n                                  p.\n                                  450",
+    "issn": "1999-4907 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Botany: Plant ecology"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/forests/",
+    "abstract": "Proactive silviculture treatments (e.g., thinning) may increase C sequestration contributing to climate change mitigation, although, there are still questions about this effect in Mediterranean pine forests. The aim of this research was to quantify the storage of biomass and soil organic carbon in Pinus forests along a climatic gradient from North to South of the Iberian Peninsula. Nine experimental Pinus spp trials were selected along a latitudinal gradient from the pre-Pyrenees to southern Spain. At each location, a homogeneous area was used as the operational scale, and three thinning intensity treatments: unthinned or control (C), intermediate thinning (LT, removal of 30–40% of the initial basal area) and heavy thinning (HT, removal of 50–60%) were conducted. Growth per unit area (e.g., expressed as basal area increment-BAI), biomass, and Soil Organic Carbon (SOC) were measured as well as three sets of environmental variables (climate, soil water availability and soil chemical and physical characteristics). One-way ANOVA and Structural Equation Modelling (SEM) were used to study the effect of thinning and environmental variables on C sequestration. Biomass and growth per unit area were higher in the control than in the thinning treatments, although differences were only significant for P. halepensis. Radial growth recovered after thinning in all species, but it was faster in the HT treatments. Soil organic carbon (SOC10, 0–10 cm depth) was higher in the HT treatments for P. halepensis and P. sylvestris, but not for P. nigra. SEM showed that Pinus stands of the studied species were beneficed by HT thinning, recovering their growth quickly. The resulting model explained 72% of the variation in SOC10 content, and 89% of the variation in silvicultural condition (basal area and density) after thinning. SOC10 was better related to climate than to silvicultural treatments. On the other hand, soil chemical and physical characteristics did not show significant influence over SOC10- Soil water availability was the latent variable with the highest influence over SOC10. This work is a new contribution that shows the need for forest managers to integrate silviculture and C sequestration in Mediterranean pine plantations.",
+    "readLink": "https://www.mdpi.com/1999-4907/13/3/450"
+  },
+  {
+    "title": "Evaluating BFASTMonitor Algorithm in Monitoring Deforestation Dynamics in Coniferous and Deciduous Forests with LANDSAT Time Series: A Case Study on Marmara Region, Turkey",
+    "authors": [
+      "Nooshin Mashhadi,",
+      "Ugur Alganci"
+    ],
+    "doi": "https://doi.org/10.3390/ijgi11110573",
+    "journalVolume": "Vol. 11,\n                                no. 573\n                                \n                                  p.\n                                  573",
+    "issn": "2220-9964 (Print)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Geography (General)"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/ijgi",
+    "abstract": "Time series analysis combined with remote sensing data allows for the study of abrupt changes in the environment due to significant and severe disturbances such as deforestation, agricultural activities, fires, and urban expansion, as well as gradual changes such as climate variability and forest degradation in the ecosystem. The precision of any change detection analysis is highly dependent upon its ability to separate actual changes and fluctuations on a seasonal scale. One of the efficient methods in this context is using the Breaks for Additive Seasonal and Trend (BFAST) set of algorithms. This study aims to perform a comprehensive and comparative evaluation of different Vis’ performance in forest degradation with the Landsat 8 images and BFASTMonitor approach. Through evaluation, the study also considers the potential effects of different forest types and deforestation scales in the Marmara region of Turkey. For this purpose, the Normalized Difference Vegetation Index (NDVI), Enhanced Vegetation Index (EVI), Normalized Difference Moisture Index (NDMI), and Normalized Burn Ratio (NBR) vegetation indices (VI) were selected for a comparative evaluation. The overall accuracy of VIs in deciduous forests was around 85% for NDVI, NDMI, and NBR, and 78.80% for EVI, while in coniferous forests, the overall accuracy demonstrated higher values of about 88% for NDVI, NDMI, and EVI, and 87.28% for NBR. Consequently, water-sensitive VIs that utilize shortwave infrared bands proved to be slightly more sensitive in detecting forest disturbances while chlorophyll-sensitive VIs represented lower accuracy for both forest types. Overall, all VIs faced an underestimation error in deforested area detection that was observable through negative BIAS. The results illuminate that BFASTMonitor can be considered as a tool in monitoring forest environments due to its acceptable deforestation determination capability in deciduous and coniferous forests, with slightly higher performance for small-scale deforestation patterned regions.",
+    "readLink": "https://www.mdpi.com/2220-9964/11/11/573"
+  },
+  {
+    "title": "Climate-related shocks and other stressors associated with depression and anxiety in Bangladesh: a nationally representative panel study",
+    "authors": [
+      "Syed Shabab Wahid, DrPH,",
+      "Wameq Azfar Raza, PhD,",
+      "Iffat Mahmud, MSc,",
+      "Brandon A Kohrt, ProfPhD"
+    ],
+    "doi": "Vol. 7,\n                                no. 2\n                                \n                                  pp.\n                                  e137\n                                  – e146",
+    "issn": "2542-5196 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.thelancet.com/journals/lanplh/issue/current",
+    "abstract": "Summary: Background: Climate change has major implications for common mental disorders including depression and anxiety in vulnerable nations such as Bangladesh. However, knowledge gaps exist around national estimations of depression and anxiety, and the associations between the prevalence of these disorders with climate-related and sociodemographic risk factors. To address these gaps, this study analysed data from a nationally representative panel study in Bangladesh that examined climate-related and sociodemographic correlates of depression and anxiety. Methods: Two rounds of nationally representative household panel data were collected from urban and rural areas between August and September, 2019, and January and February, 2020. Households were selected for inclusion across 150 enumeration areas as the primary sampling units with use of a two-stage stratified random sampling design, and survey instruments were administered to the available adult member of the household. Depression and anxiety were measured with the Patient Health Questionnaire-9 and Generalized Anxiety Disorder-7 scales, respectively, and weighted prevalence estimates were calculated on the basis of the 2011 national population census. Data on temperature and humidity were collected from 43 weather stations and constructed as mean values for the 2-month period preceding each round of the survey. Self-reported exposure to flooding was collected for a 12-month recall period. We applied a weighted population average logistic model on the pooled sample of both surveys to analyse the associations between ambient temperature, humidity, exposure to flooding, seasonality, sociodemographic variables, and three outcome conditions (depression, anxiety, and co-occurring depression and anxiety; at the level of p<0·1). The models accounted for temporal and spatial heterogeneity. Standard errors were clustered at the level of each primary sampling unit. Findings: 3606 individuals were included with 3·5% dropout in the second survey round (pooled sample n=7086; age range 15–90 years; 2898 [40·9%] men and 4188 [59·1%] women). National weighted prevalence estimates were 16·3% (95% CI 14·7–17·8) for depression, 6·0% (4·7–7·3) for anxiety, and 4·8% (3·7–5·9) for co-occurring depression and anxiety. We observed no significant associations between overall seasonality (summer vs winter) and the odds of depression (adjusted odds ratio 3·14 [95% CI 0·52–19·13], p=0·22), anxiety (0·16 [0·02–1·41], p=0·10), or co-occurring depression and anxiety (0·13 [0·01–1·49], p=0·10). An increase in mean temperature of 1°C within the 2 months preceding the surveys was associated with increased odds of anxiety (1·21 [1·00–1·47], p=0·046) and increased odds of co-occurring depression and anxiety (1·24 [1·00–1·53], p=0·045), whereas increased temperature was not associated with depression (0·90 [0·77–1·04], p=0·15). An increase in mean humidity of 1 g/m3 was not associated with depression (0·99 [0·96–1·02], p=0·60) or anxiety (1·04 [0·99–1·09], p=0·13), but was associated with co-occurring depression and anxiety (1·06 [1·00–1·12], p=0·064). Exposure to flooding within the 12 months preceding the survey rounds was associated with increased odds of all outcome conditions (depression, 1·31 [1·00–1·70], p=0·047; anxiety, 1·69 [1·21–2·36], p=0·0020; and co-occurring depression and anxiety, 1·87 [1·31–2·68], p=0·0006). Interpretation: Climate-related shocks and other stressors have an important association with the burden of depression and anxiety in Bangladesh. Community-level interventions for common mental disorders need to be developed and assessed for safety, feasibility, and effectiveness in a Bangladeshi context. Further research on climate-related stressors is needed over different timespans and time intervals. Funding: The World Bank.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2542519622003151"
+  },
+  {
+    "title": "Impacts of Climate Change on Inequities in Child Health",
+    "authors": [
+      "Charmian M. Bennett,",
+      "Sharon Friel"
+    ],
+    "doi": "https://doi.org/10.3390/children1030461",
+    "journalVolume": "Vol. 1,\n                                no. 3\n                                \n                                  pp.\n                                  461\n                                  – 473",
+    "issn": "2227-9067 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine: Pediatrics"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/children",
+    "abstract": "This paper addresses an often overlooked aspect of climate change impacts on child health: the amplification of existing child health inequities by climate change. Although the effects of climate change on child health will likely be negative, the distribution of these impacts across populations will be uneven. The burden of climate change-related ill-health will fall heavily on the world’s poorest and socially-disadvantaged children, who already have poor survival rates and low life expectancies due to issues including poverty, endemic disease, undernutrition, inadequate living conditions and socio-economic disadvantage. Climate change will exacerbate these existing inequities to disproportionately affect disadvantaged children. We discuss heat stress, extreme weather events, vector-borne diseases and undernutrition as exemplars of the complex interactions between climate change and inequities in child health.",
+    "readLink": "http://www.mdpi.com/2227-9067/1/3/461"
+  },
+  {
+    "title": "The correlation between dengue incidence and diurnal ranges of temperature of Colombo district, Sri Lanka 2005–2014",
+    "authors": [
+      "N. D. B. Ehelepola,",
+      "Kusalika Ariyaratne"
+    ],
+    "doi": "https://doi.org/10.3402/gha.v9.32267",
+    "journalVolume": "Vol. 9,\n                                no. 0\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "1654-9880 (Online)",
+    "publisher": "Taylor & Francis Group",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine: Public aspects of medicine"
+    ],
+    "journalUrl": "https://www.tandfonline.com/journals/zgha",
+    "abstract": "Background: Meteorological factors affect dengue transmission. Mechanisms of the way in which different diurnal temperatures, ranging around different mean temperatures, influence dengue transmission were published after 2011. Objective: We endeavored to determine the correlation between dengue incidence and diurnal temperature ranges (DTRs) in Colombo district, Sri Lanka, and to explore the possibilities of using our findings to improve control of dengue. Design: We calculated the weekly dengue incidence in Colombo during 2005–2014, after data on all of the reported dengue patients and estimated mid-year populations were collected. We obtained daily maximum and minimum temperatures from two Colombo weather stations, averaged, and converted them into weekly data. Weekly averages of DTR versus dengue incidence graphs were plotted and correlations observed. The count of days per week with a DTR of >7.5°C and 7.5°C with an 8-week lag period, and a positive correlation between dengue incidence and a DTR<7.5°C, also with an 8-week lag. Conclusions: Large DTRs were negatively correlated with dengue transmission in Colombo district. We propose to take advantage of that in local dengue control efforts. Our results agree with previous studies on the topic and with a mathematical model of relative vectorial capacity of Aedes aegypti. Global warming and declining DTR are likely to favor a rise of dengue, and we suggest a simple method to mitigate this.",
+    "readLink": "http://www.globalhealthaction.net/index.php/gha/article/view/32267/pdf_336"
+  },
+  {
+    "title": "A combined transcriptomic and physiological approach to understanding the adaptive mechanisms to cope with oxidative stress in Fusarium graminearum",
+    "authors": [
+      "Jiyeun Park,",
+      "Hyun-Hee Lee,",
+      "Heeji Moon,",
+      "Nahyun Lee,",
+      "Sieun Kim,",
+      "Jung-Eun Kim,",
+      "Yoonji Lee,",
+      "Kyunghun Min,",
+      "Hun Kim,",
+      "Gyung Ja Choi,",
+      "Yin-Won Lee,",
+      "Young-Su Seo,",
+      "Hokyoung Son"
+    ],
+    "doi": "https://doi.org/10.1128/spectrum.01485-23",
+    "journalVolume": "Vol. 11,\n                                no. 5",
+    "issn": "2165-0497 (Online)",
+    "publisher": "American Society for Microbiology",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Microbiology"
+    ],
+    "journalUrl": "https://journals.asm.org/journal/spectrum",
+    "abstract": "ABSTRACT In plant-pathogen interactions, oxidative bursts are crucial for plants to defend themselves against pathogen infections. Rapid production and accumulation of reactive oxygen species kill pathogens directly and cause local cell death, preventing pathogens from spreading to adjacent cells. Meanwhile, the pathogens have developed several mechanisms to tolerate oxidative stress and successfully colonize plant tissues. In this study, we investigated the mechanisms responsible for resistance to oxidative stress by analyzing the transcriptomes of six oxidative stress-sensitive strains of the plant pathogenic fungus Fusarium graminearum. Weighted gene co-expression network analysis identified several pathways related to oxidative stress responses, including the DNA repair system, autophagy, and ubiquitin-mediated proteolysis. We also identified hub genes with high intramodular connectivity in key modules and generated deletion or conditional suppression mutants. Phenotypic characterization of those mutants showed that the deletion of FgHGG4, FgHGG10, and FgHGG13 caused sensitivity to oxidative stress, and further investigation on those genes revealed that transcriptional elongation and DNA damage responses play roles in oxidative stress response and pathogenicity. The suppression of FgHGL7 also led to hypersensitivity to oxidative stress, and we demonstrated that FgHGL7 plays a crucial role in heme biosynthesis and is essential for peroxidase activity. This study increases the understanding of the adaptive mechanisms to cope with oxidative stress in plant pathogenic fungi. IMPORTANCE Fungal pathogens have evolved various mechanisms to overcome host-derived stresses for successful infection. Oxidative stress is a representative defense system induced by the host plant, and fungi have complex response systems to cope with it. Fusarium graminearum is one of the devastating plant pathogenic fungi, and understanding its pathosystem is crucial for disease control. In this study, we investigated adaptive mechanisms for coping with oxidative stress at the transcriptome level using oxidative stress-sensitive strains. In addition, by introducing genetic modification technique such as CRISPR-Cas9 and the conditional gene expression system, we identified pathways/genes required for resistance to oxidative stress and also for virulence. Overall, this study advances the understanding of the oxidative stress response and related mechanisms in plant pathogenic fungi.",
+    "readLink": "https://journals.asm.org/doi/10.1128/spectrum.01485-23"
+  },
+  {
+    "title": "Unlocking the potential of faba bean in Moroccan agriculture: a review- from research to perspective",
+    "authors": [
+      "Boutagayout Abdellatif,",
+      "Belmalha Saadia,",
+      "Nassiri Laila,",
+      "Bouiamrine El Houssine"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202342001028",
+    "journalVolume": "Vol. 420\n                                \n                                \n                                  p.\n                                  01028",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "The world's growing population and the need for food security require rigorous research and development towards climate change-resilient agroecosystems and a major shift toward grain legumes. Faba bean is an important crop in Morocco, providing an essential source of vegetable protein for both humans and livestock with outstanding agronomic, nutritional, and environmental properties. In this review, we present an overview of faba bean crops, including their history, botany, production, importance, and main biotic and abiotic constraints, as well as state-of-theart scientific research on faba bean in Morocco. We also propose insights as future strategies to unlock the potential of faba bean in Moroccan agriculture. Despite its numerous benefits, the cultivation of Vicia faba varieties faces several challenges, including low yield, weeds, pests, disease problems, and climate change. To fully realize the potential of faba bean, there are opportunities for future crop development, including genetic improvement, sustainable intensification, market development, and climate-smart agriculture. Increased investment in research and development, extension services, and infrastructure, as well as constructive agricultural policy strategies, is necessary to increase the number of pulses in various Moroccan cropping systems. By unlocking the potential of faba bean, Morocco can ensure future food and feed security and contribute to the sustainable development of its agricultural sector.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/57/e3sconf_ebwff2023_01028.pdf"
+  },
+  {
+    "title": "Estimating grassland curing with remotely sensed data",
+    "authors": [
+      "W. Chaivaranont,",
+      "J. P. Evans,",
+      "Y. Y. Liu,",
+      "Y. Y. Liu,",
+      "J. J. Sharples"
+    ],
+    "doi": "https://doi.org/10.5194/nhess-18-1535-2018",
+    "journalVolume": "Vol. 18\n                                \n                                \n                                  pp.\n                                  1535\n                                  – 1554",
+    "issn": "1561-8633 (Print)",
+    "publisher": "1684-9981 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://www.nat-hazards-earth-syst-sci.net/volumes_and_issues.html",
+    "abstract": "Wildfire can become a catastrophic natural hazard, especially during dry summer seasons in Australia. Severity is influenced by various meteorological, geographical, and fuel characteristics. Modified Mark 4 McArthur's Grassland Fire Danger Index (GFDI) is a commonly used approach to determine the fire danger level in grassland ecosystems. The degree of curing (DOC, i.e. proportion of dead material) of the grass is one key ingredient in determining the fire danger. It is difficult to collect accurate DOC information in the field, and therefore ground-observed measurements are rather limited. In this study, we explore the possibility of whether adding satellite-observed data responding to vegetation water content (vegetation optical depth, VOD) will improve DOC prediction when compared with the existing satellite-observed data responding to DOC prediction models based on vegetation greenness (normalised difference vegetation index, NDVI). First, statistically significant relationships are established between selected ground-observed DOC and satellite-observed vegetation datasets (NDVI and VOD) with an r2 up to 0.67. DOC levels estimated using satellite observations were then evaluated using field measurements with an r2 of 0.44 to 0.55. Results suggest that VOD-based DOC estimation can reasonably reproduce ground-based observations in space and time and is comparable to the existing NDVI-based DOC estimation models.",
+    "readLink": "https://www.nat-hazards-earth-syst-sci.net/18/1535/2018/nhess-18-1535-2018.pdf"
+  },
+  {
+    "title": "The response of surface ozone to climate change over the Eastern United States",
+    "authors": [
+      "P. N. Racherla,",
+      "P. J. Adams"
+    ],
+    "doi": "Vol. 8,\n                                no. 4\n                                \n                                  pp.\n                                  871\n                                  – 885",
+    "issn": "1680-7316 (Print)",
+    "publisher": "1680-7324 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics",
+      "Science: Chemistry"
+    ],
+    "journalUrl": "http://www.atmospheric-chemistry-and-physics.net/",
+    "abstract": "We investigate the response of surface ozone (O<sub>3</sub>) to future climate change in the eastern United States by performing simulations corresponding to present (1990s) and future (2050s) climates using an integrated model of global climate, tropospheric gas-phase chemistry, and aerosols. A future climate has been imposed using ocean boundary conditions corresponding to the IPCC SRES A2 scenario for the 2050s decade. Present-day anthropogenic emissions and CO<sub>2</sub>/CH<sub>4</sub> mixing ratios have been used in both simulations while climate-sensitive emissions were allowed to vary with the simulated climate. The severity and frequency of O<sub>3</sub> episodes in the eastern U.S. increased due to future climate change, primarily as a result of increased O<sub>3</sub> chemical production. The 95th percentile O<sub>3</sub> mixing ratio increased by 5 ppbv and the largest frequency increase occured in the 80&ndash;90 ppbv range; the US EPA's current 8-h ozone primary standard is 80 ppbv. The increased O<sub>3</sub> chemical production is due to increases in: 1) natural isoprene emissions; 2) hydroperoxy radical concentrations resulting from increased water vapor concentrations; and, 3) NO<sub>x</sub> concentrations resulting from reduced PAN. The most substantial and statistically significant (<i>p</i>&lt;0.05) increases in episode frequency occurred over the southeast and midatlantic U.S., largely as a result of 20% higher annual-average natural isoprene emissions. These results suggest a lengthening of the O<sub>3</sub> season over the eastern U.S. in a future climate to include late spring and early fall months. Increased chemical production and shorter average lifetime are two consistent features of the seasonal response of surface O<sub>3</sub>, with increased dry deposition loss rates contributing most to the reduced lifetime in all seasons except summer. Significant interannual variability is observed in the frequency of O<sub>3</sub> episodes and we find that it is necessary to utilize 5 years or more of simulation data in order to separate the effects of interannual variability and climate change on O<sub>3</sub> episodes in the eastern United States.",
+    "readLink": "http://www.atmos-chem-phys.net/8/871/2008/acp-8-871-2008.pdf"
+  }
+]

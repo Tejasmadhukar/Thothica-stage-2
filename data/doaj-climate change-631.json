@@ -1,0 +1,199 @@
+[
+  {
+    "title": "تكامل نماذج الشبكات العصبيّة الاصطناعيّة والخوارزميّات الجينيّة في استكمال بيانات الهطل المطري",
+    "authors": [
+      "غطفان عمار,",
+      "علاء سليمان,",
+      "عامر الدرويش"
+    ],
+    "doi": "Vol. 41,\n                                no. 5",
+    "issn": "2079-3081 (Print)",
+    "publisher": "2663-4279 (Online)",
+    "countryOfPublisher": "Tishreen University",
+    "lcc": [
+      "Syrian Arab Republic",
+      "Technology: Engineering (General). Civil engineering (General)",
+      "Education"
+    ],
+    "journalUrl": "http://journal.tishreen.edu.sy/index.php/engscnc",
+    "abstract": "Accurate and reliable modeling of precipitation data is an important step in managing water and rivers, especially under the influence global climate change. This requires long time series of hydrological data, but these sequences often contain missing values.This research includes the using of artificial neural networks (ANNs) models with feed forward and back propagation of error with genetic algorithms (GAs) in the process of filling gaps in daily precipitation data, where genetic algorithms were used to determine the optimal structure of the artificial neural network, after that artificial neural networks were trained using the back propagation algorithm, in order to obtain the best performance of the artificial neural network models (ANNs) in predicting the lost values ​​of daily precipitation, thus obtaining complete time series of daily precipitation in the study area. The values of root mean square errors and correlation coefficients were used to evaluate the performance of the models and compare them according to the different input and output values of the meteostations (Satha -Ain Al-Krum-Al-Kareem-Al-Sakilibia) during the period (1994-2002), simulating the various possible losses of data from the meteostation. This study recommends the application of hybrid systems of artificial intelligence models to improve the efficiency of predicting models of weather factors and other water resources factors in different regions of Syria. لا شك أن نمذجة الأمطار بدقة وموثوقية هي خطوة هامة في إدارة المياه والأنهار، ومواجهة تغيرات المناخ العالمية، وهذا يتطلب سلاسل طويلة من البيانات الهيدرولوجية، غير أن هذه السلاسل في كثير من الأحيان تحوي على قيم مفقودة. يتضمن هذا البحث استخدام نماذج الشبكات العصبية الاصطناعية ذات التغذية الأمامية والانتشار العكسي للخطأ مع الخوارزميات الجينية (GAs) في عملية ملء الثغرات في بيانات الأمطار اليومية في منطقة سهل الغاب، حيث استخدمت الخوارزميات الجينية في تحديد الهيكلية المثلى للشبكة العصبية الاصطناعية، ثم دربت مجموعة من الشبكات العصبية الاصطناعية وفق الهيكلية الناتجة باستخدام خوارزمية الانتشار العكسي للخطأ ، وذلك بهدف الحصول على أفضل أداء لنماذج الشبكات العصبية الاصطناعية (ANNs) في التنبؤ بالقيم المفقودة للأمطار اليومية، وبالتالي الحصول على سلاسل كاملة للهطل المطري اليومي في منطقة الدراسة. لقد استُخدمت قيم جذر متوسط مربعات الأخطاء ، ومعامل الارتباط لتقييم أداء النماذج والمقارنة فيما بينها وفق مختلف قيم المدخلات والمخرجات للمحطات المطرية (شطحة – عين الكروم – الكريم – السقيلبية) خلال الفترة (2002-1994)، بحيث تحاكي مختلف حالات الفقد الممكنة للبيانات من المحطة الهدف أو المحطات المجاورة، وتوصلت هذه الدراسة إلى نتائج جيدة لجميع النماذج، وتوصي الدراسة بتطبيق الأنظمة الهجينة من نماذج الذكاء الاصطناعي لتحسين كفاءة نماذج التنبؤ بالعناصر المناخية وغيرها من العوامل المتعلقة بالموارد المائية في مناطق مختلفة من سورية.",
+    "readLink": "https://journal.tishreen.edu.sy/index.php/engscnc/article/view/9161"
+  },
+  {
+    "title": "Automatic detection, classification, and quantification of sciaenid fish calls in an estuarine soundscape in the Southeast United States.",
+    "authors": [
+      "Agnieszka Monczak,",
+      "Yiming Ji,",
+      "Jamileh Soueidan,",
+      "Eric W Montie"
+    ],
+    "doi": "https://doi.org/10.1371/journal.pone.0209914",
+    "journalVolume": "Vol. 14,\n                                no. 1\n                                \n                                  p.\n                                  e0209914",
+    "issn": "1932-6203 (Online)",
+    "publisher": "Public Library of Science (PLoS)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://journals.plos.org/plosone/",
+    "abstract": "In the Southeast USA, major contributors to estuarine soundscapes are the courtship calls produced by fish species belonging to the family Sciaenidae. Long-term monitoring of sciaenid courtship sounds may be valuable in understanding reproductive phenology, but this approach produces massive acoustic datasets. With this in mind, we designed a feature-based, signal detector for sciaenid fish calls and tested the efficacy of this detector against manually reviewed data. Acoustic recorders were deployed to collect sound samples for 2 min every 20 min at four stations in the May River estuary, South Carolina, USA from February to November, 2014. Manual analysis of acoustic files revealed that four fish species, belonging to the family Sciaenidae, were the major sound producers in this estuarine soundscape, and included black drum (Pogonias cromis), silver perch (Bairdiella chrysoura), spotted seatrout (Cynoscion nebulosus), and red drum (Sciaenops ocellatus). Recorded calls served as an acoustic library of signature features that were used to create a signal detector to automatically detect, classify, and quantify the number of calls in each acoustic file. Correlation between manual and automatic detection was significant and precision varied from 61% to 100%. Automatic detection provided quantitative data on calling rates for this long-term data set. Positive temperature anomalies increased calling rates of black drum, silver perch, and spotted seatrout, while negative anomalies increased calling rates of red drum. Acoustic monitoring combined with automatic detection could be an additional or alternative method for monitoring sciaenid spawning and changes in phenology associated with climate change.",
+    "readLink": "https://doi.org/10.1371/journal.pone.0209914"
+  },
+  {
+    "title": "Nonlinearly combined impacts of initial perturbation from human activities and parameter perturbation from climate change on the grassland ecosystem",
+    "authors": [
+      "G. Sun,",
+      "M. Mu"
+    ],
+    "doi": "https://doi.org/10.5194/npg-18-883-2011",
+    "journalVolume": "Vol. 18,\n                                no. 6\n                                \n                                  pp.\n                                  883\n                                  – 893",
+    "issn": "1023-5809 (Print)",
+    "publisher": "1607-7946 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.nonlinear-processes-in-geophysics.net/",
+    "abstract": "Human activities and climate change are important factors that affect grassland ecosystems. A new optimization approach, the approach of conditional nonlinear optimal perturbation (CNOP) related to initial and parameter perturbations, is employed to explore the nonlinearly combined impacts of human activities and climate change on a grassland ecosystem using a theoretical grassland model. In our study, it is assumed that the initial perturbations and parameter perturbations are regarded as human activities and climate change, respectively. Numerical results indicate that the climate changes causing the maximum effect in the grassland ecosystem are different under disparate intensities of human activities. This implies the pattern of climate change is very critical to the maintenance or degradation of grassland ecosystem in light of high intensity of human activities and that the grassland ecosystem should be rationally managed when the moisture index decreases. The grassland ecosystem influenced by the nonlinear combination of human activities and climate change undergoes abrupt change, while the grassland ecosystem affected by other types of human activities and climate change fails to show the abrupt change under a certain range of perturbations with the theoretical model. The further numerical analyses also indicate that the growth of living biomass and the evaporation from soil surface shaded by the wilted biomass may be crucial factors contributing to the abrupt change of the grassland equilibrium state within the theoretical model.",
+    "readLink": "http://www.nonlin-processes-geophys.net/18/883/2011/npg-18-883-2011.pdf"
+  },
+  {
+    "title": "The Impact of Healthcare Expenditure and Healthcare Sector Growth on CO2 Emission using Dynamic Panel Data System GMM Estimation Model during COVID 19 Crisis",
+    "authors": [
+      "Irza Hanie Abu Samah,",
+      "Intan Maizura Abd Rashid,",
+      "Wan Ahmad Fauzi Wan Husain,",
+      "Suraiya Ibrahim,",
+      "Hariri Hamzah,",
+      "Mohammad Harith Amlus"
+    ],
+    "doi": "Vol. 10,\n                                no. 6",
+    "issn": "2146-4553 (Online)",
+    "publisher": "EconJournals",
+    "countryOfPublisher": "Türkiye",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences",
+      "Social Sciences: Industries. Land use. Labor: Special industries and trades: Energy industries. Energy policy. Fuel trade"
+    ],
+    "journalUrl": "https://www.econjournals.com/index.php/ijeep",
+    "abstract": "As huge consumers of water and energy, healthcare sector have a significant environmental impact. The healthcare sector is accountable for answering countless the most dangerous effects of climate change and pollution, deadly environmental emissions and other greenhouse gases itself. This study aims to observe empirically the effect of healthcare expenditure and heath sectors growth on Co2 during Covid 19 outbreak in Malaysia. As the world has awakened to the potential risks of Covid 19, there has been a massive effort to add capacity to the healthcare system rapidly. In Malaysia, apart from stressing the need for the public to strictly adhere to the Movement Control Order (MCO), the government an immediate boost in funding for healthcare services through initial stage fiscal policy response to Covid 19 outbreak. This research used Dynamic Panel Data Model also known as longitudinal study. This study explained Dynamic Panel Data System GMM Estimation model is fitting to interpret the outcome, indicate healthcare expenditure and healthcare growth on Covid-19, inflation rate and unemployment rate have significant relationship with CO2 emission. Empirical findings suggest that CO2 emissions policies reforms are required to channelize healthcare sector growth to a more government spending resulting from fiscal policy designed by the government of Malaysia. The regulators of other countries should pull out CO2 emissions policies to achieve sustainable economic growth and health sector growth development. The results provide important information to allow comparisons of the health-care sector with other economic sectors in Malaysia and the global healthcare sector in terms of Co2 emission. In particular, the results are intended to contribute to the understanding of the Co2 emission of national healthcare systems so that policymakers, especially in low-income and middle-income countries, can develop relevant CO2 emissions mitigation policies. Keywords: Covid-19, Fiscal Policy, Healthcare expenditure, healthcare sector growth, CO2 emission, dynamic panel model, Malaysia. JEL Classifications: E31, Q41, Q57 DOI: https://doi.org/10.32479/ijeep.9769",
+    "readLink": "https://www.econjournals.com/index.php/ijeep/article/view/9769"
+  },
+  {
+    "title": "Precipitation Intensity Effects on Groundwater Recharge in the Southwestern United States",
+    "authors": [
+      "Brian F. Thomas,",
+      "Ali Behrangi,",
+      "James S. Famiglietti"
+    ],
+    "doi": "https://doi.org/10.3390/w8030090",
+    "journalVolume": "Vol. 8,\n                                no. 3\n                                \n                                  p.\n                                  90",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Episodic recharge as a result of infrequent, high intensity precipitation events comprises the bulk of groundwater recharge in arid environments. Climate change and shifts in precipitation intensity will affect groundwater continuity, thus altering groundwater recharge. This study aims to identify changes in the ratio of groundwater recharge and precipitation, the R:P ratio, in the arid southwestern United States to characterize observed changes in groundwater recharge attributed to variations in precipitation intensity. Our precipitation metric, precipitation intensity magnification, was used to investigate the relationship between the R:P ratio and precipitation intensity. Our analysis identified significant changes in the R:P ratio concurrent with decreases in precipitation intensity. The results illustrate the importance of precipitation intensity in relation to groundwater recharge in arid regions and provide further insights for groundwater management in nonrenewable groundwater systems and in a changing climate.",
+    "readLink": "http://www.mdpi.com/2073-4441/8/3/90"
+  },
+  {
+    "title": "Dataset of exceptional women directors and carbon information disclosures of global energy companies",
+    "authors": [
+      "Nurshahirah Abd Majid,",
+      "Amar Hisham Jaaffar,",
+      "Jeniboy Kimpah"
+    ],
+    "doi": "Vol. 51\n                                \n                                \n                                  p.\n                                  109650",
+    "issn": "2352-3409 (Online)",
+    "publisher": "Elsevier",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Medicine: Medicine (General): Computer applications to medicine. Medical informatics",
+      "Science: Science (General)"
+    ],
+    "journalUrl": "http://www.journals.elsevier.com/data-in-brief/",
+    "abstract": "Dataset in this article contains solid information on the novel dataset of exceptional women directors (EWDs) and carbon information disclosures (CID) of global energy leading companies. The data presented is related to the research article entitled “The Effect of Women's Leadership on Carbon Disclosure by the Top 100 Global Energy Leaders” [1]. In exploring the degree of EWDs’ and the level of CID, the content analysis technique based on the enhanced scoring indicators were deployed to obtain the data of the 97 companies based on accessible materials from companies’ websites or any associated reports such as sustainability, environmental, annual, or integrated reports within three-year periods (2018 – 2020) for the global energy leading companies which listed in Thomson Reuters Database 2017. Data on EWDs’ engagement and CID are extracted from the available information, reports, and materials. The data are collected based on the enhanced version of the EWD's indicators adapted from Ramon Llorens, García-Meca and Pucheta-Martínez [2], Hillman, Cannella and Paetzold [3], and Jaaffar and Amran [4]. Meanwhile, data collected for CID by using Carbon Disclosures Index (CDI) comprising 90 scores within nine aspects; Strategy and Policy; Climate Change Risks and Opportunities; Corporate GHG Emissions Targets; Company Wide Carbon Footprint; GHG Emissions Change Over Time; Energy-Related Reporting; Emission Reduction Initiatives Implementation; Carbon Emission Accountability; and Quality of Disclosure as suggested by the prior scholars [5–7]. This dataset shed light as an indicator to measure exceptional women director in the energy companies in promoting transparent carbon disclosure performance as well as boosting women leadership involvement and participation in the most polluting sector which aligned with the United Nations Sustainable Development Goals; SDG 5 gender equality, SDG 10 reduced inequality, and SDG 13 climate action.",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S2352340923007357"
+  },
+  {
+    "title": "Anthropisation et maladies à tique : l’exemple de la borréliose de Lyme",
+    "authors": [
+      "Boulanger, Nathalie"
+    ],
+    "doi": "https://doi.org/10.5802/crbiol.115",
+    "issn": "1768-3238 (Online)",
+    "publisher": "Académie des sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Science: Biology (General)"
+    ],
+    "journalUrl": "https://comptes-rendus.academie-sciences.fr/biologies/",
+    "abstract": "Ticks and tick-borne diseases are on the rise throughout the world. The reasons are multifactorial but all associated with human practices, including climate change and socio-economic and eco systemic changes. In the northern hemisphere, Lyme borreliosis and its vector, the tick belonging to the Ixodes ricinus complex, are particularly studied. Changes in forestry and the expansion of certain wild ungulates since the Second World War could explain the increasing presence of this tick in our environment. As it is likely to transmit other microorganisms potentially pathogenic to humans, an integrated multidisciplinary approach to identify human practices promoting its expansion is critical to control the (re)emergence of infectious diseases. Other ticks also benefit from the same anthropised context to increase their numbers in the environment.",
+    "readLink": "https://comptes-rendus.academie-sciences.fr/biologies/articles/10.5802/crbiol.115/"
+  },
+  {
+    "title": "Species‐specific responses to combined water stress and increasing temperatures in two bee‐pollinated congeners (Echium, Boraginaceae)",
+    "authors": [
+      "Charlotte Descamps,",
+      "Sophie Marée,",
+      "Sophie Hugon,",
+      "Muriel Quinet,",
+      "Anne‐Laure Jacquemart"
+    ],
+    "doi": "https://doi.org/10.1002/ece3.6389",
+    "journalVolume": "Vol. 10,\n                                no. 13\n                                \n                                  pp.\n                                  6549\n                                  – 6561",
+    "issn": "2045-7758 (Online)",
+    "publisher": "Wiley",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://onlinelibrary.wiley.com/journal/20457758",
+    "abstract": "Abstract Water stress and increasing temperatures are two main constraints faced by plants in the context of climate change. These constraints affect plant physiology and morphology, including phenology, floral traits, and nectar rewards, thus altering plant–pollinator interactions. We compared the abiotic stress responses of two bee‐pollinated Boraginaceae species, Echium plantagineum, an annual, and Echium vulgare, a biennial. Plants were grown for 5 weeks during their flowering period under two watering regimes (well‐watered and water‐stressed) and three temperature regimes (21, 24, 27°C). We measured physiological traits linked to photosynthesis (chlorophyll content, stomatal conductance, and water use efficiency), and vegetative (leaf number and growth rate) and floral (e.g., flower number, phenology, floral morphology, and nectar production) traits. The physiological and morphological traits of both species were affected by the water and temperature stresses, although the effects were greater for the annual species. Both stresses negatively affected floral traits, accelerating flower phenology, decreasing flower size, and, for the annual species, decreasing nectar rewards. In both species, the number of flowers was reduced by 22%–45% under water stress, limiting the total amount of floral rewards. Under water stress and increasing temperatures, which mimic the effects of climate change, floral traits and resources of bee‐pollinated species are affected and can lead to disruptions of pollination and reproductive success.",
+    "readLink": "https://doi.org/10.1002/ece3.6389"
+  },
+  {
+    "title": "From Complex Regions to Complex Worlds",
+    "authors": [
+      "C. S. Holling"
+    ],
+    "doi": "https://doi.org/10.5751/ES-00612-090111",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  p.\n                                  11",
+    "issn": "1708-3087 (Online)",
+    "publisher": "Resilience Alliance",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologyandsociety.org/",
+    "abstract": "Panarchy focuses on ecological and social systems that change abruptly. Panarchy is the process by which they grow, adapt, transform, and, in the end, collapse. These stages occur at different scales. The back loop of such changes is a critical time and presents critical opportunities for experiment and learning. It is when uncertainties arise and when resilience is tested and established. We now see changes on a global scale that suggest that we are in such a back loop. This article assesses the possibility of using the ideas that are central to panarchy, developed on a regional scale, to help explain the changes that are being brought about on a global scale by the Internet and by climate, economic, and geopolitical changes.",
+    "readLink": "http://www.ecologyandsociety.org/vol9/iss1/art11/"
+  },
+  {
+    "title": "The impact of salps (Salpa thompsoni) on the Antarctic krill population (Euphausia superba): an individual-based modelling study",
+    "authors": [
+      "Bruno Walter Pietzsch,",
+      "Aaron Schmidt,",
+      "Jürgen Groeneveld,",
+      "Dominik Bahlburg,",
+      "Bettina Meyer,",
+      "Uta Berger"
+    ],
+    "doi": "https://doi.org/10.1186/s13717-023-00462-9",
+    "journalVolume": "Vol. 12,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 16",
+    "issn": "2192-1709 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.ecologicalprocesses.com/",
+    "abstract": "Abstract Background Krill (Euphausia superba) and salps (Salpa thompsoni) are key macrozooplankton grazers in the Southern Ocean ecosystem. However, due to differing habitat requirements, both species previously exhibited little spatial overlap. With ongoing climate change-induced seawater temperature increase and regional sea ice loss, salps can now extend their spatial distribution into historically krill-dominated areas and increase rapidly due to asexual reproduction when environmental conditions are favorable. Understanding the potential effects on krill is crucial, since krill is a species of exceptional trophic significance in the Southern Ocean food web. Negative impacts on krill could trigger cascading effects on its predators and prey. To address this question, we combined two individual-based models on salps and krill, which describe the whole life cycle of salp individuals and the dynamic energy budget of individual krill. The resulting new model PEKRIS (PErformance of KRIll vs. Salps) simulates a krill population for 100 years under varying chlorophyll-a concentrations in the presence or absence of salps. Results All of the investigated krill population properties (abundance, mean length, and yearly egg production) were significantly impacted by the presence of salps. On the other hand, salp density was not impacted if krill were present. The medians of krill population properties deviated during variable maximum chlorophyll-a density per year when salps were introduced by − 99.9% (− 234 individuals per 1000 m3) for krill density, − 100% (− 22,062 eggs per 1000 m3) for krill eggs and − 0.9% (− 0.3 mm) for mean length of krill. Conclusions If both species compete for the same food resource in a closed space, salps seem to inhibit krill populations. Further simulation studies should investigate whether this effect prevails if different phytoplankton sizes and consumption preferences of krill are implemented. Furthermore, direct predation of the two species or consumption of krill fecal pellets by salps could change the impact size of the food competition.",
+    "readLink": "https://doi.org/10.1186/s13717-023-00462-9"
+  }
+]

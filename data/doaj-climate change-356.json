@@ -1,0 +1,244 @@
+[
+  {
+    "title": "Climate change impacts on optimal habitat of Stachys inflata medicinal plant in central Iran",
+    "authors": [
+      "Mehdi Shaban,",
+      "Elham Ghehsareh Ardestani,",
+      "Ataollah Ebrahimi,",
+      "Massoud Borhani"
+    ],
+    "doi": "https://doi.org/10.1038/s41598-023-33660-8",
+    "journalVolume": "Vol. 13,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 13",
+    "issn": "2045-2322 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Medicine",
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/srep/",
+    "abstract": "Abstract Stachys inflata Benth. is a perennial shrub plant, with powerful natural antioxidant agents, which is recognized as a famous medicinal plant that is widely applied to treat Infection, Asthma, and Rheumatism. Iran is renowned as a center of diversity for Stachys, however, the ideal habitats of S. inflata in this nation remain unknown. The potential and future distribution of suitable habitats for S. inflata were projected using an ensembles ecological niche model in Isfahan province, Iran. We used occurrence data (using GPS), bioclimatic and topographic variables from the Chelsa and WorldClim databases to model the current and future potential distribution of this valuable species. The results showed that: (i) S. inflata is mainly distributed in the south, southwest, center, and west of the Isfahan province, and the excellent habitats of S. inflata accounted for 14.34% of the 107,000 km2 study area; (ii) mean annual temperature, mean daily temperature of wettest quarter, annual precipitation, and elevation were the four most important variables that affect the distribution of S. inflata, with a cumulative contribution of 56.55%; and (iii) about the half (− 42.36%) of the currently excellent habitats of S. inflata show a tendency to decrease from now to the 2080s, while often the area of other S. inflata habitats increases (the area of unsuitable habitat: 5.83%, the area of low habitat suitability: 24.68%, the area of moderate habitat suitability: 2.66%, and the area of high habitat suitability: 2.88%). The increase in the area of other S. inflata habitats is different and they are less favorable than the excellent habitat. The results help establishing a framework for long-term in-situ and ex-situ conservation and management practices in habitats of S. inflata in rangeland and agricultural ecosystems.",
+    "readLink": "https://doi.org/10.1038/s41598-023-33660-8"
+  },
+  {
+    "title": "A framework for benchmarking of homogenisation algorithm performance on the global scale",
+    "authors": [
+      "K. Willett,",
+      "C. Williams,",
+      "I. T. Jolliffe,",
+      "R. Lund,",
+      "L. V. Alexander,",
+      "S. Brönnimann,",
+      "L. A. Vincent,",
+      "S. Easterbrook,",
+      "V. K. C. Venema,",
+      "D. Berry,",
+      "R. E. Warren,",
+      "G. Lopardo,",
+      "R. Auchmann,",
+      "E. Aguilar,",
+      "M. J. Menne,",
+      "C. Gallagher,",
+      "Z. Hausfather,",
+      "T. Thorarinsdottir,",
+      "P. W. Thorne"
+    ],
+    "doi": "https://doi.org/10.5194/gi-3-187-2014",
+    "journalVolume": "Vol. 3,\n                                no. 2\n                                \n                                  pp.\n                                  187\n                                  – 200",
+    "issn": "2193-0856 (Print)",
+    "publisher": "2193-0864 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Physics: Geophysics. Cosmic physics"
+    ],
+    "journalUrl": "http://www.geoscientific-instrumentation-methods-and-data-systems.net",
+    "abstract": "The International Surface Temperature Initiative (ISTI) is striving towards substantively improving our ability to robustly understand historical land surface air temperature change at all scales. A key recently completed first step has been collating all available records into a comprehensive open access, traceable and version-controlled databank. The crucial next step is to maximise the value of the collated data through a robust international framework of benchmarking and assessment for product intercomparison and uncertainty estimation. We focus on uncertainties arising from the presence of inhomogeneities in monthly mean land surface temperature data and the varied methodological choices made by various groups in building homogeneous temperature products. The central facet of the benchmarking process is the creation of global-scale synthetic analogues to the real-world database where both the \"true\" series and inhomogeneities are known (a luxury the real-world data do not afford us). Hence, algorithmic strengths and weaknesses can be meaningfully quantified and conditional inferences made about the real-world climate system. Here we discuss the necessary framework for developing an international homogenisation benchmarking system on the global scale for monthly mean temperatures. The value of this framework is critically dependent upon the number of groups taking part and so we strongly advocate involvement in the benchmarking exercise from as many data analyst groups as possible to make the best use of this substantial effort.",
+    "readLink": "http://www.geosci-instrum-method-data-syst.net/3/187/2014/gi-3-187-2014.pdf"
+  },
+  {
+    "title": "Location Accuracy Improvement of Long-range Lightning Detection Network In China by Compensating Ground Wave Propagation Delay",
+    "authors": [
+      "Junchao Zhang,",
+      "Jiahao Zhou,",
+      "Jie Li,",
+      "Jiaying Gu,",
+      "Qilin Zhang,",
+      "Bingzhe Dai,",
+      "Yao Wang,",
+      "Jialei Wang,",
+      "Yuqing Zhong,",
+      "Qingda Li"
+    ],
+    "doi": "https://doi.org/10.3390/rs14143397",
+    "journalVolume": "Vol. 14,\n                                no. 3397\n                                \n                                  p.\n                                  3397",
+    "issn": "2072-4292 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/remotesensing/",
+    "abstract": "Very low frequency (VLF) electromagnetic waves distort along the long propagation path, and that causes the arrival time of the signals measured by the long-range lightning system to be delayed. In this paper, based on the propagation correction method by compensating the peak time delay of the ground wave, the location accuracy of the long-range lightning detection network in China is greatly improved. The improvement of the relative location accuracy and location offsets are evaluated by comparing with the Advanced Direction Time Lightning Detection System (ADTD) datasets. It shows that the mean relative accuracy is improved from 7.74 km to 4.32 km, and the median relative accuracy is improved from 7.28 km to 2.46 km. The mean westwards offset of the total lightning location data drops from 2.05 km to 0.93 km, and the mean southwards offset drops from 1.19 km to 0.63 km. In addition, it is found that the location accuracy will be greatly improved if the observation site affected by the terrain is removed. The mean relative location accuracy is further improved to 4.11 km and the median to 2.32 km.",
+    "readLink": "https://www.mdpi.com/2072-4292/14/14/3397"
+  },
+  {
+    "title": "CubeSat Development for Lightning Flashes Detection: RaioSat Project",
+    "authors": [
+      "Antonio Cassiano Julio Filho,",
+      "Auro Tikami,",
+      "Elaine de Souza Ferreira de Paula,",
+      "Jhonathan Murcia Piñeros,",
+      "George Favale Fernandes,",
+      "Lázaro Aparecido Pires Camargo,",
+      "Carlos Alberto Monteiro Barbosa dos Santos,",
+      "Walter Abrahão dos Santos,",
+      "Kleber Pinheiro Naccarato"
+    ],
+    "doi": "https://doi.org/10.5028/jatm.cab.1161",
+    "journalVolume": "Vol. 12,\n                                no. se\n                                \n                                  pp.\n                                  80\n                                  – 93",
+    "issn": "1984-9648 (Print)",
+    "publisher": "2175-9146 (Online)",
+    "countryOfPublisher": "Instituto de Aeronáutica e Espaço (IAE)",
+    "lcc": [
+      "Brazil",
+      "Technology: Motor vehicles. Aeronautics. Astronautics"
+    ],
+    "journalUrl": "http://www.jatm.com.br",
+    "abstract": "Annually, severe weather phenomena are responsible for tens of thousands of deaths and tens of billions of dollars of damage around the world. In Brazil, unlike other hydrometeorological events, severe atmospheric events are random and, therefore, do not have a sociospatial pattern. Because of that, there is a significant motivation to improve the prediction techniques for this kind of events, using high resolution numerical models. A large amount of high-quality observational data is required, including lightning data in a very short-range. In addition, the detection of lightning flashes produced by storms is important for a wide variety of applications and in some areas of scientific research, which include the understanding of the human action on the climate and how the climate change can affect the behavior of storms in long range. One method to monitor the lightning flashes is the implementation of sensors in satellites to obtain data. In this sense, the objective of the RaioSat project is to develop national technology for detecting lightning flashes from the space, in order to complement the existing data from the ground detection network, BrasilDAT. The main objective of this article is to present a methodology for the development of the RaioSat mission including some parts of the preliminary design and operational modes. Additionally, the article describes the expected results and the continuity of the project and a preliminary analysis of a constellation for future projects.",
+    "readLink": "http://www.jatm.com.br/ojs/index.php/jatm/article/view/1161/863"
+  },
+  {
+    "title": "Attribution of Observed Periodicity in Extreme Weather Events in Eastern North America",
+    "authors": [
+      "C. R. Walsh,",
+      "R. T. Patterson"
+    ],
+    "doi": "https://doi.org/10.1029/2022EA002359",
+    "journalVolume": "Vol. 9,\n                                no. 7\n                                \n                                  pp.\n                                  n/a\n                                  – n/a",
+    "issn": "2333-5084 (Online)",
+    "publisher": "American Geophysical Union (AGU)",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Science: Astronomy",
+      "Science: Geology"
+    ],
+    "journalUrl": "http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)2333-5084/",
+    "abstract": "Abstract Instrumental weather records (1880–2020s) from eastern North America were analyzed to characterize the regional patterns and drivers of seasonal extreme weather (snow, rain, high and low temperatures). Using agglomerative hierarchical clustering of extreme weather data, the region was divided into three subregions that are influenced by coastal‐marine gradients and latitudinal factors. Subsequent analyses were performed on high‐quality stations from each subregion and results compared between one another. Long‐term locally weighted linear regressions delineated long‐term changes in extreme weather, and a combination of spectral analysis, continuous wavelet transforms, and cross wavelet transforms were used to identify periodic components in the data. Regional extreme weather is generally periodic, composed of interannual to interdecadal‐scale oscillations and driven by several natural climatic oscillations. The most important such oscillation is the 11‐year Schwabe Solar Cycle, which has a strong and continuous effect on regional extreme weather. The Pacific Decadal Oscillation and Quasi Biennial Oscillation also show considerable influence, but intermittently. The El Niño Southern Oscillation, the Arctic Oscillation, and the North Atlantic Oscillation all have a weaker but interrelated influence. While the Atlantic Multidecadal Oscillation showed the weakest overall influence on regional extreme weather, it demonstrated a clear spatial gradient across the region, unlike the aforementioned oscillations. Long‐term changes in regional extreme weather are not generally important, in that a sustained increase or decrease in extreme weather events is not usually characteristic of the weather records. The primary exception to this result is for extreme minimum temperature events, whose frequency has slightly decreased since the 1880s.",
+    "readLink": "https://doi.org/10.1029/2022EA002359"
+  },
+  {
+    "title": "Human-Induced Alterations to Land Use and Climate and Their Responses for Hydrology and Water Management in the Mekong River Basin",
+    "authors": [
+      "Venkataramana Sridhar,",
+      "Hyunwoo Kang,",
+      "Syed  A. Ali"
+    ],
+    "doi": "https://doi.org/10.3390/w11061307",
+    "journalVolume": "Vol. 11,\n                                no. 6\n                                \n                                  p.\n                                  1307",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "The Mekong River Basin (MRB) is one of the significant river basins in the world. For political and economic reasons, it has remained mostly in its natural condition. However, with population increases and rapid industrial growth in the Mekong region, the river has recently become a hotbed of hydropower development projects. This study evaluated these changing hydrological conditions, primarily driven by climate as well as land use and land cover change between 1992 and 2015 and into the future. A 3% increase in croplands and a 1−2% decrease in grasslands, shrublands, and forests was evident in the basin. Similarly, an increase in temperature of 1−6 °C and in precipitation of 15% was projected for 2015−2099. These natural and climate-induced changes were incorporated into two hydrological models to evaluate impacts on water budget components, particularly streamflow. Wet season flows increased by up to 10%; no significant change in dry season flows under natural conditions was evident. Anomaly in streamflows due to climate change was present in the Chiang Saen and Luang Prabang, and the remaining flow stations showed up to a 5% increase. A coefficient of variation <1 suggested no major difference in flows between the pre- and post-development of hydropower projects. The results suggested an increasing trend in streamflow without the effect of dams, while the inclusion of a few major dams resulted in decreased river streamflow of 6% to 15% possibly due to irrigation diversions and climate change. However, these estimates fall within the range of uncertainties in natural climate variability and hydrological parameter estimations. This study offers insights into the relationship between biophysical and anthropogenic factors and highlights that management of the Mekong River is critical to optimally manage increased wet season flows and decreased dry season flows and handle irrigation diversions to meet the demand for food and energy production.",
+    "readLink": "https://www.mdpi.com/2073-4441/11/6/1307"
+  },
+  {
+    "title": "Assessment of Arctic and Antarctic Sea Ice Condition Differences in the Scope of the Polar Code",
+    "authors": [
+      "Meriç Karahalil,",
+      "Burcu Özsoy"
+    ],
+    "doi": "https://doi.org/10.4274/jems.2021.32448",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  pp.\n                                  31\n                                  – 40",
+    "issn": "2147-2955 (Print)",
+    "publisher": "2148-9386 (Online)",
+    "countryOfPublisher": "Gemi Makinaları İşletme Mühendisleri Odası",
+    "lcc": [
+      "Türkiye",
+      "Naval Science: Naval architecture. Shipbuilding. Marine engineering"
+    ],
+    "journalUrl": "http://www.jemsjournal.org",
+    "abstract": "Polar regions face increasing challenges resulting from the interactions between global climate change, human activities, and economic and political pressures. As the sea ice extent trends diminish, maritime operations have started increasing in these regions. In this respect, an international concern has arisen for the shrinking of sea ice, preserving the environment, and passengers’ and seafarers’ safety. The International Maritime Organization has enforced the Polar Code (PC) for the ships navigating in these challenging Arctic and Antarctic waters. Polar regions are similar in some aspects but exhibit significant differences in geographical conditions, maritime activities, and legal status. Therefore, the PC that applies to both regions should be reconsidered, accounting for the differences between the areas for further development. This study considers the Arctic and Antarctic geographical differences relevant to the PC’s scope. The emphasis is placed on the changes regarding the sea ice extent and sea ice condition differences in the two regions, which are essential in maritime safety. This study also addresses the aspects of the PC that need improvement.",
+    "readLink": "https://jag.journalagent.com/jems/pdfs/JEMS_9_1_31_40.pdf"
+  },
+  {
+    "title": "Global hotspots for the occurrence of compound events",
+    "authors": [
+      "Nina N. Ridder,",
+      "Andy J. Pitman,",
+      "Seth Westra,",
+      "Anna Ukkola,",
+      "Hong X. Do,",
+      "Margot Bador,",
+      "Annette L. Hirsch,",
+      "Jason P. Evans,",
+      "Alejandro Di Luca,",
+      "Jakob Zscheischler"
+    ],
+    "doi": "https://doi.org/10.1038/s41467-020-19639-3",
+    "journalVolume": "Vol. 11,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 10",
+    "issn": "2041-1723 (Online)",
+    "publisher": "Nature Portfolio",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://www.nature.com/ncomms/",
+    "abstract": "Compound climate events such as floods and droughts together can cause severe socio-economic impacts. Here, the authors analyse global hazard pairs from 1980–2014 and find global hotspots for the occurrence of compound events.",
+    "readLink": "https://doi.org/10.1038/s41467-020-19639-3"
+  },
+  {
+    "title": "Drought or/and Heat-Stress Effects on Seed Filling in Food Crops: Impacts on Functional Biochemistry, Seed Yields, and Nutritional Quality",
+    "authors": [
+      "Akanksha Sehgal,",
+      "Kumari Sita,",
+      "Kadambot H. M. Siddique,",
+      "Rakesh Kumar,",
+      "Sailaja Bhogireddy,",
+      "Rajeev K. Varshney,",
+      "Bindumadhava HanumanthaRao,",
+      "Ramakrishnan M. Nair,",
+      "P. V. Vara Prasad,",
+      "Harsh Nayyar"
+    ],
+    "doi": "https://doi.org/10.3389/fpls.2018.01705",
+    "journalVolume": "Vol. 9",
+    "issn": "1664-462X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Agriculture: Plant culture"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/plant-science",
+    "abstract": "Drought (water deficits) and heat (high temperatures) stress are the prime abiotic constraints, under the current and climate change scenario in future. Any further increase in the occurrence, and extremity of these stresses, either individually or in combination, would severely reduce the crop productivity and food security, globally. Although, they obstruct productivity at all crop growth stages, the extent of damage at reproductive phase of crop growth, mainly the seed filling phase, is critical and causes considerable yield losses. Drought and heat stress substantially affect the seed yields by reducing seed size and number, eventually affecting the commercial trait ‘100 seed weight’ and seed quality. Seed filling is influenced by various metabolic processes occurring in the leaves, especially production and translocation of photoassimilates, importing precursors for biosynthesis of seed reserves, minerals and other functional constituents. These processes are highly sensitive to drought and heat, due to involvement of array of diverse enzymes and transporters, located in the leaves and seeds. We highlight here the findings in various food crops showing how their seed composition is drastically impacted at various cellular levels due to drought and heat stresses, applied separately, or in combination. The combined stresses are extremely detrimental for seed yield and its quality, and thus need more attention. Understanding the precise target sites regulating seed filling events in leaves and seeds, and how they are affected by abiotic stresses, is imperative to enhance the seed quality. It is vital to know the physiological, biochemical and genetic mechanisms, which govern the various seed filling events under stress environments, to devise strategies to improve stress tolerance. Converging modern advances in physiology, biochemistry and biotechnology, especially the “omics” technologies might provide a strong impetus to research on this aspect. Such application, along with effective agronomic management system would pave the way in developing crop genotypes/varieties with improved productivity under drought and/or heat stresses.",
+    "readLink": "https://www.frontiersin.org/article/10.3389/fpls.2018.01705/full"
+  },
+  {
+    "title": "A Non-Stationarity Analysis of Annual Maximum Floods: A Case Study of Campaspe River Basin, Australia",
+    "authors": [
+      "Abdullah Gokhan Yilmaz,",
+      "Monzur Alam Imteaz,",
+      "Abdallah Shanableh,",
+      "Rami Al-Ruzouq,",
+      "Serter Atabay,",
+      "Khaled Haddad"
+    ],
+    "doi": "https://doi.org/10.3390/w15203683",
+    "journalVolume": "Vol. 15,\n                                no. 3683\n                                \n                                  p.\n                                  3683",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "A design flood is an essential input for water infrastructure design and flood protection. A flood frequency analysis has been traditionally performed under stationarity assumption indicating that the statistical properties of historical flooding will not change over time. Climate change and variability challenges the stationarity assumption, and a flood frequency analysis without consideration of non-stationarity can result in under- or overestimation of the design floods. In this study, non-stationarity of annual maximum floods (AMFs) was investigated through a methodology consisting of trend and change point tests, and non-stationary Generalized Extreme Value (NSGEV) models, and the methodology was applied to Campaspe River Basin as a case study. Statistically significant decreasing trends in AMFs were detected for almost all stations at the 0.01 significance level in Campaspe River Basin. NSGEV models outperformed the stationary counterparts (SGEV) for some stations based on statistical methods (i.e., Akaike information criterion (AIC) and Bayesian information criterion (BIC)) and graphical approaches (i.e., probability and quantile plots). For example, at Station 406235, AIC and BIC values were found to be 334 and 339, respectively, for the SGEV model, whereas AIC and BIC values were calculated as 330 and 334, respectively, for the NSGEV 15 model with time-varying location and scale parameters. Deriving a design flood from conventional stationary models will result in uneconomical water infrastructure design and poor water resource planning and management in the study basin.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/20/3683"
+  }
+]

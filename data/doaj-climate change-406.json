@@ -1,0 +1,197 @@
+[
+  null,
+  {
+    "title": "Introduction to the Special Issue on World-Systems Analysis and the Anthropocene",
+    "authors": [
+      "Leslie Sklair,",
+      "Michael Warren Murphy"
+    ],
+    "doi": "https://doi.org/10.5195/jwsr.2020.1021",
+    "journalVolume": "Vol. 26,\n                                no. 2",
+    "issn": "1076-156X (Online)",
+    "publisher": "University Library System, University of Pittsburgh",
+    "countryOfPublisher": "United States",
+    "lcc": [
+      "Political science",
+      "Social Sciences"
+    ],
+    "journalUrl": "https://jwsr.pitt.edu/ojs/index.php/jwsr",
+    "abstract": "Across the social sciences and humanities, and in diverse forms of popular media around the world, discourse about the Anthropocene is proliferating. From the plastic particles found in deep sea trenches to the unfolding of Earth’s sixth mass extinction, among many other indicators—notably anthropogenic climate change—it is clear that human impacts may have irreversibly perturbed the planet. This special issue sets out to deepen and broaden the conversation from a world-systems perspective. Building upon a long tradition of scholarship deploying world-systems theory to understand global environmental change, we wish to explore the past, present, and future of the world-system with/in the Anthropocene. In this introduction we first offer prefatory remarks about the Anthropocene (by no means a universally accepted concept) that are meant to help orient readers to debates around the Anthropocene before turning to a summary of the contributions and the themes that emerge in this Special Issue.",
+    "readLink": "http://jwsr.pitt.edu/ojs/jwsr/article/view/1021"
+  },
+  {
+    "title": "A new bias-correction method for precipitation over complex terrain suitable for different climate states: a case study  using WRF (version 3.8.1)",
+    "authors": [
+      "P. Velasquez,",
+      "P. Velasquez,",
+      "M. Messmer,",
+      "M. Messmer,",
+      "M. Messmer,",
+      "C. C. Raible,",
+      "C. C. Raible"
+    ],
+    "doi": "https://doi.org/10.5194/gmd-13-5007-2020",
+    "journalVolume": "Vol. 13\n                                \n                                \n                                  pp.\n                                  5007\n                                  – 5027",
+    "issn": "1991-959X (Print)",
+    "publisher": "1991-9603 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Science: Geology"
+    ],
+    "journalUrl": "https://www.geoscientific-model-development.net/",
+    "abstract": "This work presents a new bias-correction method for precipitation over complex terrain that explicitly considers orographic characteristics. This consideration offers a good alternative to the standard empirical quantile mapping (EQM) method during colder climate states in which the orography strongly deviates from the present-day state, e.g. during glacial conditions such as the Last Glacial Maximum (LGM). Such a method is needed in the event that absolute precipitation fields are used, e.g. as input for glacier modelling or to assess potential human occupation and according migration routes in past climate states. The new bias correction and its performance are presented for Switzerland using regional climate model simulations at 2 km resolution driven by global climate model outputs obtained under perpetual 1990 and LGM conditions. Comparing the present-day regional climate model simulation with observations, we find a strong seasonality and, especially during colder months, a height dependence of the bias in precipitation. Thus, we suggest a three-step correction method consisting of (i) a separation into different orographic characteristics, (ii) correction of very low intensity precipitation, and (iii) the application of an EQM, which is applied to each month separately. We find that separating the orography into 400 m height intervals provides the overall most reasonable correction of the biases in precipitation. The new method is able to fully correct the seasonal precipitation bias induced by the global climate model. At the same time, some regional biases remain, in particular positive biases over high elevated areas in winter and negative biases in deep valleys and Ticino in winter and summer. A rigorous temporal and spatial cross-validation with independent data exhibits robust results. The new bias-correction method certainly leaves some drawbacks under present-day conditions. However, the application to the LGM demonstrates that it is a more appropriate correction compared to the standard EQM under highly different climate conditions as the latter imprints present-day orographic features into the LGM climate.",
+    "readLink": "https://gmd.copernicus.org/articles/13/5007/2020/gmd-13-5007-2020.pdf"
+  },
+  {
+    "title": "Effects of Incorporating Measured Leaf Optical Properties in Land Surface Models",
+    "authors": [
+      "Wenzong Dong,",
+      "Hua Yuan,",
+      "Ruqing Zhang,",
+      "Hongmei Li,",
+      "Lina Huang,",
+      "Siguang Zhu,",
+      "Jingman Peng,",
+      "Yongjiu Dai"
+    ],
+    "doi": "https://doi.org/10.3389/feart.2021.663917",
+    "journalVolume": "Vol. 9",
+    "issn": "2296-6463 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.frontiersin.org/earth_science",
+    "abstract": "Leaf optical properties (LOPs, i.e., leaf reflectance and transmittance), as a fundamental property of vegetation, are a key parameter in the canopy radiative transfer process. LOPs have a direct impact on the surface solar radiation partition and further affect surface flux exchanges. Recent works have provided reliable LOP data and mentioned that notable differences exist between the prescribed LOP values in current land surface models and measured LOP values, especially in the near-infrared (NIR) band. To evaluate the effects of different LOP values in land surface modeling, we ran two land surface models (the Community Land Model and the Common Land Model) with their default prescribed and measured values to examine the differences in simulated surface radiation partitions and fluxes. Our analyses show that differences in LOP values can lead to a large discrepancy in albedo, radiation partition, sensible heat flux and net radiation simulations. By using the measured LOP values, in the boreal forest zone, Southeast China, and the eastern United States, both models have a significantly increased surface albedo in the NIR band, with the difference exceeding 10% during JJA. Thus, the measured LOP values can improve the negative albedo bias in the boreal forest zone during summertime. Moreover, both models simulate less net radiation with a maximum reduction of 11 W/m2 when incorporating the measured LOP values. Therefore, the total sensible heat flux can be reduced by as much as 11 W/m2. The results of this study emphasize that different LOP values can have a considerable effect on the surface radiation budget and sensible heat flux simulations which need attention in land surface model development. However, in current offline simulations, the measured LOP values cause slight changes in land surface temperatures and gross primary productivity (GPP).",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/feart.2021.663917/full"
+  },
+  {
+    "title": "Biochar standardization and legislation harmonization",
+    "authors": [
+      "Sebastian Meyer,",
+      "Lorenzo Genesio,",
+      "Ines Vogel,",
+      "Hans-Peter Schmidt,",
+      "Gerhard Soja,",
+      "Edward Someus,",
+      "Simon Shackley,",
+      "Frank G. A Verheijen,",
+      "Bruno Glaser"
+    ],
+    "doi": "https://doi.org/10.3846/16486897.2016.1254640",
+    "journalVolume": "Vol. 25,\n                                no. 2",
+    "issn": "1648-6897 (Print)",
+    "publisher": "1822-4199 (Online)",
+    "countryOfPublisher": "Vilnius Gediminas Technical University",
+    "lcc": [
+      "Lithuania",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering"
+    ],
+    "journalUrl": "https://journals.vilniustech.lt/index.php/JEELM",
+    "abstract": "It is a relatively new concept to use biochar as soil amendment and for climate change mitigation. For this reason, the national and supranational legislation in the EU is not yet adequately prepared to regulate both the production and the application of biochar. Driven by this “regulatory gap”, voluntary biochar quality standards have been formed in Europe with the European Biochar Certificate, in the UK with the Biochar Quality Mandate and in the USA with the IBI Standard which is intended to be used internationally. In parallel to this, biochar producers and biochar users in a number of EU countries were partly successful in fitting the new biochar product into the existing national legislation for fertilisers, soil improvers and composts. The intended revision of the EC Regulation 2003/2003 on fertilisers offers the opportunity to regulate the use of biochar at the EU level. This publication summarizes the efforts on biochar standardization which have been carried out by voluntary products standards and illustrates existing legislation in EU member states, which apply to the production and use of biochar. It describes existing and planned EU regulations, which impact biochar applications and it develops recommendations on the harmonization of biochar legislation in the EU. First published online: 24 Jan 2017",
+    "readLink": "http://journals.vgtu.lt/index.php/JEELM/article/view/1627"
+  },
+  {
+    "title": "Dynamics of litterfall in pine-beech stands and its changes under the influence of uniform shelterwood felling in the Lviv Roztocze region",
+    "authors": [
+      "Volodymyr Yakhnytskyi,",
+      "Hryhoriy Krynytskyy"
+    ],
+    "doi": "https://doi.org/10.15421/412026",
+    "journalVolume": "no. 21\n                                \n                                  pp.\n                                  60\n                                  – 67",
+    "issn": "1991-606X (Print)",
+    "publisher": "2616-5015 (Online)",
+    "countryOfPublisher": "Ukrainian National Forestry University",
+    "lcc": [
+      "Ukraine",
+      "Agriculture: Forestry"
+    ],
+    "journalUrl": "http://fasu.nltu.edu.ua",
+    "abstract": "Quantitative and qualitative indicators of precipitation depend on many factors such as the composition of plant species, forestry activities, seasonal features of the year, climate and soil hydrological features in the region, etc. Of particular importance for the formation of litter-fall is the stand and its silvicultural and taxonomic features, which are the main component of the forest. In this work, the peculiarities of the annual dynamics of litterfall accumulation and its structural fractions are characterized (pine needles, beech leaves, leaves of accompanying breeds, branches, bark, pine cones, beechnuts, beechnut cupules, seeds of accompanying breeds) and their changes after the first methods of shelter wood felling of the main-use is unique in composition and limited in distribution pine-beech forests in Lviv Roztocze region. It was found that, depending on the biometric indicators of mature pine-beech stands, the annual rainfall is usually 5-6 t / ha in a dehydrated state. The largest share of litterfall in the annual cycle is beech leaves (29.5-36.8%) and much smaller pine needles (20.8-25.6%). Quite significant in the composition of the precipitation is the mass of branches (12.4-14.7%), pine cones (10.5-11.7%), tree bark (6.6-9.0%), and beechnut cupules (3,6-10.6%). A small share of litterfall is represented by beech nuts (1.7-4.3%) and leaves of accompanying breeds (0.4-1.7%) and the smallest by seeds of accompanying breeds (0.01-0.13%). The largest mass of litterfall is formed in October (35.6-44.6%) due to defoliation, mainly beech. A significant amount of dead phytomass also falls in September (14.1-16.2%) and in the autumn-winter-spring period (November - March, 19.3-19.7%). A small increase in litterfall accumulation in the pine-beech stands of Lviv Roztocze is also typical in May (8.4-14.3%). In September, the main share of litterfall is formed by pine needles and beech leaves, and in fruitful years it is also represented by beech nuts and beechnut cupules; in the autumn-winter-spring period - branches, pine needles, the bark of beech and beechnut cupules; in May - pine branches and cones. The lowest amount of phytomass falls in April (about 2.0 %). During this period, the main components of litterfall are represented by pine branches, bark, cones, and pine needles. A small share of litterfall is also observed in July (2.9-3,7%) and August (2.7-3.7%), formed mainly by the fall of cones, bark and pine needles. In general, in pine-beech stands of Lviv Roztocze, about 60% of organic matter falls in autumn, in winter, and spring up to 15% and in summer – 11.0-13.0%. The annual dynamics of accumulation of individual litterfall fractions in pine-beech forests are ambiguous. It depends on the functioning and role of the relevant organs in the life of trees. The largest mass of pine needles falls in September (29.0-33.2%) or in October (26.4-40.2%), beech leaves and accompanying breeds in October (84.5-87.4 and 81.0-81.2% respectively), branches in winter (38.9-63.6%) or in May (13.1-45.3%), bark in winter (39.7-43.1%), pine cones in May and June (26.7-38.0 and 28.7-38.8% respectively), beech nuts in September (54.2-58.7%), beechnut cupules in September and winter (17.9-23.2 and 40.7-53.0% respectively), seeds of accompanying breeds in October (57.1-70.7%). The smallest amount of litterfall of different fractions of trees phytomass also occurs in different periods of the annual cycle. Pine needles, beech leaves and accompanying breeds fall at a minimum amount in April, branches - in August, tree bark - in April, August and October, pine cones - in October, beech nuts - from April to July, beechnut cupules - in June and July, the seeds of accompanying breeds - from April to August. The most identical and close to the total mass of litterfall's annual accumulation patterns are the annual dynamics of pine needle litter, beech leaves, and leaves of accompanying breeds. The annual dynamics of litterfall of beech branches, bark and nuts, and seeds of accompanying breeds are similar. The annual dynamics of pine cones and beechnut cupules are different, both among themselves and other fractions. The impact of shelterwood feelings of the main-use on the litterfall accumulation is closely related to their organizational and technical indicators, particularly the intensity of feeling. After the first stage of shelterwood uniform felling, the annual mass of litterfall decreased to 44.3%, and group-shelterwood felling – to 62.1% compared to the control, while the annual dynamics of litterfall and its fractions after felling did not change significantly. Simultaneously, it should be noted that felling improves the light supply of deciduous species, which form mainly the second layer of trees and stimulate their fruiting. As a result, in the section of shelterwood uniform felling, the share of beech nuts in the total mass of litterfall, compared with the control, increased 1.3 times, and the beechnut cupules – 1.1 times. In the group- shelterwood felling section, the number of beechnuts and beechnut cupules increased 2.1 times, and the number of seeds of accompanying breeds – 2.9 times compared to the control values.",
+    "readLink": "http://fasu.nltu.edu.ua/index.php/nplanu/article/view/622"
+  },
+  {
+    "title": "Metabolic Consequences of Developmental Exposure to Polystyrene Nanoplastics, the Flame Retardant BDE-47 and Their Combination in Zebrafish",
+    "authors": [
+      "Raphaël Chackal,",
+      "Tyler Eng,",
+      "Emille M. Rodrigues,",
+      "Sara Matthews,",
+      "Florence Pagé-Lariviére,",
+      "Stephanie Avery-Gomm,",
+      "Elvis Genbo Xu,",
+      "Nathalie Tufenkji,",
+      "Eva Hemmer,",
+      "Jan A. Mennigen"
+    ],
+    "doi": "https://doi.org/10.3389/fphar.2022.822111",
+    "journalVolume": "Vol. 13",
+    "issn": "1663-9812 (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Medicine: Therapeutics. Pharmacology"
+    ],
+    "journalUrl": "http://journal.frontiersin.org/journal/pharmacology",
+    "abstract": "Single-use plastic production is higher now than ever before. Much of this plastic is released into aquatic environments, where it is eventually weathered into smaller nanoscale plastics. In addition to potential direct biological effects, nanoplastics may also modulate the biological effects of hydrophobic persistent organic legacy contaminants (POPs) that absorb to their surfaces. In this study, we test the hypothesis that developmental exposure (0–7 dpf) of zebrafish to the emerging contaminant polystyrene (PS) nanoplastics (⌀100 nm; 2.5 or 25 ppb), or to environmental levels of the legacy contaminant and flame retardant 2,2′,4,4′-Tetrabromodiphenyl ether (BDE-47; 10 ppt), disrupt organismal energy metabolism. We also test the hypothesis that co-exposure leads to increased metabolic disruption. The uptake of nanoplastics in developing zebrafish was validated using fluorescence microscopy. To address metabolic consequences at the organismal and molecular level, metabolic phenotyping assays and metabolic gene expression analysis were used. Both PS and BDE-47 affected organismal metabolism alone and in combination. Individually, PS and BDE-47 exposure increased feeding and oxygen consumption rates. PS exposure also elicited complex effects on locomotor behaviour with increased long-distance and decreased short-distance movements. Co-exposure of PS and BDE-47 significantly increased feeding and oxygen consumption rates compared to control and individual compounds alone, suggesting additive or synergistic effects on energy balance, which was further supported by reduced neutral lipid reserves. Conversely, molecular gene expression data pointed to a negative interaction, as co-exposure of high PS generally abolished the induction of gene expression in response to BDE-47. Our results demonstrate that co-exposure to emerging nanoplastic contaminants and legacy contaminants results in cumulative metabolic disruption in early development in a fish model relevant to eco- and human toxicology.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fphar.2022.822111/full"
+  },
+  null,
+  {
+    "title": "Assessment of real-time bioaerosol particle counters using reference chamber experiments",
+    "authors": [
+      "G. Lieberherr,",
+      "K. Auderset,",
+      "B. Calpini,",
+      "B. Clot,",
+      "B. Crouzy,",
+      "M. Gysel-Beer,",
+      "T. Konzelmann,",
+      "J. Manzano,",
+      "J. Manzano,",
+      "A. Mihajlovic,",
+      "A. Moallemi,",
+      "D. O'Connor,",
+      "D. O'Connor,",
+      "B. Sikoparija,",
+      "E. Sauvageat,",
+      "E. Sauvageat,",
+      "F. Tummon,",
+      "K. Vasilatou"
+    ],
+    "doi": "https://doi.org/10.5194/amt-14-7693-2021",
+    "journalVolume": "Vol. 14\n                                \n                                \n                                  pp.\n                                  7693\n                                  – 7706",
+    "issn": "1867-1381 (Print)",
+    "publisher": "1867-8548 (Online)",
+    "countryOfPublisher": "Copernicus Publications",
+    "lcc": [
+      "Germany",
+      "Technology: Engineering (General). Civil engineering (General): Environmental engineering",
+      "Technology: Engineering (General). Civil engineering (General): Earthwork. Foundations"
+    ],
+    "journalUrl": "http://www.atmospheric-measurement-techniques.net/home.html",
+    "abstract": "This study presents the first reference calibrations of three commercially available bioaerosol detectors. The Droplet Measurement Technologies WIBS-NEO (new version of the wideband integrated bioaerosol spectrometer), Plair Rapid-E, and Swisens Poleno were compared with a primary standard for particle number concentrations at the Federal Institute for Metrology (METAS). Polystyrene (PSL) spheres were used to assess absolute particle counts for diameters from 0.5 to 10 µm. For the three devices, counting efficiency was found to be strongly dependent on particle size. The results confirm the expected detection range for which the instruments were designed. While the WIBS-NEO achieves its highest efficiency with smaller particles, e.g. 90 % for 0.9 µm diameter, the Plair Rapid-E performs best for larger particles, with an efficiency of 58 % for particles with a diameter of 10 µm. The Swisens Poleno is also designed for larger particles but operates well from 2 µm. However, the exact counting efficiency of the Poleno could not be evaluated as the cut-off diameter range of the integrated concentrator unit was not completely covered. In further experiments, three different types of fluorescent particles were tested to investigate the fluorescent detection capabilities of the Plair Rapid-E and the Swisens Poleno. Both instruments showed good agreement with the reference data. While the challenge to produce known concentrations of larger particles above 10 µm or even fresh pollen particles remains, the approach presented in this paper provides a potential standardised validation method that can be used to assess counting efficiency and fluorescence measurements of automatic bioaerosol monitoring devices.",
+    "readLink": "https://amt.copernicus.org/articles/14/7693/2021/amt-14-7693-2021.pdf"
+  },
+  {
+    "title": "Linking Climate-Change Impacts on Hydrological Processes and Water Quality to Local Watersheds",
+    "authors": [
+      "Ying Ouyang,",
+      "Sudhanshu Sekhar Panda,",
+      "Gary Feng"
+    ],
+    "doi": "https://doi.org/10.3390/cli10070096",
+    "journalVolume": "Vol. 10,\n                                no. 96\n                                \n                                  p.\n                                  96",
+    "issn": "2225-1154 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/climate",
+    "abstract": "Estimation of hydrological processes and water quality is central to water resource management, clean water supply, environmental protection, and ecological services [...]",
+    "readLink": "https://www.mdpi.com/2225-1154/10/7/96"
+  }
+]

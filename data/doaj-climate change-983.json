@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Climate change adaptation challenges confronting small-scale farmers",
+    "authors": [
+      "Davison Mugiya,",
+      "Costa Hofisi"
+    ],
+    "doi": "https://doi.org/10.21511/ee.08(1).2017.06",
+    "journalVolume": "Vol. 8,\n                                no. 1\n                                \n                                  pp.\n                                  57\n                                  – 65",
+    "issn": "1998-6041 (Print)",
+    "publisher": "1998-605X (Online)",
+    "countryOfPublisher": "LLC \"CPC \"Business Perspectives\"",
+    "lcc": [
+      "Ukraine",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "https://businessperspectives.org/journals/environmental-economics?category_id=30",
+    "abstract": "Climate change adaptation issues have recently gained attention for the past few years in Zimbabwe. However, little has been done to explore the challenges, associated with climate change in the country. Therefore, this article explores the challenges affecting small-scale farmers in the Zvishavane District of Zimbabwe in coping with climate change vulnerability. The qualitative research methodology encompassing semi-structured interviews was used to collect data from small-scale farmers and other key informants in the study area. The study portrays that small-scale farmers are struggling to cope with climate change due to resource constraints, lack of access to credit and inputs, aid bottlenecks coupled with contradiction of programs among other critical issues.",
+    "readLink": "https://businessperspectives.org/images/pdf/applications/publishing/templates/article/assets/8604/EE_2017_01_Mugiya.pdf"
+  },
+  {
+    "title": "Network resilience of mutualistic ecosystems and environmental changes: an empirical study",
+    "authors": [
+      "Ellie Nagaishi,",
+      "Kazuhiro Takemoto"
+    ],
+    "doi": "https://doi.org/10.1098/rsos.180706",
+    "journalVolume": "Vol. 5,\n                                no. 9",
+    "issn": "2054-5703 (Online)",
+    "publisher": "The Royal Society",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Science"
+    ],
+    "journalUrl": "https://royalsocietypublishing.org/journal/rsos",
+    "abstract": "It is theorized that a mutualistic ecosystem's resilience against perturbations (e.g. species extinction) is determined by a single macroscopic parameter (network resilience), calculable from the network. Given that such perturbations occur owing to environmental changes (e.g. climate change and human impact), it has been predicted that mutualistic ecosystems that exist despite extensive environmental changes exhibit higher network resilience; however, such a prediction has not been confirmed using real-world data. Thus, in this study, the effects of climate change velocity and human activities on mutualistic network resilience were investigated. A global dataset of plant–animal mutualistic networks was used, and spatial analysis was performed to examine the effects. Moreover, the potential confounding effects of network size, current climate and altitude were statistically controlled. It was demonstrated that mutualistic network resilience was globally influenced by warming velocity and human impact, in addition to current climate. Specifically, pollination network resilience increased in response to human impact, and seed-dispersal network resilience increased with warming velocity. The effect of environmental changes on network resilience for plants was remarkable. The results confirmed the prediction obtained based on the theory and imply that real-world mutualistic networks have a structure that increases ecosystem resilience against environmental changes. These findings will enhance the understanding of ecosystem resilience.",
+    "readLink": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.180706"
+  },
+  {
+    "title": "Wet snow detection using dual-polarized Sentinel-1 SAR time series data considering different land categories",
+    "authors": [
+      "Chang Liu,",
+      "Zhen Li,",
+      "Ping Zhang,",
+      "Lei Huang,",
+      "Zhixian Li,",
+      "Shuo Gao"
+    ],
+    "doi": "https://doi.org/10.1080/10106049.2022.2043450",
+    "journalVolume": "Vol. 37,\n                                no. 25\n                                \n                                  pp.\n                                  10907\n                                  – 10924",
+    "issn": "1010-6049 (Print)",
+    "publisher": "1752-0762 (Online)",
+    "countryOfPublisher": "Taylor & Francis Group",
+    "lcc": [
+      "United Kingdom",
+      "Geography. Anthropology. Recreation: Physical geography"
+    ],
+    "journalUrl": "https://www.tandfonline.com/tgei",
+    "abstract": "Snowmelt is a natural water resource, and its distribution is essential for understanding regional climate change and hydrological cycle. In this study, using dual-polarized C-band Sentinel-1 SAR data, we propose a new wet snow detection algorithm that considers the effects of radar incidence angle, land cover types and topography for snow regions where prairie snow is the main snow cover type. We quantitatively evaluate the performance of the proposed method by optical-derived snow maps. The results show that (1) the overall accuracy of the proposed method is 80.8% (dry snow reference) and 79.0% (snow-free reference); while using a conventional threshold of −2 dB, the accuracy is 32.1% and 43.5%, respectively; (2) −2 dB can only be applied on the ratio image calculated by the snow-free reference to extract wet snow in cropland; (3) adding topographic information greatly improves the identification accuracy, especially for grassland and barren with higher topographic complexity.",
+    "readLink": "http://dx.doi.org/10.1080/10106049.2022.2043450"
+  },
+  {
+    "title": "Water Balance of the Regulated Arid Lake as an Indicator of Climate Change and Anthropogenic Impact: The North (Small) Aral Sea Case Study",
+    "authors": [
+      "Alexander Izhitskiy,",
+      "Georgy Ayzel"
+    ],
+    "doi": "https://doi.org/10.3390/w15081464",
+    "journalVolume": "Vol. 15,\n                                no. 1464\n                                \n                                  p.\n                                  1464",
+    "issn": "2073-4441 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Hydraulic engineering",
+      "Technology: Environmental technology. Sanitary engineering: Water supply for domestic and industrial purposes"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/water/",
+    "abstract": "Inland waters in the endorheic basins of the arid zone are especially vulnerable to both climate-induced changes and anthropogenic influence. The North Aral Sea, which previously suffered a drastic shrinkage and partially recovered with the launch of the human-made Kokaral dam, is currently subject to significant inter-annual variability of its water volume. This study aimed to obtain insight into the modern water balance condition of the lake and to project the possible changes in it. A series of model simulation experiments were implemented based on three representative concentration pathway (RCP) scenarios with varying maximum lake surface levels, determined by the dam. Present-day dam conditions showed the possibility to retain the lake volume above 26 km3 under the RCP 2.6 and 6.0 scenarios. Simulations under the RCP 8.5 scenario revealed significant instability of the lake volume and a well-shown decrease in the outflow amount. A possible human-made increase in terms of the lake surface level up to 48.5 m.a.s.l. may allow for the retention of the volume in the range of 48–50 km3 in the RCP 2.6 case. The RCP 6.0 and 8.5 scenarios revealed a lake volume decrease and almost full cessation of the Kokaral outflow toward the end of the 21st century.",
+    "readLink": "https://www.mdpi.com/2073-4441/15/8/1464"
+  },
+  {
+    "title": "Sequential Non-<i>Saccharomyces</i> and <i>Saccharomyces cerevisiae</i> Fermentations to Reduce the Alcohol Content in Wine",
+    "authors": [
+      "Margarita García,",
+      "Braulio Esteve-Zarzoso,",
+      "Juan  Mariano Cabellos,",
+      "Teresa Arroyo"
+    ],
+    "doi": "https://doi.org/10.3390/fermentation6020060",
+    "journalVolume": "Vol. 6,\n                                no. 60\n                                \n                                  p.\n                                  60",
+    "issn": "2311-5637 (Online)",
+    "publisher": "MDPI AG",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Technology: Chemical technology: Fermentation industries. Beverages. Alcohol"
+    ],
+    "journalUrl": "http://www.mdpi.com/journal/fermentation",
+    "abstract": "Over the last decades, the average alcohol content of wine has increased due to climate change and consumer preferences for particular wine styles that resulted in increased grape sugar levels at harvest. Therefore, alcohol reduction is a current challenge in the winemaking industry. Among several strategies under study, the use of non-conventional yeasts in combination with Saccharomyces cerevisiae plays an important role for lowering ethanol production in wines nowadays. In the present work, 33 native non-Saccharomyces strains were assayed in sequential culture with a S. cerevisiae wine strain to determine their potential for reducing the alcohol content in Malvar white wines. Four of the non-Saccharomyces strains (Wickerhamomyces anomalus 21A-5C, Meyerozyma guilliermondii CLI 1217, and two Metschnikowia pulcherrima (CLI 68 and CLI 460)) studied in sequential combination with S. cerevisiae CLI 889 were best able to produce dry wines with decreased alcohol proportion in comparison with one that was inoculated only with S. cerevisiae. These sequential fermentations produced wines with between 0.8% (v/v) and 1.3% (v/v) lower ethanol concentrations in Malvar wines, showing significant differences compared with the control. In addition, these combinations provided favorable oenological characteristics to wines such as high glycerol proportion, volatile higher alcohols, and esters with fruity and sweet character.",
+    "readLink": "https://www.mdpi.com/2311-5637/6/2/60"
+  },
+  {
+    "title": "Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh",
+    "authors": [
+      "Laura E. Agusto,",
+      "Guoming Qin,",
+      "Benoit Thibodeau,",
+      "Jianwu Tang,",
+      "Jingfan Zhang,",
+      "Jinge Zhou,",
+      "Jingtao Wu,",
+      "Lulu Zhang,",
+      "Poonam Thapa,",
+      "Faming Wang,",
+      "Stefano Cannicci"
+    ],
+    "doi": "Vol. 144\n                                \n                                \n                                  p.\n                                  109538",
+    "issn": "1470-160X (Print)",
+    "publisher": "1872-7034 (Online)",
+    "countryOfPublisher": "Elsevier",
+    "lcc": [
+      "United Kingdom",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "https://www.sciencedirect.com/journal/ecological-indicators",
+    "abstract": "Saltmarshes are important global carbon (C) sinks, but the considerable uncertainty in the C budget and the underlying mechanisms limit the estimation of greenhouse gas emissions (GHG, e.g., CO2 and CH4) in the context of global climate change. To ascertain the mechanistic understanding, we assessed how crab burrows morphology and greenhouse gas effluxes changed in response to interactions of fiddler crab burrow density, soil organic matter content (high vs low), and presence/absence of Spartina alterniflora (vegetated saltmarsh vs nearby unvegetated mudflat) on the coast of New England (USA). The crab burrow volume in the vegetated saltmarsh was smaller than that in the mudflat, and crab burrow volume greatly correlated with soil CO2 efflux, indicating that crab activities could enhance coastal wetland CO2 efflux. Soil CO2 and CH4 effluxes rates were significantly positively correlated with crab burrow density, organic matter content, and vegetation types. Specifically, the higher soil organic matter content and crab burrow density greatly increased soil heterotrophic respiration in the saltmarsh. Overall, with crab disturbances, soil CO2 and CH4 efflux increased by 32.1% and 47.9%, respectively. This study highlights that fiddler crab burrowing activity plays an important role in the C sequestration of coastal blue C ecosystems (BCEs).",
+    "readLink": "http://www.sciencedirect.com/science/article/pii/S1470160X22010111"
+  },
+  {
+    "title": "Selection of an Ensemble of Atmospheric and Oceanic General Circulation Models of the CMIP-6 Project for estimating possible runoff changes in the Volga and Kama basins",
+    "authors": [
+      "Sidorova Maria,",
+      "Alieva Maria,",
+      "Shtol Ekaterina,",
+      "Oderkova Aleksandra,",
+      "Yasinsky Sergey"
+    ],
+    "doi": "https://doi.org/10.1051/e3sconf/202340702011",
+    "journalVolume": "Vol. 407\n                                \n                                \n                                  p.\n                                  02011",
+    "issn": "2267-1242 (Online)",
+    "publisher": "EDP Sciences",
+    "countryOfPublisher": "France",
+    "lcc": [
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.e3s-conferences.org/",
+    "abstract": "In modern conditions of climate change and increasing pressure on water resources, river forecasting is becoming one of the urgent tasks of rational water use. The main tool for long-term climate characteristics prediction are the Atmospheric and Oceanic General Circulation Models (AOGCM). In this paper, we assessed the quality of a number of climatic characteristics by the CMIP-6 (Coupled Model Intercomparison Project, Phase 6) AOGCMs for the Volga and Kama basins in order to access the possibility of their use to river runoff in the 21st century forecasting. A comparison was made of the data produced by the models for the period 1985-2014 and ERA5 reanalysis data (temperature and precipitation) as well as with observational data on river runoff. The reproduction error of the average values, standard deviations, and the coincidence of series trends evaluated. It is shown that the models demonstrate very different quality of the reproduction of water balance characteristics results. When using these models to predict possible changes in river flow in the future, it is necessary to take into account these uncertainties and apply methods to reduce the impact of systematic errors.",
+    "readLink": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/44/e3sconf_apeem2023_02011.pdf"
+  },
+  {
+    "title": "Climate change enhanced the positive contribution of human activities to net ecosystem productivity from 1983 to 2018",
+    "authors": [
+      "Min Liu,",
+      "Min Liu,",
+      "Xiaoyong Bai,",
+      "Xiaoyong Bai,",
+      "Xiaoyong Bai,",
+      "Qiu Tan,",
+      "Guangjie Luo,",
+      "Cuiwei Zhao,",
+      "Luhua Wu,",
+      "Luhua Wu,",
+      "Luhua Wu,",
+      "Fei Chen,",
+      "Fei Chen,",
+      "Fei Chen,",
+      "Chaojun Li,",
+      "Chaojun Li,",
+      "Chaojun Li,",
+      "Yujie Yang,",
+      "Chen Ran,",
+      "Chen Ran,",
+      "Xuling Luo,",
+      "Xuling Luo,",
+      "Sirui Zhang,",
+      "Sirui Zhang"
+    ],
+    "doi": "https://doi.org/10.3389/fevo.2022.1101135",
+    "journalVolume": "Vol. 10",
+    "issn": "2296-701X (Online)",
+    "publisher": "Frontiers Media S.A.",
+    "countryOfPublisher": "Switzerland",
+    "lcc": [
+      "Science: Biology (General): Evolution",
+      "Science: Biology (General): Ecology"
+    ],
+    "journalUrl": "http://www.frontiersin.org/ecology_and_evolution",
+    "abstract": "IntroductionAccurate assessment of the net ecosystem productivity (NEP) is very important for understanding the global carbon balance. However, it remains unknown whether climate change (CC) promoted or weakened the impact of human activities (HA) on the NEP from 1983 to 2018.MethodsHere, we quantified the contribution of CC and HA to the global NEP under six different scenarios based on a boosted regression tree model and sensitivity analysis over the last 40 years.Results and discussionThe results show that (1) a total of 69% of the areas showed an upward trend in the NEP, with HA and CC controlled 36.33 and 32.79% of the NEP growth, respectively. The contribution of HA (HA_con) far exceeded that of CC by 6.4 times. (2) The CO2 concentration had the largest positive contribution (37%) to NEP and the largest influence area (32.5%). It made the most significant contribution to the NEP trend in the range of 435–440 ppm. In more than 50% of the areas, the main loss factor was solar radiation (SR) in any control area of the climate factors. (3) Interestingly, CC enhanced the positive HA_con to the NEP in 44% of the world, and in 25% of the area, the effect was greater than 50%. Our results shed light on the optimal range of each climatic factor for enhancing the NEP and emphasize the important role of CC in enhancing the positive HA_con to the NEP found in previous studies.",
+    "readLink": "https://www.frontiersin.org/articles/10.3389/fevo.2022.1101135/full"
+  },
+  {
+    "title": "Waste heat: the dominating root cause of current global warming",
+    "authors": [
+      "Qinghan Bian"
+    ],
+    "doi": "https://doi.org/10.1186/s40068-020-00169-2",
+    "journalVolume": "Vol. 9,\n                                no. 1\n                                \n                                  pp.\n                                  1\n                                  – 11",
+    "issn": "2193-2697 (Online)",
+    "publisher": "SpringerOpen",
+    "countryOfPublisher": "United Kingdom",
+    "lcc": [
+      "Technology: Environmental technology. Sanitary engineering",
+      "Geography. Anthropology. Recreation: Environmental sciences"
+    ],
+    "journalUrl": "http://www.environmentalsystemsresearch.com/",
+    "abstract": "Abstract Background Pursuing GHG reductions by means of all resources and efforts has turned out no result to stop or even slow the global warming: the globe still gets warmer and warmer, especially in the recent years, at record-breaking rate almost each single year. Additionally, no definitive relationship has been found between the warming and the atmospheric GHG concentration. The link between them even in IPCC’s report lacks support and is unconvincing. All these imply that something else is responsible for the warming. On the other hand, huge amount of residual heat or waste heat from human activities has been poured into the climate system but has not been considered seriously in the context of global warming or climate change. Results This article features deploying the basic principles of thermodynamics and applying a new model, Equivalent Climate Change Model, to analyse the currently available data on world energy consumption between 1965 and 2017, and to study the relation between the global warming and the waste heat entered the climate system. The results show that the temperature changes in air, oceans and land are definitively correlated to the respective heat allocated from the waste heat stream based on their specific heat capacities, with high certainty and reliability. The observed anomalies in air fall within a range of simulations at an equivalent climate change surface air boundary layer depth between 50 and 100 m (60 ~ 100 m in recent decades due to more establishments of high-rising heat discharging sources); the anomalies in oceans fall within a range of simulations at an equivalent climate change waters surface boundary layer depth between 0.10 and 0.20 m (0.125 ~ 0.20 m in recent decades); and the anomalies in land fall within a range of simulations at an equivalent climate change land surface boundary layer depth between 0.05 and 0.10 m (0.06 ~ 0.10 m in recent decades). The simulation results at the air layer depth of 70 m are almost the same as NASA’s Lowess smoothing trend. Forecast of future global warming based on this model under the scenario of business as usual indicates that the possible air temperature risings will be in the range of 0.68 ~ 1.13 °C in 2030 and 0.73 ~ 1.22 °C in 2040; the possible sea temperature risings will be in the range of 0.61 ~ 0.98 °C in 2030, 0.66 ~ 1.05 °C in 2040; and the possible land temperature risings will be in the range of 1.02 ~ 1.71 °C in 2030, 1.10 ~ 1.84 °C in 2040. However, if the energy conversion efficiency increased by 10% by 2030 and another 10% by 2040, then the possible air temperature risings would be in the range of 0.54 ~ 0.90 °C in 2030 and 0.44 ~ 0.73 °C in 2040; the possible sea temperature risings would be in the range of 0.49 ~ 0.78 °C in 2030, and 0.40 ~ 0.64 °C in 2040; and the possible land temperature risings would be in the range of 0.81 ~ 1.36 °C in 2030 and 0.66 ~ 1.11 °C in 2040. The observed global average air temperature changes and the Lowess Smoothing values in 2018 and 2019 fall within the range set by the air layer depth between 60 and 100 m, are consistent with the forecast under the scenario of business as usual, further confirms the reliability of this approach. Conclusions Greenhouse gases are not the culprit of the current global warming, instead, huge amount of residual heat or waste heat discharged into the environment from human activities has dominated the warming (beside of solar irradiance and volcano eruptions). Pursuing GHG reductions is bound to be ineffective in preventing the globe from further warming but increases unnecessary burdens. Switching to 100% of surface renewable energies is the ideal solution to completely solve further warming problem. However, geotherm does cause global warming although it is a type of renewable energy. Increasing energy’s conversion efficiency can effectively help slow down the warming, it requires vast investment and will embrace breakthroughs in technologies. Changing human’s behavior individually and socially and retrofitting can decrease the energy consumption and the amount of heat entering the environment and thus help mitigate climate change and its impact in the most cost-effective way. Unlike the General Circulation Models that can only simulate the past air temperature changes with greater uncertainty, the Equivalent Climate Change Model can not only trace the past temperature changes in air, oceans and land, but also can predict the future changes in them, respectively, with high certainty and reliability.",
+    "readLink": "http://link.springer.com/article/10.1186/s40068-020-00169-2"
+  },
+  {
+    "title": "The impacts of formative system on the landslides of Iran",
+    "authors": [
+      "Mojgan Entezari Najafabadi,",
+      "Somayeh Shahzeidi,",
+      "Masoumeh Rashidi"
+    ],
+    "doi": "Vol. 2,\n                                no. 3\n                                \n                                  pp.\n                                  945\n                                  – 950",
+    "issn": "1923-9335 (Print)",
+    "publisher": "1923-9343 (Online)",
+    "countryOfPublisher": "Growing Science",
+    "lcc": [
+      "Canada",
+      "Social Sciences: Commerce: Business: Business records management"
+    ],
+    "journalUrl": "http://growingscience.com/msl/msl.html",
+    "abstract": "Landslide is one of the most challenging disasters on the earth, which is believed to cause other natural catastrophic incidents. Normally, in studying landslide we investigate different influencing factors such as gender land, atmospheric rainfall, gradients’ change, earthquake, volcanic eruption, subterranean water vibration, and human causes in the form of different models. These facts are blamed as the main share in appearing this phenomenon. However, correlative and sufficient condition for genesis such a phenomenon is historical base of lands’ bed, which needs specific formative process. There are several studies focused on distribution and dispersion of slides and their reasons. In this paper, we investigate the behavior of landslide and its effects on instigating instabilities. The preliminary results indicate that distribution of this phenomenon is associated with climate from a side and historical formative process on the other side. The weather condition of Iran is divided into four groups of cold, hot, humid and humid hot hole. Every region has its own special geomorphic properties and either directly or indirectly affects on landslide occurrence. In order to study this effect, we use Arc GIS 9.3 software dispersal map of Iran’s main landslides and formative systems on the other side and by local analyzing these two collections are evaluated based on their vicinity relationship using local-statistical techniques. Results of this research shows that the main part of this landslide occurs in cold hole and humid hole and only about 8 percent are happens in hot holl. In addition, density of landslides are more in thermodynamic bound of cold and hot hole as well as cold and humid hole.",
+    "readLink": "http://www.growingscience.com/msl/Vol2/msl_2011_138.pdf"
+  }
+]

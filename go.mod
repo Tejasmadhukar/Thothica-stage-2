@@ -2,9 +2,10 @@ module github.com/Tejasmadhukar/Thothica-stage-2
 
 go 1.21.0
 
+require github.com/advancedlogic/GoOse v0.0.0-20230923151002-b0edce1b52f8
+
 require (
 	github.com/PuerkitoBio/goquery v1.4.1 // indirect
-	github.com/advancedlogic/GoOse v0.0.0-20230923151002-b0edce1b52f8 // indirect
 	github.com/andybalholm/cascadia v1.0.0 // indirect
 	github.com/araddon/dateparse v0.0.0-20180729174819-cfd92a431d0e // indirect
 	github.com/fatih/set v0.2.1 // indirect

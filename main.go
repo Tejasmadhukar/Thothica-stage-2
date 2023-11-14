@@ -8,7 +8,8 @@ import (
 	"os"
 	"sync"
 
-	goose "github.com/advancedlogic/GoOse"
+	goose "github.com/Tejasmadhukar/GoOse"
+	"github.com/fatih/color"
 )
 
 const (
@@ -32,7 +33,7 @@ type Article struct {
 	Title_URL string
 }
 
-func process_article(obj map[string]interface{}, wg *sync.WaitGroup) {
+func process_article(obj map[string]interface{}) {
 	defer wg.Done()
 
 	read_link := obj["readLink"].(string)
@@ -41,8 +42,7 @@ func process_article(obj map[string]interface{}, wg *sync.WaitGroup) {
 	article, err := g.ExtractFromURL(read_link)
 	if err != nil {
 		bad_articles += 1
-		fmt.Println("Could not get article titled", title)
-		fmt.Println(err)
+		color.Red(read_link)
 		return
 	}
 
@@ -57,7 +57,7 @@ func process_article(obj map[string]interface{}, wg *sync.WaitGroup) {
 	jsonArticle, err := json.Marshal(finalArticle)
 	if err != nil {
 		bad_articles += 1
-		fmt.Println("Could not Marshal article", title, "to json")
+		color.Red("Could not Marshal article", title, "to json")
 		return
 	}
 
@@ -66,8 +66,7 @@ func process_article(obj map[string]interface{}, wg *sync.WaitGroup) {
 	file, err := os.Create(newFilePath)
 	if err != nil {
 		bad_articles += 1
-		fmt.Println("Error creating file for", title)
-		fmt.Println(err)
+		color.Red(err.Error())
 		return
 	}
 
@@ -84,6 +83,7 @@ func process_article(obj map[string]interface{}, wg *sync.WaitGroup) {
 	}
 
 	writer.Flush()
+	color.Green(title)
 }
 
 func main() {
@@ -127,7 +127,7 @@ func main() {
 			}
 
 			wg.Add(1)
-			go process_article(obj, &wg)
+			go process_article(obj)
 
 		}
 	}

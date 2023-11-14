@@ -13,8 +13,9 @@ import (
 )
 
 const (
-	input_dir  = "./data"
-	output_dir = "./output"
+	input_dir   = "./data"
+	output_dir  = "./output"
+	maxRoutines = 5
 )
 
 var (
@@ -23,6 +24,8 @@ var (
 	data           []map[string]interface{}
 	g              = goose.New()
 	wg             sync.WaitGroup
+	routineChannel = make(chan struct{}, maxRoutines)
+	mu             sync.Mutex
 )
 
 type Article struct {
@@ -36,54 +39,66 @@ type Article struct {
 func process_article(obj map[string]interface{}) {
 	defer wg.Done()
 
-	read_link := obj["readLink"].(string)
-	title := obj["title"].(string)
+	routineChannel <- struct{}{}
 
-	article, err := g.ExtractFromURL(read_link)
-	if err != nil {
-		bad_articles += 1
-		color.Red(read_link)
-		return
-	}
+	defer func() {
+		read_link := obj["readLink"].(string)
+		title := obj["title"].(string)
 
-	finalArticle := &Article{
-		Title:     title,
-		Content:   article.CleanedText,
-		Author:    obj["authors"].([]interface{}),
-		Publisher: obj["publisher"].(string),
-		Title_URL: article.FinalURL,
-	}
+		article, err := g.ExtractFromURL(read_link)
+		if err != nil {
+			bad_articles += 1
+			color.Red(read_link)
+			<-routineChannel
+			return
+		}
 
-	jsonArticle, err := json.Marshal(finalArticle)
-	if err != nil {
-		bad_articles += 1
-		color.Red("Could not Marshal article", title, "to json")
-		return
-	}
+		finalArticle := &Article{
+			Title:     title,
+			Content:   article.CleanedText,
+			Author:    obj["authors"].([]interface{}),
+			Publisher: obj["publisher"].(string),
+			Title_URL: article.FinalURL,
+		}
 
-	newFilePath := output_dir + "/" + title + ".json"
+		jsonArticle, err := json.Marshal(finalArticle)
+		if err != nil {
+			bad_articles += 1
+			color.Red("Could not Marshal article", title, "to json")
+			<-routineChannel
+			return
+		}
 
-	file, err := os.Create(newFilePath)
-	if err != nil {
-		bad_articles += 1
-		color.Red(err.Error())
-		return
-	}
+		newFilePath := output_dir + "/" + title + ".json"
 
-	defer file.Close()
+		mu.Lock()
+		defer mu.Unlock()
 
-	writer := bufio.NewWriter(file)
+		file, err := os.Create(newFilePath)
+		if err != nil {
+			bad_articles += 1
+			color.Red(err.Error())
+			<-routineChannel
+			return
+		}
 
-	_, err = writer.Write(jsonArticle)
-	if err != nil {
-		fmt.Println("Error writing json to file", title)
-		bad_articles += 1
-		fmt.Println(err)
-		return
-	}
+		defer file.Close()
 
-	writer.Flush()
-	color.Green(title)
+		writer := bufio.NewWriter(file)
+
+		_, err = writer.Write(jsonArticle)
+		if err != nil {
+			fmt.Println("Error writing json to file", title)
+			bad_articles += 1
+			fmt.Println(err)
+			<-routineChannel
+			return
+		}
+
+		writer.Flush()
+		color.Green(read_link)
+		<-routineChannel
+	}()
 }
 
 func main() {
@@ -128,11 +143,11 @@ func main() {
 
 			wg.Add(1)
 			go process_article(obj)
-
 		}
 	}
 
 	wg.Wait()
+	close(routineChannel)
 
 	fmt.Println(total_articles, bad_articles)
 }

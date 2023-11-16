@@ -36,7 +36,7 @@ type Article struct {
 	Title_URL string
 }
 
-func process_article(obj map[string]interface{}, wg *sync.WaitGroup) {
+func process_article(obj map[string]interface{}) {
 
 	routineChannel <- struct{}{}
 
@@ -137,9 +137,8 @@ func main() {
 					continue Loop
 				}
 			}
-
 			wg.Add(1)
-			go process_article(obj, &wg)
+			go process_article(obj)
 		}
 	}
 

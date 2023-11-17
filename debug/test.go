@@ -10,12 +10,43 @@ import (
 	"os"
 
 	"github.com/headzoo/surf/agent"
+	"github.com/ledongthuc/pdf"
 	"gopkg.in/headzoo/surf.v1"
 )
 
 var (
 	bow = surf.NewBrowser()
 )
+
+func readPdf(path string) string {
+	f, r, err := pdf.Open(path)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer f.Close()
+
+	content := ""
+
+	totalPage := r.NumPage()
+
+	for pageIndex := 1; pageIndex <= totalPage; pageIndex++ {
+		p := r.Page(pageIndex)
+		if p.V.IsNull() {
+			continue
+		}
+
+		rows, _ := p.GetTextByRow()
+		for _, row := range rows {
+			for _, word := range row.Content {
+				content += word.S + " "
+			}
+			content += "\n"
+		}
+	}
+
+	return content
+}
 
 func Handledoi() {
 	bow.SetUserAgent(agent.Chrome())
@@ -48,15 +79,21 @@ func downloadPdf(url, filepath string) {
 		log.Fatal(err)
 	}
 
-	fmt.Println("d&s successfully")
+	fmt.Println("Download good")
 }
 
 func Test() {
 	url := "https://cp.copernicus.org/articles/17/2031/2021/cp-17-2031-2021.pdf"
 
 	downloadPdf(url, "test.pdf")
+	content := readPdf("test.pdf")
+	fmt.Println(content)
+	err := os.Remove("test.pdf")
+	if err != nil {
+		log.Fatal("Error deleting pdf", err)
+	}
 
-	return 
+	return
 
 	tr := &http.Transport{
 		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},

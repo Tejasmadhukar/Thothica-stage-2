@@ -11,6 +11,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.4.1 // indirect
 	github.com/andybalholm/cascadia v1.0.0 // indirect
 	github.com/araddon/dateparse v0.0.0-20180729174819-cfd92a431d0e // indirect
+	github.com/dslipak/pdf v0.0.1 // indirect
 	github.com/fatih/set v0.2.1 // indirect
 	github.com/gigawattio/window v0.0.0-20180317192513-0f5467e35573 // indirect
 	github.com/go-resty/resty/v2 v2.0.0 // indirect

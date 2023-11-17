@@ -17,7 +17,7 @@ import (
 const (
 	input_dir   = "./data"
 	output_dir  = "./output"
-	maxRoutines = 100
+	maxRoutines = 500
 )
 
 var (
@@ -76,7 +76,9 @@ func process_article(obj map[string]interface{}) {
 
 	resp, err := client.Get(read_link)
 	if err != nil {
-		log.Fatal(err)
+		bad_articles += 1
+		color.Red(read_link)
+		return
 	}
 
 	defer resp.Body.Close()

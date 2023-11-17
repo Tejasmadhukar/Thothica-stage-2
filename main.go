@@ -9,13 +9,14 @@ import (
 	"sync"
 
 	goose "github.com/Tejasmadhukar/GoOse"
+	deb "github.com/Tejasmadhukar/Thothica-stage-2/debug"
 	"github.com/fatih/color"
 )
 
 const (
 	input_dir   = "./data"
 	output_dir  = "./output"
-	maxRoutines = 5
+	maxRoutines = 1000
 )
 
 var (
@@ -37,71 +38,70 @@ type Article struct {
 }
 
 func process_article(obj map[string]interface{}) {
-	defer wg.Done()
 
 	routineChannel <- struct{}{}
 
 	defer func() {
-		read_link := obj["readLink"].(string)
-		title := obj["title"].(string)
-
-		article, err := g.ExtractFromURL(read_link)
-		if err != nil {
-			bad_articles += 1
-			color.Red(read_link)
-			<-routineChannel
-			return
-		}
-
-		finalArticle := &Article{
-			Title:     title,
-			Content:   article.CleanedText,
-			Author:    obj["authors"].([]interface{}),
-			Publisher: obj["publisher"].(string),
-			Title_URL: article.FinalURL,
-		}
-
-		jsonArticle, err := json.Marshal(finalArticle)
-		if err != nil {
-			bad_articles += 1
-			color.Red("Could not Marshal article", title, "to json")
-			<-routineChannel
-			return
-		}
-
-		newFilePath := output_dir + "/" + title + ".json"
-
-		mu.Lock()
-		defer mu.Unlock()
-
-		file, err := os.Create(newFilePath)
-		if err != nil {
-			bad_articles += 1
-			color.Red(err.Error())
-			<-routineChannel
-			return
-		}
-
-		defer file.Close()
-
-		writer := bufio.NewWriter(file)
-
-		_, err = writer.Write(jsonArticle)
-		if err != nil {
-			fmt.Println("Error writing json to file", title)
-			bad_articles += 1
-			fmt.Println(err)
-			<-routineChannel
-			return
-		}
-
-		writer.Flush()
-		color.Green(read_link)
+		wg.Done()
 		<-routineChannel
 	}()
+
+	read_link := obj["readLink"].(string)
+	title := obj["title"].(string)
+
+	article, err := g.ExtractFromURL(read_link)
+	if err != nil {
+		bad_articles += 1
+		color.Red(read_link)
+		return
+	}
+
+	finalArticle := &Article{
+		Title:     title,
+		Content:   article.CleanedText,
+		Author:    obj["authors"].([]interface{}),
+		Publisher: obj["publisher"].(string),
+		Title_URL: article.FinalURL,
+	}
+
+	jsonArticle, err := json.Marshal(finalArticle)
+	if err != nil {
+		bad_articles += 1
+		color.Red("Could not Marshal article", title, "to json")
+		return
+	}
+
+	newFilePath := output_dir + "/" + title + ".json"
+
+	mu.Lock()
+	defer mu.Unlock()
+
+	file, err := os.Create(newFilePath)
+	if err != nil {
+		bad_articles += 1
+		color.Red(err.Error())
+		return
+	}
+
+	defer file.Close()
+
+	writer := bufio.NewWriter(file)
+
+	_, err = writer.Write(jsonArticle)
+	if err != nil {
+		fmt.Println("Error writing json to file", title)
+		bad_articles += 1
+		fmt.Println(err)
+		return
+	}
+
+	writer.Flush()
+	color.Green(read_link)
 }
 
 func main() {
+	deb.Test()
+	return
 	fmt.Println("Reading files from", input_dir)
 
 	files, err := os.ReadDir(input_dir)
@@ -140,7 +140,6 @@ func main() {
 					continue Loop
 				}
 			}
-
 			wg.Add(1)
 			go process_article(obj)
 		}

@@ -14,6 +14,7 @@ require (
 	github.com/fatih/set v0.2.1 // indirect
 	github.com/gigawattio/window v0.0.0-20180317192513-0f5467e35573 // indirect
 	github.com/go-resty/resty/v2 v2.0.0 // indirect
+	github.com/headzoo/surf v1.0.1 // indirect
 	github.com/jaytaylor/html2text v0.0.0-20180606194806-57d518f124b0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
@@ -24,4 +25,5 @@ require (
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.14.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
+	gopkg.in/headzoo/surf.v1 v1.0.1 // indirect
 )

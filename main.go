@@ -9,13 +9,14 @@ import (
 	"sync"
 
 	goose "github.com/Tejasmadhukar/GoOse"
+	deb "github.com/Tejasmadhukar/Thothica-stage-2/debug"
 	"github.com/fatih/color"
 )
 
 const (
 	input_dir   = "./data"
 	output_dir  = "./output"
-	maxRoutines = 100
+	maxRoutines = 1000
 )
 
 var (
@@ -99,6 +100,8 @@ func process_article(obj map[string]interface{}) {
 }
 
 func main() {
+	deb.Test()
+	return
 	fmt.Println("Reading files from", input_dir)
 
 	files, err := os.ReadDir(input_dir)

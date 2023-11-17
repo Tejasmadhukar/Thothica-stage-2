@@ -29,7 +29,7 @@ var (
 )
 
 func process_article(obj map[string]interface{}) {
-
+	defer wg.Done()
 	defer func() {
 		if r := recover(); r != nil {
 			fmt.Println("Recovered from panic:", r)
@@ -41,7 +41,6 @@ func process_article(obj map[string]interface{}) {
 	routineChannel <- struct{}{}
 
 	defer func() {
-		wg.Done()
 		<-routineChannel
 	}()
 

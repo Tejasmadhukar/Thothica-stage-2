@@ -18,8 +18,12 @@ github.com/go-resty/resty/v2 v2.0.0 h1:9Nq/U+V4xsoDnDa/iTrABDWUCuk3Ne92XFHPe6dKW
 github.com/go-resty/resty/v2 v2.0.0/go.mod h1:dZGr0i9PLlaaTD4H/hoZIDjQ+r6xq8mgbRzHZf7f2J8=
 github.com/headzoo/surf v1.0.1 h1:wk3+LT8gjnCxEwfBJl6MhaNg154En5KjgmgzAG9uMS0=
 github.com/headzoo/surf v1.0.1/go.mod h1:/bct0m/iMNEqpn520y01yoaWxsAEigGFPnvyR1ewR5M=
+github.com/headzoo/ut v0.0.0-20181013193318-a13b5a7a02ca h1:utFgFwgxaqx5OthzE3DSGrtOq7rox5r2sxZ2wbfTuK0=
+github.com/headzoo/ut v0.0.0-20181013193318-a13b5a7a02ca/go.mod h1:8926sG02TCOX4RFRzIMFIzRw4xuc/TwO2gtN7teMJZ4=
 github.com/jaytaylor/html2text v0.0.0-20180606194806-57d518f124b0 h1:xqgexXAGQgY3HAjNPSaCqn5Aahbo5TKsmhp8VRfr1iQ=
 github.com/jaytaylor/html2text v0.0.0-20180606194806-57d518f124b0/go.mod h1:CVKlgaMiht+LXvHG173ujK6JUhZXKb2u/BQtjPDIvyk=
+github.com/ledongthuc/pdf v0.0.0-20220302134840-0c2507a12d80 h1:6Yzfa6GP0rIo/kULo2bwGEkFvCePZ3qHDDTC3/J9Swo=
+github.com/ledongthuc/pdf v0.0.0-20220302134840-0c2507a12d80/go.mod h1:imJHygn/1yfhB7XSJJKlFZKl/J+dCPAknuiaGOshXAs=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
 github.com/mattn/go-colorable v0.1.13/go.mod h1:7S9/ev0klgBDR4GtXTXX8a3vIGJpMovkB8vQcUbaXHg=
 github.com/mattn/go-isatty v0.0.16/go.mod h1:kYGgaQfpe5nmfYZH+SKPsOc2e4SrIfOl2e/yFXSvRLM=

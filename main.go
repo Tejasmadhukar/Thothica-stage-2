@@ -1,43 +1,42 @@
 package main
 
 import (
-	"bufio"
+	"crypto/tls"
 	"encoding/json"
 	"fmt"
 	"log"
+	"net/http"
 	"os"
+	"regexp"
 	"sync"
 
-	goose "github.com/Tejasmadhukar/GoOse"
-	deb "github.com/Tejasmadhukar/Thothica-stage-2/debug"
+	utils "github.com/Tejasmadhukar/Thothica-stage-2/utils"
 	"github.com/fatih/color"
 )
 
 const (
 	input_dir   = "./data"
 	output_dir  = "./output"
-	maxRoutines = 1000
+	maxRoutines = 100
 )
 
 var (
 	total_articles = 0
 	bad_articles   = 0
 	data           []map[string]interface{}
-	g              = goose.New()
 	wg             sync.WaitGroup
 	routineChannel = make(chan struct{}, maxRoutines)
-	mu             sync.Mutex
 )
 
-type Article struct {
-	Title     string
-	Content   string
-	Author    []interface{}
-	Publisher string
-	Title_URL string
-}
-
 func process_article(obj map[string]interface{}) {
+
+	defer func() {
+		if r := recover(); r != nil {
+			fmt.Println("Recovered from panic:", r)
+			bad_articles += 1
+			return
+		}
+	}()
 
 	routineChannel <- struct{}{}
 
@@ -47,61 +46,62 @@ func process_article(obj map[string]interface{}) {
 	}()
 
 	read_link := obj["readLink"].(string)
-	title := obj["title"].(string)
 
-	article, err := g.ExtractFromURL(read_link)
+	urlPattern := `^(https?://)?(dx\.)?doi\.org/`
+
+	re, err := regexp.Compile(urlPattern)
+	if err != nil {
+		log.Fatal("Wrong regex")
+	}
+
+	if re.MatchString(read_link) {
+		newLink, err := utils.Handledoi(read_link)
+		if err != nil {
+			bad_articles += 1
+			color.Red(read_link)
+			return
+		}
+
+		obj["readLink"] = newLink.String()
+		read_link = newLink.String()
+	}
+
+	tr := &http.Transport{
+		TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+	}
+
+	client := &http.Client{
+		Transport: tr,
+	}
+
+	resp, err := client.Get(read_link)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer resp.Body.Close()
+
+	if resp.Header["Content-Type"][0] == "application/pdf" {
+		err = utils.HandlePdf(obj, resp)
+		if err != nil {
+			bad_articles += 1
+			color.Red(read_link)
+			return
+		}
+		return
+	}
+
+	err = utils.HandleHtml(resp, obj)
 	if err != nil {
 		bad_articles += 1
 		color.Red(read_link)
 		return
 	}
 
-	finalArticle := &Article{
-		Title:     title,
-		Content:   article.CleanedText,
-		Author:    obj["authors"].([]interface{}),
-		Publisher: obj["publisher"].(string),
-		Title_URL: article.FinalURL,
-	}
-
-	jsonArticle, err := json.Marshal(finalArticle)
-	if err != nil {
-		bad_articles += 1
-		color.Red("Could not Marshal article", title, "to json")
-		return
-	}
-
-	newFilePath := output_dir + "/" + title + ".json"
-
-	mu.Lock()
-	defer mu.Unlock()
-
-	file, err := os.Create(newFilePath)
-	if err != nil {
-		bad_articles += 1
-		color.Red(err.Error())
-		return
-	}
-
-	defer file.Close()
-
-	writer := bufio.NewWriter(file)
-
-	_, err = writer.Write(jsonArticle)
-	if err != nil {
-		fmt.Println("Error writing json to file", title)
-		bad_articles += 1
-		fmt.Println(err)
-		return
-	}
-
-	writer.Flush()
 	color.Green(read_link)
 }
 
 func main() {
-	deb.Test()
-	return
 	fmt.Println("Reading files from", input_dir)
 
 	files, err := os.ReadDir(input_dir)

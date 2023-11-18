@@ -4,9 +4,17 @@ import (
 	"bufio"
 	"encoding/json"
 	"os"
+	"sync"
+)
+
+var (
+	mu sync.Mutex
 )
 
 func SaveArticle(finalArticle *Article, path string) error {
+
+	mu.Lock()
+	defer mu.Unlock()
 
 	jsonArticle, err := json.Marshal(finalArticle)
 	if err != nil {

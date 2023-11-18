@@ -19,7 +19,7 @@ func HandleHtml(Response *http.Response, obj map[string]interface{}) error {
 
 	buf.ReadFrom(Response.Body)
 
-	article, err := g.ExtractFromRawHTML(buf.String(), "")
+	article, err := g.ExtractFromRawHTML(buf.String(), read_link)
 	if err != nil {
 		return err
 	}

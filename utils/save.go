@@ -12,14 +12,13 @@ var (
 )
 
 func SaveArticle(finalArticle *Article, path string) error {
-
-	mu.Lock()
-	defer mu.Unlock()
-
 	jsonArticle, err := json.Marshal(finalArticle)
 	if err != nil {
 		return err
 	}
+
+	mu.Lock()
+	defer mu.Unlock()
 
 	file, err := os.Create(path)
 	if err != nil {

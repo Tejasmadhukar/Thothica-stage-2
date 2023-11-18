@@ -24,8 +24,7 @@ var (
 	total_articles = 0
 	bad_articles   = 0
 	data           []map[string]interface{}
-	wg             sync.WaitGroup
-	routineChannel = make(chan struct{}, maxRoutines)
+	LimiterChannel = make(chan struct{}, maxRoutines)
 )
 
 func process_article(obj map[string]interface{}) {
@@ -96,6 +95,7 @@ func process_article(obj map[string]interface{}) {
 }
 
 func main() {
+	var wg sync.WaitGroup
 	fmt.Println("Reading files from", input_dir)
 
 	files, err := os.ReadDir(input_dir)
@@ -135,18 +135,18 @@ func main() {
 				}
 			}
 
-			routineChannel <- struct{}{}
+			LimiterChannel <- struct{}{}
 			wg.Add(1)
 			go func(obj map[string]interface{}) {
 				process_article(obj)
-				<-routineChannel
+				<-LimiterChannel
 				wg.Done()
 			}(obj)
 		}
 	}
 
 	wg.Wait()
-	close(routineChannel)
+	close(LimiterChannel)
 
 	fmt.Println(total_articles, bad_articles)
 }

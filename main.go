@@ -29,19 +29,12 @@ var (
 )
 
 func process_article(obj map[string]interface{}) {
-	defer wg.Done()
 	defer func() {
 		if r := recover(); r != nil {
 			fmt.Println("Recovered from panic:", r)
 			bad_articles += 1
 			return
 		}
-	}()
-
-	routineChannel <- struct{}{}
-
-	defer func() {
-		<-routineChannel
 	}()
 
 	read_link := obj["readLink"].(string)
@@ -141,8 +134,14 @@ func main() {
 					continue Loop
 				}
 			}
+
+			routineChannel <- struct{}{}
 			wg.Add(1)
-			go process_article(obj)
+			go func(obj map[string]interface{}) {
+				process_article(obj)
+				<-routineChannel
+				wg.Done()
+			}(obj)
 		}
 	}
 
